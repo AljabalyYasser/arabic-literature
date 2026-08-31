@@ -1,0 +1,57 @@
+{
+  "era": {
+    "id": "abbasid",
+    "name": "العصر العباسي",
+    "periodHijri": "132–656هـ",
+    "periodGregorian": "750–1258م",
+    "distanceFromPresent": "بدأ قبل نحو 1276 سنة من عام 2026م",
+    "summary": "نبذة مترابطة عن العصر",
+    "essentialPoints": ["نقطة أساسية 1", "نقطة أساسية 2"],
+    "poetIds": ["al-mutanabbi"],
+    "featuredPoemIds": ["ala-qadr-ahl-al-azm"]
+  },
+  "poet": {
+    "id": "al-mutanabbi",
+    "name": "أبو الطيب المتنبي",
+    "fullName": "أحمد بن الحسين الجعفي الكندي",
+    "eraId": "abbasid",
+    "born": "303هـ / 915م تقريبًا",
+    "died": "354هـ / 965م",
+    "summary": "نبذة الشاعر",
+    "features": ["سمة 1", "سمة 2"],
+    "poemIds": ["ala-qadr-ahl-al-azm"]
+  },
+  "poem": {
+    "id": "ala-qadr-ahl-al-azm",
+    "title": "على قدر أهل العزم تأتي العزائم",
+    "poetId": "al-mutanabbi",
+    "eraId": "abbasid",
+    "meter": "الطويل",
+    "rhyme": "بيانات القافية",
+    "occasion": "مناسبة القصيدة",
+    "summary": "فكرتها العامة",
+    "verseIds": ["mutanabbi-azm-001"],
+    "sourceIds": ["source-id"],
+    "attribution": {
+      "grade": "ثابت / راجح / مختلف فيه / منسوب",
+      "note": "سبب الحكم أو تنبيه التحقيق"
+    }
+  },
+  "verse": {
+    "id": "mutanabbi-azm-001",
+    "poemId": "ala-qadr-ahl-al-azm",
+    "order": 1,
+    "sadr": "صدر البيت",
+    "ajuz": "عجز البيت",
+    "analysis": {
+      "meaning": "المعنى",
+      "vocabulary": [{"term": "لفظة", "explanation": "شرحها"}],
+      "grammar": "النحو",
+      "morphology": "الصرف",
+      "rhetoric": "البلاغة وأثرها",
+      "prosody": "العروض والقافية",
+      "criticism": "ملاحظة نقدية"
+    },
+    "sourceIds": ["source-id"]
+  }
+}
