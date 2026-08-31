@@ -1,0 +1,195 @@
+<!doctype html>
+<html lang="ar" dir="rtl">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+  <meta name="theme-color" content="#100b08">
+  <meta name="author" content="Yasser Ahmed">
+  <meta name="description" content="نسخة أولى ثابتة من مرجع تفاعلي للشعر والأدب العربي: مسار عام، شاعر، قصيدة، شرح الأبيات، منهج التحقيق ومواضع الخلاف.">
+  <title>الشعر والأدب العربي — V1</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Readex+Pro:wght@300;400;500;600;700&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="assets/styles.css?v=1">
+</head>
+<body>
+  <header class="hero">
+    <div class="wrap hero-grid">
+      <div class="hero-content">
+        <span class="eyebrow">مرجع شخصي تفاعلي للشعر والأدب العربي</span>
+        <h1>
+          <span class="hero-title-main">الشعر والأدب العربي</span>
+          <span class="hero-title-sub">من النص إلى الفهم</span>
+        </h1>
+        <p class="hero-copy">لا أعطيك القصيدة فقط؛ بل أفهمك من أين جاءت، ومن قالها، وكيف تعمل لغتها، ولماذا هي جميلة، وما علاقتها بما قبلها وما بعدها، وأريك المصدر الذي بُني عليه كل ذلك.</p>
+        <p class="hero-note">V1 ثابتة بالكامل — HTML + CSS + JavaScript + ملفات بيانات محلية. المحتوى العلمي الحالي Fixture لاختبار البنية والتجربة قبل الاعتماد.</p>
+      </div>
+      <div class="literary-mark" aria-hidden="true">
+        <div class="orbit orbit-one"></div>
+        <div class="orbit orbit-two"></div>
+        <div class="orbit orbit-three"></div>
+        <div class="mark-core"><span>بيت</span><i>شعر</i></div>
+      </div>
+    </div>
+  </header>
+
+  <div class="modebar">
+    <div class="reading">
+      <div class="modes" aria-label="مستوى القراءة">
+        <button class="mode-btn active" type="button" data-mode="simple">
+          <b>المسار العام</b>
+          <small>الصورة الكبرى دون إخلال</small>
+        </button>
+        <button class="mode-btn" type="button" data-mode="deep">
+          <b>القراءة المتعمقة</b>
+          <small>الشاعر والقصيدة والتحقيق</small>
+        </button>
+      </div>
+    </div>
+  </div>
+
+  <main>
+    <section class="mode active reading" id="simple">
+      <div class="kicker">البداية المقصودة</div>
+      <h2 class="section-title">خذ الصورة العامة أولًا</h2>
+      <p class="section-desc">المسار العام لا يلغي التفاصيل؛ بل يضع العمود الفقري أمامك أولًا. من هنا تستطيع رؤية العصر، ثم علمًا يمثله، ثم نصًا أساسيًا، وبعدها تدخل إلى طبقة أعمق دون أن تضيع في عشرات الصفحات.</p>
+
+      <div id="simple-era" class="simple-layout"></div>
+
+      <div class="pathway" aria-label="مسار القراءة المقترح">
+        <div class="pathway-step"><span>01</span><div><b>العصر</b><small>أين نحن تاريخيًا؟ وما الذي تغيّر في الأدب؟</small></div></div>
+        <i>←</i>
+        <div class="pathway-step"><span>02</span><div><b>العَلَم</b><small>من يمثل هذا العصر؟ وما الذي يميزه؟</small></div></div>
+        <i>←</i>
+        <div class="pathway-step"><span>03</span><div><b>النص</b><small>اقرأ القصيدة ثم افتح طبقات البيت عند الحاجة.</small></div></div>
+      </div>
+
+      <div class="simple-warning">
+        <b>قاعدة V1</b>
+        <span>لا تكرار لبيانات الشاعر أو القصيدة داخل الأقسام. البطاقات هنا تستدعي الكيانات نفسها بالمعرّفات من ملفات البيانات.</span>
+      </div>
+    </section>
+
+    <section class="mode wrap" id="deep">
+      <div class="kicker">التفصيل دون مغادرة السياق</div>
+      <h2 class="section-title">مساحة واحدة، طبقات متعددة</h2>
+      <p class="section-desc">بدل أن تكون السيرة والقصيدة والشرح صفحات متفرقة، تبقى داخل مساحة واحدة وتفتح ما تحتاجه فقط.</p>
+
+      <div class="nav-groups">
+        <nav class="subnav" aria-label="أقسام القراءة المتعمقة">
+          <button class="sub-btn active" data-page="era" type="button"><b>العصر</b><small>الخريطة والسياق</small></button>
+          <button class="sub-btn" data-page="poet" type="button"><b>الشاعر</b><small>السيرة والخصائص</small></button>
+          <button class="sub-btn" data-page="poem" type="button"><b>قارئ القصيدة</b><small>بيتًا بيتًا</small></button>
+          <button class="sub-btn" data-page="guide" type="button"><b>الدليل</b><small>بحث مترابط</small></button>
+          <button class="sub-btn" data-page="method" type="button"><b>منهج التحقيق</b><small>النسبة والثبوت</small></button>
+          <button class="sub-btn" data-page="references" type="button"><b>الخلاف والمراجع</b><small>الروايات والمصادر</small></button>
+        </nav>
+      </div>
+
+      <section class="detail-page active" id="page-era">
+        <div id="era-detail"></div>
+      </section>
+
+      <section class="detail-page" id="page-poet">
+        <div id="poet-detail"></div>
+      </section>
+
+      <section class="detail-page" id="page-poem">
+        <div id="poem-reader"></div>
+      </section>
+
+      <section class="detail-page guide-page" id="page-guide">
+        <div class="detail-head">
+          <div>
+            <div class="kicker">دليل الشعراء والقصائد والمصطلحات</div>
+            <h2>ابحث من موضع واحد</h2>
+            <p>البحث هنا يعمل محليًا داخل المتصفح. يطبّع التشكيل وصور الهمزة والألف المقصورة لأغراض المطابقة فقط، بينما يبقى النص الأصلي كما هو.</p>
+          </div>
+        </div>
+        <div class="guide-shell">
+          <label class="search-box" for="guide-search">
+            <span>⌕</span>
+            <input id="guide-search" type="search" placeholder="جرّب: المتنبي، الطويل، الطباق، العزم…" autocomplete="off">
+            <kbd>/</kbd>
+          </label>
+          <div class="guide-meta"><span id="guide-count">0 نتيجة</span><button id="guide-clear" type="button">مسح البحث</button></div>
+          <div id="guide-results" class="guide-results" aria-live="polite"></div>
+        </div>
+      </section>
+
+      <section class="detail-page" id="page-method">
+        <div class="detail-head">
+          <div>
+            <div class="kicker">قسم إلزامي</div>
+            <h2>منهج التحقيق</h2>
+            <p>لا تُعامل شهرة البيت على الإنترنت بوصفها دليلًا على نسبته. هذه الصفحة تثبت القواعد قبل اتساع المحتوى.</p>
+          </div>
+        </div>
+        <div class="branch-grid">
+          <details class="branch-card wide" open>
+            <summary><span class="sum-title"><b>كيف نعتمد نسبة القصيدة أو البيت؟</b><small>من النص إلى درجة الثبوت</small></span><span class="toggle"></span></summary>
+            <div class="branch-body">
+              <ol class="method-steps">
+                <li><b>النص المعتمد أولًا</b><p>نبدأ بديوان محقق أو مصدر تراثي موثوق، لا بنسخة متداولة بلا إحالة.</p></li>
+                <li><b>جمع الشواهد</b><p>نقارن موضع النص في الديوان، الشروح، كتب الاختيارات، وكتب الأدب القديمة حيث يلزم.</p></li>
+                <li><b>تسجيل الاختلاف</b><p>لا نمحو اختلاف الروايات. يُحفظ اللفظ البديل ومصدره وعلاقته بالنص المختار.</p></li>
+                <li><b>درجة الثبوت</b><p>يُوسم النص بوضوح: ثابت، راجح، مختلف فيه، منسوب، أو لا يكفي الدليل للجزم.</p></li>
+                <li><b>الفصل بين النص والشرح</b><p>النص الشعري شيء، والتفسير أو القراءة النقدية شيء آخر. لكل منهما مصادره وحالته.</p></li>
+              </ol>
+            </div>
+          </details>
+          <details class="branch-card">
+            <summary><span class="sum-title"><b>معرّف البيت</b><small>ثابت حتى لو تغير ترتيبه</small></span><span class="toggle"></span></summary>
+            <div class="branch-body"><p class="reader-copy">لكل بيت <code>id</code> مستقل مثل <code>mutanabbi-azm-001</code>. الرقم الظاهر في القصيدة مجرد ترتيب قابل للتعديل، أما المعرّف فلا يتغير كي لا تنكسر الروابط والإحالات.</p></div>
+          </details>
+          <details class="branch-card">
+            <summary><span class="sum-title"><b>حالة Fixture</b><small>الواجهة ليست اعتمادًا علميًا</small></span><span class="toggle"></span></summary>
+            <div class="branch-body"><p class="reader-copy">المحتوى الموجود في V1 مقصود لاختبار شكل البيانات وتجربة القراءة. قبل اعتماد أي عصر أو شاعر أو قصيدة ستُستبدل الإحالات المؤقتة بمراجع وطبعات وصفحات محددة.</p></div>
+          </details>
+        </div>
+      </section>
+
+      <section class="detail-page" id="page-references">
+        <div class="detail-head">
+          <div>
+            <div class="kicker">قسم إلزامي</div>
+            <h2>مواضع الخلاف والمراجع</h2>
+            <p>المصدر ليس ذيلًا تجميليًا. كل اختلاف أو معلومة قابلة للتحقق يجب أن تعرف من أين جاءت.</p>
+          </div>
+        </div>
+        <div class="verification-grid">
+          <article class="verification-card disputed-card">
+            <span class="status-dot"></span>
+            <div><b>المناسبة التاريخية للقصيدة</b><p>الصياغة الحالية مختصرة وتجريبية، ويجب تثبيت تفاصيل المناسبة عند التحقيق من الديوان والشروح المعتمدة.</p><small>الحالة: يحتاج توثيقًا قبل الاعتماد</small></div>
+          </article>
+          <article class="verification-card">
+            <span class="status-dot"></span>
+            <div><b>التحليل البلاغي</b><p>التحليل الحالي يشرح وظيفة الظاهرة في المعنى، لكنه يحتاج لاحقًا ربطًا بمراجع البلاغة أو شروح النص حيث تكون الإحالة لازمة.</p><small>الحالة: Fixture تحريري</small></div>
+          </article>
+        </div>
+        <div id="sources-list" class="sources-list"></div>
+      </section>
+    </section>
+  </main>
+
+  <footer>
+    <div class="wrap footer-grid">
+      <div>
+        <b>الشعر والأدب العربي — V1</b>
+        <p>نسخة تجريبية ثابتة لبناء الهيكل قبل التوسع في المحتوى.</p>
+      </div>
+      <div class="footer-tech">HTML · CSS · JavaScript · GitHub Pages</div>
+    </div>
+  </footer>
+
+  <noscript><div class="noscript">هذه النسخة تعتمد على JavaScript لقراءة ملفات البيانات وفتح الطبقات التفاعلية.</div></noscript>
+
+  <script src="assets/data/eras.js"></script>
+  <script src="assets/data/poets.js"></script>
+  <script src="assets/data/poems.js"></script>
+  <script src="assets/data/verses.js"></script>
+  <script src="assets/data/sources.js"></script>
+  <script src="assets/data/terms.js"></script>
+  <script src="assets/app.js?v=1"></script>
+</body>
+</html>
