@@ -1,0 +1,11 @@
+---
+// قراءة أبيات من نصوص مختلفة في قائمة واحدة: <VerseSet ids="qifa-nabki/001 li-khawla-atlal/001" />
+import VerseReader from './VerseReader.astro';
+
+interface Props { ids: string }
+const ids = Astro.props.ids.split(/\s+/).filter(Boolean);
+---
+<div class="embed reader-block">
+  <p class="meta-row"><span>اضغط أي بيت لتفتح شرحه.</span></p>
+  <VerseReader ids={ids} />
+</div>

@@ -1,27 +1,51 @@
 ---
-import { must, url, verseOrder, versesOf } from '../lib/content';
+import type { CollectionEntry } from 'astro:content';
+import { must, url, verseOrder, verseTextId, versesOf } from '../lib/content';
 import VerseAnalysis from './VerseAnalysis.astro';
 import VerseLines from './VerseLines.astro';
 
-interface Props { text: string; from?: number; to?: number }
-const { text, from = 1, to = Infinity } = Astro.props;
-await must({ collection: 'texts', id: text });
-const verses = (await versesOf(text)).filter((v) => {
-  const n = verseOrder(v.id);
-  return n >= from && n <= to;
-});
-if (verses.length === 0) throw new Error(`لا أبيات للنص ${text} في المدى المطلوب`);
+// text: أبيات نص واحد (مع from وto). ids: أبيات من نصوص مختلفة، يُكتب فوق كل بيت قائله ونصه.
+interface Props { text?: string; from?: number; to?: number; ids?: string[] }
+const { text, from = 1, to = Infinity, ids } = Astro.props;
+
+let verses: CollectionEntry<'verses'>[];
+if (ids) {
+  verses = await Promise.all(ids.map((id) => must({ collection: 'verses', id })));
+} else {
+  if (!text) throw new Error('VerseReader يحتاج text أو ids');
+  await must({ collection: 'texts', id: text });
+  verses = (await versesOf(text)).filter((v) => {
+    const n = verseOrder(v.id);
+    return n >= from && n <= to;
+  });
+}
+if (verses.length === 0) throw new Error(`لا أبيات في المدى المطلوب: ${text ?? ids?.join(' ')}`);
+
+// في وضع ids يُعرف البيت بنصه ورقمه معًا، فلا تتكرر المعرّفات في الصفحة.
+const labels = new Map<string, string>();
+if (ids) {
+  for (const v of verses) {
+    const t = await must({ collection: 'texts', id: verseTextId(v.id) });
+    const author = t.data.author ? await must(t.data.author) : undefined;
+    labels.set(v.id, [author?.data.name, `«${t.data.title}»`].filter(Boolean).join(' · '));
+  }
+}
+const anchor = (v: CollectionEntry<'verses'>) => (ids ? `b-${v.id.replace('/', '-')}` : `b${verseOrder(v.id)}`);
 ---
 <div class="reader">
-  {verses.map((v) => {
+  {verses.map((v, i) => {
     const n = verseOrder(v.id);
+    const id = anchor(v);
     return (
-      <article class="verse" id={`b${n}`}>
-        <a class="verse-head" href={url.verse(v.id)} aria-expanded="false" aria-controls={`b${n}-body`}>
-          <span class="verse-no" aria-label={`البيت ${n}`}>{n}</span>
-          <VerseLines first={v.data.first} second={v.data.second} />
+      <article class="verse" id={id}>
+        <a class="verse-head" href={url.verse(v.id)} aria-expanded="false" aria-controls={`${id}-body`}>
+          <span class="verse-no" aria-label={ids ? `المطلع ${i + 1}` : `البيت ${n}`}>{ids ? i + 1 : n}</span>
+          <span class="verse-main">
+            {ids && <span class="verse-src">{labels.get(v.id)}</span>}
+            <VerseLines first={v.data.first} second={v.data.second} />
+          </span>
         </a>
-        <div class="verse-body" id={`b${n}-body`} hidden>
+        <div class="verse-body" id={`${id}-body`} hidden>
           <VerseAnalysis verse={v} />
           <div class="verse-tools">
             <a class="btn" href={url.verse(v.id)}>صفحة البيت</a>

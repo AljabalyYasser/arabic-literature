@@ -1,11 +1,10 @@
 kind: "maqta"
-title: "الفرس: قيد الأوابد"
+title: "الفرس: قيد الأَوابِد"
 part: "1"
 order: 4
 person: "imru-al-qais"
 verses:
   - "qifa-nabki/053"
   - "qifa-nabki/054"
-station: "1-3"
 meaning: "يخرج إلى الصيد مبكرًا على فرس سريع لا تفلت منه الوحوش، يكرّ ويفرّ ويقبل ويدبر، كأنه صخرة عظيمة دفعها السيل من أعلى."
 status: "review"

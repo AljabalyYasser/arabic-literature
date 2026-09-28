@@ -13,6 +13,7 @@ import PersonCard from '../../components/PersonCard.astro';
 import StoryCard from '../../components/StoryCard.astro';
 import Bayt from '../../components/Bayt.astro';
 import Ago from '../../components/Ago.astro';
+import VerseSet from '../../components/VerseSet.astro';
 import MahfuzCard from '../../components/MahfuzCard.astro';
 import { getPath, must, url, type PathPart } from '../../lib/content';
 import { ordinals } from '../../lib/labels';
@@ -53,7 +54,7 @@ if (props.kind === 'station') {
   const id = station.id;
   mahfuzat = (await getCollection('mahfuzat', (m) => m.data.station?.id === id)).sort((a, b) => a.data.order - b.data.order || a.id.localeCompare(b.id));
 }
-const components = { Reading, VerseQuote, Cite, ConceptCard, PersonCard, StoryCard, Bayt, Ago };
+const components = { Reading, VerseSet, VerseQuote, Cite, ConceptCard, PersonCard, StoryCard, Bayt, Ago };
 ---
 {props.kind === 'part' ? (
   <Base title={partData.title} description={partData.summary}>
