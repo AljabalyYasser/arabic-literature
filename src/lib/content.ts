@@ -28,7 +28,7 @@ export const url = {
 
 // ---------- الأبيات ----------
 
-// معرّف البيت: <معرّف النص>/<رقم البيت>، مثل ala-qadr-ahl-al-azm/007
+// معرّف البيت: <معرّف النص>/<رقم البيت>، مثل qifa-nabki/007
 export const verseTextId = (id: string) => id.split('/')[0];
 export const verseOrder = (id: string) => Number(id.split('/')[1]);
 
@@ -114,7 +114,7 @@ export async function sourceMap(): Promise<SourceMap> {
   return sourceCache;
 }
 
-// الإحالة داخل النص: [@معرّف المصدر، الموضع] مثل [@wahidi، ص 274]
+// الإحالة داخل النص: [@معرّف المصدر، الموضع] مثل [@zawzani، ص 12]
 const CITE = /\[@([a-z0-9-]+)(?:[،,]\s*([^\]]+))?\]/g;
 
 // يحوّل نصًا من ملفات المحتوى إلى HTML آمن، مع تحويل الإحالات إلى روابط.

@@ -14,6 +14,7 @@ const groups = Object.entries(sourceKinds)
     <h1>المصادر</h1>
     <p class="lede measure">كل كتاب أُحيل إليه في الموقع، بطبعته ومحققه. أما مواضع الإحالة (الجزء والصفحة) فتظهر عند المعلومة نفسها.</p>
   </header>
+  {groups.length === 0 && <p class="muted">تُضاف المصادر مع أول إحالة إليها.</p>}
   {groups.map((g) => (
     <section class="section">
       <div class="section-head"><h2>{g.label}</h2></div>

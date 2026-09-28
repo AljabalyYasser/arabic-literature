@@ -12,6 +12,7 @@ const people = (await getCollection('people')).sort((a, b) => (a.data.died?.h ??
     <h1>الأعلام</h1>
     <p class="lede measure">الشعراء والكتّاب والنقاد والشرّاح الذين نلتقي بهم في المسار، مرتبين بتاريخ الوفاة.</p>
   </header>
+  {people.length === 0 && <p class="muted">تُضاف الأعلام مع محطات المسار.</p>}
   <ul class="index-list grid two">
     {people.map((p) => (
       <li>

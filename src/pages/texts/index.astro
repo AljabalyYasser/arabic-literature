@@ -19,6 +19,7 @@ rows.sort((a, b) => (a.t.data.year?.h ?? 0) - (b.t.data.year?.h ?? 0));
     <h1>النصوص</h1>
     <p class="lede measure">القصائد والنصوص التي قرأناها في المسار، مرتبة زمنيًا. كل نص يُفتح بيتًا بيتًا مع شرحه.</p>
   </header>
+  {rows.length === 0 && <p class="muted">تُضاف النصوص مع محطات المسار.</p>}
   <ul class="index-list">
     {rows.map(({ t, author, count }) => (
       <li>

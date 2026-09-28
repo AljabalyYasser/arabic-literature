@@ -15,6 +15,7 @@ const groups = Object.entries(conceptGroups)
     <h1>المفاهيم والمصطلحات</h1>
     <p class="lede measure">أدوات القراءة التي يبنيها المسار واحدةً بعد أخرى: تعريف قريب، ومثال من النصوص التي قرأناها.</p>
   </header>
+  {groups.length === 0 && <p class="muted">تُضاف المفاهيم مع محطات المسار، كل مفهوم في أول محطة يحتاجه فيها النص.</p>}
   {groups.map((g) => (
     <section class="section">
       <div class="section-head"><h2>{g.label}</h2></div>
