@@ -1,0 +1,37 @@
+---
+title: "سما لك شوق بعدما كان أقصرا"
+author: "imru-al-qais"
+kind: "qasida"
+form: "amudi"
+attribution:
+  grade: "mukhtalaf"
+  note: "هي في رواية الأَصْمَعِيّ لديوانه، لكن شوقي ضيف يردّها لأنها تصف رحلته إلى قيصر، وأخبار هذه الرحلة عنده من وضع ابن الكَلْبِيّ وأضرابه."
+meter: "البحر الطويل"
+rhyme: "الرَّوِيّ الراء المفتوحة، فهي رائية"
+occasion: "يقول ابن قُتَيْبة إنه قالها حين خرج إلى قيصر ومعه عَمْرو بن قَمِيئة، فبكى عَمْرو وقال: غرّرت بنا [@ibn-qutayba، ج1 ص119]."
+thesis: "قصيدة رحلة: يبدأ بشوق إلى ظعائن راحلة، ثم يصف ناقته وطريقه إلى الشام، ويعلن غايته: ملك يستردّه أو موت يُعذر به."
+edition:
+  source: "diwan-imru-al-qais"
+  loc: "ص93–98"
+  url: "https://shamela.ws/book/27112/82"
+  note: "النص المعتمد، وهي فيها ستون بيتًا."
+sources:
+  - source: "diwan-imru-al-qais"
+    loc: "ص93–98"
+    url: "https://shamela.ws/book/27112/82"
+    note: "النص."
+  - source: "ibn-qutayba"
+    loc: "ج1 ص119"
+    url: "https://shamela.ws/book/23785/112"
+    note: "مناسبتها."
+  - source: "deif"
+    loc: "ج1 ص245"
+    url: "https://shamela.ws/book/11996/241"
+    note: "ردّها."
+  - source: "khizana"
+    loc: "ج8 ص545"
+    url: "https://shamela.ws/book/12732/4082"
+    note: "وصف البغدادي لها."
+status: "review"
+---
+قصيدة طويلة تصف رحلة امرئ القَيْس إلى قيصر، ويردّها شوقي ضيف مع أخبار الرحلة كلها. نقرأ منها البيتين المشهورين في المحطة 1.4.

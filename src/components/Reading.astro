@@ -12,5 +12,5 @@ const entry = await must({ collection: 'texts', id: text });
     <span>اضغط أي بيت لتفتح شرحه.</span>
     <a href={url.text(entry.id)}>صفحة القصيدة كاملة</a>
   </p>
-  <VerseReader text={text} from={from} to={to} />
+  <VerseReader text={text} from={from} to={to} scoped />
 </div>

@@ -5,8 +5,9 @@ import VerseAnalysis from './VerseAnalysis.astro';
 import VerseLines from './VerseLines.astro';
 
 // text: أبيات نص واحد (مع from وto). ids: أبيات من نصوص مختلفة، يُكتب فوق كل بيت قائله ونصه.
-interface Props { text?: string; from?: number; to?: number; ids?: string[] }
-const { text, from = 1, to = Infinity, ids } = Astro.props;
+// scoped: القارئ داخل صفحة قد تجمع أكثر من نص، فيُعرف البيت بنصه ورقمه معًا.
+interface Props { text?: string; from?: number; to?: number; ids?: string[]; scoped?: boolean }
+const { text, from = 1, to = Infinity, ids, scoped = false } = Astro.props;
 
 let verses: CollectionEntry<'verses'>[];
 if (ids) {
@@ -21,7 +22,7 @@ if (ids) {
 }
 if (verses.length === 0) throw new Error(`لا أبيات في المدى المطلوب: ${text ?? ids?.join(' ')}`);
 
-// في وضع ids يُعرف البيت بنصه ورقمه معًا، فلا تتكرر المعرّفات في الصفحة.
+// في وضع ids وفي القارئ المحصور يُعرف البيت بنصه ورقمه معًا، فلا تتكرر المعرّفات في الصفحة.
 const labels = new Map<string, string>();
 if (ids) {
   for (const v of verses) {
@@ -30,7 +31,7 @@ if (ids) {
     labels.set(v.id, [author?.data.name, `«${t.data.title}»`].filter(Boolean).join(' · '));
   }
 }
-const anchor = (v: CollectionEntry<'verses'>) => (ids ? `b-${v.id.replace('/', '-')}` : `b${verseOrder(v.id)}`);
+const anchor = (v: CollectionEntry<'verses'>) => (ids || scoped ? `b-${v.id.replace('/', '-')}` : `b${verseOrder(v.id)}`);
 ---
 <div class="reader">
   {verses.map((v, i) => {

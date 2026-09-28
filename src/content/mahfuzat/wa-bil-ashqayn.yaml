@@ -1,0 +1,22 @@
+kind: "bayt"
+title: "وبالأشقين ما كان العقاب"
+part: "1"
+order: 2
+person: "imru-al-qais"
+lines:
+  - first: "وَقَاهُمْ جَدُّهُمْ بِبَنِي أَبِيهِمْ"
+    second: "وَبِالْأَشْقَيْنَ مَا كَانَ الْعِقَابُ"
+meaning: "قاله حين أغار على بني كِنانة يظنهم بني أَسَد قتلة أبيه: حماهم حظهم بإخوتهم، ووقع العقاب على الأشقى. وعدّه ابن قُتَيْبة مما يُتمثّل به من شعره [@ibn-qutayba، ج1 ص113]، وذكر المُبَرِّد عجزه في الأعجاز السائرة [@mubarrad-ajaz، ص165]."
+station: "1-4"
+sources:
+  - source: "asmaiyyat"
+    loc: "ص131"
+    url: "https://shamela.ws/book/6905/117"
+    note: "البيت في الأَصْمَعِيّات."
+  - source: "ibn-qutayba"
+    loc: "ج1 ص113"
+    url: "https://shamela.ws/book/23785/106"
+  - source: "mubarrad-ajaz"
+    loc: "ص165"
+    url: "https://shamela.ws/book/966/3"
+status: "review"

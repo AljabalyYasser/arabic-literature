@@ -17,11 +17,11 @@ const f = (t?: string) => fmt(t, sources);
 type Panel = { id: string; label: string };
 const panels: Panel[] = [
   { id: 'meaning', label: 'المعنى' },
-  ...(v.vocabulary.length ? [{ id: 'vocabulary', label: 'المفردات' }] : []),
+  ...(v.rhetoric ? [{ id: 'rhetoric', label: 'البلاغة' }] : []),
   ...(v.context ? [{ id: 'context', label: 'وظيفة البيت' }] : []),
+  ...(v.vocabulary.length ? [{ id: 'vocabulary', label: 'المفردات' }] : []),
   ...(v.syntax.length ? [{ id: 'syntax', label: 'النحو والتركيب' }] : []),
   ...(v.morphology.length ? [{ id: 'morphology', label: 'الصرف والاشتقاق' }] : []),
-  ...(v.rhetoric ? [{ id: 'rhetoric', label: 'البلاغة' }] : []),
   ...(v.prosody ? [{ id: 'prosody', label: 'الوزن والقافية' }] : []),
   ...(v.variants.length ? [{ id: 'variants', label: 'الروايات' }] : []),
   ...(v.sources.length ? [{ id: 'sources', label: 'المصادر' }] : []),
@@ -43,12 +43,19 @@ const tabs = mode === 'tabs';
     <p set:html={f(v.meaning)} />
   </section>
 
-  {v.vocabulary.length > 0 && (
-    <section class="panel" id={pid('vocabulary')} data-panel="vocabulary" role={tabs ? 'tabpanel' : undefined}>
-      <h4 class="panel-title">المفردات</h4>
-      <dl class="vocab">
-        {v.vocabulary.map((w) => <div><dt>{w.term}</dt><dd set:html={f(w.text)} /></div>)}
-      </dl>
+  {v.rhetoric && (
+    <section class="panel" id={pid('rhetoric')} data-panel="rhetoric" role={tabs ? 'tabpanel' : undefined}>
+      <h4 class="panel-title">البلاغة</h4>
+      <div class="thesis"><b>الفكرة البلاغية المركزية</b><p set:html={f(v.rhetoric.thesis)} /></div>
+      <div class="devices">
+        {v.rhetoric.devices.map((d, i) => (
+          <article>
+            <span class="num">{String(i + 1).padStart(2, '0')}</span>
+            <div><h5>{d.title}</h5><p set:html={f(d.text)} /></div>
+          </article>
+        ))}
+      </div>
+      {v.rhetoric.connection && <div class="note-box"><b>صلة البيت بما بعده</b><p set:html={f(v.rhetoric.connection)} /></div>}
     </section>
   )}
 
@@ -56,6 +63,15 @@ const tabs = mode === 'tabs';
     <section class="panel" id={pid('context')} data-panel="context" role={tabs ? 'tabpanel' : undefined}>
       <h4 class="panel-title">وظيفة البيت في القصيدة</h4>
       <p set:html={f(v.context)} />
+    </section>
+  )}
+
+  {v.vocabulary.length > 0 && (
+    <section class="panel" id={pid('vocabulary')} data-panel="vocabulary" role={tabs ? 'tabpanel' : undefined}>
+      <h4 class="panel-title">المفردات</h4>
+      <dl class="vocab">
+        {v.vocabulary.map((w) => <div><dt>{w.term}</dt><dd set:html={f(w.text)} /></div>)}
+      </dl>
     </section>
   )}
 
@@ -70,22 +86,6 @@ const tabs = mode === 'tabs';
     <section class="panel" id={pid('morphology')} data-panel="morphology" role={tabs ? 'tabpanel' : undefined}>
       <h4 class="panel-title">الصرف والاشتقاق</h4>
       <div class="points">{v.morphology.map((s) => <p set:html={f(s)} />)}</div>
-    </section>
-  )}
-
-  {v.rhetoric && (
-    <section class="panel" id={pid('rhetoric')} data-panel="rhetoric" role={tabs ? 'tabpanel' : undefined}>
-      <h4 class="panel-title">البلاغة</h4>
-      <div class="thesis"><b>الفكرة البلاغية المركزية</b><p set:html={f(v.rhetoric.thesis)} /></div>
-      <div class="devices">
-        {v.rhetoric.devices.map((d, i) => (
-          <article>
-            <span class="num">{String(i + 1).padStart(2, '0')}</span>
-            <div><h5>{d.title}</h5><p set:html={f(d.text)} /></div>
-          </article>
-        ))}
-      </div>
-      {v.rhetoric.connection && <div class="note-box"><b>صلة البيت بما بعده</b><p set:html={f(v.rhetoric.connection)} /></div>}
     </section>
   )}
 
