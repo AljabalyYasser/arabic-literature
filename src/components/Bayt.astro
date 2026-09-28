@@ -1,0 +1,12 @@
+---
+// بيت مفرد لا يُشرح في قارئ الأبيات: <Bayt first="…" second="…" by="عمرو بن كلثوم، من معلقته" />
+// الإحالة تُكتب بين وسمي المكوّن: <Bayt …><Cite id="deif" loc="ج1 ص39" /></Bayt>
+import VerseLines from './VerseLines.astro';
+
+interface Props { first: string; second?: string; by?: string }
+const { first, second, by } = Astro.props;
+---
+<figure class="quote-verse">
+  <VerseLines first={first} second={second} />
+  {(by || Astro.slots.has('default')) && <figcaption>{by}<slot /></figcaption>}
+</figure>
