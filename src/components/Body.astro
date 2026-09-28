@@ -1,0 +1,8 @@
+---
+// متن ملف Markdown بعد تحويل إحالاته إلى روابط.
+import { citeHtml, sourceMap } from '../lib/content';
+
+interface Props { entry: { rendered?: { html: string } } }
+const html = citeHtml(Astro.props.entry.rendered?.html, await sourceMap());
+---
+{html && <div class="prose" set:html={html} />}

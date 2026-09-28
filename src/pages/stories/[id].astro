@@ -1,9 +1,10 @@
 ---
-import { getCollection, render, type CollectionEntry } from 'astro:content';
+import { getCollection, type CollectionEntry } from 'astro:content';
 import Base from '../../layouts/Base.astro';
 import Crumbs from '../../components/Crumbs.astro';
 import StatusBadge from '../../components/StatusBadge.astro';
 import CiteList from '../../components/CiteList.astro';
+import Body from '../../components/Body.astro';
 import { mustAll, url } from '../../lib/content';
 import { storyGrades } from '../../lib/labels';
 
@@ -13,7 +14,6 @@ export async function getStaticPaths() {
 
 const { story } = Astro.props as { story: CollectionEntry<'stories'> };
 const s = story.data;
-const { Content } = await render(story);
 const people = await mustAll(s.people);
 const grade = storyGrades[s.grade];
 ---
@@ -26,7 +26,7 @@ const grade = storyGrades[s.grade];
     <div class="meta-row"><span class={`badge grade-${s.grade}`} title={grade.hint}>{grade.label}</span><StatusBadge status={s.status} /></div>
   </header>
 
-  <div class="prose"><Content /></div>
+  <Body entry={story} />
 
   <section class="section measure">
     <div class="note-box">

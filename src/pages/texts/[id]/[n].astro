@@ -6,7 +6,7 @@ import StatusBadge from '../../../components/StatusBadge.astro';
 import VerseLines from '../../../components/VerseLines.astro';
 import VerseAnalysis from '../../../components/VerseAnalysis.astro';
 import Pager from '../../../components/Pager.astro';
-import { must, plain, url, verseOrder, versesOf } from '../../../lib/content';
+import { must, plain, stripCites, url, verseOrder, versesOf } from '../../../lib/content';
 
 export async function getStaticPaths() {
   const paths = [];
@@ -25,7 +25,7 @@ const n = verseOrder(verse.id);
 const author = text.data.author ? await must(text.data.author) : undefined;
 const line = [verse.data.first, verse.data.second].filter(Boolean).join(' ... ');
 ---
-<Base title={`${plain(line)} — ${text.data.title}، البيت ${n}`} description={verse.data.meaning} searchType="بيت">
+<Base title={`${plain(line)} — ${text.data.title}، البيت ${n}`} description={stripCites(verse.data.meaning)} searchType="بيت">
   <Crumbs items={[{ href: '/texts/', label: 'النصوص' }, { href: url.text(text.id), label: text.data.title }, { label: `البيت ${n}` }]} />
   <header class="station-head">
     <span class="kicker">{author && `${author.data.name} · `}«{text.data.title}» · البيت {n}</span>

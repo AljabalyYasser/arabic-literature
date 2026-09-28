@@ -1,11 +1,12 @@
 ---
-import { getCollection, render, type CollectionEntry } from 'astro:content';
+import { getCollection, type CollectionEntry } from 'astro:content';
 import Base from '../../../layouts/Base.astro';
 import Crumbs from '../../../components/Crumbs.astro';
 import StatusBadge from '../../../components/StatusBadge.astro';
 import CiteList from '../../../components/CiteList.astro';
 import VerseReader from '../../../components/VerseReader.astro';
-import { checkVerseParents, formatDate, must, url, verseOrder, versesOf } from '../../../lib/content';
+import Body from '../../../components/Body.astro';
+import { checkVerseParents, fmt, formatDate, must, sourceMap, stripCites, url, verseOrder, versesOf } from '../../../lib/content';
 import { attributionGrades, textKinds } from '../../../lib/labels';
 
 export async function getStaticPaths() {
@@ -17,16 +18,16 @@ const { text } = Astro.props as { text: CollectionEntry<'texts'> };
 const t = text.data;
 const author = t.author ? await must(t.author) : undefined;
 const verses = await versesOf(text.id);
-const { Content } = await render(text);
+const sources = await sourceMap();
 const range = verses.length ? `${verseOrder(verses[0].id)}–${verseOrder(verses[verses.length - 1].id)}` : '';
 ---
-<Base title={t.title} description={t.occasion} searchType={textKinds[t.kind]}>
+<Base title={t.title} description={stripCites(t.occasion)} searchType={textKinds[t.kind]}>
   <Crumbs items={[{ href: '/texts/', label: 'النصوص' }, { label: t.title }]} />
   <div class="entity-head with-aside">
     <header>
       <span class="kicker">{textKinds[t.kind]}{author && <> · <a href={url.person(author.id)}>{author.data.name}</a></>}</span>
       <h1>{t.title}</h1>
-      {t.occasion && <p class="lede">{t.occasion}</p>}
+      {t.occasion && <p class="lede" set:html={fmt(t.occasion, sources)} />}
       <div class="meta-row">
         {t.attribution && <span class={`badge grade-${t.attribution.grade}`} title={t.attribution.note}>{attributionGrades[t.attribution.grade]}</span>}
         {range && <span class="badge plain">الأبيات المشروحة: {range}</span>}
@@ -47,7 +48,7 @@ const range = verses.length ? `${verseOrder(verses[0].id)}–${verseOrder(verses
     <section class="thesis measure"><b>مفتاح القراءة</b><p>{t.thesis}</p></section>
   )}
 
-  <div class="prose"><Content /></div>
+  <Body entry={text} />
 
   {t.map.length > 0 && (
     <section class="section">

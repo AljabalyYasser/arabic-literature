@@ -1,9 +1,10 @@
 ---
-import { getCollection, render, type CollectionEntry } from 'astro:content';
+import { getCollection, type CollectionEntry } from 'astro:content';
 import Base from '../../layouts/Base.astro';
 import Crumbs from '../../components/Crumbs.astro';
 import StatusBadge from '../../components/StatusBadge.astro';
 import CiteList from '../../components/CiteList.astro';
+import Body from '../../components/Body.astro';
 import { formatDate, url } from '../../lib/content';
 import { personKinds, textKinds } from '../../lib/labels';
 
@@ -13,7 +14,6 @@ export async function getStaticPaths() {
 
 const { person } = Astro.props as { person: CollectionEntry<'people'> };
 const p = person.data;
-const { Content } = await render(person);
 const texts = await getCollection('texts', (t) => t.data.author?.id === person.id);
 const stations = (await getCollection('stations', (s) => s.data.people.some((r) => r.id === person.id)));
 const stories = await getCollection('stories', (s) => s.data.people.some((r) => r.id === person.id));
@@ -40,7 +40,7 @@ const stories = await getCollection('stories', (s) => s.data.people.some((r) => 
     <section class="thesis measure"><b>موضعه من عصره</b><p>{p.placement}</p></section>
   )}
 
-  <div class="prose"><Content /></div>
+  <Body entry={person} />
 
   {p.readingKeys.length > 0 && (
     <section class="section">

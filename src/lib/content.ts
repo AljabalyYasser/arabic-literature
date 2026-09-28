@@ -117,15 +117,28 @@ export async function sourceMap(): Promise<SourceMap> {
 // الإحالة داخل النص: [@معرّف المصدر، الموضع] مثل [@zawzani، ص 12]
 const CITE = /\[@([a-z0-9-]+)(?:[،,]\s*([^\]]+))?\]/g;
 
+function citeLink(id: string, loc: string | undefined, sources: SourceMap) {
+  const s = sources.get(id);
+  if (!s) throw new Error(`إحالة إلى مصدر غير موجود: ${id}`);
+  const label = loc ? `${s.data.short}، ${loc.trim()}` : s.data.short;
+  return `<a class="cite" href="${url.source(id)}" title="${escapeHtml(s.data.title)}">${escapeHtml(label)}</a>`;
+}
+
 // يحوّل نصًا من ملفات المحتوى إلى HTML آمن، مع تحويل الإحالات إلى روابط.
 export function fmt(text: string | undefined, sources: SourceMap) {
   if (!text) return '';
-  return escapeHtml(text).replace(CITE, (_, id: string, loc?: string) => {
-    const s = sources.get(id);
-    if (!s) throw new Error(`إحالة إلى مصدر غير موجود: ${id}`);
-    const label = loc ? `${s.data.short}، ${loc.trim()}` : s.data.short;
-    return `<a class="cite" href="${url.source(id)}" title="${escapeHtml(s.data.title)}">${escapeHtml(label)}</a>`;
-  });
+  return escapeHtml(text).replace(CITE, (_, id: string, loc?: string) => citeLink(id, loc, sources));
+}
+
+// يحوّل الإحالات داخل متن Markdown بعد تحويله إلى HTML.
+export function citeHtml(html: string | undefined, sources: SourceMap) {
+  if (!html) return '';
+  return html.replace(CITE, (_, id: string, loc?: string) => citeLink(id, loc, sources));
+}
+
+// نص بلا إحالات، لوصف الصفحة في محركات البحث.
+export function stripCites(text: string | undefined) {
+  return text?.replace(CITE, '').replace(/\s+([،.])/g, '$1').trim();
 }
 
 // نسخة من النص بلا تشكيل، ليجده البحث مهما كُتبت الكلمة.
