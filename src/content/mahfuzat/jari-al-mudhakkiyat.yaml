@@ -1,0 +1,13 @@
+kind: "mathal"
+part: "1"
+order: 15
+person: "qays-ibn-zuhayr"
+text: "جَرْيُ المُذَكِّياتِ غِلاب"
+story: "rihan-dahis"
+meaning: "قاله قَيْس بن زُهَيْر يوم سباق داحِس حين تقدمت خيل خصمه أول الأمر [@aghani، ج17 ص196]: الخيل القوية يكون آخر جريها أقوى من أوله. «يُضرب لمن يوصف بالتبريز على أقرانه في حلبة الفضل» [@maydani، ج1 ص158]."
+station: "1-2"
+sources:
+  - source: "maydani"
+    loc: "ج1 ص158"
+    url: "https://shamela.ws/book/12929/838"
+status: "review"

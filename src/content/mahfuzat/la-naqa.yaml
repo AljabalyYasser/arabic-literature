@@ -1,0 +1,15 @@
+kind: "mathal"
+part: "1"
+order: 4
+person: "al-harith-ibn-abbad"
+text: "لا ناقَةَ لي في هذا ولا جَمَل"
+meaning: "قاله الحارِث بن عُبَاد حين اعتزل حرب البَسُوس، «وهو أول من قالها وأرسلها مثلًا» [@aghani، ج5 ص46]. «يُضرب عند التبرّي من الظلم والإساءة» [@maydani، ج2 ص220]."
+station: "1-2"
+sources:
+  - source: "aghani"
+    loc: "ج5 ص46"
+    url: "https://ketabonline.com/ar/books/10786/read?page=1649"
+  - source: "maydani"
+    loc: "ج2 ص220"
+    url: "https://shamela.ws/book/12929/3627"
+status: "review"

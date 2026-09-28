@@ -1,0 +1,12 @@
+kind: "mathal"
+part: "1"
+order: 1
+text: "أَعَزُّ مِنْ كُلَيْبِ وائِل"
+story: "kulayb-wail"
+meaning: "يُضرب في العز والمنعة. وكان كُلَيْب يحمي الكلأ والماء والصيد، فلا يرعى أحد حماه ولا يرد ماءه إلا بإذنه [@iqd، ج6 ص70] [@maydani، ج2 ص42]."
+station: "1-2"
+sources:
+  - source: "maydani"
+    loc: "ج2 ص42"
+    url: "https://shamela.ws/book/12929/2663"
+status: "review"

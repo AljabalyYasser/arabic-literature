@@ -1,0 +1,36 @@
+---
+title: "قرّبا مربط النعامة مني"
+author: "al-harith-ibn-abbad"
+kind: "muqattaa"
+form: "amudi"
+attribution:
+  grade: "rajih"
+  note: "يرويها أبو الفَرَج في ثلاثة أبيات، ثم يقول: «ولم يصحح عامر ولا مِسْمَع غير هذه الثلاثة الأبيات». وفي «مجمع الأمثال» بيت آخر يتكرر فيه صدر البيت الأول."
+meter: "البحر الخفيف"
+rhyme: "الرَّوِيّ اللام المكسورة، فهي لامية"
+occasion: "قالها الحارِث بن عُبَاد حين بلغه أن المُهَلْهِل قتل بُجَيْرًا وقال: «بُؤْ بشِسْع نعل كُلَيْب»، بعد أن كان قد اعتزل الحرب [@aghani، ج5 ص52–53]."
+thesis: "رجل اعتزل الحرب لأنه لم يجنها، ثم دُفع إليها دفعًا."
+edition:
+  source: "aghani"
+  loc: "ج5 ص53"
+  url: "https://ketabonline.com/ar/books/10786/read?page=1656"
+  note: "النص المعتمد، وهي فيه ثلاثة أبيات."
+sources:
+  - source: "aghani"
+    loc: "ج5 ص53"
+    url: "https://ketabonline.com/ar/books/10786/read?page=1656"
+    note: "النص، وما صححه الرواة منه."
+  - source: "aghani"
+    loc: "ج5 ص63"
+    url: "https://ketabonline.com/ar/books/10786/read?page=1666"
+    note: "رواية أخرى للأبيات."
+  - source: "iqd"
+    loc: "ج6 ص77"
+    url: "https://shamela.ws/book/23789/1888"
+    note: "البيتان الأول والثالث."
+  - source: "maydani"
+    loc: "ج1 ص376"
+    url: "https://shamela.ws/book/12929/2077"
+    note: "بيت آخر بصدر البيت الأول."
+---
+ثلاثة أبيات قالها الحارِث بن عُبَاد حين دخل حرب البَسُوس بعد اعتزاله. نقرأ منها الأول والثالث في المحطة 1.2.

@@ -1,0 +1,12 @@
+kind: "mathal"
+part: "1"
+order: 2
+text: "أَشْأَمُ مِنَ البَسُوس"
+story: "maqtal-kulayb"
+meaning: "يُضرب في الشؤم. والبَسُوس خالة جَسّاس، بسبب ناقتها قُتل كُلَيْب وهاجت حرب بين بَكْر وتَغْلِب قيل إنها دامت أربعين سنة [@maydani، ج1 ص374] [@aghani، ج5 ص40]."
+station: "1-2"
+sources:
+  - source: "maydani"
+    loc: "ج1 ص374"
+    url: "https://shamela.ws/book/12929/2077"
+status: "review"
