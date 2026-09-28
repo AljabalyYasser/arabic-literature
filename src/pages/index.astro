@@ -1,0 +1,69 @@
+---
+import Base from '../layouts/Base.astro';
+import { getPath, url } from '../lib/content';
+import { ordinals } from '../lib/labels';
+
+const path = await getPath();
+const written = path.flatMap((p) => p.stations.filter((s) => s.entry).map((s) => s.entry!.id));
+const first = written[0];
+---
+<Base title="الشعر والأدب العربي">
+  <section class="hero">
+    <span class="kicker">رحلة في تاريخ الأدب العربي</span>
+    <h1>الأدب العربي رحلةً واحدة متصلة</h1>
+    <p class="lede">مسار يبدأ من الجاهلية ويصل إلى أيامنا، محطةً بعد محطة: حكاية تفتح الباب، ثم ما يلزم من السياق والأعلام، ثم نص نقرؤه معًا بيتًا بيتًا، ثم حصيلة تخرج بها. وكل معلومة معها مصدرها.</p>
+    <div class="hero-actions">
+      {first && <a class="btn primary" href={url.station(first)} data-continue={written.join(' ')}>ابدأ من المحطة {first.replace('-', '.')}</a>}
+      <a class="btn" href="#journey">خريطة الرحلة</a>
+      <a class="btn" href="/method/">كيف يُوثَّق المحتوى</a>
+    </div>
+  </section>
+
+  <section class="section" id="journey">
+    <div class="section-head">
+      <h2>خريطة الرحلة</h2>
+      <p>الأبواب مرتبة زمنيًا، وكل محطة جلسة قراءة واحدة. المحطات الباهتة لم تُنشر بعد.</p>
+    </div>
+    <div class="journey">
+      {path.map(({ entry, stations, hasPage }) => (
+        <article class="part-row">
+          <div>
+            <span class="kicker">الباب {entry.data.number === 0 ? 'التمهيدي' : ordinals[entry.data.number - 1]}</span>
+            <h3>{hasPage ? <a href={url.part(entry.id)}>{entry.data.title}</a> : entry.data.title}</h3>
+            {entry.data.range && <div class="range">{entry.data.range}</div>}
+          </div>
+          <ol class="station-list">
+            {stations.map((s) => (
+              <li data-station-id={s.entry?.id}>
+                <span class="n">{s.number}</span>
+                {s.entry ? <a href={url.station(s.entry.id)}>{s.title}</a> : <span class="planned">{s.title}</span>}
+                <span class="done-mark" aria-label="أنهيتها">✓</span>
+              </li>
+            ))}
+          </ol>
+        </article>
+      ))}
+    </div>
+  </section>
+
+  <section class="section">
+    <div class="section-head"><h2>كيف تُكتب المحطات؟</h2></div>
+    <div class="principles">
+      <article class="card">
+        <span class="num">01</span>
+        <h3>الحكاية قبل المصطلح</h3>
+        <p>تبدأ كل محطة بمشهد أو خبر، ثم يأتي الشرح. والمصطلح يُشرح عند أول ظهور له بمثال من النص نفسه.</p>
+      </article>
+      <article class="card">
+        <span class="num">02</span>
+        <h3>النص في المركز</h3>
+        <p>لا حديث عن شاعر دون أن نقرأ له. قارئ الأبيات يفتح لكل بيت معناه ومفرداته، ولمن أراد التعمق نحوه وبلاغته ووزنه.</p>
+      </article>
+      <article class="card">
+        <span class="num">03</span>
+        <h3>المصدر مع المعلومة</h3>
+        <p>الإحالة تظهر في موضع المعلومة، والحكايات تُروى بدرجة صحتها: ثابت، أو مروي بخلاف، أو مشهور بلا سند قوي، أو منحول.</p>
+      </article>
+    </div>
+  </section>
+</Base>

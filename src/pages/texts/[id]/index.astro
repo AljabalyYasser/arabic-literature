@@ -1,0 +1,74 @@
+---
+import { getCollection, render, type CollectionEntry } from 'astro:content';
+import Base from '../../../layouts/Base.astro';
+import Crumbs from '../../../components/Crumbs.astro';
+import StatusBadge from '../../../components/StatusBadge.astro';
+import CiteList from '../../../components/CiteList.astro';
+import VerseReader from '../../../components/VerseReader.astro';
+import { checkVerseParents, formatDate, must, url, verseOrder, versesOf } from '../../../lib/content';
+import { attributionGrades, textKinds } from '../../../lib/labels';
+
+export async function getStaticPaths() {
+  await checkVerseParents();
+  return (await getCollection('texts')).map((text) => ({ params: { id: text.id }, props: { text } }));
+}
+
+const { text } = Astro.props as { text: CollectionEntry<'texts'> };
+const t = text.data;
+const author = t.author ? await must(t.author) : undefined;
+const verses = await versesOf(text.id);
+const { Content } = await render(text);
+const range = verses.length ? `${verseOrder(verses[0].id)}–${verseOrder(verses[verses.length - 1].id)}` : '';
+---
+<Base title={t.title} description={t.occasion} searchType={textKinds[t.kind]}>
+  <Crumbs items={[{ href: '/texts/', label: 'النصوص' }, { label: t.title }]} />
+  <div class="entity-head with-aside">
+    <header>
+      <span class="kicker">{textKinds[t.kind]}{author && <> · <a href={url.person(author.id)}>{author.data.name}</a></>}</span>
+      <h1>{t.title}</h1>
+      {t.occasion && <p class="lede">{t.occasion}</p>}
+      <div class="meta-row">
+        {t.attribution && <span class={`badge grade-${t.attribution.grade}`} title={t.attribution.note}>{attributionGrades[t.attribution.grade]}</span>}
+        {range && <span class="badge plain">الأبيات المشروحة: {range}</span>}
+        <StatusBadge status={t.status} />
+      </div>
+    </header>
+    <aside class="card aside-card">
+      <dl>
+        {t.meter && <div><dt>البحر</dt><dd>{t.meter}</dd></div>}
+        {t.rhyme && <div><dt>القافية</dt><dd>{t.rhyme}</dd></div>}
+        {t.year && <div><dt>زمن القول</dt><dd>{formatDate(t.year)}</dd></div>}
+        {t.attribution && <div class="deep-only"><dt>النسبة</dt><dd style="font-weight:400">{t.attribution.note}</dd></div>}
+      </dl>
+    </aside>
+  </div>
+
+  {t.thesis && (
+    <section class="thesis measure"><b>مفتاح القراءة</b><p>{t.thesis}</p></section>
+  )}
+
+  <div class="prose"><Content /></div>
+
+  {t.map.length > 0 && (
+    <section class="section">
+      <div class="section-head"><span class="kicker">حركة المعنى</span><h2>خريطة الأبيات</h2>{t.movement && <p class="measure">{t.movement}</p>}</div>
+      <div class="map-list">
+        {t.map.map((m) => <article class="card"><span class="range">الأبيات {m.range}</span><h3>{m.title}</h3><p>{m.text}</p></article>)}
+      </div>
+    </section>
+  )}
+
+  {verses.length > 0 && (
+    <section class="section">
+      <div class="section-head"><h2>النص وشرحه</h2><p>اضغط أي بيت لتفتح شرحه. في وضع «التعمق» تظهر طبقات النحو والصرف والبلاغة والوزن والمصادر.</p></div>
+      <VerseReader text={text.id} />
+    </section>
+  )}
+
+  {t.sources.length > 0 && (
+    <section class="section measure">
+      <div class="section-head"><h2>مصادر النص</h2></div>
+      <CiteList items={t.sources} />
+    </section>
+  )}
+</Base>

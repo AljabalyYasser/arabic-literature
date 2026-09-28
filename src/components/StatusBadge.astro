@@ -1,0 +1,7 @@
+---
+import { statusLabels, statusHints } from '../lib/labels';
+
+interface Props { status: keyof typeof statusLabels }
+const { status } = Astro.props;
+---
+<span class={`badge status-${status}`} title={statusHints[status]} data-pagefind-ignore>{statusLabels[status]}</span>

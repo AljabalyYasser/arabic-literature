@@ -1,0 +1,34 @@
+---
+import { must, url, verseOrder, versesOf } from '../lib/content';
+import VerseAnalysis from './VerseAnalysis.astro';
+import VerseLines from './VerseLines.astro';
+
+interface Props { text: string; from?: number; to?: number }
+const { text, from = 1, to = Infinity } = Astro.props;
+await must({ collection: 'texts', id: text });
+const verses = (await versesOf(text)).filter((v) => {
+  const n = verseOrder(v.id);
+  return n >= from && n <= to;
+});
+if (verses.length === 0) throw new Error(`لا أبيات للنص ${text} في المدى المطلوب`);
+---
+<div class="reader">
+  {verses.map((v) => {
+    const n = verseOrder(v.id);
+    return (
+      <article class="verse" id={`b${n}`}>
+        <a class="verse-head" href={url.verse(v.id)} aria-expanded="false" aria-controls={`b${n}-body`}>
+          <span class="verse-no" aria-label={`البيت ${n}`}>{n}</span>
+          <VerseLines first={v.data.first} second={v.data.second} />
+        </a>
+        <div class="verse-body" id={`b${n}-body`} hidden>
+          <VerseAnalysis verse={v} />
+          <div class="verse-tools">
+            <a class="btn" href={url.verse(v.id)}>صفحة البيت</a>
+            <button type="button" class="btn" data-copy={url.verse(v.id)}>نسخ رابط البيت</button>
+          </div>
+        </div>
+      </article>
+    );
+  })}
+</div>

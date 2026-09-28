@@ -1,0 +1,13 @@
+---
+import { must, url } from '../lib/content';
+import { storyGrades } from '../lib/labels';
+
+interface Props { id: string }
+const s = await must({ collection: 'stories', id: Astro.props.id });
+const grade = storyGrades[s.data.grade];
+---
+<a class="card link-card embed" href={url.story(s.id)} style="display:block">
+  <span class={`badge grade-${s.data.grade}`} title={grade.hint}>{grade.label}</span>
+  <h3 style="margin-top:0.5rem">{s.data.title}</h3>
+  <p>{s.data.summary}</p>
+</a>

@@ -1,0 +1,60 @@
+---
+import { getCollection, render, type CollectionEntry } from 'astro:content';
+import Base from '../../layouts/Base.astro';
+import Crumbs from '../../components/Crumbs.astro';
+import StatusBadge from '../../components/StatusBadge.astro';
+import CiteList from '../../components/CiteList.astro';
+import VerseQuote from '../../components/VerseQuote.astro';
+import { mustAll, url } from '../../lib/content';
+import { conceptGroups } from '../../lib/labels';
+
+export async function getStaticPaths() {
+  return (await getCollection('concepts')).map((concept) => ({ params: { id: concept.id }, props: { concept } }));
+}
+
+const { concept } = Astro.props as { concept: CollectionEntry<'concepts'> };
+const c = concept.data;
+const { Content } = await render(concept);
+const related = await mustAll(c.related);
+const stations = await getCollection('stations', (s) => s.data.concepts.some((r) => r.id === concept.id));
+---
+<Base title={c.name} description={c.short} searchType="مفهوم">
+  <Crumbs items={[{ href: '/concepts/', label: 'المفاهيم' }, { label: c.name }]} />
+  <header class="station-head">
+    <span class="kicker">{conceptGroups[c.group]}</span>
+    <h1>{c.name}</h1>
+    <p class="lede measure">{c.short}</p>
+    <div class="meta-row"><StatusBadge status={c.status} /></div>
+  </header>
+
+  <div class="prose"><Content /></div>
+
+  {c.example?.verse && (
+    <section class="section measure">
+      <div class="section-head"><span class="kicker">مثال</span><h2>من النصوص</h2></div>
+      <VerseQuote id={c.example.verse.id} />
+      {c.example.note && <p>{c.example.note}</p>}
+    </section>
+  )}
+
+  {stations.length > 0 && (
+    <section class="section measure">
+      <div class="section-head"><h2>أين يظهر في المسار؟</h2></div>
+      <ul class="pill-list">{stations.map((s) => <li><a href={url.station(s.id)}>المحطة {s.data.number}: {s.data.title}</a></li>)}</ul>
+    </section>
+  )}
+
+  {related.length > 0 && (
+    <section class="section measure">
+      <div class="section-head"><h2>مفاهيم قريبة</h2></div>
+      <ul class="pill-list">{related.map((r) => <li><a href={url.concept(r.id)}>{r.data.name}</a></li>)}</ul>
+    </section>
+  )}
+
+  {c.sources.length > 0 && (
+    <section class="section measure deep-only">
+      <div class="section-head"><h2>المصادر</h2></div>
+      <CiteList items={c.sources} />
+    </section>
+  )}
+</Base>

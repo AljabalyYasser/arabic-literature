@@ -1,0 +1,16 @@
+---
+// اقتباس بيت داخل المحطة: <VerseQuote id="ala-qadr-ahl-al-azm/001" />
+import { must, url, verseOrder } from '../lib/content';
+import VerseLines from './VerseLines.astro';
+
+interface Props { id: string }
+const verse = await must({ collection: 'verses', id: Astro.props.id });
+const text = await must({ collection: 'texts', id: verse.id.split('/')[0] });
+const author = text.data.author ? await must(text.data.author) : undefined;
+---
+<figure class="quote-verse">
+  <VerseLines first={verse.data.first} second={verse.data.second} />
+  <figcaption>
+    {author && <>{author.data.name}، </>}<a href={url.verse(verse.id)}>«{text.data.title}»، البيت {verseOrder(verse.id)}</a>
+  </figcaption>
+</figure>

@@ -1,0 +1,26 @@
+---
+import { sourceMap, url } from '../lib/content';
+
+interface Props {
+  items: { source: { id: string }; loc?: string; url?: string; note?: string }[];
+}
+const { items } = Astro.props;
+const sources = await sourceMap();
+const rows = items.map((c) => {
+  const s = sources.get(c.source.id);
+  if (!s) throw new Error(`إحالة إلى مصدر غير موجود: ${c.source.id}`);
+  return { ...c, s };
+});
+---
+{rows.length > 0 && (
+  <ul class="cite-list">
+    {rows.map((r) => (
+      <li>
+        <span class="src"><a href={url.source(r.s.id)}>{r.s.data.author}، {r.s.data.title}</a></span>
+        {r.loc && <span class="loc">{r.loc}</span>}
+        {r.note && <span class="loc muted">{r.note}</span>}
+        {r.url && <a class="ext" href={r.url} target="_blank" rel="noopener">افتح الموضع في النسخة الرقمية ↗</a>}
+      </li>
+    ))}
+  </ul>
+)}

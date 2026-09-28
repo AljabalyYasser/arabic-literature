@@ -1,0 +1,11 @@
+---
+interface Link { href: string; label: string; title: string }
+interface Props { prev?: Link; next?: Link }
+const { prev, next } = Astro.props;
+---
+{(prev || next) && (
+  <nav class="pager" aria-label="التنقل بين الصفحات" data-pagefind-ignore>
+    {prev ? <a class="card link-card" href={prev.href}><small>→ {prev.label}</small><b>{prev.title}</b></a> : <span></span>}
+    {next && <a class="card link-card next" href={next.href}><small>{next.label} ←</small><b>{next.title}</b></a>}
+  </nav>
+)}

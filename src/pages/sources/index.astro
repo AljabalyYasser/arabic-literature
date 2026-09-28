@@ -1,0 +1,39 @@
+---
+import { getCollection } from 'astro:content';
+import Base from '../../layouts/Base.astro';
+import { sourceKinds } from '../../lib/labels';
+
+const sources = await getCollection('sources');
+const groups = Object.entries(sourceKinds)
+  .map(([key, label]) => ({ label, items: sources.filter((s) => s.data.kind === key).sort((a, b) => a.data.author.localeCompare(b.data.author, 'ar')) }))
+  .filter((g) => g.items.length);
+---
+<Base title="المصادر">
+  <header class="station-head">
+    <span class="kicker">التوثيق</span>
+    <h1>المصادر</h1>
+    <p class="lede measure">كل كتاب أُحيل إليه في الموقع، بطبعته ومحققه. أما مواضع الإحالة (الجزء والصفحة) فتظهر عند المعلومة نفسها.</p>
+  </header>
+  {groups.map((g) => (
+    <section class="section">
+      <div class="section-head"><h2>{g.label}</h2></div>
+      <div class="grid two">
+        {g.items.map((s) => (
+          <article class="card" id={s.id}>
+            <span class="kicker">{s.data.short}</span>
+            <h3>{s.data.title}</h3>
+            <p style="margin-bottom:0.5rem">{s.data.author}</p>
+            <dl class="facts" style="margin:0">
+              {s.data.editor && <div><dt>التحقيق</dt><dd>{s.data.editor}</dd></div>}
+              {s.data.edition && <div><dt>الطبعة</dt><dd>{s.data.edition}</dd></div>}
+              {s.data.publisher && <div><dt>الناشر</dt><dd>{s.data.publisher}</dd></div>}
+              {s.data.year && <div><dt>السنة</dt><dd>{s.data.year}</dd></div>}
+            </dl>
+            {s.data.note && <p class="muted small" style="margin-top:0.75rem">{s.data.note}</p>}
+            {s.data.url && <p style="margin:0.75rem 0 0"><a class="small" href={s.data.url} target="_blank" rel="noopener">النسخة الرقمية ↗</a></p>}
+          </article>
+        ))}
+      </div>
+    </section>
+  ))}
+</Base>

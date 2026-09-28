@@ -1,0 +1,110 @@
+---
+import '@fontsource/amiri/400.css';
+import '@fontsource/amiri/700.css';
+import '@fontsource/noto-naskh-arabic/400.css';
+import '@fontsource/noto-naskh-arabic/600.css';
+import '@fontsource/readex-pro/300.css';
+import '@fontsource/readex-pro/400.css';
+import '@fontsource/readex-pro/500.css';
+import '@fontsource/readex-pro/600.css';
+import '../styles/global.css';
+
+interface Props {
+  title: string;
+  description?: string;
+  // نوع الصفحة في نتائج البحث؛ الصفحات بلا نوع لا تدخل فهرس البحث.
+  searchType?: string;
+}
+
+const { title, description = 'رحلة في تاريخ الأدب العربي وشعره: العصور، والأعلام، والنصوص، والحكايات، مع شرح موثّق يقرّب النص إلى القارئ.', searchType } = Astro.props;
+const siteName = 'الشعر والأدب العربي';
+const fullTitle = title === siteName ? title : `${title} — ${siteName}`;
+const path = Astro.url.pathname;
+
+const nav = [
+  { href: '/', label: 'المسار', match: (p: string) => p === '/' || p.startsWith('/path/') },
+  { href: '/people/', label: 'الأعلام', match: (p: string) => p.startsWith('/people/') },
+  { href: '/texts/', label: 'النصوص', match: (p: string) => p.startsWith('/texts/') },
+  { href: '/stories/', label: 'الحكايات', match: (p: string) => p.startsWith('/stories/') },
+  { href: '/concepts/', label: 'المفاهيم', match: (p: string) => p.startsWith('/concepts/') },
+];
+---
+<!doctype html>
+<html lang="ar" dir="rtl">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover" />
+    <title>{fullTitle}</title>
+    <meta name="description" content={description} />
+    <meta name="theme-color" content="#faf6ee" media="(prefers-color-scheme: light)" />
+    <meta name="theme-color" content="#16120e" media="(prefers-color-scheme: dark)" />
+    <meta property="og:title" content={fullTitle} />
+    <meta property="og:description" content={description} />
+    <meta property="og:locale" content="ar_AR" />
+    <link rel="canonical" href={new URL(path, Astro.site)} />
+    <link rel="icon" href="/favicon.svg" type="image/svg+xml" />
+    <script is:inline>
+      (function () {
+        var root = document.documentElement;
+        root.classList.add('js');
+        var depth = 'simple';
+        try { depth = localStorage.getItem('depth') || 'simple'; } catch (e) {}
+        root.dataset.depth = depth;
+      })();
+    </script>
+  </head>
+  <body>
+    <header class="site-header">
+      <div class="shell header-row">
+        <a class="brand" href="/" aria-label={`${siteName}: الصفحة الرئيسية`}>
+          <span class="brand-mark" aria-hidden="true">بيت</span>
+          <span class="brand-text"><b>{siteName}</b><small>من النص إلى الفهم</small></span>
+        </a>
+        <nav class="primary-nav" aria-label="التنقل الرئيسي">
+          {nav.map((item) => <a href={item.href} aria-current={item.match(path) ? 'page' : undefined}>{item.label}</a>)}
+        </nav>
+        <div class="header-tools">
+          <div class="depth-toggle" role="group" aria-label="عمق القراءة">
+            <button type="button" data-set-depth="simple" aria-pressed="true">الخلاصة</button>
+            <button type="button" data-set-depth="deep" aria-pressed="false">التعمق</button>
+          </div>
+          <a class="icon-btn" href="/search/" aria-label="البحث">
+            <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" aria-hidden="true"><circle cx="11" cy="11" r="7"></circle><path d="m20 20-3.5-3.5"></path></svg>
+          </a>
+          <details class="menu">
+            <summary class="icon-btn" aria-label="القائمة">
+              <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" aria-hidden="true"><path d="M4 7h16M4 12h16M4 17h16"></path></svg>
+            </summary>
+            <nav class="menu-panel" aria-label="القائمة">
+              {nav.map((item) => <a href={item.href} aria-current={item.match(path) ? 'page' : undefined}>{item.label}</a>)}
+              <hr />
+              <a href="/sources/">المصادر</a>
+              <a href="/method/">منهج التوثيق</a>
+            </nav>
+          </details>
+        </div>
+      </div>
+    </header>
+
+    <main id="main">
+      <div class="shell" data-pagefind-body={searchType ? '' : undefined} data-pagefind-meta={searchType ? `type:${searchType}` : undefined}>
+        <slot />
+      </div>
+    </main>
+
+    <footer class="site-footer">
+      <div class="shell footer-row">
+        <div><b>{siteName}</b> · تاريخ الأدب، والشعر، والنثر، وعلوم النص</div>
+        <nav aria-label="روابط التذييل">
+          <a href="/sources/">المصادر</a>
+          <a href="/method/">منهج التوثيق ودرجات الصحة</a>
+          <a href="/search/">البحث</a>
+        </nav>
+      </div>
+    </footer>
+
+    <script>
+      import '../scripts/site.ts';
+    </script>
+  </body>
+</html>

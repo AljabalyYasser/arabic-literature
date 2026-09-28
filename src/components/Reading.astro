@@ -1,0 +1,16 @@
+---
+// قراءة موجّهة لنص داخل المحطة: <Reading text="ala-qadr-ahl-al-azm" from={1} to={12} />
+import { must, url } from '../lib/content';
+import VerseReader from './VerseReader.astro';
+
+interface Props { text: string; from?: number; to?: number }
+const { text, from, to } = Astro.props;
+const entry = await must({ collection: 'texts', id: text });
+---
+<div class="embed reader-block">
+  <p class="meta-row">
+    <span>اضغط أي بيت لتفتح شرحه.</span>
+    <a href={url.text(entry.id)}>صفحة القصيدة كاملة</a>
+  </p>
+  <VerseReader text={text} from={from} to={to} />
+</div>

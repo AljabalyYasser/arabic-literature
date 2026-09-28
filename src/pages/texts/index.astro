@@ -1,0 +1,37 @@
+---
+import { getCollection } from 'astro:content';
+import Base from '../../layouts/Base.astro';
+import StatusBadge from '../../components/StatusBadge.astro';
+import { must, url, versesOf, formatDate } from '../../lib/content';
+import { textKinds } from '../../lib/labels';
+
+const texts = await getCollection('texts');
+const rows = await Promise.all(texts.map(async (t) => ({
+  t,
+  author: t.data.author ? await must(t.data.author) : undefined,
+  count: (await versesOf(t.id)).length,
+})));
+rows.sort((a, b) => (a.t.data.year?.h ?? 0) - (b.t.data.year?.h ?? 0));
+---
+<Base title="النصوص">
+  <header class="station-head">
+    <span class="kicker">المرجع</span>
+    <h1>النصوص</h1>
+    <p class="lede measure">القصائد والنصوص التي قرأناها في المسار، مرتبة زمنيًا. كل نص يُفتح بيتًا بيتًا مع شرحه.</p>
+  </header>
+  <ul class="index-list">
+    {rows.map(({ t, author, count }) => (
+      <li>
+        <a class="card link-card" href={url.text(t.id)}>
+          <span class="kicker">{textKinds[t.data.kind]}{author && ` · ${author.data.name}`}{t.data.year && ` · ${formatDate(t.data.year)}`}</span>
+          <h3>{t.data.title}</h3>
+          <div class="meta-row">
+            {count > 0 && <span>{count} بيتًا مشروحًا</span>}
+            {t.data.meter && <span>{t.data.meter}</span>}
+            <StatusBadge status={t.data.status} />
+          </div>
+        </a>
+      </li>
+    ))}
+  </ul>
+</Base>

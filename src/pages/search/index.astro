@@ -1,0 +1,46 @@
+---
+import Base from '../../layouts/Base.astro';
+---
+<Base title="البحث">
+  <header class="station-head">
+    <span class="kicker">البحث</span>
+    <h1>ابحث في المسار والمرجع</h1>
+    <p class="lede measure">في المحطات والأعلام والنصوص والأبيات والحكايات والمفاهيم. اكتب بلا تشكيل.</p>
+  </header>
+  <div id="search" class="search-box measure"></div>
+  <noscript><p>البحث يحتاج إلى تفعيل JavaScript.</p></noscript>
+  <link rel="stylesheet" href="/pagefind/pagefind-ui.css" />
+  <script is:inline src="/pagefind/pagefind-ui.js"></script>
+  <script is:inline>
+    window.addEventListener('DOMContentLoaded', function () {
+      if (!window.PagefindUI) {
+        document.getElementById('search').innerHTML = '<p class="muted">فهرس البحث يُبنى مع نسخة النشر.</p>';
+        return;
+      }
+      new PagefindUI({
+        element: '#search',
+        showSubResults: true,
+        showImages: false,
+        resetStyles: false,
+        translations: {
+          placeholder: 'ابحث: المتنبي، الحدث، الخضارم…',
+          clear_search: 'مسح',
+          load_more: 'المزيد من النتائج',
+          search_label: 'البحث في الموقع',
+          filters_label: 'تصفية',
+          zero_results: 'لا نتائج لـ [SEARCH_TERM]',
+          many_results: '[COUNT] نتيجة لـ [SEARCH_TERM]',
+          one_result: 'نتيجة واحدة لـ [SEARCH_TERM]',
+          alt_search: 'لا نتائج لـ [SEARCH_TERM]. نتائج [DIFFERENT_TERM] بدلًا منها',
+          search_suggestion: 'لا نتائج لـ [SEARCH_TERM]. جرّب:',
+          searching: 'جارٍ البحث عن [SEARCH_TERM]…'
+        }
+      });
+      var q = new URLSearchParams(location.search).get('q');
+      if (q) {
+        var input = document.querySelector('#search input');
+        if (input) { input.value = q; input.dispatchEvent(new Event('input')); }
+      }
+    });
+  </script>
+</Base>

@@ -1,0 +1,40 @@
+---
+import Base from '../../layouts/Base.astro';
+import { attributionGrades, statusHints, statusLabels, storyGrades } from '../../lib/labels';
+---
+<Base title="منهج التوثيق">
+  <header class="station-head">
+    <span class="kicker">التوثيق</span>
+    <h1>منهج التوثيق ودرجات الصحة</h1>
+    <p class="lede measure">ما الذي يحدث قبل أن يظهر الشرح للقارئ، وكيف تقرأ الشارات التي تراها بجانب النصوص والحكايات.</p>
+  </header>
+
+  <div class="prose">
+    <h2>من النص إلى الشرح</h2>
+    <ol>
+      <li><b>تثبيت النص:</b> يُنقل النص من طبعة محققة مسماة، وتُسجَّل مواضع اختلاف الرواية بدل دمجها بلا تنبيه.</li>
+      <li><b>تثبيت الخبر:</b> تُطلب الحكاية في أقدم مصدر ذكرها، وتُعطى درجة تبيّن قوتها.</li>
+      <li><b>الشرح اللغوي أولًا:</b> لا تُبنى البلاغة على فهم لغوي خاطئ؛ فيبدأ الشرح من اللفظ والتركيب.</li>
+      <li><b>فصل النقل عن القراءة:</b> ما قاله الشرّاح والمؤرخون يُنسب إليهم بإحالة ظاهرة، وما لم يُحل إلى مصدر فهو قراءة للنص.</li>
+      <li><b>المصدر في موضع المعلومة:</b> تظهر الإحالة بجانب ما تستند إليه، ويمكن فتح الموضع في النسخة الرقمية حين تتاح.</li>
+    </ol>
+
+    <h2>درجات الحكايات والأخبار</h2>
+    <ul>
+      {Object.entries(storyGrades).map(([key, g]) => <li><span class={`badge grade-${key}`}>{g.label}</span> {g.hint}</li>)}
+    </ul>
+
+    <h2>نسبة النصوص</h2>
+    <ul>
+      {Object.entries(attributionGrades).map(([key, label]) => <li><span class={`badge grade-${key}`}>{label}</span></li>)}
+    </ul>
+
+    <h2>حالة المحتوى</h2>
+    <ul>
+      {Object.entries(statusLabels).map(([key, label]) => <li><span class={`badge status-${key}`}>{label}</span> {statusHints[key as keyof typeof statusHints]}</li>)}
+    </ul>
+
+    <h2>عمق القراءة</h2>
+    <p>في وضع «الخلاصة» ترى ما يكفي لفهم النص: المعنى، والمفردات، ووظيفة البيت. وفي وضع «التعمق» تنفتح طبقات النحو والصرف والبلاغة والوزن والروايات والمصادر. يبقى اختيارك محفوظًا على جهازك.</p>
+  </div>
+</Base>

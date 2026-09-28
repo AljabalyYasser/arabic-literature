@@ -1,0 +1,51 @@
+---
+import { getCollection, type CollectionEntry } from 'astro:content';
+import Base from '../../../layouts/Base.astro';
+import Crumbs from '../../../components/Crumbs.astro';
+import StatusBadge from '../../../components/StatusBadge.astro';
+import VerseLines from '../../../components/VerseLines.astro';
+import VerseAnalysis from '../../../components/VerseAnalysis.astro';
+import Pager from '../../../components/Pager.astro';
+import { must, plain, url, verseOrder, versesOf } from '../../../lib/content';
+
+export async function getStaticPaths() {
+  const paths = [];
+  for (const text of await getCollection('texts')) {
+    const verses = await versesOf(text.id);
+    verses.forEach((verse, i) => {
+      paths.push({ params: { id: text.id, n: String(verseOrder(verse.id)) }, props: { text, verse, prev: verses[i - 1], next: verses[i + 1] } });
+    });
+  }
+  return paths;
+}
+
+type Props = { text: CollectionEntry<'texts'>; verse: CollectionEntry<'verses'>; prev?: CollectionEntry<'verses'>; next?: CollectionEntry<'verses'> };
+const { text, verse, prev, next } = Astro.props as Props;
+const n = verseOrder(verse.id);
+const author = text.data.author ? await must(text.data.author) : undefined;
+const line = [verse.data.first, verse.data.second].filter(Boolean).join(' ... ');
+---
+<Base title={`${plain(line)} — ${text.data.title}، البيت ${n}`} description={verse.data.meaning} searchType="بيت">
+  <Crumbs items={[{ href: '/texts/', label: 'النصوص' }, { href: url.text(text.id), label: text.data.title }, { label: `البيت ${n}` }]} />
+  <header class="station-head">
+    <span class="kicker">{author && `${author.data.name} · `}«{text.data.title}» · البيت {n}</span>
+    <h1 class="visually-hidden">{text.data.title}، البيت {n}</h1>
+    <div class="card" style="padding:1.5rem 1.25rem;margin-top:0.5rem">
+      <VerseLines first={verse.data.first} second={verse.data.second} large />
+    </div>
+    <div class="meta-row" style="margin-top:1rem">
+      <StatusBadge status={verse.data.status} />
+      <a href={`${url.text(text.id)}#b${n}`}>البيت في سياق القصيدة</a>
+    </div>
+    <p class="visually-hidden">{plain(line)}</p>
+  </header>
+
+  <div class="measure">
+    <VerseAnalysis verse={verse} mode="stack" />
+  </div>
+
+  <Pager
+    prev={prev ? { href: url.verse(prev.id), label: `البيت ${verseOrder(prev.id)}`, title: prev.data.first } : undefined}
+    next={next ? { href: url.verse(next.id), label: `البيت ${verseOrder(next.id)}`, title: next.data.first } : undefined}
+  />
+</Base>

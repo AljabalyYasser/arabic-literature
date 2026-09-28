@@ -1,0 +1,26 @@
+---
+import { getCollection } from 'astro:content';
+import Base from '../../layouts/Base.astro';
+import { lifespan, url } from '../../lib/content';
+import { personKinds } from '../../lib/labels';
+
+const people = (await getCollection('people')).sort((a, b) => (a.data.died?.h ?? 9999) - (b.data.died?.h ?? 9999));
+---
+<Base title="الأعلام">
+  <header class="station-head">
+    <span class="kicker">المرجع</span>
+    <h1>الأعلام</h1>
+    <p class="lede measure">الشعراء والكتّاب والنقاد والشرّاح الذين نلتقي بهم في المسار، مرتبين بتاريخ الوفاة.</p>
+  </header>
+  <ul class="index-list grid two">
+    {people.map((p) => (
+      <li>
+        <a class="card link-card" href={url.person(p.id)}>
+          <span class="kicker">{p.data.kinds.map((k) => personKinds[k]).join('، ')} · {lifespan(p.data.born, p.data.died)}</span>
+          <h3>{p.data.name}</h3>
+          <p class="muted">{p.data.summary}</p>
+        </a>
+      </li>
+    ))}
+  </ul>
+</Base>

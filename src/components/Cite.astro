@@ -1,0 +1,9 @@
+---
+// إحالة داخل نص المحطة: <Cite id="wahidi" loc="ص 274" />
+import { fmt, sourceMap } from '../lib/content';
+
+interface Props { id: string; loc?: string }
+const { id, loc } = Astro.props;
+const html = fmt(loc ? `[@${id}، ${loc}]` : `[@${id}]`, await sourceMap());
+---
+<Fragment set:html={html} />

@@ -1,0 +1,26 @@
+---
+import { getCollection } from 'astro:content';
+import Base from '../../layouts/Base.astro';
+import { url } from '../../lib/content';
+import { conceptGroups } from '../../lib/labels';
+
+const concepts = await getCollection('concepts');
+const groups = Object.entries(conceptGroups)
+  .map(([key, label]) => ({ label, items: concepts.filter((c) => c.data.group === key).sort((a, b) => a.data.name.localeCompare(b.data.name, 'ar')) }))
+  .filter((g) => g.items.length);
+---
+<Base title="المفاهيم">
+  <header class="station-head">
+    <span class="kicker">المرجع</span>
+    <h1>المفاهيم والمصطلحات</h1>
+    <p class="lede measure">أدوات القراءة التي يبنيها المسار واحدةً بعد أخرى: تعريف قريب، ومثال من النصوص التي قرأناها.</p>
+  </header>
+  {groups.map((g) => (
+    <section class="section">
+      <div class="section-head"><h2>{g.label}</h2></div>
+      <ul class="index-list grid two">
+        {g.items.map((c) => <li><a class="card link-card" href={url.concept(c.id)}><h3>{c.data.name}</h3><p class="muted">{c.data.short}</p></a></li>)}
+      </ul>
+    </section>
+  ))}
+</Base>

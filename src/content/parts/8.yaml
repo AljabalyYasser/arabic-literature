@@ -1,0 +1,16 @@
+number: 8
+title: الحديث والمعاصر
+range: القرنان العشرون والحادي والعشرون
+plan:
+  - number: "8.1"
+    title: الشعر الحر
+  - number: "8.2"
+    title: قصيدة النثر
+  - number: "8.3"
+    title: أصوات كبرى
+  - number: "8.4"
+    title: الرواية
+  - number: "8.5"
+    title: القصة القصيرة والمسرح
+  - number: "8.6"
+    title: المشهد المعاصر

@@ -1,0 +1,8 @@
+---
+interface Props { first: string; second?: string; large?: boolean }
+const { first, second, large = false } = Astro.props;
+---
+<p class:list={['bayt', { single: !second, 'bayt-large': large }]}>
+  <span>{first}</span>
+  {second && <span>{second}</span>}
+</p>

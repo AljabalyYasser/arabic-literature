@@ -1,0 +1,12 @@
+---
+import { must, url } from '../lib/content';
+import { conceptGroups } from '../lib/labels';
+
+interface Props { id: string }
+const c = await must({ collection: 'concepts', id: Astro.props.id });
+---
+<a class="card link-card embed" href={url.concept(c.id)} style="display:block">
+  <span class="kicker">{conceptGroups[c.data.group]}</span>
+  <h3>{c.data.name}</h3>
+  <p>{c.data.short}</p>
+</a>

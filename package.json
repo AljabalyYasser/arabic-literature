@@ -1,0 +1,24 @@
+{
+  "name": "arabic-literature",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "dev": "astro dev",
+    "build": "astro build && pagefind --site dist",
+    "preview": "wrangler dev"
+  },
+  "engines": {
+    "node": ">=22.12.0"
+  },
+  "dependencies": {
+    "@astrojs/mdx": "^8.0.2",
+    "@fontsource/amiri": "^5.3.0",
+    "@fontsource/noto-naskh-arabic": "^5.3.0",
+    "@fontsource/readex-pro": "^5.3.0",
+    "astro": "^7.3.5"
+  },
+  "devDependencies": {
+    "pagefind": "^1.5.2",
+    "wrangler": "^4.142.0"
+  }
+}
