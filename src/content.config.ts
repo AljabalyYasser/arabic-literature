@@ -106,38 +106,31 @@ const texts = defineCollection({
 });
 
 // كل بيت ملف مستقل داخل مجلد نصه: verses/<معرّف النص>/<رقم البيت>.yaml
+// وكل بيت يُشرح في الموقع يُشرح كاملًا: المعنى والمفردات، ثم النحو والصرف والبلاغة والوزن.
 const verses = defineCollection({
   loader: glob({ base: './src/content/verses', pattern: '*/*.yaml' }),
   schema: z.object({
     first: z.string(),
     second: z.string().optional(),
-    level: z.enum(['basic', 'full']).default('basic'),
     meaning: z.string(),
-    vocabulary: z.array(z.object({ term: z.string(), text: z.string() })).default([]),
-    syntax: z.array(z.string()).default([]),
-    morphology: z.array(z.string()).default([]),
+    vocabulary: z.array(z.object({ term: z.string(), text: z.string() })).min(1, 'البيت يحتاج إلى مفرداته'),
+    syntax: z.array(z.string()).min(1, 'البيت يحتاج إلى النحو والتركيب'),
+    morphology: z.array(z.string()).min(1, 'البيت يحتاج إلى الصرف والاشتقاق'),
     rhetoric: z.object({
       thesis: z.string(),
-      devices: z.array(card).default([]),
+      devices: z.array(card).min(1, 'البلاغة تحتاج إلى وجه واحد على الأقل'),
       connection: z.string().optional(),
-    }).optional(),
+    }),
     prosody: z.object({
       meter: z.string(),
-      rhyme: z.string().optional(),
-      scansion: z.string().optional(),
+      rhyme: z.string(),
+      scansion: z.string(),
       note: z.string().optional(),
-    }).optional(),
+    }),
     context: z.string().optional(),
     variants: z.array(z.object({ reading: z.string(), status: z.string(), note: z.string() })).default([]),
-    sources: z.array(citation).default([]),
+    sources: z.array(citation).min(1, 'البيت يحتاج إلى مصدر'),
     status,
-  }).superRefine((v, ctx) => {
-    if (v.level !== 'full') return;
-    for (const key of ['syntax', 'morphology'] as const) {
-      if (v[key].length === 0) ctx.addIssue({ code: 'custom', path: [key], message: 'التحليل الكامل يتطلب هذا الحقل' });
-    }
-    if (!v.rhetoric) ctx.addIssue({ code: 'custom', path: ['rhetoric'], message: 'التحليل الكامل يتطلب البلاغة' });
-    if (!v.prosody) ctx.addIssue({ code: 'custom', path: ['prosody'], message: 'التحليل الكامل يتطلب الوزن' });
   }),
 });
 

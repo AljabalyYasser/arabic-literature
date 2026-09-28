@@ -417,7 +417,8 @@ main { padding-block: 2rem 4rem; }
 
 /* ---------- قارئ الأبيات ---------- */
 
-.reader { border-top: 1px solid var(--line); }
+/* نعيد البيت إلى موضعه بأنفسنا عند فتحه، فلا نترك المتصفح يصحح الموضع مرة ثانية. */
+.reader { border-top: 1px solid var(--line); overflow-anchor: none; }
 
 .verse { border-bottom: 1px solid var(--line); scroll-margin-top: 4.5rem; }
 .verse.is-open { background: var(--card); }

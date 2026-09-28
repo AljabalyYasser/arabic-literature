@@ -97,9 +97,14 @@ document.addEventListener('depthchange', () => {
 
 function openVerse(verse: HTMLElement, { scroll = false } = {}) {
   const reader = verse.closest('.reader');
+  // إغلاق بيت مفتوح فوق هذا البيت يُقصر الصفحة فوقه، فيقفز البيت عن موضعه تحت الإصبع.
+  // نقيس موضعه قبل الإغلاق وبعده، ونعيده إلى مكانه.
+  const head = verse.querySelector<HTMLElement>('.verse-head');
+  const before = head?.getBoundingClientRect().top ?? 0;
   reader?.querySelectorAll<HTMLElement>('.verse.is-open').forEach((v) => {
     if (v !== verse) closeVerse(v);
   });
+  if (!scroll && head) window.scrollBy(0, head.getBoundingClientRect().top - before);
   verse.classList.add('is-open');
   verse.querySelector('.verse-body')?.removeAttribute('hidden');
   verse.querySelector('.verse-head')?.setAttribute('aria-expanded', 'true');
