@@ -5,7 +5,7 @@ import Crumbs from '../../components/Crumbs.astro';
 import StatusBadge from '../../components/StatusBadge.astro';
 import CiteList from '../../components/CiteList.astro';
 import Body from '../../components/Body.astro';
-import { mustAll, url } from '../../lib/content';
+import { fmt, mustAll, sourceMap, stripCites, url } from '../../lib/content';
 import { storyGrades } from '../../lib/labels';
 
 export async function getStaticPaths() {
@@ -16,8 +16,9 @@ const { story } = Astro.props as { story: CollectionEntry<'stories'> };
 const s = story.data;
 const people = await mustAll(s.people);
 const grade = storyGrades[s.grade];
+const sources = await sourceMap();
 ---
-<Base title={s.title} description={s.summary} searchType="حكاية">
+<Base title={s.title} description={stripCites(s.summary)} searchType="حكاية">
   <Crumbs items={[{ href: '/stories/', label: 'الحكايات' }, { label: s.title }]} />
   <header class="station-head">
     <span class="kicker">حكاية</span>
@@ -31,7 +32,7 @@ const grade = storyGrades[s.grade];
   <section class="section measure">
     <div class="note-box">
       <b>درجة الخبر: {grade.label}</b>
-      <p>{s.gradeReason}</p>
+      <p set:html={fmt(s.gradeReason, sources)} />
     </div>
     <div class="section-head" style="margin-top:1.5rem"><h3>أقدم مصدر ذكره</h3></div>
     <CiteList items={[s.earliest]} />

@@ -1,6 +1,6 @@
 ---
 import Base from '../layouts/Base.astro';
-import { getPath, url } from '../lib/content';
+import { ago, getPath, url } from '../lib/content';
 import { ordinals } from '../lib/labels';
 
 const path = await getPath();
@@ -31,6 +31,7 @@ const first = written[0];
             <span class="kicker">الباب {entry.data.number === 0 ? 'التمهيدي' : ordinals[entry.data.number - 1]}</span>
             <h3>{hasPage ? <a href={url.part(entry.id)}>{entry.data.title}</a> : entry.data.title}</h3>
             {entry.data.range && <div class="range">{entry.data.range}</div>}
+            {entry.data.start && <div class="ago">بدأ {ago(entry.data.start, true)}</div>}
           </div>
           <ol class="station-list">
             {stations.map((s) => (

@@ -6,7 +6,7 @@ import StatusBadge from '../../../components/StatusBadge.astro';
 import CiteList from '../../../components/CiteList.astro';
 import VerseReader from '../../../components/VerseReader.astro';
 import Body from '../../../components/Body.astro';
-import { checkVerseParents, fmt, formatDate, must, sourceMap, stripCites, url, verseOrder, versesOf } from '../../../lib/content';
+import { checkVerseParents, fmt, formatDate, must, ranges, sourceMap, stripCites, url, verseOrder, versesOf } from '../../../lib/content';
 import { attributionGrades, textKinds } from '../../../lib/labels';
 
 export async function getStaticPaths() {
@@ -19,7 +19,7 @@ const t = text.data;
 const author = t.author ? await must(t.author) : undefined;
 const verses = await versesOf(text.id);
 const sources = await sourceMap();
-const range = verses.length ? `${verseOrder(verses[0].id)}–${verseOrder(verses[verses.length - 1].id)}` : '';
+const range = verses.length ? ranges(verses.map((v) => verseOrder(v.id))) : '';
 ---
 <Base title={t.title} description={stripCites(t.occasion)} searchType={textKinds[t.kind]}>
   <Crumbs items={[{ href: '/texts/', label: 'النصوص' }, { label: t.title }]} />
@@ -45,7 +45,7 @@ const range = verses.length ? `${verseOrder(verses[0].id)}–${verseOrder(verses
   </div>
 
   {t.thesis && (
-    <section class="thesis measure"><b>مفتاح القراءة</b><p>{t.thesis}</p></section>
+    <section class="thesis measure"><b>مفتاح القراءة</b><p set:html={fmt(t.thesis, sources)} /></section>
   )}
 
   <Body entry={text} />
@@ -54,7 +54,7 @@ const range = verses.length ? `${verseOrder(verses[0].id)}–${verseOrder(verses
     <section class="section">
       <div class="section-head"><span class="kicker">حركة المعنى</span><h2>خريطة الأبيات</h2>{t.movement && <p class="measure">{t.movement}</p>}</div>
       <div class="map-list">
-        {t.map.map((m) => <article class="card"><span class="range">الأبيات {m.range}</span><h3>{m.title}</h3><p>{m.text}</p></article>)}
+        {t.map.map((m) => <article class="card"><span class="range">الأبيات {m.range}</span><h3>{m.title}</h3><p set:html={fmt(m.text, sources)} /></article>)}
       </div>
     </section>
   )}

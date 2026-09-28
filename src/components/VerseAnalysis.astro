@@ -97,7 +97,7 @@ const tabs = mode === 'tabs';
         <div><dt>البحر</dt><dd>{v.prosody.meter}</dd></div>
         {v.prosody.rhyme && <div><dt>القافية</dt><dd>{v.prosody.rhyme}</dd></div>}
       </dl>
-      {v.prosody.scansion && <p class="bayt single">{v.prosody.scansion}</p>}
+      {v.prosody.scansion && <p class="bayt single" set:html={f(v.prosody.scansion)} />}
       {v.prosody.note && <p set:html={f(v.prosody.note)} />}
     </section>
   )}

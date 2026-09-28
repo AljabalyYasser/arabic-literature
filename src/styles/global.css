@@ -749,3 +749,8 @@ html:not(.js) .deep-hint { display: none; }
 .footer-row nav { display: flex; flex-wrap: wrap; gap: 0.5rem 1.25rem; }
 .footer-row a { color: var(--ink-2); text-decoration: none; }
 .footer-row a:hover { color: var(--accent); }
+
+/* البعد عن عصرنا: «قبل نحو 1400 سنة» */
+.ago { font-family: var(--font-ui); font-size: 0.85em; color: var(--ink-3); }
+.ago.block { display: block; font-size: 0.8rem; font-weight: 400; margin-top: 0.1rem; }
+.part-row .ago { font-size: 0.78rem; }

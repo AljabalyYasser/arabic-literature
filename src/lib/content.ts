@@ -50,6 +50,19 @@ export async function checkVerseParents() {
   }
 }
 
+// أرقام الأبيات المشروحة مجموعة في مدى متصل، مثل: 1–6، 44–46.
+export function ranges(numbers: number[]) {
+  const out: string[] = [];
+  let start = numbers[0];
+  for (let i = 1; i <= numbers.length; i++) {
+    if (numbers[i] === numbers[i - 1] + 1) continue;
+    const end = numbers[i - 1];
+    out.push(start === end ? String(start) : `${start}–${end}`);
+    start = numbers[i];
+  }
+  return out.join('، ');
+}
+
 // ---------- المسار ----------
 
 const numKey = (n: string) => n.split('.').map(Number);
@@ -87,10 +100,11 @@ export async function getPath(): Promise<PathPart[]> {
 
 // ---------- التواريخ ----------
 
-type DateVal = { h?: number; g?: number; approx?: boolean } | undefined;
+type DateVal = { h?: number; g?: number; approx?: boolean; text?: string } | undefined;
 
 export function formatDate(d: DateVal) {
   if (!d) return '';
+  if (d.text) return d.text;
   const bits = [d.h ? `${d.h}هـ` : '', d.g ? `${d.g}م` : ''].filter(Boolean).join(' / ');
   return d.approx ? `نحو ${bits}` : bits;
 }
@@ -99,6 +113,50 @@ export function lifespan(born: DateVal, died: DateVal) {
   if (born && died) return `${formatDate(born)} — ${formatDate(died)}`;
   if (died) return `ت ${formatDate(died)}`;
   return formatDate(born);
+}
+
+// ---------- البعد عن عصرنا ----------
+
+// السنة التي بُني فيها الموقع؛ يُحسب منها البعد، فيبقى صحيحًا مع كل بناء جديد.
+const NOW = new Date().getFullYear();
+const fromHijri = (h: number) => Math.round(622 + h * 0.970229);
+
+// «قبل نحو 1400 سنة». الأبعاد الطويلة تُقرَّب إلى أقرب عشر سنين.
+export function ago(g: number, approx = false) {
+  const diff = NOW - g;
+  if (diff < 1) return 'في عامنا هذا';
+  const n = diff >= 100 ? Math.round(diff / 10) * 10 : diff;
+  const about = approx || diff >= 100 ? 'نحو ' : '';
+  if (n === 1) return `قبل ${about}سنة`;
+  if (n === 2) return `قبل ${about}سنتين`;
+  const word = n % 100 >= 3 && n % 100 <= 10 ? 'سنوات' : 'سنة';
+  return `قبل ${about}${n} ${word}`;
+}
+
+// البعد من تاريخ في ملف المحتوى: الميلادي إن وُجد، وإلا المحوَّل من الهجري.
+export function dateAgo(d: DateVal) {
+  if (d?.g) return ago(d.g, d.approx || Boolean(d.text));
+  if (d?.h) return ago(fromHijri(d.h), true);
+  return '';
+}
+
+// بُعد العلَم عن عصرنا: من وفاته، وإلا من مولده.
+export const livedAgo = (born: DateVal, died: DateVal) => dateAgo(died) || dateAgo(born);
+
+const agoSpan = (text: string) => `<span class="ago">${text}</span>`;
+
+// داخل النص: [~630] سنة ميلادية، و[~h41] سنة هجرية.
+const AGO = /\[~(h)?(\d{1,4})\]/g;
+const agoToken = (_: string, h: string | undefined, y: string) =>
+  agoSpan(h ? ago(fromHijri(Number(y)), true) : ago(Number(y)));
+
+// «(ت 463هـ)» و«(ت 1332هـ / 1914م)» يضاف إليهما البعد تلقائيًا.
+const DEATH = /\(ت (\d{1,4})هـ(?: \/ (\d{3,4})م)?\)/g;
+export function withDeathAgo(text: string, html = false) {
+  return text.replace(DEATH, (m, h: string, g?: string) => {
+    const t = g ? ago(Number(g)) : ago(fromHijri(Number(h)), true);
+    return `${m.slice(0, -1)}، ${html ? agoSpan(t) : t})`;
+  });
 }
 
 // ---------- النصوص المنسقة ----------
@@ -127,18 +185,28 @@ function citeLink(id: string, loc: string | undefined, sources: SourceMap) {
 // يحوّل نصًا من ملفات المحتوى إلى HTML آمن، مع تحويل الإحالات إلى روابط.
 export function fmt(text: string | undefined, sources: SourceMap) {
   if (!text) return '';
-  return escapeHtml(text).replace(CITE, (_, id: string, loc?: string) => citeLink(id, loc, sources));
+  const html = escapeHtml(text).replace(CITE, (_, id: string, loc?: string) => citeLink(id, loc, sources));
+  return withDeathAgo(html.replace(AGO, agoToken), true);
 }
+
+// البعد الزمني وحده، لمكوّن <Ago /> في المحطات.
+export const agoHtml = (g: number | undefined, h: number | undefined) =>
+  agoSpan(g ? ago(g) : h ? ago(fromHijri(h), true) : '');
 
 // يحوّل الإحالات داخل متن Markdown بعد تحويله إلى HTML.
 export function citeHtml(html: string | undefined, sources: SourceMap) {
   if (!html) return '';
-  return html.replace(CITE, (_, id: string, loc?: string) => citeLink(id, loc, sources));
+  const out = html.replace(CITE, (_, id: string, loc?: string) => citeLink(id, loc, sources));
+  return withDeathAgo(out.replace(AGO, agoToken), true);
 }
 
 // نص بلا إحالات، لوصف الصفحة في محركات البحث.
 export function stripCites(text: string | undefined) {
-  return text?.replace(CITE, '').replace(/\s+([،.])/g, '$1').trim();
+  return text
+    ?.replace(CITE, '')
+    .replace(AGO, (_, h: string | undefined, y: string) => (h ? ago(fromHijri(Number(y)), true) : ago(Number(y))))
+    .replace(/\s+([،.])/g, '$1')
+    .trim();
 }
 
 // نسخة من النص بلا تشكيل، ليجده البحث مهما كُتبت الكلمة.

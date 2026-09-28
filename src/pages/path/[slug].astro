@@ -12,6 +12,7 @@ import ConceptCard from '../../components/ConceptCard.astro';
 import PersonCard from '../../components/PersonCard.astro';
 import StoryCard from '../../components/StoryCard.astro';
 import Bayt from '../../components/Bayt.astro';
+import Ago from '../../components/Ago.astro';
 import { getPath, must, url, type PathPart } from '../../lib/content';
 import { ordinals } from '../../lib/labels';
 
@@ -50,7 +51,7 @@ if (props.kind === 'station') {
   ({ Content } = await render(station));
   memorize = await Promise.all(station.data.memorize.map((r) => must(r)));
 }
-const components = { Reading, VerseQuote, Cite, ConceptCard, PersonCard, StoryCard, Bayt };
+const components = { Reading, VerseQuote, Cite, ConceptCard, PersonCard, StoryCard, Bayt, Ago };
 ---
 {props.kind === 'part' ? (
   <Base title={partData.title} description={partData.summary}>

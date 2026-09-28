@@ -1,15 +1,16 @@
 number: 1
 title: العصر الجاهلي
 range: قبل الإسلام
+start: 460
 plan:
   - number: "1.1"
     title: الصحراء والقبيلة والسوق
   - number: "1.2"
-    title: المعلقات وامرؤ القيس
+    title: المعلقات وامرؤ القَيْس
   - number: "1.3"
     title: الفارس والحكيم
   - number: "1.4"
-    title: الصعاليك
+    title: الصَّعالِيك
   - number: "1.5"
     title: أصوات أخرى
   - number: "1.6"

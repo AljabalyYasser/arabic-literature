@@ -1,14 +1,15 @@
 number: 7
 title: النهضة
 range: القرن التاسع عشر ومطلع العشرين
+start: 1798
 plan:
   - number: "7.1"
     title: الطباعة والصحافة والترجمة
   - number: "7.2"
     title: الإحياء
   - number: "7.3"
-    title: المهجر
+    title: المَهْجَر
   - number: "7.4"
     title: المعارك الأدبية
   - number: "7.5"
-    title: أبولو والرومانسية
+    title: أَبُولُّو والرومانسية

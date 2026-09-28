@@ -2,6 +2,7 @@
 import { getCollection } from 'astro:content';
 import Base from '../../layouts/Base.astro';
 import { sourceKinds } from '../../lib/labels';
+import { withDeathAgo } from '../../lib/content';
 
 const sources = await getCollection('sources');
 const groups = Object.entries(sourceKinds)
@@ -23,7 +24,7 @@ const groups = Object.entries(sourceKinds)
           <article class="card" id={s.id}>
             <span class="kicker">{s.data.short}</span>
             <h3>{s.data.title}</h3>
-            <p style="margin-bottom:0.5rem">{s.data.author}</p>
+            <p style="margin-bottom:0.5rem">{withDeathAgo(s.data.author)}</p>
             <dl class="facts" style="margin:0">
               {s.data.editor && <div><dt>التحقيق</dt><dd>{s.data.editor}</dd></div>}
               {s.data.edition && <div><dt>الطبعة</dt><dd>{s.data.edition}</dd></div>}

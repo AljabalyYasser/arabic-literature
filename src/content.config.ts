@@ -12,6 +12,8 @@ const date = z.object({
   h: z.number().int().optional(),
   g: z.number().int().optional(),
   approx: z.boolean().default(false),
+  // صيغة حرة حين لا يُعرف التاريخ بسنة واحدة، مثل: «بين 530 و540م على الأرجح».
+  text: z.string().optional(),
 });
 
 // إحالة إلى موضع محدد من مصدر. الكتاب يُسجَّل مرة واحدة في sources، والموضع هنا.
@@ -28,6 +30,8 @@ const parts = defineCollection({
     number: z.number().int(),
     title: z.string(),
     range: z.string().optional(),
+    // السنة الميلادية التقريبية لبداية الباب، ليُحسب بعدها عن عصرنا.
+    start: z.number().int().optional(),
     summary: z.string().optional(),
     highlights: z.array(card).default([]),
     deep: z.array(card).default([]),

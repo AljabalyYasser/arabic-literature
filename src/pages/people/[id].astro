@@ -5,7 +5,7 @@ import Crumbs from '../../components/Crumbs.astro';
 import StatusBadge from '../../components/StatusBadge.astro';
 import CiteList from '../../components/CiteList.astro';
 import Body from '../../components/Body.astro';
-import { formatDate, url } from '../../lib/content';
+import { dateAgo, fmt, formatDate, sourceMap, stripCites, url } from '../../lib/content';
 import { personKinds, textKinds } from '../../lib/labels';
 
 export async function getStaticPaths() {
@@ -17,8 +17,9 @@ const p = person.data;
 const texts = await getCollection('texts', (t) => t.data.author?.id === person.id);
 const stations = (await getCollection('stations', (s) => s.data.people.some((r) => r.id === person.id)));
 const stories = await getCollection('stories', (s) => s.data.people.some((r) => r.id === person.id));
+const sources = await sourceMap();
 ---
-<Base title={p.name} description={p.summary} searchType="علَم">
+<Base title={p.name} description={stripCites(p.summary)} searchType="علَم">
   <Crumbs items={[{ href: '/people/', label: 'الأعلام' }, { label: p.name }]} />
   <div class="entity-head with-aside">
     <header>
@@ -30,14 +31,14 @@ const stories = await getCollection('stories', (s) => s.data.people.some((r) => 
     <aside class="card aside-card">
       <dl>
         {p.fullName && <div><dt>الاسم</dt><dd>{p.fullName}</dd></div>}
-        {p.born && <div><dt>المولد</dt><dd>{formatDate(p.born)}</dd></div>}
-        {p.died && <div><dt>الوفاة</dt><dd>{formatDate(p.died)}</dd></div>}
+        {p.born && <div><dt>المولد</dt><dd>{formatDate(p.born)}<span class="ago block">{dateAgo(p.born)}</span></dd></div>}
+        {p.died && <div><dt>الوفاة</dt><dd>{formatDate(p.died)}<span class="ago block">{dateAgo(p.died)}</span></dd></div>}
       </dl>
     </aside>
   </div>
 
   {p.placement && (
-    <section class="thesis measure"><b>موضعه من عصره</b><p>{p.placement}</p></section>
+    <section class="thesis measure"><b>موضعه من عصره</b><p set:html={fmt(p.placement, sources)} /></section>
   )}
 
   <Body entry={person} />
@@ -46,7 +47,7 @@ const stories = await getCollection('stories', (s) => s.data.people.some((r) => 
     <section class="section">
       <div class="section-head"><span class="kicker">مفاتيح القراءة</span><h2>كيف نقرأ {p.name}؟</h2></div>
       <div class="grid two">
-        {p.readingKeys.map((k, i) => <article class="card"><span class="num">{String(i + 1).padStart(2, '0')}</span><h3>{k.title}</h3><p>{k.text}</p></article>)}
+        {p.readingKeys.map((k, i) => <article class="card"><span class="num">{String(i + 1).padStart(2, '0')}</span><h3>{k.title}</h3><p set:html={fmt(k.text, sources)} /></article>)}
       </div>
     </section>
   )}
@@ -54,7 +55,7 @@ const stories = await getCollection('stories', (s) => s.data.people.some((r) => 
   {p.timeline.length > 0 && (
     <section class="section measure deep-only">
       <div class="section-head"><span class="kicker">السيرة سياقًا</span><h2>خط زمني</h2></div>
-      <ol class="timeline">{p.timeline.map((t) => <li><time>{t.year}</time><p>{t.text}</p></li>)}</ol>
+      <ol class="timeline">{p.timeline.map((t) => <li><time>{t.year}</time><p set:html={fmt(t.text, sources)} /></li>)}</ol>
     </section>
   )}
 

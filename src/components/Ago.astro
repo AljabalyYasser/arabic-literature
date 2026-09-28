@@ -1,0 +1,9 @@
+---
+// بُعد تاريخ عن عصرنا داخل نص المحطة: <Ago g={661} /> لسنة ميلادية، أو <Ago h={41} /> لسنة هجرية.
+import { agoHtml } from '../lib/content';
+
+interface Props { g?: number; h?: number }
+const { g, h } = Astro.props;
+if (!g && !h) throw new Error('المكوّن Ago يحتاج سنة: g أو h');
+---
+<Fragment set:html={agoHtml(g, h)} />

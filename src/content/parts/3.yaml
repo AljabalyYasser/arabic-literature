@@ -1,11 +1,12 @@
 number: 3
 title: العصر الأموي
 range: 41–132هـ / 661–750م
+start: 661
 plan:
   - number: "3.1"
-    title: النقائض
+    title: النَّقائِض
   - number: "3.2"
-    title: الغزل العذري
+    title: الغزل العُذْرِيّ
   - number: "3.3"
     title: الغزل الحضري
   - number: "3.4"

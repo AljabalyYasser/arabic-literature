@@ -1,6 +1,7 @@
 number: 8
 title: العصر الحديث
 range: القرنان العشرون والحادي والعشرون
+start: 1900
 plan:
   - number: "8.1"
     title: حراس العمود
