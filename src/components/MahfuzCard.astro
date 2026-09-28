@@ -1,0 +1,53 @@
+---
+// بطاقة محفوظ واحد، في صفحة المحفوظات وفي آخر المحطة.
+import type { CollectionEntry } from 'astro:content';
+import { dateAgo, fmt, livedAgo, must, mustAll, sourceMap, url, verseOrder, verseTextId } from '../lib/content';
+import { mahfuzKinds, storyGrades } from '../lib/labels';
+import VerseLines from './VerseLines.astro';
+
+interface Props { item: CollectionEntry<'mahfuzat'>; showStation?: boolean }
+const { item, showStation = true } = Astro.props;
+const d = item.data;
+const sources = await sourceMap();
+const person = d.person ? await must(d.person) : undefined;
+const verses = await mustAll(d.verses);
+const lines = [...verses.map((v) => ({ first: v.data.first, second: v.data.second })), ...d.lines];
+const story = d.story ? await must(d.story) : undefined;
+const station = d.station ? await must(d.station) : undefined;
+const when = d.year ? dateAgo(d.year) : person ? livedAgo(person.data.born, person.data.died) : '';
+const firstVerse = verses[0];
+const textId = firstVerse ? verseTextId(firstVerse.id) : undefined;
+---
+<article class="mahfuz card" id={item.id} data-mahfuz={item.id} data-kind={d.kind}>
+  <header class="mahfuz-head">
+    <span class="kicker">
+      {mahfuzKinds[d.kind]}
+      {person && <> · <a href={url.person(person.id)}>{person.data.name}</a></>}
+      {when && <> · <span class="ago">{when}</span></>}
+    </span>
+    {d.title && <h3>{d.title}</h3>}
+    {d.kind === 'hikaya' && story && <h3><a href={url.story(story.id)}>{story.data.title}</a></h3>}
+  </header>
+
+  {lines.length > 0 && (
+    <div class="mahfuz-lines">
+      {lines.map((l) => <VerseLines first={l.first} second={l.second} />)}
+    </div>
+  )}
+  {d.text && <p class="mahfuz-saying"><span class="hideable">{d.text}</span></p>}
+  {d.kind === 'hikaya' && story && (
+    <p class="mahfuz-story">
+      <span class={`badge grade-${story.data.grade}`} title={storyGrades[story.data.grade].hint}>{storyGrades[story.data.grade].label}</span>
+      {' '}{story.data.summary}
+    </p>
+  )}
+
+  <p class="mahfuz-meaning" set:html={fmt(d.meaning, sources)} />
+
+  <footer class="mahfuz-tools">
+    {showStation && station && <a href={url.station(station.id)}>شُرح في المحطة {station.data.number}</a>}
+    {firstVerse && textId && <a href={`${url.text(textId)}#b${verseOrder(firstVerse.id)}`}>في سياق القصيدة</a>}
+    {story && <a href={url.story(story.id)}>الحكاية كاملة</a>}
+    <button type="button" class="btn small hifz-btn" data-hifz={item.id} data-label={d.kind === 'hikaya' ? 'أعرفها' : 'حفظته'} aria-pressed="false">{d.kind === 'hikaya' ? 'أعرفها' : 'حفظته'}</button>
+  </footer>
+</article>

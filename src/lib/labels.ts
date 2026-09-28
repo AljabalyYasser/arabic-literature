@@ -55,6 +55,21 @@ export const conceptGroups = {
   adab: 'تاريخ الأدب',
 } as const;
 
+export const mahfuzKinds = {
+  bayt: 'بيت سائر',
+  maqta: 'مقطع',
+  mathal: 'مثل وقول سائر',
+  hikaya: 'حكاية',
+} as const;
+
+// أسماء الأنواع في مرشّح صفحة المحفوظات.
+export const mahfuzFilters = {
+  bayt: 'الأبيات',
+  maqta: 'المقاطع',
+  mathal: 'الأمثال',
+  hikaya: 'الحكايات',
+} as const;
+
 export const sourceKinds = {
   primary: 'الأصول: الدواوين والشروح وكتب الأخبار',
   study: 'الدراسات الحديثة',

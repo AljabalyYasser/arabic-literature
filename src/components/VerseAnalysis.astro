@@ -14,19 +14,18 @@ const v = verse.data;
 const sources = await sourceMap();
 const f = (t?: string) => fmt(t, sources);
 
-type Panel = { id: string; label: string; deep: boolean };
+type Panel = { id: string; label: string };
 const panels: Panel[] = [
-  { id: 'meaning', label: 'المعنى', deep: false },
-  ...(v.vocabulary.length ? [{ id: 'vocabulary', label: 'المفردات', deep: false }] : []),
-  ...(v.context ? [{ id: 'context', label: 'وظيفة البيت', deep: false }] : []),
-  ...(v.syntax.length ? [{ id: 'syntax', label: 'النحو والتركيب', deep: true }] : []),
-  ...(v.morphology.length ? [{ id: 'morphology', label: 'الصرف والاشتقاق', deep: true }] : []),
-  ...(v.rhetoric ? [{ id: 'rhetoric', label: 'البلاغة', deep: true }] : []),
-  ...(v.prosody ? [{ id: 'prosody', label: 'الوزن والقافية', deep: true }] : []),
-  ...(v.variants.length ? [{ id: 'variants', label: 'الروايات', deep: true }] : []),
-  ...(v.sources.length ? [{ id: 'sources', label: 'المصادر', deep: true }] : []),
+  { id: 'meaning', label: 'المعنى' },
+  ...(v.vocabulary.length ? [{ id: 'vocabulary', label: 'المفردات' }] : []),
+  ...(v.context ? [{ id: 'context', label: 'وظيفة البيت' }] : []),
+  ...(v.syntax.length ? [{ id: 'syntax', label: 'النحو والتركيب' }] : []),
+  ...(v.morphology.length ? [{ id: 'morphology', label: 'الصرف والاشتقاق' }] : []),
+  ...(v.rhetoric ? [{ id: 'rhetoric', label: 'البلاغة' }] : []),
+  ...(v.prosody ? [{ id: 'prosody', label: 'الوزن والقافية' }] : []),
+  ...(v.variants.length ? [{ id: 'variants', label: 'الروايات' }] : []),
+  ...(v.sources.length ? [{ id: 'sources', label: 'المصادر' }] : []),
 ];
-const hasDeep = panels.some((p) => p.deep);
 const pid = (id: string) => `${verse.id.replace('/', '-')}-${id}`;
 const tabs = mode === 'tabs';
 ---
@@ -34,7 +33,7 @@ const tabs = mode === 'tabs';
   {tabs && (
     <div class="tabs" role="tablist" aria-label="طبقات الشرح">
       {panels.map((p) => (
-        <button type="button" role="tab" id={`tab-${pid(p.id)}`} aria-controls={pid(p.id)} data-tab={p.id} class:list={{ 'deep-only': p.deep }}>{p.label}</button>
+        <button type="button" role="tab" id={`tab-${pid(p.id)}`} aria-controls={pid(p.id)} data-tab={p.id}>{p.label}</button>
       ))}
     </div>
   )}
@@ -61,21 +60,21 @@ const tabs = mode === 'tabs';
   )}
 
   {v.syntax.length > 0 && (
-    <section class="panel deep-only" id={pid('syntax')} data-panel="syntax" role={tabs ? 'tabpanel' : undefined}>
+    <section class="panel" id={pid('syntax')} data-panel="syntax" role={tabs ? 'tabpanel' : undefined}>
       <h4 class="panel-title">النحو والتركيب</h4>
       <div class="points">{v.syntax.map((s) => <p set:html={f(s)} />)}</div>
     </section>
   )}
 
   {v.morphology.length > 0 && (
-    <section class="panel deep-only" id={pid('morphology')} data-panel="morphology" role={tabs ? 'tabpanel' : undefined}>
+    <section class="panel" id={pid('morphology')} data-panel="morphology" role={tabs ? 'tabpanel' : undefined}>
       <h4 class="panel-title">الصرف والاشتقاق</h4>
       <div class="points">{v.morphology.map((s) => <p set:html={f(s)} />)}</div>
     </section>
   )}
 
   {v.rhetoric && (
-    <section class="panel deep-only" id={pid('rhetoric')} data-panel="rhetoric" role={tabs ? 'tabpanel' : undefined}>
+    <section class="panel" id={pid('rhetoric')} data-panel="rhetoric" role={tabs ? 'tabpanel' : undefined}>
       <h4 class="panel-title">البلاغة</h4>
       <div class="thesis"><b>الفكرة البلاغية المركزية</b><p set:html={f(v.rhetoric.thesis)} /></div>
       <div class="devices">
@@ -91,7 +90,7 @@ const tabs = mode === 'tabs';
   )}
 
   {v.prosody && (
-    <section class="panel deep-only" id={pid('prosody')} data-panel="prosody" role={tabs ? 'tabpanel' : undefined}>
+    <section class="panel" id={pid('prosody')} data-panel="prosody" role={tabs ? 'tabpanel' : undefined}>
       <h4 class="panel-title">الوزن والقافية</h4>
       <dl class="facts">
         <div><dt>البحر</dt><dd>{v.prosody.meter}</dd></div>
@@ -103,7 +102,7 @@ const tabs = mode === 'tabs';
   )}
 
   {v.variants.length > 0 && (
-    <section class="panel deep-only" id={pid('variants')} data-panel="variants" role={tabs ? 'tabpanel' : undefined}>
+    <section class="panel" id={pid('variants')} data-panel="variants" role={tabs ? 'tabpanel' : undefined}>
       <h4 class="panel-title">الروايات</h4>
       {v.variants.map((r) => (
         <div class="variant">
@@ -115,14 +114,11 @@ const tabs = mode === 'tabs';
   )}
 
   {v.sources.length > 0 && (
-    <section class="panel deep-only" id={pid('sources')} data-panel="sources" role={tabs ? 'tabpanel' : undefined}>
+    <section class="panel" id={pid('sources')} data-panel="sources" role={tabs ? 'tabpanel' : undefined}>
       <h4 class="panel-title">المصادر</h4>
       <CiteList items={v.sources} />
       <p class="muted small" style="margin-top:1rem">ما يُنسب في الشرح إلى أحد الشرّاح فهو نقل عنه، وما سوى ذلك قراءة للنص.</p>
     </section>
   )}
 
-  {hasDeep && (
-    <p class="deep-hint simple-only">في التعمق: النحو، والصرف، والبلاغة، والوزن، والمصادر. <button type="button" data-set-depth="deep">افتح التعمق</button></p>
-  )}
 </div>

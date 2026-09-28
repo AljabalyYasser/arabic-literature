@@ -23,6 +23,7 @@ const path = Astro.url.pathname;
 
 const nav = [
   { href: '/', label: 'المسار', match: (p: string) => p === '/' || p.startsWith('/path/') },
+  { href: '/mahfuzat/', label: 'المحفوظات', match: (p: string) => p.startsWith('/mahfuzat/') },
   { href: '/people/', label: 'الأعلام', match: (p: string) => p.startsWith('/people/') },
   { href: '/texts/', label: 'النصوص', match: (p: string) => p.startsWith('/texts/') },
   { href: '/stories/', label: 'الحكايات', match: (p: string) => p.startsWith('/stories/') },
@@ -47,9 +48,6 @@ const nav = [
       (function () {
         var root = document.documentElement;
         root.classList.add('js');
-        var depth = 'simple';
-        try { depth = localStorage.getItem('depth') || 'simple'; } catch (e) {}
-        root.dataset.depth = depth;
       })();
     </script>
   </head>
@@ -64,10 +62,6 @@ const nav = [
           {nav.map((item) => <a href={item.href} aria-current={item.match(path) ? 'page' : undefined}>{item.label}</a>)}
         </nav>
         <div class="header-tools">
-          <div class="depth-toggle" role="group" aria-label="عمق القراءة">
-            <button type="button" data-set-depth="simple" aria-pressed="true">الخلاصة</button>
-            <button type="button" data-set-depth="deep" aria-pressed="false">التعمق</button>
-          </div>
           <a class="icon-btn" href="/search/" aria-label="البحث">
             <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" aria-hidden="true"><circle cx="11" cy="11" r="7"></circle><path d="m20 20-3.5-3.5"></path></svg>
           </a>

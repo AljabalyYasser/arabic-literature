@@ -1,0 +1,56 @@
+---
+import { getCollection, type CollectionEntry } from 'astro:content';
+import Base from '../../layouts/Base.astro';
+import MahfuzCard from '../../components/MahfuzCard.astro';
+import { ago, compareNumbers } from '../../lib/content';
+import { mahfuzFilters, ordinals } from '../../lib/labels';
+
+const items = await getCollection('mahfuzat');
+const parts = (await getCollection('parts')).sort((a, b) => a.data.number - b.data.number);
+const stations = new Map((await getCollection('stations')).map((s) => [s.id, s]));
+// الترتيب داخل الباب: بحسب المحطة التي شُرح فيها، ثم بحسب order.
+const stationNo = (m: CollectionEntry<'mahfuzat'>) => (m.data.station && stations.get(m.data.station.id)?.data.number) || '999';
+const groups = parts
+  .map((part) => ({
+    part,
+    items: items
+      .filter((m) => m.data.part.id === part.id)
+      .sort((a, b) => compareNumbers(stationNo(a), stationNo(b)) || a.data.order - b.data.order || a.id.localeCompare(b.id)),
+  }))
+  .filter((g) => g.items.length > 0);
+---
+<Base title="المحفوظات" description="أشهر الأبيات والمقاطع والأمثال والحكايات في الأدب العربي، مرتبة بالعصور، مع معناها وقائلها." searchType="المحفوظات">
+  <header class="station-head">
+    <span class="kicker">المحفوظات</span>
+    <h1>ما يبقى معك</h1>
+    <p class="lede measure">أشهر الأبيات والمقاطع والأمثال والحكايات في الأدب العربي، مرتبة بالعصور. الأبيات والأمثال تُحفظ، والحكايات تُعرف وتُروى. وكل ما هنا مشروح في محطته من المسار.</p>
+  </header>
+
+  {items.length > 0 ? (
+    <>
+      <div class="hifz-bar">
+        <p class="hifz-progress">حفظت <b data-hifz-count>0</b> من <b>{items.length}</b></p>
+        <div class="filter" role="group" aria-label="نوع المحفوظ">
+          <button type="button" data-filter="all" aria-pressed="true">الكل</button>
+          {Object.entries(mahfuzFilters).map(([key, label]) => items.some((m) => m.data.kind === key) && <button type="button" data-filter={key} aria-pressed="false">{label}</button>)}
+        </div>
+        <button type="button" class="btn" data-test-toggle aria-pressed="false">اختبر نفسك</button>
+      </div>
+      <p class="muted small test-hint" data-test-hint hidden>في وضع الاختبار يُخفى عجز البيت ونص المثل. تذكّره، ثم اضغطه لتكشفه.</p>
+
+      {groups.map((g) => (
+        <section class="section" data-part-group>
+          <div class="section-head">
+            <span class="kicker">الباب {g.part.data.number === 0 ? 'التمهيدي' : ordinals[g.part.data.number - 1]}{g.part.data.start && <> · <span class="ago">بدأ {ago(g.part.data.start, true)}</span></>}</span>
+            <h2>{g.part.data.title}</h2>
+          </div>
+          <div class="mahfuz-list">
+            {g.items.map((m) => <MahfuzCard item={m} />)}
+          </div>
+        </section>
+      ))}
+    </>
+  ) : (
+    <p class="muted">تُضاف المحفوظات مع محطات المسار.</p>
+  )}
+</Base>

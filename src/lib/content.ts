@@ -23,6 +23,7 @@ export const url = {
   verse: (id: string) => `/texts/${verseTextId(id)}/${verseOrder(id)}/`,
   story: (id: string) => `/stories/${id}/`,
   concept: (id: string) => `/concepts/${id}/`,
+  mahfuz: (id: string) => `/mahfuzat/#${id}`,
   source: (id: string) => `/sources/#${id}`,
 };
 

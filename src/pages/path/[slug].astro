@@ -1,5 +1,5 @@
 ---
-import { render, type CollectionEntry } from 'astro:content';
+import { getCollection, render, type CollectionEntry } from 'astro:content';
 import Base from '../../layouts/Base.astro';
 import Crumbs from '../../components/Crumbs.astro';
 import StatusBadge from '../../components/StatusBadge.astro';
@@ -13,6 +13,7 @@ import PersonCard from '../../components/PersonCard.astro';
 import StoryCard from '../../components/StoryCard.astro';
 import Bayt from '../../components/Bayt.astro';
 import Ago from '../../components/Ago.astro';
+import MahfuzCard from '../../components/MahfuzCard.astro';
 import { getPath, must, url, type PathPart } from '../../lib/content';
 import { ordinals } from '../../lib/labels';
 
@@ -45,11 +46,12 @@ const partCrumb = { href: props.part.hasPage ? url.part(props.part.entry.id) : '
 
 let Content: any;
 let station: CollectionEntry<'stations'> | undefined;
-let memorize: CollectionEntry<'verses'>[] = [];
+let mahfuzat: CollectionEntry<'mahfuzat'>[] = [];
 if (props.kind === 'station') {
   station = props.station;
   ({ Content } = await render(station));
-  memorize = await Promise.all(station.data.memorize.map((r) => must(r)));
+  const id = station.id;
+  mahfuzat = (await getCollection('mahfuzat', (m) => m.data.station?.id === id)).sort((a, b) => a.data.order - b.data.order || a.id.localeCompare(b.id));
 }
 const components = { Reading, VerseQuote, Cite, ConceptCard, PersonCard, StoryCard, Bayt, Ago };
 ---
@@ -65,7 +67,7 @@ const components = { Reading, VerseQuote, Cite, ConceptCard, PersonCard, StoryCa
 
     {partData.highlights.length > 0 && (
       <section>
-        <div class="section-head"><span class="kicker">الخلاصة</span><h2>ملامح مركزية</h2></div>
+        <div class="section-head"><span class="kicker">نظرة عامة</span><h2>ملامح مركزية</h2></div>
         <div class="grid four">
           {partData.highlights.map((h, i) => (
             <article class="card"><span class="num">{String(i + 1).padStart(2, '0')}</span><h3>{h.title}</h3><p>{h.text}</p></article>
@@ -75,8 +77,8 @@ const components = { Reading, VerseQuote, Cite, ConceptCard, PersonCard, StoryCa
     )}
 
     {partData.deep.length > 0 && (
-      <section class="section deep-only">
-        <div class="section-head"><span class="kicker">التعمق</span><h2>مكوّنات المشهد الأدبي</h2></div>
+      <section class="section">
+        <div class="section-head"><span class="kicker">بالتفصيل</span><h2>مكوّنات المشهد الأدبي</h2></div>
         <div class="grid two">
           {partData.deep.map((h) => <article class="card"><h3>{h.title}</h3><p>{h.text}</p></article>)}
         </div>
@@ -104,7 +106,7 @@ const components = { Reading, VerseQuote, Cite, ConceptCard, PersonCard, StoryCa
     </section>
 
     {partData.sources.length > 0 && (
-      <section class="section deep-only">
+      <section class="section">
         <div class="section-head"><h2>المصادر</h2></div>
         <CiteList items={partData.sources} />
       </section>
@@ -134,10 +136,10 @@ const components = { Reading, VerseQuote, Cite, ConceptCard, PersonCard, StoryCa
       </section>
     )}
 
-    {memorize.length > 0 && (
+    {mahfuzat.length > 0 && (
       <section class="section measure">
-        <div class="section-head"><span class="kicker">للحفظ</span><h2>أبيات تستحق أن تبقى معك</h2></div>
-        {memorize.map((v) => <VerseQuote id={v.id} />)}
+        <div class="section-head"><span class="kicker">المحفوظات</span><h2>ما يبقى معك من هذه المحطة</h2><p>تجدها كلها مع محفوظات العصور الأخرى في <a href="/mahfuzat/">المحفوظات</a>.</p></div>
+        <div class="mahfuz-list">{mahfuzat.map((m) => <MahfuzCard item={m} showStation={false} />)}</div>
       </section>
     )}
 

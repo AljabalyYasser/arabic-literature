@@ -12,27 +12,6 @@ const store = {
   },
 };
 
-// ---------- عمق القراءة ----------
-
-function setDepth(depth: string) {
-  root.dataset.depth = depth;
-  store.set('depth', depth);
-  syncDepthButtons();
-  document.dispatchEvent(new CustomEvent('depthchange'));
-}
-
-function syncDepthButtons() {
-  document.querySelectorAll<HTMLButtonElement>('.depth-toggle [data-set-depth]').forEach((b) => {
-    b.setAttribute('aria-pressed', String(b.dataset.setDepth === root.dataset.depth));
-  });
-}
-
-document.addEventListener('click', (e) => {
-  const btn = (e.target as HTMLElement).closest<HTMLElement>('[data-set-depth]');
-  if (btn) setDepth(btn.dataset.setDepth!);
-});
-syncDepthButtons();
-
 // ---------- القائمة ----------
 
 document.addEventListener('click', (e) => {
@@ -87,10 +66,6 @@ document.querySelectorAll<HTMLElement>('[data-tabs]').forEach((group) => {
     selectTab(group, next.dataset.tab!);
     next.focus();
   });
-});
-
-document.addEventListener('depthchange', () => {
-  document.querySelectorAll<HTMLElement>('.verse.is-open [data-tabs]').forEach(ensureVisibleTab);
 });
 
 // ---------- قارئ الأبيات ----------
@@ -193,3 +168,64 @@ document.addEventListener('click', (e) => {
   syncProgress();
 });
 syncProgress();
+
+// ---------- المحفوظات ----------
+
+const hifzKey = (id: string) => `hifz:${id}`;
+const isKnown = (id: string) => store.get(hifzKey(id)) === '1';
+
+function syncHifz() {
+  document.querySelectorAll<HTMLButtonElement>('[data-hifz]').forEach((b) => {
+    const known = isKnown(b.dataset.hifz!);
+    b.setAttribute('aria-pressed', String(known));
+    b.textContent = known ? `${b.dataset.label} ✓` : b.dataset.label!;
+    b.closest('.mahfuz')?.classList.toggle('is-known', known);
+  });
+  const count = document.querySelector('[data-hifz-count]');
+  if (count) {
+    const ids = [...document.querySelectorAll<HTMLElement>('.mahfuz[data-mahfuz]')].map((el) => el.dataset.mahfuz!);
+    count.textContent = String(ids.filter(isKnown).length);
+  }
+}
+
+document.addEventListener('click', (e) => {
+  const target = e.target as HTMLElement;
+
+  const b = target.closest<HTMLButtonElement>('[data-hifz]');
+  if (b) {
+    const id = b.dataset.hifz!;
+    store.set(hifzKey(id), isKnown(id) ? null : '1');
+    syncHifz();
+    return;
+  }
+
+  // الاختبار: يُخفى عجز البيت ونص المثل حتى يضغطه القارئ.
+  const test = target.closest<HTMLButtonElement>('[data-test-toggle]');
+  if (test) {
+    const on = !root.classList.contains('test-mode');
+    root.classList.toggle('test-mode', on);
+    test.setAttribute('aria-pressed', String(on));
+    document.querySelectorAll('.revealed').forEach((el) => el.classList.remove('revealed'));
+    document.querySelector<HTMLElement>('[data-test-hint]')?.toggleAttribute('hidden', !on);
+    return;
+  }
+  const hidden = target.closest<HTMLElement>('.test-mode .mahfuz .bayt:not(.single) > span:last-child, .test-mode .mahfuz .hideable');
+  if (hidden) {
+    hidden.classList.toggle('revealed');
+    return;
+  }
+
+  const f = target.closest<HTMLButtonElement>('[data-filter]');
+  if (f) {
+    const kind = f.dataset.filter!;
+    document.querySelectorAll<HTMLButtonElement>('[data-filter]').forEach((x) => x.setAttribute('aria-pressed', String(x === f)));
+    document.querySelectorAll<HTMLElement>('.mahfuz[data-kind]').forEach((el) => {
+      el.hidden = kind !== 'all' && el.dataset.kind !== kind;
+    });
+    document.querySelectorAll<HTMLElement>('[data-part-group]').forEach((g) => {
+      g.hidden = !g.querySelector('.mahfuz:not([hidden])');
+    });
+  }
+});
+
+syncHifz();

@@ -39,7 +39,7 @@ const range = verses.length ? ranges(verses.map((v) => verseOrder(v.id))) : '';
         {t.meter && <div><dt>البحر</dt><dd>{t.meter}</dd></div>}
         {t.rhyme && <div><dt>القافية</dt><dd>{t.rhyme}</dd></div>}
         {t.year && <div><dt>زمن القول</dt><dd>{formatDate(t.year)}</dd></div>}
-        {t.attribution && <div class="deep-only"><dt>النسبة</dt><dd style="font-weight:400">{t.attribution.note}</dd></div>}
+        {t.attribution && <div><dt>النسبة</dt><dd style="font-weight:400">{t.attribution.note}</dd></div>}
       </dl>
     </aside>
   </div>
@@ -61,7 +61,7 @@ const range = verses.length ? ranges(verses.map((v) => verseOrder(v.id))) : '';
 
   {verses.length > 0 && (
     <section class="section">
-      <div class="section-head"><h2>النص وشرحه</h2><p>اضغط أي بيت لتفتح شرحه. في وضع «التعمق» تظهر طبقات النحو والصرف والبلاغة والوزن والمصادر.</p></div>
+      <div class="section-head"><h2>النص وشرحه</h2><p>اضغط أي بيت لتفتح شرحه: المعنى والمفردات، ثم النحو والصرف والبلاغة والوزن والمصادر.</p></div>
       <VerseReader text={text.id} />
     </section>
   )}

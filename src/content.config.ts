@@ -57,7 +57,6 @@ const stations = defineCollection({
     stories: z.array(reference('stories')).default([]),
     outcomes: z.array(z.string()).default([]),
     review: z.array(z.object({ q: z.string(), a: z.string() })).default([]),
-    memorize: z.array(reference('verses')).default([]),
     sources: z.array(citation).default([]),
     status,
   }),
@@ -164,6 +163,33 @@ const concepts = defineCollection({
   }),
 });
 
+// المحفوظات: ما يحسن بقارئ الأدب أن يحفظه أو يعرفه.
+// bayt بيت سائر، maqta مقطع أو قصيدة قصيرة، mathal مثل أو قول سائر، hikaya حكاية أدبية مشهورة.
+const line = z.object({ first: z.string(), second: z.string().optional() });
+const mahfuzat = defineCollection({
+  loader: glob({ base: './src/content/mahfuzat', pattern: '*.yaml' }),
+  schema: z.object({
+    kind: z.enum(['bayt', 'maqta', 'mathal', 'hikaya']),
+    title: z.string().optional(),
+    part: reference('parts'),
+    order: z.number().default(0),
+    person: reference('people').optional(),
+    // الأبيات المشروحة في قارئ الأبيات، أو نص يُكتب هنا لما لم يُشرح بعد.
+    verses: z.array(reference('verses')).default([]),
+    lines: z.array(line).default([]),
+    text: z.string().optional(),
+    story: reference('stories').optional(),
+    meaning: z.string(),
+    station: reference('stations').optional(),
+    year: date.optional(),
+    sources: z.array(citation).default([]),
+    status,
+  }).superRefine((m, ctx) => {
+    const has = { bayt: m.verses.length + m.lines.length > 0, maqta: m.verses.length + m.lines.length > 0, mathal: Boolean(m.text), hikaya: Boolean(m.story) }[m.kind];
+    if (!has) ctx.addIssue({ code: 'custom', path: ['kind'], message: 'المحفوظ ينقصه نصه: أبيات، أو نص المثل، أو الحكاية' });
+  }),
+});
+
 const sources = defineCollection({
   loader: glob({ base: './src/content/sources', pattern: '*.yaml' }),
   schema: z.object({
@@ -180,4 +206,4 @@ const sources = defineCollection({
   }),
 });
 
-export const collections = { parts, stations, people, texts, verses, stories, concepts, sources };
+export const collections = { parts, stations, people, texts, verses, stories, concepts, mahfuzat, sources };
