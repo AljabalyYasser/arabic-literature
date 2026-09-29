@@ -63,12 +63,13 @@ const paras = (t: string) => t.split(/\n\s*\n/).map((x) => x.trim()).filter(Bool
         </section>
       )}
 
-      {[{ title: 'أهم الشعراء', list: ov.poets }, { title: ov.writersTitle ?? 'الأدباء والكتّاب والنقاد', list: ov.writers }].filter((g) => g.list.length > 0).map((g) => (
+      {[{ title: 'أهم الشعراء', list: ov.poets, note: ov.notes.poets }, { title: ov.writersTitle ?? 'الأدباء والكتّاب والنقاد', list: ov.writers, note: ov.notes.writers }].filter((g) => g.list.length > 0).map((g) => (
         <section class="section measure">
           <div class="section-head"><h2>{g.title}</h2></div>
           <ul class="name-list">
-            {g.list.map((n) => <li><b>{n.person ? <a href={url.person(n.person.id)}>{n.name}</a> : n.name}</b> <span set:html={fmt(n.text, sources)} /></li>)}
+            {g.list.map((n) => <li><b>{n.person ? <a href={url.person(n.person.id)} set:html={fmt(n.name, sources)} /> : <Fragment set:html={fmt(n.name, sources)} />}</b> <span set:html={fmt(n.text, sources)} /></li>)}
           </ul>
+          {g.note && <p class="era-note" set:html={fmt(g.note, sources)} />}
         </section>
       ))}
 
@@ -76,6 +77,7 @@ const paras = (t: string) => t.split(/\n\s*\n/).map((x) => x.trim()).filter(Bool
         <section class="section measure">
           <div class="section-head"><h2>أهم الكتب</h2></div>
           <ul class="name-list">{ov.books.map((k) => <li><b>{k.title}</b> <span set:html={fmt(k.text, sources)} /></li>)}</ul>
+          {ov.notes.books && <p class="era-note" set:html={fmt(ov.notes.books, sources)} />}
         </section>
       )}
 
@@ -83,6 +85,7 @@ const paras = (t: string) => t.split(/\n\s*\n/).map((x) => x.trim()).filter(Bool
         <section class="section measure">
           <div class="section-head"><h2>نصوص صنعت العصر</h2></div>
           <ul class="name-list">{ov.texts.map((k) => <li><b>{k.text_id ? <a href={url.text(k.text_id.id)}>{k.title}</a> : k.title}</b> <span set:html={fmt(k.text, sources)} /></li>)}</ul>
+          {ov.notes.texts && <p class="era-note" set:html={fmt(ov.notes.texts, sources)} />}
         </section>
       )}
     </div>

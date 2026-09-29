@@ -50,6 +50,8 @@ const parts = defineCollection({
       writersTitle: z.string().optional(),                  // عنوان آخر للقسم حين يلزم، كـ«الخطباء والحكماء» في الجاهلي
       books: z.array(z.object({ title: z.string(), text: z.string() })).default([]),  // أهم الكتب
       texts: z.array(z.object({ title: z.string(), text: z.string(), text_id: reference('texts').optional() })).default([]), // النصوص التي صنعت العصر
+      // تنبيه تحت القسم حين تنقصه أسماء لم نجد لها بعد سندًا في مصادرنا المعتمدة، فلا يظن القارئ أن القائمة تامة.
+      notes: z.object({ poets: z.string(), writers: z.string(), books: z.string(), texts: z.string() }).partial().default({}),
     }).optional(),
     topics: z.array(z.object({ id: z.string(), title: z.string() })).default([]),
     formative: z.array(slot).default([]),
