@@ -1,0 +1,83 @@
+---
+// صفحة مجموعة من «وجوه من العصر» (docs/alam.md): مدخل يعرّف ظاهرتها، ثم وجوهها.
+// الوجه بطاقة موسعة هنا أو مدخل قصير، وكلاهما في هذه الصفحة. ولا يُحال إلى صفحة منفردة
+// إلا الوجه الاستثنائي الذي تقرر له ذلك (page).
+import { getCollection } from 'astro:content';
+import Base from '../../../../layouts/Base.astro';
+import Crumbs from '../../../../components/Crumbs.astro';
+import StatusBadge from '../../../../components/StatusBadge.astro';
+import CiteList from '../../../../components/CiteList.astro';
+import Body from '../../../../components/Body.astro';
+import Grade from '../../../../components/Grade.astro';
+import { fmt, getEras, lifespan, sourceMap, url, type Era, type GroupSlot } from '../../../../lib/content';
+import { kindsOf, readingTiers, textKinds, tiers } from '../../../../lib/labels';
+
+export async function getStaticPaths() {
+  return (await getEras()).flatMap((era) =>
+    era.groups.filter((g) => g.hasPage).map((group) => ({ params: { era: era.entry.id, id: group.id }, props: { era, group } })));
+}
+
+const { era, group } = Astro.props as { era: Era; group: GroupSlot };
+const texts = await getCollection('texts');
+const stories = await getCollection('stories');
+const textsOf = (id: string) => texts.filter((t) => t.data.author?.id === id);
+const storiesOf = (id: string) => stories.filter((s) => s.data.people.some((r) => r.id === id));
+const sources = await sourceMap();
+const why = (female: boolean) => (female ? 'لماذا نذكرها؟' : 'لماذا نذكره؟');
+---
+<Base title={group.title} description={`${tiers.face.plural} في ${era.entry.data.title}: ${group.title}.`} searchType="مجموعة">
+  <Crumbs items={[{ href: '/people/', label: 'الأعلام' }, { href: url.era(era.entry.id), label: era.entry.data.title }, { label: group.title }]} />
+  <header class="station-head">
+    <span class="kicker">{tiers.face.plural} · {era.entry.data.title} · المجموعة {group.number} من {era.groups.length}</span>
+    <h1>{group.title}</h1>
+    <div class="meta-row"><StatusBadge status={group.entry?.data.status ?? 'draft'} /></div>
+  </header>
+
+  {group.entry ? <Body entry={group.entry} /> : <p class="measure muted">لم يُكتب مدخل هذه المجموعة بعد، وهذه وجوهها المكتوبة.</p>}
+
+  <section class="section">
+    <div class="face-list">
+      {group.faces.map((f) => f.data.page ? (
+        <a class="card link-card" href={url.person(f.id)} id={f.id}>
+          <span class="kicker">{[kindsOf(f.data), lifespan(f.data.born, f.data.died)].filter(Boolean).join(' · ')}</span>
+          <h3>{f.data.name}</h3>
+          <p>{f.data.summary}</p>
+        </a>
+      ) : (
+        <article class={`card face-entry${f.data.card ? ' face-card' : ''}`} id={f.id}>
+          <span class="kicker">{[kindsOf(f.data), lifespan(f.data.born, f.data.died)].filter(Boolean).join(' · ')}</span>
+          <h3>{f.data.name}</h3>
+          <p class="lede">{f.data.summary}</p>
+          {f.data.card && f.data.placement && <div class="thesis"><b>{why(f.data.female)}</b><p set:html={fmt(f.data.placement, sources)} /></div>}
+          <Body entry={f} />
+          {textsOf(f.id).length > 0 && (
+            <ul class="face-links">
+              {textsOf(f.id).map((t) => (
+                <li>
+                  <a href={url.text(t.id)}>اقرأ النص: {t.data.title}</a>
+                  <span class="sub">{textKinds[t.data.kind]}{t.data.reading && ` · ${readingTiers[t.data.reading].label}`}</span>
+                  {t.data.attribution && <Grade of="text" grade={t.data.attribution.grade} note={t.data.attribution.note} />}
+                </li>
+              ))}
+            </ul>
+          )}
+          {f.data.card && storiesOf(f.id).length > 0 && (
+            <ul class="face-links">
+              {storiesOf(f.id).map((s) => <li><a href={url.story(s.id)}>الحكاية: {s.data.title}</a> <Grade of="story" grade={s.data.grade} tag={s.data.tag} /></li>)}
+            </ul>
+          )}
+          {f.data.sources.length > 0 && (
+            <details class="face-sources"><summary>المصادر ({f.data.sources.length})</summary><CiteList items={f.data.sources} /></details>
+          )}
+        </article>
+      ))}
+    </div>
+  </section>
+
+  {group.entry && group.entry.data.sources.length > 0 && (
+    <section class="section measure">
+      <div class="section-head"><h2>المصادر</h2></div>
+      <CiteList items={group.entry.data.sources} />
+    </section>
+  )}
+</Base>

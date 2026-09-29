@@ -26,7 +26,11 @@ export const url = {
   chapter: (id: string) =>
     isTopic(id) ? `/path/${chapterHome(id)}/${chapterSlug(id)}/` : `/people/${chapterHome(id)}/${chapterSlug(id)}/`,
   person: (id: string) => `/people/${id}/`,
-  group: (id: string) => `/people/groups/${id}/`,
+  // موضع العلم: صفحته، أو بطاقته في صفحة مجموعته إن كان وجهًا بلا صفحة منفردة.
+  personOf: (p: Person) =>
+    p.data.tier === 'face' && !p.data.page ? `${url.group(p.data.part.id, p.data.group!)}#${p.id}` : url.person(p.id),
+  // المجموعة تابعة لبابها: /people/groups/<رقم الباب>/<المعرّف>/
+  group: (era: string, id: string) => `/people/groups/${era}/${id}/`,
   text: (id: string) => `/texts/${id}/`,
   verse: (id: string) => `/texts/${verseTextId(id)}/${verseOrder(id)}/`,
   story: (id: string) => `/stories/${id}/`,
@@ -80,7 +84,8 @@ export type Person = CollectionEntry<'people'>;
 export const nameGen = (p: Person) => p.data.nameGen ?? p.data.name;
 export type Slot = { id: string; name: string; entry?: Person };
 export type TopicSlot = { id: string; title: string; entry?: Chapter };
-export type GroupSlot = { id: string; title: string; number: number; entry?: CollectionEntry<'groups'>; faces: Person[] };
+// المجموعة في بابها. صفحتها تُبنى متى كان لها مدخل مكتوب أو وجه واحد على الأقل.
+export type GroupSlot = { id: string; era: string; title: string; number: number; entry?: CollectionEntry<'groups'>; faces: Person[]; hasPage: boolean };
 export type RouteItem =
   | { kind: 'topic'; slot: TopicSlot }
   | { kind: 'person'; person: Person; stages: Chapter[] };
@@ -144,12 +149,16 @@ async function buildEras(): Promise<Era[]> {
       if (!d[p.data.tier].some((s) => s.id === p.id)) fail(`${p.id} ليس في قائمة درجته في بابه`);
     }
     for (const r of p.data.refer) if (r.id === p.data.part.id) fail(`${p.id} يحيل إلى بابه نفسه`);
-    // الوجه الذي لا بطاقة له يُكتب مدخلًا في صفحة مجموعته، فلا بد أن تكون المجموعة مكتوبة.
-    if (!p.data.card && (p.data.tier !== 'face' || !groups.some((g) => g.id === p.data.group))) fail(`${p.id} بلا بطاقة، فمكانه صفحة مجموعة مكتوبة`);
+    // البطاقة والمدخل والصفحة المنفردة للوجوه وحدها.
+    if (p.data.tier !== 'face' && (p.data.page || !p.data.card)) fail(`${p.id} ليس من الوجوه، فلا بطاقة له ولا مدخل`);
   }
 
+  // معرّف المجموعة «<رقم الباب>/<المعرّف>».
   for (const g of groups) {
-    if (!parts.find((x) => x.id === g.data.part.id)!.data.groups.some((s) => s.id === g.id)) fail(`المجموعة ${g.id} ليست في قائمة مجموعات بابها`);
+    const [era, slug] = g.id.split('/');
+    const part = parts.find((x) => x.id === era);
+    if (!part) fail(`المجموعة ${g.id} في باب غير موجود`);
+    if (!part!.data.groups.some((s) => s.id === slug)) fail(`المجموعة ${g.id} ليست في قائمة مجموعات بابها`);
   }
 
   const stages = new Map<string, Chapter[]>();
@@ -175,14 +184,13 @@ async function buildEras(): Promise<Era[]> {
       topics,
       formative: d.formative.map(slot('formative')),
       important: d.important.map(slot('important')),
-      groups: d.groups.map((g, i) => ({
-        ...g,
-        number: i + 1,
-        entry: groups.find((x) => x.id === g.id),
-        faces: people
+      groups: d.groups.map((g, i) => {
+        const written = groups.find((x) => x.id === `${entry.id}/${g.id}`);
+        const faces = people
           .filter((p) => p.data.tier === 'face' && p.data.group === g.id && p.data.part.id === entry.id)
-          .sort((a, b) => (a.data.order ?? 999) - (b.data.order ?? 999) || a.id.localeCompare(b.id)),
-      })),
+          .sort((a, b) => (a.data.order ?? 999) - (b.data.order ?? 999) || a.id.localeCompare(b.id));
+        return { ...g, era: entry.id, number: i + 1, entry: written, faces, hasPage: Boolean(written) || faces.length > 0 };
+      }),
       route,
       referred: people.filter((p) => p.data.refer.some((r) => r.id === entry.id)),
       hasPage: d.formative.length + d.important.length + d.groups.length > 0 || Boolean(d.summary || d.overview),

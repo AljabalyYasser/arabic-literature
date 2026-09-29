@@ -35,7 +35,7 @@ const meta = (p: Person) => [kindsOf(p.data), lifespan(p.data.born, p.data.died)
           <ul class="index-list grid two">
             {list.map((p) => (
               <li>
-                <a class="card link-card" href={url.person(p.id)}>
+                <a class="card link-card" href={url.personOf(p)}>
                   <span class="kicker">{meta(p)}</span>
                   <h3>{p.data.name}</h3>
                   <p class="muted">{p.data.summary}</p>
@@ -51,11 +51,11 @@ const meta = (p: Person) => [kindsOf(p.data), lifespan(p.data.born, p.data.died)
           <h3>{tiers.face.plural}</h3>
           {groups.map((g) => (
             <div class="tier-block">
-              <h4>{g.entry ? <a href={url.group(g.id)}>{g.title}</a> : g.title}</h4>
+              <h4>{g.hasPage ? <a href={url.group(g.era, g.id)}>{g.title}</a> : g.title}</h4>
               <ul class="index-list grid two">
                 {g.faces.map((p) => (
                   <li>
-                    <a class="card link-card" href={url.person(p.id)}>
+                    <a class="card link-card" href={url.personOf(p)}>
                       <span class="kicker">{meta(p)}</span>
                       <h3>{p.data.name}</h3>
                       <p class="muted">{p.data.summary}</p>

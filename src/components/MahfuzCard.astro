@@ -23,7 +23,7 @@ const textId = firstVerse ? verseTextId(firstVerse.id) : undefined;
   <header class="mahfuz-head">
     <span class="kicker">
       {mahfuzKinds[d.kind]}
-      {person && <> · <a href={url.person(person.id)}>{person.data.name}</a></>}
+      {person && <> · <a href={url.personOf(person)}>{person.data.name}</a></>}
       {when && <> · <span class="ago">{when}</span></>}
     </span>
     {d.title && <h3>{d.title}</h3>}

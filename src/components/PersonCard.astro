@@ -5,7 +5,7 @@ import { kindsOf } from '../lib/labels';
 interface Props { id: string }
 const p = await must({ collection: 'people', id: Astro.props.id });
 ---
-<a class="card link-card embed" href={url.person(p.id)} style="display:block">
+<a class="card link-card embed" href={url.personOf(p)} style="display:block">
   <span class="kicker">{[kindsOf(p.data), lifespan(p.data.born, p.data.died), livedAgo(p.data.born, p.data.died)].filter(Boolean).join(' · ')}</span>
   <h3>{p.data.name}</h3>
   <p>{p.data.summary}</p>

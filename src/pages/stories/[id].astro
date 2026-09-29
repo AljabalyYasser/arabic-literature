@@ -43,7 +43,7 @@ const sources = await sourceMap();
   {people.length > 0 && (
     <section class="section measure">
       <div class="section-head"><h2>أشخاص الحكاية</h2></div>
-      <ul class="pill-list">{people.map((p) => <li><a href={url.person(p.id)}>{p.data.name}</a></li>)}</ul>
+      <ul class="pill-list">{people.map((p) => <li><a href={url.personOf(p)}>{p.data.name}</a></li>)}</ul>
     </section>
   )}
 

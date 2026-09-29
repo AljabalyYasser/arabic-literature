@@ -1,6 +1,7 @@
 ---
 // صفحة العلم بحسب درجته (docs/alam.md):
-// علم التكوين له مسار قراءة كامل، والعلم المهم له عدة نصوص، ووجه العصر بطاقة في مجموعته.
+// علم التكوين له مسار قراءة كامل، والعلم المهم له عدة نصوص. ووجه العصر مكانه صفحة مجموعته،
+// فلا صفحة له هنا إلا بقرار مستقل (page)، ويُحال رابطه إلى بطاقته في المجموعة.
 import { getCollection, type CollectionEntry } from 'astro:content';
 import Base from '../../../layouts/Base.astro';
 import Crumbs from '../../../components/Crumbs.astro';
@@ -18,8 +19,7 @@ export async function getStaticPaths() {
 
 const { person } = Astro.props as { person: CollectionEntry<'people'> };
 const p = person.data;
-// الوجه الذي لا بطاقة له مكانه مدخل في صفحة مجموعته، فيُحال رابطه إليها.
-if (!p.card) return Astro.redirect(`${url.group(p.group!)}#${person.id}`);
+if (p.tier === 'face' && !p.page) return Astro.redirect(url.personOf(person));
 const eras = await getEras();
 const era = eras.find((e) => e.entry.id === p.part.id)!;
 const group = p.tier === 'face' ? era.groups.find((g) => g.id === p.group) : undefined;
@@ -47,7 +47,7 @@ const sources = await sourceMap();
 const crumbs = [
   { href: '/people/', label: 'الأعلام' },
   { href: era.hasPage ? url.era(era.entry.id) : undefined, label: era.entry.data.title },
-  ...(group ? [{ href: group.entry ? url.group(group.id) : undefined, label: group.title }] : []),
+  ...(group ? [{ href: group.hasPage ? url.group(group.era, group.id) : undefined, label: group.title }] : []),
   { label: p.name },
 ];
 const textsTitle = p.tier === 'face' ? he('نصه', 'نصها') : he('نصوصه', 'نصوصها');

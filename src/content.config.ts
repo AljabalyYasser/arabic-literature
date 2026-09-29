@@ -40,6 +40,8 @@ const parts = defineCollection({
     start: z.number().int().optional(),
     // «أين أنت؟»: سطران في رأس صفحة العصر.
     summary: z.string().optional(),
+    // تنبيه ظاهر تحت رأس صفحة العصر: حدود ما تغطيه الصفحة، أو حدّ للعصر قيد المراجعة.
+    caveat: z.string().optional(),
     // صفحة العصر المختصرة تجيب عن أسئلة سبعة، ولا تكون هي الدراسة نفسها.
     overview: z.object({
       history: z.string(),                                  // ماذا حدث تاريخيًا مما أثّر في الأدب؟
@@ -48,7 +50,10 @@ const parts = defineCollection({
       poets: z.array(named).default([]),                    // أهم الشعراء
       writers: z.array(named).default([]),                  // أهم الأدباء والكتّاب والنقاد
       writersTitle: z.string().optional(),                  // عنوان آخر للقسم حين يلزم، كـ«الخطباء والحكماء» في الجاهلي
-      books: z.array(z.object({ title: z.string(), text: z.string() })).default([]),  // أهم الكتب
+      // أهم الكتب قسمان: كتب من العصر نفسه (أُلّفت فيه، أو دواوين أهله)،
+      // وكتب لاحقة نقرأ بها العصر (جُمعت أو أُلّفت بعده)، فلا تظهر كتب لاحقة كأنها من العصر.
+      books: z.array(z.object({ title: z.string(), text: z.string() })).default([]),
+      booksLater: z.array(z.object({ title: z.string(), text: z.string() })).default([]),
       texts: z.array(z.object({ title: z.string(), text: z.string(), text_id: reference('texts').optional() })).default([]), // النصوص التي صنعت العصر
       // تنبيه تحت القسم حين تنقصه أسماء لم نجد لها بعد سندًا في مصادرنا المعتمدة، فلا يظن القارئ أن القائمة تامة.
       notes: z.object({ poets: z.string(), writers: z.string(), books: z.string(), texts: z.string() }).partial().default({}),
@@ -88,7 +93,8 @@ const chapters = defineCollection({
 });
 
 // العلم ودرجته (docs/alam.md): أعلام التكوين، وأعلام مهمون، ووجوه من العصر.
-// الوجه في مجموعة من مجموعات عصره؛ وله بطاقة مستقلة (card) أو مدخل في صفحة المجموعة.
+// الوجه في مجموعة من مجموعات عصره، ومكانه صفحة المجموعة: بطاقة موسعة فيها أو مدخل قصير.
+// ولا تكون للوجه صفحة منفردة إلا بقرار مستقل (page).
 const people = defineCollection({
   loader: glob({ base: './src/content/people', pattern: '*.md' }),
   schema: z.object({
@@ -102,7 +108,10 @@ const people = defineCollection({
     part: reference('parts'),
     tier: z.enum(['formative', 'important', 'face']),
     group: z.string().optional(),
+    // للوجه: بطاقة موسعة في صفحة مجموعته (true)، أو مدخل قصير فيها (false). والبطاقة ليست صفحة.
     card: z.boolean().default(true),
+    // للوجه الاستثنائي وحده: صفحة منفردة، بقرار في خريطة العصر. والأصل ألا تكون.
+    page: z.boolean().default(false),
     // ترتيب الوجه في مجموعته.
     order: z.number().optional(),
     // لضمائر العناوين: «من هي؟» و«نصوصها».
@@ -232,11 +241,12 @@ const mahfuzat = defineCollection({
   }),
 });
 
-// مجموعة من مجموعات «وجوه من العصر»: عنوانها وترتيبها في بابها، ومتنها مدخل يعرّف ظاهرتها.
+// مجموعة من مجموعات «وجوه من العصر». المجموعة تابعة لبابها، فملفها groups/<رقم الباب>/<المعرّف>.md
+// ومعرّفها «<رقم الباب>/<المعرّف>»، فلا تصطدم مجموعتان متشابهتا الاسم في بابين.
+// عنوانها وترتيبها في ملف الباب، ومتنها مدخل يعرّف ظاهرتها.
 const groups = defineCollection({
-  loader: glob({ base: './src/content/groups', pattern: '*.md' }),
+  loader: glob({ base: './src/content/groups', pattern: '*/*.md' }),
   schema: z.object({
-    part: reference('parts'),
     sources: z.array(citation).default([]),
     status,
   }),

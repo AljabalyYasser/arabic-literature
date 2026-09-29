@@ -26,7 +26,7 @@ const range = verses.length ? ranges(verses.map((v) => verseOrder(v.id))) : '';
   <Crumbs items={[{ href: '/texts/', label: 'النصوص' }, { label: t.title }]} />
   <div class="entity-head with-aside">
     <header>
-      <span class="kicker">{textKinds[t.kind]}{author && <> · <a href={url.person(author.id)}>{author.data.name}</a></>}</span>
+      <span class="kicker">{textKinds[t.kind]}{author && <> · <a href={url.personOf(author)}>{author.data.name}</a></>}</span>
       <h1>{t.title}</h1>
       {t.occasion && <p class="lede" set:html={fmt(t.occasion, sources)} />}
       <div class="meta-row">

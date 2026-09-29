@@ -683,11 +683,18 @@ html.js .verse .panel + .panel { margin-top: 0; }
 .name-list li:last-child { border-bottom: 0; }
 .name-list b { font-weight: 700; margin-inline-end: 0.35rem; }
 .name-list b a { color: var(--ink); }
+.list-head { font-size: 1rem; margin: 1.25rem 0 0.25rem; color: var(--ink-2); }
 .era-note { margin: 0.75rem 0 0; padding: 0.6rem 0.9rem; border-inline-start: 3px solid var(--line); color: var(--ink-2); font-size: 0.95rem; line-height: 1.9; }
 .study-head { margin-top: 3.5rem; padding-top: 2rem; border-top: 1px solid var(--line); }
 .face-list { display: grid; gap: 1rem; max-width: var(--measure); }
 .face-entry { scroll-margin-top: 5rem; }
 .face-entry .lede { font-size: 1.05rem; }
+.face-card { border-inline-start: 3px solid var(--accent); }
+.face-links { list-style: none; margin: 0.75rem 0 0; padding: 0; display: grid; gap: 0.4rem; }
+.face-links li { display: flex; flex-wrap: wrap; align-items: center; gap: 0.5rem; }
+.face-links .sub { font-size: 0.85rem; color: var(--ink-3); }
+.face-sources { margin-top: 0.9rem; }
+.face-sources > summary { cursor: pointer; font-family: var(--font-ui); font-size: 0.85rem; color: var(--ink-2); }
 
 .hero { padding-block: 1rem 2.5rem; }
 .hero h1 { font-size: clamp(2rem, 1.4rem + 3vw, 3.2rem); max-width: 18ch; }

@@ -21,12 +21,12 @@ const siteName = 'الشعر والأدب العربي';
 const fullTitle = title === siteName ? title : `${title} — ${siteName}`;
 const path = Astro.url.pathname;
 
-// التنقل الرئيسي كما اعتُمد: المسار، والأعلام، والكتب، والنصوص، والمحفوظات، والمفاهيم.
+// التنقل الرئيسي: المسار، والأعلام، والنصوص، والمحفوظات، والمفاهيم.
 // والحكايات نوع من النصوص، فتجدها في قسم النصوص.
+// «الكتب» تدخل التنقل بعد أول رحلة كتاب مكتوبة، وصفحتها /books/ قائمة حتى ذلك الحين.
 const nav = [
   { href: '/', label: 'المسار', match: (p: string) => p === '/' || p.startsWith('/path/') },
   { href: '/people/', label: 'الأعلام', match: (p: string) => p.startsWith('/people/') },
-  { href: '/books/', label: 'الكتب', match: (p: string) => p.startsWith('/books/') },
   { href: '/texts/', label: 'النصوص', match: (p: string) => p.startsWith('/texts/') || p.startsWith('/stories/') },
   { href: '/mahfuzat/', label: 'المحفوظات', match: (p: string) => p.startsWith('/mahfuzat/') },
   { href: '/concepts/', label: 'المفاهيم', match: (p: string) => p.startsWith('/concepts/') },
