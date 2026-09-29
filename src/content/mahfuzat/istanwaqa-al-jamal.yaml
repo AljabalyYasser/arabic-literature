@@ -1,0 +1,13 @@
+kind: "mathal"
+part: "1"
+order: 10
+person: "tarafa"
+text: "اسْتَنْوَقَ الْجَمَلُ"
+story: "istanwaqa-al-jamal"
+meaning: "قالها طَرَفَة صبيًّا لشاعر وصف جملًا بسمة النوق. «يضرب هذا في التخليط» [@maydani، ج2 ص94]."
+station: "1-7"
+sources:
+  - source: "maydani"
+    loc: "ج2 ص93–94"
+    url: "https://shamela.ws/book/12929/2926"
+status: "review"

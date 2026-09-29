@@ -1,0 +1,13 @@
+kind: "mathal"
+part: "1"
+order: 11
+person: "tarafa"
+text: "خَلَا لَكِ الْجَوُّ فَبِيضِي وَاصْفِرِي"
+story: "khala-laki-al-jaww"
+meaning: "من أبيات يُروى أنها أول شعر قاله طَرَفَة، لقُبَّرة نجت من فخّه. «يضرب في الحاجة يتمكن منها صاحبها» [@maydani، ج1 ص240]."
+station: "1-7"
+sources:
+  - source: "maydani"
+    loc: "ج1 ص239–240"
+    url: "https://shamela.ws/book/12929/1293"
+status: "review"
