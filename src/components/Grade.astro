@@ -1,0 +1,17 @@
+---
+// شارة درجة الرواية: «النص: ثابت» أو «القصة: راجح»، ومعها وسم القصة إن كان.
+// الدرجتان منفصلتان دائمًا (وثيقة الأساس 5.1).
+import { storyGrades, storyTags, textGrades } from '../lib/labels';
+
+interface Props {
+  of: 'text' | 'story';
+  grade: keyof typeof textGrades;
+  tag?: keyof typeof storyTags;
+  note?: string;
+}
+const { of, grade, tag, note } = Astro.props;
+const g = (of === 'text' ? textGrades : storyGrades)[grade];
+const prefix = of === 'text' ? 'النص' : 'القصة';
+---
+<span class={`badge grade-${grade}`} title={note ?? g.hint}>{prefix}: {g.label}</span>
+{tag && <span class="badge story-tag" title={storyTags[tag].hint}>{storyTags[tag].label}</span>}

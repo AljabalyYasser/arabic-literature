@@ -2,8 +2,9 @@
 // بطاقة محفوظ واحد، في صفحة المحفوظات وفي آخر المحطة.
 import type { CollectionEntry } from 'astro:content';
 import { dateAgo, fmt, livedAgo, must, mustAll, sourceMap, url, verseOrder, verseTextId } from '../lib/content';
-import { mahfuzKinds, storyGrades } from '../lib/labels';
+import { mahfuzKinds } from '../lib/labels';
 import VerseLines from './VerseLines.astro';
+import Grade from './Grade.astro';
 
 interface Props { item: CollectionEntry<'mahfuzat'>; showStation?: boolean }
 const { item, showStation = true } = Astro.props;
@@ -37,7 +38,7 @@ const textId = firstVerse ? verseTextId(firstVerse.id) : undefined;
   {d.text && <p class="mahfuz-saying"><span class="hideable">{d.text}</span></p>}
   {d.kind === 'hikaya' && story && (
     <p class="mahfuz-story">
-      <span class={`badge grade-${story.data.grade}`} title={storyGrades[story.data.grade].hint}>{storyGrades[story.data.grade].label}</span>
+      <Grade of="story" grade={story.data.grade} tag={story.data.tag} />
       {' '}{story.data.summary}
     </p>
   )}

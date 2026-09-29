@@ -2,7 +2,7 @@
 import { getCollection } from 'astro:content';
 import Base from '../../layouts/Base.astro';
 import StoryCard from '../../components/StoryCard.astro';
-import { storyGrades } from '../../lib/labels';
+import { storyGrades, storyTags } from '../../lib/labels';
 
 const stories = await getCollection('stories');
 ---
@@ -10,9 +10,10 @@ const stories = await getCollection('stories');
   <header class="station-head">
     <span class="kicker">المرجع</span>
     <h1>الحكايات والأخبار الأدبية</h1>
-    <p class="lede measure">أخبار الشعراء ومجالسهم ومواقفهم، مروية بمتعتها، ومعها درجة صحتها وأقدم مصدر ذكرها.</p>
+    <p class="lede measure">أخبار الشعراء ومجالسهم ومواقفهم، مروية بمتعتها، ومعها درجة روايتها وأقدم مصدر ذكرها.</p>
     <ul class="pill-list" style="margin-top:1rem">
       {Object.entries(storyGrades).map(([key, g]) => <li><span class={`badge grade-${key}`}>{g.label}</span> <span class="muted small">{g.hint}</span></li>)}
+      {Object.values(storyTags).map((t) => <li><span class="badge story-tag">{t.label}</span> <span class="muted small">{t.hint}</span></li>)}
     </ul>
   </header>
   {stories.length > 0

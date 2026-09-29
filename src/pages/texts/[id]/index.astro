@@ -7,7 +7,8 @@ import CiteList from '../../../components/CiteList.astro';
 import VerseReader from '../../../components/VerseReader.astro';
 import Body from '../../../components/Body.astro';
 import { checkVerseParents, fmt, formatDate, must, ranges, sourceMap, stripCites, url, verseOrder, versesOf } from '../../../lib/content';
-import { attributionGrades, textKinds } from '../../../lib/labels';
+import Grade from '../../../components/Grade.astro';
+import { textKinds } from '../../../lib/labels';
 
 export async function getStaticPaths() {
   await checkVerseParents();
@@ -29,7 +30,7 @@ const range = verses.length ? ranges(verses.map((v) => verseOrder(v.id))) : '';
       <h1>{t.title}</h1>
       {t.occasion && <p class="lede" set:html={fmt(t.occasion, sources)} />}
       <div class="meta-row">
-        {t.attribution && <span class={`badge grade-${t.attribution.grade}`} title={t.attribution.note}>{attributionGrades[t.attribution.grade]}</span>}
+        {t.attribution && <Grade of="text" grade={t.attribution.grade} note={t.attribution.note} />}
         {range && <span class="badge plain">الأبيات المشروحة: {range}</span>}
         <StatusBadge status={t.status} />
       </div>

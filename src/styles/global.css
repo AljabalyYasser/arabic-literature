@@ -296,9 +296,11 @@ main { padding-block: 2rem 4rem; }
 .badge.status-review { background: var(--gold-soft); color: var(--gold); }
 .badge.status-approved { background: var(--ok-soft); color: var(--ok); }
 .badge.grade-thabit { background: var(--ok-soft); color: var(--ok); }
-.badge.grade-khilaf, .badge.grade-rajih { background: var(--gold-soft); color: var(--gold); }
-.badge.grade-mashhur, .badge.grade-mukhtalaf { background: var(--warn-soft); color: var(--warn); }
-.badge.grade-manhul, .badge.grade-mansub { background: var(--accent-soft); color: var(--accent); }
+.badge.grade-rajih { background: var(--gold-soft); color: var(--gold); }
+.badge.grade-mukhtalaf { background: var(--warn-soft); color: var(--warn); }
+.badge.grade-mansub { background: var(--accent-soft); color: var(--accent); }
+.badge.story-tag { background: transparent; color: var(--ink-2); border: 1px solid var(--line-2); }
+.badge.story-tag::before { display: none; }
 
 .cite {
   display: inline-block;

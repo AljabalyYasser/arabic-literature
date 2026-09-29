@@ -6,7 +6,8 @@ import StatusBadge from '../../components/StatusBadge.astro';
 import CiteList from '../../components/CiteList.astro';
 import Body from '../../components/Body.astro';
 import { fmt, mustAll, sourceMap, stripCites, url } from '../../lib/content';
-import { storyGrades } from '../../lib/labels';
+import Grade from '../../components/Grade.astro';
+import { storyGrades, storyTags } from '../../lib/labels';
 
 export async function getStaticPaths() {
   return (await getCollection('stories')).map((story) => ({ params: { id: story.id }, props: { story } }));
@@ -24,15 +25,16 @@ const sources = await sourceMap();
     <span class="kicker">حكاية</span>
     <h1>{s.title}</h1>
     <p class="lede measure">{s.summary}</p>
-    <div class="meta-row"><span class={`badge grade-${s.grade}`} title={grade.hint}>{grade.label}</span><StatusBadge status={s.status} /></div>
+    <div class="meta-row"><Grade of="story" grade={s.grade} tag={s.tag} /><StatusBadge status={s.status} /></div>
   </header>
 
   <Body entry={story} />
 
   <section class="section measure">
     <div class="note-box">
-      <b>درجة الخبر: {grade.label}</b>
+      <b>درجة القصة: {grade.label}{s.tag && ` · ${storyTags[s.tag].label}`}</b>
       <p set:html={fmt(s.gradeReason, sources)} />
+      {s.tag && <p class="muted small">{storyTags[s.tag].label}: {storyTags[s.tag].hint}</p>}
     </div>
     <div class="section-head" style="margin-top:1.5rem"><h3>أقدم مصدر ذكره</h3></div>
     <CiteList items={[s.earliest]} />

@@ -174,7 +174,8 @@ status: review
 ```yaml
 title: …
 summary: …              # سطر واحد يلخص الخبر
-grade: mashhur          # thabit | khilaf | mashhur | manhul
+grade: mansub           # درجة القصة: thabit | rajih | mukhtalaf | mansub
+tag: adabi              # اختياري: adabi (خبر أدبي) | usturi (خبر أسطوري)
 gradeReason: …          # لماذا هذه الدرجة
 earliest:               # أقدم مصدر ذكر الخبر
   source: …

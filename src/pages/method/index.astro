@@ -1,11 +1,11 @@
 ---
 import Base from '../../layouts/Base.astro';
-import { attributionGrades, statusHints, statusLabels, storyGrades } from '../../lib/labels';
+import { statusHints, statusLabels, storyGrades, storyTags, textGrades } from '../../lib/labels';
 ---
 <Base title="منهج التوثيق">
   <header class="station-head">
     <span class="kicker">التوثيق</span>
-    <h1>منهج التوثيق ودرجات الصحة</h1>
+    <h1>منهج التوثيق ودرجات الرواية</h1>
     <p class="lede measure">ما الذي يحدث قبل أن يظهر الشرح للقارئ، وكيف تقرأ الشارات التي تراها بجانب النصوص والحكايات.</p>
   </header>
 
@@ -19,15 +19,25 @@ import { attributionGrades, statusHints, statusLabels, storyGrades } from '../..
       <li><b>المصدر في موضع المعلومة:</b> تظهر الإحالة بجانب ما تستند إليه، ويمكن فتح الموضع في النسخة الرقمية حين تتاح.</li>
     </ol>
 
-    <h2>درجات الحكايات والأخبار</h2>
+    <h2>درجات الرواية</h2>
+    <p>أربع درجات: ثابت، وراجح، ومختلف فيه، ومنسوب. نعطيها للنص وللقصة كلٌّ على حدة، لأن القصيدة قد تثبت لصاحبها والقصة التي تُروى معها لا تثبت. فترى بجانب القصيدة «النص: ثابت»، وبجانب خبرها «القصة: منسوب».</p>
+
+    <h3>درجة النص: نسبته إلى قائله</h3>
+    <ul>
+      {Object.entries(textGrades).map(([key, g]) => <li><span class={`badge grade-${key}`}>{g.label}</span> {g.hint}</li>)}
+    </ul>
+
+    <h3>درجة القصة</h3>
     <ul>
       {Object.entries(storyGrades).map(([key, g]) => <li><span class={`badge grade-${key}`}>{g.label}</span> {g.hint}</li>)}
     </ul>
 
-    <h2>نسبة النصوص</h2>
+    <h3>وسما القصة</h3>
+    <p>ونضيف إلى درجة القصة، عند الحاجة، وسمًا يقول لك كيف تقرؤها:</p>
     <ul>
-      {Object.entries(attributionGrades).map(([key, label]) => <li><span class={`badge grade-${key}`}>{label}</span></li>)}
+      {Object.values(storyTags).map((t) => <li><span class="badge story-tag">{t.label}</span> {t.hint}</li>)}
     </ul>
+    <p>والدرجة للرواية لا للقيمة: فالنص المنسوب قد يكون من أجمل ما نقرأ، فنقرؤه ونبيّن درجته.</p>
 
     <h2>حالة المحتوى</h2>
     <ul>

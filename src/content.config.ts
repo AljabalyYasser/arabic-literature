@@ -138,7 +138,9 @@ const stories = defineCollection({
   schema: z.object({
     title: z.string(),
     summary: z.string(),
-    grade: z.enum(['thabit', 'khilaf', 'mashhur', 'manhul']),
+    // درجة القصة (وثيقة الأساس 5.1)، ووسمها عند الحاجة.
+    grade: z.enum(['thabit', 'rajih', 'mukhtalaf', 'mansub']),
+    tag: z.enum(['adabi', 'usturi']).optional(),
     gradeReason: z.string(),
     earliest: citation,
     people: z.array(reference('people')).default([]),
