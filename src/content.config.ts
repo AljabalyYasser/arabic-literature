@@ -28,6 +28,8 @@ const citation = z.object({
 // بنية العصر (docs/alam.md): قضاياه، وأعلامه بدرجاتهم، ومجموعات وجوهه، والطريق المقترح فيه.
 // ما في هذه القوائم ولم يُكتب بعد يظهر باهتًا.
 const slot = z.object({ id: z.string(), name: z.string() });
+// اسم في صفحة العصر مع سطر عنه، ويُربط بصفحة العلم إن كُتبت.
+const named = z.object({ name: z.string(), person: reference('people').optional(), text: z.string() });
 const parts = defineCollection({
   loader: glob({ base: './src/content/parts', pattern: '*.yaml' }),
   schema: z.object({
@@ -36,11 +38,19 @@ const parts = defineCollection({
     range: z.string().optional(),
     // السنة الميلادية التقريبية لبداية الباب، ليُحسب بعدها عن عصرنا.
     start: z.number().int().optional(),
+    // «أين أنت؟»: سطران في رأس صفحة العصر.
     summary: z.string().optional(),
-    highlights: z.array(card).default([]),
-    deep: z.array(card).default([]),
-    keyNames: z.array(z.string()).default([]),
-    takeaways: z.array(z.string()).default([]),
+    // صفحة العصر المختصرة تجيب عن أسئلة سبعة، ولا تكون هي الدراسة نفسها.
+    overview: z.object({
+      history: z.string(),                                  // ماذا حدث تاريخيًا مما أثّر في الأدب؟
+      change: z.string(),                                   // ما الذي تغيّر في اللغة والأدب؟
+      arts: z.array(card).default([]),                      // الفنون التي برزت
+      poets: z.array(named).default([]),                    // أهم الشعراء
+      writers: z.array(named).default([]),                  // أهم الأدباء والكتّاب والنقاد
+      writersTitle: z.string().optional(),                  // عنوان آخر للقسم حين يلزم، كـ«الخطباء والحكماء» في الجاهلي
+      books: z.array(z.object({ title: z.string(), text: z.string() })).default([]),  // أهم الكتب
+      texts: z.array(z.object({ title: z.string(), text: z.string(), text_id: reference('texts').optional() })).default([]), // النصوص التي صنعت العصر
+    }).optional(),
     topics: z.array(z.object({ id: z.string(), title: z.string() })).default([]),
     formative: z.array(slot).default([]),
     important: z.array(slot).default([]),

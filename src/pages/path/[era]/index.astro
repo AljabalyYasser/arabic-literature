@@ -4,7 +4,7 @@ import Base from '../../../layouts/Base.astro';
 import Crumbs from '../../../components/Crumbs.astro';
 import StatusBadge from '../../../components/StatusBadge.astro';
 import CiteList from '../../../components/CiteList.astro';
-import { ago, countWord, getEras, nameGen, url, type Era, type Slot } from '../../../lib/content';
+import { ago, countWord, fmt, getEras, nameGen, sourceMap, stripCites, url, type Era, type Slot } from '../../../lib/content';
 import { ordinals, tiers } from '../../../lib/labels';
 
 export async function getStaticPaths() {
@@ -19,24 +19,85 @@ const slots = [
   { key: 'important' as const, list: era.important },
 ];
 const written = (list: Slot[]) => list.filter((s) => s.entry).length;
+const ov = d.overview;
+const sources = await sourceMap();
+// الفقرات يفصل بينها سطر فارغ.
+const paras = (t: string) => t.split(/\n\s*\n/).map((x) => x.trim()).filter(Boolean);
 ---
-<Base title={d.title} description={d.summary ?? `${d.title}: قضاياه وأعلامه والطريق المقترح لقراءته.`}>
+<Base title={d.title} description={stripCites(d.summary) ?? `${d.title}: قضاياه وأعلامه والطريق المقترح لقراءته.`} searchType="عصر">
   <Crumbs items={[{ href: '/', label: 'المسار' }, { label: eraName }]} />
   <header class="station-head">
     <span class="kicker">{eraName}{d.range && ` · ${d.range}`}{d.start && <> · <span class="ago">بدأ {ago(d.start, true)}</span></>}</span>
     <h1>{d.title}</h1>
-    {d.summary && <p class="lede measure">{d.summary}</p>}
+    {d.summary && <p class="lede measure" set:html={fmt(d.summary, sources)} />}
     <div class="meta-row"><StatusBadge status={d.status} /></div>
   </header>
 
-  {d.highlights.length > 0 && (
-    <section>
-      <div class="section-head"><span class="kicker">نظرة عامة</span><h2>ملامح مركزية</h2></div>
-      <div class="grid four">
-        {d.highlights.map((h, i) => (
-          <article class="card"><span class="num">{String(i + 1).padStart(2, '0')}</span><h3>{h.title}</h3><p>{h.text}</p></article>
-        ))}
-      </div>
+  {ov && (
+    <div class="era-map">
+      <section class="section measure">
+        <div class="section-head"><span class="kicker">أين أنت؟</span><h2>ماذا حدث؟</h2></div>
+        {paras(ov.history).map((t) => <p set:html={fmt(t, sources)} />)}
+      </section>
+
+      <section class="section measure">
+        <div class="section-head"><h2>ما الذي تغيّر في اللغة والأدب؟</h2></div>
+        {paras(ov.change).map((t) => <p set:html={fmt(t, sources)} />)}
+      </section>
+
+      {ov.arts.length > 0 && (
+        <section class="section">
+          <div class="section-head"><h2>الفنون التي برزت</h2></div>
+          <div class="grid two">
+            {ov.arts.map((a) => <article class="card"><h3>{a.title}</h3><p set:html={fmt(a.text, sources)} /></article>)}
+          </div>
+        </section>
+      )}
+
+      {ov.poets.length === 0 && era.formative.length > 0 && (
+        <section class="section measure">
+          <div class="section-head"><h2>أهم الشعراء</h2><p>{tiers.formative.plural}، وتجدهم مع {tiers.important.plural} و{tiers.face.plural} في <a href="#alam">أعلام العصر</a>.</p></div>
+          <ul class="pill-list">
+            {era.formative.map((s) => s.entry ? <li><a href={url.person(s.id)}>{s.name}</a></li> : <li class="planned">{s.name}</li>)}
+          </ul>
+        </section>
+      )}
+
+      {[{ title: 'أهم الشعراء', list: ov.poets }, { title: ov.writersTitle ?? 'الأدباء والكتّاب والنقاد', list: ov.writers }].filter((g) => g.list.length > 0).map((g) => (
+        <section class="section measure">
+          <div class="section-head"><h2>{g.title}</h2></div>
+          <ul class="name-list">
+            {g.list.map((n) => <li><b>{n.person ? <a href={url.person(n.person.id)}>{n.name}</a> : n.name}</b> <span set:html={fmt(n.text, sources)} /></li>)}
+          </ul>
+        </section>
+      ))}
+
+      {ov.books.length > 0 && (
+        <section class="section measure">
+          <div class="section-head"><h2>أهم الكتب</h2></div>
+          <ul class="name-list">{ov.books.map((k) => <li><b>{k.title}</b> <span set:html={fmt(k.text, sources)} /></li>)}</ul>
+        </section>
+      )}
+
+      {ov.texts.length > 0 && (
+        <section class="section measure">
+          <div class="section-head"><h2>نصوص صنعت العصر</h2></div>
+          <ul class="name-list">{ov.texts.map((k) => <li><b>{k.text_id ? <a href={url.text(k.text_id.id)}>{k.title}</a> : k.title}</b> <span set:html={fmt(k.text, sources)} /></li>)}</ul>
+        </section>
+      )}
+    </div>
+  )}
+
+  {(era.route.length > 0 || d.plan.length > 0) && (
+    <div class="section-head study-head"><span class="kicker">ما الذي ستدرسه؟</span><h2>{era.route.length > 0 ? 'قراءة العصر' : 'خطة العصر'}</h2></div>
+  )}
+
+  {era.route.length === 0 && d.plan.length > 0 && (
+    <section class="section">
+      <p class="measure muted">خطة مسودة تُراجع قبل كتابة العصر، وتُبنى عليها قضاياه وأعلامه بدرجاتهم الثلاث بعد مسح أعلامه.</p>
+      <ol class="station-list card">
+        {d.plan.map((s) => <li><span class="n">{s.number}</span><span class="planned">{s.title}</span><span></span></li>)}
+      </ol>
     </section>
   )}
 
@@ -85,7 +146,7 @@ const written = (list: Slot[]) => list.filter((s) => s.entry).length;
   )}
 
   {(era.formative.length > 0 || era.important.length > 0 || era.groups.length > 0) && (
-    <section class="section">
+    <section class="section" id="alam">
       <div class="section-head">
         <span class="kicker">الأعلام</span>
         <h2>أعلام {d.title}</h2>

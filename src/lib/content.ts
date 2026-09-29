@@ -185,7 +185,7 @@ async function buildEras(): Promise<Era[]> {
       })),
       route,
       referred: people.filter((p) => p.data.refer.some((r) => r.id === entry.id)),
-      hasPage: d.formative.length + d.important.length + d.groups.length > 0 || Boolean(d.summary),
+      hasPage: d.formative.length + d.important.length + d.groups.length > 0 || Boolean(d.summary || d.overview),
     };
   });
 }
