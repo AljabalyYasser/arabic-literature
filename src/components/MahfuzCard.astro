@@ -1,20 +1,20 @@
 ---
-// بطاقة محفوظ واحد، في صفحة المحفوظات وفي آخر المحطة.
+// بطاقة محفوظ واحد، في صفحة المحفوظات وفي آخر الفصل الذي شُرح فيه.
 import type { CollectionEntry } from 'astro:content';
 import { dateAgo, fmt, livedAgo, must, mustAll, sourceMap, url, verseOrder, verseTextId } from '../lib/content';
 import { mahfuzKinds } from '../lib/labels';
 import VerseLines from './VerseLines.astro';
 import Grade from './Grade.astro';
 
-interface Props { item: CollectionEntry<'mahfuzat'>; showStation?: boolean }
-const { item, showStation = true } = Astro.props;
+interface Props { item: CollectionEntry<'mahfuzat'>; showChapter?: boolean }
+const { item, showChapter = true } = Astro.props;
 const d = item.data;
 const sources = await sourceMap();
 const person = d.person ? await must(d.person) : undefined;
 const verses = await mustAll(d.verses);
 const lines = [...verses.map((v) => ({ first: v.data.first, second: v.data.second })), ...d.lines];
 const story = d.story ? await must(d.story) : undefined;
-const station = d.station ? await must(d.station) : undefined;
+const chapter = d.chapter ? await must(d.chapter) : undefined;
 const when = d.year ? dateAgo(d.year) : person ? livedAgo(person.data.born, person.data.died) : '';
 const firstVerse = verses[0];
 const textId = firstVerse ? verseTextId(firstVerse.id) : undefined;
@@ -46,7 +46,7 @@ const textId = firstVerse ? verseTextId(firstVerse.id) : undefined;
   <p class="mahfuz-meaning" set:html={fmt(d.meaning, sources)} />
 
   <footer class="mahfuz-tools">
-    {showStation && station && <a href={url.station(station.id)}>شُرح في المحطة {station.data.number}</a>}
+    {showChapter && chapter && <a href={url.chapter(chapter.id)}>شُرح في: {chapter.data.title}</a>}
     {firstVerse && textId && <a href={`${url.text(textId)}#b${verseOrder(firstVerse.id)}`}>في سياق القصيدة</a>}
     {story && <a href={url.story(story.id)}>الحكاية كاملة</a>}
     <button type="button" class="btn small hifz-btn" data-hifz={item.id} data-label={d.kind === 'hikaya' ? 'أعرفها' : 'حفظته'} aria-pressed="false">{d.kind === 'hikaya' ? 'أعرفها' : 'حفظته'}</button>

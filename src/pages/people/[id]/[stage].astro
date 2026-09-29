@@ -1,0 +1,16 @@
+---
+import { getCollection, type CollectionEntry } from 'astro:content';
+import ChapterPage from '../../../components/ChapterPage.astro';
+import { chapterHome, chapterSlug, getEras, isTopic } from '../../../lib/content';
+
+export async function getStaticPaths() {
+  await getEras();
+  return (await getCollection('chapters', (c) => !isTopic(c.id))).map((chapter) => ({
+    params: { id: chapterHome(chapter.id), stage: chapterSlug(chapter.id) },
+    props: { chapter },
+  }));
+}
+
+const { chapter } = Astro.props as { chapter: CollectionEntry<'chapters'> };
+---
+<ChapterPage chapter={chapter} />

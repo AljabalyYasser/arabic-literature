@@ -1,0 +1,104 @@
+---
+// صفحة فصل: قضية من قضايا العصر، أو مرحلة من مسار علم.
+import { getCollection, render } from 'astro:content';
+import Base from '../layouts/Base.astro';
+import Crumbs from './Crumbs.astro';
+import StatusBadge from './StatusBadge.astro';
+import CiteList from './CiteList.astro';
+import Pager from './Pager.astro';
+import Reading from './Reading.astro';
+import VerseQuote from './VerseQuote.astro';
+import Cite from './Cite.astro';
+import ConceptCard from './ConceptCard.astro';
+import PersonCard from './PersonCard.astro';
+import StoryCard from './StoryCard.astro';
+import Bayt from './Bayt.astro';
+import Ago from './Ago.astro';
+import VerseSet from './VerseSet.astro';
+import MahfuzCard from './MahfuzCard.astro';
+import { chapterPlace, nameGen, readingOrder, url, type Chapter } from '../lib/content';
+import { ordinals } from '../lib/labels';
+
+interface Props { chapter: Chapter }
+const { chapter } = Astro.props;
+const d = chapter.data;
+const { Content } = await render(chapter);
+const place = await chapterPlace(chapter);
+const order = await readingOrder();
+const i = order.findIndex((c) => c.id === chapter.id);
+const [prev, next] = [order[i - 1], order[i + 1]];
+const mahfuzat = (await getCollection('mahfuzat', (m) => m.data.chapter?.id === chapter.id))
+  .sort((a, b) => a.data.order - b.data.order || a.id.localeCompare(b.id));
+
+const eraName = (n: number) => `الباب ${n === 0 ? 'التمهيدي' : ordinals[n - 1]}`;
+let crumbs: { href?: string; label: string }[];
+let kicker: string;
+if (place.kind === 'topic') {
+  const e = place.era;
+  const eraLabel = `${eraName(e.entry.data.number)}: ${e.entry.data.title}`;
+  crumbs = [{ href: '/', label: 'المسار' }, { href: e.hasPage ? url.era(e.entry.id) : '/#journey', label: eraLabel }, { label: d.title }];
+  kicker = e.entry.data.number === 0 ? e.entry.data.title : `قضايا ${e.entry.data.title} · ${place.index} من ${place.total}`;
+} else {
+  const p = place.person;
+  crumbs = [{ href: '/people/', label: 'الأعلام' }, { href: url.person(p.id), label: p.data.name }, { label: `المرحلة ${place.index}` }];
+  kicker = `مسار ${nameGen(p)} · المرحلة ${place.index} من ${place.total}`;
+}
+const doneLabel = place.kind === 'topic' ? 'أنهيت هذه القراءة' : 'أنهيت هذه المرحلة';
+const placeLabel = async (c: Chapter) => {
+  const pl = await chapterPlace(c);
+  return pl.kind === 'topic' ? pl.era.entry.data.title : `مسار ${nameGen(pl.person)} · المرحلة ${pl.index}`;
+};
+const link = async (c?: Chapter) => c && { href: url.chapter(c.id), label: await placeLabel(c), title: c.data.title };
+const [prevLink, nextLink] = [await link(prev), await link(next)];
+const components = { Reading, VerseSet, VerseQuote, Cite, ConceptCard, PersonCard, StoryCard, Bayt, Ago };
+---
+<Base title={d.title} description={d.subtitle} searchType={place.kind === 'topic' ? 'قضية' : 'مرحلة'}>
+  <Crumbs items={crumbs} />
+  <header class="station-head">
+    <span class="kicker">{kicker}</span>
+    <h1>{d.title}</h1>
+    {d.subtitle && <p class="lede measure">{d.subtitle}</p>}
+    <div class="meta-row">
+      {d.minutes && <span>نحو {d.minutes} دقيقة قراءة</span>}
+      <StatusBadge status={d.status} />
+    </div>
+  </header>
+
+  <div class="prose station-body">
+    <Content components={components} />
+  </div>
+
+  {d.outcomes.length > 0 && (
+    <section class="section measure">
+      <div class="section-head"><span class="kicker">الحصيلة</span><h2>ما الذي خرجت به من هذه القراءة؟</h2></div>
+      <ol class="outcomes">{d.outcomes.map((o) => <li><span>{o}</span></li>)}</ol>
+    </section>
+  )}
+
+  {mahfuzat.length > 0 && (
+    <section class="section measure">
+      <div class="section-head"><span class="kicker">المحفوظات</span><h2>ما يبقى معك من هذه القراءة</h2><p>تجدها كلها مع محفوظات العصور الأخرى في <a href="/mahfuzat/">المحفوظات</a>.</p></div>
+      <div class="mahfuz-list">{mahfuzat.map((m) => <MahfuzCard item={m} showChapter={false} />)}</div>
+    </section>
+  )}
+
+  {d.review.length > 0 && (
+    <section class="section measure review" data-pagefind-ignore>
+      <div class="section-head"><span class="kicker">مراجعة</span><h2>اختبر فهمك</h2><p>حاول أن تجيب قبل أن تفتح الجواب.</p></div>
+      {d.review.map((r) => <details><summary>{r.q}</summary><p>{r.a}</p></details>)}
+    </section>
+  )}
+
+  {d.sources.length > 0 && (
+    <section class="section measure">
+      <div class="section-head"><h2>مصادر هذه القراءة</h2></div>
+      <CiteList items={d.sources} />
+    </section>
+  )}
+
+  <div class="section measure" data-pagefind-ignore>
+    <button type="button" class="btn" data-done-toggle={chapter.id} data-label={doneLabel} aria-pressed="false">{doneLabel}</button>
+  </div>
+
+  <Pager prev={prevLink} next={nextLink} />
+</Base>

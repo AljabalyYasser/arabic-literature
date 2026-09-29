@@ -5,7 +5,7 @@ person: "tarafa"
 text: "صَحِيفَةُ الْمُتَلَمِّسِ"
 story: "sahifat-al-mutalammis"
 meaning: "الكتاب الذي فيه هلاك حامله وهو لا يدري. «يضرب لمن يسعى بنفسه في حينها ويغررها» [@maydani، ج1 ص401]."
-station: "1-7"
+chapter: "tarafa/hayatuhu"
 sources:
   - source: "maydani"
     loc: "ج1 ص399–401"

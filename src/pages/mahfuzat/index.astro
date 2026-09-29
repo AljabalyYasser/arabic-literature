@@ -2,20 +2,20 @@
 import { getCollection, type CollectionEntry } from 'astro:content';
 import Base from '../../layouts/Base.astro';
 import MahfuzCard from '../../components/MahfuzCard.astro';
-import { ago, compareNumbers } from '../../lib/content';
+import { ago, readingOrder } from '../../lib/content';
 import { mahfuzFilters, ordinals } from '../../lib/labels';
 
 const items = await getCollection('mahfuzat');
 const parts = (await getCollection('parts')).sort((a, b) => a.data.number - b.data.number);
-const stations = new Map((await getCollection('stations')).map((s) => [s.id, s]));
-// الترتيب داخل الباب: بحسب المحطة التي شُرح فيها، ثم بحسب order.
-const stationNo = (m: CollectionEntry<'mahfuzat'>) => (m.data.station && stations.get(m.data.station.id)?.data.number) || '999';
+const order = (await readingOrder()).map((c) => c.id);
+// الترتيب داخل الباب: بحسب موضع الفصل الذي شُرح فيه من ترتيب القراءة، ثم بحسب order.
+const place = (m: CollectionEntry<'mahfuzat'>) => (m.data.chapter ? order.indexOf(m.data.chapter.id) : -1) + 1 || 9999;
 const groups = parts
   .map((part) => ({
     part,
     items: items
       .filter((m) => m.data.part.id === part.id)
-      .sort((a, b) => compareNumbers(stationNo(a), stationNo(b)) || a.data.order - b.data.order || a.id.localeCompare(b.id)),
+      .sort((a, b) => place(a) - place(b) || a.data.order - b.data.order || a.id.localeCompare(b.id)),
   }))
   .filter((g) => g.items.length > 0);
 ---
@@ -23,7 +23,7 @@ const groups = parts
   <header class="station-head">
     <span class="kicker">المحفوظات</span>
     <h1>ما يبقى معك</h1>
-    <p class="lede measure">أشهر الأبيات والمقاطع والأمثال والحكايات في الأدب العربي، مرتبة بالعصور. الأبيات والأمثال تُحفظ، والحكايات تُعرف وتُروى. وكل ما هنا مشروح في محطته من المسار.</p>
+    <p class="lede measure">أشهر الأبيات والمقاطع والأمثال والحكايات في الأدب العربي، مرتبة بالعصور. الأبيات والأمثال تُحفظ، والحكايات تُعرف وتُروى. وكل ما هنا مشروح في موضعه من المسار.</p>
   </header>
 
   {items.length > 0 ? (
@@ -51,6 +51,6 @@ const groups = parts
       ))}
     </>
   ) : (
-    <p class="muted">تُضاف المحفوظات مع محطات المسار.</p>
+    <p class="muted">تُضاف المحفوظات مع قراءات المسار.</p>
   )}
 </Base>

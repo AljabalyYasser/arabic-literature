@@ -1,7 +1,8 @@
 number: 0
 title: قبل الرحلة
-plan:
-  - number: "0.1"
+topics:
+  - id: kayfa-taqra
     title: كيف تقرأ هذا الموقع
-  - number: "0.2"
+  - id: kharitat-al-rihla
     title: خريطة الرحلة
+route: [kayfa-taqra, kharitat-al-rihla]

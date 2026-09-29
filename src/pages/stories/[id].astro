@@ -20,7 +20,7 @@ const grade = storyGrades[s.grade];
 const sources = await sourceMap();
 ---
 <Base title={s.title} description={stripCites(s.summary)} searchType="حكاية">
-  <Crumbs items={[{ href: '/stories/', label: 'الحكايات' }, { label: s.title }]} />
+  <Crumbs items={[{ href: '/texts/', label: 'النصوص' }, { href: '/stories/', label: 'الحكايات' }, { label: s.title }]} />
   <header class="station-head">
     <span class="kicker">حكاية</span>
     <h1>{s.title}</h1>

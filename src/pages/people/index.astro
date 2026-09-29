@@ -1,27 +1,72 @@
 ---
-import { getCollection } from 'astro:content';
 import Base from '../../layouts/Base.astro';
-import { lifespan, livedAgo, url } from '../../lib/content';
-import { personKinds } from '../../lib/labels';
+import { getEras, lifespan, livedAgo, url, type Person } from '../../lib/content';
+import { kindsOf, ordinals, tiers } from '../../lib/labels';
 
-const people = (await getCollection('people')).sort((a, b) => (a.data.died?.h ?? 9999) - (b.data.died?.h ?? 9999));
+const eras = (await getEras())
+  .map((era) => ({
+    era,
+    formative: era.formative.flatMap((s) => (s.entry ? [s.entry] : [])),
+    important: era.important.flatMap((s) => (s.entry ? [s.entry] : [])),
+    groups: era.groups.filter((g) => g.faces.length > 0),
+  }))
+  .filter((e) => e.formative.length + e.important.length + e.groups.length > 0);
+const meta = (p: Person) => [kindsOf(p.data), lifespan(p.data.born, p.data.died), livedAgo(p.data.born, p.data.died)].filter(Boolean).join(' · ');
 ---
 <Base title="الأعلام">
   <header class="station-head">
-    <span class="kicker">المرجع</span>
+    <span class="kicker">الأعلام</span>
     <h1>الأعلام</h1>
-    <p class="lede measure">الشعراء والكتّاب والنقاد والشرّاح الذين نلتقي بهم في المسار، مرتبين بتاريخ الوفاة.</p>
+    <p class="lede measure">الشعراء والكتّاب والنقاد الذين نقرؤهم، مرتبين بعصورهم. ولا نقرؤهم كلهم بالقدر نفسه: {tiers.formative.plural} لكل منهم مسار قراءة كامل، و{tiers.important.plural} نقرأ لكل منهم عدة نصوص، و{tiers.face.plural} في مجموعات بحسب موضوعها.</p>
   </header>
-  {people.length === 0 && <p class="muted">تُضاف الأعلام مع محطات المسار.</p>}
-  <ul class="index-list grid two">
-    {people.map((p) => (
-      <li>
-        <a class="card link-card" href={url.person(p.id)}>
-          <span class="kicker">{[p.data.kinds.map((k) => personKinds[k]).join('، '), lifespan(p.data.born, p.data.died), livedAgo(p.data.born, p.data.died)].filter(Boolean).join(' · ')}</span>
-          <h3>{p.data.name}</h3>
-          <p class="muted">{p.data.summary}</p>
-        </a>
-      </li>
-    ))}
-  </ul>
+
+  {eras.length === 0 && <p class="muted">تُضاف الأعلام مع العصور.</p>}
+
+  {eras.map(({ era, formative, important, groups }) => (
+    <section class="section">
+      <div class="section-head">
+        <span class="kicker">الباب {ordinals[era.entry.data.number - 1]}</span>
+        <h2>{era.hasPage ? <a href={url.era(era.entry.id)}>{era.entry.data.title}</a> : era.entry.data.title}</h2>
+      </div>
+
+      {[{ key: 'formative' as const, list: formative }, { key: 'important' as const, list: important }].filter((t) => t.list.length > 0).map(({ key, list }) => (
+        <div class="tier-block">
+          <h3>{tiers[key].plural}</h3>
+          <ul class="index-list grid two">
+            {list.map((p) => (
+              <li>
+                <a class="card link-card" href={url.person(p.id)}>
+                  <span class="kicker">{meta(p)}</span>
+                  <h3>{p.data.name}</h3>
+                  <p class="muted">{p.data.summary}</p>
+                </a>
+              </li>
+            ))}
+          </ul>
+        </div>
+      ))}
+
+      {groups.length > 0 && (
+        <div class="tier-block">
+          <h3>{tiers.face.plural}</h3>
+          {groups.map((g) => (
+            <div class="tier-block">
+              <h4>{g.entry ? <a href={url.group(g.id)}>{g.title}</a> : g.title}</h4>
+              <ul class="index-list grid two">
+                {g.faces.map((p) => (
+                  <li>
+                    <a class="card link-card" href={url.person(p.id)}>
+                      <span class="kicker">{meta(p)}</span>
+                      <h3>{p.data.name}</h3>
+                      <p class="muted">{p.data.summary}</p>
+                    </a>
+                  </li>
+                ))}
+              </ul>
+            </div>
+          ))}
+        </div>
+      )}
+    </section>
+  ))}
 </Base>

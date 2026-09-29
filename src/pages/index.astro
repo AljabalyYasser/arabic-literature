@@ -1,59 +1,96 @@
 ---
 import Base from '../layouts/Base.astro';
-import { ago, getPath, url } from '../lib/content';
+import { ago, countWord, getEras, nameGen, readingOrder, url } from '../lib/content';
 import { ordinals } from '../lib/labels';
 
-const path = await getPath();
-const written = path.flatMap((p) => p.stations.filter((s) => s.entry).map((s) => s.entry!.id));
-const first = written[0];
+const eras = await getEras();
+const intro = eras.find((e) => e.entry.data.number === 0);
+const rest = eras.filter((e) => e.entry.data.number > 0);
+const order = await readingOrder();
+const first = order[0];
+// زر «تابع» يقرأ ما أنهيته من المتصفح، فيحتاج إلى ترتيب القراءة كله.
+const continueData = JSON.stringify(order.map((c) => ({ id: c.id, href: url.chapter(c.id), title: c.data.title })));
 ---
 <Base title="الشعر والأدب العربي">
   <section class="hero">
     <span class="kicker">رحلة في تاريخ الأدب العربي</span>
     <h1>الأدب العربي رحلةً واحدة متصلة</h1>
-    <p class="lede">مسار يبدأ من الجاهلية ويصل إلى أيامنا، محطةً بعد محطة: حكاية تفتح الباب، ثم ما يلزم من السياق والأعلام، ثم نص نقرؤه معًا بيتًا بيتًا، ثم حصيلة تخرج بها. وكل معلومة معها مصدرها.</p>
+    <p class="lede">مسار يبدأ من الجاهلية ويصل إلى أيامنا، عصرًا بعد عصر: تعرف خريطة العصر أولًا، ثم أعلامه، ثم تقرأ أدبه نفسه نصًّا نصًّا، ويبقى معك منه ما يستحق الحفظ. وكل معلومة معها مصدرها.</p>
     <div class="hero-actions">
-      {first && <a class="btn primary" href={url.station(first)} data-continue={written.join(' ')}>ابدأ من المحطة {first.replace('-', '.')}</a>}
+      {first && <a class="btn primary" href={url.chapter(first.id)} data-continue={continueData}>ابدأ من: {first.data.title}</a>}
       <a class="btn" href="#journey">خريطة الرحلة</a>
       <a class="btn" href="/method/">كيف يُوثَّق المحتوى</a>
     </div>
   </section>
 
+  {intro && intro.topics.some((t) => t.entry) && (
+    <section class="section">
+      <div class="section-head"><h2>{intro.entry.data.title}</h2></div>
+      <ol class="station-list card">
+        {intro.topics.map((t, i) => (
+          <li data-station-id={t.entry?.id}>
+            <span class="n">{i + 1}</span>
+            {t.entry ? <a href={url.chapter(t.entry.id)}>{t.title}</a> : <span class="planned">{t.title}</span>}
+            <span class="done-mark" aria-label="أنهيتها">✓</span>
+          </li>
+        ))}
+      </ol>
+    </section>
+  )}
+
   <section class="section" id="journey">
     <div class="section-head">
       <h2>خريطة الرحلة</h2>
-      <p>الأبواب مرتبة زمنيًا، وكل محطة جلسة قراءة واحدة. المحطات الباهتة لم تُنشر بعد.</p>
+      <p>العصور مرتبة زمنيًا. لكل عصر صفحة تقول لك أين أنت وما الذي ستدرسه، وفيها طريق مقترح لقراءته. وما كان باهتًا لم يُنشر بعد.</p>
     </div>
     <div class="journey">
-      {path.map(({ entry, stations, hasPage }) => (
+      {rest.map((era) => (
         <article class="part-row">
           <div>
-            <span class="kicker">الباب {entry.data.number === 0 ? 'التمهيدي' : ordinals[entry.data.number - 1]}</span>
-            <h3>{hasPage ? <a href={url.part(entry.id)}>{entry.data.title}</a> : entry.data.title}</h3>
-            {entry.data.range && <div class="range">{entry.data.range}</div>}
-            {entry.data.start && <div class="ago">بدأ {ago(entry.data.start, true)}</div>}
+            <span class="kicker">الباب {ordinals[era.entry.data.number - 1]}</span>
+            <h3>{era.hasPage ? <a href={url.era(era.entry.id)}>{era.entry.data.title}</a> : era.entry.data.title}</h3>
+            {era.entry.data.range && <div class="range">{era.entry.data.range}</div>}
+            {era.entry.data.start && <div class="ago">بدأ {ago(era.entry.data.start, true)}</div>}
           </div>
-          <ol class="station-list">
-            {stations.map((s) => (
-              <li data-station-id={s.entry?.id}>
-                <span class="n">{s.number}</span>
-                {s.entry ? <a href={url.station(s.entry.id)}>{s.title}</a> : <span class="planned">{s.title}</span>}
-                <span class="done-mark" aria-label="أنهيتها">✓</span>
-              </li>
-            ))}
-          </ol>
+          {era.route.length > 0 ? (
+            <div>
+              <ol class="station-list">
+                {era.route.map((item, i) => item.kind === 'topic' ? (
+                  <li data-station-id={item.slot.entry?.id}>
+                    <span class="n">{i + 1}</span>
+                    {item.slot.entry ? <a href={url.chapter(item.slot.entry.id)}>{item.slot.title}</a> : <span class="planned">{item.slot.title}</span>}
+                    <span class="done-mark" aria-label="أنهيتها">✓</span>
+                  </li>
+                ) : (
+                  <li data-done-all={item.stages.map((s) => s.id).join(' ')}>
+                    <span class="n">{i + 1}</span>
+                    <span><a href={url.person(item.person.id)}>مسار {nameGen(item.person)}</a> <span class="sub">{countWord(item.stages.length, ['مرحلة واحدة', 'مرحلتان', 'مراحل', 'مرحلة'])}</span></span>
+                    <span class="done-mark" aria-label="أنهيته">✓</span>
+                  </li>
+                ))}
+              </ol>
+              {era.hasPage && <p class="more"><a href={url.era(era.entry.id)}>قضايا العصر وأعلامه كلها</a></p>}
+            </div>
+          ) : (
+            <div>
+              <p class="muted small">خطة مسودة، تُراجع قبل كتابة العصر:</p>
+              <ol class="station-list">
+                {era.entry.data.plan.map((s) => <li><span class="n">{s.number}</span><span class="planned">{s.title}</span><span></span></li>)}
+              </ol>
+            </div>
+          )}
         </article>
       ))}
     </div>
   </section>
 
   <section class="section">
-    <div class="section-head"><h2>كيف تُكتب المحطات؟</h2></div>
+    <div class="section-head"><h2>كيف يُكتب المحتوى؟</h2></div>
     <div class="principles">
       <article class="card">
         <span class="num">01</span>
         <h3>الحكاية قبل المصطلح</h3>
-        <p>تبدأ كل محطة بمشهد أو خبر، ثم يأتي الشرح. والمصطلح يُشرح عند أول ظهور له بمثال من النص نفسه.</p>
+        <p>تبدأ كل قراءة بمشهد أو خبر، ثم يأتي الشرح. والمصطلح يُشرح عند أول ظهور له بمثال من النص نفسه.</p>
       </article>
       <article class="card">
         <span class="num">02</span>

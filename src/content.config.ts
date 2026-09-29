@@ -24,6 +24,10 @@ const citation = z.object({
   note: z.string().optional(),
 });
 
+// الباب: عصر من عصور الأدب، أو «قبل الرحلة» (الباب 0).
+// بنية العصر (docs/alam.md): قضاياه، وأعلامه بدرجاتهم، ومجموعات وجوهه، والطريق المقترح فيه.
+// ما في هذه القوائم ولم يُكتب بعد يظهر باهتًا.
+const slot = z.object({ id: z.string(), name: z.string() });
 const parts = defineCollection({
   loader: glob({ base: './src/content/parts', pattern: '*.yaml' }),
   schema: z.object({
@@ -37,17 +41,26 @@ const parts = defineCollection({
     deep: z.array(card).default([]),
     keyNames: z.array(z.string()).default([]),
     takeaways: z.array(z.string()).default([]),
+    topics: z.array(z.object({ id: z.string(), title: z.string() })).default([]),
+    formative: z.array(slot).default([]),
+    important: z.array(slot).default([]),
+    groups: z.array(z.object({ id: z.string(), title: z.string() })).default([]),
+    // الطريق المقترح: معرّفات قضايا وأعلام من هذا الباب، بترتيب القراءة.
+    route: z.array(z.string()).default([]),
+    // خطة مسودة لباب لم تُبنَ بنيته بعد.
     plan: z.array(z.object({ number: z.string(), title: z.string() })).default([]),
     sources: z.array(citation).default([]),
     status,
   }),
 });
 
-const stations = defineCollection({
-  loader: glob({ base: './src/content/stations', pattern: '*.mdx' }),
+// الفصل: صفحة قراءة طويلة. موضعه من مجلده:
+// chapters/<رقم الباب>/<المعرّف>.mdx قضية من قضايا العصر، ترتيبها من قائمة topics في الباب؛
+// chapters/<معرّف العلم>/<المعرّف>.mdx مرحلة في مسار العلم، ترتيبها من order.
+const chapters = defineCollection({
+  loader: glob({ base: './src/content/chapters', pattern: '*/*.mdx' }),
   schema: z.object({
-    part: reference('parts'),
-    number: z.string(),
+    order: z.number().int().optional(),
     title: z.string(),
     subtitle: z.string().optional(),
     minutes: z.number().int().optional(),
@@ -62,15 +75,28 @@ const stations = defineCollection({
   }),
 });
 
+// العلم ودرجته (docs/alam.md): أعلام التكوين، وأعلام مهمون، ووجوه من العصر.
+// الوجه في مجموعة من مجموعات عصره؛ وله بطاقة مستقلة (card) أو مدخل في صفحة المجموعة.
 const people = defineCollection({
   loader: glob({ base: './src/content/people', pattern: '*.md' }),
   schema: z.object({
     name: z.string(),
+    // الاسم مجرورًا حين يختلف، مثل «امرئ القَيْس»، لقولنا «مسار امرئ القَيْس».
+    nameGen: z.string().optional(),
     fullName: z.string().optional(),
     kinds: z.array(z.enum(['poet', 'prose', 'critic', 'commentator', 'narrator', 'linguist', 'patron'])).min(1),
     born: date.optional(),
     died: date.optional(),
-    part: reference('parts').optional(),
+    part: reference('parts'),
+    tier: z.enum(['formative', 'important', 'face']),
+    group: z.string().optional(),
+    card: z.boolean().default(true),
+    // ترتيب الوجه في مجموعته.
+    order: z.number().optional(),
+    // لضمائر العناوين: «من هي؟» و«نصوصها».
+    female: z.boolean().default(false),
+    // المخضرم: الأبواب الأخرى التي تحيل إليه (قاعدة المخضرمين).
+    refer: z.array(reference('parts')).default([]),
     summary: z.string(),
     placement: z.string().optional(),
     timeline: z.array(z.object({ year: z.string(), text: z.string() })).default([]),
@@ -87,6 +113,8 @@ const texts = defineCollection({
     author: reference('people').optional(),
     kind: z.enum(['qasida', 'muqattaa', 'khutba', 'risala', 'maqama', 'novel', 'story', 'play', 'other']).default('qasida'),
     form: z.enum(['amudi', 'tafeela', 'prose', 'muwashshah']).default('amudi'),
+    // درجة القراءة: عميقة، أو موجهة، أو حرة. تُذكر حين يُقرأ النص كاملًا.
+    reading: z.enum(['deep', 'guided', 'free']).optional(),
     attribution: z.object({
       grade: z.enum(['thabit', 'rajih', 'mukhtalaf', 'mansub']),
       note: z.string(),
@@ -182,13 +210,23 @@ const mahfuzat = defineCollection({
     text: z.string().optional(),
     story: reference('stories').optional(),
     meaning: z.string(),
-    station: reference('stations').optional(),
+    chapter: reference('chapters').optional(),
     year: date.optional(),
     sources: z.array(citation).default([]),
     status,
   }).superRefine((m, ctx) => {
     const has = { bayt: m.verses.length + m.lines.length > 0, maqta: m.verses.length + m.lines.length > 0, mathal: Boolean(m.text), hikaya: Boolean(m.story) }[m.kind];
     if (!has) ctx.addIssue({ code: 'custom', path: ['kind'], message: 'المحفوظ ينقصه نصه: أبيات، أو نص المثل، أو الحكاية' });
+  }),
+});
+
+// مجموعة من مجموعات «وجوه من العصر»: عنوانها وترتيبها في بابها، ومتنها مدخل يعرّف ظاهرتها.
+const groups = defineCollection({
+  loader: glob({ base: './src/content/groups', pattern: '*.md' }),
+  schema: z.object({
+    part: reference('parts'),
+    sources: z.array(citation).default([]),
+    status,
   }),
 });
 
@@ -208,4 +246,4 @@ const sources = defineCollection({
   }),
 });
 
-export const collections = { parts, stations, people, texts, verses, stories, concepts, mahfuzat, sources };
+export const collections = { parts, chapters, people, groups, texts, verses, stories, concepts, mahfuzat, sources };

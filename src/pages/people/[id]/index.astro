@@ -1,0 +1,186 @@
+---
+// صفحة العلم بحسب درجته (docs/alam.md):
+// علم التكوين له مسار قراءة كامل، والعلم المهم له عدة نصوص، ووجه العصر بطاقة في مجموعته.
+import { getCollection, type CollectionEntry } from 'astro:content';
+import Base from '../../../layouts/Base.astro';
+import Crumbs from '../../../components/Crumbs.astro';
+import StatusBadge from '../../../components/StatusBadge.astro';
+import CiteList from '../../../components/CiteList.astro';
+import Body from '../../../components/Body.astro';
+import Grade from '../../../components/Grade.astro';
+import { chapterHome, countWord, nameGen, dateAgo, fmt, formatDate, getEras, isTopic, must, sourceMap, stagesOf, stripCites, url, versesOf } from '../../../lib/content';
+import { kindsOf, mahfuzKinds, readingTiers, textKinds, tiers } from '../../../lib/labels';
+
+export async function getStaticPaths() {
+  await getEras();
+  return (await getCollection('people')).map((person) => ({ params: { id: person.id }, props: { person } }));
+}
+
+const { person } = Astro.props as { person: CollectionEntry<'people'> };
+const p = person.data;
+// الوجه الذي لا بطاقة له مكانه مدخل في صفحة مجموعته، فيُحال رابطه إليها.
+if (!p.card) return Astro.redirect(`${url.group(p.group!)}#${person.id}`);
+const eras = await getEras();
+const era = eras.find((e) => e.entry.id === p.part.id)!;
+const group = p.tier === 'face' ? era.groups.find((g) => g.id === p.group) : undefined;
+const referredBy = eras.filter((e) => p.refer.some((r) => r.id === e.entry.id));
+
+const stages = await stagesOf(person.id);
+const texts = await Promise.all((await getCollection('texts', (t) => t.data.author?.id === person.id))
+  .map(async (t) => ({ t, count: (await versesOf(t.id)).length })));
+const mahfuzat = await Promise.all((await getCollection('mahfuzat', (m) => m.data.person?.id === person.id))
+  .sort((a, b) => a.data.order - b.data.order || a.id.localeCompare(b.id))
+  .map(async (m) => {
+    // اسم المحفوظ في القائمة: عنوانه، أو صدر بيته الأول، أو نص المثل، أو عنوان الحكاية.
+    const verse = m.data.verses[0] ? await must(m.data.verses[0]) : undefined;
+    const story = m.data.story ? await must(m.data.story) : undefined;
+    const label = m.data.title ?? verse?.data.first ?? m.data.lines[0]?.first ?? m.data.text ?? story?.data.title ?? m.id;
+    return { id: m.id, kind: m.data.kind, label };
+  }));
+// الضمير بحسب العلم: he('نصوصه', 'نصوصها').
+const he = (m: string, f: string) => (p.female ? f : m);
+const stories = await getCollection('stories', (s) => s.data.people.some((r) => r.id === person.id));
+// فصول يظهر فيها العلم وليست من مساره.
+const elsewhere = await getCollection('chapters', (c) => chapterHome(c.id) !== person.id && c.data.people.some((r) => r.id === person.id));
+const sources = await sourceMap();
+
+const crumbs = [
+  { href: '/people/', label: 'الأعلام' },
+  { href: era.hasPage ? url.era(era.entry.id) : undefined, label: era.entry.data.title },
+  ...(group ? [{ href: group.entry ? url.group(group.id) : undefined, label: group.title }] : []),
+  { label: p.name },
+];
+const textsTitle = p.tier === 'face' ? he('نصه', 'نصها') : he('نصوصه', 'نصوصها');
+---
+<Base title={p.name} description={stripCites(p.summary)} searchType="علَم">
+  <Crumbs items={crumbs} />
+  <div class="entity-head with-aside">
+    <header>
+      <span class="kicker">{tiers[p.tier].one}{group && ` · ${group.title}`}</span>
+      <h1>{p.name}</h1>
+      <p class="lede">{p.summary}</p>
+      <div class="meta-row"><StatusBadge status={p.status} /></div>
+    </header>
+    <aside class="card aside-card">
+      <dl>
+        {p.fullName && <div><dt>الاسم</dt><dd>{p.fullName}</dd></div>}
+        <div><dt>الصفة</dt><dd>{kindsOf(p)}</dd></div>
+        {p.born && <div><dt>المولد</dt><dd>{formatDate(p.born)}<span class="ago block">{dateAgo(p.born)}</span></dd></div>}
+        {p.died && <div><dt>الوفاة</dt><dd>{formatDate(p.died)}<span class="ago block">{dateAgo(p.died)}</span></dd></div>}
+        <div><dt>العصر</dt><dd>{era.hasPage ? <a href={url.era(era.entry.id)}>{era.entry.data.title}</a> : era.entry.data.title}</dd></div>
+      </dl>
+    </aside>
+  </div>
+
+  {referredBy.length > 0 && (
+    <p class="note-box measure">{he('أدرك', 'أدركت')} {referredBy.map((e) => e.entry.data.title).join(' و')}، و{he('مادته', 'مادتها')} الأدبية التي {he('ندرسه', 'ندرسها')} بسببها في {era.entry.data.title}، {he('فنقرؤه', 'فنقرؤها')} هنا، ويحيل {he('إليه', 'إليها')} {referredBy.map((e) => e.entry.data.title).join(' و')}.</p>
+  )}
+
+  {person.body?.trim() && (
+    <section class="section measure">
+      <div class="section-head"><h2>{he('من هو؟', 'من هي؟')}</h2></div>
+      <Body entry={person} />
+    </section>
+  )}
+
+  {p.timeline.length > 0 && (
+    <section class="section measure">
+      <div class="section-head"><span class="kicker">السيرة سياقًا</span><h2>خط زمني</h2></div>
+      <ol class="timeline">{p.timeline.map((t) => <li><time>{t.year}</time><p set:html={fmt(t.text, sources)} /></li>)}</ol>
+    </section>
+  )}
+
+  {p.placement && (
+    <section class="thesis measure"><b>{p.tier === 'face' ? he('لماذا نذكره؟', 'لماذا نذكرها؟') : he('لماذا هو مهم؟', 'لماذا هي مهمة؟')}</b><p set:html={fmt(p.placement, sources)} /></section>
+  )}
+
+  {p.readingKeys.length > 0 && (
+    <section class="section">
+      <div class="section-head"><span class="kicker">مفاتيح القراءة</span><h2>{he('كيف نقرؤه؟', 'كيف نقرؤها؟')}</h2></div>
+      <div class="grid two">
+        {p.readingKeys.map((k, i) => <article class="card"><span class="num">{String(i + 1).padStart(2, '0')}</span><h3>{k.title}</h3><p set:html={fmt(k.text, sources)} /></article>)}
+      </div>
+    </section>
+  )}
+
+  {(p.tier === 'formative' || stages.length > 0) && (
+    <section class="section">
+      <div class="section-head">
+        <span class="kicker">مسار القراءة</span>
+        <h2>مسار {nameGen(person)}</h2>
+        {stages.length > 0
+          ? <p class="measure">{countWord(stages.length, ['مرحلة واحدة', 'مرحلتان', 'مراحل', 'مرحلة'])}، تُقرأ بالترتيب.</p>
+          : <p class="measure muted">لم يُكتب {he('مساره', 'مسارها')} بعد.</p>}
+      </div>
+      {stages.length > 0 && (
+        <ol class="station-list card">
+          {stages.map((s, i) => (
+            <li data-station-id={s.id}>
+              <span class="n">{i + 1}</span>
+              <a href={url.chapter(s.id)}>{s.data.title}</a>
+              <span class="done-mark" aria-label="أنهيتها">✓</span>
+            </li>
+          ))}
+        </ol>
+      )}
+    </section>
+  )}
+
+  {texts.length > 0 && (
+    <section class="section">
+      <div class="section-head"><span class="kicker">النصوص</span><h2>{textsTitle}</h2></div>
+      <div class="grid two">
+        {texts.map(({ t, count }) => (
+          <a class="card link-card" href={url.text(t.id)}>
+            <span class="kicker">{textKinds[t.data.kind]}{t.data.reading && ` · ${readingTiers[t.data.reading].label}`}</span>
+            <h3>{t.data.title}</h3>
+            <div class="meta-row">
+              {count > 0 && <span>{countWord(count, ['بيت واحد مشروح', 'بيتان مشروحان', 'أبيات مشروحة', 'بيتًا مشروحًا'])}</span>}
+              {t.data.attribution && <Grade of="text" grade={t.data.attribution.grade} note={t.data.attribution.note} />}
+            </div>
+          </a>
+        ))}
+      </div>
+    </section>
+  )}
+
+  {mahfuzat.length > 0 && (
+    <section class="section measure">
+      <div class="section-head">
+        <span class="kicker">المحفوظات</span>
+        <h2>{he('ما يبقى منه', 'ما يبقى منها')}</h2>
+        <p>{countWord(mahfuzat.length, ['محفوظ واحد', 'محفوظان', 'محفوظات', 'محفوظًا'])}، تجدها بمعانيها في <a href="/mahfuzat/">المحفوظات</a>.</p>
+      </div>
+      <ul class="mahfuz-index">
+        {mahfuzat.map((m) => <li><a href={url.mahfuz(m.id)}><span class="kind">{mahfuzKinds[m.kind]}</span> {m.label}</a></li>)}
+      </ul>
+    </section>
+  )}
+
+  {(stories.length > 0 || elsewhere.length > 0) && (
+    <section class="section">
+      <div class="section-head"><h2>{he('أخباره، وأين يظهر أيضًا', 'أخبارها، وأين تظهر أيضًا')}</h2></div>
+      <div class="grid two">
+        {stories.map((s) => (
+          <a class="card link-card" href={url.story(s.id)}>
+            <span class="meta-row"><Grade of="story" grade={s.data.grade} tag={s.data.tag} /></span>
+            <h3>{s.data.title}</h3>
+          </a>
+        ))}
+        {elsewhere.map((c) => (
+          <a class="card link-card" href={url.chapter(c.id)}>
+            <span class="kicker">{isTopic(c.id) ? 'من قضايا العصر' : 'في مسار علم آخر'}</span>
+            <h3>{c.data.title}</h3>
+          </a>
+        ))}
+      </div>
+    </section>
+  )}
+
+  {p.sources.length > 0 && (
+    <section class="section measure">
+      <div class="section-head"><h2>المصادر</h2></div>
+      <CiteList items={p.sources} />
+    </section>
+  )}
+</Base>

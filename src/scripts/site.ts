@@ -140,22 +140,40 @@ document.addEventListener('click', async (e) => {
 const doneKey = (id: string) => `done:${id}`;
 const isDone = (id: string) => store.get(doneKey(id)) === '1';
 
+// صارت المحطات فصولًا في بنية العصور والأعلام (2026-09-29)، فيُنقل ما أنهاه القارئ إلى معرّفاتها الجديدة.
+const MOVED: Record<string, string> = {
+  '0-1': '0/kayfa-taqra', '0-2': '0/kharitat-al-rihla',
+  '1-1': '1/al-sahra', '1-2': '1/ayyam-al-arab', '1-3': '1/al-muallaqat',
+  '1-4': 'imru-al-qais/hayatuhu', '1-5': 'imru-al-qais/al-muallaqa-1', '1-6': 'imru-al-qais/al-muallaqa-2',
+  '1-7': 'tarafa/hayatuhu', '1-8': 'tarafa/al-muallaqa-1', '1-9': 'tarafa/al-muallaqa-2',
+};
+for (const [from, to] of Object.entries(MOVED)) {
+  if (!isDone(from)) continue;
+  store.set(doneKey(to), '1');
+  store.set(doneKey(from), null);
+}
+
 function syncProgress() {
   document.querySelectorAll<HTMLElement>('[data-station-id]').forEach((el) => {
     el.classList.toggle('is-done', isDone(el.dataset.stationId!));
   });
+  // مسار علم ينتهي بانتهاء مراحله كلها.
+  document.querySelectorAll<HTMLElement>('[data-done-all]').forEach((el) => {
+    const ids = (el.dataset.doneAll || '').split(' ').filter(Boolean);
+    el.classList.toggle('is-done', ids.length > 0 && ids.every(isDone));
+  });
   document.querySelectorAll<HTMLButtonElement>('[data-done-toggle]').forEach((b) => {
     const done = isDone(b.dataset.doneToggle!);
     b.setAttribute('aria-pressed', String(done));
-    b.textContent = done ? 'أنهيت هذه المحطة ✓' : 'أنهيت هذه المحطة';
+    b.textContent = done ? `${b.dataset.label} ✓` : b.dataset.label!;
   });
   document.querySelectorAll<HTMLAnchorElement>('[data-continue]').forEach((a) => {
-    const ids = (a.dataset.continue || '').split(' ').filter(Boolean);
-    const anyDone = ids.some(isDone);
-    const next = ids.find((id) => !isDone(id));
-    if (anyDone && next) {
-      a.href = `/path/${next}/`;
-      a.textContent = `تابع من المحطة ${next.replace('-', '.')}`;
+    let order: { id: string; href: string; title: string }[] = [];
+    try { order = JSON.parse(a.dataset.continue || '[]'); } catch { return; }
+    const next = order.find((c) => !isDone(c.id));
+    if (order.some((c) => isDone(c.id)) && next) {
+      a.href = next.href;
+      a.textContent = `تابع من: ${next.title}`;
     }
   });
 }

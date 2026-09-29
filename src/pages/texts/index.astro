@@ -2,8 +2,9 @@
 import { getCollection } from 'astro:content';
 import Base from '../../layouts/Base.astro';
 import StatusBadge from '../../components/StatusBadge.astro';
+import StoryCard from '../../components/StoryCard.astro';
 import { must, url, versesOf, formatDate } from '../../lib/content';
-import { textKinds } from '../../lib/labels';
+import { readingTiers, textKinds } from '../../lib/labels';
 
 const texts = await getCollection('texts');
 const rows = await Promise.all(texts.map(async (t) => ({
@@ -12,19 +13,21 @@ const rows = await Promise.all(texts.map(async (t) => ({
   count: (await versesOf(t.id)).length,
 })));
 rows.sort((a, b) => (a.t.data.year?.h ?? 0) - (b.t.data.year?.h ?? 0));
+const stories = await getCollection('stories');
 ---
 <Base title="النصوص">
   <header class="station-head">
-    <span class="kicker">المرجع</span>
+    <span class="kicker">النصوص</span>
     <h1>النصوص</h1>
-    <p class="lede measure">القصائد والنصوص التي قرأناها في المسار، مرتبة زمنيًا. كل نص يُفتح بيتًا بيتًا مع شرحه.</p>
+    <p class="lede measure">القصائد والنصوص التي نقرؤها في المسار، والحكايات التي تُروى معها. كل نص يُفتح بيتًا بيتًا مع شرحه، وكل حكاية معها درجة روايتها.</p>
   </header>
-  {rows.length === 0 && <p class="muted">تُضاف النصوص مع محطات المسار.</p>}
+  <div class="section-head"><h2>القصائد والنصوص</h2></div>
+  {rows.length === 0 && <p class="muted">تُضاف النصوص مع قراءات المسار.</p>}
   <ul class="index-list">
     {rows.map(({ t, author, count }) => (
       <li>
         <a class="card link-card" href={url.text(t.id)}>
-          <span class="kicker">{textKinds[t.data.kind]}{author && ` · ${author.data.name}`}{t.data.year && ` · ${formatDate(t.data.year)}`}</span>
+          <span class="kicker">{textKinds[t.data.kind]}{author && ` · ${author.data.name}`}{t.data.year && ` · ${formatDate(t.data.year)}`}{t.data.reading && ` · ${readingTiers[t.data.reading].label}`}</span>
           <h3>{t.data.title}</h3>
           <div class="meta-row">
             {count > 0 && <span>{count} بيتًا مشروحًا</span>}
@@ -35,4 +38,11 @@ rows.sort((a, b) => (a.t.data.year?.h ?? 0) - (b.t.data.year?.h ?? 0));
       </li>
     ))}
   </ul>
+
+  {stories.length > 0 && (
+    <section class="section" id="stories">
+      <div class="section-head"><h2>الحكايات</h2><p>أخبار الشعراء ومواقفهم، مروية بمتعتها ومعها درجة روايتها. <a href="/stories/">كل الحكايات ودرجاتها</a>.</p></div>
+      <div class="grid two">{stories.map((s) => <StoryCard id={s.id} />)}</div>
+    </section>
+  )}
 </Base>

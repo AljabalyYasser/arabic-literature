@@ -31,6 +31,20 @@ export const storyTags = {
   usturi: { label: 'خبر أسطوري', hint: 'فيه خارق أو أعمار تتجاوز المعقول أو أمم بائدة أو كهانة؛ يُروى من قصص العرب ولا يُقرأ تاريخًا.' },
 } as const;
 
+// درجات الأعلام الثلاث (docs/alam.md).
+export const tiers = {
+  formative: { plural: 'أعلام التكوين', one: 'من أعلام التكوين', hint: 'ندرسهم بعمق، ولكل واحد منهم مسار قراءة كامل.' },
+  important: { plural: 'أعلام مهمون', one: 'من الأعلام المهمين', hint: 'نعرفهم جيدًا، ونقرأ لكل واحد منهم عدة نصوص كاملة.' },
+  face: { plural: 'وجوه من العصر', one: 'من وجوه العصر', hint: 'شعراء وخطباء بقيت لهم قصة أو قصيدة أو بيت، في مجموعات بحسب موضوعها.' },
+} as const;
+
+// درجات القراءة الثلاث.
+export const readingTiers = {
+  deep: { label: 'قراءة عميقة', hint: 'النص كاملًا مع المفردات والسياق والشرح التفصيلي والبناء والملاحظات الأدبية.' },
+  guided: { label: 'قراءة موجهة', hint: 'النص كاملًا مع المفردات، ومدخل، وتقسيم للمقاطع، وشرح الأبيات المفصلية.' },
+  free: { label: 'قراءة حرة', hint: 'النص كاملًا مع المفردات الضرورية، وتعريف قصير بالسياق.' },
+} as const;
+
 export const personKinds = {
   poet: 'شاعر',
   prose: 'ناثر',
@@ -40,6 +54,20 @@ export const personKinds = {
   linguist: 'لغوي',
   patron: 'أمير وراعٍ للأدب',
 } as const;
+
+export const personKindsF = {
+  poet: 'شاعرة',
+  prose: 'ناثرة',
+  critic: 'ناقدة',
+  commentator: 'شارحة',
+  narrator: 'راوية',
+  linguist: 'لغوية',
+  patron: 'أميرة وراعية للأدب',
+} as const;
+
+// صفات العلم بحسب تذكيره وتأنيثه.
+export const kindsOf = (p: { kinds: (keyof typeof personKinds)[]; female?: boolean }) =>
+  p.kinds.map((k) => (p.female ? personKindsF : personKinds)[k]).join('، ');
 
 export const textKinds = {
   qasida: 'قصيدة',

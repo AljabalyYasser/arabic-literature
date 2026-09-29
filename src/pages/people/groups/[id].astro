@@ -1,0 +1,63 @@
+---
+// صفحة مجموعة من «وجوه من العصر»: مدخل يعرّف ظاهرتها، ثم وجوهها.
+// الوجه ذو البطاقة رابط إلى بطاقته، والوجه بلا بطاقة مدخل مكتوب هنا.
+import { getCollection, type CollectionEntry } from 'astro:content';
+import Base from '../../../layouts/Base.astro';
+import Crumbs from '../../../components/Crumbs.astro';
+import StatusBadge from '../../../components/StatusBadge.astro';
+import CiteList from '../../../components/CiteList.astro';
+import Body from '../../../components/Body.astro';
+import { getEras, lifespan, url } from '../../../lib/content';
+import { tiers } from '../../../lib/labels';
+
+export async function getStaticPaths() {
+  await getEras();
+  return (await getCollection('groups')).map((group) => ({ params: { id: group.id }, props: { group } }));
+}
+
+const { group } = Astro.props as { group: CollectionEntry<'groups'> };
+const era = (await getEras()).find((e) => e.entry.id === group.data.part.id)!;
+const slot = era.groups.find((g) => g.id === group.id)!;
+const texts = await getCollection('texts');
+const textsOf = (id: string) => texts.filter((t) => t.data.author?.id === id);
+---
+<Base title={slot.title} description={`${tiers.face.plural} في ${era.entry.data.title}: ${slot.title}.`} searchType="مجموعة">
+  <Crumbs items={[{ href: '/people/', label: 'الأعلام' }, { href: url.era(era.entry.id), label: era.entry.data.title }, { label: slot.title }]} />
+  <header class="station-head">
+    <span class="kicker">{tiers.face.plural} · المجموعة {slot.number} من {era.groups.length}</span>
+    <h1>{slot.title}</h1>
+    <div class="meta-row"><StatusBadge status={group.data.status} /></div>
+  </header>
+
+  <Body entry={group} />
+
+  <section class="section">
+    <div class="face-list">
+      {slot.faces.map((f) => f.data.card ? (
+        <a class="card link-card" href={url.person(f.id)}>
+          <span class="kicker">{[lifespan(f.data.born, f.data.died), 'بطاقة مستقلة'].filter(Boolean).join(' · ')}</span>
+          <h3>{f.data.name}</h3>
+          <p>{f.data.summary}</p>
+        </a>
+      ) : (
+        <article class="card face-entry" id={f.id}>
+          {lifespan(f.data.born, f.data.died) && <span class="kicker">{lifespan(f.data.born, f.data.died)}</span>}
+          <h3>{f.data.name}</h3>
+          <p class="lede">{f.data.summary}</p>
+          <Body entry={f} />
+          {textsOf(f.id).length > 0 && (
+            <p class="meta-row">{textsOf(f.id).map((t) => <a href={url.text(t.id)}>اقرأ النص: {t.data.title}</a>)}</p>
+          )}
+          {f.data.sources.length > 0 && <CiteList items={f.data.sources} />}
+        </article>
+      ))}
+    </div>
+  </section>
+
+  {group.data.sources.length > 0 && (
+    <section class="section measure">
+      <div class="section-head"><h2>المصادر</h2></div>
+      <CiteList items={group.data.sources} />
+    </section>
+  )}
+</Base>

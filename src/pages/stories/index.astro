@@ -8,7 +8,7 @@ const stories = await getCollection('stories');
 ---
 <Base title="الحكايات">
   <header class="station-head">
-    <span class="kicker">المرجع</span>
+    <span class="kicker"><a href="/texts/">النصوص</a></span>
     <h1>الحكايات والأخبار الأدبية</h1>
     <p class="lede measure">أخبار الشعراء ومجالسهم ومواقفهم، مروية بمتعتها، ومعها درجة روايتها وأقدم مصدر ذكرها.</p>
     <ul class="pill-list" style="margin-top:1rem">
@@ -18,5 +18,5 @@ const stories = await getCollection('stories');
   </header>
   {stories.length > 0
     ? <div class="grid two">{stories.map((s) => <StoryCard id={s.id} />)}</div>
-    : <p class="muted">تُضاف الحكايات مع محطات المسار.</p>}
+    : <p class="muted">تُضاف الحكايات مع قراءات المسار.</p>}
 </Base>

@@ -1,0 +1,140 @@
+---
+// صفحة العصر: تقول للقارئ أين هو وما الذي سيدرسه، ولا تكون هي الدراسة نفسها.
+import Base from '../../../layouts/Base.astro';
+import Crumbs from '../../../components/Crumbs.astro';
+import StatusBadge from '../../../components/StatusBadge.astro';
+import CiteList from '../../../components/CiteList.astro';
+import { ago, countWord, getEras, nameGen, url, type Era, type Slot } from '../../../lib/content';
+import { ordinals, tiers } from '../../../lib/labels';
+
+export async function getStaticPaths() {
+  return (await getEras()).filter((e) => e.hasPage).map((era) => ({ params: { era: era.entry.id }, props: { era } }));
+}
+
+const { era } = Astro.props as { era: Era };
+const d = era.entry.data;
+const eraName = `الباب ${d.number === 0 ? 'التمهيدي' : ordinals[d.number - 1]}`;
+const slots = [
+  { key: 'formative' as const, list: era.formative },
+  { key: 'important' as const, list: era.important },
+];
+const written = (list: Slot[]) => list.filter((s) => s.entry).length;
+---
+<Base title={d.title} description={d.summary ?? `${d.title}: قضاياه وأعلامه والطريق المقترح لقراءته.`}>
+  <Crumbs items={[{ href: '/', label: 'المسار' }, { label: eraName }]} />
+  <header class="station-head">
+    <span class="kicker">{eraName}{d.range && ` · ${d.range}`}{d.start && <> · <span class="ago">بدأ {ago(d.start, true)}</span></>}</span>
+    <h1>{d.title}</h1>
+    {d.summary && <p class="lede measure">{d.summary}</p>}
+    <div class="meta-row"><StatusBadge status={d.status} /></div>
+  </header>
+
+  {d.highlights.length > 0 && (
+    <section>
+      <div class="section-head"><span class="kicker">نظرة عامة</span><h2>ملامح مركزية</h2></div>
+      <div class="grid four">
+        {d.highlights.map((h, i) => (
+          <article class="card"><span class="num">{String(i + 1).padStart(2, '0')}</span><h3>{h.title}</h3><p>{h.text}</p></article>
+        ))}
+      </div>
+    </section>
+  )}
+
+  {era.route.length > 0 && (
+    <section class="section">
+      <div class="section-head">
+        <span class="kicker">من أين تبدأ؟</span>
+        <h2>الطريق المقترح</h2>
+        <p class="measure">ابدأ بقضايا العصر، ثم اقرأ أعلامه. والطريق مقترح، ولك أن تخرج عنه متى شئت.</p>
+      </div>
+      <ol class="station-list card">
+        {era.route.map((item, i) => item.kind === 'topic' ? (
+          <li data-station-id={item.slot.entry && `${era.entry.id}/${item.slot.id}`}>
+            <span class="n">{i + 1}</span>
+            {item.slot.entry ? <a href={url.chapter(item.slot.entry.id)}>{item.slot.title}</a> : <span class="planned">{item.slot.title}</span>}
+            <span class="done-mark" aria-label="أنهيتها">✓</span>
+          </li>
+        ) : (
+          <li data-done-all={item.stages.map((s) => s.id).join(' ')}>
+            <span class="n">{i + 1}</span>
+            <span><a href={url.person(item.person.id)}>مسار {nameGen(item.person)}</a> <span class="sub">{countWord(item.stages.length, ['مرحلة واحدة', 'مرحلتان', 'مراحل', 'مرحلة'])}</span></span>
+            <span class="done-mark" aria-label="أنهيته">✓</span>
+          </li>
+        ))}
+      </ol>
+    </section>
+  )}
+
+  {era.topics.length > 0 && (
+    <section class="section">
+      <div class="section-head">
+        <span class="kicker">قضايا العصر</span>
+        <h2>ما يلزم لفهم العصر</h2>
+        <p class="measure">معرفة لا تخص علمًا بعينه ولا كتابًا بعينه.</p>
+      </div>
+      <ol class="station-list card">
+        {era.topics.map((t, i) => (
+          <li data-station-id={t.entry?.id}>
+            <span class="n">{i + 1}</span>
+            {t.entry ? <a href={url.chapter(t.entry.id)}>{t.title}</a> : <span class="planned">{t.title}</span>}
+            <span class="done-mark" aria-label="أنهيتها">✓</span>
+          </li>
+        ))}
+      </ol>
+    </section>
+  )}
+
+  {(era.formative.length > 0 || era.important.length > 0 || era.groups.length > 0) && (
+    <section class="section">
+      <div class="section-head">
+        <span class="kicker">الأعلام</span>
+        <h2>أعلام {d.title}</h2>
+        <p class="measure">لا نقرأ الأعلام كلهم بالقدر نفسه، بل على ثلاث درجات. والأسماء الباهتة لم تُكتب صفحاتها بعد.</p>
+      </div>
+
+      {slots.filter((s) => s.list.length > 0).map(({ key, list }) => (
+        <div class="tier-block">
+          <h3>{tiers[key].plural} <span class="sub">{written(list)} من {list.length}</span></h3>
+          <p class="muted small">{tiers[key].hint}</p>
+          <ul class="pill-list">
+            {list.map((s) => s.entry ? <li><a href={url.person(s.id)}>{s.name}</a></li> : <li class="planned">{s.name}</li>)}
+          </ul>
+        </div>
+      ))}
+
+      {era.groups.length > 0 && (
+        <div class="tier-block">
+          <h3>{tiers.face.plural}</h3>
+          <p class="muted small">{tiers.face.hint}</p>
+          <ol class="group-list">
+            {era.groups.map((g) => (
+              <li>
+                <span class="n">{g.number}</span>
+                <div>
+                  {g.entry ? <a class="title" href={url.group(g.id)}>{g.title}</a> : <span class={`title${g.faces.length ? '' : ' planned'}`}>{g.title}</span>}
+                  {g.faces.length > 0 && (
+                    <ul class="pill-list">{g.faces.map((f) => <li><a href={url.person(f.id)}>{f.data.name}</a></li>)}</ul>
+                  )}
+                </div>
+              </li>
+            ))}
+          </ol>
+        </div>
+      )}
+    </section>
+  )}
+
+  {era.referred.length > 0 && (
+    <section class="section">
+      <div class="section-head"><h2>أعلام أدركوا هذا العصر ونقرؤهم في غيره</h2></div>
+      <ul class="pill-list">{era.referred.map((p) => <li><a href={url.person(p.id)}>{p.data.name}</a></li>)}</ul>
+    </section>
+  )}
+
+  {d.sources.length > 0 && (
+    <section class="section">
+      <div class="section-head"><h2>المصادر</h2></div>
+      <CiteList items={d.sources} />
+    </section>
+  )}
+</Base>

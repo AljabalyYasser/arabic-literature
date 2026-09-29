@@ -4,7 +4,7 @@ order: 4
 person: "al-harith-ibn-abbad"
 text: "لا ناقَةَ لي في هذا ولا جَمَل"
 meaning: "قاله الحارِث بن عُبَاد حين اعتزل حرب البَسُوس، «وهو أول من قالها وأرسلها مثلًا» [@aghani، ج5 ص46]. «يُضرب عند التبرّي من الظلم والإساءة» [@maydani، ج2 ص220]."
-station: "1-2"
+chapter: "1/ayyam-al-arab"
 sources:
   - source: "aghani"
     loc: "ج5 ص46"

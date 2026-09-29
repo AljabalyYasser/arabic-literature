@@ -2,38 +2,56 @@ number: 1
 title: العصر الجاهلي
 range: قبل الإسلام
 start: 460
-plan:
-  - number: "1.1"
+# بنية العصر كما اعتُمدت في خريطة التنفيذ (docs/jahili-map.md). ما لم يُكتب بعد يظهر باهتًا.
+topics:
+  - id: al-sahra
     title: الصحراء والقبيلة والسوق
-  - number: "1.2"
+  - id: ayyam-al-arab
     title: "أيام العرب: البَسُوس وداحِس والغَبْراء"
-  - number: "1.3"
+  - id: al-muallaqat
     title: "المعلقات: ما هي، ومن جمعها، وخبر تعليقها"
-  - number: "1.4"
-    title: "امرؤ القَيْس: الملك الضِّلِّيل"
-  - number: "1.5"
-    title: "معلقة امرئ القَيْس (1): الأطلال والذكرى"
-  - number: "1.6"
-    title: "معلقة امرئ القَيْس (2): الليل والفرس والسيل"
-  - number: "1.7"
-    title: "طَرَفَة بن العَبْد: الغلام القتيل"
-  - number: "1.8"
-    title: "زُهَيْر بن أبي سُلْمَى: السلم والحكمة"
-  - number: "1.9"
-    title: لَبِيد بن رَبِيعة
-  - number: "1.10"
-    title: "عَمْرو بن كُلْثُوم والحارِث بن حِلِّزَة: بَكْر وتَغْلِب"
-  - number: "1.11"
-    title: "عَنْتَرَة: الفارس"
-  - number: "1.12"
-    title: "النابِغة الذُّبْيانيّ: الاعتذار وقُبّة عُكاظ"
-  - number: "1.13"
-    title: الأَعْشَى
-  - number: "1.14"
-    title: "الصَّعالِيك: الشَّنْفَرَى وتَأَبَّطَ شَرًّا وعُرْوَة بن الوَرْد"
-  - number: "1.15"
-    title: "الكرم والوفاء: حاتِم الطائيّ والسَّمَوْأَل"
-  - number: "1.16"
-    title: "النثر الجاهلي: الخطب والوصايا والأمثال وسجع الكُهّان"
-  - number: "1.17"
-    title: هل الشعر الجاهلي صحيح؟
+  - id: al-nathr
+    title: "النثر الجاهلي: الخطابة والوصايا والأمثال وسجع الكُهّان"
+  - id: al-intihal
+    title: "صحة الشعر الجاهلي: قضية الانتحال"
+formative:
+  - { id: imru-al-qais, name: "امرؤ القَيْس" }
+  - { id: tarafa, name: "طَرَفَة بن العَبْد" }
+  - { id: zuhayr, name: "زُهَيْر بن أبي سُلْمَى" }
+  - { id: al-nabigha, name: "النابِغة الذُّبْيانيّ" }
+  - { id: al-asha, name: "الأَعْشَى" }
+  - { id: antara, name: "عَنْتَرَة بن شَدّاد" }
+  - { id: labid, name: "لَبِيد بن رَبِيعة" }
+  - { id: al-khansa, name: "الخَنْساء" }
+important:
+  - { id: aws-ibn-hajar, name: "أَوْس بن حَجَر" }
+  - { id: al-muhalhil, name: "المُهَلْهِل بن رَبِيعة" }
+  - { id: umayya, name: "أُمَيّة بن أبي الصَّلْت" }
+  - { id: amr-ibn-kulthum, name: "عَمْرو بن كُلْثُوم" }
+  - { id: harith-ibn-hilliza, name: "الحارِث بن حِلِّزَة" }
+  - { id: abid-ibn-al-abras, name: "عَبِيد بن الأَبْرَص" }
+  - { id: alqama, name: "عَلْقَمة الفَحْل" }
+  - { id: adi-ibn-zayd, name: "عَدِيّ بن زَيْد" }
+  - { id: bishr-ibn-abi-khazim, name: "بِشْر بن أبي خازِم" }
+  - { id: durayd-ibn-al-simma, name: "دُرَيْد بن الصِّمَّة" }
+  - { id: al-shanfara, name: "الشَّنْفَرَى" }
+  - { id: taabbata-sharran, name: "تَأَبَّطَ شَرًّا" }
+  - { id: urwa-ibn-al-ward, name: "عُرْوَة بن الوَرْد" }
+  - { id: hatim, name: "حاتِم الطائيّ" }
+groups:
+  - { id: awail, title: "أوائل الشعر وأخبار البدايات" }
+  - { id: hukama, title: "الحكماء والخطباء والوصايا" }
+  - { id: muammarun, title: "المعمَّرون" }
+  - { id: fursan, title: "الفرسان وأيام العرب" }
+  - { id: asra, title: "الأسرى وقصائد الساعة الأخيرة" }
+  - { id: saalik, title: "الصعاليك" }
+  - { id: ushshaq, title: "العشاق" }
+  - { id: ritha, title: "الرثاء والشواعر" }
+  - { id: hira, title: "في بلاط الحيرة والملوك" }
+  - { id: hunafa, title: "الحنفاء وأهل القرى ويهود يثرب وتيماء" }
+  - { id: hudhayl, title: "شعراء هذيل" }
+  - { id: wahida, title: "أصحاب الواحدة والمقلون المحكمون" }
+  - { id: amthal, title: "أصحاب الأمثال" }
+  - { id: khayl, title: "وصافو الخيل" }
+  - { id: karam, title: "الكرم والوفاء والجوار" }
+route: [al-sahra, ayyam-al-arab, al-muallaqat, imru-al-qais, tarafa]
