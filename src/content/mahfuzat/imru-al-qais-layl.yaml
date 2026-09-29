@@ -1,11 +1,12 @@
 kind: "maqta"
 title: "الليل الطويل"
 part: "1"
-order: 3
+order: 1
 person: "imru-al-qais"
 verses:
   - "qifa-nabki/044"
   - "qifa-nabki/045"
   - "qifa-nabki/046"
 meaning: "ليل كموج البحر يرخي ستوره على الشاعر بالهموم، ويطول حتى كأنه حيوان ضخم يتمطّى، فيخاطبه أن ينجلي، ثم يستدرك: وما الصبح بأفضل منك."
+station: "1-6"
 status: "review"

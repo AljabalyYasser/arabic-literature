@@ -1,0 +1,13 @@
+kind: "mathal"
+part: "1"
+order: 6
+person: "imru-al-qais"
+text: "أَخْلَى مِنْ جَوْفِ حِمَارٍ"
+story: "jawf-himar"
+meaning: "يُضرب في الخراب والخلاء. قيل: الحمار رجل من بقايا عاد أُحرق واديه، وقيل: الحمار الوحشي لا يُنتفع بجوفه، وإليه أشار امرؤ القَيْس بقوله «وواد كجوف العير» [@maydani، ج1 ص257]."
+station: "1-6"
+sources:
+  - source: "maydani"
+    loc: "ج1 ص257"
+    url: "https://shamela.ws/book/12929/1390"
+status: "review"
