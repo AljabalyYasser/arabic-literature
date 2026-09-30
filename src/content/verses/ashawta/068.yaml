@@ -1,0 +1,21 @@
+explained: false
+first: ذُلُقُ الْغَارَةِ فِي إِفْزَاعِهِمْ
+second: كَرِعَالِ الطَّيْرِ أَسْرَابًا تَمُرّ
+vocabulary:
+- term: ذُلُقُ الْغَارَةِ
+  text: حِداد سِراع في الغارة.
+- term: إِفْزَاعِهِمْ
+  text: 'إغاثتهم؛ «وأفزعهم: أغاثهم» [@lisan، ج8 ص252].'
+- term: رِعَالِ
+  text: جماعات، الواحدة رَعْلة؛ و«الرعلة القطعة من الطير» [@lisan، ج11 ص287].
+sources:
+- source: diwan-tarafa
+  loc: ص45
+  url: https://shamela.ws/book/36422/39
+- source: lisan
+  loc: ج8 ص252
+  url: https://shamela.ws/book/1687/4100
+- source: lisan
+  loc: ج11 ص287
+  url: https://shamela.ws/book/1687/5467
+status: review

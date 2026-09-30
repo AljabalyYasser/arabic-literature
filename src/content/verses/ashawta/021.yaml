@@ -1,0 +1,17 @@
+explained: false
+first: صَادَفَتْهُ حَرْجَفٌ فِي تَلْعَةٍ
+second: فَسَجَا وَسْطَ بَلَاطٍ مُسْبَطِرّ
+vocabulary:
+- term: حَرْجَفٌ
+  text: ريح باردة شديدة.
+- term: تَلْعَةٍ
+  text: مسيل ماء من أعلى الأرض إلى بطن الوادي.
+- term: سَجَا
+  text: سكن.
+- term: بَلَاطٍ
+  text: أرض مستوية ملساء.
+sources:
+- source: diwan-tarafa
+  loc: ص41
+  url: https://shamela.ws/book/36422/35
+status: review

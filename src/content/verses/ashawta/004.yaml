@@ -1,0 +1,20 @@
+explained: false
+first: أَرَّقَ الْعَيْنَ خَيَالٌ لَمْ يَقِرّ
+second: طَافَ وَالرَّكْبُ بِصَحْرَاءِ يُسُرْ
+vocabulary:
+- term: أَرَّقَ
+  text: أسهر.
+- term: خَيَالٌ
+  text: طيف الحبيبة يُرى في النوم.
+- term: لَمْ يَقِرّ
+  text: لم يستقرّ ولم يهدأ.
+- term: يُسُرْ
+  text: 'موضع؛ قيل: «دَحْلٌ لبني يربوع»، وذكر الجوهري «أنه بالدهناء» [@lisan، ج5 ص300].'
+sources:
+- source: diwan-tarafa
+  loc: ص39
+  url: https://shamela.ws/book/36422/33
+- source: lisan
+  loc: ج5 ص300
+  url: https://shamela.ws/book/1687/2884
+status: review

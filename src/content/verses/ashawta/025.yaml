@@ -1,0 +1,29 @@
+explained: false
+first: كَبَنَاتِ الْمَخْرِ يَمْأَدْنَ كَمَا
+second: أَنْبَتَ الصَّيْفُ عَسَالِيجَ الْخُضَرْ
+vocabulary:
+- term: بَنَاتِ الْمَخْرِ
+  text: «سحائب يأتين قبل الصيف منتصبات رقاق بيض حسان» [@lisan، ج5 ص161].
+- term: يَمْأَدْنَ
+  text: 'يتثنّين ويهتززن؛ «ويقال للغصن إذا كان ناعمًا يهتز: هو يمأد مأدًا حسنًا» [@lisan، ج3 ص394].'
+- term: عَسَالِيجَ
+  text: 'جمع عُسلوج، وهو «الغصن لسنته، وقيل: هو كل قضيب حديث» [@lisan، ج2 ص324].'
+- term: الْخُضَرْ
+  text: النبات الأخضر. «ويروى الخَضِرْ» [@lisan، ج2 ص324]، وهو نبت ذكره طَرَفَة «فبين أنه من نبات الصيف» [@lisan، ج7 ص270].
+sources:
+- source: diwan-tarafa
+  loc: ص41
+  url: https://shamela.ws/book/36422/35
+- source: lisan
+  loc: ج5 ص161
+  url: https://shamela.ws/book/1687/2745
+- source: lisan
+  loc: ج3 ص394
+  url: https://shamela.ws/book/1687/1836
+- source: lisan
+  loc: ج2 ص324
+  url: https://shamela.ws/book/1687/1128
+- source: lisan
+  loc: ج7 ص270
+  url: https://shamela.ws/book/1687/3653
+status: review

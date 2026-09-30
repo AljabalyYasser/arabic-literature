@@ -1,0 +1,20 @@
+explained: false
+first: وَإِذَا قَامَتْ تَدَاعَى قَاصِفٌ
+second: مَالَ مِنْ أَعْلَى كَثِيبٍ مُنْقَعِرْ
+vocabulary:
+- term: تَدَاعَى
+  text: تهاوى وتساقط.
+- term: قَاصِفٌ
+  text: 'رمل متكسّر منهال، من «القصف: الكسر» [@lisan، ج9 ص283].'
+- term: كَثِيبٍ
+  text: تلّ من الرمل.
+- term: مُنْقَعِرْ
+  text: منقلع من أصله.
+sources:
+- source: diwan-tarafa
+  loc: ص41
+  url: https://shamela.ws/book/36422/35
+- source: lisan
+  loc: ج9 ص283
+  url: https://shamela.ws/book/1687/4590
+status: review

@@ -1,0 +1,23 @@
+explained: false
+first: فَهْيَ تَرْدِي فَإِذَا مَا أَلْهَبَتْ
+second: طَارَ مِنْ أَحْمَائِهَا شَدُّ الْأُزُرْ
+vocabulary:
+- term: تَرْدِي
+  text: 'تعدو رامية الأرض بحوافرها؛ «وردت الخيل رديا وردَيانا: رجمت الأرض بحوافرها في سيرها وعدوها» [@lisan، ج14 ص318].'
+- term: أَلْهَبَتْ
+  text: اضطرم جريها واشتدّ.
+- term: أَحْمَائِهَا
+  text: شدّة عدوها وحرارته؛ «ويجمع حمي الشد أحماء» [@lisan، ج14 ص201].
+- term: شَدُّ الْأُزُرْ
+  text: ما شُدّ من أُزُر الفرسان.
+sources:
+- source: diwan-tarafa
+  loc: ص45
+  url: https://shamela.ws/book/36422/39
+- source: lisan
+  loc: ج14 ص318
+  url: https://shamela.ws/book/1687/7442
+- source: lisan
+  loc: ج14 ص201
+  url: https://shamela.ws/book/1687/7325
+status: review

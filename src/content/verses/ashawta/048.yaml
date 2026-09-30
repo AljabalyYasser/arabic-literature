@@ -1,0 +1,23 @@
+explained: false
+first: بِجِفَانٍ تَعْتَرِي نَادِيَنَا
+second: مِنْ سَدِيفٍ حِينَ هَاجَ الصِّنَّبِرْ
+vocabulary:
+- term: جِفَانٍ
+  text: قصاع كبيرة للطعام، الواحدة جفنة.
+- term: تَعْتَرِي نَادِيَنَا
+  text: '«ومعنى تعتري: تلم به وتأتيه. والنادي: مجلس القوم ومتحدثهم» [@khizana، ج9 ص380].'
+- term: سَدِيفٍ
+  text: «قطع السنام» [@khizana، ج9 ص380].
+- term: الصِّنَّبِرْ
+  text: '«البرد، وقيل: الريح الباردة في غيم» [@lisan، ج4 ص470].'
+sources:
+- source: diwan-tarafa
+  loc: ص43
+  url: https://shamela.ws/book/36422/37
+- source: khizana
+  loc: ج9 ص380
+  url: https://shamela.ws/book/12732/4498
+- source: lisan
+  loc: ج4 ص470
+  url: https://shamela.ws/book/1687/2430
+status: review

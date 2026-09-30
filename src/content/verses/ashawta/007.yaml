@@ -1,0 +1,23 @@
+explained: false
+first: تَخْلِسُ الطَّرْفَ بِعَيْنَيْ بَرْغَزٍ
+second: وَبِخَدَّيْ رَشَأٍ آدَمَ غِرّ
+vocabulary:
+- term: تَخْلِسُ الطَّرْفَ
+  text: تسارق النظر.
+- term: بَرْغَزٍ
+  text: '«ولد البقرة، وقيل: البقرة الوحشية» [@lisan، ج5 ص311].'
+- term: رَشَأٍ آدَمَ
+  text: ولد ظبية في لونه بياض؛ و«الأدمة... في الظباء لون مشرب بياضًا» [@lisan، ج12 ص11].
+- term: غِرّ
+  text: صغير لم يجرّب الأمور.
+sources:
+- source: diwan-tarafa
+  loc: ص39
+  url: https://shamela.ws/book/36422/33
+- source: lisan
+  loc: ج5 ص311
+  url: https://shamela.ws/book/1687/2895
+- source: lisan
+  loc: ج12 ص11
+  url: https://shamela.ws/book/1687/5927
+status: review

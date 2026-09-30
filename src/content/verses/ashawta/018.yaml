@@ -1,0 +1,20 @@
+explained: false
+first: بَادِنٌ تَجْلُو إِذَا مَا ابْتَسَمَتْ
+second: عَنْ شَتِيتٍ كَأَقَاحِ الرَّمْلِ غُرّ
+vocabulary:
+- term: بَادِنٌ
+  text: ممتلئة الجسم.
+- term: شَتِيتٍ
+  text: 'ثغر؛ «وثغر شتيت: مفرق مفلج» [@lisan، ج2 ص48].'
+- term: أَقَاحِ
+  text: جمع أقحوان، زهر أبيض تُشبَّه به الأسنان.
+- term: غُرّ
+  text: بيض.
+sources:
+- source: diwan-tarafa
+  loc: ص41
+  url: https://shamela.ws/book/36422/35
+- source: lisan
+  loc: ج2 ص48
+  url: https://shamela.ws/book/1687/852
+status: review

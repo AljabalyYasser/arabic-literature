@@ -1,0 +1,21 @@
+explained: false
+first: وَلَقَدْ كُنْتُ عَلَيْكُمْ عَاتِبًا
+second: فَعَقَبْتُمْ بِذَنُوبٍ غَيْرِ مُرّ
+vocabulary:
+- term: عَاتِبًا
+  text: لائمًا واجدًا.
+- term: عَقَبْتُمْ
+  text: 'أتبعتم ما كان بخير؛ يقال: «أتى فلان إلي خيرا فعقب بخير منه» [@lisan، ج1 ص617].'
+- term: ذَنُوبٍ
+  text: 'نصيب، وأصله الدلو فيها ماء؛ «والذنوب: الحظ والنصيب... والذنوب: الدلو فيها ماء» [@lisan، ج1 ص392].'
+sources:
+- source: diwan-tarafa
+  loc: ص46
+  url: https://shamela.ws/book/36422/40
+- source: lisan
+  loc: ج1 ص617
+  url: https://shamela.ws/book/1687/617
+- source: lisan
+  loc: ج1 ص392
+  url: https://shamela.ws/book/1687/392
+status: review

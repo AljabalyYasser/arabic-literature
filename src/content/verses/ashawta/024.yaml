@@ -1,0 +1,21 @@
+explained: false
+first: لَا تَلُمْنِي إِنَّهَا مِنْ نِسْوَةٍ
+second: رُقَّدِ الصَّيْفِ مَقَالِيتَ نُزُرْ
+vocabulary:
+- term: رُقَّدِ الصَّيْفِ
+  text: ينمن في حرّ الصيف مكفيّات، كناية عن النعمة والترف.
+- term: مَقَالِيتَ
+  text: جمع مِقْلات، وهي المرأة «إذا لم يبق لها ولد» [@lisan، ج2 ص72].
+- term: نُزُرْ
+  text: 'قليلات الولد؛ «وامرأة نزور: قليلة الولد، ونسوة نزر» [@lisan، ج5 ص203].'
+sources:
+- source: diwan-tarafa
+  loc: ص41
+  url: https://shamela.ws/book/36422/35
+- source: lisan
+  loc: ج2 ص72
+  url: https://shamela.ws/book/1687/876
+- source: lisan
+  loc: ج5 ص203
+  url: https://shamela.ws/book/1687/2787
+status: review

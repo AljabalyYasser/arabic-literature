@@ -1,0 +1,23 @@
+explained: false
+first: قَدْ تَبَطَّنْتُ وَتَحْتِي جَسْرَةٌ
+second: تَتَّقِي الْأَرْضَ بِمَلْثُومٍ مَعِرْ
+vocabulary:
+- term: تَبَطَّنْتُ
+  text: توغّلت في داخلها وقطعتها.
+- term: جَسْرَةٌ
+  text: ناقة ماضية قوية.
+- term: مَلْثُومٍ
+  text: 'خفّ جرحته الحجارة؛ «وخف ملثوم وملثم: جرحته الحجارة» [@lisan، ج12 ص534].'
+- term: مَعِرْ
+  text: '«وخف معر: لا شعر عليه» [@lisan، ج5 ص180].'
+sources:
+- source: diwan-tarafa
+  loc: ص42
+  url: https://shamela.ws/book/36422/36
+- source: lisan
+  loc: ج12 ص534
+  url: https://shamela.ws/book/1687/6447
+- source: lisan
+  loc: ج5 ص180
+  url: https://shamela.ws/book/1687/2764
+status: review

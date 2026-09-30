@@ -1,0 +1,26 @@
+explained: false
+first: جَابَةُ الْمِدْرَى لَهَا ذُو جُدَّةٍ
+second: تَنْفُضُ الضَّالَ وَأَفْنَانَ السَّمُرْ
+vocabulary:
+- term: جَابَةُ الْمِدْرَى
+  text: 'ظبية طلع قرنها أول طلوعه، من «جاب قرنها، أي قطع اللحم وطلع» [@lisan، ج1 ص285]، ويقال بالهمز: جأبة المدرى، «فنبّه بذلك على صغر سنها» [@lisan، ج1 ص248].'
+- term: ذُو جُدَّةٍ
+  text: ولد في ظهره خطّة؛ و«الجدة الخطة التي في ظهر الحمار تخالف لونه» [@lisan، ج3 ص108].
+- term: تَنْفُضُ
+  text: تحرّك.
+- term: الضَّالَ
+  text: 'السِّدر البرّي، والسَّمُر: ضرب من شجر الطلح.'
+sources:
+- source: diwan-tarafa
+  loc: ص40
+  url: https://shamela.ws/book/36422/34
+- source: lisan
+  loc: ج1 ص285
+  url: https://shamela.ws/book/1687/285
+- source: lisan
+  loc: ج1 ص248
+  url: https://shamela.ws/book/1687/248
+- source: lisan
+  loc: ج3 ص108
+  url: https://shamela.ws/book/1687/1550
+status: review

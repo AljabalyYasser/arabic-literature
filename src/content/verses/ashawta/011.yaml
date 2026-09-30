@@ -1,0 +1,23 @@
+explained: false
+first: بَيْنَ أَكْنَافِ خُفَافٍ فَاللِّوَى
+second: مُخْرِفٌ تَحْنُو لِرَخْصِ الظِّلْفِ حُرّ
+vocabulary:
+- term: أَكْنَافِ
+  text: جوانب.
+- term: خُفَافٍ فَاللِّوَى
+  text: موضعان.
+- term: مُخْرِفٌ
+  text: 'ظبية ولدت في الخريف؛ يقال: «أخرفت الشاة: ولدت في الخريف، فهي مخرف» [@lisan، ج9 ص64].'
+- term: لِرَخْصِ الظِّلْفِ حُرّ
+  text: 'لولد ليّن الظلف؛ و«الحر: ولد الظبي في بيت طَرَفَة» [@lisan، ج4 ص184].'
+sources:
+- source: diwan-tarafa
+  loc: ص40
+  url: https://shamela.ws/book/36422/34
+- source: lisan
+  loc: ج9 ص64
+  url: https://shamela.ws/book/1687/4371
+- source: lisan
+  loc: ج4 ص184
+  url: https://shamela.ws/book/1687/2144
+status: review

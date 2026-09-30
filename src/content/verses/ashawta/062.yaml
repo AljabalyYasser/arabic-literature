@@ -1,0 +1,26 @@
+explained: false
+first: مِنْ يَعَابِيبَ ذُكُورٍ وُقُحٍ
+second: وَهِضَبَّاتٍ إِذَا ابْتَلَّ الْعُذُرْ
+vocabulary:
+- term: يَعَابِيبَ
+  text: جمع يعبوب، وهو «الفرس الطويل السريع» [@lisan، ج1 ص574].
+- term: وُقُحٍ
+  text: «جمع وقاح، للحافر الصلب» [@lisan، ج1 ص786].
+- term: هِضَبَّاتٍ
+  text: 'كثيرات العرق؛ «والهضب من الخيل: الكثير العرق» [@lisan، ج1 ص786].'
+- term: الْعُذُرْ
+  text: جمع عِذار، وهو ما وقع من اللجام على خدّ الفرس. ويروى «العُذَر»، جمع عُذْرة، وهي «الخصلة من الشعر وعرف الفرس وناصيته» [@lisan، ج4 ص550].
+sources:
+- source: diwan-tarafa
+  loc: ص45
+  url: https://shamela.ws/book/36422/39
+- source: lisan
+  loc: ج1 ص574
+  url: https://shamela.ws/book/1687/574
+- source: lisan
+  loc: ج1 ص786
+  url: https://shamela.ws/book/1687/786
+- source: lisan
+  loc: ج4 ص550
+  url: https://shamela.ws/book/1687/2510
+status: review

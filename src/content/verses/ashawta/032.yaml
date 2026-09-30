@@ -1,0 +1,20 @@
+explained: false
+first: ذَاكَ عَصْرٌ وَعَدَانِي أَنَّنِي
+second: نَابَنِي الْعَامَ خُطُوبٌ غَيْرُ سِرّ
+vocabulary:
+- term: عَصْرٌ
+  text: زمن مضى.
+- term: عَدَانِي
+  text: صرفني وشغلني.
+- term: نَابَنِي
+  text: نزل بي وأصابني.
+- term: غَيْرُ سِرّ
+  text: 'ظاهرة مشهورة لا تخفى، كما قيل في المثل: «ما يوم حليمة بسر» [@maydani، ج2 ص45].'
+sources:
+- source: diwan-tarafa
+  loc: ص42
+  url: https://shamela.ws/book/36422/36
+- source: maydani
+  loc: ج2 ص45
+  url: https://shamela.ws/book/12929/2675
+status: review

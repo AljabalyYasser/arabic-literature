@@ -1,0 +1,20 @@
+explained: false
+first: حَيْثُمَا قَاظُوا بِنَجْدٍ وَشَتَوْا
+second: حَوْلَ ذَاتِ الْحَاذِ مِنْ ثِنْيَيْ وُقُرْ
+vocabulary:
+- term: قَاظُوا
+  text: أقاموا زمن القيظ، وهو الصيف.
+- term: شَتَوْا
+  text: 'أقاموا الشتاء؛ «فإن أقاموه في موضع قيل: شتوا» [@lisan، ج14 ص421].'
+- term: ذَاتِ الْحَاذِ
+  text: موضع.
+- term: ثِنْيَيْ وُقُرْ
+  text: منعطفي وادي وُقُر، وهو موضع.
+sources:
+- source: diwan-tarafa
+  loc: ص40
+  url: https://shamela.ws/book/36422/34
+- source: lisan
+  loc: ج14 ص421
+  url: https://shamela.ws/book/1687/7545
+status: review

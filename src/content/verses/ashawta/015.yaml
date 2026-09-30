@@ -1,0 +1,19 @@
+explained: false
+first: إِنْ تُنَوِّلْهُ فَقَدْ تَمْنَعُهُ
+second: وَتُرِيهِ النَّجْمَ يَجْرِي بِالظُّهُرْ
+vocabulary:
+- term: تُنَوِّلْهُ
+  text: 'تعطه؛ «نوّله: أعطاه معروفه» [@lisan، ج11 ص683].'
+- term: تُرِيهِ النَّجْمَ يَجْرِي بِالظُّهُرْ
+  text: تُظلم عليه الدنيا حتى يرى النجم نهارًا؛ وهو مثل «يضرب عند اشتداد الأمر» [@maydani، ج1 ص294].
+sources:
+- source: diwan-tarafa
+  loc: ص40
+  url: https://shamela.ws/book/36422/34
+- source: lisan
+  loc: ج11 ص683
+  url: https://shamela.ws/book/1687/5861
+- source: maydani
+  loc: ج1 ص294
+  url: https://shamela.ws/book/12929/1594
+status: review

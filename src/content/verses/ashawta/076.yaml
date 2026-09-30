@@ -1,0 +1,23 @@
+explained: false
+first: سَادِرًا أَحْسَبُ غَيِّي رَشَدًا
+second: فَتَنَاهَيْتُ وَقَدْ صَابَتْ بِقُرّ
+vocabulary:
+- term: سَادِرًا
+  text: «الذي لا يهتم لشيء ولا يبالي ما صنع» [@lisan، ج4 ص355].
+- term: غَيِّي
+  text: ضلالي.
+- term: تَنَاهَيْتُ
+  text: كففت وانتهيت.
+- term: صَابَتْ بِقُرّ
+  text: مثل «يضرب عند شدة تصيبهم، أي صارت الشدة في قرارها» [@maydani، ج1 ص402].
+sources:
+- source: diwan-tarafa
+  loc: ص46
+  url: https://shamela.ws/book/36422/40
+- source: lisan
+  loc: ج4 ص355
+  url: https://shamela.ws/book/1687/2315
+- source: maydani
+  loc: ج1 ص402
+  url: https://shamela.ws/book/12929/2168
+status: review

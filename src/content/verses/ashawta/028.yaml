@@ -1,0 +1,21 @@
+explained: false
+first: لَا كَبِيرٌ دَالِفٌ مِنْ هَرَمٍ
+second: أَرْهَبُ اللَّيْلَ وَلَا كَلُّ الظُّفُرْ
+vocabulary:
+- term: دَالِفٌ
+  text: 'يمشي مقاربًا خطوه؛ «الدليف: المشي الرويد» [@lisan، ج9 ص106].'
+- term: هَرَمٍ
+  text: كِبَر السنّ.
+- term: كَلُّ الظُّفُرْ
+  text: 'ضعيف لا ينال عدوه بأذى؛ «ويقال للمهين: هو كليل الظفر» [@lisan، ج4 ص518].'
+sources:
+- source: diwan-tarafa
+  loc: ص42
+  url: https://shamela.ws/book/36422/36
+- source: lisan
+  loc: ج9 ص106
+  url: https://shamela.ws/book/1687/4413
+- source: lisan
+  loc: ج4 ص518
+  url: https://shamela.ws/book/1687/2478
+status: review

@@ -1,0 +1,20 @@
+explained: false
+first: وَأَنَافَتْ بِهَوَادٍ تُلُعٍ
+second: كَجُذُوعٍ شُذِّبَتْ عَنْهَا الْقِشَرْ
+vocabulary:
+- term: أَنَافَتْ
+  text: 'ارتفعت وأشرفت؛ «وأناف الشيء على غيره: ارتفع وأشرف» [@lisan، ج9 ص342].'
+- term: هَوَادٍ
+  text: أعناق، الواحد هادٍ.
+- term: تُلُعٍ
+  text: طوال، الواحد أتلع.
+- term: شُذِّبَتْ
+  text: قُشرت وقُطع ما عليها.
+sources:
+- source: diwan-tarafa
+  loc: ص45
+  url: https://shamela.ws/book/36422/39
+- source: lisan
+  loc: ج9 ص342
+  url: https://shamela.ws/book/1687/4649
+status: review

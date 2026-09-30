@@ -1,0 +1,23 @@
+explained: false
+first: أُسْدُ غَابٍ فَإِذَا مَا فَزِعُوا
+second: غَيْرُ أَنْكَاسٍ وَلَا هُوجٍ هُذُرْ
+vocabulary:
+- term: فَزِعُوا
+  text: 'هبّوا لإغاثة من استغاث بهم؛ «وفزع القوم وفزعهم فزعًا وأفزعهم: أغاثهم» [@lisan، ج8 ص252].'
+- term: أَنْكَاسٍ
+  text: ضعفاء، جمع نِكْس، وأصله «النكس من السهام وهو أضعفها» [@lisan، ج6 ص242].
+- term: هُوجٍ
+  text: حمقى متسرّعين، جمع أهوج.
+- term: هُذُرْ
+  text: كثيري الكلام في غير فائدة.
+sources:
+- source: diwan-tarafa
+  loc: ص42
+  url: https://shamela.ws/book/36422/36
+- source: lisan
+  loc: ج8 ص252
+  url: https://shamela.ws/book/1687/4100
+- source: lisan
+  loc: ج6 ص242
+  url: https://shamela.ws/book/1687/3254
+status: review

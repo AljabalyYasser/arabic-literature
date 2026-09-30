@@ -1,0 +1,21 @@
+explained: false
+first: وَإِذَا تَلْسُنُنِي أَلْسُنُهَا
+second: إِنَّنِي لَسْتُ بِمَوْهُونٍ فَقِرْ
+vocabulary:
+- term: تَلْسُنُنِي أَلْسُنُهَا
+  text: 'تنالني بألسنتها؛ «ولسنه لسنًا: أخذه بلسانه» [@lisan، ج13 ص386].'
+- term: مَوْهُونٍ
+  text: ضعيف.
+- term: فَقِرْ
+  text: 'منكسر الظهر؛ «ورجل فقر: يشتكي فقاره» [@lisan، ج5 ص62].'
+sources:
+- source: diwan-tarafa
+  loc: ص42
+  url: https://shamela.ws/book/36422/36
+- source: lisan
+  loc: ج13 ص386
+  url: https://shamela.ws/book/1687/6947
+- source: lisan
+  loc: ج5 ص62
+  url: https://shamela.ws/book/1687/2646
+status: review

@@ -1,0 +1,20 @@
+explained: false
+first: وَلَهَا كَشْحَا مَهَاةٍ مُطْفِلٍ
+second: تَقْتَرِي بِالرَّمْلِ أَفْنَانَ الزَّهَرْ
+vocabulary:
+- term: كَشْحَا
+  text: 'خصرا، والكشح: ما بين الخاصرة والضلوع.'
+- term: مَهَاةٍ مُطْفِلٍ
+  text: بقرة وحشية معها ولدها الصغير.
+- term: تَقْتَرِي
+  text: 'تتتبّع، من «قرا الأمر واقتراه: تتبّعه» [@lisan، ج15 ص175].'
+- term: أَفْنَانَ
+  text: أغصان.
+sources:
+- source: diwan-tarafa
+  loc: ص40
+  url: https://shamela.ws/book/36422/34
+- source: lisan
+  loc: ج15 ص175
+  url: https://shamela.ws/book/1687/7786
+status: review

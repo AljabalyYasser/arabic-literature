@@ -1,0 +1,18 @@
+explained: false
+first: ذُلُقٌ فِي غَارَةٍ مَسْفُوحَةٍ
+second: وَلَدَى الْبَأْسِ حُمَاةٌ مَا نَفِرّ
+vocabulary:
+- term: ذُلُقٌ
+  text: حِداد مسرعون، الواحد ذَلِق.
+- term: مَسْفُوحَةٍ
+  text: 'مصبوبة متدفّقة، من «السفح للدم: كالصب» [@lisan، ج2 ص485].'
+- term: حُمَاةٌ
+  text: يحمون الحِمى ويدفعون عن قومهم.
+sources:
+- source: diwan-tarafa
+  loc: ص44
+  url: https://shamela.ws/book/36422/38
+- source: lisan
+  loc: ج2 ص485
+  url: https://shamela.ws/book/1687/1289
+status: review

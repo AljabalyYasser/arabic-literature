@@ -1,0 +1,23 @@
+explained: false
+first: كَائِرَاتٍ وَتَرَاهَا تَنْتَحِي
+second: مُسْلَحِبَّاتٍ إِذَا جَدَّ الْحُضُرْ
+vocabulary:
+- term: كَائِرَاتٍ
+  text: رافعات أذنابها في عدوها؛ «كار الفرس يكير إذا جرى رافعا ذنبه» [@lisan، ج5 ص157].
+- term: تَنْتَحِي
+  text: تعتمد في عدوها وتقصد.
+- term: مُسْلَحِبَّاتٍ
+  text: 'ممتدّات؛ «والمسلحب: الطريق البين الممتد» [@lisan، ج1 ص474].'
+- term: الْحُضُرْ
+  text: الحُضْر، وهو العدو الشديد.
+sources:
+- source: diwan-tarafa
+  loc: ص45
+  url: https://shamela.ws/book/36422/39
+- source: lisan
+  loc: ج5 ص157
+  url: https://shamela.ws/book/1687/2741
+- source: lisan
+  loc: ج1 ص474
+  url: https://shamela.ws/book/1687/474
+status: review

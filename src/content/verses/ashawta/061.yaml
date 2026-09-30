@@ -1,0 +1,20 @@
+explained: false
+first: أَعْوَجِيَّاتٍ طِوَالًا شُزَّبًا
+second: دُوخِلَ الصَّنْعَةُ فِيهَا وَالضُّمُرْ
+vocabulary:
+- term: أَعْوَجِيَّاتٍ
+  text: منسوبة إلى أعوج، فحل كريم من خيل العرب.
+- term: شُزَّبًا
+  text: ضوامر يابسة.
+- term: الصَّنْعَةُ
+  text: '«وصنعة الفرس: حسن القيام عليه» [@lisan، ج8 ص210].'
+- term: الضُّمُرْ
+  text: الضُّمْر، وهو خفة اللحم من التضمير.
+sources:
+- source: diwan-tarafa
+  loc: ص44
+  url: https://shamela.ws/book/36422/38
+- source: lisan
+  loc: ج8 ص210
+  url: https://shamela.ws/book/1687/4058
+status: review

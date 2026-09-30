@@ -1,0 +1,23 @@
+explained: false
+first: جَافِلَاتٍ فَوْقَ عُوجٍ عُجُلٍ
+second: رُكِّبَتْ فِيهَا مَلَاطِيسُ سُمُرْ
+vocabulary:
+- term: جَافِلَاتٍ
+  text: 'مسرعات، من «جفل الظليم... وأجفل: ذهب في الأرض وأسرع» [@lisan، ج11 ص113].'
+- term: عُوجٍ عُجُلٍ
+  text: قوائم محنيّة سريعة.
+- term: مَلَاطِيسُ
+  text: جمع مِلطاس، وهو «معول يكسر به الصخر»، شبّه به الحوافر [@lisan، ج6 ص207].
+- term: سُمُرْ
+  text: جمع أسمر.
+sources:
+- source: diwan-tarafa
+  loc: ص45
+  url: https://shamela.ws/book/36422/39
+- source: lisan
+  loc: ج11 ص113
+  url: https://shamela.ws/book/1687/5295
+- source: lisan
+  loc: ج6 ص207
+  url: https://shamela.ws/book/1687/3219
+status: review

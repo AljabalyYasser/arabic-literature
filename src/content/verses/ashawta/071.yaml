@@ -1,0 +1,23 @@
+explained: false
+first: خَالَتِي وَالنَّفْسُ قِدْمًا إِنَّهُمْ
+second: نَعِمَ السَّاعُونَ فِي الْقَوْمِ الشُّطُرْ
+vocabulary:
+- term: خَالَتِي وَالنَّفْسُ
+  text: 'هما الفداء في البيت السابق: خالتي ونفسي فداء لبني قيس [@khizana، ج9 ص378].'
+- term: قِدْمًا
+  text: قديمًا.
+- term: نَعِمَ
+  text: لغة في «نِعْمَ»، «جاؤوا به على الأصل» [@lisan، ج12 ص587].
+- term: الشُّطُرْ
+  text: 'قال الأعلم: «يعني البعداء من الناس الغرباء، وواحد الشطر شطير» [@khizana، ج9 ص378].'
+sources:
+- source: diwan-tarafa
+  loc: ص45
+  url: https://shamela.ws/book/36422/39
+- source: khizana
+  loc: ج9 ص378
+  url: https://shamela.ws/book/12732/4496
+- source: lisan
+  loc: ج12 ص587
+  url: https://shamela.ws/book/1687/6500
+status: review

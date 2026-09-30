@@ -1,0 +1,23 @@
+explained: false
+first: وَلَقَدْ تَعْلَمُ بَكْرٌ أَنَّنَا
+second: آفَةُ الْجُزْرِ مَسَامِيحُ يُسُرْ
+vocabulary:
+- term: بَكْرٌ
+  text: بَكْر بن وائِل، وقوم الشاعر منها [@khizana، ج9 ص378].
+- term: آفَةُ الْجُزْرِ
+  text: 'نُهلك الإبل بالنحر للأضياف؛ والجُزْر: جمع جزور.'
+- term: مَسَامِيحُ
+  text: أجواد، الواحد مِسماح.
+- term: يُسُرْ
+  text: 'أهل ميسر يضربون بالقداح على الجُزُر، من «اليسر: المجتمعون على الميسر» [@lisan، ج5 ص298].'
+sources:
+- source: diwan-tarafa
+  loc: ص44
+  url: https://shamela.ws/book/36422/38
+- source: khizana
+  loc: ج9 ص378
+  url: https://shamela.ws/book/12732/4496
+- source: lisan
+  loc: ج5 ص298
+  url: https://shamela.ws/book/1687/2882
+status: review

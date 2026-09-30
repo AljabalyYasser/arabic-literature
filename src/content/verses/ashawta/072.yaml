@@ -1,0 +1,21 @@
+explained: false
+first: وَهُمُ أَيْسَارُ لُقْمَانَ إِذَا
+second: أَغْلَتِ الشَّتْوَةُ أَبْدَاءَ الْجُزُرْ
+vocabulary:
+- term: أَيْسَارُ لُقْمَانَ
+  text: كان للقمان «أيسار يضربون معه بالقداح، وهم ثمانية»، «فضربت العرب بهؤلاء الأيسار المثل كما ضربوه بلقمان» [@maydani، ج2 ص427].
+- term: الشَّتْوَةُ
+  text: الشتاء، زمن الجدب.
+- term: أَبْدَاءَ الْجُزُرْ
+  text: جمع بَدْء، وهو «خير عظم في الجزور، وقيل خير نصيب في الجزور» [@lisan، ج1 ص29].
+sources:
+- source: diwan-tarafa
+  loc: ص45
+  url: https://shamela.ws/book/36422/39
+- source: maydani
+  loc: ج2 ص427
+  url: https://shamela.ws/book/12929/4873
+- source: lisan
+  loc: ج1 ص29
+  url: https://shamela.ws/book/1687/29
+status: review

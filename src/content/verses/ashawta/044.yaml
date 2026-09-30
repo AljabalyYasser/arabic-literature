@@ -1,0 +1,23 @@
+explained: false
+first: ثُمَّ رَاحُوا عَبَقُ الْمِسْكِ بِهِمْ
+second: يُلْحِفُونَ الْأَرْضَ هُدَّابَ الْأُزُرْ
+vocabulary:
+- term: عَبَقُ الْمِسْكِ
+  text: رائحته العالقة بهم، من «عبق به الشيء يعبق عبقا إذا لزق به» [@lisan، ج10 ص234].
+- term: يُلْحِفُونَ الْأَرْضَ
+  text: «أي يغطونها ويلبسونها هداب أزرهم إذا جروها في الأرض» [@lisan، ج9 ص314].
+- term: هُدَّابَ
+  text: أطراف الثوب وخيوطه المتدلّية.
+- term: الْأُزُرْ
+  text: جمع إزار.
+sources:
+- source: diwan-tarafa
+  loc: ص43
+  url: https://shamela.ws/book/36422/37
+- source: lisan
+  loc: ج10 ص234
+  url: https://shamela.ws/book/1687/4903
+- source: lisan
+  loc: ج9 ص314
+  url: https://shamela.ws/book/1687/4621
+status: review
