@@ -1,0 +1,23 @@
+explained: false
+first: رَدَسْنَاهُمُ بِالْخَيْلِ حَتَّى تَمَلَّأَتْ
+second: عَوَافِي الضِّبَاعِ وَالذِّئَابِ السَّوَاغِبِ
+vocabulary:
+- term: رَدَسْنَاهُمُ
+  text: صدمناهم ورميناهم بها؛ و«ردس الشيء... دكّه بشيء صلب» [@lisan، ج6 ص96].
+- term: تَمَلَّأَتْ
+  text: امتلأت وشبعت.
+- term: عَوَافِي
+  text: 'طالبات الرزق؛ «والعافية: طلاب الرزق من الإنس والدواب والطير» [@lisan، ج15 ص74].'
+- term: السَّوَاغِبِ
+  text: الجائعة.
+sources:
+- source: asmaiyyat
+  loc: ص113
+  url: https://shamela.ws/book/6905/99
+- source: lisan
+  loc: ج6 ص96
+  url: https://shamela.ws/book/1687/3108
+- source: lisan
+  loc: ج15 ص74
+  url: https://shamela.ws/book/1687/7686
+status: review

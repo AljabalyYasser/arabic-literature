@@ -1,0 +1,24 @@
+explained: false
+first: وَجَمْعُ هَمْدَانَ لَهُ لَجْبَةٌ
+second: وَرَايَةٌ تَهْوِي هُوِيَّ الْأَنُوقْ
+vocabulary:
+- term: لَجْبَةٌ
+  text: 'جلبة وصياح، من «اللجب: الصوت والصياح والجلبة» [@lisan، ج1 ص735].'
+- term: هُوِيَّ
+  text: انقضاض وإسراع؛ «وهوى يهوي هويًّا إذا أسرع في السير» [@lisan، ج15 ص371].
+- term: الْأَنُوقْ
+  text: '«الرخمة، وقيل: ذكر الرخم» [@lisan، ج10 ص10].'
+sources:
+- source: jamhara
+  loc: ص460
+  url: https://shamela.ws/book/1487/414
+- source: lisan
+  loc: ج1 ص735
+  url: https://shamela.ws/book/1687/735
+- source: lisan
+  loc: ج15 ص371
+  url: https://shamela.ws/book/1687/7980
+- source: lisan
+  loc: ج10 ص10
+  url: https://shamela.ws/book/1687/4680
+status: review

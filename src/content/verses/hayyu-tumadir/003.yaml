@@ -1,0 +1,24 @@
+explained: false
+first: مُتَبَذِّلًا تَبْدُو مَحَاسِنُهُ
+second: يَضَعُ الْهِنَاءَ مَوَاضِعَ النُّقْبِ
+vocabulary:
+- term: مُتَبَذِّلًا
+  text: 'في ثياب مهنته غير متزيّن؛ و«التبذّل: ترك التزين والتهيؤ بالهيئة الحسنة الجميلة على جهة التواضع» [@lisan، ج11 ص50].'
+- term: الْهِنَاءَ
+  text: ضرب من القطران تُطلى به الإبل [@ibn-qutayba، ج1 ص331، الحاشية].
+- term: النُّقْبِ
+  text: '«القطع المتفرقة من الجرب في جلد البعير» [@qali، ج2 ص161]؛ «وقيل: هي أول ما يبدو من الجرب» [@lisan، ج1 ص766].'
+sources:
+- source: qali
+  loc: ج2 ص161
+  url: https://shamela.ws/book/9160/445
+- source: lisan
+  loc: ج11 ص50
+  url: https://shamela.ws/book/1687/5232
+- source: ibn-qutayba
+  loc: ج1 ص331
+  url: https://shamela.ws/book/23785/324
+- source: lisan
+  loc: ج1 ص766
+  url: https://shamela.ws/book/1687/766
+status: review

@@ -1,0 +1,29 @@
+explained: false
+first: رَئِيسُ حُرُوبٍ لَا يَزَالُ رَبِيئَةً
+second: مُشِيحًا عَلَى مُحْقَوْقِفِ الصُّلْبِ مُلْبِدِ
+vocabulary:
+- term: رَبِيئَةً
+  text: طليعة يرقب العدو لقومه، «ولا يكون إلا على جبل أو شرف ينظر منه» [@lisan، ج1 ص82].
+- term: مُشِيحًا
+  text: 'جادًّا حذرًا؛ «الشِّيح والشائح والمُشيح: الجادّ والحذر» [@lisan، ج2 ص500].'
+- term: مُحْقَوْقِفِ الصُّلْبِ
+  text: فرس في ظهره طول وانحناء؛ «وكل ما طال واعوجّ فقد احقوقف كظهر البعير» [@lisan، ج9 ص52].
+- term: مُلْبِدِ
+  text: «الذي يخطر بذنبه فيتلبّد البول على وركيه»، ويوصف به الفحل [@lisan، ج1 ص790].
+sources:
+- source: asmaiyyat
+  loc: ص108
+  url: https://shamela.ws/book/6905/94
+- source: lisan
+  loc: ج1 ص82
+  url: https://shamela.ws/book/1687/82
+- source: lisan
+  loc: ج2 ص500
+  url: https://shamela.ws/book/1687/1304
+- source: lisan
+  loc: ج9 ص52
+  url: https://shamela.ws/book/1687/4359
+- source: lisan
+  loc: ج1 ص790
+  url: https://shamela.ws/book/1687/790
+status: review

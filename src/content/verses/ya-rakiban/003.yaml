@@ -1,0 +1,16 @@
+explained: false
+first: قَتَلْتُ بِعَبْدِ اللَّهِ خَيْرَ لِدَاتِهِ
+second: ذُؤَابَ بْنَ أَسْمَاءَ بْنِ زَيْدِ بْنِ قَارِبِ
+vocabulary:
+- term: لِدَاتِهِ
+  text: أترابه، ممن وُلدوا معه في زمن واحد.
+- term: ذُؤَابَ بْنَ أَسْمَاءَ
+  text: قاتل عبد الله بن الصِّمَّة، أسره دُرَيْد وبعث به إلى أمه لتقتله بعبد الله [@ibn-qutayba، ج2 ص739].
+sources:
+- source: asmaiyyat
+  loc: ص111
+  url: https://shamela.ws/book/6905/97
+- source: ibn-qutayba
+  loc: ج2 ص739
+  url: https://shamela.ws/book/23785/730
+status: review

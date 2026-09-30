@@ -1,0 +1,20 @@
+kind: "bayt"
+title: "يا ليتني فيها جذع"
+part: "1"
+order: 4
+person: "durayd-ibn-al-simma"
+lines:
+  - first: "يَا لَيْتَنِي فِيهَا جَذَعْ"
+    second: "أَخُبُّ فِيهَا وَأَضَعْ"
+  - first: "أَقُودُ وَطْفَاءَ الزَّمَعْ"
+    second: "كَأَنَّهَا شَاةٌ صَدَعْ"
+story: "durayd-hunayn"
+meaning: "ليتني كنت في هذه الحرب شابًّا أعدو فيها وأسرع. قالها دُرَيْد شيخًا كبيرًا يوم حُنَيْن، حين رفض قائد هَوازِن رأيه: «هذا يوم لم أشهده ولم يفتني» [@ibn-hisham، ج2 ص439]."
+sources:
+  - source: "ibn-hisham"
+    loc: "ج2 ص439"
+    url: "https://shamela.ws/book/23833/1176"
+  - source: "lisan"
+    loc: "ج8 ص398"
+    url: "https://shamela.ws/book/1687/4246"
+status: "review"

@@ -1,0 +1,24 @@
+explained: false
+first: أَنْكَحَهَا فَقْدُهَا الْأَرَاقِمَ فِي
+second: جَنْبٍ وَكَانَ الْحِبَاءُ مِنْ أَدَمِ
+vocabulary:
+- term: فَقْدُهَا الْأَرَاقِمَ
+  text: غيابُ قومها عنها. والأراقم «هم جُشَم ومالك والحارِث ومعاوية وثعلبة وعَمْرو، بنو بَكْر بن حبيب بن غنم ابن تَغْلِب» [@ibn-qutayba، ج1 ص290، الحاشية].
+- term: جَنْبٍ
+  text: 'قبيلة من مَذْحِج باليمن؛ قال المبرّد: «وجنب حيّ من أحيائهم وضيع» [@kamil، ج3 ص68].'
+- term: الْحِبَاءُ مِنْ أَدَمِ
+  text: 'الحِباء: المهر، والأَدَم: الجلد. قال شاكر: «يريد أنهم لم يكونوا أرباب نعم فيمهروها الإبل، وجعلهم دباغين للأدم» [@ibn-qutayba، ج1 ص290، الحاشية]. وفي «العقد»: «أي أنه ساق إليها في مهرها قبة من أدم» [@iqd، ج3 ص343].'
+sources:
+- source: aghani
+  loc: ج5 ص56
+  url: https://ketabonline.com/ar/books/10786/read?page=1659
+- source: ibn-qutayba
+  loc: ج1 ص290
+  url: https://shamela.ws/book/23785/283
+- source: kamil
+  loc: ج3 ص68
+  url: https://shamela.ws/book/8505/871
+- source: iqd
+  loc: ج3 ص343
+  url: https://shamela.ws/book/23789/1076
+status: review

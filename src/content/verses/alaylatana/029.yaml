@@ -1,0 +1,24 @@
+explained: false
+first: كَأَنَّا غُدْوَةً وَبَنِي أَبِينَا
+second: بِجَنْبِ عُنَيْزَةٍ رَحَيَا مُدِيرِ
+vocabulary:
+- term: بَنِي أَبِينَا
+  text: يعني بكرًا، فبَكْر وتَغْلِب ابنا وائِل.
+- term: عُنَيْزَةٍ
+  text: 'موضع التقت فيه بَكْر وتَغْلِب [@iqd، ج6 ص75]؛ وقال ابن قُتَيْبة: «يوم عنيزة، وتكافؤوا فيه» [@ibn-qutayba، ج1 ص290].'
+- term: رَحَيَا مُدِيرِ
+  text: حجرا الرحى يديرهما رجل؛ و«رَحَيَا» مثنى رَحًى [@lisan، ج14 ص312].
+sources:
+- source: qali
+  loc: ج2 ص133
+  url: https://shamela.ws/book/9160/417
+- source: iqd
+  loc: ج6 ص75
+  url: https://shamela.ws/book/23789/1886
+- source: ibn-qutayba
+  loc: ج1 ص290
+  url: https://shamela.ws/book/23785/283
+- source: lisan
+  loc: ج14 ص312
+  url: https://shamela.ws/book/1687/7436
+status: review

@@ -1,0 +1,24 @@
+explained: false
+first: وَغَارَةِ بَيْنَ الْيَوْمِ وَاللَّيْلِ فَلْتَةٍ
+second: تَدَارَكْتُهَا رَكْضًا بِسِيدٍ عَمَرَّدِ
+vocabulary:
+- term: فَلْتَةٍ
+  text: فجأة؛ «كان ذلك الأمر فلتة أي فجأة إذا لم يكن عن تدبر ولا تردد» [@lisan، ج2 ص67].
+- term: سِيدٍ
+  text: ذئب؛ «شبّه فرسه بالذئب» [@lisan، ج2 ص68].
+- term: عَمَرَّدِ
+  text: 'طويل؛ «العُمْرود والعَمَرَّد: الطويل، يقال ذئب عمرّد» [@lisan، ج3 ص306].'
+sources:
+- source: asmaiyyat
+  loc: ص109
+  url: https://shamela.ws/book/6905/95
+- source: lisan
+  loc: ج2 ص67
+  url: https://shamela.ws/book/1687/871
+- source: lisan
+  loc: ج2 ص68
+  url: https://shamela.ws/book/1687/872
+- source: lisan
+  loc: ج3 ص306
+  url: https://shamela.ws/book/1687/1748
+status: review

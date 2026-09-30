@@ -1,0 +1,18 @@
+explained: false
+first: كَقَاذِفٍ يَوْمًا بِأَجْرَامِهِ
+second: فِي هُوَّةٍ لَيْسَ لَهَا مِنْ طَرِيقْ
+vocabulary:
+- term: كَقَاذِفٍ
+  text: كرامٍ.
+- term: بِأَجْرَامِهِ
+  text: 'بجسده؛ «والجرم، بالكسر: الجسد، والجمع القليل أجرام» [@lisan، ج12 ص92].'
+- term: هُوَّةٍ
+  text: حفرة بعيدة القعر.
+sources:
+- source: jamhara
+  loc: ص458
+  url: https://shamela.ws/book/1487/412
+- source: lisan
+  loc: ج12 ص92
+  url: https://shamela.ws/book/1687/6008
+status: review

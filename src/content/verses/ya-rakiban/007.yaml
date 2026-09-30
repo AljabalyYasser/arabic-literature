@@ -1,0 +1,24 @@
+explained: false
+first: وَإِنْ تُسْهِلُوا لِلْخَيْلِ تُسْهِلْ عَلَيْكُمُ
+second: بِطَعْنٍ كَإِيزَاغِ الْمَخَاضِ الضَّوَارِبِ
+vocabulary:
+- term: تُسْهِلُوا
+  text: تنزلوا السهل؛ «أسهل يسهل إذا صار إلى السهل من الأرض، وهو ضد الحزن» [@lisan، ج11 ص349].
+- term: إِيزَاغِ الْمَخَاضِ
+  text: 'قال أبو عبيد: «كإيزاغ المخاض يعني قذفها بأبوالها، وذلك إذا كانت حوامل، شبّه خروج الدم برمي المخاض أبوالها» [@lisan، ج4 ص87].'
+- term: الضَّوَارِبِ
+  text: «ضربت المخاض إذا شالت بأذنابها، ثم ضربت بها فروجها ومشت، فهي ضوارب» [@lisan، ج1 ص545].
+sources:
+- source: asmaiyyat
+  loc: ص112
+  url: https://shamela.ws/book/6905/98
+- source: lisan
+  loc: ج11 ص349
+  url: https://shamela.ws/book/1687/5529
+- source: lisan
+  loc: ج4 ص87
+  url: https://shamela.ws/book/1687/2047
+- source: lisan
+  loc: ج1 ص545
+  url: https://shamela.ws/book/1687/545
+status: review

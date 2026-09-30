@@ -26,7 +26,12 @@ const group = p.tier === 'face' ? era.groups.find((g) => g.id === p.group) : und
 const referredBy = eras.filter((e) => p.refer.some((r) => r.id === e.entry.id));
 
 const stages = await stagesOf(person.id);
+// النصوص بترتيبها المقرر في صفحة العلم، ثم بدرجة القراءة: العميقة فالموجهة فالحرة.
+const tierRank = { deep: 0, guided: 1, free: 2 } as const;
 const texts = await Promise.all((await getCollection('texts', (t) => t.data.author?.id === person.id))
+  .sort((a, b) => (a.data.order ?? 99) - (b.data.order ?? 99)
+    || (a.data.reading ? tierRank[a.data.reading] : 3) - (b.data.reading ? tierRank[b.data.reading] : 3)
+    || a.id.localeCompare(b.id))
   .map(async (t) => ({ t, count: (await explainedOf(t.id)).length })));
 const mahfuzat = await Promise.all((await getCollection('mahfuzat', (m) => m.data.person?.id === person.id))
   .sort((a, b) => a.data.order - b.data.order || a.id.localeCompare(b.id))

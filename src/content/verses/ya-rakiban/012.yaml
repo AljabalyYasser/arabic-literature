@@ -1,0 +1,21 @@
+explained: false
+first: وَلَوْلَا جَنَانُ اللَّيْلِ أَدْرَكَ رَكْضُنَا
+second: بِذِي الرِّمْثِ وَالْأَرْطَى عِيَاضَ بْنَ نَاشِبِ
+vocabulary:
+- term: جَنَانُ اللَّيْلِ
+  text: 'ظلمته الساترة؛ «وجِنّ الليل وجنونه وجَنانه: شدة ظلمته وادلهمامه» [@lisan، ج13 ص92].'
+- term: ذِي الرِّمْثِ وَالْأَرْطَى
+  text: 'ذو الرمث: موضع؛ والرِّمث والأرطى: ضربان من الشجر.'
+- term: عِيَاضَ بْنَ نَاشِبِ
+  text: 'من بني ثعلبة بن سعد بن ذبيان عند أبي محمد الأعرابي [@khizana، ج7 ص30]، وقال المبرد: «عياض بن ناشب فزاري» [@lisan، ج13 ص92].'
+sources:
+- source: asmaiyyat
+  loc: ص112
+  url: https://shamela.ws/book/6905/98
+- source: lisan
+  loc: ج13 ص92
+  url: https://shamela.ws/book/1687/6655
+- source: khizana
+  loc: ج7 ص30
+  url: https://shamela.ws/book/12732/2987
+status: review

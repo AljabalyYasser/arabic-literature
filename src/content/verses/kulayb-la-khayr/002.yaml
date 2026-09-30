@@ -1,0 +1,19 @@
+explained: false
+first: كُلَيْبُ أَيُّ فَتَى عِزٍّ وَمَكْرُمَةٍ
+second: تَحْتَ السَّقَائِفِ إِذْ يَعْلُوكَ سَافِيهَا
+vocabulary:
+- term: السَّقَائِفِ
+  text: جمع سَقِيفة، وهي «كل خشبة عريضة كاللوح أو حجر عريض يستطاع أن يُسقَّف به قُترة أو غيرها» [@lisan، ج9 ص156]، يعني ما سُقف به قبره.
+- term: سَافِيهَا
+  text: 'ما تسفيه الريح عليها من التراب؛ يقال: «تراب سافٍ: مَسْفيّ» [@lisan، ج14 ص389].'
+sources:
+- source: iqd
+  loc: ج6 ص73
+  url: https://shamela.ws/book/23789/1884
+- source: lisan
+  loc: ج9 ص156
+  url: https://shamela.ws/book/1687/4463
+- source: lisan
+  loc: ج14 ص389
+  url: https://shamela.ws/book/1687/7513
+status: review

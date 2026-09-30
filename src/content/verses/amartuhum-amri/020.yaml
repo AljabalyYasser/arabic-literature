@@ -1,0 +1,26 @@
+explained: false
+first: وَكُنْتُ كَذَاتِ الْبَوِّ رِيعَتْ فَأَقْبَلَتْ
+second: إِلَى جِذَمٍ مِنْ مَسْكِ سَقْبٍ مُجَلَّدِ
+vocabulary:
+- term: ذَاتِ الْبَوِّ
+  text: 'الناقة؛ والبوّ: «جلد الحوار يحشى بالتبن فإذا لم تدرّ الناقة ألقوه إليها فدرّت» [@khizana، ج11 ص284].'
+- term: رِيعَتْ
+  text: أُفزعت.
+- term: جِذَمٍ
+  text: 'قِطَع وبقايا؛ و«الجَذْم والخَذْم: القطع» [@lisan، ج12 ص88].'
+- term: مَسْكِ سَقْبٍ مُجَلَّدِ
+  text: 'المسك: الجلد، والسقب: الذكر من أولاد الإبل [@khizana، ج11 ص284]؛ والمجلَّد: المسلوخ، من «جلّد الجزور: نزع عنها جلدها» [@lisan، ج3 ص124].'
+sources:
+- source: asmaiyyat
+  loc: ص109
+  url: https://shamela.ws/book/6905/95
+- source: khizana
+  loc: ج11 ص284
+  url: https://shamela.ws/book/12732/5474
+- source: lisan
+  loc: ج12 ص88
+  url: https://shamela.ws/book/1687/6004
+- source: lisan
+  loc: ج3 ص124
+  url: https://shamela.ws/book/1687/1566
+status: review

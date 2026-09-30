@@ -1,0 +1,20 @@
+explained: false
+first: يَا حَارِ لَا تَجْهَلْ عَلَى أَشْيَاخِنَا
+second: إِنَّا ذَوُو السَّوْرَاتِ وَالْأَحْلَامِ
+vocabulary:
+- term: يَا حَارِ
+  text: يا حارث، بحذف آخر الاسم.
+- term: لَا تَجْهَلْ عَلَى
+  text: لا تسفه عليهم ولا تتعدَّ.
+- term: السَّوْرَاتِ
+  text: 'جمع سَوْرة، وهي «الوثبة»، «ويقال: إن لغضبه لسَوْرة» [@lisan، ج4 ص385].'
+- term: الْأَحْلَامِ
+  text: جمع حِلْم، وهو الأناة والعقل.
+sources:
+- source: asmaiyyat
+  loc: ص156
+  url: https://shamela.ws/book/6905/142
+- source: lisan
+  loc: ج4 ص385
+  url: https://shamela.ws/book/1687/2345
+status: review

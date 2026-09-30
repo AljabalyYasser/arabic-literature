@@ -138,6 +138,8 @@ const texts = defineCollection({
     reading: z.enum(['deep', 'guided', 'free']).optional(),
     // أبيات من النص لا نعرضها عمدًا، ويُذكر سبب ذلك في متن النص، كأبيات معلقة امرئ القيس الصريحة.
     omit: z.array(z.number().int()).default([]),
+    // ترتيب النص في صفحة العلم المهم، إذ تُقرأ نصوصه هناك بلا مسار.
+    order: z.number().optional(),
     attribution: z.object({
       grade: z.enum(['thabit', 'rajih', 'mukhtalaf', 'mansub']),
       note: z.string(),

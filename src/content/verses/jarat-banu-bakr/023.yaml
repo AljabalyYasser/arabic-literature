@@ -1,0 +1,23 @@
+explained: false
+first: فَقَدْ تَرَوَّوْا مِنْ دَمٍ مُحْرِمٍ
+second: وَانْتَهَكُوا حُرْمَتَهُ مِنْ عُقُوقْ
+vocabulary:
+- term: تَرَوَّوْا
+  text: ارتووا.
+- term: مُحْرِمٍ
+  text: ذي حرمة وذمّة؛ «وأحرم الرجل، فهو محرم إذا كانت له ذمة» [@lisan، ج12 ص123].
+- term: انْتَهَكُوا حُرْمَتَهُ
+  text: استحلّوا ما لا يحلّ منه.
+- term: عُقُوقْ
+  text: قطيعة الرحم، وبَكْر وتَغْلِب ابنا وائِل؛ «وقد يعم بلفظ العقوق جميع الرحم» [@lisan، ج10 ص256].
+sources:
+- source: jamhara
+  loc: ص462
+  url: https://shamela.ws/book/1487/416
+- source: lisan
+  loc: ج12 ص123
+  url: https://shamela.ws/book/1687/6039
+- source: lisan
+  loc: ج10 ص256
+  url: https://shamela.ws/book/1687/4925
+status: review

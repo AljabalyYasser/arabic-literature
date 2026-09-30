@@ -1,0 +1,26 @@
+explained: false
+first: لَا يَرْقَأُ الدَّهْرَ لَهَا عَاتِكٌ
+second: إِلَّا عَلَى أَنْفَاسِ نَجْلَا تَفُوقْ
+vocabulary:
+- term: يَرْقَأُ
+  text: يسكن وينقطع، من رَقَأَ الدمُ إذا جفّ وانقطع.
+- term: عَاتِكٌ
+  text: 'يريد الدم فيما يظهر، من قولهم: «وأحمر عاتك: شديد الحمرة» [@lisan، ج10 ص464].'
+- term: نَجْلَا
+  text: نجلاء، أي طعنة واسعة؛ «وطعنة نجلاء أي واسعة بينة النجل» [@lisan، ج11 ص647].
+- term: تَفُوقْ
+  text: 'تشهق، من الفُواق؛ «ويقال للإنسان تشخص الريح في صدره: فاق يفوق فواقًا» [@lisan، ج10 ص320].'
+sources:
+- source: jamhara
+  loc: ص462
+  url: https://shamela.ws/book/1487/416
+- source: lisan
+  loc: ج10 ص464
+  url: https://shamela.ws/book/1687/5133
+- source: lisan
+  loc: ج11 ص647
+  url: https://shamela.ws/book/1687/5825
+- source: lisan
+  loc: ج10 ص320
+  url: https://shamela.ws/book/1687/4989
+status: review

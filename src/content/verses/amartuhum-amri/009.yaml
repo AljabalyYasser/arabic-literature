@@ -1,0 +1,27 @@
+explained: false
+first: وَإِنْ تُعْقِبِ الْأَيَّامُ وَالدَّهْرُ تَعْلَمُوا
+second: بَنِي قَارِبٍ أَنَّا غِضَابٌ بِمَعْبَدِ
+vocabulary:
+- term: تُعْقِبِ الْأَيَّامُ وَالدَّهْرُ
+  text: 'إن تتابعت الأيام فجاءت بحال بعد حال؛ من قولهم: «أعقب هذا هذا إذا ذهب الأول فلم يبق منه شيء، وصار الآخر مكانه» [@lisan، ج1 ص613].'
+- term: بَنِي قَارِبٍ
+  text: رهط من عبس، منهم قاتل عبد الله بن الصِّمَّة [@khizana، ج11 ص281]، وهو ذؤاب بن أسماء بن زيد بن قارب [@ibn-qutayba، ج2 ص739].
+- term: مَعْبَدِ
+  text: من أسماء أخيه عبد الله [@iqd، ج6 ص32].
+sources:
+- source: asmaiyyat
+  loc: ص107
+  url: https://shamela.ws/book/6905/93
+- source: lisan
+  loc: ج1 ص613
+  url: https://shamela.ws/book/1687/613
+- source: khizana
+  loc: ج11 ص281
+  url: https://shamela.ws/book/12732/5471
+- source: ibn-qutayba
+  loc: ج2 ص739
+  url: https://shamela.ws/book/23785/730
+- source: iqd
+  loc: ج6 ص32
+  url: https://shamela.ws/book/23789/1843
+status: review

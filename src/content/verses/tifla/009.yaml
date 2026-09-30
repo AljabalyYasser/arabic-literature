@@ -1,0 +1,26 @@
+explained: false
+first: حَيَّةٌ فِي الْوِجَارِ أَرْبَدُ لَا تَنْـ
+second: ـفَعُ مِنْهُ السَّلِيمَ نَفْثَةُ رَاقِ
+vocabulary:
+- term: الْوِجَارِ
+  text: «سرب الضبع ونحوه إذا حفر فأمعن» [@lisan، ج5 ص280].
+- term: أَرْبَدُ
+  text: 'في لونه غبرة؛ «الربدة: الغبرة؛ وقيل: لون إلى الغبرة» [@lisan، ج3 ص170].'
+- term: السَّلِيمَ
+  text: '«اللديغ»، وقيل: سُمّي بذلك «على التفاؤل له» بالسلامة [@lisan، ج12 ص292].'
+- term: نَفْثَةُ رَاقِ
+  text: ما ينفثه الراقي من ريقه حين يرقي.
+sources:
+- source: aghani
+  loc: ج5 ص60
+  url: https://ketabonline.com/ar/books/10786/read?page=1663
+- source: lisan
+  loc: ج5 ص280
+  url: https://shamela.ws/book/1687/2864
+- source: lisan
+  loc: ج3 ص170
+  url: https://shamela.ws/book/1687/1612
+- source: lisan
+  loc: ج12 ص292
+  url: https://shamela.ws/book/1687/6205
+status: review

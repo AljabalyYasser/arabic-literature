@@ -1,0 +1,19 @@
+explained: false
+first: مَنْ عَرَفَتْ يَوْمًا خَزَازٌ لَهُ
+second: عُلْيَا مَعَدٍّ عِنْدَ أَخْذِ الْحُقُوقْ
+vocabulary:
+- term: خَزَازٌ
+  text: 'جبل؛ «وخزاز وخزازى، مقصور: كلاهما جبل كانت العرب توقد عليه غداة الغارة. ويوم خزازى: أحد أيام العرب» [@lisan، ج5 ص346]. وفيه قاد كُلَيْب معدًّا كلها «ففضّ جموع اليمن وهزمهم» [@iqd، ج6 ص70].'
+- term: عُلْيَا مَعَدٍّ
+  text: 'أشراف معدّ، ومعدّ: قبائل العرب من ولد معدّ بن عدنان.'
+sources:
+- source: jamhara
+  loc: ص460
+  url: https://shamela.ws/book/1487/414
+- source: lisan
+  loc: ج5 ص346
+  url: https://shamela.ws/book/1687/2930
+- source: iqd
+  loc: ج6 ص70
+  url: https://shamela.ws/book/23789/1881
+status: review

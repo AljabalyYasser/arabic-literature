@@ -1,0 +1,23 @@
+explained: false
+first: وَكُلَيْبٍ سُمِّ الْفَوَارِسِ إِذْ حُمْـ
+second: ـمَ رَمَاهُ الْكُمَاةُ بِالْإِيفَاقِ
+vocabulary:
+- term: كُلَيْبٍ
+  text: كُلَيْب وائِل، أخو المهلهل، «الذي هاجت بمقتله حرب بَكْر وتَغْلِب» [@ibn-qutayba، ج1 ص288].
+- term: سُمِّ الْفَوَارِسِ
+  text: يقتل الفرسان كما يقتل السمّ.
+- term: الْكُمَاةُ
+  text: الشجعان المتسلّحون، الواحد كَمِيّ.
+- term: بِالْإِيفَاقِ
+  text: بتهيئة السهام للرمي؛ «أوفق الرامي إيفاقا إذا جعل الفوق في الوتر» [@lisan، ج10 ص383].
+sources:
+- source: aghani
+  loc: ج5 ص59
+  url: https://ketabonline.com/ar/books/10786/read?page=1662
+- source: ibn-qutayba
+  loc: ج1 ص288
+  url: https://shamela.ws/book/23785/281
+- source: lisan
+  loc: ج10 ص383
+  url: https://shamela.ws/book/1687/5052
+status: review

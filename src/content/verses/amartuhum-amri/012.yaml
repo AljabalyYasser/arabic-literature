@@ -1,0 +1,29 @@
+explained: false
+first: وَلَا بَرَمًا إِذَا الرِّيَاحُ تَنَاوَحَتْ
+second: بِرَطْبِ الْعِضَاهِ وَالضَّرِيعِ الْمُعَضَّدِ
+vocabulary:
+- term: بَرَمًا
+  text: 'البَرَم: «الذي لا يدخل مع القوم في الميسر» [@lisan، ج12 ص43].'
+- term: تَنَاوَحَتْ
+  text: 'اشتد هبوبها وتقابلت؛ «والرياح إذا اشتد هبوبها يقال: تناوحت» [@lisan، ج2 ص627].'
+- term: الْعِضَاهِ
+  text: كل شجر له شوك.
+- term: الضَّرِيعِ الْمُعَضَّدِ
+  text: 'الضريع: نبت، وقيل: هو العوسج الرطب [@lisan، ج8 ص223]؛ والمعضَّد: المقطوع؛ و«العضيد والعضد: ما قطع من الشجر» [@lisan، ج3 ص294].'
+sources:
+- source: asmaiyyat
+  loc: ص108
+  url: https://shamela.ws/book/6905/94
+- source: lisan
+  loc: ج12 ص43
+  url: https://shamela.ws/book/1687/5959
+- source: lisan
+  loc: ج2 ص627
+  url: https://shamela.ws/book/1687/1431
+- source: lisan
+  loc: ج8 ص223
+  url: https://shamela.ws/book/1687/4071
+- source: lisan
+  loc: ج3 ص294
+  url: https://shamela.ws/book/1687/1736
+status: review

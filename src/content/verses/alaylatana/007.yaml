@@ -1,0 +1,21 @@
+explained: false
+first: كَوَاكِبُهَا زَوَاحِفُ لَاغِبَاتٌ
+second: كَأَنَّ سَمَاءَهَا بِيَدَيْ مُدِيرِ
+vocabulary:
+- term: زَوَاحِفُ
+  text: كالّة «لا تقدر على النهوض» [@qali، ج2 ص130]، واحدها زاحف، وهو «المُعْيِي» [@lisan، ج9 ص131].
+- term: لَاغِبَاتٌ
+  text: مُتعَبات، من اللُّغوب وهو التعب والإعياء.
+- term: بِيَدَيْ مُدِيرِ
+  text: 'قال القالي: «يريد أن سماءها أثقل من أن يديرها مدير، فهو إذا تكلّف إدارتها لم يقدر عليها» [@qali، ج2 ص131].'
+sources:
+- source: qali
+  loc: ج2 ص130
+  url: https://shamela.ws/book/9160/414
+- source: qali
+  loc: ج2 ص131
+  url: https://shamela.ws/book/9160/415
+- source: lisan
+  loc: ج9 ص131
+  url: https://shamela.ws/book/1687/4438
+status: review

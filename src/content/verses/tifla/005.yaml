@@ -1,0 +1,19 @@
+explained: false
+first: بَعْدَ عَمْرٍو وَعَامِرٍ وَحُيَيٍّ
+second: وَرَبِيعِ الصَّدُوفِ وَابْنَيْ عَنَاقِ
+vocabulary:
+- term: عَمْرٍو وَعَامِرٍ وَحُيَيٍّ
+  text: من قتلى تَغْلِب في حربها مع بَكْر. وفي خبر رواه أبو الفرج أن القتلى المعدودين «ثمانية نفر من تَغْلِب وأربعة من بَكْر عددهم مُهَلْهِل في شعريه» [@aghani، ج5 ص57].
+- term: رَبِيعِ الصَّدُوفِ وَابْنَيْ عَنَاقِ
+  text: 'من قتلى تَغْلِب أيضًا؛ وقال راوي الخبر بعد إيراد الأبيات: «فهؤلاء ثمانية من تَغْلِب» [@aghani، ج5 ص60].'
+sources:
+- source: aghani
+  loc: ج5 ص59
+  url: https://ketabonline.com/ar/books/10786/read?page=1662
+- source: aghani
+  loc: ج5 ص57
+  url: https://ketabonline.com/ar/books/10786/read?page=1660
+- source: aghani
+  loc: ج5 ص60
+  url: https://ketabonline.com/ar/books/10786/read?page=1663
+status: review

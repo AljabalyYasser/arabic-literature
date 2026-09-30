@@ -1,0 +1,21 @@
+explained: false
+first: أَيُّهَا الْقَلْبُ أَنْجِزِ الْيَوْمَ نَحْبًا
+second: مِنْ بَنِي الْحِصْنِ إِذْ غَدَوْا وَذُحُولَا
+vocabulary:
+- term: أَنْجِزِ
+  text: أتمِمْ ووفِّ.
+- term: نَحْبًا
+  text: 'نذرًا؛ «النحب: النذر» [@lisan، ج1 ص750].'
+- term: ذُحُولَا
+  text: 'ثارات، جمع ذَحْل؛ «الذحل: الثأر» [@lisan، ج11 ص256].'
+sources:
+- source: aghani
+  loc: ج5 ص61
+  url: https://ketabonline.com/ar/books/10786/read?page=1664
+- source: lisan
+  loc: ج1 ص750
+  url: https://shamela.ws/book/1687/750
+- source: lisan
+  loc: ج11 ص256
+  url: https://shamela.ws/book/1687/5436
+status: review

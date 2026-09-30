@@ -1,0 +1,29 @@
+explained: false
+first: حَلَّتْ رِكَابُ الْبَغْيِ فِي وَائِلٍ
+second: فِي رَهْطِ جَسَّاسٍ ثِقَالِ الْوُسُوقْ
+vocabulary:
+- term: رِكَابُ
+  text: «الإبل التي يسار عليها، واحدتها راحلة، ولا واحد لها من لفظها» [@lisan، ج1 ص430].
+- term: وَائِلٍ
+  text: أبو القبيلتين بَكْر وتَغْلِب.
+- term: جَسَّاسٍ
+  text: جسّاس بن مُرّة الشَّيْباني، أخو امرأة كُلَيْب [@iqd، ج6 ص70] وقاتلُه [@iqd، ج6 ص72].
+- term: ثِقَالِ الْوُسُوقْ
+  text: ثقال الأحمال، والوسوق جمع وَسْق؛ «والأصل في الوسق الحمل» [@lisan، ج10 ص379].
+sources:
+- source: jamhara
+  loc: ص458
+  url: https://shamela.ws/book/1487/412
+- source: lisan
+  loc: ج1 ص430
+  url: https://shamela.ws/book/1687/430
+- source: iqd
+  loc: ج6 ص70
+  url: https://shamela.ws/book/23789/1881
+- source: iqd
+  loc: ج6 ص72
+  url: https://shamela.ws/book/23789/1883
+- source: lisan
+  loc: ج10 ص379
+  url: https://shamela.ws/book/1687/5048
+status: review

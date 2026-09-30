@@ -1,0 +1,26 @@
+explained: false
+first: إِذَا أَحْزَنُوا تَغْشَى الْجِبَالَ رِجَالُنَا
+second: كَمَا اسْتَوْفَزَتْ فُدْرُ الْوُعُولِ الْقَرَاهِبِ
+vocabulary:
+- term: أَحْزَنُوا
+  text: صاروا إلى الحَزْن، وهو ما غلظ من الأرض، خلاف السهل.
+- term: اسْتَوْفَزَتْ
+  text: 'تهيّأت للوثوب؛ والمستوفز: الذي «قد استقلّ على رجليه ولمّا يستوِ قائمًا وقد تهيّأ للأفز والوثوب» [@lisan، ج5 ص430].'
+- term: فُدْرُ الْوُعُولِ
+  text: 'جمع فادر، وهو «الوعل العاقل في الجبل»، وقيل: الشاب التام، وقيل: المسنّ [@lisan، ج5 ص50].'
+- term: الْقَرَاهِبِ
+  text: 'المسانّ الضخام؛ «القرهب من الثيران: المسن الضخم» [@lisan، ج1 ص671].'
+sources:
+- source: asmaiyyat
+  loc: ص112
+  url: https://shamela.ws/book/6905/98
+- source: lisan
+  loc: ج5 ص430
+  url: https://shamela.ws/book/1687/3014
+- source: lisan
+  loc: ج5 ص50
+  url: https://shamela.ws/book/1687/2634
+- source: lisan
+  loc: ج1 ص671
+  url: https://shamela.ws/book/1687/671
+status: review

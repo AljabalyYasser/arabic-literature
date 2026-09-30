@@ -1,0 +1,21 @@
+explained: false
+first: تَلْمَعُ لَمْعَ الطَّيْرِ رَايَاتُهُ
+second: عَلَى أَوَاذِي لُجِّ بَحْرٍ عَمِيقْ
+vocabulary:
+- term: لَمْعَ الطَّيْرِ
+  text: خفقان الطير بأجنحتها، من «لمع الطائر بجناحيه إذا خفق بهما» [@lisan، ج8 ص327].
+- term: أَوَاذِي
+  text: أمواج؛ «الآذي موج البحر، والجمع الأواذي» [@lisan، ج14 ص27].
+- term: لُجِّ
+  text: معظم الماء.
+sources:
+- source: jamhara
+  loc: ص461
+  url: https://shamela.ws/book/1487/415
+- source: lisan
+  loc: ج8 ص327
+  url: https://shamela.ws/book/1687/4175
+- source: lisan
+  loc: ج14 ص27
+  url: https://shamela.ws/book/1687/7151
+status: review

@@ -1,0 +1,23 @@
+explained: false
+first: لَمْ أَرِمْ عَرْصَةَ الْكَتِيبَةِ حَتَّى انْـ
+second: ـتَعَلَ الْوَرْدُ مِنْ دِمَاءٍ نِعَالَا
+vocabulary:
+- term: لَمْ أَرِمْ
+  text: لم أبرح، من «رام يَريم إذا برح» [@lisan، ج12 ص259].
+- term: عَرْصَةَ الْكَتِيبَةِ
+  text: ساحة الجيش في القتال.
+- term: الْوَرْدُ
+  text: فرسه، ويقال للفرس «وَرْد» إذا كان لونه «بين الكُمَيت والأشقر» [@lisan، ج3 ص456].
+- term: نِعَالَا
+  text: صار له الدم كالنعال، أي خاض فيه حتى غطّى حوافره.
+sources:
+- source: aghani
+  loc: ج5 ص55
+  url: https://ketabonline.com/ar/books/10786/read?page=1658
+- source: lisan
+  loc: ج12 ص259
+  url: https://shamela.ws/book/1687/6172
+- source: lisan
+  loc: ج3 ص456
+  url: https://shamela.ws/book/1687/1898
+status: review

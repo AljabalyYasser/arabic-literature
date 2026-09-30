@@ -1,0 +1,16 @@
+explained: false
+first: إِنَّ فِي الصَّدْرِ حَاجَةً لَنْ تَقَضَّى
+second: مَا دَعَا فِي الْغُصُونِ دَاعٍ هَدِيلَا
+vocabulary:
+- term: لَنْ تَقَضَّى
+  text: لن تُقضى ولن تنقضي.
+- term: هَدِيلَا
+  text: '«صوت الحمام»، وقيل: فرخ حمام؛ «تزعم الأعراب في الهديل أنه فرخ كان على عهد نوح... فيقولون إنه ليس من حمامة إلا وهي تبكي عليه» [@lisan، ج11 ص691]. والداعي: الحمام.'
+sources:
+- source: aghani
+  loc: ج5 ص61
+  url: https://ketabonline.com/ar/books/10786/read?page=1664
+- source: lisan
+  loc: ج11 ص691
+  url: https://shamela.ws/book/1687/5869
+status: review

@@ -1,0 +1,29 @@
+explained: false
+first: مُتَحَسِّرًا نَضْخُ الْهِنَاءِ بِهِ
+second: نَضْخُ الْعَبِيرِ بِرَيْطَةِ الْعَصْبِ
+vocabulary:
+- term: مُتَحَسِّرًا
+  text: مكشوف الجسد، قد نزع ثيابه.
+- term: نَضْخُ
+  text: 'أثر الشيء ولطخه؛ «والنضخ: الردع واللطخ يبقى في الجسد أو الثوب من الطيب ونحوه» [@lisan، ج3 ص62].'
+- term: الْعَبِيرِ
+  text: ضرب من الطيب؛ «العبير نوع من الطيب ذو لون يجمع من أخلاط» عند ابن الأثير [@lisan، ج4 ص531].
+- term: رَيْطَةِ الْعَصْبِ
+  text: 'الريطة: الملاءة، قال الأزهري: «لا تكون الريطة إلا بيضاء» [@lisan، ج7 ص307]؛ والعصب: «ضرب من برود اليمن» [@lisan، ج1 ص604].'
+sources:
+- source: qali
+  loc: ج2 ص161
+  url: https://shamela.ws/book/9160/445
+- source: lisan
+  loc: ج3 ص62
+  url: https://shamela.ws/book/1687/1504
+- source: lisan
+  loc: ج4 ص531
+  url: https://shamela.ws/book/1687/2491
+- source: lisan
+  loc: ج7 ص307
+  url: https://shamela.ws/book/1687/3690
+- source: lisan
+  loc: ج1 ص604
+  url: https://shamela.ws/book/1687/604
+status: review

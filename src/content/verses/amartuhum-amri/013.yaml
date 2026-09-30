@@ -1,0 +1,24 @@
+explained: false
+first: كَمِيشُ الْإِزَارِ خَارِجٌ نِصْفُ سَاقِهِ
+second: صَبُورٌ عَلَى الْعَزَّاءِ طَلَّاعُ أَنْجُدِ
+vocabulary:
+- term: كَمِيشُ الْإِزَارِ
+  text: 'مشمّر؛ وفي الشطر كله: «أراد أنه مشمّر جادّ، ولم يرد خروج الساق بعينها» [@lisan، ج10 ص168].'
+- term: الْعَزَّاءِ
+  text: 'الشدة؛ و«العَزّاء: السنة الشديدة» [@lisan، ج5 ص377].'
+- term: طَلَّاعُ أَنْجُدِ
+  text: يعلو الأمور ويغلبها؛ «يقال فلان طلّاع أنجد وطلّاع الثنايا إذا كان ساميًا لمعالي الأمور» [@lisan، ج3 ص414].
+sources:
+- source: asmaiyyat
+  loc: ص108
+  url: https://shamela.ws/book/6905/94
+- source: lisan
+  loc: ج10 ص168
+  url: https://shamela.ws/book/1687/4838
+- source: lisan
+  loc: ج5 ص377
+  url: https://shamela.ws/book/1687/2961
+- source: lisan
+  loc: ج3 ص414
+  url: https://shamela.ws/book/1687/1856
+status: review

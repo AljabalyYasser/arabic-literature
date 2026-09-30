@@ -1,0 +1,23 @@
+explained: false
+first: يَا لَبَكْرٍ فَاظْعَنُوا أَوْ فَحُلُّوا
+second: صَرَّحَ الشَّرُّ وَبَانَ السِّرَارُ
+vocabulary:
+- term: فَاظْعَنُوا
+  text: فارتحلوا.
+- term: فَحُلُّوا
+  text: فانزلوا وأقيموا.
+- term: صَرَّحَ الشَّرُّ
+  text: 'ظهر خالصًا مكشوفًا، من قولهم: «صَرَّحَتِ الخمر تصريحًا: انجلى زبدها فخلصت» [@lisan، ج2 ص509].'
+- term: السِّرَارُ
+  text: «المُسارّة» [@lisan، ج4 ص362]، أي ما كان يُتناجى به سرًّا.
+sources:
+- source: aghani
+  loc: ج5 ص64
+  url: https://ketabonline.com/ar/books/10786/read?page=1667
+- source: lisan
+  loc: ج2 ص509
+  url: https://shamela.ws/book/1687/1313
+- source: lisan
+  loc: ج4 ص362
+  url: https://shamela.ws/book/1687/2322
+status: review

@@ -1,0 +1,20 @@
+explained: false
+first: الْقَائِدُ الْخَيْلِ تَرْدِي فِي أَعِنَّتِهَا
+second: زَهْوًا إِذَا الْخَيْلُ لَجَّتْ فِي تَعَادِيهَا
+vocabulary:
+- term: تَرْدِي
+  text: من الرَّدَيان، وهو «أن يرجم الفرس الأرض رجمًا بحوافره من شدة العدو» [@lisan، ج5 ص260].
+- term: أَعِنَّتِهَا
+  text: جمع عِنان، وهو سير اللجام الذي تُمسك به الدابة.
+- term: زَهْوًا
+  text: تيهًا وخيلاء.
+- term: تَعَادِيهَا
+  text: عَدْوها وجريها.
+sources:
+- source: iqd
+  loc: ج6 ص73
+  url: https://shamela.ws/book/23789/1884
+- source: lisan
+  loc: ج5 ص260
+  url: https://shamela.ws/book/1687/2844
+status: review

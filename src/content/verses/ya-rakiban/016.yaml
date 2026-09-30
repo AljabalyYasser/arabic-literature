@@ -1,0 +1,24 @@
+explained: false
+first: وَأَنْتَ امْرُؤٌ جَعْدُ الْقَفَا مُتَعَكِّسٌ
+second: مِنَ الْأَقِطِ الْحَوْلِيِّ شَبْعَانُ كَانِبُ
+vocabulary:
+- term: جَعْدُ الْقَفَا مُتَعَكِّسٌ
+  text: '«رجل متعكّس: متثنّي غضون القفا» [@lisan، ج6 ص145]؛ وقيل: «شعر لحيته متقبّض لم يسرّح، وكل شيء متقبّض فهو متعكّس» [@lisan، ج1 ص727].'
+- term: الْأَقِطِ الْحَوْلِيِّ
+  text: 'الأقط: لبن مجفّف، والحوليّ: ما أتى عليه حول.'
+- term: كَانِبُ
+  text: '«الممتلئ الغليظ» [@khizana، ج7 ص30]؛ و«كنب يكنب كنوبا: غلظ» [@lisan، ج1 ص727].'
+sources:
+- source: asmaiyyat
+  loc: ص113
+  url: https://shamela.ws/book/6905/99
+- source: lisan
+  loc: ج6 ص145
+  url: https://shamela.ws/book/1687/3157
+- source: lisan
+  loc: ج1 ص727
+  url: https://shamela.ws/book/1687/727
+- source: khizana
+  loc: ج7 ص30
+  url: https://shamela.ws/book/12732/2987
+status: review

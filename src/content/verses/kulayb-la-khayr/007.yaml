@@ -1,0 +1,32 @@
+explained: false
+first: يُهَزْهِزُونَ مِنَ الْخَطِّيِّ مُدْمَجَةً
+second: كُمْتًا أَنَابِيبُهَا زُرْقًا عَوَالِيهَا
+vocabulary:
+- term: الْخَطِّيِّ
+  text: 'الرماح، نسبة إلى الخَطّ، وهو «أرض يُنسب إليها الرماح الخطية»، قيل: هو «خطّ عُمان» [@lisan، ج7 ص290].'
+- term: مُدْمَجَةً
+  text: محكمة ملساء، من «أدمج الحبلَ إذا أحكم فتله» [@lisan، ج2 ص275].
+- term: كُمْتًا أَنَابِيبُهَا
+  text: الكُمْتة «لون بين السواد والحمرة» [@lisan، ج2 ص81]، والأنبوب «ما بين العقدتين في القصب والقناة» [@lisan، ج1 ص747].
+- term: زُرْقًا عَوَالِيهَا
+  text: عوالي الرماح «أسنّتها» [@lisan، ج15 ص87]، ووصفها بالزرقة لصفاء حديدها ولمعانه.
+sources:
+- source: iqd
+  loc: ج6 ص73
+  url: https://shamela.ws/book/23789/1884
+- source: lisan
+  loc: ج7 ص290
+  url: https://shamela.ws/book/1687/3673
+- source: lisan
+  loc: ج2 ص275
+  url: https://shamela.ws/book/1687/1079
+- source: lisan
+  loc: ج2 ص81
+  url: https://shamela.ws/book/1687/885
+- source: lisan
+  loc: ج1 ص747
+  url: https://shamela.ws/book/1687/747
+- source: lisan
+  loc: ج15 ص87
+  url: https://shamela.ws/book/1687/7699
+status: review

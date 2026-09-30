@@ -1,0 +1,21 @@
+explained: false
+first: وَامْرِئِ الْقَيْسِ مَيِّتٍ يَوْمَ أَوْدَى
+second: ثُمَّ خَلَّى عَلَيَّ ذَاتَ الْعَرَاقِي
+vocabulary:
+- term: امْرِئِ الْقَيْسِ
+  text: من قتلى تَغْلِب الثمانية المعدودين في هذه الأبيات [@aghani، ج5 ص60].
+- term: أَوْدَى
+  text: هلك.
+- term: ذَاتَ الْعَرَاقِي
+  text: الداهية؛ «سميت بذلك لأن ذات العراقي هي الدلو والدلو من أسماء الداهية» [@lisan، ج10 ص249].
+sources:
+- source: aghani
+  loc: ج5 ص59
+  url: https://ketabonline.com/ar/books/10786/read?page=1662
+- source: aghani
+  loc: ج5 ص60
+  url: https://ketabonline.com/ar/books/10786/read?page=1663
+- source: lisan
+  loc: ج10 ص249
+  url: https://shamela.ws/book/1687/4918
+status: review

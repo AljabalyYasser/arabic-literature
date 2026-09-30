@@ -1,0 +1,21 @@
+explained: false
+first: كَأَنَّ رِمَاحَهُمْ أَشْطَانُ بِئْرٍ
+second: بَعِيدٍ بَيْنُ جَالَيْهَا جَرُورِ
+vocabulary:
+- term: أَشْطَانُ
+  text: «الحبال، واحدها شَطَن» [@qali، ج2 ص132].
+- term: بَيْنُ جَالَيْهَا
+  text: 'البَيْن هنا «الوصل» [@qali، ج2 ص132]، أي ما بين جانبيها. و«جال البئر وجولها: ناحيتها وما يحبس الماء منها» [@qali، ج2 ص133].'
+- term: جَرُورِ
+  text: من الآبار «البعيدة القعر»، «وهي التي يُستقى منها على بعير» [@lisan، ج4 ص126].
+sources:
+- source: qali
+  loc: ج2 ص132
+  url: https://shamela.ws/book/9160/416
+- source: qali
+  loc: ج2 ص133
+  url: https://shamela.ws/book/9160/417
+- source: lisan
+  loc: ج4 ص126
+  url: https://shamela.ws/book/1687/2086
+status: review

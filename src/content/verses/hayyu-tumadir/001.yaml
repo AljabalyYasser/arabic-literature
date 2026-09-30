@@ -1,0 +1,21 @@
+explained: false
+first: حَيُّوا تُمَاضِرَ وَارْبَعُوا صَحْبِي
+second: وَقِفُوا فَإِنَّ وُقُوفَكُمْ حَسْبِي
+vocabulary:
+- term: تُمَاضِرَ
+  text: 'اسم الخنساء الشاعرة: «تماضر بنت عَمْرو بن الشّريد» [@ibn-qutayba، ج1 ص331].'
+- term: ارْبَعُوا
+  text: قفوا وتمهّلوا؛ «وربع يربع إذا وقف وتحبّس» [@lisan، ج8 ص110].
+- term: حَسْبِي
+  text: كفايتي.
+sources:
+- source: qali
+  loc: ج2 ص161
+  url: https://shamela.ws/book/9160/445
+- source: ibn-qutayba
+  loc: ج1 ص331
+  url: https://shamela.ws/book/23785/324
+- source: lisan
+  loc: ج8 ص110
+  url: https://shamela.ws/book/1687/3958
+status: review
