@@ -77,7 +77,7 @@ const paras = (t: string) => t.split(/\n\s*\n/).map((x) => x.trim()).filter(Bool
       {(ov.books.length > 0 || ov.booksLater.length > 0) && (
         <section class="section measure">
           <div class="section-head"><h2>أهم الكتب</h2></div>
-          <h3 class="list-head">من العصر نفسه</h3>
+          <h3 class="list-head">من آثار العصر وأهله</h3>
           {ov.books.length > 0 && <ul class="name-list">{ov.books.map((k) => <li><b>{k.title}</b> <span set:html={fmt(k.text, sources)} /></li>)}</ul>}
           {ov.notes.books && <p class="era-note" set:html={fmt(ov.notes.books, sources)} />}
           {ov.booksLater.length > 0 && (

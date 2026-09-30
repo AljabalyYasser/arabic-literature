@@ -50,8 +50,8 @@ const parts = defineCollection({
       poets: z.array(named).default([]),                    // أهم الشعراء
       writers: z.array(named).default([]),                  // أهم الأدباء والكتّاب والنقاد
       writersTitle: z.string().optional(),                  // عنوان آخر للقسم حين يلزم، كـ«الخطباء والحكماء» في الجاهلي
-      // أهم الكتب قسمان: كتب من العصر نفسه (أُلّفت فيه، أو دواوين أهله)،
-      // وكتب لاحقة نقرأ بها العصر (جُمعت أو أُلّفت بعده)، فلا تظهر كتب لاحقة كأنها من العصر.
+      // أهم الكتب قسمان: «من آثار العصر وأهله» (ما أُلّف فيه، أو شعر أهله وإن جاءت روايته أو تدوينه لاحقًا)،
+      // و«كتب لاحقة نقرأ بها العصر» (جُمعت أو أُلّفت بعده)، فلا تظهر كتب لاحقة كأنها من العصر.
       books: z.array(z.object({ title: z.string(), text: z.string() })).default([]),
       booksLater: z.array(z.object({ title: z.string(), text: z.string() })).default([]),
       texts: z.array(z.object({ title: z.string(), text: z.string(), text_id: reference('texts').optional() })).default([]), // النصوص التي صنعت العصر

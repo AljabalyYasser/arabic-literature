@@ -1,7 +1,7 @@
 ---
 // صفحة العلم بحسب درجته (docs/alam.md):
 // علم التكوين له مسار قراءة كامل، والعلم المهم له عدة نصوص. ووجه العصر مكانه صفحة مجموعته،
-// فلا صفحة له هنا إلا بقرار مستقل (page)، ويُحال رابطه إلى بطاقته في المجموعة.
+// فلا تُولَّد له صفحة هنا إلا بقرار مستقل (page)، وروابطه تقود مباشرة إلى بطاقته أو مدخله في المجموعة.
 import { getCollection, type CollectionEntry } from 'astro:content';
 import Base from '../../../layouts/Base.astro';
 import Crumbs from '../../../components/Crumbs.astro';
@@ -14,12 +14,12 @@ import { kindsOf, mahfuzKinds, readingTiers, textKinds, tiers } from '../../../l
 
 export async function getStaticPaths() {
   await getEras();
-  return (await getCollection('people')).map((person) => ({ params: { id: person.id }, props: { person } }));
+  return (await getCollection('people', (p) => p.data.tier !== 'face' || p.data.page))
+    .map((person) => ({ params: { id: person.id }, props: { person } }));
 }
 
 const { person } = Astro.props as { person: CollectionEntry<'people'> };
 const p = person.data;
-if (p.tier === 'face' && !p.page) return Astro.redirect(url.personOf(person));
 const eras = await getEras();
 const era = eras.find((e) => e.entry.id === p.part.id)!;
 const group = p.tier === 'face' ? era.groups.find((g) => g.id === p.group) : undefined;
