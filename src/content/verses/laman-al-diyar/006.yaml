@@ -1,0 +1,18 @@
+explained: false
+first: حُورًا تُعَلَّلُ بِالْعَبِيرِ جُلُودُهَا
+second: بِيضَ الْوُجُوهِ نَوَاعِمَ الْأَجْسَامِ
+vocabulary:
+- term: حُورًا
+  text: جمع حوراء، وهي التي اشتدّ بياض عينها في شدة سوادها.
+- term: تُعَلَّلُ
+  text: تُطيَّب مرة بعد مرة.
+- term: الْعَبِيرِ
+  text: '«أخلاط من الطيب تُجمع بالزعفران، وقيل: هو الزعفران وحده» [@lisan، ج4 ص531].'
+sources:
+- source: diwan-imru-al-qais
+  loc: ص151
+  url: https://shamela.ws/book/27112/135
+- source: lisan
+  loc: ج4 ص531
+  url: https://shamela.ws/book/1687/2491
+status: review

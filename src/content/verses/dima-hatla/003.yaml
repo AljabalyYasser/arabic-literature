@@ -1,0 +1,21 @@
+explained: false
+first: وَتَرَى الضَّبَّ خَفِيفًا مَاهِرًا
+second: ثَانِيًا بُرْثُنَهُ مَا يَنْعَفِرْ
+vocabulary:
+- term: مَاهِرًا
+  text: 'حاذقًا في السباحة، فالمطر «أخرج الضبّ من جحره، فعام في الماء ماهرًا في سباحته» [@lisan، ج13 ص50]. وقيل: «مسرعًا في عدوه» [@deif، ج1 ص257].'
+- term: بُرْثُنَهُ
+  text: البُرْثُن «مثل الإصبع» [@lisan، ج13 ص50].
+- term: مَا يَنْعَفِرْ
+  text: «لا يصيب براثنه التراب، وهو العَفَر» [@lisan، ج13 ص50].
+sources:
+- source: ibn-sallam
+  loc: ج1 ص95
+  url: https://shamela.ws/book/6738/94
+- source: lisan
+  loc: ج13 ص50
+  url: https://shamela.ws/book/1687/6613
+- source: deif
+  loc: ج1 ص257
+  url: https://shamela.ws/book/11996/253
+status: review

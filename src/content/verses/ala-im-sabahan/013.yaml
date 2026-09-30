@@ -1,0 +1,20 @@
+explained: false
+first: وَهَبَّتْ لَهُ رِيحٌ بِمُخْتَلَفِ الصُّوَى
+second: صَبًا وَشَمَالٌ فِي مَنَازِلِ قُفَّالِ
+vocabulary:
+- term: مُخْتَلَفِ
+  text: موضع تردّد الرياح، «وهو أن تذهب ريح وتجيء ريح» [@khizana، ج1 ص66].
+- term: الصُّوَى
+  text: جمع صُوّة، وهي هنا «مختلف الريح»، لا الحجر الذي يكون علامة في الطريق [@khizana، ج1 ص66].
+- term: صَبًا
+  text: ريح تهبّ من مطلع الشمس.
+- term: قُفَّالِ
+  text: جمع قافل، وهو «الراجع من سفره» [@khizana، ج1 ص66].
+sources:
+- source: diwan-imru-al-qais
+  loc: ص136
+  url: https://shamela.ws/book/27112/120
+- source: khizana
+  loc: ج1 ص66
+  url: https://shamela.ws/book/12732/64
+status: review

@@ -1,0 +1,18 @@
+explained: false
+first: مُجَاوِرَةً بَنِي شَمَجَى بْنِ جَرْمٍ
+second: هَوَانًا مَا أُتِيحَ مِنَ الْهَوَانِ
+vocabulary:
+- term: مُجَاوِرَةً
+  text: نازلة في جوارهم.
+- term: بَنِي شَمَجَى بْنِ جَرْمٍ
+  text: '«حيّ»، وفي الصحاح: «بنو شَمَج ابن جَرْم من قضاعة» [@lisan، ج2 ص309].'
+- term: أُتِيحَ
+  text: قُدِّر وهُيِّئ.
+sources:
+- source: diwan-imru-al-qais
+  loc: ص161
+  url: https://shamela.ws/book/27112/144
+- source: lisan
+  loc: ج2 ص309
+  url: https://shamela.ws/book/1687/1113
+status: review

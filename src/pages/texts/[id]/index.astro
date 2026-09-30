@@ -6,7 +6,7 @@ import StatusBadge from '../../../components/StatusBadge.astro';
 import CiteList from '../../../components/CiteList.astro';
 import VerseReader from '../../../components/VerseReader.astro';
 import Body from '../../../components/Body.astro';
-import { checkVerseParents, fmt, formatDate, must, ranges, sourceMap, stripCites, url, verseOrder, versesOf } from '../../../lib/content';
+import { checkVerseParents, countWord, fmt, formatDate, must, ranges, sourceMap, stripCites, url, verseOrder, versesOf } from '../../../lib/content';
 import Grade from '../../../components/Grade.astro';
 import { readingTiers, textKinds } from '../../../lib/labels';
 
@@ -19,8 +19,11 @@ const { text } = Astro.props as { text: CollectionEntry<'texts'> };
 const t = text.data;
 const author = t.author ? await must(t.author) : undefined;
 const verses = await versesOf(text.id);
+const explained = verses.filter((v) => v.data.explained);
 const sources = await sourceMap();
-const range = verses.length ? ranges(verses.map((v) => verseOrder(v.id))) : '';
+const range = explained.length ? ranges(explained.map((v) => verseOrder(v.id))) : '';
+// النص المقروء بدرجة من درجات القراءة معروض كاملًا، وفيه أبيات غير مشروحة تُفتح على مفرداتها.
+const mixed = explained.length < verses.length;
 ---
 <Base title={t.title} description={stripCites(t.occasion)} searchType={textKinds[t.kind]}>
   <Crumbs items={[{ href: '/texts/', label: 'النصوص' }, { label: t.title }]} />
@@ -32,7 +35,8 @@ const range = verses.length ? ranges(verses.map((v) => verseOrder(v.id))) : '';
       <div class="meta-row">
         {t.attribution && <Grade of="text" grade={t.attribution.grade} note={t.attribution.note} />}
         {t.reading && <span class="badge plain" title={readingTiers[t.reading].hint}>{readingTiers[t.reading].label}</span>}
-        {range && <span class="badge plain">الأبيات المشروحة: {range}</span>}
+        {t.reading && <span class="badge plain">النص كاملًا: {countWord(verses.length + t.omit.length, ['بيت واحد', 'بيتان', 'أبيات', 'بيتًا'])}</span>}
+        {range && <span class="badge plain">{mixed ? 'المشروح منها شرحًا كاملًا' : 'الأبيات المشروحة'}: {range}</span>}
         <StatusBadge status={t.status} />
       </div>
     </header>
@@ -63,8 +67,10 @@ const range = verses.length ? ranges(verses.map((v) => verseOrder(v.id))) : '';
 
   {verses.length > 0 && (
     <section class="section">
-      <div class="section-head"><h2>النص وشرحه</h2><p>اضغط أي بيت لتفتح شرحه: المعنى والمفردات، ثم النحو والصرف والبلاغة والوزن والمصادر.</p></div>
-      <VerseReader text={text.id} />
+      <div class="section-head"><h2>النص وشرحه</h2><p>{mixed
+        ? 'اضغط البيت لتفتح مفرداته. والبيت الذي حول رقمه دائرة مشروح شرحًا كاملًا: المعنى والمفردات، ثم النحو والصرف والبلاغة والوزن والمصادر.'
+        : 'اضغط أي بيت لتفتح شرحه: المعنى والمفردات، ثم النحو والصرف والبلاغة والوزن والمصادر.'}</p></div>
+      <VerseReader text={text.id} sections={t.reading && mixed ? t.map : []} />
     </section>
   )}
 

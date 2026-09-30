@@ -9,7 +9,7 @@ import StatusBadge from '../../../components/StatusBadge.astro';
 import CiteList from '../../../components/CiteList.astro';
 import Body from '../../../components/Body.astro';
 import Grade from '../../../components/Grade.astro';
-import { chapterHome, countWord, nameGen, dateAgo, fmt, formatDate, getEras, isTopic, must, sourceMap, stagesOf, stripCites, url, versesOf } from '../../../lib/content';
+import { chapterHome, countWord, explainedOf, nameGen, dateAgo, fmt, formatDate, getEras, isTopic, must, sourceMap, stagesOf, stripCites, url } from '../../../lib/content';
 import { kindsOf, mahfuzKinds, readingTiers, textKinds, tiers } from '../../../lib/labels';
 
 export async function getStaticPaths() {
@@ -27,7 +27,7 @@ const referredBy = eras.filter((e) => p.refer.some((r) => r.id === e.entry.id));
 
 const stages = await stagesOf(person.id);
 const texts = await Promise.all((await getCollection('texts', (t) => t.data.author?.id === person.id))
-  .map(async (t) => ({ t, count: (await versesOf(t.id)).length })));
+  .map(async (t) => ({ t, count: (await explainedOf(t.id)).length })));
 const mahfuzat = await Promise.all((await getCollection('mahfuzat', (m) => m.data.person?.id === person.id))
   .sort((a, b) => a.data.order - b.data.order || a.id.localeCompare(b.id))
   .map(async (m) => {

@@ -1,0 +1,24 @@
+explained: false
+first: سَتَصْبَحُكَ الْغَلْبَاءُ تَغْلِبُ غَارَةً
+second: هُنَالِكَ لَا يُنْجِيكَ عَرْضٌ مِنَ الْعَرْضِ
+vocabulary:
+- term: سَتَصْبَحُكَ
+  text: ستأتيك صباحًا.
+- term: الْغَلْبَاءُ
+  text: '«وكانت تَغْلِب تسمى الغلباء» [@lisan، ج1 ص653]. والأغلب: الغليظ الرقبة، «وهم يصفون أبدًا السادة بغلظ الرقبة وطولها» [@lisan، ج1 ص652].'
+- term: عَرْضٌ مِنَ الْعَرْضِ
+  text: 'العَرْض: «الجيش الضخم مشبه بناحية الجبل»، والعَرْض أيضًا: الجبل وسفحه [@lisan، ج7 ص175].'
+sources:
+- source: diwan-tarafa
+  loc: ص53
+  url: https://shamela.ws/book/36422/45
+- source: lisan
+  loc: ج1 ص653
+  url: https://shamela.ws/book/1687/653
+- source: lisan
+  loc: ج1 ص652
+  url: https://shamela.ws/book/1687/652
+- source: lisan
+  loc: ج7 ص175
+  url: https://shamela.ws/book/1687/3558
+status: review

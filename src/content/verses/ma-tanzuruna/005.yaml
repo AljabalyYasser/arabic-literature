@@ -1,0 +1,20 @@
+explained: false
+first: وَقِرَافُ مَنْ لَا يَسْتَفِيقُ دَعَارَةً
+second: يُعْدِي كَمَا يُعْدِي الصَّحِيحَ الْأَجْرَبُ
+vocabulary:
+- term: قِرَافُ
+  text: '«المقارفة والقراف: المخالطة... ولا تكون المقارفة إلا في الأشياء الدنية» [@lisan، ج9 ص280].'
+- term: لَا يَسْتَفِيقُ
+  text: لا يصحو ولا يُقلع.
+- term: دَعَارَةً
+  text: فسقًا وفجورًا.
+- term: يُعْدِي
+  text: ينقل إليه الداء.
+sources:
+- source: diwan-tarafa
+  loc: ص12
+  url: https://shamela.ws/book/36422/9
+- source: lisan
+  loc: ج9 ص280
+  url: https://shamela.ws/book/1687/4587
+status: review

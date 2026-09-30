@@ -1,0 +1,20 @@
+explained: false
+first: كَأَنَّ السِّلَاحَ فَوْقَ شُعْبَةِ بَانَةٍ
+second: تَرَى نَفَخًا وَرْدَ الْأَسِرَّةِ أَسْحَمَا
+vocabulary:
+- term: شُعْبَةِ بَانَةٍ
+  text: غصن من شجر البان.
+- term: نَفَخًا
+  text: انتفاخًا وورمًا.
+- term: وَرْدَ الْأَسِرَّةِ
+  text: 'أحمر الأسارير؛ والأسرّة في الوجه والكف: «الخطوط التي فيهما» [@lisan، ج4 ص361].'
+- term: أَسْحَمَا
+  text: أسود.
+sources:
+- source: diwan-tarafa
+  loc: ص70
+  url: https://shamela.ws/book/36422/60
+- source: lisan
+  loc: ج4 ص361
+  url: https://shamela.ws/book/1687/2321
+status: review

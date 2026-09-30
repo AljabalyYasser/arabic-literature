@@ -1,0 +1,23 @@
+explained: false
+first: وَقَدْ أَغْتَدِي وَالطَّيْرُ فِي وُكُنَاتِهَا
+second: لِغَيْثٍ مِنَ الْوَسْمِيِّ رَائِدُهُ خَالِي
+vocabulary:
+- term: أَغْتَدِي
+  text: أخرج غُدْوةً، في أول النهار.
+- term: وُكُنَاتِهَا
+  text: أعشاشها، جمع وُكْنة، وهي «اسم لكل وكر وعش» [@lisan، ج13 ص452].
+- term: الْوَسْمِيِّ
+  text: «مطر أول الربيع، وهو بعد الخريف، لأنه يَسِم الأرض بالنبات» [@lisan، ج12 ص636].
+- term: رَائِدُهُ
+  text: الذي يُرسَل قبل القوم يطلب لهم الكلأ.
+sources:
+- source: diwan-imru-al-qais
+  loc: ص138
+  url: https://shamela.ws/book/27112/122
+- source: lisan
+  loc: ج13 ص452
+  url: https://shamela.ws/book/1687/7013
+- source: lisan
+  loc: ج12 ص636
+  url: https://shamela.ws/book/1687/6549
+status: review

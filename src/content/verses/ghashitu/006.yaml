@@ -1,0 +1,20 @@
+explained: false
+first: كَأَنِّي وَرِدْفِي وَالْقِرَابَ وَنُمْرُقِي
+second: عَلَى ظَهْرِ عَيْرٍ وَارِدِ الْخَبِرَاتِ
+vocabulary:
+- term: الْقِرَابَ
+  text: غِمد السيف.
+- term: نُمْرُقِي
+  text: وسادتي.
+- term: عَيْرٍ
+  text: حمار الوحش.
+- term: الْخَبِرَاتِ
+  text: جمع خَبِرة، وهي «شجراء في بطن روضة يبقى فيها الماء إلى القيظ» [@lisan، ج4 ص228].
+sources:
+- source: diwan-imru-al-qais
+  loc: ص85
+  url: https://shamela.ws/book/27112/75
+- source: lisan
+  loc: ج4 ص228
+  url: https://shamela.ws/book/1687/2188
+status: review

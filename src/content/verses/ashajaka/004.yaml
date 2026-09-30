@@ -1,0 +1,23 @@
+explained: false
+first: جَعَلَتْهُ حَمَّ كَلْكَلِهَا
+second: لِرَبِيعٍ دِيمَةٌ تَثِمُهْ
+vocabulary:
+- term: حَمَّ
+  text: 'معظم؛ «وحَمُّ الشيء: معظمه» [@lisan، ج12 ص153].'
+- term: كَلْكَلِهَا
+  text: صدرها.
+- term: دِيمَةٌ
+  text: مطر يدوم أيامًا في سكون.
+- term: تَثِمُهْ
+  text: 'تضربه وتدقّه؛ «والمطر يثم الأرض وَثْمًا: يضربها» [@lisan، ج12 ص629].'
+sources:
+- source: diwan-tarafa
+  loc: ص71
+  url: https://shamela.ws/book/36422/61
+- source: lisan
+  loc: ج12 ص153
+  url: https://shamela.ws/book/1687/6069
+- source: lisan
+  loc: ج12 ص629
+  url: https://shamela.ws/book/1687/6542
+status: review

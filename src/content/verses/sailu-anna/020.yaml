@@ -1,0 +1,21 @@
+explained: false
+first: بِشَبَابٍ وَكُهُولٍ نُهُدٍ
+second: كَلُيُوثٍ بَيْنَ عِرِّيسِ الْأَجَمْ
+vocabulary:
+- term: نُهُدٍ
+  text: ضخام أشدّاء، جمع نَهْد؛ و«النهد في نعت الخيل الجسيم المشرف» [@lisan، ج3 ص429].
+- term: عِرِّيسِ
+  text: الشجر الملتفّ، «وهو مأوى الأَسَد» [@lisan، ج6 ص136].
+- term: الْأَجَمْ
+  text: جمع أَجَمة، وهي الشجر الكثير الملتفّ.
+sources:
+- source: diwan-tarafa
+  loc: ص77
+  url: https://shamela.ws/book/36422/67
+- source: lisan
+  loc: ج3 ص429
+  url: https://shamela.ws/book/1687/1871
+- source: lisan
+  loc: ج6 ص136
+  url: https://shamela.ws/book/1687/3148
+status: review

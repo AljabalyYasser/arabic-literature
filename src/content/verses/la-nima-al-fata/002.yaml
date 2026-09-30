@@ -1,0 +1,20 @@
+explained: false
+first: إِذَا الْبَازِلُ الْكَوْمَاءُ رَاحَتْ عَشِيَّةً
+second: تُلَاوِذُ مِنْ صَوْتِ الْمُبِسِّينَ بِالشَّجَرْ
+vocabulary:
+- term: الْبَازِلُ
+  text: الناقة التي طلع نابها، وذلك في تاسع سنيها.
+- term: الْكَوْمَاءُ
+  text: العظيمة السنام.
+- term: تُلَاوِذُ
+  text: تلوذ وتستتر.
+- term: الْمُبِسِّينَ
+  text: 'الذين يدعونها للحلب، من «أَبَسَّ بالناقة: دعاها للحلب» [@lisan، ج6 ص27].'
+sources:
+- source: diwan-imru-al-qais
+  loc: ص103
+  url: https://shamela.ws/book/27112/92
+- source: lisan
+  loc: ج6 ص27
+  url: https://shamela.ws/book/1687/3040
+status: review

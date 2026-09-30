@@ -1,0 +1,21 @@
+explained: false
+first: دَعْ عَنْكَ نَهْبًا صِيحَ فِي حَجَرَاتِهِ
+second: وَلَكِنْ حَدِيثًا مَا حَدِيثُ الرَّوَاحِلِ
+vocabulary:
+- term: نَهْبًا
+  text: «المال المنهوب» [@maydani، ج1 ص267].
+- term: حَجَرَاتِهِ
+  text: «النواحي» [@maydani، ج1 ص267].
+- term: الرَّوَاحِلِ
+  text: رواحل الشاعر التي أعطاها جارَه خالدًا ليطلب عليها إبله المنهوبة، فذهبت هي أيضًا [@khizana، ج11 ص178].
+sources:
+- source: diwan-imru-al-qais
+  loc: ص140
+  url: https://shamela.ws/book/27112/124
+- source: maydani
+  loc: ج1 ص267
+  url: https://shamela.ws/book/12929/1431
+- source: khizana
+  loc: ج11 ص178
+  url: https://shamela.ws/book/12732/5369
+status: review

@@ -1,0 +1,18 @@
+explained: false
+first: وَيَأْكُلْنَ بُهْمَى جَعْدَةً حَبَشِيَّةً
+second: وَيَشْرَبْنَ بَرْدَ الْمَاءِ فِي السَّبَرَاتِ
+vocabulary:
+- term: بُهْمَى
+  text: نبت ترعاه الدوابّ.
+- term: حَبَشِيَّةً
+  text: «خضراء تضرب إلى السواد» [@lisan، ج6 ص279].
+- term: السَّبَرَاتِ
+  text: جمع سَبْرة، وهي الغداة الباردة.
+sources:
+- source: diwan-imru-al-qais
+  loc: ص86
+  url: https://shamela.ws/book/27112/76
+- source: lisan
+  loc: ج6 ص279
+  url: https://shamela.ws/book/1687/3291
+status: review

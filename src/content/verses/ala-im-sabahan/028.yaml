@@ -1,0 +1,18 @@
+explained: false
+first: أَيَقْتُلُنِي وَالْمَشْرَفِيُّ مُضَاجِعِي
+second: وَمَسْنُونَةٌ زُرْقٌ كَأَنْيَابِ أَغْوَالِ
+vocabulary:
+- term: الْمَشْرَفِيُّ
+  text: «السيف المنسوب إلى مشارف الشام، وهي قرى للعرب تدنو من الروم» [@suyuti-mughni، ج1 ص343].
+- term: مَسْنُونَةٌ زُرْقٌ
+  text: 'نصال «محدّدة بالمِسَنّ، وأراد بها المشاقص» [@suyuti-mughni، ج1 ص343]، وزُرق: صافية لامعة.'
+- term: أَغْوَالِ
+  text: «الشياطين، وأراد به التهويل» [@suyuti-mughni، ج1 ص343].
+sources:
+- source: diwan-imru-al-qais
+  loc: ص137
+  url: https://shamela.ws/book/27112/121
+- source: suyuti-mughni
+  loc: ج1 ص343
+  url: https://shamela.ws/book/17724/341
+status: review

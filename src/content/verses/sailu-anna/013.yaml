@@ -1,0 +1,29 @@
+explained: false
+first: وَفُحُولٍ هَيْكَلَاتٍ وُقُحٍ
+second: أَعْوَجِيَّاتٍ عَلَى الشَّأْوِ أُزُمْ
+vocabulary:
+- term: هَيْكَلَاتٍ
+  text: ضخام طوال؛ «الهيكل الفرس الطويل علوًّا وعدوًا» [@lisan، ج11 ص700].
+- term: وُقُحٍ
+  text: 'صلبة الحوافر؛ «حافر وَقاح: صُلب باقٍ على الحجارة» [@lisan، ج2 ص637].'
+- term: أَعْوَجِيَّاتٍ
+  text: «منسوبة إلى فحل كان يقال له أعوج» [@lisan، ج2 ص333].
+- term: أُزُمْ
+  text: جمع أَزُوم، من «أزَم عليه» إذا عضّ عليه ولم يرسله [@lisan، ج12 ص16]؛ أي ملازمة للشأو، وهو الغاية في الجري.
+sources:
+- source: diwan-tarafa
+  loc: ص76
+  url: https://shamela.ws/book/36422/66
+- source: lisan
+  loc: ج11 ص700
+  url: https://shamela.ws/book/1687/5877
+- source: lisan
+  loc: ج2 ص637
+  url: https://shamela.ws/book/1687/1441
+- source: lisan
+  loc: ج2 ص333
+  url: https://shamela.ws/book/1687/1137
+- source: lisan
+  loc: ج12 ص16
+  url: https://shamela.ws/book/1687/5932
+status: review

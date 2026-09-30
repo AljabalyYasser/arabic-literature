@@ -1,0 +1,20 @@
+explained: false
+first: أَوَمَا تَرَى أَظْعَانَهُنَّ بَوَاكِرًا
+second: كَالنَّخْلِ مِنْ شَوْكَانَ حِينَ صِرَامِ
+vocabulary:
+- term: أَظْعَانَهُنَّ
+  text: 'إبلهنّ التي عليها الهوادج؛ قال أبو زيد: «لا يقال حُمول ولا ظُعُن إلا للإبل التي عليها الهوادج» [@lisan، ج13 ص271].'
+- term: بَوَاكِرًا
+  text: سائرة في أول النهار.
+- term: شَوْكَانَ
+  text: موضع.
+- term: صِرَامِ
+  text: جَداد النخل وقطع ثمره.
+sources:
+- source: diwan-imru-al-qais
+  loc: ص151
+  url: https://shamela.ws/book/27112/135
+- source: lisan
+  loc: ج13 ص271
+  url: https://shamela.ws/book/1687/6832
+status: review

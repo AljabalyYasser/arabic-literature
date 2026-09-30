@@ -3,14 +3,15 @@ import { getCollection } from 'astro:content';
 import Base from '../../layouts/Base.astro';
 import StatusBadge from '../../components/StatusBadge.astro';
 import StoryCard from '../../components/StoryCard.astro';
-import { must, url, versesOf, formatDate } from '../../lib/content';
+import { countWord, explainedOf, must, url, versesOf, formatDate } from '../../lib/content';
 import { readingTiers, textKinds } from '../../lib/labels';
 
 const texts = await getCollection('texts');
 const rows = await Promise.all(texts.map(async (t) => ({
   t,
   author: t.data.author ? await must(t.data.author) : undefined,
-  count: (await versesOf(t.id)).length,
+  count: (await explainedOf(t.id)).length,
+  total: (await versesOf(t.id)).length + t.data.omit.length,
 })));
 rows.sort((a, b) => (a.t.data.year?.h ?? 0) - (b.t.data.year?.h ?? 0));
 const stories = await getCollection('stories');
@@ -24,13 +25,14 @@ const stories = await getCollection('stories');
   <div class="section-head"><h2>القصائد والنصوص</h2></div>
   {rows.length === 0 && <p class="muted">تُضاف النصوص مع قراءات المسار.</p>}
   <ul class="index-list">
-    {rows.map(({ t, author, count }) => (
+    {rows.map(({ t, author, count, total }) => (
       <li>
         <a class="card link-card" href={url.text(t.id)}>
           <span class="kicker">{textKinds[t.data.kind]}{author && ` · ${author.data.name}`}{t.data.year && ` · ${formatDate(t.data.year)}`}{t.data.reading && ` · ${readingTiers[t.data.reading].label}`}</span>
           <h3>{t.data.title}</h3>
           <div class="meta-row">
-            {count > 0 && <span>{count} بيتًا مشروحًا</span>}
+            {t.data.reading && <span>النص كاملًا: {countWord(total, ['بيت واحد', 'بيتان', 'أبيات', 'بيتًا'])}</span>}
+            {count > 0 && <span>{countWord(count, ['بيت واحد مشروح', 'بيتان مشروحان', 'أبيات مشروحة', 'بيتًا مشروحًا'])}</span>}
             {t.data.meter && <span>{t.data.meter}</span>}
             <StatusBadge status={t.data.status} />
           </div>

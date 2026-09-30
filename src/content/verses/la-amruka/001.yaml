@@ -1,0 +1,21 @@
+explained: false
+first: لَعَمْرُكَ مَا قَلْبِي إِلَى أَهْلِهِ بِحُرّ
+second: وَلَا مُقْصِرٍ يَوْمًا فَيَأْتِيَنِي بِقُرّ
+vocabulary:
+- term: بِحُرّ
+  text: 'بكريم؛ قال الأزهري: «بِحُرٍّ: بكريم لأنه لا يصبر ولا يكفّ عن هواه» [@lisan، ج4 ص182].'
+- term: مُقْصِرٍ
+  text: كافٍّ عن هواه.
+- term: بِقُرّ
+  text: «أي بمستقرّه» [@lisan، ج5 ص86].
+sources:
+- source: diwan-imru-al-qais
+  loc: ص98
+  url: https://shamela.ws/book/27112/87
+- source: lisan
+  loc: ج4 ص182
+  url: https://shamela.ws/book/1687/2142
+- source: lisan
+  loc: ج5 ص86
+  url: https://shamela.ws/book/1687/2670
+status: review

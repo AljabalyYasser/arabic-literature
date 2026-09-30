@@ -1,0 +1,29 @@
+explained: false
+first: سَلِيمِ الشَّظَى عَبْلِ الشَّوَى شَنِجِ النَّسَا
+second: لَهُ حَجَبَاتٌ مُشْرِفَاتٌ عَلَى الْفَالِ
+vocabulary:
+- term: الشَّظَى
+  text: '«عُظيم مُلزق بالذراع، فإذا تحرك من موضعه قيل: قد شَظِيَ الفرس» [@lisan، ج14 ص433].'
+- term: عَبْلِ الشَّوَى
+  text: ضخم القوائم.
+- term: شَنِجِ النَّسَا
+  text: «متقبّضه، وهو مدح له لأنه إذا تقبّض نساه وشنج لم تسترخِ رجلاه» [@lisan، ج2 ص309].
+- term: حَجَبَاتٌ
+  text: 'رؤوس عظمي الوركين [@lisan، ج1 ص300]؛ والفال: الفائل، وهو «اللحم الذي على خُرْب الورك» [@lisan، ج11 ص535].'
+sources:
+- source: diwan-imru-al-qais
+  loc: ص138
+  url: https://shamela.ws/book/27112/122
+- source: lisan
+  loc: ج14 ص433
+  url: https://shamela.ws/book/1687/7557
+- source: lisan
+  loc: ج2 ص309
+  url: https://shamela.ws/book/1687/1113
+- source: lisan
+  loc: ج1 ص300
+  url: https://shamela.ws/book/1687/300
+- source: lisan
+  loc: ج11 ص535
+  url: https://shamela.ws/book/1687/5713
+status: review

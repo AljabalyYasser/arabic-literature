@@ -1,0 +1,23 @@
+explained: false
+first: وَقَنًا جُرْدٍ وَخَيْلٍ ضُمَّرٍ
+second: شُزَّبٍ مِنْ طُولِ تَعْلَاكِ اللُّجُمْ
+vocabulary:
+- term: قَنًا
+  text: رماح.
+- term: ضُمَّرٍ
+  text: ضوامر البطون، جمع ضامر.
+- term: شُزَّبٍ
+  text: جمع شازب، وهو «الضامر اليابس» [@lisan، ج1 ص494].
+- term: تَعْلَاكِ اللُّجُمْ
+  text: 'مضغها اللُّجُم؛ من «علك الشيء يعلكه: مضغه ولجلجه» [@lisan، ج10 ص470].'
+sources:
+- source: diwan-tarafa
+  loc: ص76
+  url: https://shamela.ws/book/36422/66
+- source: lisan
+  loc: ج1 ص494
+  url: https://shamela.ws/book/1687/494
+- source: lisan
+  loc: ج10 ص470
+  url: https://shamela.ws/book/1687/5139
+status: review

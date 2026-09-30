@@ -96,7 +96,9 @@ function closeVerse(verse: HTMLElement) {
 }
 
 document.querySelectorAll<HTMLElement>('.reader .verse').forEach((verse) => {
-  const head = verse.querySelector<HTMLAnchorElement>('.verse-head');
+  // البيت غير المشروح بلا مفردات لا يُفتح.
+  if (!verse.querySelector('.verse-body')) return;
+  const head = verse.querySelector<HTMLElement>('.verse-head');
   head?.addEventListener('click', (e) => {
     if (e.metaKey || e.ctrlKey || e.shiftKey) return;
     e.preventDefault();

@@ -1,0 +1,18 @@
+explained: false
+first: لَهُ شَرْبَتَانِ بِالنَّهَارِ وَأَرْبَعٌ
+second: مِنَ اللَّيْلِ حَتَّى آضَ سُخْدًا مُوَرَّمَا
+vocabulary:
+- term: آضَ
+  text: صار.
+- term: سُخْدًا
+  text: 'رهلًا مصفرًّا؛ «والسخد: الرهل والصفرة في الوجه» [@lisan، ج3 ص207].'
+- term: مُوَرَّمَا
+  text: منتفخًا.
+sources:
+- source: diwan-tarafa
+  loc: ص70
+  url: https://shamela.ws/book/36422/60
+- source: lisan
+  loc: ج3 ص207
+  url: https://shamela.ws/book/1687/1649
+status: review

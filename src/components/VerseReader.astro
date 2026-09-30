@@ -1,13 +1,14 @@
 ---
 import type { CollectionEntry } from 'astro:content';
-import { must, url, verseOrder, verseTextId, versesOf } from '../lib/content';
+import { fmt, must, sourceMap, url, verseOrder, verseTextId, versesOf } from '../lib/content';
 import VerseAnalysis from './VerseAnalysis.astro';
 import VerseLines from './VerseLines.astro';
 
 // text: أبيات نص واحد (مع from وto). ids: أبيات من نصوص مختلفة، يُكتب فوق كل بيت قائله ونصه.
 // scoped: القارئ داخل صفحة قد تجمع أكثر من نص، فيُعرف البيت بنصه ورقمه معًا.
-interface Props { text?: string; from?: number; to?: number; ids?: string[]; scoped?: boolean }
-const { text, from = 1, to = Infinity, ids, scoped = false } = Astro.props;
+// sections: مقاطع النص (خريطة الأبيات)، يُكتب عنوان كل مقطع قبل أول أبياته.
+interface Props { text?: string; from?: number; to?: number; ids?: string[]; scoped?: boolean; sections?: { range: string; title: string }[] }
+const { text, from = 1, to = Infinity, ids, scoped = false, sections = [] } = Astro.props;
 
 let verses: CollectionEntry<'verses'>[];
 if (ids) {
@@ -31,29 +32,52 @@ if (ids) {
     labels.set(v.id, [author?.data.name, `«${t.data.title}»`].filter(Boolean).join(' · '));
   }
 }
+const sources = await sourceMap();
 const anchor = (v: CollectionEntry<'verses'>) => (ids || scoped ? `b-${v.id.replace('/', '-')}` : `b${verseOrder(v.id)}`);
+// عنوان المقطع قبل أول بيت فيه: «1–7» يبدأ من البيت 1.
+const heads = new Map(sections.map((s) => [Number(s.range.split(/[–-]/)[0]), s]));
 ---
 <div class="reader">
   {verses.map((v, i) => {
     const n = verseOrder(v.id);
     const id = anchor(v);
+    const head = heads.get(n);
+    const no = <span class="verse-no" aria-label={ids ? `المطلع ${i + 1}` : `البيت ${n}`}>{ids ? i + 1 : n}</span>;
+    const main = (
+      <span class="verse-main">
+        {ids && <span class="verse-src">{labels.get(v.id)}</span>}
+        <VerseLines first={v.data.first} second={v.data.second} />
+      </span>
+    );
     return (
-      <article class="verse" id={id}>
-        <a class="verse-head" href={url.verse(v.id)} aria-expanded="false" aria-controls={`${id}-body`}>
-          <span class="verse-no" aria-label={ids ? `المطلع ${i + 1}` : `البيت ${n}`}>{ids ? i + 1 : n}</span>
-          <span class="verse-main">
-            {ids && <span class="verse-src">{labels.get(v.id)}</span>}
-            <VerseLines first={v.data.first} second={v.data.second} />
-          </span>
-        </a>
-        <div class="verse-body" id={`${id}-body`} hidden>
-          <VerseAnalysis verse={v} />
-          <div class="verse-tools">
-            <a class="btn" href={url.verse(v.id)}>صفحة البيت</a>
-            <button type="button" class="btn" data-copy={url.verse(v.id)}>نسخ رابط البيت</button>
-          </div>
-        </div>
-      </article>
+      <>
+        {head && <h3 class="reader-section"><span>الأبيات {head.range}</span> {head.title}</h3>}
+        {v.data.explained ? (
+          <article class="verse is-explained" id={id}>
+            <a class="verse-head" href={url.verse(v.id)} aria-expanded="false" aria-controls={`${id}-body`}>{no}{main}</a>
+            <div class="verse-body" id={`${id}-body`} hidden>
+              <VerseAnalysis verse={v} />
+              <div class="verse-tools">
+                <a class="btn" href={url.verse(v.id)}>صفحة البيت</a>
+                <button type="button" class="btn" data-copy={url.verse(v.id)}>نسخ رابط البيت</button>
+              </div>
+            </div>
+          </article>
+        ) : v.data.vocabulary.length > 0 ? (
+          <article class="verse is-plain" id={id}>
+            <button type="button" class="verse-head" aria-expanded="false" aria-controls={`${id}-body`}>{no}{main}</button>
+            <div class="verse-body" id={`${id}-body`} hidden>
+              <dl class="vocab gloss">
+                {v.data.vocabulary.map((w) => <div><dt>{w.term}</dt><dd set:html={fmt(w.text, sources)} /></div>)}
+              </dl>
+            </div>
+          </article>
+        ) : (
+          <article class="verse is-plain" id={id}>
+            <div class="verse-head">{no}{main}</div>
+          </article>
+        )}
+      </>
     );
   })}
 </div>

@@ -1,0 +1,23 @@
+explained: false
+first: وَأَبْيَضَ كَالْمِخْرَاقِ بَلَّيْتُ حَدَّهُ
+second: وَهَبَّتَهُ فِي السَّاقِ وَالْقَصَرَاتِ
+vocabulary:
+- term: أَبْيَضَ
+  text: سيف.
+- term: الْمِخْرَاقِ
+  text: 'ما «تلعب به الصبيان من الخِرَق المفتولة»، وقيل: السيف، واستُشهد له بهذا البيت [@lisan، ج10 ص76].'
+- term: هَبَّتَهُ
+  text: «هِزَّتُه ومضاؤه في الضريبة» [@lisan، ج1 ص778].
+- term: الْقَصَرَاتِ
+  text: أصول الأعناق، واحدتها قَصَرة.
+sources:
+- source: diwan-imru-al-qais
+  loc: ص86
+  url: https://shamela.ws/book/27112/76
+- source: lisan
+  loc: ج10 ص76
+  url: https://shamela.ws/book/1687/4746
+- source: lisan
+  loc: ج1 ص778
+  url: https://shamela.ws/book/1687/778
+status: review

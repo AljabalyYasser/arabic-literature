@@ -1,0 +1,24 @@
+explained: false
+first: وَمَاذَا عَلَيْهِ أَنْ ذَكَرْتُ أَوَانِسًا
+second: كَغِزْلَانِ رَمْلٍ فِي مَحَارِيبِ أَقْيَالِ
+vocabulary:
+- term: أَوَانِسًا
+  text: جمع آنسة، وهي «المرأة التي تأنس بحديثك» [@khizana، ج1 ص65].
+- term: مَحَارِيبِ
+  text: جمع مِحراب، وهو «صدر البيت، وأكرم موضع فيه»، وهو أيضًا الغرفة [@lisan، ج1 ص305].
+- term: أَقْيَالِ
+  text: 'جمع قَيْل، وهو «الملك من ملوك حِمْيَر»، وقيل: هو دون الملك الأعلى [@lisan، ج11 ص575].'
+sources:
+- source: diwan-imru-al-qais
+  loc: ص138
+  url: https://shamela.ws/book/27112/122
+- source: khizana
+  loc: ج1 ص65
+  url: https://shamela.ws/book/12732/63
+- source: lisan
+  loc: ج1 ص305
+  url: https://shamela.ws/book/1687/305
+- source: lisan
+  loc: ج11 ص575
+  url: https://shamela.ws/book/1687/5753
+status: review

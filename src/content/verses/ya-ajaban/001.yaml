@@ -1,0 +1,23 @@
+explained: false
+first: فَيَا عَجَبًا مِنْ عَبْدِ عَمْرٍو وَبَغْيِهِ
+second: لَقَدْ رَامَ ظُلْمِي عَبْدُ عَمْرٍو فَأَنْعَمَا
+vocabulary:
+- term: عَبْدِ عَمْرٍو
+  text: عبد عَمْرو بن بشر بن مرثد، ابن عم طَرَفَة، وكانت أخت طَرَفَة عنده، فشكت إليه «شيئا من أمر زوجها» [@ibn-qutayba، ج1 ص182].
+- term: بَغْيِهِ
+  text: ظلمه وتعدّيه.
+- term: رَامَ
+  text: أراد وطلب.
+- term: أَنْعَمَا
+  text: 'بالغ وزاد؛ «وأنعم فيه: بالغ... وفعل كذا وأنعم أي زاد» [@lisan، ج12 ص586].'
+sources:
+- source: diwan-tarafa
+  loc: ص70
+  url: https://shamela.ws/book/36422/60
+- source: ibn-qutayba
+  loc: ج1 ص182
+  url: https://shamela.ws/book/23785/175
+- source: lisan
+  loc: ج12 ص586
+  url: https://shamela.ws/book/1687/6499
+status: review

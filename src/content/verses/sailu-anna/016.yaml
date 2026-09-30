@@ -1,0 +1,24 @@
+explained: false
+first: تَتَّقِي الْأَرْضَ بِرُحٍّ وُقُحٍ
+second: وُرُقٍ يَقْعَرْنَ أَنْبَاكَ الْأَكَمْ
+vocabulary:
+- term: رُحٍّ
+  text: حوافر عريضة، جمع أَرَحّ؛ «الأرحّ الحافر العريض» [@lisan، ج2 ص446].
+- term: يَقْعَرْنَ
+  text: يقلعن من الأصل؛ من «قعرت النخلة إذا قلعتها من أصلها» [@lisan، ج5 ص109].
+- term: أَنْبَاكَ
+  text: جمع نَبَكة، وهي «أكمة محدّدة الرأس» [@lisan، ج10 ص497].
+sources:
+- source: diwan-tarafa
+  loc: ص76
+  url: https://shamela.ws/book/36422/66
+- source: lisan
+  loc: ج2 ص446
+  url: https://shamela.ws/book/1687/1250
+- source: lisan
+  loc: ج5 ص109
+  url: https://shamela.ws/book/1687/2693
+- source: lisan
+  loc: ج10 ص497
+  url: https://shamela.ws/book/1687/5166
+status: review

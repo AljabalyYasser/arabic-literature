@@ -1,0 +1,20 @@
+explained: false
+first: كَأَنَّ عَلَى لَبَّاتِهَا جَمْرَ مُصْطَلٍ
+second: أَصَابَ غَضًى جَزْلًا وَكُفَّ بِأَجْزَالِ
+vocabulary:
+- term: لَبَّاتِهَا
+  text: جمع لَبّة، وهي هنا «موضع القلادة من الصدر» [@khizana، ج1 ص65].
+- term: مُصْطَلٍ
+  text: مستدفئ بالنار.
+- term: غَضًى
+  text: «شجر خشبه من أصلب الخشب، ولهذا يكون في فحمه صلابة» [@khizana، ج1 ص65].
+- term: كُفَّ بِأَجْزَالِ
+  text: أُحيط بحطب غليظ، من «كففتُ الثوب» أي خِطتُ حاشيته [@khizana، ج1 ص65].
+sources:
+- source: diwan-imru-al-qais
+  loc: ص136
+  url: https://shamela.ws/book/27112/120
+- source: khizana
+  loc: ج1 ص65
+  url: https://shamela.ws/book/12732/63
+status: review

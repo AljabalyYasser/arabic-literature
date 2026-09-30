@@ -6,12 +6,13 @@ import StatusBadge from '../../../components/StatusBadge.astro';
 import VerseLines from '../../../components/VerseLines.astro';
 import VerseAnalysis from '../../../components/VerseAnalysis.astro';
 import Pager from '../../../components/Pager.astro';
-import { must, plain, stripCites, url, verseOrder, versesOf } from '../../../lib/content';
+import { explainedOf, must, plain, stripCites, url, verseOrder } from '../../../lib/content';
 
 export async function getStaticPaths() {
   const paths = [];
   for (const text of await getCollection('texts')) {
-    const verses = await versesOf(text.id);
+    // لكل بيت مشروح صفحة، والبيت غير المشروح موضعه في نصه.
+    const verses = await explainedOf(text.id);
     verses.forEach((verse, i) => {
       paths.push({ params: { id: text.id, n: String(verseOrder(verse.id)) }, props: { text, verse, prev: verses[i - 1], next: verses[i + 1] } });
     });

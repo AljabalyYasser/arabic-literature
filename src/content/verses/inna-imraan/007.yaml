@@ -1,0 +1,18 @@
+explained: false
+first: أَبْلِغْ قَتَادَةَ غَيْرَ سَائِلِهِ
+second: مِنْهُ الثَّوَابَ وَعَاجِلَ الشُّكْمِ
+vocabulary:
+- term: قَتَادَةَ
+  text: قتادة بن مسلمة الحنفي في قول محقق الديوان، وقد أعطى قوم طَرَفَة في سنة شدة [@diwan-tarafa، ص78، الحاشية].
+- term: الثَّوَابَ
+  text: الجزاء.
+- term: الشُّكْمِ
+  text: '«الشكم، بالضم: العطاء، وقيل: الجزاء» [@lisan، ج12 ص323].'
+sources:
+- source: diwan-tarafa
+  loc: ص78
+  url: https://shamela.ws/book/36422/68
+- source: lisan
+  loc: ج12 ص323
+  url: https://shamela.ws/book/1687/6236
+status: review

@@ -136,6 +136,8 @@ const texts = defineCollection({
     form: z.enum(['amudi', 'tafeela', 'prose', 'muwashshah']).default('amudi'),
     // درجة القراءة: عميقة، أو موجهة، أو حرة. تُذكر حين يُقرأ النص كاملًا.
     reading: z.enum(['deep', 'guided', 'free']).optional(),
+    // أبيات من النص لا نعرضها عمدًا، ويُذكر سبب ذلك في متن النص، كأبيات معلقة امرئ القيس الصريحة.
+    omit: z.array(z.number().int()).default([]),
     attribution: z.object({
       grade: z.enum(['thabit', 'rajih', 'mukhtalaf', 'mansub']),
       note: z.string(),
@@ -154,31 +156,43 @@ const texts = defineCollection({
 });
 
 // كل بيت ملف مستقل داخل مجلد نصه: verses/<معرّف النص>/<رقم البيت>.yaml
-// وكل بيت يُشرح في الموقع يُشرح كاملًا: المعنى والمفردات، ثم النحو والصرف والبلاغة والوزن.
+// البيت المشروح يُشرح كاملًا: المعنى والمفردات، ثم النحو والصرف والبلاغة والوزن.
+// وفي القراءة الموجهة والحرة يُعرض النص كاملًا، فالبيت غير المشروح (explained: false)
+// فيه نصه ومفرداته الضرورية ومصدره فقط. والمشروح منه في الموجهة هو البيت المفصلي.
 const verses = defineCollection({
   loader: glob({ base: './src/content/verses', pattern: '*/*.yaml' }),
   schema: z.object({
+    explained: z.boolean().default(true),
     first: z.string(),
     second: z.string().optional(),
-    meaning: z.string(),
-    vocabulary: z.array(z.object({ term: z.string(), text: z.string() })).min(1, 'البيت يحتاج إلى مفرداته'),
-    syntax: z.array(z.string()).min(1, 'البيت يحتاج إلى النحو والتركيب'),
-    morphology: z.array(z.string()).min(1, 'البيت يحتاج إلى الصرف والاشتقاق'),
+    meaning: z.string().optional(),
+    vocabulary: z.array(z.object({ term: z.string(), text: z.string() })).default([]),
+    syntax: z.array(z.string()).default([]),
+    morphology: z.array(z.string()).default([]),
     rhetoric: z.object({
       thesis: z.string(),
       devices: z.array(card).min(1, 'البلاغة تحتاج إلى وجه واحد على الأقل'),
       connection: z.string().optional(),
-    }),
+    }).optional(),
     prosody: z.object({
       meter: z.string(),
       rhyme: z.string(),
       scansion: z.string(),
       note: z.string().optional(),
-    }),
+    }).optional(),
     context: z.string().optional(),
     variants: z.array(z.object({ reading: z.string(), status: z.string(), note: z.string() })).default([]),
     sources: z.array(citation).min(1, 'البيت يحتاج إلى مصدر'),
     status,
+  }).superRefine((v, ctx) => {
+    if (!v.explained) return;
+    const need = (ok: boolean, path: string, message: string) => { if (!ok) ctx.addIssue({ code: 'custom', path: [path], message }); };
+    need(!!v.meaning, 'meaning', 'البيت المشروح يحتاج إلى معناه');
+    need(v.vocabulary.length > 0, 'vocabulary', 'البيت المشروح يحتاج إلى مفرداته');
+    need(v.syntax.length > 0, 'syntax', 'البيت المشروح يحتاج إلى النحو والتركيب');
+    need(v.morphology.length > 0, 'morphology', 'البيت المشروح يحتاج إلى الصرف والاشتقاق');
+    need(!!v.rhetoric, 'rhetoric', 'البيت المشروح يحتاج إلى البلاغة');
+    need(!!v.prosody, 'prosody', 'البيت المشروح يحتاج إلى الوزن والقافية');
   }),
 });
 

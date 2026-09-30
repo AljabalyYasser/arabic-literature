@@ -1,0 +1,23 @@
+explained: false
+first: فَأَقْسَمْتُ عِنْدَ النُّصْبِ إِنِّي لَهَالِكٌ
+second: بِمُلْتَفَّةٍ لَيْسَتْ بِغَبْطٍ وَلَا خَفْضِ
+vocabulary:
+- term: النُّصْبِ
+  text: «ما نُصب فعُبد من دون الله تعالى» [@lisan، ج1 ص759].
+- term: مُلْتَفَّةٍ
+  text: أرض ملتفة الشجر، يعني البحرين في قول محقق الديوان [@diwan-tarafa، ص53، الحاشية].
+- term: غَبْطٍ
+  text: 'غِبطة، أي حال يُغبط صاحبها؛ «والغبطة: المسرة» [@lisan، ج7 ص359].'
+- term: خَفْضِ
+  text: لين العيش ودعته.
+sources:
+- source: diwan-tarafa
+  loc: ص53
+  url: https://shamela.ws/book/36422/45
+- source: lisan
+  loc: ج1 ص759
+  url: https://shamela.ws/book/1687/759
+- source: lisan
+  loc: ج7 ص359
+  url: https://shamela.ws/book/1687/3742
+status: review

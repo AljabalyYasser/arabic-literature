@@ -1,0 +1,26 @@
+explained: false
+first: وَأُجِرُّ ذَا الْكِفْلِ الْقَنَاةَ عَلَى
+second: أَنْسَائِهِ فَيَظَلُّ يَسْتَدْمِي
+vocabulary:
+- term: أُجِرُّ
+  text: أطعنه وأترك الرمح فيه يجرّه؛ «أجررته الرمح إذا طعنته به فمشى وهو يجره» [@lisan، ج4 ص127].
+- term: الْكِفْلِ
+  text: '«الكفل من الرجال: الذي يكون في مؤخر الحرب إنما همته في التأخر والفرار»، وقيل: «الذي لا يثبت على ظهور الخيل» [@lisan، ج11 ص589].'
+- term: أَنْسَائِهِ
+  text: جمع نَسا، وهو «عرق من الورك إلى الكعب» [@lisan، ج15 ص321].
+- term: يَسْتَدْمِي
+  text: يسيل دمه.
+sources:
+- source: diwan-tarafa
+  loc: ص78
+  url: https://shamela.ws/book/36422/68
+- source: lisan
+  loc: ج4 ص127
+  url: https://shamela.ws/book/1687/2087
+- source: lisan
+  loc: ج11 ص589
+  url: https://shamela.ws/book/1687/5767
+- source: lisan
+  loc: ج15 ص321
+  url: https://shamela.ws/book/1687/7930
+status: review

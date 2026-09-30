@@ -1,0 +1,26 @@
+explained: false
+first: وَعَذَارِيكُمْ مُقَلِّصَةٌ
+second: فِي ذَعَاعِ النَّخْلِ تَجْتَرِمُهْ
+vocabulary:
+- term: عَذَارِيكُمْ
+  text: فتياتكم الأبكار.
+- term: مُقَلِّصَةٌ
+  text: 'مشمّرة ثيابها؛ «وتقلّص هو: تشمّر» [@lisan، ج7 ص80].'
+- term: ذَعَاعِ النَّخْلِ
+  text: «ما تفرّق من النخل» [@lisan، ج8 ص98].
+- term: تَجْتَرِمُهْ
+  text: 'تقطع ثمره؛ «وجرم النخل والتمر ... واجترمه: صرمه» [@lisan، ج12 ص90].'
+sources:
+- source: diwan-tarafa
+  loc: ص72
+  url: https://shamela.ws/book/36422/62
+- source: lisan
+  loc: ج7 ص80
+  url: https://shamela.ws/book/1687/3463
+- source: lisan
+  loc: ج8 ص98
+  url: https://shamela.ws/book/1687/3946
+- source: lisan
+  loc: ج12 ص90
+  url: https://shamela.ws/book/1687/6006
+status: review

@@ -1,0 +1,21 @@
+explained: false
+first: كَامِلٍ يَحْمِلُ آلَاءَ الْفَتَى
+second: نَبَهٍ سَيِّدِ سَادَاتٍ خِضَمّ
+vocabulary:
+- term: آلَاءَ
+  text: النِّعَم، والمراد خصال الفتى الكريمة.
+- term: نَبَهٍ
+  text: شريف مشهور؛ «ورجل نَبَه ونَبيه إذا كان معروفًا شريفًا» [@lisan، ج13 ص547].
+- term: خِضَمّ
+  text: «السيد الحمول الجواد المِعطاء الكثير المعروف والعطية» [@lisan، ج12 ص183].
+sources:
+- source: diwan-tarafa
+  loc: ص75
+  url: https://shamela.ws/book/36422/65
+- source: lisan
+  loc: ج13 ص547
+  url: https://shamela.ws/book/1687/7108
+- source: lisan
+  loc: ج12 ص183
+  url: https://shamela.ws/book/1687/6099
+status: review

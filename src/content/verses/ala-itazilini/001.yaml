@@ -1,0 +1,21 @@
+explained: false
+first: أَلَا اعْتَزِلِينِي الْيَوْمَ يَا خَوْلَ أَوْ غُضِّي
+second: فَقَدْ نَزَلَتْ حَدْبَاءُ مُحْكَمَةُ الْعَضِّ
+vocabulary:
+- term: يَا خَوْلَ
+  text: يا خَوْلة.
+- term: غُضِّي
+  text: كُفّي واخفضي صوتك؛ «وكل شيء كففته فقد غضضته» [@lisan، ج7 ص197].
+- term: حَدْبَاءُ مُحْكَمَةُ الْعَضِّ
+  text: 'داهية شديدة لا تُفلت ما عضّته. يقال: «سنة حدباء: شديدة، شبهت بالدابة الحدباء» [@lisan، ج1 ص301].'
+sources:
+- source: diwan-tarafa
+  loc: ص53
+  url: https://shamela.ws/book/36422/45
+- source: lisan
+  loc: ج7 ص197
+  url: https://shamela.ws/book/1687/3580
+- source: lisan
+  loc: ج1 ص301
+  url: https://shamela.ws/book/1687/301
+status: review

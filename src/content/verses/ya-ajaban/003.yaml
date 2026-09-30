@@ -1,0 +1,20 @@
+explained: false
+first: يَظَلُّ نِسَاءُ الْحَيِّ يَعْكُفْنَ حَوْلَهُ
+second: يَقُلْنَ عَسِيبٌ مِنْ سَرَارَةِ مَلْهَمَا
+vocabulary:
+- term: يَعْكُفْنَ
+  text: يُقمن حوله ويلازمنه.
+- term: عَسِيبٌ
+  text: جريدة من النخل مستقيمة.
+- term: سَرَارَةِ
+  text: '«سرارة الوادي: أفضل موضع فيه» [@ibn-qutayba، ج1 ص182، حاشية المحقق].'
+- term: مَلْهَمَا
+  text: «قرية باليمامة موصوفة بكثرة النخل» [@ibn-qutayba، ج1 ص182، حاشية المحقق].
+sources:
+- source: diwan-tarafa
+  loc: ص70
+  url: https://shamela.ws/book/36422/60
+- source: ibn-qutayba
+  loc: ج1 ص182
+  url: https://shamela.ws/book/23785/175
+status: review

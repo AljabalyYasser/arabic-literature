@@ -1,0 +1,21 @@
+explained: false
+first: وَيَشْرَبُ حَتَّى يَغْمُرَ الْمَحْضُ قَلْبَهُ
+second: وَإِنْ أُعْطَهُ أَتْرُكْ لِقَلْبِيَ مَجْثَمَا
+vocabulary:
+- term: يَغْمُرَ
+  text: يغطي.
+- term: الْمَحْضُ
+  text: اللبن الخالص «لم يخالطه ماء» [@lisan، ج7 ص227].
+- term: مَجْثَمَا
+  text: موضعًا يستقر فيه، من «جثم... لزم مكانه فلم يبرح» [@lisan، ج12 ص82]؛ أي لا أملأ جوفي كما يملؤه.
+sources:
+- source: diwan-tarafa
+  loc: ص70
+  url: https://shamela.ws/book/36422/60
+- source: lisan
+  loc: ج7 ص227
+  url: https://shamela.ws/book/1687/3610
+- source: lisan
+  loc: ج12 ص82
+  url: https://shamela.ws/book/1687/5998
+status: review

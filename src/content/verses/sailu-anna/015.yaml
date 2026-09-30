@@ -1,0 +1,21 @@
+explained: false
+first: أَدَّتِ الصَّنْعَةُ فِي أَمْتُنِهَا
+second: فَهْيَ مِنْ تَحْتُ مُشِيحَاتُ الْحُزُمْ
+vocabulary:
+- term: الصَّنْعَةُ
+  text: حسن القيام على الخيل؛ من «صنع فرسه إذا قام بعلفه وتسمينه» [@lisan، ج8 ص210].
+- term: أَمْتُنِهَا
+  text: ظهورها، جمع مَتْن.
+- term: مُشِيحَاتُ الْحُزُمْ
+  text: 'مرتفعة مواضع الأحزمة لضمورها؛ قال ابن الأعرابي في البيت: «يقول: جدّ ارتفاعها في الحزم» [@lisan، ج2 ص501].'
+sources:
+- source: diwan-tarafa
+  loc: ص76
+  url: https://shamela.ws/book/36422/66
+- source: lisan
+  loc: ج8 ص210
+  url: https://shamela.ws/book/1687/4058
+- source: lisan
+  loc: ج2 ص501
+  url: https://shamela.ws/book/1687/1305
+status: review

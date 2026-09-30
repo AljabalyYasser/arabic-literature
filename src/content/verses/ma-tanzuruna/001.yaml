@@ -1,0 +1,23 @@
+explained: false
+first: مَا تَنْظُرُونَ بِحَقِّ وَرْدَةَ فِيكُمُ
+second: صَغُرَ الْبَنُونَ وَرَهْطُ وَرْدَةَ غُيَّبُ
+vocabulary:
+- term: تَنْظُرُونَ
+  text: تنتظرون.
+- term: وَرْدَةَ
+  text: 'أم الشاعر. قال ابن قُتَيْبة إنه قالها لأخواله «وقد ظلموها حقها» [@ibn-qutayba، ج1 ص185]، وفي موضع آخر: لأعمامه حين أبوا أن يقسموا مال أبيه [@ibn-qutayba، ج1 ص184].'
+- term: رَهْطُ
+  text: قومها الأدنون.
+- term: غُيَّبُ
+  text: غائبون.
+sources:
+- source: diwan-tarafa
+  loc: ص12
+  url: https://shamela.ws/book/36422/9
+- source: ibn-qutayba
+  loc: ج1 ص185
+  url: https://shamela.ws/book/23785/178
+- source: ibn-qutayba
+  loc: ج1 ص184
+  url: https://shamela.ws/book/23785/177
+status: review

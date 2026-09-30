@@ -1,0 +1,29 @@
+explained: false
+first: تَمِيلُ عَلَى الْعَبْدِيِّ فِي جَوِّ دَارِهِ
+second: وَعَوْفَ بْنَ سَعْدٍ تَخْتَرِمْهُ عَنِ الْمَحْضِ
+vocabulary:
+- term: الْعَبْدِيِّ
+  text: المنسوب إلى عبد القيس. وكان عامل عَمْرو بن هند على البحرين وهجر «فيما يزعمون رَبِيعة بن الحارِث العبدي، وهو الذي كتب إليه في شأن طَرَفَة والمتلمس» [@ibn-al-anbari، ص123]. وعند محقق الديوان أنه عبد عَمْرو بن بشر [@diwan-tarafa، ص54، الحاشية].
+- term: جَوِّ دَارِهِ
+  text: 'داخلها؛ «وجوّ كل شيء: بطنه وداخله» [@lisan، ج14 ص157].'
+- term: تَخْتَرِمْهُ
+  text: تستأصله؛ «اخترمهم الدهر... أي اقتطعهم واستأصلهم» [@lisan، ج12 ص172].
+- term: الْمَحْضِ
+  text: اللبن الخالص «لم يخالطه ماء» [@lisan، ج7 ص227]. وفسّره محقق الديوان بصدق الودّ [@diwan-tarafa، ص54، الحاشية].
+sources:
+- source: diwan-tarafa
+  loc: ص54
+  url: https://shamela.ws/book/36422/46
+- source: ibn-al-anbari
+  loc: ص123
+  url: https://shamela.ws/book/124335/121
+- source: lisan
+  loc: ج14 ص157
+  url: https://shamela.ws/book/1687/7281
+- source: lisan
+  loc: ج12 ص172
+  url: https://shamela.ws/book/1687/6088
+- source: lisan
+  loc: ج7 ص227
+  url: https://shamela.ws/book/1687/3610
+status: review

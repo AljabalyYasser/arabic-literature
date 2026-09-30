@@ -1,0 +1,21 @@
+explained: false
+first: وَتَرَى الشَّجْرَاءَ فِي رَيِّقِهَا
+second: كَرُءُوسٍ قُطِعَتْ فِيهَا الْخُمُرْ
+vocabulary:
+- term: الشَّجْرَاءَ
+  text: '«الشجر، وقيل: اسم لجماعة الشجر» [@lisan، ج4 ص395].'
+- term: رَيِّقِهَا
+  text: 'أول مطرها؛ «وريّق كل شيء أفضله وأوّله، تقول: ريّق الشباب وريّق المطر» [@lisan، ج10 ص136].'
+- term: الْخُمُرْ
+  text: جمع خِمار، وهو ما تغطي به المرأة رأسها.
+sources:
+- source: ibn-sallam
+  loc: ج1 ص95
+  url: https://shamela.ws/book/6738/94
+- source: lisan
+  loc: ج4 ص395
+  url: https://shamela.ws/book/1687/2355
+- source: lisan
+  loc: ج10 ص136
+  url: https://shamela.ws/book/1687/4806
+status: review

@@ -1,0 +1,16 @@
+explained: false
+first: وَلَيْسَ بِذِي رُمْحٍ فَيَطْعَنَنِي بِهِ
+second: وَلَيْسَ بِذِي سَيْفٍ وَلَيْسَ بِنَبَّالِ
+vocabulary:
+- term: بِذِي رُمْحٍ
+  text: «أي بفارس» [@suyuti-mughni، ج1 ص343].
+- term: نَبَّالِ
+  text: '«الرامي بالنبل»، وقال الرِّياشيّ: النبّال «هو الذي يعمل النبل أو يبيعها، والذي يرمي بها يقال له نابل» [@suyuti-mughni، ج1 ص343].'
+sources:
+- source: diwan-imru-al-qais
+  loc: ص137
+  url: https://shamela.ws/book/27112/121
+- source: suyuti-mughni
+  loc: ج1 ص343
+  url: https://shamela.ws/book/17724/341
+status: review

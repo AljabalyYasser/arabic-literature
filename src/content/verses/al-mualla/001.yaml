@@ -1,0 +1,15 @@
+explained: false
+first: كَأَنِّي إِذْ نَزَلْتُ عَلَى الْمُعَلَّى
+second: نَزَلْتُ عَلَى الْبَوَاذِخِ مِنْ شَمَامِ
+vocabulary:
+- term: الْمُعَلَّى
+  text: رجل من بني تيم أجار الشاعر من المنذر بن ماء السماء، بحسب مقدمة القطعة في الديوان.
+- term: الْبَوَاذِخِ
+  text: الجبال العالية، واحدها باذخ.
+- term: شَمَامِ
+  text: جبل.
+sources:
+- source: diwan-imru-al-qais
+  loc: ص153
+  url: https://shamela.ws/book/27112/137
+status: review

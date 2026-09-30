@@ -1,0 +1,23 @@
+explained: false
+first: وَبَيْتِ عَذَارَى يَوْمَ دَجْنٍ وَلَجْتُهُ
+second: يَطُفْنَ بِجَمَّاءِ الْمَرَافِقِ مِكْسَالِ
+vocabulary:
+- term: عَذَارَى
+  text: جمع عذراء، وهي البكر.
+- term: دَجْنٍ
+  text: «ظلّ الغيم في اليوم المطير» [@lisan، ج13 ص147].
+- term: جَمَّاءِ الْمَرَافِقِ
+  text: 'كثيرة اللحم على مرفقيها، فلا تظهر عظامهما؛ «ومَرَةٌ جَمّاءُ العظام: كثيرة اللحم عليها» [@lisan، ج12 ص108].'
+- term: مِكْسَالِ
+  text: فاترة ثقيلة الحركة، لا تبرح مجلسها ترفًا ونعمة.
+sources:
+- source: diwan-imru-al-qais
+  loc: ص138
+  url: https://shamela.ws/book/27112/122
+- source: lisan
+  loc: ج13 ص147
+  url: https://shamela.ws/book/1687/6708
+- source: lisan
+  loc: ج12 ص108
+  url: https://shamela.ws/book/1687/6024
+status: review

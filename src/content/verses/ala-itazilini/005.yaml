@@ -1,0 +1,24 @@
+explained: false
+first: خُذُوا حِذْرَكُمْ أَهْلَ الْمُشَقَّرِ وَالصَّفَا
+second: عَبِيدَ اسْبَذٍ وَالْقَرْضُ يُجْزَى مِنَ الْقَرْضِ
+vocabulary:
+- term: الْمُشَقَّرِ وَالصَّفَا
+  text: 'المشقَّر: «حصن بالبحرين قديم» [@lisan، ج4 ص422]، والصفا موضع عنده، يقال: «صفا المشقّر» [@lisan، ج10 ص179].'
+- term: عَبِيدَ اسْبَذٍ
+  text: أتباع الأسبذيين، وهم في قول ابن الأثير «ملوك عمان بالبحرين»، و«الكلمة فارسية معناها عبدة الفرس» [@lisan، ج3 ص477].
+- term: الْقَرْضُ
+  text: ما قدّمه المرء من إحسان أو إساءة؛ أي كل صنيع يُجزى بمثله.
+sources:
+- source: diwan-tarafa
+  loc: ص53
+  url: https://shamela.ws/book/36422/45
+- source: lisan
+  loc: ج4 ص422
+  url: https://shamela.ws/book/1687/2382
+- source: lisan
+  loc: ج10 ص179
+  url: https://shamela.ws/book/1687/4849
+- source: lisan
+  loc: ج3 ص477
+  url: https://shamela.ws/book/1687/1919
+status: review

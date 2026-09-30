@@ -1,0 +1,23 @@
+explained: false
+first: إِذْ هِيَ أَقْسَاطٌ كَرِجْلِ الدَّبَى
+second: أَوْ كَقَطَا كَاظِمَةَ النَّاهِلِ
+vocabulary:
+- term: أَقْسَاطٌ
+  text: 'قِطَع، كما فسّره شارح القاموس فيما نقله محقّقو اللسان؛ وأورده ابن منظور في القَسَط، وهو يُبس في الرِّجلين، وقال: «يصف الخيل» [@lisan، ج7 ص378–379].'
+- term: رِجْلِ الدَّبَى
+  text: القطعة العظيمة من صغار الجراد.
+- term: كَاظِمَةَ
+  text: موضع، وهو «جوّ على سِيف البحر من البصرة على مرحلتين» [@lisan، ج12 ص521].
+- term: النَّاهِلِ
+  text: الوارد الماء.
+sources:
+- source: asmaiyyat
+  loc: ص130
+  url: https://shamela.ws/book/6905/116
+- source: lisan
+  loc: ج7 ص378–379
+  url: https://shamela.ws/book/1687/3761
+- source: lisan
+  loc: ج12 ص521
+  url: https://shamela.ws/book/1687/6434
+status: review

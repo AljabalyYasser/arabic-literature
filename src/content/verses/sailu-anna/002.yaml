@@ -1,0 +1,20 @@
+explained: false
+first: يَوْمَ تُبْدِي الْبِيضُ عَنْ أَسْوُقِهَا
+second: وَتَلُفُّ الْخَيْلُ أَعْرَاجَ النَّعَمْ
+vocabulary:
+- term: الْبِيضُ
+  text: النساء الحرائر.
+- term: أَسْوُقِهَا
+  text: جمع ساق.
+- term: تَلُفُّ
+  text: تجمع وتضمّ.
+- term: أَعْرَاجَ
+  text: 'جمع عَرْج، وهو «الكثير من الإبل» عند أبي زيد، وقيل: من خمسمائة إلى ألف [@lisan، ج2 ص322].'
+sources:
+- source: diwan-tarafa
+  loc: ص75
+  url: https://shamela.ws/book/36422/65
+- source: lisan
+  loc: ج2 ص322
+  url: https://shamela.ws/book/1687/1126
+status: review

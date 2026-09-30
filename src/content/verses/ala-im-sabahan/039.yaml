@@ -1,0 +1,23 @@
+explained: false
+first: وَلَمْ أَشْهَدِ الْخَيْلَ الْمُغِيرَةَ بِالضُّحَى
+second: عَلَى هَيْكَلٍ عَبْلِ الْجُزَارَةِ جَوَّالِ
+vocabulary:
+- term: الْمُغِيرَةَ
+  text: التي تُغير على العدو.
+- term: هَيْكَلٍ
+  text: '«الفرس الطويل علوًّا وعدوًا»، وقيل: الضخم [@lisan، ج11 ص700].'
+- term: عَبْلِ الْجُزَارَةِ
+  text: غليظ القوائم؛ «إذا قالوا في الفرس ضخم الجزارة فإنما يريدون غلظ يديه ورجليه وكثرة عصبهما» [@lisan، ج4 ص135].
+- term: جَوَّالِ
+  text: كثير الجولان.
+sources:
+- source: diwan-imru-al-qais
+  loc: ص138
+  url: https://shamela.ws/book/27112/122
+- source: lisan
+  loc: ج11 ص700
+  url: https://shamela.ws/book/1687/5877
+- source: lisan
+  loc: ج4 ص135
+  url: https://shamela.ws/book/1687/2095
+status: review

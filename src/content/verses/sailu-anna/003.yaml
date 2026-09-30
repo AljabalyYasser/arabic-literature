@@ -1,0 +1,21 @@
+explained: false
+first: أَجْدَرُ النَّاسِ بِرَأْسٍ صِلْدِمٍ
+second: حَازِمِ الْأَمْرِ شُجَاعٍ فِي الْوَغَمْ
+vocabulary:
+- term: رَأْسٍ
+  text: سيّد يرأس القوم.
+- term: صِلْدِمٍ
+  text: صُلب شديد، وأصله في الفرس «الشديد الحافر» [@lisan، ج12 ص342].
+- term: الْوَغَمْ
+  text: '«الذَّحْل والتِّرة»، أي الثأر، وقيل: الحقد الثابت في الصدور [@lisan، ج12 ص641].'
+sources:
+- source: diwan-tarafa
+  loc: ص75
+  url: https://shamela.ws/book/36422/65
+- source: lisan
+  loc: ج12 ص342
+  url: https://shamela.ws/book/1687/6255
+- source: lisan
+  loc: ج12 ص641
+  url: https://shamela.ws/book/1687/6554
+status: review

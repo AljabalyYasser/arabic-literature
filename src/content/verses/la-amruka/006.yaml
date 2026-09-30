@@ -1,0 +1,20 @@
+explained: false
+first: هُمَا نَعْجَتَانِ مِنْ نِعَاجِ تَبَالَةٍ
+second: لَدَى جُؤْذَرَيْنِ أَوْ كَبَعْضِ دُمَى هَكِرْ
+vocabulary:
+- term: نَعْجَتَانِ
+  text: بقرتان من بقر الوحش.
+- term: تَبَالَةٍ
+  text: موضع.
+- term: جُؤْذَرَيْنِ
+  text: ولدَي بقرة الوحش.
+- term: دُمَى هَكِرْ
+  text: 'الدُّمى: الصور والتماثيل، وهَكِر: «موضع أو دير»، قال الأزهري: «أُراه روميًّا» [@lisan، ج5 ص266].'
+sources:
+- source: diwan-imru-al-qais
+  loc: ص99
+  url: https://shamela.ws/book/27112/88
+- source: lisan
+  loc: ج5 ص266
+  url: https://shamela.ws/book/1687/2850
+status: review

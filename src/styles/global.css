@@ -427,6 +427,29 @@ main { padding-block: 2rem 4rem; }
 .verse-main { display: block; min-width: 0; }
 .verse-src { display: block; font-family: var(--font-ui); font-size: 0.78rem; color: var(--ink-3); margin-bottom: 0.35rem; }
 
+/* البيت غير المشروح في القراءة الموجهة والحرة: رقمه بلا دائرة، ويُفتح على مفرداته. */
+button.verse-head { background: none; border: 0; font: inherit; text-align: start; }
+div.verse-head { cursor: default; }
+.verse.is-plain .verse-head { padding-block: 0.75rem; }
+.verse.is-plain .verse-no { border-color: transparent; color: var(--ink-3); }
+.verse.is-plain .verse-head:hover .verse-no { background: none; color: var(--accent); }
+.verse.is-plain div.verse-head:hover .verse-no { color: var(--ink-3); }
+.verse.is-plain.is-open .verse-no { background: none; color: var(--accent); border-color: transparent; }
+.vocab.gloss { padding-inline-start: 0.25rem; }
+.vocab.gloss dt { font-size: 1.05rem; }
+
+/* عنوان المقطع داخل النص الكامل */
+.reader-section {
+  font-family: var(--font-ui);
+  font-size: 0.95rem;
+  font-weight: 600;
+  margin: 1.5rem 0 0;
+  padding: 0.6rem 0.25rem 0.5rem;
+  border-bottom: 1px solid var(--line);
+}
+.reader-section span { color: var(--accent); font-weight: 500; font-size: 0.8rem; margin-inline-end: 0.4rem; }
+.reader > .reader-section:first-child { margin-top: 0; }
+
 .verse-body { padding: 0 0.25rem 1.5rem; }
 @media (min-width: 700px) { .verse-body { padding-inline: 3rem 1rem; } }
 

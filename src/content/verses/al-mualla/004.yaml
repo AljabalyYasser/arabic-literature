@@ -1,0 +1,16 @@
+explained: false
+first: أَقَرَّ حَشَا امْرِئِ الْقَيْسِ بْنِ حُجْرٍ
+second: بَنُو تَيْمٍ مَصَابِيحُ الظَّلَامِ
+vocabulary:
+- term: أَقَرَّ حَشَا
+  text: أسكن نفسه وطمأنها.
+- term: بَنُو تَيْمٍ
+  text: «بنو تيم بن ثعلبة من طيئ» [@lisan، ج12 ص75].
+sources:
+- source: diwan-imru-al-qais
+  loc: ص154
+  url: https://shamela.ws/book/27112/138
+- source: lisan
+  loc: ج12 ص75
+  url: https://shamela.ws/book/1687/5991
+status: review

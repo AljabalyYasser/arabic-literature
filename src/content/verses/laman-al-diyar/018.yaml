@@ -1,0 +1,21 @@
+explained: false
+first: وَأَنَا الَّذِي عَرَفَتْ مَعَدٌّ فَضْلَهُ
+second: وَنُشِدْتُ عَنْ حُجْرِ ابْنِ أُمِّ قَطَامِ
+vocabulary:
+- term: مَعَدٌّ
+  text: قبائل العرب من ولد معدّ بن عدنان.
+- term: نُشِدْتُ
+  text: سُئل عنّي وطُلبت، من «نشدتُ الضالّة إذا ناديتَ وسألتَ عنها» [@lisan، ج3 ص421].
+- term: حُجْرِ ابْنِ أُمِّ قَطَامِ
+  text: أبو الشاعر، قتله بنو أَسَد «وهو ابن أم قطام» [@khizana، ج2 ص213].
+sources:
+- source: diwan-imru-al-qais
+  loc: ص152
+  url: https://shamela.ws/book/27112/136
+- source: lisan
+  loc: ج3 ص421
+  url: https://shamela.ws/book/1687/1863
+- source: khizana
+  loc: ج2 ص213
+  url: https://shamela.ws/book/12732/682
+status: review

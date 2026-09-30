@@ -1,0 +1,23 @@
+explained: false
+first: كَأَنِّي بِفَتْخَاءِ الْجَنَاحَيْنِ لَقْوَةٍ
+second: صَيُودٍ مِنَ الْعِقْبَانِ طَأْطَأْتُ شِمْلَالِي
+vocabulary:
+- term: فَتْخَاءِ الْجَنَاحَيْنِ
+  text: «لينة الجناحين» [@suyuti-mughni، ج1 ص343].
+- term: لَقْوَةٍ
+  text: العُقاب [@suyuti-mughni، ج1 ص343].
+- term: طَأْطَأْتُ
+  text: «حرّكت واحتثثت» [@lisan، ج11 ص371].
+- term: شِمْلَالِي
+  text: 'يدي الشمال عند أبي عَمْرو، «والشِّمال والشِّمْلال واحد» [@lisan، ج11 ص371]؛ وقيل: فرسي السريعة، من «ناقة شملال» أي سريعة [@suyuti-mughni، ج1 ص343].'
+sources:
+- source: diwan-imru-al-qais
+  loc: ص139
+  url: https://shamela.ws/book/27112/123
+- source: suyuti-mughni
+  loc: ج1 ص343
+  url: https://shamela.ws/book/17724/341
+- source: lisan
+  loc: ج11 ص371
+  url: https://shamela.ws/book/1687/5551
+status: review

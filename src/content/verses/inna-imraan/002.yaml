@@ -1,0 +1,21 @@
+explained: false
+first: وَأَنَا امْرُؤٌ أَكْوِي مِنَ الْقَصَرِ
+second: الْبَادِي وَأَغْشَى الدَّهْمَ بِالدَّهْمِ
+vocabulary:
+- term: أَكْوِي
+  text: أداوي بالكيّ.
+- term: الْقَصَرِ
+  text: '«داء يأخذ في القَصَرة»، والقَصَرة: «أصل العنق» [@lisan، ج5 ص101–102].'
+- term: أَغْشَى الدَّهْمَ بِالدَّهْمِ
+  text: 'ألقى الجمع الكثير بجمع كثير؛ «والدهم: العدد الكثير»، «وجيش دهم أي كثير» [@lisan، ج12 ص211].'
+sources:
+- source: diwan-tarafa
+  loc: ص78
+  url: https://shamela.ws/book/36422/68
+- source: lisan
+  loc: ج5 ص101–102
+  url: https://shamela.ws/book/1687/2685
+- source: lisan
+  loc: ج12 ص211
+  url: https://shamela.ws/book/1687/6126
+status: review

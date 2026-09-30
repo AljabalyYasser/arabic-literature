@@ -1,0 +1,23 @@
+explained: false
+first: وَأَرْكَبْ فِي اللُّهَامِ الْمَجْرِ حَتَّى
+second: أَنَالَ مَآكِلَ الْقُحَمِ الرِّغَابِ
+vocabulary:
+- term: اللُّهَامِ
+  text: الجيش الكثير، كأنه يلتهم ما يلقاه.
+- term: الْمَجْرِ
+  text: الكثير العدد.
+- term: مَآكِلَ الْقُحَمِ
+  text: 'المآكل هنا الغنائم [@deif، ج1 ص259]. والقُحَم: «الأمور العظام التي لا يركبها كل أحد» [@lisan، ج12 ص463].'
+- term: الرِّغَابِ
+  text: الواسعة الكثيرة.
+sources:
+- source: diwan-imru-al-qais
+  loc: ص79
+  url: https://shamela.ws/book/27112/69
+- source: lisan
+  loc: ج12 ص463
+  url: https://shamela.ws/book/1687/6376
+- source: deif
+  loc: ج1 ص259
+  url: https://shamela.ws/book/11996/255
+status: review

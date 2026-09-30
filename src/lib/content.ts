@@ -33,6 +33,8 @@ export const url = {
   group: (era: string, id: string) => `/people/groups/${era}/${id}/`,
   text: (id: string) => `/texts/${id}/`,
   verse: (id: string) => `/texts/${verseTextId(id)}/${verseOrder(id)}/`,
+  // موضع البيت: صفحته إن كان مشروحًا، وإلا موضعه من نصه.
+  verseOf: (v: Verse) => (v.data.explained ? url.verse(v.id) : `${url.text(verseTextId(v.id))}#b${verseOrder(v.id)}`),
   story: (id: string) => `/stories/${id}/`,
   concept: (id: string) => `/concepts/${id}/`,
   mahfuz: (id: string) => `/mahfuzat/#${id}`,
@@ -50,16 +52,32 @@ export async function versesOf(textId: string) {
   return all.sort((a, b) => verseOrder(a.id) - verseOrder(b.id));
 }
 
+// الأبيات المشروحة شرحًا كاملًا، ولكل منها صفحة.
+export async function explainedOf(textId: string) {
+  return (await versesOf(textId)).filter((v) => v.data.explained);
+}
+
 export async function allTexts() {
   return getCollection('texts');
 }
 
-// يتحقق من أن كل بيت ينتمي إلى نص موجود.
+// يتحقق من أن كل بيت ينتمي إلى نص موجود، وأن النص المقروء بدرجة من درجات القراءة معروض كاملًا:
+// لا يسقط منه بيت إلا ما في omit، ولا يُعرض بيت غير مشروح في نص لم تُحدد درجة قراءته.
 export async function checkVerseParents() {
-  const texts = new Set((await allTexts()).map((t) => t.id));
+  const texts = new Map((await allTexts()).map((t) => [t.id, t]));
   for (const v of await getCollection('verses')) {
-    if (!texts.has(verseTextId(v.id))) throw new Error(`بيت بلا نص: ${v.id}`);
+    const t = texts.get(verseTextId(v.id));
+    if (!t) throw new Error(`بيت بلا نص: ${v.id}`);
     if (!Number.isInteger(verseOrder(v.id))) throw new Error(`رقم بيت غير صالح: ${v.id}`);
+    if (!v.data.explained && !t.data.reading) throw new Error(`بيت غير مشروح في نص بلا درجة قراءة: ${v.id}`);
+  }
+  for (const t of texts.values()) {
+    if (!t.data.reading) continue;
+    const have = new Set((await versesOf(t.id)).map((v) => verseOrder(v.id)));
+    const max = Math.max(0, ...have);
+    const missing = [];
+    for (let n = 1; n <= max; n++) if (!have.has(n) && !t.data.omit.includes(n)) missing.push(n);
+    if (missing.length) throw new Error(`النص «${t.data.title}» (${t.id}) له درجة قراءة، وتنقصه الأبيات: ${missing.join('، ')}`);
   }
 }
 
@@ -80,6 +98,7 @@ export function ranges(numbers: number[]) {
 
 export type Chapter = CollectionEntry<'chapters'>;
 export type Person = CollectionEntry<'people'>;
+export type Verse = CollectionEntry<'verses'>;
 // الاسم بعد مضاف: «مسار امرئ القَيْس».
 export const nameGen = (p: Person) => p.data.nameGen ?? p.data.name;
 export type Slot = { id: string; name: string; entry?: Person };

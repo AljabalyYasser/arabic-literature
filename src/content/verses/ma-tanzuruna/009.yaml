@@ -1,0 +1,19 @@
+explained: false
+first: أَدُّوا الْحُقُوقَ تَفِرْ لَكُمْ أَعْرَاضُكُمْ
+second: إِنَّ الْكَرِيمَ إِذَا يُحَرَّبُ يَغْضَبُ
+vocabulary:
+- term: تَفِرْ
+  text: 'تسلم وتكرم؛ «ووفَر عرضه... وفورًا: كرم ولم يُبتذل» [@lisan، ج5 ص288].'
+- term: يُحَرَّبُ
+  text: 'يُهاج ويُحرَّش؛ «وحرّبه أغضبه... والتحريب: التحريش» [@lisan، ج1 ص304].'
+sources:
+- source: diwan-tarafa
+  loc: ص12
+  url: https://shamela.ws/book/36422/9
+- source: lisan
+  loc: ج5 ص288
+  url: https://shamela.ws/book/1687/2872
+- source: lisan
+  loc: ج1 ص304
+  url: https://shamela.ws/book/1687/304
+status: review

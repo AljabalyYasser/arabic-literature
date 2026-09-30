@@ -1,0 +1,18 @@
+explained: false
+first: تَلَعَّبَ بَاعِثٌ بِذِمَّةِ خَالِدٍ
+second: وَأَوْدَى عِصَامٌ فِي الْخُطُوبِ الْأَوَائِلِ
+vocabulary:
+- term: بَاعِثٌ
+  text: باعث بن حُوَيص الطائي، الذي أغار على إبل الشاعر [@khizana، ج11 ص178].
+- term: خَالِدٍ
+  text: خالد بن سَدوس النبهاني الطائي، الذي نزل عليه الشاعر [@khizana، ج11 ص178].
+- term: أَوْدَى
+  text: هلك.
+sources:
+- source: diwan-imru-al-qais
+  loc: ص140
+  url: https://shamela.ws/book/27112/124
+- source: khizana
+  loc: ج11 ص178
+  url: https://shamela.ws/book/12732/5369
+status: review

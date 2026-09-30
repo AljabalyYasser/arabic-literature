@@ -1,0 +1,23 @@
+explained: false
+first: كَأَنَّ دِثَارًا حَلَّقَتْ بِلَبُونِهِ
+second: عُقَابُ تَنُوفَى لَا عُقَابُ الْقَوَاعِلِ
+vocabulary:
+- term: دِثَارًا
+  text: «راعي امرئ القَيْس» [@khizana، ج11 ص180].
+- term: لَبُونِهِ
+  text: إبله ذوات اللبن.
+- term: تَنُوفَى
+  text: '«جبل مشرف»، وقال الأَصْمَعِيّ: «موضع ببلاد طيئ» [@khizana، ج11 ص180].'
+- term: الْقَوَاعِلِ
+  text: «جبال صغار» [@khizana، ج11 ص181].
+sources:
+- source: diwan-imru-al-qais
+  loc: ص140
+  url: https://shamela.ws/book/27112/124
+- source: khizana
+  loc: ج11 ص180
+  url: https://shamela.ws/book/12732/5371
+- source: khizana
+  loc: ج11 ص181
+  url: https://shamela.ws/book/12732/5372
+status: review

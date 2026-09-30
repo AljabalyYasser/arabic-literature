@@ -1,0 +1,23 @@
+explained: false
+first: فَغَادَرْتُهَا مِنْ بَعْدِ بُدْنٍ رَذِيَّةً
+second: تُغَالِي عَلَى عُوجٍ لَهَا كَدِنَاتِ
+vocabulary:
+- term: بُدْنٍ
+  text: سِمَن وضخامة.
+- term: رَذِيَّةً
+  text: «الناقة المهزولة من السير» [@lisan، ج14 ص320].
+- term: تُغَالِي
+  text: «تسير مسرعة» [@lisan، ج13 ص356].
+- term: كَدِنَاتِ
+  text: «الصِّلاب» [@lisan، ج13 ص356].
+sources:
+- source: diwan-imru-al-qais
+  loc: ص86
+  url: https://shamela.ws/book/27112/76
+- source: lisan
+  loc: ج14 ص320
+  url: https://shamela.ws/book/1687/7444
+- source: lisan
+  loc: ج13 ص356
+  url: https://shamela.ws/book/1687/6917
+status: review

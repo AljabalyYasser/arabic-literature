@@ -1,0 +1,23 @@
+explained: false
+first: نَطْعُنُهُمْ سُلْكَى وَمَخْلُوجَةً
+second: لَفْتَكَ لَأْمَيْنِ عَلَى نَابِلِ
+vocabulary:
+- term: سُلْكَى
+  text: «الطعنة المستقيمة» [@lisan، ج2 ص259].
+- term: مَخْلُوجَةً
+  text: الطعنة «على اليمين وعلى اليسار» [@lisan، ج2 ص259].
+- term: لَفْتَكَ لَأْمَيْنِ
+  text: 'ليُّك سهمين وردُّك إياهما، والسهم اللَّأْم: «عليه ريش لُؤام»، أي ريش يلائم بعضه بعضًا [@lisan، ج12 ص531].'
+- term: نَابِلِ
+  text: صاحب النَّبل الرامي بها.
+sources:
+- source: asmaiyyat
+  loc: ص129
+  url: https://shamela.ws/book/6905/115
+- source: lisan
+  loc: ج2 ص259
+  url: https://shamela.ws/book/1687/1063
+- source: lisan
+  loc: ج12 ص531
+  url: https://shamela.ws/book/1687/6444
+status: review

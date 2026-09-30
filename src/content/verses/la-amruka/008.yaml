@@ -1,0 +1,21 @@
+explained: false
+first: كَأَنَّ التِّجَارَ أَصْعَدُوا بِسَبِيئَةٍ
+second: مِنَ الْخُصِّ حَتَّى أَنْزَلُوهَا عَلَى يُسُرْ
+vocabulary:
+- term: سَبِيئَةٍ
+  text: خمر مشتراة، من سَبَأَ الخمرَ إذا شراها [@lisan، ج1 ص93].
+- term: الْخُصِّ
+  text: «حانوت الخمّار» [@lisan، ج7 ص26].
+- term: يُسُرْ
+  text: موضع.
+sources:
+- source: diwan-imru-al-qais
+  loc: ص99
+  url: https://shamela.ws/book/27112/88
+- source: lisan
+  loc: ج1 ص93
+  url: https://shamela.ws/book/1687/93
+- source: lisan
+  loc: ج7 ص26
+  url: https://shamela.ws/book/1687/3409
+status: review

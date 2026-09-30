@@ -1,0 +1,20 @@
+explained: false
+first: مُكَلَّلَةً حَمْرَاءَ ذَاتَ أَسِرَّةٍ
+second: لَهَا حُبُكٌ كَأَنَّهَا مِنْ وَصَائِلِ
+vocabulary:
+- term: مُكَلَّلَةً
+  text: مغطّاة بالصخور، يعني الجبال [@khizana، ج11 ص190].
+- term: أَسِرَّةٍ
+  text: طرائق وخطوط [@khizana، ج11 ص190].
+- term: حُبُكٌ
+  text: طرائق [@khizana، ج11 ص190].
+- term: وَصَائِلِ
+  text: «ثياب حمر مخطّطة»، واحدتها وصيلة [@khizana، ج11 ص190].
+sources:
+- source: diwan-imru-al-qais
+  loc: ص140
+  url: https://shamela.ws/book/27112/124
+- source: khizana
+  loc: ج11 ص190
+  url: https://shamela.ws/book/12732/5381
+status: review

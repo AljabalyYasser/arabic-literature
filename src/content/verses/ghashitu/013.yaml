@@ -1,0 +1,23 @@
+explained: false
+first: وَعَنْسٍ كَأَلْوَاحِ الْإِرَانِ نَسَأْتُهَا
+second: عَلَى لَاحِبٍ كَالْبُرْدِ ذِي الْحِبَرَاتِ
+vocabulary:
+- term: عَنْسٍ
+  text: ناقة صلبة قوية.
+- term: الْإِرَانِ
+  text: '«تابوت الموتى»، وقال أبو عَمْرو: «تابوت خشب» [@lisan، ج13 ص15].'
+- term: نَسَأْتُهَا
+  text: زجرتها وسقتها [@lisan، ج1 ص169].
+- term: لَاحِبٍ
+  text: طريق واضح.
+sources:
+- source: diwan-imru-al-qais
+  loc: ص86
+  url: https://shamela.ws/book/27112/76
+- source: lisan
+  loc: ج13 ص15
+  url: https://shamela.ws/book/1687/6578
+- source: lisan
+  loc: ج1 ص169
+  url: https://shamela.ws/book/1687/169
+status: review

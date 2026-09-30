@@ -1,0 +1,23 @@
+explained: false
+first: بِحُسَامَاتٍ تَرَاهَا رُسَّبًا
+second: فِي الضَّرِيبَاتِ مُتِرَّاتِ الْعُصُمْ
+vocabulary:
+- term: حُسَامَاتٍ
+  text: سيوف قاطعة.
+- term: رُسَّبًا
+  text: 'تغيب فيما تضربه؛ «وسيف رَسَب ورَسُوب: ماضٍ يغيب في الضريبة» [@lisan، ج1 ص418].'
+- term: الضَّرِيبَاتِ
+  text: ما يُضرب بالسيف.
+- term: مُتِرَّاتِ
+  text: قاطعات؛ «ضرب فلان يد فلان بالسيف فأترّها ... أي قطعها» [@lisan، ج4 ص90].
+sources:
+- source: diwan-tarafa
+  loc: ص76
+  url: https://shamela.ws/book/36422/66
+- source: lisan
+  loc: ج1 ص418
+  url: https://shamela.ws/book/1687/418
+- source: lisan
+  loc: ج4 ص90
+  url: https://shamela.ws/book/1687/2050
+status: review

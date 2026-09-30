@@ -1,0 +1,16 @@
+explained: false
+first: وَكَأَنَّ شَارِبَهَا أَصَابَ لِسَانَهُ
+second: مُومٌ يُخَالِطُ جِسْمَهُ بِسَقَامِ
+vocabulary:
+- term: مُومٌ
+  text: '«الحُمّى مع البِرْسام، وقيل: المُوم البِرسام» [@lisan، ج12 ص566].'
+- term: سَقَامِ
+  text: مرض.
+sources:
+- source: diwan-imru-al-qais
+  loc: ص152
+  url: https://shamela.ws/book/27112/136
+- source: lisan
+  loc: ج12 ص566
+  url: https://shamela.ws/book/1687/6479
+status: review

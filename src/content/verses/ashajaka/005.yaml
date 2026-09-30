@@ -1,0 +1,23 @@
+explained: false
+first: فَالْكَثِيبُ مُعْشِبٌ أُنُفٌ
+second: فَتَنَاهِيهِ فَمُرْتَكَمُهْ
+vocabulary:
+- term: الْكَثِيبُ
+  text: التلّ من الرمل.
+- term: أُنُفٌ
+  text: 'لم يُرْعَ بعد؛ «وروضة أُنُف، بالضم: لم يرعها أحد» [@lisan، ج9 ص14].'
+- term: تَنَاهِيهِ
+  text: أطرافه حيث ينتهي.
+- term: مُرْتَكَمُهْ
+  text: حيث يتراكم رمله؛ «وارتكم الشيء وتراكم إذا اجتمع» [@lisan، ج12 ص251].
+sources:
+- source: diwan-tarafa
+  loc: ص71
+  url: https://shamela.ws/book/36422/61
+- source: lisan
+  loc: ج9 ص14
+  url: https://shamela.ws/book/1687/4321
+- source: lisan
+  loc: ج12 ص251
+  url: https://shamela.ws/book/1687/6166
+status: review

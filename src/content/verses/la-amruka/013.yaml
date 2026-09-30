@@ -1,0 +1,24 @@
+explained: false
+first: لَعَمْرُكَ مَا سَعْدٌ بِخُلَّةِ آثِمٍ
+second: وَلَا نَأْنَإٍ يَوْمَ الْحِفَاظِ وَلَا حَصِرْ
+vocabulary:
+- term: سَعْدٌ
+  text: سعد بن الضِّباب الإيادي، سيّد إياد، لجأ إليه الشاعر «فأجاره» [@ibn-qutayba، ج1 ص118].
+- term: بِخُلَّةِ آثِمٍ
+  text: أي «ما سعد مُخالٌّ رجلًا آثمًا»، ويجوز أن تكون الخُلّة الصداقة [@lisan، ج11 ص218].
+- term: نَأْنَإٍ
+  text: «عاجز جبان ضعيف» [@lisan، ج1 ص161].
+sources:
+- source: diwan-imru-al-qais
+  loc: ص99
+  url: https://shamela.ws/book/27112/88
+- source: ibn-qutayba
+  loc: ج1 ص118
+  url: https://shamela.ws/book/23785/111
+- source: lisan
+  loc: ج11 ص218
+  url: https://shamela.ws/book/1687/5398
+- source: lisan
+  loc: ج1 ص161
+  url: https://shamela.ws/book/1687/161
+status: review

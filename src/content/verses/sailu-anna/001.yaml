@@ -1,0 +1,21 @@
+explained: false
+first: سَائِلُوا عَنَّا الَّذِي يَعْرِفُنَا
+second: بِقُوَانَا يَوْمَ تَحْلَاقِ اللِّمَمْ
+vocabulary:
+- term: بِقُوَانَا
+  text: بقوّتنا وبأسنا.
+- term: يَوْمَ تَحْلَاقِ اللِّمَمْ
+  text: يوم من أيام حرب البسوس بين بَكْر وتَغْلِب، سُمّي بذلك لأن الحلق «كان شعارهم يومئذ» [@lisan، ج10 ص66]، ووقع بموضع يقال له قِضَة [@lisan، ج15 ص189].
+- term: اللِّمَمْ
+  text: جمع لِمّة، وهي شعر الرأس المجاوز شحمة الأذن.
+sources:
+- source: diwan-tarafa
+  loc: ص75
+  url: https://shamela.ws/book/36422/65
+- source: lisan
+  loc: ج10 ص66
+  url: https://shamela.ws/book/1687/4736
+- source: lisan
+  loc: ج15 ص189
+  url: https://shamela.ws/book/1687/7800
+status: review

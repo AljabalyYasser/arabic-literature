@@ -1,0 +1,18 @@
+explained: false
+first: فَعَادَى عِدَاءً بَيْنَ ثَوْرٍ وَنَعْجَةٍ
+second: وَكَانَ عِدَاءُ الْوَحْشِ مِنِّي عَلَى بَالِ
+vocabulary:
+- term: عَادَى عِدَاءً
+  text: 'والى بين صيدين؛ والعِداء: «الموالاة والمتابعة بين الاثنين يُصرع أحدهما على إثر الآخر في طَلَق واحد» [@lisan، ج15 ص40].'
+- term: نَعْجَةٍ
+  text: أنثى بقر الوحش.
+- term: عَلَى بَالِ
+  text: في خاطري، أهتمّ به.
+sources:
+- source: diwan-imru-al-qais
+  loc: ص139
+  url: https://shamela.ws/book/27112/123
+- source: lisan
+  loc: ج15 ص40
+  url: https://shamela.ws/book/1687/7652
+status: review

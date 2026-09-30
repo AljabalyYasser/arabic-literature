@@ -1,0 +1,20 @@
+explained: false
+first: كَأَنَّ الصُّوَارَ إِذْ تَجَهَّدَ عَدْوُهُ
+second: عَلَى جَمَزَى خَيْلٌ تَجُولُ بِأَجْلَالِ
+vocabulary:
+- term: الصُّوَارَ
+  text: القطيع من بقر الوحش.
+- term: تَجَهَّدَ عَدْوُهُ
+  text: اشتدّ عدوه وبلغ جهده.
+- term: جَمَزَى
+  text: عدو سريع وثّاب؛ «الناقة تعدو الجَمَزَى، وكذلك الفرس» [@lisan، ج5 ص323].
+- term: أَجْلَالِ
+  text: جمع جُلّ، وهو ما تُلبَسه الدابة لتُصان به.
+sources:
+- source: diwan-imru-al-qais
+  loc: ص139
+  url: https://shamela.ws/book/27112/123
+- source: lisan
+  loc: ج5 ص323
+  url: https://shamela.ws/book/1687/2907
+status: review

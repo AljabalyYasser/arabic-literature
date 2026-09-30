@@ -1,0 +1,20 @@
+explained: false
+first: أَشَجَاكَ الرَّبْعُ أَمْ قِدَمُهْ
+second: أَمْ رَمَادٌ دَارِسٌ حُمَمُهْ
+vocabulary:
+- term: أَشَجَاكَ
+  text: أأحزنك؟ من «شجاه» إذا أحزنه.
+- term: الرَّبْعُ
+  text: المنزل ودار الإقامة.
+- term: دَارِسٌ
+  text: عافٍ ذهبت معالمه.
+- term: حُمَمُهْ
+  text: 'الحُمَم: «الرماد والفحم وكل ما احترق من النار» [@lisan، ج12 ص157].'
+sources:
+- source: diwan-tarafa
+  loc: ص71
+  url: https://shamela.ws/book/36422/61
+- source: lisan
+  loc: ج12 ص157
+  url: https://shamela.ws/book/1687/6073
+status: review

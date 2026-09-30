@@ -1,0 +1,15 @@
+explained: false
+first: وَالصِّدْقُ يَأْلَفُهُ الْكَرِيمُ الْمُرْتَجَى
+second: وَالْكِذْبُ يَأْلَفُهُ الدَّنِيءُ الْأَخْيَبُ
+vocabulary:
+- term: الْمُرْتَجَى
+  text: الذي يُرجى خيره.
+- term: الدَّنِيءُ
+  text: الخسيس.
+- term: الْأَخْيَبُ
+  text: الأكثر خيبة وحرمانًا.
+sources:
+- source: diwan-tarafa
+  loc: ص12
+  url: https://shamela.ws/book/36422/9
+status: review

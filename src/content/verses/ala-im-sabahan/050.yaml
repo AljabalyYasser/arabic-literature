@@ -1,0 +1,26 @@
+explained: false
+first: تَخَطَّفُ خِزَّانَ الشَّرَبَّةِ بِالضُّحَى
+second: وَقَدْ جَحَرَتْ مِنْهَا ثَعَالِبُ أَوْرَالِ
+vocabulary:
+- term: خِزَّانَ
+  text: 'جمع خُزَز، وهو «ولد الأرنب، وقيل: هو الذكر من الأرانب» [@lisan، ج5 ص345].'
+- term: الشَّرَبَّةِ
+  text: موضع [@lisan، ج1 ص493].
+- term: جَحَرَتْ
+  text: «توارت» [@suyuti-mughni، ج1 ص343]، أي دخلت جحورها.
+- term: أَوْرَالِ
+  text: «موضع» [@suyuti-mughni، ج1 ص343].
+sources:
+- source: diwan-imru-al-qais
+  loc: ص139
+  url: https://shamela.ws/book/27112/123
+- source: lisan
+  loc: ج5 ص345
+  url: https://shamela.ws/book/1687/2929
+- source: lisan
+  loc: ج1 ص493
+  url: https://shamela.ws/book/1687/493
+- source: suyuti-mughni
+  loc: ج1 ص343
+  url: https://shamela.ws/book/17724/341
+status: review

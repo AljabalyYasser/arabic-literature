@@ -1,0 +1,20 @@
+explained: false
+first: تَحَامَاهُ أَطْرَافُ الرِّمَاحِ تَحَامِيًا
+second: وَجَادَ عَلَيْهِ كُلُّ أَسْحَمَ هَطَّالِ
+vocabulary:
+- term: تَحَامَاهُ
+  text: تجنّبه.
+- term: جَادَ
+  text: أمطر مطرًا غزيرًا.
+- term: أَسْحَمَ
+  text: الأسود من السحاب، «وهو أغزر ما يكون من الغيم» [@suyuti-mughni، ج1 ص342].
+- term: هَطَّالِ
+  text: «سيّال دائم» [@suyuti-mughni، ج1 ص342].
+sources:
+- source: diwan-imru-al-qais
+  loc: ص139
+  url: https://shamela.ws/book/27112/123
+- source: suyuti-mughni
+  loc: ج1 ص342
+  url: https://shamela.ws/book/17724/340
+status: review

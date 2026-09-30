@@ -1,0 +1,26 @@
+explained: false
+first: بِعِجْلِزَةٍ قَدْ أَتْرَزَ الْجَرْيُ لَحْمَهَا
+second: كُمَيْتٍ كَأَنَّهَا هِرَاوَةُ مِنْوَالِ
+vocabulary:
+- term: عِجْلِزَةٍ
+  text: «الفرس الشديدة الخلق» [@lisan، ج5 ص373].
+- term: أَتْرَزَ
+  text: 'صلّب وأيبس؛ «وأترز الجري لحم الدابة: صلّبه» [@lisan، ج5 ص314].'
+- term: كُمَيْتٍ
+  text: فرس لونها بين السواد والحمرة.
+- term: هِرَاوَةُ مِنْوَالِ
+  text: 'الهراوة: العصا؛ والمِنْوال كالنَّوْل، وهو «خشبة الحائك التي يلفّ عليها الثوب» [@lisan، ج11 ص684].'
+sources:
+- source: diwan-imru-al-qais
+  loc: ص139
+  url: https://shamela.ws/book/27112/123
+- source: lisan
+  loc: ج5 ص373
+  url: https://shamela.ws/book/1687/2957
+- source: lisan
+  loc: ج5 ص314
+  url: https://shamela.ws/book/1687/2898
+- source: lisan
+  loc: ج11 ص684
+  url: https://shamela.ws/book/1687/5862
+status: review

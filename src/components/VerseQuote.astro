@@ -11,6 +11,6 @@ const author = text.data.author ? await must(text.data.author) : undefined;
 <figure class="quote-verse">
   <VerseLines first={verse.data.first} second={verse.data.second} />
   <figcaption>
-    {author && <>{author.data.name}، </>}<a href={url.verse(verse.id)}>«{text.data.title}»، البيت {verseOrder(verse.id)}</a>
+    {author && <>{author.data.name}، </>}<a href={url.verseOf(verse)}>«{text.data.title}»، البيت {verseOrder(verse.id)}</a>
   </figcaption>
 </figure>

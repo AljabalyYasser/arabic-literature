@@ -1,0 +1,23 @@
+explained: false
+first: لَطِيفَةُ طَيِّ الْكَشْحِ غَيْرُ مُفَاضَةٍ
+second: إِذَا انْفَتَلَتْ مُرْتَجَّةً غَيْرَ مِتْفَالِ
+vocabulary:
+- term: طَيِّ الْكَشْحِ
+  text: 'الكشح: «ما بين الخاصرة إلى الضلع الخلف»، وطيّه: جَدْله، أي هي ضامرة الخصر [@khizana، ج1 ص67].'
+- term: مُفَاضَةٍ
+  text: «الضخمة البطن» [@khizana، ج1 ص67].
+- term: مُرْتَجَّةً
+  text: يرتجّ كفلها ويضطرب لعظمه إذا انصرفت [@khizana، ج1 ص67].
+- term: مِتْفَالِ
+  text: التي لا تتطيّب فتتغيّر ريحها [@lisan، ج11 ص77].
+sources:
+- source: diwan-imru-al-qais
+  loc: ص136
+  url: https://shamela.ws/book/27112/120
+- source: khizana
+  loc: ج1 ص67
+  url: https://shamela.ws/book/12732/65
+- source: lisan
+  loc: ج11 ص77
+  url: https://shamela.ws/book/1687/5259
+status: review

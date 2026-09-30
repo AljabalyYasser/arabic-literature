@@ -1,0 +1,20 @@
+explained: false
+first: أَخَذَ الْأَزْلَامَ مُقْتَسِمًا
+second: فَأَتَى أَغْوَاهُمَا زُلَمُهْ
+vocabulary:
+- term: الْأَزْلَامَ
+  text: 'القداح التي كانوا يستقسمون بها في الجاهلية: إن خرج قدح الأمر مضى الرجل لما عزم عليه، «وإن خرج قدح النهي قعد عما أراده» [@lisan، ج12 ص270].'
+- term: مُقْتَسِمًا
+  text: مستقسمًا بها، أي يطلب بها معرفة ما قُسم له.
+- term: أَغْوَاهُمَا
+  text: أشدّهما إضلالًا.
+- term: زُلَمُهْ
+  text: قِدْحه، واحد الأزلام.
+sources:
+- source: diwan-tarafa
+  loc: ص72
+  url: https://shamela.ws/book/36422/62
+- source: lisan
+  loc: ج12 ص270
+  url: https://shamela.ws/book/1687/6183
+status: review

@@ -1,0 +1,21 @@
+explained: false
+first: يُشَارِكُنَا لَنَا رَخِلَانِ فِيهَا
+second: وَتَعْلُوهَا الْكِبَاشُ فَمَا تَنُورُ
+vocabulary:
+- term: رَخِلَانِ
+  text: 'مثنى رَخِل، وهي «الأنثى من أولاد الضأن، والذكر حَمَل» [@lisan، ج11 ص280]. والمعنى: «يشاركنا في لبنها رخلان لنا» [@khizana، ج2 ص417].'
+- term: الْكِبَاشُ
+  text: فُحُول الضأن.
+- term: تَنُورُ
+  text: تنفر؛ يصف «أنها قد ألفت الذكور فما تنفر منها» [@khizana، ج2 ص417].
+sources:
+- source: diwan-tarafa
+  loc: ص38
+  url: https://shamela.ws/book/36422/32
+- source: lisan
+  loc: ج11 ص280
+  url: https://shamela.ws/book/1687/5460
+- source: khizana
+  loc: ج2 ص417
+  url: https://shamela.ws/book/12732/885
+status: review

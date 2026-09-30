@@ -1,0 +1,26 @@
+explained: false
+first: تَخْدِي عَلَى الْعِلَّاتِ سَامٍ رَأْسُهَا
+second: رَوْعَاءَ مَنْسِمُهَا رَثِيمٌ دَامِ
+vocabulary:
+- term: تَخْدِي
+  text: تسرع وتزجّ بقوائمها [@lisan، ج14 ص224].
+- term: عَلَى الْعِلَّاتِ
+  text: على كل حال.
+- term: رَوْعَاءَ
+  text: «حديدة الفؤاد» [@lisan، ج8 ص137].
+- term: مَنْسِمُهَا رَثِيمٌ
+  text: طرف خفّها قد «أدمته الحجارة» [@lisan، ج12 ص226].
+sources:
+- source: diwan-imru-al-qais
+  loc: ص152
+  url: https://shamela.ws/book/27112/136
+- source: lisan
+  loc: ج14 ص224
+  url: https://shamela.ws/book/1687/7348
+- source: lisan
+  loc: ج8 ص137
+  url: https://shamela.ws/book/1687/3985
+- source: lisan
+  loc: ج12 ص226
+  url: https://shamela.ws/book/1687/6141
+status: review

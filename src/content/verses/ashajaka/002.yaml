@@ -1,0 +1,18 @@
+explained: false
+first: كَسُطُورِ الرَّقِّ رَقَّشَهُ
+second: بِالضُّحَى مُرَقِّشٌ يَشِمُهْ
+vocabulary:
+- term: الرَّقِّ
+  text: جلد رقيق يُكتب فيه.
+- term: رَقَّشَهُ
+  text: 'زيّنه بالخط والنقط؛ و«الرقش والترقيش: الكتابة والتنقيط» [@lisan، ج6 ص305].'
+- term: يَشِمُهْ
+  text: ينقشه، من الوَشْم.
+sources:
+- source: diwan-tarafa
+  loc: ص71
+  url: https://shamela.ws/book/36422/61
+- source: lisan
+  loc: ج6 ص305
+  url: https://shamela.ws/book/1687/3317
+status: review

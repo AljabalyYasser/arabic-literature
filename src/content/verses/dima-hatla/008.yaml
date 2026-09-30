@@ -1,0 +1,26 @@
+explained: false
+first: قَدْ غَدَا يَحْمِلُنِي فِي أَنْفِهِ
+second: لَاحِقُ الْأَيْطَلِ مَحْبُوكٌ مُمَرْ
+vocabulary:
+- term: فِي أَنْفِهِ
+  text: '«في أنف المطر أي أوله» [@deif، ج1 ص257]؛ «وأنف المطر: أوّل ما أنبت» [@lisan، ج9 ص13].'
+- term: لَاحِقُ الْأَيْطَلِ
+  text: ضامر الخاصرة؛ «فرس لاحق الأيطل من خيل لُحْق الأياطل إذا ضُمّرت» [@lisan، ج10 ص328].
+- term: مَحْبُوكٌ
+  text: «موثق الخلق» [@deif، ج1 ص257].
+- term: مُمَرْ
+  text: محكم الخلق، «وأصله من الحبل الممرّ، وهو المحكم الفتل» [@deif، ج1 ص257].
+sources:
+- source: ibn-sallam
+  loc: ج1 ص96
+  url: https://shamela.ws/book/6738/95
+- source: deif
+  loc: ج1 ص257
+  url: https://shamela.ws/book/11996/253
+- source: lisan
+  loc: ج9 ص13
+  url: https://shamela.ws/book/1687/4320
+- source: lisan
+  loc: ج10 ص328
+  url: https://shamela.ws/book/1687/4997
+status: review

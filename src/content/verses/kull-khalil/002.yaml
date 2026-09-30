@@ -1,0 +1,19 @@
+explained: false
+first: كُلُّهُمُ أَرْوَغُ مِنْ ثَعْلَبٍ
+second: مَا أَشْبَهَ اللَّيْلَةَ بِالْبَارِحَهْ
+vocabulary:
+- term: أَرْوَغُ
+  text: 'أكثر روغانًا ومراوغة. ومن أمثالهم: «أروغ من ثعالة، ومن ذنب ثعلب» [@maydani، ج1 ص317].'
+- term: الْبَارِحَهْ
+  text: الليلة الماضية. و«ما أشبه الليلة بالبارحة» مثل «يضرب في تساوي الناس في الشر والخديعة» [@maydani، ج2 ص275].
+sources:
+- source: ibn-qutayba
+  loc: ج1 ص190
+  url: https://shamela.ws/book/23785/183
+- source: maydani
+  loc: ج1 ص317
+  url: https://shamela.ws/book/12929/1756
+- source: maydani
+  loc: ج2 ص275
+  url: https://shamela.ws/book/12929/3923
+status: review

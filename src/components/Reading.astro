@@ -1,15 +1,17 @@
 ---
-// قراءة موجّهة لنص داخل المحطة: <Reading text="qifa-nabki" from={1} to={8} />
-import { must, url } from '../lib/content';
+// قراءة لنص داخل الفصل: <Reading text="qifa-nabki" from={1} to={8} />
+import { must, url, verseOrder, versesOf } from '../lib/content';
 import VerseReader from './VerseReader.astro';
 
 interface Props { text: string; from?: number; to?: number }
-const { text, from, to } = Astro.props;
+const { text, from = 1, to = Infinity } = Astro.props;
 const entry = await must({ collection: 'texts', id: text });
+// في القراءة الموجهة والحرة يُفتح البيت غير المشروح على مفرداته.
+const mixed = (await versesOf(text)).some((v) => !v.data.explained && verseOrder(v.id) >= from && verseOrder(v.id) <= to);
 ---
 <div class="embed reader-block">
   <p class="meta-row">
-    <span>اضغط أي بيت لتفتح شرحه.</span>
+    <span>{mixed ? 'اضغط البيت لتفتح مفرداته، أو شرحه الكامل إن كان حول رقمه دائرة.' : 'اضغط أي بيت لتفتح شرحه.'}</span>
     <a href={url.text(entry.id)}>صفحة القصيدة كاملة</a>
   </p>
   <VerseReader text={text} from={from} to={to} scoped />

@@ -1,0 +1,19 @@
+explained: false
+first: خَيْرُ مَا تَرْعَوْنَ مِنْ شَجَرٍ
+second: يَابِسُ الطَّحْمَاءِ أَوْ سَحَمُهْ
+vocabulary:
+- term: الطَّحْمَاءِ
+  text: «نبتة سُهلية حمضية» [@lisan، ج12 ص360].
+- term: سَحَمُهْ
+  text: 'السَّحَم: نبت؛ قال ابن السكيت: «السحم والصُّفار نبتان» [@lisan، ج12 ص282].'
+sources:
+- source: diwan-tarafa
+  loc: ص72
+  url: https://shamela.ws/book/36422/62
+- source: lisan
+  loc: ج12 ص360
+  url: https://shamela.ws/book/1687/6273
+- source: lisan
+  loc: ج12 ص282
+  url: https://shamela.ws/book/1687/6195
+status: review

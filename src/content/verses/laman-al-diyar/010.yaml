@@ -1,0 +1,26 @@
+explained: false
+first: وَمُجِدَّةٍ نَسَّأْتُهَا فَتَكَمَّشَتْ
+second: رَتْكَ النَّعَامَةِ فِي طَرِيقٍ حَامِ
+vocabulary:
+- term: مُجِدَّةٍ
+  text: ناقة جادّة في السير.
+- term: نَسَّأْتُهَا
+  text: زجرتها وسقتها [@lisan، ج1 ص169].
+- term: فَتَكَمَّشَتْ
+  text: فأسرعت وجدّت [@lisan، ج6 ص343].
+- term: رَتْكَ
+  text: 'الرَّتْك: مقاربة الخطو في سرعة، وهو «مِشية فيها اهتزاز» [@lisan، ج10 ص431].'
+sources:
+- source: diwan-imru-al-qais
+  loc: ص152
+  url: https://shamela.ws/book/27112/136
+- source: lisan
+  loc: ج1 ص169
+  url: https://shamela.ws/book/1687/169
+- source: lisan
+  loc: ج6 ص343
+  url: https://shamela.ws/book/1687/3355
+- source: lisan
+  loc: ج10 ص431
+  url: https://shamela.ws/book/1687/5100
+status: review

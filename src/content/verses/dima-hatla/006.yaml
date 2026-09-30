@@ -1,0 +1,26 @@
+explained: false
+first: رَاحَ تَمْرِيهِ الصَّبَا ثُمَّ انْتَحَى
+second: فِيهِ شُؤْبُوبُ جَنُوبٍ مُنْفَجِرْ
+vocabulary:
+- term: رَاحَ
+  text: «عاد بالمطر في آخر النهار» [@deif، ج1 ص257].
+- term: تَمْرِيهِ
+  text: 'تستدرّ ماءه؛ «والريح تُنتج السحاب: تمريه حتى يخرج قطره» [@lisan، ج2 ص374].'
+- term: الصَّبَا
+  text: ريح تهبّ من مطلع الشمس، والجَنوب ريح تقابل الشمال.
+- term: شُؤْبُوبُ
+  text: «الدفعة من المطر» [@lisan، ج1 ص479].
+sources:
+- source: ibn-sallam
+  loc: ج1 ص96
+  url: https://shamela.ws/book/6738/95
+- source: deif
+  loc: ج1 ص257
+  url: https://shamela.ws/book/11996/253
+- source: lisan
+  loc: ج2 ص374
+  url: https://shamela.ws/book/1687/1178
+- source: lisan
+  loc: ج1 ص479
+  url: https://shamela.ws/book/1687/479
+status: review

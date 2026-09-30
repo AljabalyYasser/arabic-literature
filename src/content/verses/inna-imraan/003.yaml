@@ -1,0 +1,18 @@
+explained: false
+first: وَأُصِيبُ شَاكِلَةَ الرَّمِيَّةِ إِذْ
+second: صَدَّتْ بِصَفْحَتِهَا عَنِ السَّهْمِ
+vocabulary:
+- term: شَاكِلَةَ
+  text: '«والشاكلة: الخاصرة» [@lisan، ج11 ص360].'
+- term: الرَّمِيَّةِ
+  text: الصيد الذي يُرمى.
+- term: صَفْحَتِهَا
+  text: جنبها.
+sources:
+- source: diwan-tarafa
+  loc: ص78
+  url: https://shamela.ws/book/36422/68
+- source: lisan
+  loc: ج11 ص360
+  url: https://shamela.ws/book/1687/5540
+status: review

@@ -1,0 +1,23 @@
+explained: false
+first: وَتَفَرَّعْنَا مِنِ ابْنَيْ وَائِلٍ
+second: هَامَةَ الْعِزِّ وَخُرْطُومَ الْكَرَمْ
+vocabulary:
+- term: تَفَرَّعْنَا
+  text: 'علونا؛ «وتفرّع فلان القوم: علاهم» [@lisan، ج8 ص247].'
+- term: ابْنَيْ وَائِلٍ
+  text: بَكْر وتَغْلِب ابنا وائِل.
+- term: هَامَةَ
+  text: الرأس، وأعلى الشيء.
+- term: خُرْطُومَ
+  text: الأنف [@lisan، ج12 ص173]، والمراد أعلى الكرم وأشرفه.
+sources:
+- source: diwan-tarafa
+  loc: ص76
+  url: https://shamela.ws/book/36422/66
+- source: lisan
+  loc: ج8 ص247
+  url: https://shamela.ws/book/1687/4095
+- source: lisan
+  loc: ج12 ص173
+  url: https://shamela.ws/book/1687/6089
+status: review

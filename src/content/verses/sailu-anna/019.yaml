@@ -1,0 +1,21 @@
+explained: false
+first: قُدُمًا تَنْضُو إِلَى الدَّاعِي إِذَا
+second: خَلَّلَ الدَّاعِي بِدَعْوَى ثُمَّ عَمّ
+vocabulary:
+- term: قُدُمًا
+  text: متقدّمة.
+- term: تَنْضُو
+  text: 'تسبق وتتقدّم؛ «نضا الفرس الخيل نُضيًّا: سبقها وتقدّمها» [@lisan، ج15 ص330].'
+- term: خَلَّلَ
+  text: خصّ بدعوته قومًا؛ «وخلّل، بالتشديد، أي خصّص» [@lisan، ج11 ص216].
+sources:
+- source: diwan-tarafa
+  loc: ص77
+  url: https://shamela.ws/book/36422/67
+- source: lisan
+  loc: ج15 ص330
+  url: https://shamela.ws/book/1687/7939
+- source: lisan
+  loc: ج11 ص216
+  url: https://shamela.ws/book/1687/5396
+status: review

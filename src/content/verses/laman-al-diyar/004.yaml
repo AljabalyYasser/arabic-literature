@@ -1,0 +1,24 @@
+explained: false
+first: عُوجَا عَلَى الطَّلَلِ الْمُحِيلِ لِأَنَّنَا
+second: نَبْكِي الدِّيَارَ كَمَا بَكَى ابْنُ خِذَامِ
+vocabulary:
+- term: عُوجَا
+  text: مِيلا واعطفا راحلتيكما.
+- term: الْمُحِيلِ
+  text: «الذي أتت عليه أحوال وغيّرته» [@ibn-qutayba، ج1 ص129، الحاشية].
+- term: ابْنُ خِذَامِ
+  text: '«رجل جاهلي من الشعراء» [@lisan، ج12 ص169]. وقال ابن سلّام: «رجل من طيئ لم نسمع شعره الذي بكى فيه، ولا شعرًا غير هذا البيت الذي ذكره امرؤ القَيْس» [@ibn-sallam، ج1 ص39].'
+sources:
+- source: diwan-imru-al-qais
+  loc: ص151
+  url: https://shamela.ws/book/27112/135
+- source: ibn-qutayba
+  loc: ج1 ص129
+  url: https://shamela.ws/book/23785/122
+- source: lisan
+  loc: ج12 ص169
+  url: https://shamela.ws/book/1687/6085
+- source: ibn-sallam
+  loc: ج1 ص39
+  url: https://shamela.ws/book/6738/38
+status: review

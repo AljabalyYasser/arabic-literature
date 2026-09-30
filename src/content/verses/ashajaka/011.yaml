@@ -1,0 +1,18 @@
+explained: false
+first: عُجُزٌ شُمْطٌ مَعًا لَكُمُ
+second: تَصْطَلِي نِيرَانَهُ خَدَمُهْ
+vocabulary:
+- term: عُجُزٌ
+  text: جمع عجوز.
+- term: شُمْطٌ
+  text: 'جمع شمطاء، من «الشَّمَط: بياض شعر الرأس يخالط سواده» [@lisan، ج7 ص336].'
+- term: تَصْطَلِي
+  text: تستدفئ.
+sources:
+- source: diwan-tarafa
+  loc: ص72
+  url: https://shamela.ws/book/36422/62
+- source: lisan
+  loc: ج7 ص336
+  url: https://shamela.ws/book/1687/3719
+status: review

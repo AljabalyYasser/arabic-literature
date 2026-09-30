@@ -1,0 +1,16 @@
+explained: false
+first: لَا حِمْيَرِيٌّ وَفَى وَلَا عَدَسٌ
+second: وَلَا اسْتُ عَيْرٍ يَحُكُّهَا الثَّفَرُ
+vocabulary:
+- term: عَيْرٍ
+  text: حمار.
+- term: الثَّفَرُ
+  text: «السير الذي في مؤخّر السرج» [@lisan، ج4 ص105].
+sources:
+- source: diwan-imru-al-qais
+  loc: ص102
+  url: https://shamela.ws/book/27112/91
+- source: lisan
+  loc: ج4 ص105
+  url: https://shamela.ws/book/1687/2065
+status: review

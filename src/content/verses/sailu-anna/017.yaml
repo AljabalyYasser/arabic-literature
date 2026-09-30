@@ -1,0 +1,23 @@
+explained: false
+first: وَتَفَرَّى اللَّحْمُ مِنْ تَعْدَائِهَا
+second: وَالتَّغَالِي فَهْيَ قُبٌّ كَالْعَجَمْ
+vocabulary:
+- term: تَفَرَّى
+  text: انشقّ؛ «أفريت الشيء شققته فانفرى وتفرّى أي انشقّ» [@lisan، ج15 ص153].
+- term: تَعْدَائِهَا
+  text: عَدْوها.
+- term: التَّغَالِي
+  text: 'من «تغالى لحم الدابة» «إذا ارتفع وذهب، وقيل: إذا انحسر عند التضمير» [@lisan، ج15 ص134].'
+- term: قُبٌّ كَالْعَجَمْ
+  text: ضوامر البطون، جمع أقبّ وقبّاء، صلبة كالعَجَم، وهو النوى.
+sources:
+- source: diwan-tarafa
+  loc: ص76
+  url: https://shamela.ws/book/36422/66
+- source: lisan
+  loc: ج15 ص153
+  url: https://shamela.ws/book/1687/7765
+- source: lisan
+  loc: ج15 ص134
+  url: https://shamela.ws/book/1687/7746
+status: review

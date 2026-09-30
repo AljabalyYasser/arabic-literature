@@ -1,0 +1,29 @@
+explained: false
+first: مِنَ الزَّمِرَاتِ أَسْبَلَ قَادِمَاهَا
+second: وَضَرَّتُهَا مُرَكَّنَةٌ دَرُورُ
+vocabulary:
+- term: الزَّمِرَاتِ
+  text: «القليلات الصوف، وخصها لأنها أغزر ألبانًا» [@khizana، ج2 ص416].
+- term: أَسْبَلَ قَادِمَاهَا
+  text: طال خِلْفاها المتقدمان من الضرع. «وإنما يقال قادمان لكل ما كان له آخران، إلا أن طَرَفَة استعاره للشاة» [@lisan، ج12 ص469].
+- term: ضَرَّتُهَا
+  text: «أصل الضرع» [@lisan، ج4 ص487].
+- term: مُرَكَّنَةٌ دَرُورُ
+  text: 'مُرَكَّنة: عظيمة «كأنه ذو الأركان»، وقال أبو عَمْرو: «مجمَّعة» [@lisan، ج13 ص186]. ودَرور: كثيرة الدَّرّ، أي اللبن.'
+sources:
+- source: diwan-tarafa
+  loc: ص38
+  url: https://shamela.ws/book/36422/32
+- source: khizana
+  loc: ج2 ص416
+  url: https://shamela.ws/book/12732/884
+- source: lisan
+  loc: ج12 ص469
+  url: https://shamela.ws/book/1687/6382
+- source: lisan
+  loc: ج4 ص487
+  url: https://shamela.ws/book/1687/2447
+- source: lisan
+  loc: ج13 ص186
+  url: https://shamela.ws/book/1687/6747
+status: review

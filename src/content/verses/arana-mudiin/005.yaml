@@ -1,0 +1,22 @@
+explained: false
+first: إِلَى عِرْقِ الثَّرَى وَشَجَتْ عُرُوقِي
+second: وَهَذَا الْمَوْتُ يَسْلُبُنِي شَبَابِي
+vocabulary:
+- term: عِرْقِ الثَّرَى
+  text: 'أصل الأرض. قيل: يعني إسماعيل بن إبراهيم عليهما السلام [@lisan، ج10 ص243]. ويرى شوقي ضيف أنه يشير به إلى آبائه الذين ماتوا [@deif، ج1 ص259].'
+- term: وَشَجَتْ
+  text: اشتبكت واتصلت [@lisan، ج2 ص398].
+sources:
+- source: diwan-imru-al-qais
+  loc: ص79
+  url: https://shamela.ws/book/27112/69
+- source: lisan
+  loc: ج10 ص243
+  url: https://shamela.ws/book/1687/4912
+- source: lisan
+  loc: ج2 ص398
+  url: https://shamela.ws/book/1687/1202
+- source: deif
+  loc: ج1 ص259
+  url: https://shamela.ws/book/11996/255
+status: review

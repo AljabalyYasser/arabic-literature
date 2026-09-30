@@ -1,0 +1,23 @@
+explained: false
+first: أُنُفٍ كَلَوْنِ دَمِ الْغَزَالِ مُعَتَّقٍ
+second: مِنْ خَمْرِ عَانَةَ أَوْ كُرُومِ شَبَامِ
+vocabulary:
+- term: أُنُفٍ
+  text: «الخمر التي لم يُستخرج من دنّها شيء قبلها» [@lisan، ج9 ص14].
+- term: مُعَتَّقٍ
+  text: قديم طال مكثه في الدنّ.
+- term: عَانَةَ
+  text: «قرية على الفرات فوق هيت» [@lisan، ج12 ص317].
+- term: شَبَامِ
+  text: 'موضع بالشام عند أبي عبيدة، وقيل: جبل باليمن [@lisan، ج12 ص317].'
+sources:
+- source: diwan-imru-al-qais
+  loc: ص152
+  url: https://shamela.ws/book/27112/136
+- source: lisan
+  loc: ج9 ص14
+  url: https://shamela.ws/book/1687/4321
+- source: lisan
+  loc: ج12 ص317
+  url: https://shamela.ws/book/1687/6230
+status: review

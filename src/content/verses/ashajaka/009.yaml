@@ -1,0 +1,18 @@
+explained: false
+first: أَنْتُمُ نَخْلٌ نُطِيفُ بِهِ
+second: فَإِذَا مَا جَزَّ نَصْطَرِمُهْ
+vocabulary:
+- term: نُطِيفُ بِهِ
+  text: نطوف حوله.
+- term: جَزَّ
+  text: 'حان قطع ثمره؛ «وجَزَّ النخلُ وأَجَزَّ: حان أن يُجَزَّ أي يُقطع ثمره» [@lisan، ج5 ص321].'
+- term: نَصْطَرِمُهْ
+  text: نقطع ثمره ونجنيه.
+sources:
+- source: diwan-tarafa
+  loc: ص72
+  url: https://shamela.ws/book/36422/62
+- source: lisan
+  loc: ج5 ص321
+  url: https://shamela.ws/book/1687/2905
+status: review

@@ -1,0 +1,20 @@
+explained: false
+first: تَبِيتُ لَبُونِي بِالْقُرَيَّةِ أُمَّنًا
+second: وَأَسْرَحُهَا غِبًّا بِأَكْنَافِ حَائِلِ
+vocabulary:
+- term: الْقُرَيَّةِ
+  text: موضع [@khizana، ج11 ص189].
+- term: أُمَّنًا
+  text: آمنات، جمع آمنة [@khizana، ج11 ص189].
+- term: غِبًّا
+  text: «يومًا بعد يوم» [@khizana، ج11 ص189].
+- term: حَائِلِ
+  text: جبل.
+sources:
+- source: diwan-imru-al-qais
+  loc: ص140
+  url: https://shamela.ws/book/27112/124
+- source: khizana
+  loc: ج11 ص189
+  url: https://shamela.ws/book/12732/5380
+status: review

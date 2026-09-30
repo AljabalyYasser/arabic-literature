@@ -1,0 +1,20 @@
+explained: false
+first: ذَعَرْتُ بِهَا سِرْبًا نَقِيًّا جُلُودُهُ
+second: وَأَكْرُعُهُ وَشْيُ الْبُرُودِ مِنَ الْخَالِ
+vocabulary:
+- term: ذَعَرْتُ
+  text: أفزعتُ.
+- term: سِرْبًا
+  text: قطيعًا من بقر الوحش.
+- term: أَكْرُعُهُ
+  text: جمع كُراع، وهو مستدقّ الساق.
+- term: الْخَالِ
+  text: «نوع من البرود» [@lisan، ج11 ص226].
+sources:
+- source: diwan-imru-al-qais
+  loc: ص139
+  url: https://shamela.ws/book/27112/123
+- source: lisan
+  loc: ج11 ص226
+  url: https://shamela.ws/book/1687/5406
+status: review

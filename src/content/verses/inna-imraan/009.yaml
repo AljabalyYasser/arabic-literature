@@ -1,0 +1,21 @@
+explained: false
+first: أَلْقَوْا إِلَيْكَ بِكُلِّ أَرْمَلَةٍ
+second: شَعْثَاءَ تَحْمِلُ مِنْقَعَ الْبُرْمِ
+vocabulary:
+- term: أَرْمَلَةٍ
+  text: امرأة محتاجة لا زوج لها.
+- term: شَعْثَاءَ
+  text: متلبّدة الشعر مغبرّة.
+- term: مِنْقَعَ الْبُرْمِ
+  text: «تور صغير أو قديرة صغيرة من حجارة... تكون للصبي يطرحون فيه التمر واللبن يطعمه ويسقاه» [@lisan، ج8 ص362]. والبُرْم جمع بُرْمة، وهي «قدر من حجارة» [@lisan، ج12 ص45].
+sources:
+- source: diwan-tarafa
+  loc: ص79
+  url: https://shamela.ws/book/36422/69
+- source: lisan
+  loc: ج8 ص362
+  url: https://shamela.ws/book/1687/4210
+- source: lisan
+  loc: ج12 ص45
+  url: https://shamela.ws/book/1687/5961
+status: review

@@ -1,0 +1,21 @@
+explained: false
+first: فَقَالَتْ سَبَاكَ اللَّهُ إِنَّكَ فَاضِحِي
+second: أَلَسْتَ تَرَى السُّمَّارَ وَالنَّاسَ أَحْوَالِي
+vocabulary:
+- term: سَبَاكَ اللَّهُ
+  text: '«أبعدك وأذهبك إلى غربة. وقيل: لعنك» [@suyuti-mughni، ج1 ص343].'
+- term: السُّمَّارَ
+  text: الذين يسهرون ليلًا يتحدثون.
+- term: أَحْوَالِي
+  text: حولي؛ جعل «كل جزء من الجِرْم المحيط بها حَوْلًا»، مبالغةً في أنه لا مكان حولها إلا مشغول بالسُّمّار [@lisan، ج11 ص187].
+sources:
+- source: diwan-imru-al-qais
+  loc: ص137
+  url: https://shamela.ws/book/27112/121
+- source: suyuti-mughni
+  loc: ج1 ص343
+  url: https://shamela.ws/book/17724/341
+- source: lisan
+  loc: ج11 ص187
+  url: https://shamela.ws/book/1687/5367
+status: review

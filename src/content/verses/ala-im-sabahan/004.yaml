@@ -1,0 +1,23 @@
+explained: false
+first: دِيَارٌ لِسَلْمَى عَافِيَاتٌ بِذِي خَالِ
+second: أَلَحَّ عَلَيْهَا كُلُّ أَسْحَمَ هَطَّالِ
+vocabulary:
+- term: عَافِيَاتٌ
+  text: دارسات [@suyuti-mughni، ج1 ص342].
+- term: ذِي خَالِ
+  text: '«جبل مما يلي نجدًا، وقيل: موضع» [@khizana، ج1 ص62].'
+- term: أَسْحَمَ
+  text: الأسود من السحاب، «وهو أغزر ما يكون من الغيم» [@suyuti-mughni، ج1 ص342].
+- term: هَطَّالِ
+  text: «سيّال دائم» [@suyuti-mughni، ج1 ص342].
+sources:
+- source: diwan-imru-al-qais
+  loc: ص135
+  url: https://shamela.ws/book/27112/119
+- source: suyuti-mughni
+  loc: ج1 ص342
+  url: https://shamela.ws/book/17724/340
+- source: khizana
+  loc: ج1 ص62
+  url: https://shamela.ws/book/12732/60
+status: review

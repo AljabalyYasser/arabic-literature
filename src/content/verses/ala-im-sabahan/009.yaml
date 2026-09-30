@@ -1,0 +1,20 @@
+explained: false
+first: كَذَبْتِ لَقَدْ أُصْبِي عَلَى الْمَرْءِ عِرْسَهُ
+second: وَأَمْنَعُ عِرْسِي أَنْ يُزَنَّ بِهَا الْخَالِي
+vocabulary:
+- term: أُصْبِي
+  text: أُشوّق إليّ، من «أصبيتُ المرأة» إذا جعلتها ذات صبوة [@khizana، ج1 ص66].
+- term: عِرْسَهُ
+  text: زوجته.
+- term: يُزَنَّ
+  text: يُتَّهم [@khizana، ج1 ص66].
+- term: الْخَالِي
+  text: «من الرجال الذي لا زوجة له» عند الأَصْمَعِيّ [@khizana، ج1 ص66].
+sources:
+- source: diwan-imru-al-qais
+  loc: ص136
+  url: https://shamela.ws/book/27112/120
+- source: khizana
+  loc: ج1 ص66
+  url: https://shamela.ws/book/12732/64
+status: review

@@ -1,0 +1,19 @@
+explained: false
+first: وَلَا خَيْرَ فِيهِ غَيْرَ أَنَّ لَهُ غِنًى
+second: وَأَنَّ لَهُ كَشْحًا إِذَا قَامَ أَهْضَمَا
+vocabulary:
+- term: كَشْحًا
+  text: 'الكشح: ما بين الخاصرة والضلوع.'
+- term: أَهْضَمَا
+  text: ضامرًا؛ «ورجل أهضم الكشحين أي منضمهما» [@lisan، ج12 ص614]. «والكلام على الاستهزاء به، لبدانته» [@ibn-qutayba، ج1 ص182، حاشية المحقق].
+sources:
+- source: diwan-tarafa
+  loc: ص70
+  url: https://shamela.ws/book/36422/60
+- source: lisan
+  loc: ج12 ص614
+  url: https://shamela.ws/book/1687/6527
+- source: ibn-qutayba
+  loc: ج1 ص182
+  url: https://shamela.ws/book/23785/175
+status: review

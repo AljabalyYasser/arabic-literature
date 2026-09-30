@@ -1,0 +1,23 @@
+explained: false
+first: وَقِتَالٍ لَا يُغِبُّكُمُ
+second: فِي جَمِيعٍ جَحْفَلٍ لَهِمُهْ
+vocabulary:
+- term: لَا يُغِبُّكُمُ
+  text: لا يترككم يومًا؛ من «أغبّ القوم» إذا «جاء يومًا وترك يومًا» [@lisan، ج1 ص636].
+- term: جَمِيعٍ
+  text: جيش مجتمع.
+- term: جَحْفَلٍ
+  text: الجيش الكثير.
+- term: لَهِمُهْ
+  text: 'من «لَهِم الشيءَ» إذا ابتلعه بمرة؛ و«جيش لُهام: كثير يلتهم كل شيء» [@lisan، ج12 ص554].'
+sources:
+- source: diwan-tarafa
+  loc: ص72
+  url: https://shamela.ws/book/36422/62
+- source: lisan
+  loc: ج1 ص636
+  url: https://shamela.ws/book/1687/636
+- source: lisan
+  loc: ج12 ص554
+  url: https://shamela.ws/book/1687/6467
+status: review

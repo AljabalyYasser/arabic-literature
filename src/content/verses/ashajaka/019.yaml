@@ -1,0 +1,26 @@
+explained: false
+first: رِزُّهُ قَدِّمْ وَهَبْ وَهَلَا
+second: ذِي زُهَاءٍ جَمَّةٍ بُهَمُهْ
+vocabulary:
+- term: رِزُّهُ
+  text: 'صوته؛ «والرِّزّ، بالكسر: الصوت» [@lisan، ج5 ص353].'
+- term: قَدِّمْ وَهَبْ وَهَلَا
+  text: 'أصوات تُزجر بها الخيل؛ و«هلا: زجر للخيل» [@lisan، ج15 ص363].'
+- term: زُهَاءٍ
+  text: 'عدد كثير؛ «وزُهاء الشيء وزِهاؤه: قدره» [@lisan، ج14 ص363].'
+- term: بُهَمُهْ
+  text: فرسانه الشجعان، جمع بُهْمة.
+sources:
+- source: diwan-tarafa
+  loc: ص73
+  url: https://shamela.ws/book/36422/63
+- source: lisan
+  loc: ج5 ص353
+  url: https://shamela.ws/book/1687/2937
+- source: lisan
+  loc: ج15 ص363
+  url: https://shamela.ws/book/1687/7972
+- source: lisan
+  loc: ج14 ص363
+  url: https://shamela.ws/book/1687/7487
+status: review
