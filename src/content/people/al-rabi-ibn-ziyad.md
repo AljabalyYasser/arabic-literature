@@ -21,7 +21,7 @@ sources:
   - source: "naqaid"
     loc: "ج1 ص254–257"
     url: "https://shamela.ws/book/13609/99"
-    note: "الخبران عن أبي عُبَيْدة."
+    note: "الخبران في خبر داحس من رواية الكلبي."
   - source: "iqd"
     loc: "ج6 ص19"
     url: "https://shamela.ws/book/23789/1830"

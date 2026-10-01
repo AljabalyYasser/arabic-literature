@@ -1,0 +1,21 @@
+explained: false
+first: فِدًى لَكُمَا رِجْلَيَّ أُمِّي وَخَالَتِي
+second: غَدَاةَ الْكُلَابِ إِذْ تُحَزُّ الدَّوَابِرُ
+vocabulary:
+- term: رِجْلَيَّ
+  text: يخاطب رجليه اللتين نجا عليهما، ويفديهما بأمه وخالته.
+- term: الْكُلَابِ
+  text: '«هو يوم الكلاب الثاني بين تميم واليمن» [@mufaddaliyyat، ص165، الحاشية].'
+- term: تُحَزُّ الدَّوَابِرُ
+  text: 'تُقطع الأعقاب؛ قال أبو عُبَيْدة: «أمر قيس بن عاصم أن يتبعوا المنهزمة ويقطعوا عرقوب من لحقوا ولا يشتغلوا بقتلهم عن اتّباعهم فجزّوا دوابرهم» [@iqd، ج6 ص82].'
+sources:
+- source: mufaddaliyyat
+  loc: ص165
+  url: https://shamela.ws/book/6904/139
+- source: mufaddaliyyat
+  loc: ص165، الحاشية
+  url: https://archive.org/details/20240818_20240818_1710/page/n164/mode/1up
+- source: iqd
+  loc: ج6 ص82
+  url: https://shamela.ws/book/23789/1893
+status: review

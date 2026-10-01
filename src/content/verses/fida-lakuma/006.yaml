@@ -1,0 +1,23 @@
+explained: false
+first: وَلَمَّا سَمِعْتُ الْخَيْلَ تَدْعُو مُقَاعِسًا
+second: تَطَالَعَنِي مِنْ ثُغْرَةِ النَّحْرِ جَائِرُ
+vocabulary:
+- term: تَدْعُو مُقَاعِسًا
+  text: 'تنادي بشعار بني مُقاعِس من تميم، «وهم بنو الحرث بن عَمْرو بن كعب بن سعد بن زيد مناة بن تميم» [@mufaddaliyyat، ص166، الحاشية]؛ وكان قيس بن عاصم ينادي «يال مقاعس» [@naqaid، ج1 ص323].'
+- term: تَطَالَعَنِي
+  text: '«طلع مني وارتفع، يعني فزعا» [@mufaddaliyyat، ص166، الحاشية].'
+- term: ثُغْرَةِ النَّحْرِ
+  text: '«النقرة في أعلى الصدر» [@mufaddaliyyat، ص166، الحاشية].'
+- term: جَائِرُ
+  text: '«حر يؤذي الجوف عند الجوع» [@mufaddaliyyat، ص166، الحاشية]، وأراد حرارة الفزع.'
+sources:
+- source: mufaddaliyyat
+  loc: ص166
+  url: https://shamela.ws/book/6904/140
+- source: mufaddaliyyat
+  loc: ص166، الحاشية
+  url: https://archive.org/details/20240818_20240818_1710/page/n165/mode/1up
+- source: naqaid
+  loc: ج1 ص323
+  url: https://shamela.ws/book/13609/168
+status: review

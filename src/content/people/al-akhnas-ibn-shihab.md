@@ -7,7 +7,7 @@ part: "1"
 tier: "face"
 group: "fursan"
 card: false
-order: 22
+order: 23
 summary: "شاعر جاهلي قديم من تَغْلِب، وفارس فرس يقال لها العصا. له في «المفضليات» بائية يعدّ فيها منازل قبائل مَعَدّ، ثم يفخر بقومه."
 sources:
   - source: "mufaddaliyyat"

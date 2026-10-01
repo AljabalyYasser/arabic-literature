@@ -1,0 +1,19 @@
+explained: false
+first: يُذَكِّرُنِي بِالرِّحْمِ بَيْنِي وَبَيْنَهُ
+second: وَقَدْ كَانَ فِي نَهْدٍ وَجَرْمٍ تَدَابُرُ
+vocabulary:
+- term: الرِّحْمِ
+  text: 'القرابة؛ «هو الرحم بفتح فكسر» [@mufaddaliyyat، ص166، الحاشية].'
+- term: تَدَابُرُ
+  text: '«تقاطع» [@mufaddaliyyat، ص166، الحاشية]. وفي «الأغاني» أن نَهْدًا «قتلت أخا وعلة الجرمي» [@aghani-dk، ج22 ص219].'
+sources:
+- source: mufaddaliyyat
+  loc: ص166
+  url: https://shamela.ws/book/6904/140
+- source: mufaddaliyyat
+  loc: ص166، الحاشية
+  url: https://archive.org/details/20240818_20240818_1710/page/n165/mode/1up
+- source: aghani-dk
+  loc: ج22 ص219
+  url: https://archive.org/details/aghani2014/22/page/n221/mode/1up
+status: review

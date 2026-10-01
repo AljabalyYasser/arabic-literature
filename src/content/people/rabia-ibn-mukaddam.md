@@ -7,7 +7,7 @@ part: "1"
 tier: "face"
 group: "fursan"
 card: false
-order: 15
+order: 16
 summary: "فارس كِنانة، قتلته سُلَيْم يوم الكَدِيد. ويُروى أنه حمى ظعائن قومه بعد موته، فضُرب به المثل: «أحمى من مجير الظعن»."
 sources:
   - source: "maydani"

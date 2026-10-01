@@ -7,7 +7,7 @@ part: "1"
 tier: "face"
 group: "fursan"
 card: false
-order: 23
+order: 24
 summary: "شاعر جاهلي من عبد القيس، من شعراء البحرين. قدّمه ابن سَلّام بقصيدة واحدة هي «المنصفة»، وبها يُعرف فن المنصفات."
 sources:
   - source: "ibn-sallam"

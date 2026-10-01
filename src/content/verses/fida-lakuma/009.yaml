@@ -1,0 +1,20 @@
+explained: false
+first: 'يَقُولُ لِيَ النَّهْدِيُّ: إِنَّكَ مُرْدِفِي'
+second: وَكَيْفَ رِدَافُ الْفَلِّ، أُمُّكَ عَابِرُ
+vocabulary:
+- term: النَّهْدِيُّ
+  text: '«رجل من بني نهد، يقال له سليط بن قتب» [@mufaddaliyyat، ص166، الحاشية].'
+- term: مُرْدِفِي
+  text: 'تحملني خلفك على فرسك؛ والرِّداف «أن يركب شخص آخر خلفه» [@mufaddaliyyat، ص166، الحاشية].'
+- term: الْفَلِّ
+  text: '«المهزوم» [@mufaddaliyyat، ص166، الحاشية].'
+- term: أُمُّكَ عَابِرُ
+  text: 'دعاء عليه؛ «العابر: العبرى، أي الباكية الحزينة» [@mufaddaliyyat، ص166، الحاشية].'
+sources:
+- source: mufaddaliyyat
+  loc: ص166
+  url: https://shamela.ws/book/6904/140
+- source: mufaddaliyyat
+  loc: ص166، الحاشية
+  url: https://archive.org/details/20240818_20240818_1710/page/n165/mode/1up
+status: review

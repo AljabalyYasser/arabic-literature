@@ -1,0 +1,16 @@
+explained: false
+first: كَأَنَّا وَقَدْ حَالَتْ حُذُنَّةُ دُونَنَا
+second: نَعَامٌ تَلَاهُ فَارِسٌ مُتَوَاتِرُ
+vocabulary:
+- term: حُذُنَّةُ
+  text: '«أرض لبني عامر بن صعصعة» [@mufaddaliyyat، ص166، الحاشية].'
+- term: تَلَاهُ فَارِسٌ مُتَوَاتِرُ
+  text: 'تبعه فارس متتابع العَدْو؛ «شبهوا أنفسهم حين هربوا بنعام يخاف فارسا يتبعه» [@mufaddaliyyat، ص166، الحاشية].'
+sources:
+- source: mufaddaliyyat
+  loc: ص166
+  url: https://shamela.ws/book/6904/140
+- source: mufaddaliyyat
+  loc: ص166، الحاشية
+  url: https://archive.org/details/20240818_20240818_1710/page/n165/mode/1up
+status: review

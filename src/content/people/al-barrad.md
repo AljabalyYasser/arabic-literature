@@ -7,7 +7,7 @@ part: "1"
 tier: "face"
 group: "fursan"
 card: false
-order: 13
+order: 14
 summary: "فاتك من كِنانة خلعه قومه. قتل عروة الرَّحّال الكِلابيّ، سيد هَوازِن، فهاجت حرب الفِجار، وقيل في المثل: «أفتك من البراض»."
 sources:
   - source: "iqd"
