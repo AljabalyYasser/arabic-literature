@@ -1,0 +1,24 @@
+explained: false
+first: أَنَا الْفَارِسُ الْحَامِي حَقِيقَةَ وَالِدِي
+second: بِهِ تُدْرَكُ الْأَوْتَارُ قِدْمًا كَذَلِكَا
+vocabulary:
+- term: حَقِيقَةَ وَالِدِي
+  text: «والحقيقة ما يحقّ عليه أن يحميه» [@lisan، ج10 ص52]؛ وحقيقة والده هنا عند البغدادي أخذ ثأر معاوية، «لأنه يحق على والده أن يأخذ ثأر معاوية» [@khizana، ج5 ص442].
+- term: الْأَوْتَارُ
+  text: الثارات، جمع وِتْر [@khizana، ج5 ص443].
+- term: قِدْمًا
+  text: من قديم الزمان [@khizana، ج5 ص443].
+sources:
+- source: khizana
+  loc: ج5 ص440
+  url: https://shamela.ws/book/12732/2336
+- source: lisan
+  loc: ج10 ص52
+  url: https://shamela.ws/book/1687/4722
+- source: khizana
+  loc: ج5 ص442
+  url: https://shamela.ws/book/12732/2338
+- source: khizana
+  loc: ج5 ص443
+  url: https://shamela.ws/book/12732/2339
+status: review

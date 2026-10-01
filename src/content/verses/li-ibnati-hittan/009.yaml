@@ -1,0 +1,23 @@
+explained: false
+first: لُكَيْزٌ لَهَا الْبَحْرَانِ وَالسِّيفُ كُلُّهُ
+second: وَإِنْ يَأْتِهَا بَأْسٌ مِنَ الْهِنْدِ كَارِبُ
+vocabulary:
+- term: لُكَيْزٌ
+  text: قبيلة من عبد القيس، وهو لُكَيز بن أفصى بن عبد القيس [@mufaddaliyyat، ص205، الحاشية].
+- term: الْبَحْرَانِ
+  text: «البلاد المعروفة باسم «البحرين»» على ساحل الخليج [@mufaddaliyyat، ص205، الحاشية].
+- term: السِّيفُ
+  text: «ساحل البحر» [@lisan، ج9 ص167].
+- term: كَارِبُ
+  text: شديد يأخذ بالنفس؛ «فاعل من الكرب، وهو شدة الأمر» [@mufaddaliyyat، ص205، الحاشية].
+sources:
+- source: mufaddaliyyat
+  loc: ص205
+  url: https://shamela.ws/book/6904/179
+- source: mufaddaliyyat
+  loc: ص205، الحاشية
+  url: https://archive.org/details/20240818_20240818_1710/page/n204/mode/1up
+- source: lisan
+  loc: ج9 ص167
+  url: https://shamela.ws/book/1687/4474
+status: review

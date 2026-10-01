@@ -1,0 +1,21 @@
+explained: false
+first: أَقُولُ لِنَفْسٍ لَا يُجَادُ بِمِثْلِهَا
+second: أَقِلِّي الْمِرَاحَ إِنَّنِي غَيْرُ مُقْصِرِ
+vocabulary:
+- term: لَا يُجَادُ بِمِثْلِهَا
+  text: لا يبذل مثلَها أحدٌ لنفاستها.
+- term: الْمِرَاحَ
+  text: «المرح، وهو شدة الفرح والنشاط حتى يجاوز قدره، أو التبختر والاختيال» [@mufaddaliyyat، ص362، الحاشية].
+- term: مُقْصِرِ
+  text: كافٍّ؛ «أقصر عن الشيء إذا نزع عنه وهو يقدر عليه» [@lisan، ج5 ص97].
+sources:
+- source: mufaddaliyyat
+  loc: ص362
+  url: https://shamela.ws/book/6904/336
+- source: mufaddaliyyat
+  loc: ص362، الحاشية
+  url: https://archive.org/details/20240818_20240818_1710/page/n361/mode/1up
+- source: lisan
+  loc: ج5 ص97
+  url: https://shamela.ws/book/1687/2681
+status: review

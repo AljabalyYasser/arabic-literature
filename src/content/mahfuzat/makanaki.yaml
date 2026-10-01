@@ -1,0 +1,15 @@
+kind: "bayt"
+title: "مكانك تحمدي أو تستريحي"
+part: "1"
+order: 35
+person: "amr-ibn-al-itnaba"
+lines:
+  - first: "وَقَوْلِي كُلَّمَا جَشَأَتْ وَجَاشَتْ"
+    second: "مَكَانَكِ تُحْمَدِي أَوْ تَسْتَرِيحِي"
+story: "ibn-al-itnaba-siffin"
+meaning: "يخاطب نفسه كلما اضطربت عند القتال: اثبتي مكانك، فإن ثبتّ حُمدت، وإن قُتلت استرحت. وبهذه الرواية يرويه المُبَرِّد، وبه ردّ معاوية نفسه عن الفرار يوم صِفِّين [@kamil، ج4 ص57]."
+sources:
+  - source: "kamil"
+    loc: "ج4 ص57"
+    url: "https://shamela.ws/book/8505/1225"
+status: "review"

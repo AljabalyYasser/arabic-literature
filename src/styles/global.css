@@ -821,3 +821,5 @@ html.js .verse .panel + .panel { margin-top: 0; }
 .test-mode .mahfuz .hideable { filter: blur(0.45em); cursor: pointer; user-select: none; transition: filter 0.2s; }
 .test-mode .mahfuz .bayt:not(.single) > span:last-child.revealed,
 .test-mode .mahfuz .hideable.revealed { filter: none; user-select: auto; }
+.group-toc .pill-list { margin: 0; }
+.group-sec-text { color: var(--ink-2); margin: 0 0 1rem; }

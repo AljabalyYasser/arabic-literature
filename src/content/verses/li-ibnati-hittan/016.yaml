@@ -1,0 +1,23 @@
+explained: false
+first: وَغَارَتْ إِيَادٌ فِي السَّوَادِ وَدُونَهَا
+second: بَرَازِيقُ عُجْمٌ تَبْتَغِي مَنْ تُضَارِبُ
+vocabulary:
+- term: غَارَتْ
+  text: «دخلت» [@mufaddaliyyat، ص206، الحاشية]، أي توغلت.
+- term: إِيَادٌ
+  text: قبيلة من مَعَدّ، تنسب إلى إياد بن معد [@mufaddaliyyat، ص206، الحاشية].
+- term: السَّوَادِ
+  text: «سواد العراق، سمي سوادا لكثرة نخله» [@mufaddaliyyat، ص206، الحاشية].
+- term: بَرَازِيقُ
+  text: '«الجماعات ... وقيل: جماعات الخيل، وقيل: هم الفرسان»، فارسي معرّب [@lisan، ج10 ص19].'
+sources:
+- source: mufaddaliyyat
+  loc: ص206
+  url: https://shamela.ws/book/6904/180
+- source: mufaddaliyyat
+  loc: ص206، الحاشية
+  url: https://archive.org/details/20240818_20240818_1710/page/n205/mode/1up
+- source: lisan
+  loc: ج10 ص19
+  url: https://shamela.ws/book/1687/4689
+status: review

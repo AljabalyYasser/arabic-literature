@@ -1,0 +1,35 @@
+explained: false
+first: وَجَاوَزْنَا الْمَنُونَ بِغَيْرِ نِكْسٍ
+second: وَخَاظِي الْجِلْزِ ثَعْلَبُهُ دَمِيقُ
+vocabulary:
+- term: نِكْسٍ
+  text: 'سهم ضعيف؛ «والنكس: السهم الذي ينكس أو ينكسر فوقه فيجعل أعلاه أسفله» [@lisan، ج6 ص242].'
+- term: وَخَاظِي الْجِلْزِ
+  text: 'رمح غليظ أصل السنان؛ «الخاظي: الغليظ الصلب» [@lisan، ج14 ص233]، «وجلز السنان: الحلقة المستديرة في أسفله، وقيل: جلزه أعلاه، وقيل: معظمه» [@lisan، ج5 ص322]. ورأى المحققان أنه عنى بالنكس السهم وبما بعده الرمح [@asmaiyyat، ص202، الحاشية].'
+- term: ثَعْلَبُهُ
+  text: '«وثعلب الرمح: ما دخل في جبة السنان منه» [@lisan، ج1 ص238].'
+- term: دَمِيقُ
+  text: 'مُدخَل محكم؛ «فهو مدموق ودميق، وأدمقه: أدخله فيه» [@lisan، ج10 ص103].'
+sources:
+- source: asmaiyyat
+  loc: ص202
+  url: https://shamela.ws/book/6905/186
+- source: lisan
+  loc: ج6 ص242
+  url: https://shamela.ws/book/1687/3254
+- source: lisan
+  loc: ج14 ص233
+  url: https://shamela.ws/book/1687/7357
+- source: lisan
+  loc: ج5 ص322
+  url: https://shamela.ws/book/1687/2906
+- source: asmaiyyat
+  loc: ص202، الحاشية
+  url: https://shamela.ws/book/6905/186
+- source: lisan
+  loc: ج1 ص238
+  url: https://shamela.ws/book/1687/238
+- source: lisan
+  loc: ج10 ص103
+  url: https://shamela.ws/book/1687/4773
+status: review

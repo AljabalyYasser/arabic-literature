@@ -1,0 +1,23 @@
+explained: false
+first: ظَلِلْتُ بِهَا أُعْرَى وَأُشْعَرُ سُخْنَةً
+second: كَمَا اعْتَادَ مَحْمُومًا بِخَيْبَرَ صَالِبُ
+vocabulary:
+- term: أُعْرَى
+  text: تصيبني العُرَواء، «وهي الرعدة تكون للحمى» [@mufaddaliyyat، ص204، الحاشية].
+- term: أُشْعَرُ سُخْنَةً
+  text: أُلبَس الحرارة كالشِّعار، وهو «الثوب الذي يلي البدن» [@mufaddaliyyat، ص204، الحاشية].
+- term: بِخَيْبَرَ
+  text: «إنما خصها لأن حماها أشد الحمى» [@mufaddaliyyat، ص204، الحاشية].
+- term: صَالِبُ
+  text: حمى شديدة؛ «الصالب التي معها حر شديد، وليس معها برد» [@lisan، ج1 ص530].
+sources:
+- source: mufaddaliyyat
+  loc: ص204
+  url: https://shamela.ws/book/6904/178
+- source: mufaddaliyyat
+  loc: ص204، الحاشية
+  url: https://archive.org/details/20240818_20240818_1710/page/n203/mode/1up
+- source: lisan
+  loc: ج1 ص530
+  url: https://shamela.ws/book/1687/530
+status: review

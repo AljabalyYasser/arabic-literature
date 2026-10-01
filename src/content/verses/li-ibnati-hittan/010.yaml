@@ -1,0 +1,23 @@
+explained: false
+first: تَطَايَرُ عَنْ أَعْجَازِ حُوشٍ كَأَنَّهَا
+second: جَهَامٌ أَرَاقَ مَاءَهُ فَهْوَ آئِبُ
+vocabulary:
+- term: تَطَايَرُ
+  text: 'أصلها «تتطاير»: تتفرق مسرعة.'
+- term: حُوشٍ
+  text: '«إبل حوشية لم ترض» [@mufaddaliyyat، ص205، الحاشية]؛ و«الحوش والحوشية: إبل الجن، وقيل: هي الإبل المتوحشة» [@lisan، ج6 ص290].'
+- term: جَهَامٌ
+  text: «السحاب الذي هراق ماءه، وهو أسرع لسيره» [@mufaddaliyyat، ص205، الحاشية].
+- term: آئِبُ
+  text: راجع.
+sources:
+- source: mufaddaliyyat
+  loc: ص205
+  url: https://shamela.ws/book/6904/179
+- source: mufaddaliyyat
+  loc: ص205، الحاشية
+  url: https://archive.org/details/20240818_20240818_1710/page/n204/mode/1up
+- source: lisan
+  loc: ج6 ص290
+  url: https://shamela.ws/book/1687/3302
+status: review

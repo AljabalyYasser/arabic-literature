@@ -1,0 +1,23 @@
+explained: false
+first: أَمِنْ رَيْحَانَةَ الدَّاعِي السَّمِيعُ
+second: يُؤَرِّقُنِي وَأَصْحَابِي هُجُوعُ
+vocabulary:
+- term: رَيْحَانَةَ
+  text: 'اسم امرأة؛ قيل: امرأته المطلّقة، وقيل: أخته أم دُرَيد بن الصِّمّة [@asmaiyyat، ص172، الحاشية].'
+- term: الدَّاعِي السَّمِيعُ
+  text: 'المنادي المُسمِع صوتَه، فـ«السميع» هنا بمعنى المُسمِع: «ويقال: رجل سميع، أي مسمع» [@kamil، ج1 ص162].'
+- term: يُؤَرِّقُنِي
+  text: يُسهرني ويمنعني النوم.
+- term: هُجُوعُ
+  text: نيام، جمع هاجع.
+sources:
+- source: asmaiyyat
+  loc: ص172
+  url: https://shamela.ws/book/6905/157
+- source: asmaiyyat
+  loc: ص172، الحاشية
+  url: https://shamela.ws/book/6905/157
+- source: kamil
+  loc: ج1 ص162
+  url: https://shamela.ws/book/8505/223
+status: review

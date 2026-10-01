@@ -1,0 +1,16 @@
+explained: false
+first: يَجِدِ النِّسَاءَ حَوَاسِرًا يَنْدُبْنَهُ
+second: يَبْكِينَ قَبْلَ تَبَلُّجِ الْأَسْحَارِ
+vocabulary:
+- term: يَنْدُبْنَهُ
+  text: يبكينه ويعدّدن محاسنه.
+- term: تَبَلُّجِ الْأَسْحَارِ
+  text: 'إضاءة آخر الليل بطلوع الفجر. قال أبو الفَرَج: يندبنه في ذلك الوقت «لأنه وقت الغارة» [@aghani-dk، ج17 ص178].'
+sources:
+- source: aghani-dk
+  loc: ج17 ص196
+  url: https://archive.org/details/aghani2014/17/page/n200/mode/1up
+- source: aghani-dk
+  loc: ج17 ص178
+  url: https://archive.org/details/aghani2014/17/page/n182/mode/1up
+status: review

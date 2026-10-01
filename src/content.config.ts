@@ -263,6 +263,14 @@ const mahfuzat = defineCollection({
 const groups = defineCollection({
   loader: glob({ base: './src/content/groups', pattern: '*/*.md' }),
   schema: z.object({
+    // أقسام الصفحة حين تُرتَّب وجوهها في أبواب، كالحروب في مجموعة الفرسان: لكل قسم عنوان، وفقرة قصيرة، ووجوهه بترتيبها.
+    // وما لم يُذكر من وجوه المجموعة في قسم يُعرض بعد الأقسام.
+    sections: z.array(z.object({
+      id: z.string(),
+      title: z.string(),
+      text: z.string().optional(),
+      faces: z.array(reference('people')).min(1),
+    })).default([]),
     sources: z.array(citation).default([]),
     status,
   }),

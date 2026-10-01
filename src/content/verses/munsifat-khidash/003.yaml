@@ -1,0 +1,18 @@
+explained: false
+first: هُمُ خَيْرُ الْمَعَاشِرِ مِنْ قُرَيْشٍ
+second: وَأَوْرَاهَا إِذَا قُدِحَتْ زُنُودَا
+vocabulary:
+- term: الْمَعَاشِرِ
+  text: الجماعات، جمع مَعْشَر.
+- term: أَوْرَاهَا
+  text: 'أكثرها إخراجًا للنار، أي أنجحها؛ «وقالوا: هو أوراهم زندًا؛ يضرب مثلًا لنجاحه وظفره» [@lisan، ج15 ص388].'
+- term: زُنُودَا
+  text: جمع زَنْد، وهو العود يُقدح به فتخرج النار.
+sources:
+- source: ibn-sallam
+  loc: ج1 ص146
+  url: https://shamela.ws/book/6738/144
+- source: lisan
+  loc: ج15 ص388
+  url: https://shamela.ws/book/1687/7997
+status: review

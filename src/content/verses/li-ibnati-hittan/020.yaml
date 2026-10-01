@@ -1,0 +1,20 @@
+explained: false
+first: فَيُغْبَقْنَ أَحْلَابًا وَيُصْبَحْنَ مِثْلَهَا
+second: فَهُنَّ مِنَ التَّعْدَاءِ قُبٌّ شَوَازِبُ
+vocabulary:
+- term: يُغْبَقْنَ
+  text: يُسقَين الغَبوق، «وهو شرب العشي» [@mufaddaliyyat، ص206، الحاشية].
+- term: يُصْبَحْنَ
+  text: يُسقَين الصَّبوح، «وهو شرب الغداة» [@mufaddaliyyat، ص206، الحاشية].
+- term: أَحْلَابًا
+  text: «جمع حلب، بفتحتين، وهو اللبن المحلوب» [@mufaddaliyyat، ص206، الحاشية].
+- term: قُبٌّ شَوَازِبُ
+  text: 'ضامرات البطون؛ «القب: الضوامر الخواصر ... الشوازب: الضوامر»، والتعداء: العدو [@mufaddaliyyat، ص206، الحاشية].'
+sources:
+- source: mufaddaliyyat
+  loc: ص206
+  url: https://shamela.ws/book/6904/180
+- source: mufaddaliyyat
+  loc: ص206، الحاشية
+  url: https://archive.org/details/20240818_20240818_1710/page/n205/mode/1up
+status: review

@@ -1,0 +1,24 @@
+explained: false
+first: مَنْ صَدَّ عَنْ نِيرَانِهَا
+second: فَأَنَا ابْنُ قَيْسٍ لَا بَرَاحُ
+vocabulary:
+- term: صَدَّ
+  text: أعرض.
+- term: ابْنُ قَيْسٍ
+  text: قيس بن ثعلبة، جده الأعلى [@khizana، ج1 ص474]، «وأضاف نفسه إلى جده الأعلى لشهرته به» [@khizana، ج1 ص467].
+- term: لَا بَرَاحُ
+  text: لا أبرح مكاني؛ والبراح «مصدر برح الشيء براحًا ... إذا زال من مكانه» [@khizana، ج1 ص468].
+sources:
+- source: tabrizi-hamasa
+  loc: ج1 ص193
+  url: https://shamela.ws/book/6907/192
+- source: khizana
+  loc: ج1 ص474
+  url: https://shamela.ws/book/12732/471
+- source: khizana
+  loc: ج1 ص467
+  url: https://shamela.ws/book/12732/464
+- source: khizana
+  loc: ج1 ص468
+  url: https://shamela.ws/book/12732/465
+status: review

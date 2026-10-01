@@ -1,0 +1,24 @@
+explained: false
+first: فَإِنْ تَنْجُ مِنْهَا يَا حَزِيمَ بْنَ طَارِقٍ
+second: فَقَدْ تَرَكَتْ مَا خَلْفَ ظَهْرِكَ بَلْقَعَا
+vocabulary:
+- term: مِنْهَا
+  text: من فرسه؛ «من فرس الكلحبة، وكانت تسمى «العرادة»» [@mufaddaliyyat، ص31، الحاشية].
+- term: حَزِيمَ بْنَ طَارِقٍ
+  text: حَزِيمة بن طارق التَّغْلِبيّ، رئيس بني تَغْلِب في غارتهم؛ و«حزيم بفتح الحاء المهملة وكسر الزاي المعجمة مرخم حزيمة» [@khizana، ج1 ص388].
+- term: بَلْقَعَا
+  text: 'قفرًا خاليًا؛ يقول: «إن تنج يا حزيمة من فرسي لم تفلت إلا بنفسك وقد استبيح مالك» [@khizana، ج1 ص389].'
+sources:
+- source: mufaddaliyyat
+  loc: ص31
+  url: https://shamela.ws/book/6904/5
+- source: mufaddaliyyat
+  loc: ص31، الحاشية
+  url: https://archive.org/details/20240818_20240818_1710/page/n30/mode/1up
+- source: khizana
+  loc: ج1 ص388
+  url: https://shamela.ws/book/12732/386
+- source: khizana
+  loc: ج1 ص389
+  url: https://shamela.ws/book/12732/387
+status: review

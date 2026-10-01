@@ -1,0 +1,29 @@
+explained: false
+first: فَإِنْ تَنُبِ النَّوَائِبُ آلَ عُصْمٍ
+second: تُرَى حَكَمَاتُهُمْ فِيهَا رُفُوعُ
+vocabulary:
+- term: تَنُبِ
+  text: '«تصب من النائبة» [@khizana، ج8 ص186]، والنائبة: المصيبة.'
+- term: آلَ عُصْمٍ
+  text: 'قوم الشاعر، وعُصْم من أجداده: «هو عَمْرو بن معد يكرب بن عبد الله بن عَمْرو بن عصم» [@aghani-dk، ج15 ص208].'
+- term: حَكَمَاتُهُمْ
+  text: جمع حَكَمة، «وهي ما أحاط بالحنك من اللجام» [@khizana، ج8 ص186]؛ ورفعها «كناية عن الإعزاز لأن من صفة الذليل تنكيس رأسه» [@lisan، ج12 ص145].
+- term: رُفُوعُ
+  text: ارتفاع، «مصدر بمعنى الارتفاع» [@khizana، ج8 ص186]، «وهذا المصدر ليس في المعاجم» [@asmaiyyat، ص175، الحاشية].
+sources:
+- source: asmaiyyat
+  loc: ص175
+  url: https://shamela.ws/book/6905/159
+- source: khizana
+  loc: ج8 ص186
+  url: https://shamela.ws/book/12732/3724
+- source: aghani-dk
+  loc: ج15 ص208
+  url: https://archive.org/details/aghani2014/15/page/n209/mode/1up
+- source: lisan
+  loc: ج12 ص145
+  url: https://shamela.ws/book/1687/6061
+- source: asmaiyyat
+  loc: ص175، الحاشية
+  url: https://shamela.ws/book/6905/159
+status: review

@@ -1,0 +1,19 @@
+explained: false
+first: أَصَابَتْهُ رِمَاحُ بَنِي حِيَيٍّ
+second: فَخَرَّ كَأَنَّهُ سَيْفٌ دَلُوقُ
+vocabulary:
+- term: بَنِي حِيَيٍّ
+  text: 'هم بنو حُيَيّ في البيت 7؛ وكُسرت الحاء هنا، وفي هامش الشنقيطية: «كسرت الحاء إتباعًا للياء» [@asmaiyyat، ص203، الحاشية].'
+- term: دَلُوقُ
+  text: «سلس الخروج من غمده يخرج من غير سل، وهو أجود السيوف وأخلصها» [@lisan، ج10 ص102].
+sources:
+- source: asmaiyyat
+  loc: ص203
+  url: https://shamela.ws/book/6905/187
+- source: asmaiyyat
+  loc: ص203، الحاشية
+  url: https://shamela.ws/book/6905/187
+- source: lisan
+  loc: ج10 ص102
+  url: https://shamela.ws/book/1687/4772
+status: review

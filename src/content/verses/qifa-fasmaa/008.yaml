@@ -1,0 +1,18 @@
+explained: false
+first: بَدَأْتُ بِهَذِي ثُمَّ أَثْنِي بِهَذِهِ
+second: وَثَالِثَةٌ تَبْيَضُّ مِنْهَا الْمَقَادِمُ
+vocabulary:
+- term: أَثْنِي
+  text: أُتبعها بثانية.
+- term: وَثَالِثَةٌ
+  text: 'قال المحققان: «يريد بالأولى قتل خالد بن جعفر، وبالثانية قتل ابن النعمان، وبالثالثة قتل النعمان، يتوعده» [@mufaddaliyyat، ص313، الحاشية].'
+- term: الْمَقَادِمُ
+  text: مقاديم الوجه، «ما استقبلت منه كالناصية»، يعني شيب الناصية من هول الضربة [@mufaddaliyyat، ص313، الحاشية].
+sources:
+- source: mufaddaliyyat
+  loc: ص313
+  url: https://shamela.ws/book/6904/287
+- source: mufaddaliyyat
+  loc: ص313، الحاشية
+  url: https://archive.org/details/20240818_20240818_1710/page/n312/mode/1up
+status: review

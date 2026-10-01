@@ -1,0 +1,21 @@
+explained: false
+first: فَوَدِّعْهَا وَإِنْ كَانَتْ أَنَاةً
+second: مُبَتَّلَةً لَهَا خَلْقٌ أَنِيقُ
+vocabulary:
+- term: أَنَاةً
+  text: 'قال الأَصْمَعِيّ: «الأناة من النساء التي فيها فتور عن القيام وتأنٍّ»، وقال الليث: هي «المباركة الحليمة المواتية» [@lisan، ج14 ص50].'
+- term: مُبَتَّلَةً
+  text: '«وقيل: المبتّلة التامة الخلق» [@lisan، ج11 ص43].'
+- term: أَنِيقُ
+  text: حسن معجب.
+sources:
+- source: asmaiyyat
+  loc: ص200
+  url: https://shamela.ws/book/6905/184
+- source: lisan
+  loc: ج14 ص50
+  url: https://shamela.ws/book/1687/7174
+- source: lisan
+  loc: ج11 ص43
+  url: https://shamela.ws/book/1687/5225
+status: review

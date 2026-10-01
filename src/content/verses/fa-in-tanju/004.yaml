@@ -1,0 +1,23 @@
+explained: false
+first: كَأَنَّ بِلِيتَيْهَا وَبَلْدَةِ نَحْرِهَا
+second: مِنَ النَّبْلِ كُرَّاثَ الصَّرِيمِ الْمُنَزَّعَا
+vocabulary:
+- term: لِيتَيْهَا
+  text: صفحتي عنقها.
+- term: بَلْدَةِ نَحْرِهَا
+  text: «ثغرة النحر وما حولها» [@lisan، ج3 ص95].
+- term: النَّبْلِ
+  text: السهام.
+- term: كُرَّاثَ الصَّرِيمِ الْمُنَزَّعَا
+  text: '«الكراث: نبت. الصريم: قطع من الرمل. المنزع: المنزوع، لأن ساق الكراثة تكون في الرمل فإذا نزعت أشبهت السهم. يصف كثرة ما أصاب فرسه من السهام» [@mufaddaliyyat، ص32، الحاشية].'
+sources:
+- source: mufaddaliyyat
+  loc: ص32
+  url: https://shamela.ws/book/6904/6
+- source: lisan
+  loc: ج3 ص95
+  url: https://shamela.ws/book/1687/1537
+- source: mufaddaliyyat
+  loc: ص32، الحاشية
+  url: https://archive.org/details/20240818_20240818_1710/page/n31/mode/1up
+status: review

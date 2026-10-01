@@ -1,0 +1,19 @@
+explained: false
+first: يَا بُؤْسَ لِلْحَرْبِ الَّتِي
+second: وَضَعَتْ أَرَاهِطَ فَاسْتَرَاحُوا
+vocabulary:
+- term: يَا بُؤْسَ لِلْحَرْبِ
+  text: 'البؤس: الشدة. ونقل البغدادي عن المُبَرِّد: «كأنه دعاء على الحرب» [@khizana، ج1 ص469].'
+- term: وَضَعَتْ أَرَاهِطَ
+  text: 'قال البغدادي: «حطتهم وأسقطتهم فلم يكن لهم ذكر شرف في هذه الحرب» [@khizana، ج1 ص469]، فاستراحوا من عنائها. والأراهط جمع رَهْط، وهو «عدد يجمع من ثلاثة إلى عشرة» [@lisan، ج7 ص305].'
+sources:
+- source: tabrizi-hamasa
+  loc: ج1 ص192
+  url: https://shamela.ws/book/6907/191
+- source: khizana
+  loc: ج1 ص469
+  url: https://shamela.ws/book/12732/466
+- source: lisan
+  loc: ج7 ص305
+  url: https://shamela.ws/book/1687/3688
+status: review

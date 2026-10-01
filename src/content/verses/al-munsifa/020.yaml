@@ -1,0 +1,32 @@
+explained: false
+first: فَحَوَّطَ عَنْ بَنِي عَمْرِو بْنِ عَوْفٍ
+second: وَأَفْنَاءُ الْعُمُورِ بِهَا شَفِيقُ
+vocabulary:
+- term: فَحَوَّطَ
+  text: 'حمى ودافع؛ من «حاطه يحوطه حوطًا وحيطة وحياطة: حفظه وتعهده» [@lisan، ج7 ص279].'
+- term: بَنِي عَمْرِو بْنِ عَوْفٍ
+  text: قوم لم تعرّفهم المصادر المعتمدة؛ وذكر المحققان أن الشاعر أنصفهم كذلك [@asmaiyyat، ص199، الحاشية].
+- term: وَأَفْنَاءُ الْعُمُورِ
+  text: 'الأفناء: الأخلاط، يقال: «بها أعناء من الناس وأفناء أي أخلاط» [@lisan، ج15 ص165]؛ و«العمور: حي من عبد القيس» [@asmaiyyat، ص201، الحاشية].'
+- term: شَفِيقُ
+  text: 'خائف حذِر؛ «وأشفق منه جزع»، «وشفيق: بمعنى مشفق» [@lisan، ج10 ص180].'
+sources:
+- source: asmaiyyat
+  loc: ص201
+  url: https://shamela.ws/book/6905/185
+- source: lisan
+  loc: ج7 ص279
+  url: https://shamela.ws/book/1687/3662
+- source: asmaiyyat
+  loc: ص199، الحاشية
+  url: https://shamela.ws/book/6905/183
+- source: lisan
+  loc: ج15 ص165
+  url: https://shamela.ws/book/1687/7776
+- source: asmaiyyat
+  loc: ص201، الحاشية
+  url: https://shamela.ws/book/6905/185
+- source: lisan
+  loc: ج10 ص180
+  url: https://shamela.ws/book/1687/4850
+status: review

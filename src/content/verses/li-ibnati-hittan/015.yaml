@@ -1,0 +1,23 @@
+explained: false
+first: وَبَهْرَاءُ حَيٌّ قَدْ عَلِمْنَا مَكَانَهُمْ
+second: لَهُمْ شَرَكٌ حَوْلَ الرُّصَافَةِ لَاحِبُ
+vocabulary:
+- term: بَهْرَاءُ
+  text: قبيلة من قُضاعة [@mufaddaliyyat، ص206، الحاشية].
+- term: شَرَكٌ
+  text: «بنيات الطريق تتشعب عنه» [@mufaddaliyyat، ص206، الحاشية].
+- term: الرُّصَافَةِ
+  text: موضع «ناحية حمص» [@mufaddaliyyat، ص206، الحاشية]؛ وفي اللسان أن الرصافة «غلب على موضع بغداد والشام» [@lisan، ج9 ص121].
+- term: لَاحِبُ
+  text: «الطريق الماضي المنقاد» [@mufaddaliyyat، ص206، الحاشية]، أي الواضح الممتد.
+sources:
+- source: mufaddaliyyat
+  loc: ص206
+  url: https://shamela.ws/book/6904/180
+- source: mufaddaliyyat
+  loc: ص206، الحاشية
+  url: https://archive.org/details/20240818_20240818_1710/page/n205/mode/1up
+- source: lisan
+  loc: ج9 ص121
+  url: https://shamela.ws/book/1687/4428
+status: review

@@ -1,0 +1,23 @@
+explained: false
+first: وَجَدْنَا السِّدْرَ خَوَّارًا ضَعِيفًا
+second: وَكَانَ النَّبْعُ مَنْبِتُهُ وَثِيقُ
+vocabulary:
+- term: السِّدْرَ
+  text: شجر النَّبِق.
+- term: خَوَّارًا
+  text: ضعيفًا ينكسر.
+- term: النَّبْعُ
+  text: شجر «من أشجار الجبال تتخذ منه القسي» [@lisan، ج8 ص345]، «لشدته ورزانته» [@asmaiyyat، ص201، الحاشية].
+- term: مَنْبِتُهُ وَثِيقُ
+  text: أصله محكم متين.
+sources:
+- source: asmaiyyat
+  loc: ص201
+  url: https://shamela.ws/book/6905/185
+- source: lisan
+  loc: ج8 ص345
+  url: https://shamela.ws/book/1687/4193
+- source: asmaiyyat
+  loc: ص201، الحاشية
+  url: https://shamela.ws/book/6905/185
+status: review

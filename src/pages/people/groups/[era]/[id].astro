@@ -24,6 +24,23 @@ const textsOf = (id: string) => texts.filter((t) => t.data.author?.id === id);
 const storiesOf = (id: string) => stories.filter((s) => s.data.people.some((r) => r.id === id));
 const sources = await sourceMap();
 const why = (female: boolean) => (female ? 'لماذا نذكرها؟' : 'لماذا نذكره؟');
+
+// الوجوه في أقسام إن كانت للمجموعة أقسام (كالحروب في مجموعة الفرسان)، وإلا فقائمة واحدة.
+const sections = group.entry?.data.sections ?? [];
+const placed = new Set<string>();
+const blocks = sections.map((sec) => ({
+  id: sec.id,
+  title: sec.title,
+  text: sec.text,
+  faces: sec.faces.map((r) => {
+    const f = group.faces.find((x) => x.id === r.id);
+    if (!f) throw new Error(`قسم «${sec.title}» في المجموعة ${group.id} يذكر وجهًا ليس فيها: ${r.id}`);
+    placed.add(f.id);
+    return f;
+  }),
+}));
+const rest = group.faces.filter((f) => !placed.has(f.id));
+if (rest.length) blocks.push({ id: 'others', title: sections.length ? 'وجوه أخرى' : '', text: undefined, faces: rest });
 ---
 <Base title={group.title} description={`${tiers.face.plural} في ${era.entry.data.title}: ${group.title}.`} searchType="مجموعة">
   <Crumbs items={[{ href: '/people/', label: 'الأعلام' }, { href: url.era(era.entry.id), label: era.entry.data.title }, { label: group.title }]} />
@@ -35,9 +52,20 @@ const why = (female: boolean) => (female ? 'لماذا نذكرها؟' : 'لما
 
   {group.entry ? <Body entry={group.entry} /> : <p class="measure muted">لم يُكتب مدخل هذه المجموعة بعد، وهذه وجوهها المكتوبة.</p>}
 
-  <section class="section">
+  {sections.length > 0 && (
+    <nav class="section measure group-toc" aria-label="أقسام المجموعة">
+      <ul class="pill-list">
+        {blocks.map((b) => <li><a class="pill" href={`#${b.id}`}>{b.title}</a></li>)}
+      </ul>
+    </nav>
+  )}
+
+  {blocks.map((b) => (
+  <section class="section" id={b.id}>
+    {b.title && <div class="section-head"><h2>{b.title}</h2></div>}
+    {b.text && <p class="measure group-sec-text" set:html={fmt(b.text, sources)} />}
     <div class="face-list">
-      {group.faces.map((f) => f.data.page ? (
+      {b.faces.map((f) => f.data.page ? (
         <a class="card link-card" href={url.person(f.id)} id={f.id}>
           <span class="kicker">{[kindsOf(f.data), lifespan(f.data.born, f.data.died)].filter(Boolean).join(' · ')}</span>
           <h3>{f.data.name}</h3>
@@ -73,6 +101,7 @@ const why = (female: boolean) => (female ? 'لماذا نذكرها؟' : 'لما
       ))}
     </div>
   </section>
+  ))}
 
   {group.entry && group.entry.data.sources.length > 0 && (
     <section class="section measure">

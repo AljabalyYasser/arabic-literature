@@ -1,0 +1,16 @@
+explained: false
+first: مَشَيْنَا مِشْيَةَ اللَّيْثِ
+second: غَدَا وَاللَّيْثُ غَضْبَانُ
+vocabulary:
+- term: غَدَا
+  text: خرج غُدوةً، أي باكرًا [@khizana، ج3 ص433].
+- term: غَضْبَانُ
+  text: 'جائع؛ قال البغدادي: «وكنى عن الجوع بالغضب لأنه يصحبه» [@khizana، ج3 ص433].'
+sources:
+- source: tabrizi-hamasa
+  loc: ج1 ص6
+  url: https://shamela.ws/book/6907/5
+- source: khizana
+  loc: ج3 ص433
+  url: https://shamela.ws/book/12732/1366
+status: review

@@ -1,0 +1,24 @@
+explained: false
+first: حَوْلِي فَوَارِسُ مِنْ أُسَيِّدَ شِجْعَةٌ
+second: وَإِذَا غَضِبْتُ فَحَوْلَ بَيْتِيَ خَضَّمُ
+vocabulary:
+- term: أُسَيِّدَ
+  text: بنو أُسَيِّد بن عَمْرو بن تميم، و«أسيّد» «تصغير أسود في لغة بني تميم» [@asmaiyyat، ص128، الحاشية].
+- term: شِجْعَةٌ
+  text: شجعان، اسم جمع للشجاع [@lisan، ج8 ص173].
+- term: خَضَّمُ
+  text: «لقب لبني العنبر بن عَمْرو بن تميم» [@asmaiyyat، ص128، الحاشية]، قوم الشاعر؛ «يزعمون أنهم إنما سموا بذلك لكثرة الخضم، وهو المضغ بالأضراس» [@lisan، ج12 ص184].
+sources:
+- source: asmaiyyat
+  loc: ص128
+  url: https://shamela.ws/book/6905/114
+- source: asmaiyyat
+  loc: ص128، الحاشية
+  url: https://shamela.ws/book/6905/114
+- source: lisan
+  loc: ج8 ص173
+  url: https://shamela.ws/book/1687/4021
+- source: lisan
+  loc: ج12 ص184
+  url: https://shamela.ws/book/1687/6100
+status: review

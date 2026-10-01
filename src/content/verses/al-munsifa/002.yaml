@@ -1,0 +1,21 @@
+explained: false
+first: فَدَمْعِي لُؤْلُؤٌ سَلِسٌ عُرَاهُ
+second: يَخِرُّ عَلَى الْمَهَاوِي مَا يَلِيقُ
+vocabulary:
+- term: سَلِسٌ عُرَاهُ
+  text: 'منحلّ النظام يتساقط حبّه؛ والعُرى: «جمع عروة، وهي طوق القلادة» [@asmaiyyat، ص200، الحاشية].'
+- term: الْمَهَاوِي
+  text: «جمع مهوى، وهو موضع الهوى» [@asmaiyyat، ص200، الحاشية]، أي مواضع السقوط.
+- term: مَا يَلِيقُ
+  text: 'لا يحتبس ولا يثبت؛ يقال: «وما يليق بكفه درهم أي ما يحتبس» [@lisan، ج10 ص334].'
+sources:
+- source: asmaiyyat
+  loc: ص200
+  url: https://shamela.ws/book/6905/184
+- source: asmaiyyat
+  loc: ص200، الحاشية
+  url: https://shamela.ws/book/6905/184
+- source: lisan
+  loc: ج10 ص334
+  url: https://shamela.ws/book/1687/5003
+status: review

@@ -1,0 +1,26 @@
+explained: false
+first: فَلَمْ أَرَ مِثْلَهُمْ هُزِمُوا وَفُلُّوا
+second: وَلَا كَذِيَادِنَا عُنُقًا مَجُودَا
+vocabulary:
+- term: فُلُّوا
+  text: كُسروا وتفرّقوا.
+- term: كَذِيَادِنَا
+  text: كدفعنا وطردنا؛ «ذاده عن الشيء ذَوْدًا وذِيادًا» [@lisan، ج3 ص167].
+- term: عُنُقًا
+  text: '«العُنُق: الجماعة الكثيرة من الناس» [@lisan، ج10 ص273].'
+- term: مَجُودَا
+  text: 'من «جِيد الرجل ... فهو مَجُود إذا عطش»، ويقال: «جِيد فلان إذا أشرف على الهلاك» [@lisan، ج3 ص138].'
+sources:
+- source: ibn-sallam
+  loc: ج1 ص146
+  url: https://shamela.ws/book/6738/144
+- source: lisan
+  loc: ج3 ص167
+  url: https://shamela.ws/book/1687/1609
+- source: lisan
+  loc: ج10 ص273
+  url: https://shamela.ws/book/1687/4942
+- source: lisan
+  loc: ج3 ص138
+  url: https://shamela.ws/book/1687/1580
+status: review

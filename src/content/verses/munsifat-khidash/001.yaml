@@ -1,0 +1,23 @@
+explained: false
+first: فَأَبْلِغْ إِنْ عَرَضْتَ بِنَا هِشَامًا
+second: وَعَبْدَ اللَّهِ أَبْلِغْ وَالْوَلِيدَا
+vocabulary:
+- term: عَرَضْتَ
+  text: أتيت العَروض؛ «وعرض الرجل إذا أتى العَرُوض، وهي مكة والمدينة وما حولهما» [@lisan، ج7 ص173].
+- term: هِشَامًا
+  text: هشام بن المغيرة [@ibn-sallam، ج1 ص147].
+- term: عَبْدَ اللَّهِ
+  text: عبد الله بن جُدْعان [@ibn-sallam، ج1 ص147].
+- term: الْوَلِيدَا
+  text: الوليد بن المغيرة، أخو هشام [@ibn-sallam، ج1 ص147].
+sources:
+- source: ibn-sallam
+  loc: ج1 ص146
+  url: https://shamela.ws/book/6738/144
+- source: lisan
+  loc: ج7 ص173
+  url: https://shamela.ws/book/1687/3556
+- source: ibn-sallam
+  loc: ج1 ص147
+  url: https://shamela.ws/book/6738/145
+status: review

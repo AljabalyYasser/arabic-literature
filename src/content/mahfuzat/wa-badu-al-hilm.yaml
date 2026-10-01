@@ -1,0 +1,14 @@
+kind: "maqta"
+title: "وبعض الحلم عند الجهل للذلة إذعان"
+part: "1"
+order: 30
+person: "al-fand-al-zimmani"
+verses:
+  - "safahna/008"
+  - "safahna/009"
+meaning: "الحلم مع من لا يعرف قدره قد يصير ذلًّا، والشر قد يُنجي حين لا يُنجي الإحسان. ضرب الميداني البيتين مثلًا لقولهم: «قد يدفع الشر بمثله، إذا أعياك غيره» [@maydani، ج2 ص97–98]."
+sources:
+  - source: "maydani"
+    loc: "ج2 ص97–98"
+    url: "https://shamela.ws/book/12929/2937"
+status: "review"

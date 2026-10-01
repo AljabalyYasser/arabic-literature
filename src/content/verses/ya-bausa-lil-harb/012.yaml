@@ -1,0 +1,24 @@
+explained: false
+first: إِنَّ الْمُوَائِلَ خَوْفَهَا
+second: يَعْتَاقُهُ الْأَجَلُ الْمُتَاحُ
+vocabulary:
+- term: الْمُوَائِلَ
+  text: 'طالب النجاة؛ يقال: «واءل منه على فاعل أي طلب النجاة» [@lisan، ج11 ص715].'
+- term: يَعْتَاقُهُ
+  text: 'يحبسه؛ «واعتاقه، كله: صرفه وحبسه» [@lisan، ج10 ص279].'
+- term: الْمُتَاحُ
+  text: 'المقدَّر؛ «وأتاحه له: قدّره له» [@lisan، ج2 ص418].'
+sources:
+- source: tabrizi-hamasa
+  loc: ج1 ص194
+  url: https://shamela.ws/book/6907/193
+- source: lisan
+  loc: ج11 ص715
+  url: https://shamela.ws/book/1687/5892
+- source: lisan
+  loc: ج10 ص279
+  url: https://shamela.ws/book/1687/4948
+- source: lisan
+  loc: ج2 ص418
+  url: https://shamela.ws/book/1687/1222
+status: review

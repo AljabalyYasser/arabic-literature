@@ -1,0 +1,21 @@
+explained: false
+first: لَقَدْ عَلِمَتْ عُلْيَا هَوَازِنَ أَنَّنِي
+second: أَنَا الْفَارِسُ الْحَامِي حَقِيقَةَ جَعْفَرِ
+vocabulary:
+- term: عُلْيَا هَوَازِنَ
+  text: 'أعالي هَوازِن؛ قال المحققان: هم سعد بن بَكْر بن هَوازِن، وجُشَم ونصر ابنا معاوية بن بَكْر، وثقيف [@mufaddaliyyat، ص361، الحاشية].'
+- term: حَقِيقَةَ
+  text: '«ما يحق عليه أن يحميه»، وقيل: الراية، وقيل: الحرمة [@lisan، ج10 ص52].'
+- term: جَعْفَرِ
+  text: بنو جعفر بن كلاب، رهط عامر.
+sources:
+- source: mufaddaliyyat
+  loc: ص361
+  url: https://shamela.ws/book/6904/335
+- source: mufaddaliyyat
+  loc: ص361، الحاشية
+  url: https://archive.org/details/20240818_20240818_1710/page/n360/mode/1up
+- source: lisan
+  loc: ج10 ص52
+  url: https://shamela.ws/book/1687/4722
+status: review

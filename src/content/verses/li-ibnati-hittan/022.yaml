@@ -1,0 +1,21 @@
+explained: false
+first: هُمُ يَضْرِبُونَ الْكَبْشَ يَبْرُقُ بَيْضُهُ
+second: عَلَى وَجْهِهِ مِنَ الدِّمَاءِ سَبَائِبُ
+vocabulary:
+- term: الْكَبْشَ
+  text: '«كبش القوم: رئيسهم وسيدهم، وقيل: كبش القوم حاميتهم» [@lisan، ج6 ص338].'
+- term: بَيْضُهُ
+  text: «جمع بيضة، وهي قلنسوة الحديد» [@mufaddaliyyat، ص207، الحاشية].
+- term: سَبَائِبُ
+  text: «الطرائق، الواحدة سبيبة» [@mufaddaliyyat، ص207، الحاشية].
+sources:
+- source: mufaddaliyyat
+  loc: ص207
+  url: https://shamela.ws/book/6904/181
+- source: lisan
+  loc: ج6 ص338
+  url: https://shamela.ws/book/1687/3350
+- source: mufaddaliyyat
+  loc: ص207، الحاشية
+  url: https://archive.org/details/20240818_20240818_1710/page/n206/mode/1up
+status: review

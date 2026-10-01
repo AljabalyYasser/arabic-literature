@@ -1,0 +1,21 @@
+explained: false
+first: حَسِبْتَ أَبَا قَابُوسَ أَنَّكَ سَالِمٌ
+second: وَلَمَّا تُصِبْ ذُلًّا وَأَنْفُكَ رَاغِمُ
+vocabulary:
+- term: أَبَا قَابُوسَ
+  text: «كنية النعمان» [@mufaddaliyyat، ص312، الحاشية]. وزعم الأَصْمَعِيّ أن هذا البيت ليس من القصيدة، وأن الغلام المقتول عمّ النعمان لا ابنه [@mufaddaliyyat، ص311، الحاشية].
+- term: وَلَمَّا تُصِبْ ذُلًّا
+  text: ولم تلقَ ذُلًّا بعدُ.
+- term: رَاغِمُ
+  text: ذليل، كأن أنفه أُلصق بالرَّغام وهو التراب.
+sources:
+- source: mufaddaliyyat
+  loc: ص312
+  url: https://shamela.ws/book/6904/286
+- source: mufaddaliyyat
+  loc: ص312، الحاشية
+  url: https://archive.org/details/20240818_20240818_1710/page/n311/mode/1up
+- source: mufaddaliyyat
+  loc: ص311، الحاشية
+  url: https://archive.org/details/20240818_20240818_1710/page/n310/mode/1up
+status: review

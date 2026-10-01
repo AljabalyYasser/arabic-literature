@@ -1,0 +1,20 @@
+explained: false
+first: بِكُلِّ مَجَالَةٍ غَادَرْتُ خِرْقًا
+second: مِنَ الْفِتْيَانِ مَبْسِمُهُ رَقِيقُ
+vocabulary:
+- term: مَجَالَةٍ
+  text: موضع تجول فيه الخيل، أي معترك.
+- term: غَادَرْتُ
+  text: تركتُ.
+- term: خِرْقًا
+  text: '«والخرق من الفتيان: الظريف في سماحة ونجدة» [@lisan، ج10 ص74].'
+- term: مَبْسِمُهُ
+  text: ثغره.
+sources:
+- source: asmaiyyat
+  loc: ص202
+  url: https://shamela.ws/book/6905/186
+- source: lisan
+  loc: ج10 ص74
+  url: https://shamela.ws/book/1687/4744
+status: review

@@ -1,14 +1,14 @@
 kind: "bayt"
-title: "أفبعد مقتل مالك بن زهير"
+title: "أفبعد مقتل مالك بن زُهَيْر"
 part: "1"
 order: 19
-lines:
-  - first: "أَفَبَعْدَ مَقْتَلِ مَالِكِ بْنِ زُهَيْرٍ"
-    second: "تَرْجُو النِّسَاءُ عَوَاقِبَ الْأَطْهَارِ"
-meaning: "قاله الرَّبِيع بن زِياد العَبْسِيّ حين بلغه مقتل مالك بن زُهَيْر أخي قَيْس: لا وقت بعد اليوم للنساء، فقد جاءت الحرب [@aghani، ج17 ص199]."
+person: "al-rabi-ibn-ziyad"
+verses:
+  - "nama-al-khaliyy/007"
+meaning: "قاله الرَّبِيع بن زِياد العَبْسِيّ حين بلغه مقتل مالك بن زُهَيْر أخي قَيْس: لا وقت بعد اليوم للنساء، فقد جاءت الحرب [@aghani-dk، ج17 ص196]."
 chapter: "1/ayyam-al-arab"
 sources:
-  - source: "aghani"
-    loc: "ج17 ص199"
-    url: "https://ketabonline.com/ar/books/10786/read?page=6556"
+  - source: "aghani-dk"
+    loc: "ج17 ص196"
+    url: "https://archive.org/details/aghani2014/17/page/n200/mode/1up"
 status: "review"

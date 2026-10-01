@@ -1,0 +1,26 @@
+explained: false
+first: وَقُلْتُ لِكَأْسٍ أَلْجِمِيهَا فَإِنَّمَا
+second: نَزَلْنَا الْكَثِيبَ مِنْ زَرُودَ لِنَفْزَعَا
+vocabulary:
+- term: كَأْسٍ
+  text: «بنت الكلحبة وقيل جاريته، والعرب لا تثق في خيلها إلا بأولادها ونسائها» [@khizana، ج1 ص389].
+- term: الْكَثِيبَ
+  text: التل المستطيل من الرمل.
+- term: زَرُودَ
+  text: 'موضع، «وقيل: زرود اسم رمل مؤنث» [@lisan، ج3 ص194]، وهي «أرض بني مالك بن حنظلة» [@khizana، ج1 ص388].'
+- term: لِنَفْزَعَا
+  text: لنُغيث؛ «لنفزعا أي لنغيث ... والفزع من الأضداد بمعنى الإغاثة والاستغاثة» [@khizana، ج1 ص389].
+sources:
+- source: mufaddaliyyat
+  loc: ص32
+  url: https://shamela.ws/book/6904/6
+- source: khizana
+  loc: ج1 ص389
+  url: https://shamela.ws/book/12732/387
+- source: lisan
+  loc: ج3 ص194
+  url: https://shamela.ws/book/1687/1636
+- source: khizana
+  loc: ج1 ص388
+  url: https://shamela.ws/book/12732/386
+status: review

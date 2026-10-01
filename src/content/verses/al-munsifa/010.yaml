@@ -1,0 +1,27 @@
+explained: false
+first: تَلَاقَيْنَا بِغَيْبَةِ ذِي طُرَيْفٍ
+second: وَبَعْضُهُمُ عَلَى بَعْضٍ حَنِيقُ
+vocabulary:
+- term: بِغَيْبَةِ
+  text: 'الغيبة: «الهبطة من الأرض» [@asmaiyyat، ص200، الحاشية]؛ و«وقعنا في غيبة من الأرض أي في هبطة» [@lisan، ج1 ص655].'
+- term: ذِي طُرَيْفٍ
+  text: «موضع بالبحرين كان لهم فيه وقعة» [@asmaiyyat، ص201، الحاشية].
+- term: حَنِيقُ
+  text: 'شديد الغيظ؛ قال ابن بري: «وقد جاء حنيق بمعنى مُحنَق»، وأنشد البيت [@lisan، ج10 ص70].'
+sources:
+- source: asmaiyyat
+  loc: ص200
+  url: https://shamela.ws/book/6905/184
+- source: asmaiyyat
+  loc: ص200، الحاشية
+  url: https://shamela.ws/book/6905/184
+- source: lisan
+  loc: ج1 ص655
+  url: https://shamela.ws/book/1687/655
+- source: asmaiyyat
+  loc: ص201، الحاشية
+  url: https://shamela.ws/book/6905/185
+- source: lisan
+  loc: ج10 ص70
+  url: https://shamela.ws/book/1687/4740
+status: review

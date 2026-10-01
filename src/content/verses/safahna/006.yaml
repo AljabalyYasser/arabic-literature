@@ -1,0 +1,21 @@
+explained: false
+first: بِضَرْبٍ فِيهِ تَوْهِينٌ
+second: وَتَخْضِيعٌ وَإِقْرَانُ
+vocabulary:
+- term: تَوْهِينٌ
+  text: تضعيف.
+- term: تَخْضِيعٌ
+  text: تذليل.
+- term: إِقْرَانُ
+  text: 'قال البغدادي: «مواصلة لا فتور فيها» [@khizana، ج3 ص434]. وقال أبو الفَرَج: «الإقران: الطاقة للشيء» [@aghani-dk، ج24 ص92].'
+sources:
+- source: tabrizi-hamasa
+  loc: ج1 ص7
+  url: https://shamela.ws/book/6907/6
+- source: khizana
+  loc: ج3 ص434
+  url: https://shamela.ws/book/12732/1367
+- source: aghani-dk
+  loc: ج24 ص92
+  url: https://archive.org/details/aghani2014/24/page/n95/mode/1up
+status: review

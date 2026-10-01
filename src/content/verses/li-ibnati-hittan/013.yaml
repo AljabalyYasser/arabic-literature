@@ -1,0 +1,29 @@
+explained: false
+first: وَكَلْبٌ لَهَا خَبْتٌ فَرَمْلَةُ عَالِجٍ
+second: إِلَى الْحَرَّةِ الرَّجْلَاءِ حَيْثُ تُحَارِبُ
+vocabulary:
+- term: كَلْبٌ
+  text: كلب بن وبرة، من قُضاعة [@mufaddaliyyat، ص205، الحاشية].
+- term: خَبْتٌ
+  text: موضع من «منازل بني كلب» [@mufaddaliyyat، ص205، الحاشية]؛ والخبت في الأصل «ما اتسع من بطون الأرض» [@lisan، ج2 ص27].
+- term: رَمْلَةُ عَالِجٍ
+  text: عالج «موضع بالبادية بها رمل» [@lisan، ج2 ص327].
+- term: الْحَرَّةِ الرَّجْلَاءِ
+  text: 'الحرة: أرض تكسوها حجارة سود؛ «والحرة الرجلاء الصلبة الشديدة» [@lisan، ج4 ص180].'
+sources:
+- source: mufaddaliyyat
+  loc: ص205
+  url: https://shamela.ws/book/6904/179
+- source: mufaddaliyyat
+  loc: ص205، الحاشية
+  url: https://archive.org/details/20240818_20240818_1710/page/n204/mode/1up
+- source: lisan
+  loc: ج2 ص27
+  url: https://shamela.ws/book/1687/831
+- source: lisan
+  loc: ج2 ص327
+  url: https://shamela.ws/book/1687/1131
+- source: lisan
+  loc: ج4 ص180
+  url: https://shamela.ws/book/1687/2140
+status: review

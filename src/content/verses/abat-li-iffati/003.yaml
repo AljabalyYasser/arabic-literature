@@ -1,0 +1,21 @@
+explained: false
+first: وَقَوْلِي كُلَّمَا جَشَأَتْ وَجَاشَتْ
+second: رُوَيْدَكِ تُحْمَدِي أَوْ تَسْتَرِيحِي
+vocabulary:
+- term: جَشَأَتْ وَجَاشَتْ
+  text: 'نهضت نفسه وارتفعت من حزن أو فزع؛ يريد «تطلّعت ونهضت جزعًا وكراهة» [@lisan، ج1 ص48]. قال المُبَرِّد: «يقال: جشأت مهموز، وجاشت غير مهموز» [@kamil، ج4 ص58].'
+- term: رُوَيْدَكِ
+  text: تمهّلي واثبتي، يخاطب نفسه.
+- term: تَسْتَرِيحِي
+  text: تستريحي بالموت.
+sources:
+- source: qali
+  loc: ج1 ص258
+  url: https://shamela.ws/book/9160/258
+- source: lisan
+  loc: ج1 ص48
+  url: https://shamela.ws/book/1687/48
+- source: kamil
+  loc: ج4 ص58
+  url: https://shamela.ws/book/8505/1226
+status: review

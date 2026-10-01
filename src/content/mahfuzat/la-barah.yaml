@@ -1,0 +1,13 @@
+kind: "bayt"
+title: "فأنا ابن قيس لا براح"
+part: "1"
+order: 31
+person: "sad-ibn-malik"
+verses:
+  - "ya-bausa-lil-harb/010"
+meaning: "من صدّ عن الحرب فليصدّ، أما هو فلا يبرح مكانه. وهو من شواهد سيبويه، كما ينقل البغدادي [@khizana، ج1 ص467]."
+sources:
+  - source: "khizana"
+    loc: "ج1 ص467"
+    url: "https://shamela.ws/book/12732/464"
+status: "review"

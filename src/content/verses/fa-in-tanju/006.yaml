@@ -1,0 +1,18 @@
+explained: false
+first: أَمَرْتُكُمُ أَمْرِي بِمُنْعَرَجِ اللِّوَى
+second: وَلَا أَمْرَ لِلْمَعْصِيِّ إِلَّا مُضَيَّعَا
+vocabulary:
+- term: مُنْعَرَجِ اللِّوَى
+  text: 'اللِّوَى: منقطع الرمل، «ومنعرجه حيث انثنى منه وانعطف» [@khizana، ج1 ص391].'
+- term: لِلْمَعْصِيِّ
+  text: لمن يُعصى أمره.
+- term: مُضَيَّعَا
+  text: ضائعًا مهملًا.
+sources:
+- source: mufaddaliyyat
+  loc: ص32
+  url: https://shamela.ws/book/6904/6
+- source: khizana
+  loc: ج1 ص391
+  url: https://shamela.ws/book/12732/389
+status: review

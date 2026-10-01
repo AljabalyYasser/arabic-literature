@@ -1,0 +1,16 @@
+explained: false
+first: أَنْ يَأْبُرُوا نَخْلًا لِغَيْرِهِمُ
+second: وَالشَّيْءُ تَحْقِرُهُ وَقَدْ يَنْمِي
+vocabulary:
+- term: يَأْبُرُوا
+  text: 'يُلقّحوا ويُصلحوا. قال ثعلب في البيت: «المعنى أنهم قد حالفوا أعداءهم ليستعينوا بهم على قوم آخرين، وزمن الإبار زمن تلقيح النخل وإصلاحه» [@lisan، ج4 ص3].'
+- term: يَنْمِي
+  text: يزيد ويكبر.
+sources:
+- source: tabrizi-hamasa
+  loc: ج1 ص65
+  url: https://shamela.ws/book/6907/64
+- source: lisan
+  loc: ج4 ص3
+  url: https://shamela.ws/book/1687/1963
+status: review

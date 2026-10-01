@@ -1,0 +1,18 @@
+explained: false
+first: فَبِئْسَ الْفَتَى إِنْ كُنْتُ أَعْوَرَ عَاقِرًا
+second: جَبَانًا فَمَا عُذْرِي لَدَى كُلِّ مَحْضَرِ
+vocabulary:
+- term: أَعْوَرَ
+  text: ذاهب إحدى العينين.
+- term: عَاقِرًا
+  text: 'لا يولد له؛ قال ابن قُتَيْبة: «كان أعور عقيما لا يولد له، ولم يعقب» [@ibn-qutayba، ج1 ص322].'
+- term: مَحْضَرِ
+  text: مجلس يحضره الناس.
+sources:
+- source: mufaddaliyyat
+  loc: ص362
+  url: https://shamela.ws/book/6904/336
+- source: ibn-qutayba
+  loc: ج1 ص322
+  url: https://shamela.ws/book/23785/315
+status: review

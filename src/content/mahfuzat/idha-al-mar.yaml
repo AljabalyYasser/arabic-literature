@@ -1,0 +1,13 @@
+kind: "bayt"
+title: "إذا المرء لم يغش الكريهة"
+part: "1"
+order: 34
+person: "al-kalhaba"
+verses:
+  - "fa-in-tanju/007"
+meaning: "من لم يقتحم الشدائد تقطعت به أسباب العيش اللين. تمثّل به الحجاج يوم السَّبَخة حين قيل له: لو تنحيت عن هذا الموضع [@aghani-dk، ج19 ص130]."
+sources:
+  - source: "aghani-dk"
+    loc: "ج19 ص130"
+    url: "https://archive.org/details/aghani2014/19/page/n131/mode/1up"
+status: "review"

@@ -1,0 +1,22 @@
+explained: false
+first: أَرَدْتُ لِكَيْ لَا يَعْلَمَ اللَّهُ أَنَّنِي
+second: صَبَرْتُ وَأَخْشَى مِثْلَ يَوْمِ الْمُشَقَّرِ
+vocabulary:
+- term: لِكَيْ لَا يَعْلَمَ
+  text: '«لا» زائدة [@mufaddaliyyat، ص362، الحاشية]، والمعنى: أردت أن يعلم الله أني صبرت.'
+- term: يَوْمِ الْمُشَقَّرِ
+  text: المشقّر «حصن بالبحرين قديم» [@lisan، ج4 ص422]؛ فتح عامل كسرى بابه لبني تميم وقد جاؤوا يمتارون، فأدخلهم فوجًا فوجًا وضرب أعناقهم [@mufaddaliyyat، ص361، الحاشية].
+sources:
+- source: mufaddaliyyat
+  loc: ص362
+  url: https://shamela.ws/book/6904/336
+- source: mufaddaliyyat
+  loc: ص362، الحاشية
+  url: https://archive.org/details/20240818_20240818_1710/page/n361/mode/1up
+- source: lisan
+  loc: ج4 ص422
+  url: https://shamela.ws/book/1687/2382
+- source: mufaddaliyyat
+  loc: ص361، الحاشية
+  url: https://archive.org/details/20240818_20240818_1710/page/n360/mode/1up
+status: review

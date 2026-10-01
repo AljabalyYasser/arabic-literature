@@ -1,0 +1,29 @@
+explained: false
+first: وَصِلْهُ بِالزِّمَاعِ فَكُلُّ أَمْرٍ
+second: سَمَا لَكَ أَوْ سَمَوْتَ لَهُ وَلُوعُ
+vocabulary:
+- term: وَصِلْهُ
+  text: 'قال المحققان: «يقول: أزمع على ما تستطيع» [@asmaiyyat، ص175، الحاشية]؛ وقال البغدادي: «وصل الشيء الذي لم تستطعه» [@khizana، ج8 ص186].'
+- term: الزِّمَاعِ
+  text: «المضاء في الأمر والعزم عليه» [@lisan، ج8 ص143].
+- term: سَمَا لَكَ أَوْ سَمَوْتَ لَهُ
+  text: ارتفع إليك أو طمحتَ إليه.
+- term: وَلُوعُ
+  text: 'تعلّق ولزوم: «الولوع: العلاقة» [@lisan، ج8 ص410].'
+sources:
+- source: asmaiyyat
+  loc: ص175
+  url: https://shamela.ws/book/6905/159
+- source: asmaiyyat
+  loc: ص175، الحاشية
+  url: https://shamela.ws/book/6905/159
+- source: khizana
+  loc: ج8 ص186
+  url: https://shamela.ws/book/12732/3724
+- source: lisan
+  loc: ج8 ص143
+  url: https://shamela.ws/book/1687/3991
+- source: lisan
+  loc: ج8 ص410
+  url: https://shamela.ws/book/1687/4258
+status: review

@@ -1,0 +1,26 @@
+explained: false
+first: وَأَرْضٍ قَدْ قَطَعْتُ بِهَا الْهَوَاهِي
+second: مِنَ الْجِنَّانِ سَرْبَخُهَا مَلِيعُ
+vocabulary:
+- term: الْهَوَاهِي
+  text: 'أصوات الجن، في الشنقيطية: «ضوضاة الجن، الواحد هوهاة» [@asmaiyyat، ص176، الحاشية]. وفي اللسان: «القواهي» [@lisan، ج3 ص24].'
+- term: الْجِنَّانِ
+  text: الجنّ.
+- term: سَرْبَخُهَا
+  text: '«السربخ: الأرض الواسعة؛ وقيل: هي الأرض البعيدة؛ وقيل: هي المضلة التي لا يهتدى فيها لطريق» [@lisan، ج3 ص24].'
+- term: مَلِيعُ
+  text: واسع مستوٍ [@lisan، ج8 ص342].
+sources:
+- source: asmaiyyat
+  loc: ص176
+  url: https://shamela.ws/book/6905/160
+- source: asmaiyyat
+  loc: ص176، الحاشية
+  url: https://shamela.ws/book/6905/160
+- source: lisan
+  loc: ج3 ص24
+  url: https://shamela.ws/book/1687/1466
+- source: lisan
+  loc: ج8 ص342
+  url: https://shamela.ws/book/1687/4190
+status: review

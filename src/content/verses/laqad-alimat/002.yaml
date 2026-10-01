@@ -1,0 +1,24 @@
+explained: false
+first: وَقَدْ عَلِمَ الْمَزْنُوقُ أَنِّي أَكُرُّهُ
+second: عَلَى جَمْعِهِمْ كَرَّ الْمَنِيحِ الْمُشَهَّرِ
+vocabulary:
+- term: الْمَزْنُوقُ
+  text: «اسم فرس عامر بن الطفيل» [@lisan، ج10 ص146].
+- term: أَكُرُّهُ
+  text: أعطفه عليهم مرة بعد مرة.
+- term: الْمَنِيحِ الْمُشَهَّرِ
+  text: 'المنيح: قدح من قداح الميسر «لا نصيب له» [@lisan، ج2 ص607]، «وإنما خص المنيح لكثرة جولانه في القداح، لأنه إذا خرج منها رد فيها»؛ والمشهّر: المشهور [@mufaddaliyyat، ص361، الحاشية].'
+sources:
+- source: mufaddaliyyat
+  loc: ص361
+  url: https://shamela.ws/book/6904/335
+- source: lisan
+  loc: ج10 ص146
+  url: https://shamela.ws/book/1687/4816
+- source: lisan
+  loc: ج2 ص607
+  url: https://shamela.ws/book/1687/1411
+- source: mufaddaliyyat
+  loc: ص361، الحاشية
+  url: https://archive.org/details/20240818_20240818_1710/page/n360/mode/1up
+status: review

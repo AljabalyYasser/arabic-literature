@@ -1,0 +1,24 @@
+explained: false
+first: يُنَادِي مِنْ بَرَاقِشَ أَوْ مَعِينٍ
+second: فَأَسْمَعَ وَاتْلَأَبَّ بِنَا مَلِيعُ
+vocabulary:
+- term: بَرَاقِشَ أَوْ مَعِينٍ
+  text: 'حصنان باليمن [@asmaiyyat، ص172، الحاشية]، وعند البغدادي: «بلدتان كانتا متقابلتين باليمن» [@khizana، ج8 ص180].'
+- term: اتْلَأَبَّ
+  text: استقام واستوى [@asmaiyyat، ص172، الحاشية].
+- term: مَلِيعُ
+  text: 'أرض واسعة، «وقيل: التي لا نبات فيها»؛ وفي هذا البيت «يجوز أن يكون المليع هاهنا الفلاة، وأن يكون مليع موضعا بعينه» [@lisan، ج8 ص342].'
+sources:
+- source: asmaiyyat
+  loc: ص172
+  url: https://shamela.ws/book/6905/157
+- source: asmaiyyat
+  loc: ص172، الحاشية
+  url: https://shamela.ws/book/6905/157
+- source: khizana
+  loc: ج8 ص180
+  url: https://shamela.ws/book/12732/3718
+- source: lisan
+  loc: ج8 ص342
+  url: https://shamela.ws/book/1687/4190
+status: review

@@ -1,0 +1,24 @@
+explained: false
+first: فَجَاؤُوا عَارِضًا بَرِدًا وَجِئْنَا
+second: كَسَيْلِ الْعِرْضِ ضَاقَ بِهِ الطَّرِيقُ
+vocabulary:
+- term: عَارِضًا
+  text: 'كالسحاب المعترض؛ «والعارض: السحاب المطل يعترض في الأفق» [@lisan، ج7 ص174].'
+- term: بَرِدًا
+  text: 'ذا بَرَد؛ «وسحاب بَرِدٌ وأبرد: ذو قُرٍّ وبرد» [@lisan، ج3 ص84].'
+- term: الْعِرْضِ
+  text: 'الوادي؛ «والعِرض: الوادي، وقيل جانبه» [@lisan، ج7 ص172].'
+sources:
+- source: asmaiyyat
+  loc: ص201
+  url: https://shamela.ws/book/6905/185
+- source: lisan
+  loc: ج7 ص174
+  url: https://shamela.ws/book/1687/3557
+- source: lisan
+  loc: ج3 ص84
+  url: https://shamela.ws/book/1687/1526
+- source: lisan
+  loc: ج7 ص172
+  url: https://shamela.ws/book/1687/3555
+status: review

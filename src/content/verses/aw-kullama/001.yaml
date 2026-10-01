@@ -1,0 +1,27 @@
+explained: false
+first: أَوَكُلَّمَا وَرَدَتْ عُكَاظَ قَبِيلَةٌ
+second: بَعَثُوا إِلَيَّ رَسُولَهُمْ يَتَوَسَّمُ
+vocabulary:
+- term: عُكَاظَ
+  text: موضع قرب الطائف كانت تقام به سوق العرب، يقيمون فيها شهر شوال [@asmaiyyat، ص127، الحاشية].
+- term: رَسُولَهُمْ
+  text: 'ويروى «عريفهم» [@bayan، ج3 ص69] [@iqd، ج6 ص65]، أي عارفهم: «والعريف والعارف بمعنى مثل عليم وعالم» [@lisan، ج9 ص236].'
+- term: يَتَوَسَّمُ
+  text: «يتفرس ويطلب الوسم وهو العلامة» [@asmaiyyat، ص127، الحاشية].
+sources:
+- source: asmaiyyat
+  loc: ص127
+  url: https://shamela.ws/book/6905/113
+- source: asmaiyyat
+  loc: ص127، الحاشية
+  url: https://shamela.ws/book/6905/113
+- source: bayan
+  loc: ج3 ص69
+  url: https://shamela.ws/book/10614/620
+- source: iqd
+  loc: ج6 ص65
+  url: https://shamela.ws/book/23789/1876
+- source: lisan
+  loc: ج9 ص236
+  url: https://shamela.ws/book/1687/4543
+status: review

@@ -1,0 +1,21 @@
+explained: false
+first: تَظَلُّ بِهَا رُبْدُ النَّعَامِ كَأَنَّهَا
+second: إِمَاءٌ تُزَجَّى بِالْعَشِيِّ حَوَاطِبُ
+vocabulary:
+- term: رُبْدُ
+  text: «جمع أربد وربداء، والربدة سواد في بياض» [@mufaddaliyyat، ص204، الحاشية].
+- term: تُزَجَّى
+  text: تُساق.
+- term: بِالْعَشِيِّ حَوَاطِبُ
+  text: 'يحملن الحطب عائدات آخر النهار؛ قال الأَصْمَعِيّ: «إنما توصف الإماء في مثل هذا الموضع بالرواح، لا بالغدو، لأنهن يجئن بالحطب إذا رحن» [@ibn-qutayba، ج1 ص167].'
+sources:
+- source: mufaddaliyyat
+  loc: ص204
+  url: https://shamela.ws/book/6904/178
+- source: mufaddaliyyat
+  loc: ص204، الحاشية
+  url: https://archive.org/details/20240818_20240818_1710/page/n203/mode/1up
+- source: ibn-qutayba
+  loc: ج1 ص167
+  url: https://shamela.ws/book/23785/160
+status: review

@@ -1,0 +1,23 @@
+explained: false
+first: كَأَنَّ عَلَى عَوَارِضِهِنَّ رَاحًا
+second: يُفَضُّ عَلَيْهِ رُمَّانٌ يَنِيعُ
+vocabulary:
+- term: عَوَارِضِهِنَّ
+  text: 'أسنانهن التي تبدو عند الضحك؛ قيل: «العوارض: الثنايا سميت عوارض لأنها في عرض الفم»، وقيل: «ما ولي الشدقين من الأسنان» [@lisan، ج7 ص180].'
+- term: رَاحًا
+  text: خمرًا.
+- term: يُفَضُّ
+  text: يُكسر ويُنثر حَبّه.
+- term: يَنِيعُ
+  text: 'يانع ناضج: «واليانع مثل النضيج والناضج» [@lisan، ج8 ص415].'
+sources:
+- source: asmaiyyat
+  loc: ص173
+  url: https://shamela.ws/book/6905/158
+- source: lisan
+  loc: ج7 ص180
+  url: https://shamela.ws/book/1687/3563
+- source: lisan
+  loc: ج8 ص415
+  url: https://shamela.ws/book/1687/4263
+status: review

@@ -1,0 +1,18 @@
+explained: false
+first: وَمَسَاعِرًا صَدَأُ الْحَدِيدِ عَلَيْهِمُ
+second: فَكَأَنَّمَا طُلِيَ الْوُجُوهُ بِقَارِ
+vocabulary:
+- term: مَسَاعِرًا
+  text: '«جمع مسعر، وهو موقد نار الحرب» [@aghani-dk، ج17 ص197، الحاشية]؛ و«مِسْعَر الحرب: موقدها» [@lisan، ج4 ص365].'
+- term: صَدَأُ الْحَدِيدِ
+  text: وسخه، من طول لبس الدروع والمغافر.
+- term: بِقَارِ
+  text: 'القار: الزِّفت، وهو أسود.'
+sources:
+- source: aghani-dk
+  loc: ج17 ص197
+  url: https://archive.org/details/aghani2014/17/page/n201/mode/1up
+- source: lisan
+  loc: ج4 ص365
+  url: https://shamela.ws/book/1687/2325
+status: review

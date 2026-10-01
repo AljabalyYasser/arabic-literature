@@ -1,0 +1,15 @@
+explained: false
+first: مَا إِنْ أَرَى فِي قَتْلِهِ لِذَوِي الْحِجَا
+second: إِلَّا الْمَطِيَّ تُشَدُّ بِالْأَكْوَارِ
+vocabulary:
+- term: الْحِجَا
+  text: العقل.
+- term: الْمَطِيَّ
+  text: الإبل التي تُركب.
+- term: الْأَكْوَارِ
+  text: جمع كُور، وهو رحل البعير.
+sources:
+- source: aghani-dk
+  loc: ج17 ص197
+  url: https://archive.org/details/aghani2014/17/page/n201/mode/1up
+status: review

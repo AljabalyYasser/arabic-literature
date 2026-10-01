@@ -1,0 +1,21 @@
+explained: false
+first: لَعَمْرُكَ مَا ثَلَاثٌ حَائِمَاتٌ
+second: عَلَى رُبَعٍ يَرُعْنَ وَمَا يَرِيعُ
+vocabulary:
+- term: ثَلَاثٌ حَائِمَاتٌ
+  text: ثلاث نوق طائفات حوله [@asmaiyyat، ص176، الحاشية].
+- term: رُبَعٍ
+  text: «الفصيل الذي ينتج في الربيع، وهو أول النتاج» [@asmaiyyat، ص176، الحاشية].
+- term: يَرُعْنَ وَمَا يَرِيعُ
+  text: 'يرجعن إليه ولا يرجع، «أي لهلاكه» [@asmaiyyat، ص176، الحاشية]؛ يقال: «راع يريع وراه يريه أي رجع» [@lisan، ج8 ص138].'
+sources:
+- source: asmaiyyat
+  loc: ص176
+  url: https://shamela.ws/book/6905/160
+- source: asmaiyyat
+  loc: ص176، الحاشية
+  url: https://shamela.ws/book/6905/160
+- source: lisan
+  loc: ج8 ص138
+  url: https://shamela.ws/book/1687/3986
+status: review

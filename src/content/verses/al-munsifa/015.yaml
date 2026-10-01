@@ -1,0 +1,26 @@
+explained: false
+first: وَبَسْلٌ أَنْ تَرَى فِيهِمْ كَمِيًّا
+second: كَبَا لِيَدَيْهِ إِلَّا فِيهِ فُوقُ
+vocabulary:
+- term: وَبَسْلٌ
+  text: 'وحرامٌ؛ «والبسل من الأضداد: وهو الحرام والحلال» [@lisan، ج11 ص55]، «وهو ها هنا الحرام» كما في الشنقيطية [@asmaiyyat، ص201، الحاشية]، أي لن ترى.'
+- term: كَمِيًّا
+  text: شجاعًا مستترًا بسلاحه.
+- term: كَبَا لِيَدَيْهِ
+  text: سقط على وجهه.
+- term: فُوقُ
+  text: الفُوق من السهم «موضع الوتر» [@lisan، ج10 ص320]، أي لا تجد صريعًا إلا وفيه سهم.
+sources:
+- source: asmaiyyat
+  loc: ص201
+  url: https://shamela.ws/book/6905/185
+- source: lisan
+  loc: ج11 ص55
+  url: https://shamela.ws/book/1687/5237
+- source: asmaiyyat
+  loc: ص201، الحاشية
+  url: https://shamela.ws/book/6905/185
+- source: lisan
+  loc: ج10 ص320
+  url: https://shamela.ws/book/1687/4989
+status: review

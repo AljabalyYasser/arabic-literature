@@ -1,0 +1,23 @@
+explained: false
+first: رَبَاعِيَةٌ وَقَارِحُهَا وَجَحْشٌ
+second: وَهَادِيَةٌ وَتَالِيَةٌ زَمُوعُ
+vocabulary:
+- term: رَبَاعِيَةٌ
+  text: أتان «أسقطت رباعيتها عند تمام الرابعة من سنها» [@asmaiyyat، ص174، الحاشية].
+- term: قَارِحُهَا
+  text: فحلها، والقارح «الذي انتهت أسنانه، وذلك عند تمام الخامسة» [@asmaiyyat، ص174، الحاشية].
+- term: هَادِيَةٌ وَتَالِيَةٌ
+  text: 'الهادية: المتقدّمة، والتالية: الأخيرة [@asmaiyyat، ص174، الحاشية].'
+- term: زَمُوعُ
+  text: 'نشيطة سريعة [@asmaiyyat، ص174، الحاشية]؛ «وقيل: الزموع من الأرانب النشيطة السريعة» [@lisan، ج8 ص143].'
+sources:
+- source: asmaiyyat
+  loc: ص174
+  url: https://shamela.ws/book/6905/158
+- source: asmaiyyat
+  loc: ص174، الحاشية
+  url: https://shamela.ws/book/6905/158
+- source: lisan
+  loc: ج8 ص143
+  url: https://shamela.ws/book/1687/3991
+status: review

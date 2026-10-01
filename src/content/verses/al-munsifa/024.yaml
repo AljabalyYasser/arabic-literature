@@ -1,0 +1,23 @@
+explained: false
+first: بِكُلِّ قَرَارَةٍ وَبِكُلِّ رِيعٍ
+second: بَنَانُ فَتًى وَجُمْجُمَةٌ فَلِيقُ
+vocabulary:
+- term: قَرَارَةٍ
+  text: '«والقرار والقرارة من الأرض: المطمئن المستقر» [@lisan، ج5 ص85].'
+- term: رِيعٍ
+  text: «المكان المرتفع» [@lisan، ج8 ص139].
+- term: بَنَانُ
+  text: أطراف الأصابع.
+- term: فَلِيقُ
+  text: مفلوقة مشقوقة.
+sources:
+- source: asmaiyyat
+  loc: ص202
+  url: https://shamela.ws/book/6905/186
+- source: lisan
+  loc: ج5 ص85
+  url: https://shamela.ws/book/1687/2669
+- source: lisan
+  loc: ج8 ص139
+  url: https://shamela.ws/book/1687/3987
+status: review

@@ -1,0 +1,27 @@
+explained: false
+first: وَالنَّثْرَةُ الْحَصْدَاءُ وَالْـ
+second: ـبَيْضُ الْمُكَلَّلُ وَالرِّمَاحُ
+vocabulary:
+- term: النَّثْرَةُ
+  text: 'الدرع؛ «والنثرة: الدرع السلسة الملبس، وقيل: هي الدرع الواسعة» [@lisan، ج5 ص193].'
+- term: الْحَصْدَاءُ
+  text: 'المحكمة؛ «ودرع حصداء: صلبة شديدة محكمة» [@lisan، ج3 ص152].'
+- term: الْبَيْضُ الْمُكَلَّلُ
+  text: 'البيض: الخُوَذ، واحدتها بَيْضة، «سميت بذلك لأنها على شكل بيضة النعام» [@lisan، ج7 ص125]. والمكلَّل: كأنه أُلبس إكليلًا، من «كلّله أي ألبسه الإكليل» [@lisan، ج11 ص596].'
+sources:
+- source: tabrizi-hamasa
+  loc: ج1 ص192
+  url: https://shamela.ws/book/6907/191
+- source: lisan
+  loc: ج5 ص193
+  url: https://shamela.ws/book/1687/2777
+- source: lisan
+  loc: ج3 ص152
+  url: https://shamela.ws/book/1687/1594
+- source: lisan
+  loc: ج7 ص125
+  url: https://shamela.ws/book/1687/3508
+- source: lisan
+  loc: ج11 ص596
+  url: https://shamela.ws/book/1687/5774
+status: review

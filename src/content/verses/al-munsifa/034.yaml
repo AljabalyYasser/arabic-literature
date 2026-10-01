@@ -1,0 +1,23 @@
+explained: false
+first: وَسَائِلَةٍ بِثَعْلَبَةَ بْنِ سَيْرٍ
+second: وَقَدْ أَوْدَتْ بِثَعْلَبَةَ الْعَلُوقُ
+vocabulary:
+- term: وَسَائِلَةٍ
+  text: ورُبّ امرأة تسأل.
+- term: بِثَعْلَبَةَ بْنِ سَيْرٍ
+  text: '«أراد: بثعلبة بن سيار فجعله سيرًا للضرورة»؛ وقال ابن بري: «البيت للمفضل النكري يذكر أن ثعلبة بن سيار كان في أسره» [@lisan، ج4 ص391].'
+- term: أَوْدَتْ
+  text: أهلكت.
+- term: الْعَلُوقُ
+  text: المنية؛ «والعلوق المنية، صفة غالبة» [@lisan، ج10 ص265].
+sources:
+- source: asmaiyyat
+  loc: ص203
+  url: https://shamela.ws/book/6905/187
+- source: lisan
+  loc: ج4 ص391
+  url: https://shamela.ws/book/1687/2351
+- source: lisan
+  loc: ج10 ص265
+  url: https://shamela.ws/book/1687/4934
+status: review

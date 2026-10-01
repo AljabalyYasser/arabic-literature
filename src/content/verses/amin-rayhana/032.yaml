@@ -1,0 +1,20 @@
+explained: false
+first: تَرَى جِيَفَ الْمَطِيِّ بِحَافَتَيْهِ
+second: كَأَنَّ عِظَامَهَا الرَّخَمُ الْوُقُوعُ
+vocabulary:
+- term: جِيَفَ الْمَطِيِّ
+  text: جثث الإبل الميتة.
+- term: بِحَافَتَيْهِ
+  text: بجانبيه.
+- term: الرَّخَمُ
+  text: 'طير، و«الرخمة: طائر أبقع على شكل النسر خلقة إلا أنه مبقع بسواد وبياض» [@lisan، ج12 ص235].'
+- term: الْوُقُوعُ
+  text: النازلة على الأرض، الواحد واقع.
+sources:
+- source: asmaiyyat
+  loc: ص176
+  url: https://shamela.ws/book/6905/160
+- source: lisan
+  loc: ج12 ص235
+  url: https://shamela.ws/book/1687/6150
+status: review

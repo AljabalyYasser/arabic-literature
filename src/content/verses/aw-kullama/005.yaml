@@ -1,0 +1,20 @@
+explained: false
+first: وَلِكُلِّ بَكْرِيٍّ لَدَيَّ عَدَاوَةٌ
+second: وَأَبُو رَبِيعَةَ شَانِئٌ وَمُحَلِّمُ
+vocabulary:
+- term: بَكْرِيٍّ
+  text: منسوب إلى بَكْر بن وائِل.
+- term: أَبُو رَبِيعَةَ
+  text: ابن ذهل بن شيبان، «يريد القبيلة التي رئيسها هانئ بن مسعود» [@asmaiyyat، ص128، الحاشية].
+- term: شَانِئٌ
+  text: مُبغض.
+- term: مُحَلِّمُ
+  text: «ابن ذهل بن شيبان، يريد به القبيلة أيضا» [@asmaiyyat، ص128، الحاشية].
+sources:
+- source: asmaiyyat
+  loc: ص128
+  url: https://shamela.ws/book/6905/114
+- source: asmaiyyat
+  loc: ص128، الحاشية
+  url: https://shamela.ws/book/6905/114
+status: review

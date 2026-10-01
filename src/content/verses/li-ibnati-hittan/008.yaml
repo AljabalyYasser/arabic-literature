@@ -1,0 +1,21 @@
+explained: false
+first: لِكُلِّ أُنَاسٍ مِنْ مَعَدٍّ عِمَارَةٌ
+second: عَرُوضٌ إِلَيْهَا يَلْجَؤُونَ وَجَانِبُ
+vocabulary:
+- term: مَعَدٍّ
+  text: مَعَدّ بن عدنان، أبو قبائل العرب الشمالية.
+- term: عِمَارَةٌ
+  text: '«أصغر من القبيلة، وقيل: هو الحي العظيم الذي يقوم بنفسه» [@lisan، ج4 ص606].'
+- term: عَرُوضٌ
+  text: '«الناحية»؛ وفي اللسان: «يقول: لكل حي حرز إلا بني تَغْلِب فإن حرزهم السيوف» [@lisan، ج7 ص173].'
+sources:
+- source: mufaddaliyyat
+  loc: ص204
+  url: https://shamela.ws/book/6904/178
+- source: lisan
+  loc: ج4 ص606
+  url: https://shamela.ws/book/1687/2566
+- source: lisan
+  loc: ج7 ص173
+  url: https://shamela.ws/book/1687/3556
+status: review

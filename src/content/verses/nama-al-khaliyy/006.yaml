@@ -1,0 +1,18 @@
+explained: false
+first: يَخْمِشْنَ حُرَّاتِ الْوُجُوهِ عَلَى امْرِئٍ
+second: سَهْلِ الْخَلِيقَةِ طَيِّبِ الْأَخْبَارِ
+vocabulary:
+- term: يَخْمِشْنَ
+  text: يخدشن بأظفارهن.
+- term: حُرَّاتِ الْوُجُوهِ
+  text: 'الوجنات؛ «والحُرّة: الوجنة. وحُرّ الوجه: ما بدا من الوجنة» [@lisan، ج4 ص183].'
+- term: سَهْلِ الْخَلِيقَةِ
+  text: ليّن الطبع.
+sources:
+- source: aghani-dk
+  loc: ج17 ص196
+  url: https://archive.org/details/aghani2014/17/page/n200/mode/1up
+- source: lisan
+  loc: ج4 ص183
+  url: https://shamela.ws/book/1687/2143
+status: review

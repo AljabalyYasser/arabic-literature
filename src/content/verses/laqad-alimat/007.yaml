@@ -1,0 +1,24 @@
+explained: false
+first: لَعَمْرِي وَمَا عَمْرِي عَلَيَّ بِهَيِّنٍ
+second: لَقَدْ شَانَ حُرَّ الْوَجْهِ طَعْنَةُ مُسْهِرِ
+vocabulary:
+- term: شَانَ
+  text: عاب وقبّح.
+- term: حُرَّ الْوَجْهِ
+  text: '«ما أقبل عليك منه»، وقيل: «مسايل أربعة مدامع العينين» [@lisan، ج4 ص183].'
+- term: طَعْنَةُ مُسْهِرِ
+  text: طعنة مُسْهِر بن يزيد الحارثي يوم فيف الريح، «فأصاب عينه» [@iqd، ج6 ص88]. وفي رواية أخرى عن أبي عُبَيْدة أنه كان حليفًا لبني عامر، فطعنه في وجنته «ففلق وجنته» [@naqaid، ج2 ص639].
+sources:
+- source: mufaddaliyyat
+  loc: ص362
+  url: https://shamela.ws/book/6904/336
+- source: lisan
+  loc: ج4 ص183
+  url: https://shamela.ws/book/1687/2143
+- source: iqd
+  loc: ج6 ص88
+  url: https://shamela.ws/book/23789/1899
+- source: naqaid
+  loc: ج2 ص639
+  url: https://shamela.ws/book/13609/481
+status: review

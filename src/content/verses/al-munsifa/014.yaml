@@ -1,0 +1,26 @@
+explained: false
+first: كَأَنَّ النَّبْلَ بَيْنَهُمُ جَرَادٌ
+second: تُكَفِّيهِ شَآمِيَةٌ خَرِيقُ
+vocabulary:
+- term: النَّبْلَ
+  text: السهام.
+- term: تُكَفِّيهِ
+  text: تقلبه، من كفّأ الشيءَ إذا قلبه [@lisan، ج1 ص140]، وسُهّلت الهمزة [@asmaiyyat، ص201، الحاشية].
+- term: شَآمِيَةٌ
+  text: 'ريح الشمال؛ «ويقال لهذه الشمال: الشامية» [@lisan، ج1 ص771].'
+- term: خَرِيقُ
+  text: «الباردة الشديدة الهبوب» [@asmaiyyat، ص201، الحاشية].
+sources:
+- source: asmaiyyat
+  loc: ص201
+  url: https://shamela.ws/book/6905/185
+- source: lisan
+  loc: ج1 ص140
+  url: https://shamela.ws/book/1687/140
+- source: asmaiyyat
+  loc: ص201، الحاشية
+  url: https://shamela.ws/book/6905/185
+- source: lisan
+  loc: ج1 ص771
+  url: https://shamela.ws/book/1687/771
+status: review

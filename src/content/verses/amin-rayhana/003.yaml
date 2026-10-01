@@ -1,0 +1,21 @@
+explained: false
+first: وَقَدْ جَاوَزْنَ مِنْ غُمْدَانَ دَارًا
+second: لِأَبْوَالِ الْبِغَالِ بِهَا وَقِيعُ
+vocabulary:
+- term: جَاوَزْنَ
+  text: يعني الإبل التي يركبونها، «ولم يجر لها ذكر» [@asmaiyyat، ص173، الحاشية].
+- term: غُمْدَانَ
+  text: قصر مشهور باليمن [@asmaiyyat، ص173، الحاشية].
+- term: وَقِيعُ
+  text: 'مَناقع يجتمع فيها الماء: «والوقيع: مناقع الماء» [@lisan، ج8 ص405].'
+sources:
+- source: asmaiyyat
+  loc: ص173
+  url: https://shamela.ws/book/6905/158
+- source: asmaiyyat
+  loc: ص173، الحاشية
+  url: https://shamela.ws/book/6905/158
+- source: lisan
+  loc: ج8 ص405
+  url: https://shamela.ws/book/1687/4253
+status: review

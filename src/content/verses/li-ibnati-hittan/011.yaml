@@ -1,0 +1,21 @@
+explained: false
+first: وَبَكْرٌ لَهَا ظَهْرُ الْعِرَاقِ وَإِنْ تَشَأْ
+second: يَحُلْ دُونَهَا مِنَ الْيَمَامَةِ حَاجِبُ
+vocabulary:
+- term: بَكْرٌ
+  text: بَكْر بن وائِل، من رَبِيعة [@mufaddaliyyat، ص205، الحاشية].
+- term: الْيَمَامَةِ
+  text: بلاد في وسط الجزيرة، وهي «القرية التي قصبتها حَجْر» [@lisan، ج12 ص648]، موطن بني حنيفة من بَكْر.
+- term: حَاجِبُ
+  text: «مانع، أي لها باليمامة من يمنع من ضيمها، يعني بني حنيفة» [@mufaddaliyyat، ص205، الحاشية].
+sources:
+- source: mufaddaliyyat
+  loc: ص205
+  url: https://shamela.ws/book/6904/179
+- source: mufaddaliyyat
+  loc: ص205، الحاشية
+  url: https://archive.org/details/20240818_20240818_1710/page/n204/mode/1up
+- source: lisan
+  loc: ج12 ص648
+  url: https://shamela.ws/book/1687/6561
+status: review

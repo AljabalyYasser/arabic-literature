@@ -1,0 +1,18 @@
+explained: false
+first: وَنَادَى مُنَادِي الْحَيِّ أَنْ قَدْ أُتِيتُمُ
+second: وَقَدْ شَرِبَتْ مَاءَ الْمَزَادَةِ أَجْمَعَا
+vocabulary:
+- term: أُتِيتُمُ
+  text: أتاكم العدو مغيرًا.
+- term: شَرِبَتْ
+  text: 'يعني فرسه؛ يعتذر من إفلات حزيمة: «أتي الصريخ وقد شربت فرسي ملء الحوض ماء» [@khizana، ج1 ص389]، فثقلت عن الجري.'
+- term: الْمَزَادَةِ
+  text: وعاء كبير من جلد يُحمل فيه الماء.
+sources:
+- source: mufaddaliyyat
+  loc: ص31
+  url: https://shamela.ws/book/6904/5
+- source: khizana
+  loc: ج1 ص389
+  url: https://shamela.ws/book/12732/387
+status: review

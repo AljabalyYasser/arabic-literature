@@ -1,0 +1,26 @@
+explained: false
+first: يُهَزْهِزُ صَعْدَةً جَرْدَاءَ فِيهَا
+second: سِنَانُ الْمَوْتِ أَوْ قَرْنٌ مَحِيقُ
+vocabulary:
+- term: يُهَزْهِزُ
+  text: يحرّك ويهزّ.
+- term: صَعْدَةً
+  text: 'رمحًا؛ «والصعدة: القناة، وقيل: القناة المستوية تنبت كذلك لا تحتاج إلى التثقيف» [@lisan، ج3 ص255].'
+- term: جَرْدَاءَ
+  text: ملساء.
+- term: قَرْنٌ مَحِيقُ
+  text: «كانت العرب تضع مكان الأسنة القرون» كما في الشنقيطية [@asmaiyyat، ص201، الحاشية]؛ «وقرن محيق إذا دلك فذهب حده وملس»، «ونصل محيق أي مرقق محدد» [@lisan، ج10 ص338].
+sources:
+- source: asmaiyyat
+  loc: ص201
+  url: https://shamela.ws/book/6905/185
+- source: lisan
+  loc: ج3 ص255
+  url: https://shamela.ws/book/1687/1697
+- source: asmaiyyat
+  loc: ص201، الحاشية
+  url: https://shamela.ws/book/6905/185
+- source: lisan
+  loc: ج10 ص338
+  url: https://shamela.ws/book/1687/5007
+status: review

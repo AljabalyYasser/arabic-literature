@@ -1,0 +1,22 @@
+explained: false
+first: وَقَدْ عَلِمُوا أَنِّي أَكُرُّ عَلَيْهِمُ
+second: عَشِيَّةَ فَيْفِ الرِّيحِ كَرَّ الْمُدَوِّرِ
+vocabulary:
+- term: فَيْفِ الرِّيحِ
+  text: «موضع بالبادية» [@lisan، ج9 ص275]، كانت فيه الوقعة بين بني عامر ومَذْحِج.
+- term: الْمُدَوِّرِ
+  text: '«الذي يطوف بالدوار» [@mufaddaliyyat، ص362، الحاشية]، والدوار: «صنم كانت العرب تنصبه يجعلون موضعا حوله يدورون به» [@lisan، ج4 ص297].'
+sources:
+- source: mufaddaliyyat
+  loc: ص362
+  url: https://shamela.ws/book/6904/336
+- source: lisan
+  loc: ج9 ص275
+  url: https://shamela.ws/book/1687/4582
+- source: mufaddaliyyat
+  loc: ص362، الحاشية
+  url: https://archive.org/details/20240818_20240818_1710/page/n361/mode/1up
+- source: lisan
+  loc: ج4 ص297
+  url: https://shamela.ws/book/1687/2257
+status: review

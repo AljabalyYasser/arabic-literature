@@ -1,0 +1,24 @@
+explained: false
+first: لَا بُجَيْرٌ أَغْنَى قَتِيلًا وَلَا رَهْـ
+second: ـطُ كُلَيْبٍ تَزَاجَرُوا عَنْ ضَلَالِ
+vocabulary:
+- term: بُجَيْرٌ
+  text: 'الغلام الذي قتله المُهَلْهِل وقال: «بؤ بشسع نعل كليب». وهو في «الأغاني» ابن أخي الحارِث، «وقال أبو برزة بل بجير بن الحارِث بن عباد نفسه» [@aghani، ج5 ص52]، وهو ابنه عند المُبَرِّد [@kamil، ج2 ص172].'
+- term: أَغْنَى قَتِيلًا
+  text: 'أجدى بقتله؛ وكان الحارِث قد قال حين بلغه قتله: «إن ابني لأعظم قتيل بركة، إذ أصلح الله به بين ابني وائِل» [@kamil، ج2 ص172].'
+- term: تَزَاجَرُوا
+  text: زجر بعضهم بعضًا؛ والزجر «المنع والنهي والانتهار» [@lisan، ج4 ص318].
+sources:
+- source: aghani
+  loc: ج5 ص53
+  url: https://ketabonline.com/ar/books/10786/read?page=1656
+- source: aghani
+  loc: ج5 ص52
+  url: https://ketabonline.com/ar/books/10786/read?page=1655
+- source: kamil
+  loc: ج2 ص172
+  url: https://shamela.ws/book/8505/692
+- source: lisan
+  loc: ج4 ص318
+  url: https://shamela.ws/book/1687/2278
+status: review

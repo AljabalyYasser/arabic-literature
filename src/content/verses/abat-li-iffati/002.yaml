@@ -1,0 +1,15 @@
+explained: false
+first: وَإِعْطَائِي عَلَى الْإِعْدَامِ مَالِي
+second: وَضَرْبِي هَامَةَ الْبَطَلِ الْمُشِيحِ
+vocabulary:
+- term: الْإِعْدَامِ
+  text: الفقر وقلة المال.
+- term: هَامَةَ
+  text: الرأس.
+- term: الْمُشِيحِ
+  text: 'قال القالي: «المشيح: المبادر المنكمش، ويقال: بطل مشيح، أي حامل» [@qali، ج1 ص258].'
+sources:
+- source: qali
+  loc: ج1 ص258
+  url: https://shamela.ws/book/9160/258
+status: review

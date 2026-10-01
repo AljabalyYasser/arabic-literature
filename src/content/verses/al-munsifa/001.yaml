@@ -1,0 +1,23 @@
+explained: false
+first: أَلَمْ تَرَ أَنَّ جِيرَتَنَا اسْتَقَلُّوا
+second: فَنِيَّتُنَا وَنِيَّتُهُمْ فَرِيقُ
+vocabulary:
+- term: جِيرَتَنَا
+  text: جيراننا، يعني قوم سُلَيْمَى.
+- term: اسْتَقَلُّوا
+  text: ارتحلوا ومضوا.
+- term: نِيَّتُنَا
+  text: 'وجهتنا في السفر؛ والنية: «الوجه الذي ينويه المسافر» [@asmaiyyat، ص200، الحاشية].'
+- term: فَرِيقُ
+  text: 'متفرّقة، أي وجهتنا غير وجهتهم؛ و«نيّة فريق: مفرّقة» [@lisan، ج10 ص301].'
+sources:
+- source: asmaiyyat
+  loc: ص200
+  url: https://shamela.ws/book/6905/184
+- source: asmaiyyat
+  loc: ص200، الحاشية
+  url: https://shamela.ws/book/6905/184
+- source: lisan
+  loc: ج10 ص301
+  url: https://shamela.ws/book/1687/4970
+status: review

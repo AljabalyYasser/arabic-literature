@@ -1,0 +1,21 @@
+explained: false
+first: قَتَلْنَا الْحَارِثَ الْوَضَّاحَ مِنْهُمْ
+second: فَخَرَّ كَأَنَّ لِمَّتَهُ الْعُذُوقُ
+vocabulary:
+- term: الْحَارِثَ الْوَضَّاحَ
+  text: 'رجل من خصومهم لم تعرّفه المصادر المعتمدة؛ والوضّاح: الأبيض المشرق.'
+- term: لِمَّتَهُ
+  text: شعر رأسه المسترسل.
+- term: الْعُذُوقُ
+  text: '«جمع عذق، وهو بكسر العين: العرجون بما فيه من الشماريخ» [@asmaiyyat، ص202، الحاشية]؛ «والعِذق: الكباسة» [@lisan، ج10 ص238].'
+sources:
+- source: asmaiyyat
+  loc: ص202
+  url: https://shamela.ws/book/6905/186
+- source: asmaiyyat
+  loc: ص202، الحاشية
+  url: https://shamela.ws/book/6905/186
+- source: lisan
+  loc: ج10 ص238
+  url: https://shamela.ws/book/1687/4907
+status: review

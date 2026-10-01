@@ -1,0 +1,29 @@
+explained: false
+first: تَرَاهَا الدَّهْرَ مُقْتِرَةً كِبَاءً
+second: وَتَقْدَحُ صَحْفَةً فِيهَا نَقِيعُ
+vocabulary:
+- term: مُقْتِرَةً
+  text: 'متبخّرة: «وأقترت المرأة، فهي مقترة إذا تبخرت بالعود» [@lisan، ج5 ص72].'
+- term: كِبَاءً
+  text: 'عودًا يُتبخّر به: «والكباء بالكسر والمد: العود» [@khizana، ج8 ص185].'
+- term: تَقْدَحُ صَحْفَةً
+  text: 'تغرف ما في الصَّحفة، وهي «شبه قصعة مسلنطحة عريضة» تُشبع نحو خمسة [@asmaiyyat، ص173، الحاشية]. وفي رواية ابن الأعرابي: «ومقدح صفحة» [@khizana، ج8 ص184]، و«المقدح بكسر الميم: المغرفة» [@khizana، ج8 ص185].'
+- term: نَقِيعُ
+  text: 'ما يُنقع في الماء [@asmaiyyat، ص173، الحاشية]، وقال البغدادي: «والنقيع يبرد لها فتشربه» [@khizana، ج8 ص185].'
+sources:
+- source: asmaiyyat
+  loc: ص173
+  url: https://shamela.ws/book/6905/158
+- source: lisan
+  loc: ج5 ص72
+  url: https://shamela.ws/book/1687/2656
+- source: khizana
+  loc: ج8 ص185
+  url: https://shamela.ws/book/12732/3723
+- source: asmaiyyat
+  loc: ص173، الحاشية
+  url: https://shamela.ws/book/6905/158
+- source: khizana
+  loc: ج8 ص184
+  url: https://shamela.ws/book/12732/3722
+status: review

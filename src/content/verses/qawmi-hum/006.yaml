@@ -1,0 +1,23 @@
+explained: false
+first: وَوَطِئْتَنَا وَطْئًا عَلَى حَنَقٍ
+second: وَطْءَ الْمُقَيَّدِ نَابِتَ الْهَرْمِ
+vocabulary:
+- term: وَطِئْتَنَا
+  text: 'أخذتنا أخذًا شديدًا؛ «والوطأة: الأخذة الشديدة» [@lisan، ج1 ص197].'
+- term: حَنَقٍ
+  text: غيظ.
+- term: الْمُقَيَّدِ
+  text: البعير المشدود بالقيد.
+- term: الْهَرْمِ
+  text: «ضرب من الحمض فيه ملوحة، وهو أذله وأشده انبساطًا على الأرض» [@lisan، ج12 ص607].
+sources:
+- source: tabrizi-hamasa
+  loc: ج1 ص65
+  url: https://shamela.ws/book/6907/64
+- source: lisan
+  loc: ج1 ص197
+  url: https://shamela.ws/book/1687/197
+- source: lisan
+  loc: ج12 ص607
+  url: https://shamela.ws/book/1687/6520
+status: review

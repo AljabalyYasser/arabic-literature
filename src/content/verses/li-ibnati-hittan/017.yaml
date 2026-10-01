@@ -1,0 +1,18 @@
+explained: false
+first: وَلَخْمٌ مُلُوكُ النَّاسِ يُجْبَى إِلَيْهُمُ
+second: إِذَا قَالَ مِنْهُمْ قَائِلٌ فَهْوَ وَاجِبُ
+vocabulary:
+- term: لَخْمٌ
+  text: قبيلة يمانية [@mufaddaliyyat، ص206، الحاشية]، منها ملوك الحيرة.
+- term: يُجْبَى إِلَيْهُمُ
+  text: يُحمل إليهم الخراج.
+- term: وَاجِبُ
+  text: نافذ لازم.
+sources:
+- source: mufaddaliyyat
+  loc: ص206
+  url: https://shamela.ws/book/6904/180
+- source: mufaddaliyyat
+  loc: ص206، الحاشية
+  url: https://archive.org/details/20240818_20240818_1710/page/n205/mode/1up
+status: review

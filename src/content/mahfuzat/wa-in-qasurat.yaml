@@ -1,0 +1,13 @@
+kind: "bayt"
+title: "وإن قصرت أسيافنا كان وصلها"
+part: "1"
+order: 40
+person: "al-akhnas-ibn-shihab"
+verses:
+  - "li-ibnati-hittan/024"
+meaning: "إذا قصرت سيوفنا عن العدو وصلناها بالتقدم إليه. ويقول ابن الأَنْبارِيّ إن الأخنس «أول العرب وصل قصر» السيوف بالخطى، فأخذ المعنى بعده شعراء كثيرون [@khizana، ج7 ص31]."
+sources:
+  - source: "khizana"
+    loc: "ج7 ص31"
+    url: "https://shamela.ws/book/12732/2988"
+status: "review"

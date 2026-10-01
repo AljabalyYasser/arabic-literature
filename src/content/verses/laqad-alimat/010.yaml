@@ -1,0 +1,23 @@
+explained: false
+first: وَمَا رِمْتُ حَتَّى بَلَّ نَحْرِي وَصَدْرَهُ
+second: نَجِيعٌ كَهُدَّابِ الدِّمَقْسِ الْمُسَيَّرِ
+vocabulary:
+- term: رِمْتُ
+  text: برحت مكاني.
+- term: نَجِيعٌ
+  text: دم.
+- term: هُدَّابِ الدِّمَقْسِ
+  text: 'أطراف الحرير المتدلية؛ والدمقس: «الحرير» [@mufaddaliyyat، ص362، الحاشية].'
+- term: الْمُسَيَّرِ
+  text: المخطَّط؛ «وثوب مسيّر وشيه مثل السيور» [@lisan، ج4 ص390].
+sources:
+- source: mufaddaliyyat
+  loc: ص362
+  url: https://shamela.ws/book/6904/336
+- source: mufaddaliyyat
+  loc: ص362، الحاشية
+  url: https://archive.org/details/20240818_20240818_1710/page/n361/mode/1up
+- source: lisan
+  loc: ج4 ص390
+  url: https://shamela.ws/book/1687/2350
+status: review

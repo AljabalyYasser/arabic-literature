@@ -1,0 +1,21 @@
+explained: false
+first: أَخُصْيَيْ حِمَارٍ بَاتَ يَكْدِمُ نَجْمَةً
+second: أَتَأْكُلُ جِيرَانِي وَجَارُكَ سَالِمُ
+vocabulary:
+- term: أَخُصْيَيْ حِمَارٍ
+  text: '«أراد: يا خصيي حمار؛ يخاطب النعمان، يصغّره بذلك» [@mufaddaliyyat، ص313، الحاشية].'
+- term: يَكْدِمُ
+  text: يعضّ بمقدَّم فمه.
+- term: نَجْمَةً
+  text: 'واحدة النَّجْم، وهو من النبات ما لا ساق له؛ وقيل: هي الثَّيِّلة، «وهي شجرة خضراء» تمتد على وجه الأرض [@lisan، ج12 ص568].'
+sources:
+- source: mufaddaliyyat
+  loc: ص313
+  url: https://shamela.ws/book/6904/287
+- source: mufaddaliyyat
+  loc: ص313، الحاشية
+  url: https://archive.org/details/20240818_20240818_1710/page/n312/mode/1up
+- source: lisan
+  loc: ج12 ص568
+  url: https://shamela.ws/book/1687/6481
+status: review

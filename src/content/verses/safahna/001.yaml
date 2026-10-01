@@ -1,0 +1,19 @@
+explained: false
+first: صَفَحْنَا عَنْ بَنِي ذُهْلٍ
+second: وَقُلْنَا الْقَوْمُ إِخْوَانُ
+vocabulary:
+- term: صَفَحْنَا
+  text: 'عفونا؛ قال البغدادي: «الصفح: العفو، وحقيقته أعرضنا عنهم وأوليناهم صفحة عنقنا» [@khizana، ج3 ص432].'
+- term: بَنِي ذُهْلٍ
+  text: 'قبيلة من رَبِيعة؛ «ذُهلان كلاهما من رَبِيعة: أحدهما ذهل بن شيبان بن ثعلبة بن عكابة، والآخر ذهل بن ثعلبة بن عكابة» [@lisan، ج11 ص260].'
+sources:
+- source: tabrizi-hamasa
+  loc: ج1 ص6
+  url: https://shamela.ws/book/6907/5
+- source: khizana
+  loc: ج3 ص432
+  url: https://shamela.ws/book/12732/1365
+- source: lisan
+  loc: ج11 ص260
+  url: https://shamela.ws/book/1687/5440
+status: review

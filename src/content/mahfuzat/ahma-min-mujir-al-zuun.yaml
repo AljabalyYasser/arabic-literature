@@ -1,0 +1,11 @@
+kind: "mathal"
+part: "1"
+order: 39
+person: "rabia-ibn-mukaddam"
+text: "أَحْمَى مِنْ مُجِيرِ الظُّعُنِ"
+meaning: "يُضرب في الحماية. ومجير الظعن رَبِيعة بن مُكَدَّم، الذي يُروى أنه حمى ظعائن قومه بعد موته: «ما نعلم قتيلا حمى ظعائن غير رَبِيعة بن مكدم» [@maydani، ج1 ص221–222]."
+sources:
+  - source: "maydani"
+    loc: "ج1 ص221–222"
+    url: "https://shamela.ws/book/12929/1207"
+status: "review"

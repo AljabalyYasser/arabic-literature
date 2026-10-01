@@ -1,0 +1,14 @@
+kind: "bayt"
+title: "فتكت به كما فتكت بخالد"
+part: "1"
+order: 32
+person: "al-harith-ibn-zalim"
+verses:
+  - "qifa-fasmaa/006"
+story: "fatk-al-harith"
+meaning: "قاله الحارِث بن ظالم بعد أن قتل ابن الملك، يذكر فتكته الأولى بخالد بن جعفر. ومنه المثل: «أفتك من الحارِث بن ظالم» [@maydani، ج2 ص89]."
+sources:
+  - source: "maydani"
+    loc: "ج2 ص89"
+    url: "https://shamela.ws/book/12929/2897"
+status: "review"

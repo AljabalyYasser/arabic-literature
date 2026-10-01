@@ -1,0 +1,26 @@
+explained: false
+first: كَأَنَّ الْإِثْمِدَ الْحَارِيَّ فِيهَا
+second: يُسَفُّ بِحَيْثُ تَبْتَدِرُ الدُّمُوعُ
+vocabulary:
+- term: الْإِثْمِدَ
+  text: حَجَر يُتّخذ منه الكحل.
+- term: الْحَارِيَّ
+  text: منسوب إلى الحِيرة على غير قياس [@asmaiyyat، ص173، الحاشية].
+- term: يُسَفُّ
+  text: يُذَرّ [@khizana، ج8 ص185]، من «أسففت الوشم»، وهو «أن يغرز الجلد بإبرة ثم تحشى المغارز كحلا» [@lisan، ج9 ص153].
+- term: تَبْتَدِرُ الدُّمُوعُ
+  text: تتسابق الدموع في السيلان.
+sources:
+- source: asmaiyyat
+  loc: ص173
+  url: https://shamela.ws/book/6905/158
+- source: asmaiyyat
+  loc: ص173، الحاشية
+  url: https://shamela.ws/book/6905/158
+- source: khizana
+  loc: ج8 ص185
+  url: https://shamela.ws/book/12732/3723
+- source: lisan
+  loc: ج9 ص153
+  url: https://shamela.ws/book/1687/4460
+status: review

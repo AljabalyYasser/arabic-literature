@@ -1,0 +1,24 @@
+explained: false
+first: بِئْسَ الْخَلَائِفُ بَعْدَنَا
+second: أَوْلَادُ يَشْكُرَ وَاللَّقَاحُ
+vocabulary:
+- term: الْخَلَائِفُ
+  text: جمع خليفة، وهو من يخلف القوم بعدهم.
+- term: يَشْكُرَ
+  text: «وبنو يَشْكُر قبيلة في بَكْر بن وائِل» [@lisan، ج4 ص427].
+- term: اللَّقَاحُ
+  text: 'بنو حنيفة، «سُمّوا بذلك لأنهم لا يدينون بالطاعة للملوك، وكانوا قد اعتزلوا حرب بَكْر وتَغْلِب إلا الفند الزماني» [@lisan، ج2 ص409]. وقيل: هي بكسر اللام، جمع لِقْحة، وهي الناقة ذات اللبن، وقال البغدادي: «وهذا ليس بالوجه» [@khizana، ج1 ص471].'
+sources:
+- source: tabrizi-hamasa
+  loc: ج1 ص193
+  url: https://shamela.ws/book/6907/192
+- source: lisan
+  loc: ج4 ص427
+  url: https://shamela.ws/book/1687/2387
+- source: lisan
+  loc: ج2 ص409
+  url: https://shamela.ws/book/1687/1213
+- source: khizana
+  loc: ج1 ص471
+  url: https://shamela.ws/book/12732/468
+status: review

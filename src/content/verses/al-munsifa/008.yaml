@@ -1,0 +1,21 @@
+explained: false
+first: هُمُ صَبَرُوا وَصَبْرُهُمُ تَلِيدٌ
+second: عَلَى الْعَزَّاءِ إِذْ بَلَغَ الْمَضِيقُ
+vocabulary:
+- term: تَلِيدٌ
+  text: قديم موروث، «وأصله المال القديم» [@asmaiyyat، ص200، الحاشية].
+- term: الْعَزَّاءِ
+  text: 'الشدة [@asmaiyyat، ص200، الحاشية]؛ و«العزّاء: السنة الشديدة... وقيل: هي الشدة» [@lisan، ج5 ص377].'
+- term: الْمَضِيقُ
+  text: الموضع الضيق، يريد اشتداد الحرب.
+sources:
+- source: asmaiyyat
+  loc: ص200
+  url: https://shamela.ws/book/6905/184
+- source: asmaiyyat
+  loc: ص200، الحاشية
+  url: https://shamela.ws/book/6905/184
+- source: lisan
+  loc: ج5 ص377
+  url: https://shamela.ws/book/1687/2961
+status: review

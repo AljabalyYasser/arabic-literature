@@ -1,0 +1,29 @@
+explained: false
+first: لَدَى الْأَعْلَامِ مِنْ تَلَعَاتِ طِفْلٍ
+second: وَمِنْهُمْ مَنْ أَضَجَّ بِهِ الْفُرُوقُ
+vocabulary:
+- term: تَلَعَاتِ
+  text: 'جمع تلعة؛ «والتلعة: مجرى الماء من أعلى الوادي إلى بطون الأرض» [@lisan، ج8 ص36].'
+- term: طِفْلٍ
+  text: يبدو اسم موضع، ولم تعرّفه المصادر المعتمدة، ولم يضبطه المطبوع.
+- term: أَضَجَّ
+  text: صاح وجلّب؛ «وأضجّوا إضجاجًا إذا صاحوا فجلّبوا» [@lisan، ج2 ص312].
+- term: الْفُرُوقُ
+  text: «موضع في ديار بني سعد» [@lisan، ج10 ص306]، وضُبط بضم الفاء في الشنقيطية [@asmaiyyat، ص201، الحاشية].
+sources:
+- source: asmaiyyat
+  loc: ص201
+  url: https://shamela.ws/book/6905/185
+- source: lisan
+  loc: ج8 ص36
+  url: https://shamela.ws/book/1687/3884
+- source: lisan
+  loc: ج2 ص312
+  url: https://shamela.ws/book/1687/1116
+- source: lisan
+  loc: ج10 ص306
+  url: https://shamela.ws/book/1687/4975
+- source: asmaiyyat
+  loc: ص201، الحاشية
+  url: https://shamela.ws/book/6905/185
+status: review

@@ -1,0 +1,26 @@
+explained: false
+first: وَسَوْقُ كَتِيبَةٍ دَلَفَتْ لِأُخْرَى
+second: كَأَنَّ زُهَاءَهَا رَأْسٌ صَلِيعُ
+vocabulary:
+- term: كَتِيبَةٍ
+  text: جماعة من الجيش.
+- term: دَلَفَتْ
+  text: مشت رويدًا متقاربة الخطو، «وذلك لكثرة الجيش» [@asmaiyyat، ص175، الحاشية].
+- term: زُهَاءَهَا
+  text: 'قدرها وعددها؛ «وزهاء الشيء وزهاؤه: قدره» [@lisan، ج14 ص363].'
+- term: رَأْسٌ صَلِيعُ
+  text: '«جبل لا نبت عليه»، فيما نقل المحققان عن الشنقيطي [@asmaiyyat، ص175، الحاشية]؛ وقال البغدادي: «والرأس الصليع: الذي انحسر شعر مقدمه» [@khizana، ج8 ص186].'
+sources:
+- source: asmaiyyat
+  loc: ص175
+  url: https://shamela.ws/book/6905/159
+- source: asmaiyyat
+  loc: ص175، الحاشية
+  url: https://shamela.ws/book/6905/159
+- source: lisan
+  loc: ج14 ص363
+  url: https://shamela.ws/book/1687/7487
+- source: khizana
+  loc: ج8 ص186
+  url: https://shamela.ws/book/12732/3724
+status: review

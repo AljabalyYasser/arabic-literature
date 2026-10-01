@@ -1,0 +1,26 @@
+explained: false
+first: تَحْتِي الْأَغَرُّ وَفَوْقَ جِلْدِي نَثْرَةٌ
+second: زَغْفٌ تَرُدُّ السَّيْفَ وَهْوَ مُثَلَّمُ
+vocabulary:
+- term: الْأَغَرُّ
+  text: 'فرسه [@asmaiyyat، ص128، الحاشية]، والأغرّ في الأصل: الأبيض الجبهة.'
+- term: نَثْرَةٌ
+  text: '«الدرع السلسة الملبس، وقيل: هي الدرع الواسعة» [@lisan، ج5 ص193].'
+- term: زَغْفٌ
+  text: 'درع «المحكمة، وقيل: الواسعة الطويلة ... وقيل: الدرع اللينة» [@lisan، ج9 ص135].'
+- term: مُثَلَّمُ
+  text: قد تكسّر حدّه.
+sources:
+- source: asmaiyyat
+  loc: ص128
+  url: https://shamela.ws/book/6905/114
+- source: asmaiyyat
+  loc: ص128، الحاشية
+  url: https://shamela.ws/book/6905/114
+- source: lisan
+  loc: ج5 ص193
+  url: https://shamela.ws/book/1687/2777
+- source: lisan
+  loc: ج9 ص135
+  url: https://shamela.ws/book/1687/4442
+status: review

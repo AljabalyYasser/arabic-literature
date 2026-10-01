@@ -1,0 +1,23 @@
+explained: false
+first: فَلَوْلَا زُهَيْرٌ أَنْ أُكَدِّرَ نِعْمَةً
+second: لَقَاذَعْتُ كَعْبًا مَا بَقِيتُ وَمَا بَقَا
+vocabulary:
+- term: زُهَيْرٌ
+  text: زُهَيْر بن أبي سُلْمى، والد كعب [@khizana، ج9 ص497].
+- term: أُكَدِّرَ نِعْمَةً
+  text: 'أُفسد معروفًا له عندي؛ والتقدير: «فلولا تكدير نعمة لزُهَيْر» [@khizana، ج9 ص497].'
+- term: لَقَاذَعْتُ
+  text: لرميته بالقَذَع، وهو «الفحش والخنى» [@khizana، ج9 ص497].
+- term: بَقَا
+  text: بَقِيَ، على لغة طيئ [@khizana، ج9 ص495].
+sources:
+- source: khizana
+  loc: ج9 ص494
+  url: https://shamela.ws/book/12732/4612
+- source: khizana
+  loc: ج9 ص497
+  url: https://shamela.ws/book/12732/4615
+- source: khizana
+  loc: ج9 ص495
+  url: https://shamela.ws/book/12732/4613
+status: review
