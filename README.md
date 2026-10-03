@@ -11,7 +11,7 @@
 - [Astro](https://astro.build) يبني صفحة HTML ثابتة لكل عصر وقضية وعلَم ومرحلة ونص وبيت.
 - المحتوى ملفات Markdown وMDX وYAML في `src/content/`، ويُتحقق من بنيتها ومراجعها عند كل بناء.
 - [Pagefind](https://pagefind.app) للبحث، بلا خادم.
-- النشر على Cloudflare Workers (أصول ثابتة) من فرع `main`.
+- النشر على Cloudflare Workers (أصول ثابتة) من فرع `main`، عبر GitHub Actions (`.github/workflows/deploy.yml`).
 
 ## التشغيل
 
@@ -22,12 +22,14 @@ npm run build     # بناء الموقع وفهرس البحث في dist/
 npm run preview   # تشغيل النسخة المبنية عبر Wrangler
 ```
 
-## إعدادات Cloudflare
+## النشر
 
-| الإعداد | القيمة |
-|---|---|
-| Build command | `npm run build` |
-| Deploy command | `npx wrangler deploy` |
-| Preview command | `npx wrangler preview` |
+عند كل دفع إلى `main` يعمل `.github/workflows/deploy.yml` على GitHub Actions:
 
-مجلد النشر وخيارات الروابط محددة في `wrangler.jsonc`.
+1. يثبّت الحزم ويبني الموقع (`npm ci` ثم `npm run build`).
+2. يرفعه إلى Cloudflare بـ`npx wrangler deploy`.
+3. يتحقق من أن الصفحات المنشورة تطابق المبنية حرفًا، فإن لم تتطابق فشل النشر.
+
+ويحتاج سرًّا واحدًا في إعدادات المستودع: `CLOUDFLARE_API_TOKEN`، وهو رمز Cloudflare بقالب «Edit Cloudflare Workers». ويمكن تشغيله يدويًا من تبويب Actions (Run workflow).
+
+ولا نعتمد على خدمة البناء في Cloudflare (Workers Builds): تعطّلت صباح 3 أكتوبر 2026 فتأخر نشر ثلاثة دمجات، وسجلاتها لا تُقرأ إلا من لوحة Cloudflare. ومجلد النشر وخيارات الروابط محددة في `wrangler.jsonc`.
