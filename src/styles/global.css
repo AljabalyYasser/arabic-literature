@@ -674,6 +674,34 @@ html.js .verse .panel + .panel { margin-top: 0; }
 .part-row .more { margin: 0.75rem 0 0; font-family: var(--font-ui); font-size: 0.85rem; }
 .part-row .muted.small { margin: 0 0 0.5rem; }
 
+/* العصر المكتوب في الصفحة الرئيسية: كل ما كُتب فيه ظاهر، لا خلف رابط. */
+.era-side .btn { margin-top: 1rem; }
+.era-stats { list-style: none; margin: 1rem 0 0; padding: 0; display: grid; gap: 0.3rem; font-family: var(--font-ui); font-size: 0.85rem; color: var(--ink-2); }
+.era-stats b { color: var(--accent); font-size: 1.05rem; margin-inline-end: 0.2rem; }
+.era-main { display: grid; gap: 1rem; min-width: 0; }
+.era-boxes { display: grid; gap: 1rem; }
+@media (min-width: 1000px) { .era-boxes { grid-template-columns: 1fr 1fr; } }
+.era-box { border: 1px solid var(--line); border-radius: var(--radius-sm); padding: 1rem 1.1rem; background: var(--paper); }
+.era-box h4 { font-family: var(--font-ui); font-size: 1rem; margin: 0 0 0.6rem; }
+.era-box h5 { font-family: var(--font-ui); font-size: 0.88rem; margin: 0.9rem 0 0.45rem; }
+.era-box .era-tier:first-of-type h5 { margin-top: 0; }
+.era-box .muted.small { margin: 0.6rem 0 0; }
+.era-box .station-list li { grid-template-columns: 2rem 1fr auto; }
+
+/* جديد الموقع */
+.updates { list-style: none; margin: 0; padding: 0; display: grid; gap: 1rem; }
+@media (min-width: 800px) { .updates { grid-template-columns: repeat(2, 1fr); } }
+.update time { font-family: var(--font-ui); font-size: 0.8rem; color: var(--accent); }
+.update h3 { font-size: 1.15rem; margin: 0.25rem 0 0.4rem; }
+.update h3 a { color: inherit; text-decoration: none; }
+.update h3 a:hover { color: var(--accent); }
+.update .pill-list { margin-top: 0.75rem; }
+.more-link { margin: 1rem 0 0; font-family: var(--font-ui); font-size: 0.9rem; }
+
+/* فهرس أقسام صفحة العصر */
+.page-toc { margin-block: 1.5rem 0.5rem; }
+.page-toc > b { display: block; font-family: var(--font-ui); font-size: 0.82rem; color: var(--ink-3); margin-bottom: 0.5rem; }
+
 .station-list { list-style: none; margin: 0; padding: 0; display: grid; gap: 0.15rem; }
 .station-list li { display: grid; grid-template-columns: 2.75rem 1fr auto; gap: 0.5rem; align-items: baseline; padding: 0.35rem 0; border-bottom: 1px dotted var(--line); }
 .station-list li:last-child { border-bottom: 0; }

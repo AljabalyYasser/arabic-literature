@@ -1,7 +1,9 @@
 ---
+import { getCollection } from 'astro:content';
 import Base from '../layouts/Base.astro';
-import { ago, countWord, getEras, nameGen, readingOrder, url } from '../lib/content';
-import { ordinals } from '../lib/labels';
+import UpdatesList from '../components/UpdatesList.astro';
+import { ago, countWord, getEras, nameGen, readingOrder, url, type Era } from '../lib/content';
+import { ordinals, tiers } from '../lib/labels';
 
 const eras = await getEras();
 const intro = eras.find((e) => e.entry.data.number === 0);
@@ -10,6 +12,29 @@ const order = await readingOrder();
 const first = order[0];
 // زر «تابع» يقرأ ما أنهيته من المتصفح، فيحتاج إلى ترتيب القراءة كله.
 const continueData = JSON.stringify(order.map((c) => ({ id: c.id, href: url.chapter(c.id), title: c.data.title })));
+
+// العصر المكتوب يُعرض مفتوحًا: كل ما كُتب فيه ظاهر هنا، لا خلف رابط.
+const people = await getCollection('people');
+const texts = await getCollection('texts');
+const stories = await getCollection('stories');
+const updatesCount = (await getCollection('updates')).length;
+const eraOf = new Map(people.map((p) => [p.id, p.data.part.id]));
+// المعدود بعد العدد المكتوب أرقامًا: جمع من 3 إلى 10، ومفرد فيما سواها، ومثنى للاثنين.
+const noun = (n: number, [one, two, few, many]: [string, string, string, string]) =>
+  n === 1 ? one : n === 2 ? two : n % 100 >= 3 && n % 100 <= 10 ? few : many;
+const stats = (era: Era) => {
+  const id = era.entry.id;
+  const pages = [...era.formative, ...era.important].filter((s) => s.entry).length;
+  const groups = era.groups.filter((g) => g.hasPage);
+  return {
+    topics: era.topics.filter((t) => t.entry).length,
+    pages,
+    groups,
+    faces: groups.reduce((n, g) => n + g.faces.length, 0),
+    texts: texts.filter((t) => t.data.author && eraOf.get(t.data.author.id) === id).length,
+    stories: stories.filter((st) => st.data.people.some((p) => eraOf.get(p.id) === id)).length,
+  };
+};
 ---
 <Base title="الشعر والأدب العربي">
   <section class="hero">
@@ -21,6 +46,15 @@ const continueData = JSON.stringify(order.map((c) => ({ id: c.id, href: url.chap
       <a class="btn" href="#journey">خريطة الرحلة</a>
       <a class="btn" href="/method/">كيف يُوثَّق المحتوى</a>
     </div>
+  </section>
+
+  <section class="section" id="new">
+    <div class="section-head">
+      <h2>جديد الموقع</h2>
+      <p>آخر ما أُضيف، وكل إضافة معها روابط مواضعها.</p>
+    </div>
+    <UpdatesList limit={4} />
+    {updatesCount > 4 && <p class="more-link"><a href="/updates/">كل الجديد</a></p>}
   </section>
 
   {intro && intro.topics.some((t) => t.entry) && (
@@ -44,7 +78,77 @@ const continueData = JSON.stringify(order.map((c) => ({ id: c.id, href: url.chap
       <p>تسير الأبواب في خط تاريخي عام، وبعضها مسارات إقليمية متوازية تتداخل في الزمن: فالأندلس تعاصر العباسي في المشرق، وعصر الدول المتتابعة يبدأ والأندلس قائمة. لكل عصر صفحة تقول لك أين أنت وما الذي ستدرسه، وفيها طريق مقترح لقراءته. وما كان باهتًا لم يُنشر بعد.</p>
     </div>
     <div class="journey">
-      {rest.map((era) => (
+      {rest.map((era) => era.route.length > 0 ? (() => {
+        const st = stats(era);
+        const planned = era.topics.filter((t) => !t.entry);
+        const tierRows = (['formative', 'important'] as const).map((key) => ({ key, list: era[key] })).filter((r) => r.list.some((s) => s.entry));
+        return (
+          <article class="part-row era-open">
+            <div class="era-side">
+              <span class="kicker">الباب {ordinals[era.entry.data.number - 1]}</span>
+              <h3><a href={url.era(era.entry.id)}>{era.entry.data.title}</a></h3>
+              {era.entry.data.range && <div class="range">{era.entry.data.range}</div>}
+              {era.entry.data.start && <div class="ago">بدأ {ago(era.entry.data.start, true)}</div>}
+              <ul class="era-stats" aria-label="ما كُتب في هذا العصر">
+                <li><b>{st.topics}</b> {noun(st.topics, ['قضية', 'قضيتان', 'قضايا', 'قضية'])}</li>
+                <li><b>{st.pages}</b> {noun(st.pages, ['علم له صفحة', 'علمان لهما صفحتان', 'أعلام لهم صفحات', 'علمًا لهم صفحات'])}</li>
+                <li><b>{st.faces}</b> {noun(st.faces, ['وجه', 'وجهان', 'وجوه', 'وجهًا'])} في {countWord(st.groups.length, ['مجموعة واحدة', 'مجموعتين', 'مجموعات', 'مجموعة'])}</li>
+                <li><b>{st.texts}</b> {noun(st.texts, ['نص يُقرأ', 'نصان يُقرآن', 'نصوص تُقرأ', 'نصًّا تُقرأ'])}</li>
+                <li><b>{st.stories}</b> {noun(st.stories, ['حكاية', 'حكايتان', 'حكايات', 'حكاية'])}</li>
+              </ul>
+              <a class="btn" href={url.era(era.entry.id)}>صفحة العصر كاملة</a>
+            </div>
+            <div class="era-main">
+              <section class="era-box">
+                <h4>ابدأ من هنا: الطريق المقترح</h4>
+                <ol class="station-list">
+                  {era.route.map((item, i) => item.kind === 'topic' ? (
+                    <li data-station-id={item.slot.entry?.id}>
+                      <span class="n">{i + 1}</span>
+                      {item.slot.entry ? <a href={url.chapter(item.slot.entry.id)}>{item.slot.title}</a> : <span class="planned">{item.slot.title}</span>}
+                      <span class="done-mark" aria-label="أنهيتها">✓</span>
+                    </li>
+                  ) : (
+                    <li data-done-all={item.stages.map((s) => s.id).join(' ')}>
+                      <span class="n">{i + 1}</span>
+                      <span><a href={url.person(item.person.id)}>مسار {nameGen(item.person)}</a> <span class="sub">{countWord(item.stages.length, ['مرحلة واحدة', 'مرحلتان', 'مراحل', 'مرحلة'])}</span></span>
+                      <span class="done-mark" aria-label="أنهيته">✓</span>
+                    </li>
+                  ))}
+                </ol>
+                {planned.length > 0 && <p class="muted small">ولم تُكتب بعد: {planned.map((t) => t.title).join('، ')}.</p>}
+              </section>
+              <div class="era-boxes">
+                <section class="era-box">
+                  <h4>أعلام العصر</h4>
+                  {tierRows.map(({ key, list }) => (
+                    <div class="era-tier">
+                      <h5>{tiers[key].plural} <span class="sub">{list.filter((s) => s.entry).length} من {list.length}</span></h5>
+                      <ul class="pill-list">{list.filter((s) => s.entry).map((s) => <li><a href={url.person(s.id)}>{s.name}</a></li>)}</ul>
+                    </div>
+                  ))}
+                </section>
+                {st.groups.length > 0 && (
+                  <section class="era-box">
+                    <h4>وجوه العصر في مجموعات</h4>
+                    <p class="muted small">{tiers.face.hint}</p>
+                    <ol class="station-list">
+                      {st.groups.map((g) => (
+                        <li>
+                          <span class="n">{g.number}</span>
+                          <a href={url.group(g.era, g.id)}>{g.title}</a>
+                          <span class="sub">{countWord(g.faces.length, ['وجه واحد', 'وجهان', 'وجوه', 'وجهًا'])}</span>
+                        </li>
+                      ))}
+                    </ol>
+                    <p class="muted small">كُتبت {st.groups.length} من {era.groups.length} مجموعة، والباقي في <a href={`${url.era(era.entry.id)}#faces`}>صفحة العصر</a>.</p>
+                  </section>
+                )}
+              </div>
+            </div>
+          </article>
+        );
+      })() : (
         <article class="part-row">
           <div>
             <span class="kicker">الباب {ordinals[era.entry.data.number - 1]}</span>
@@ -52,33 +156,12 @@ const continueData = JSON.stringify(order.map((c) => ({ id: c.id, href: url.chap
             {era.entry.data.range && <div class="range">{era.entry.data.range}</div>}
             {era.entry.data.start && <div class="ago">بدأ {ago(era.entry.data.start, true)}</div>}
           </div>
-          {era.route.length > 0 ? (
-            <div>
-              <ol class="station-list">
-                {era.route.map((item, i) => item.kind === 'topic' ? (
-                  <li data-station-id={item.slot.entry?.id}>
-                    <span class="n">{i + 1}</span>
-                    {item.slot.entry ? <a href={url.chapter(item.slot.entry.id)}>{item.slot.title}</a> : <span class="planned">{item.slot.title}</span>}
-                    <span class="done-mark" aria-label="أنهيتها">✓</span>
-                  </li>
-                ) : (
-                  <li data-done-all={item.stages.map((s) => s.id).join(' ')}>
-                    <span class="n">{i + 1}</span>
-                    <span><a href={url.person(item.person.id)}>مسار {nameGen(item.person)}</a> <span class="sub">{countWord(item.stages.length, ['مرحلة واحدة', 'مرحلتان', 'مراحل', 'مرحلة'])}</span></span>
-                    <span class="done-mark" aria-label="أنهيته">✓</span>
-                  </li>
-                ))}
-              </ol>
-              {era.hasPage && <p class="more"><a href={url.era(era.entry.id)}>قضايا العصر وأعلامه كلها</a></p>}
-            </div>
-          ) : (
-            <div>
-              <p class="muted small">خطة مسودة، تُراجع قبل كتابة العصر:</p>
-              <ol class="station-list">
-                {era.entry.data.plan.map((s) => <li><span class="n">{s.number}</span><span class="planned">{s.title}</span><span></span></li>)}
-              </ol>
-            </div>
-          )}
+          <div>
+            <p class="muted small">خطة مسودة، تُراجع قبل كتابة العصر:</p>
+            <ol class="station-list">
+              {era.entry.data.plan.map((s) => <li><span class="n">{s.number}</span><span class="planned">{s.title}</span><span></span></li>)}
+            </ol>
+          </div>
         </article>
       ))}
     </div>

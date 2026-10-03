@@ -292,4 +292,15 @@ const sources = defineCollection({
   }),
 });
 
-export const collections = { parts, chapters, people, groups, texts, verses, stories, concepts, mahfuzat, sources };
+// جديد الموقع: ما أُضيف إليه، بتاريخ نشره وروابط مواضعه. يُعرض أحدثه في الصفحة الرئيسية، وكله في /updates/.
+const updates = defineCollection({
+  loader: glob({ base: './src/content/updates', pattern: '*.yaml' }),
+  schema: z.object({
+    date: z.string().regex(/^\d{4}-\d{2}-\d{2}$/),
+    title: z.string(),
+    text: z.string(),
+    links: z.array(z.object({ label: z.string(), href: z.string().startsWith('/') })).default([]),
+  }),
+});
+
+export const collections = { parts, chapters, people, groups, texts, verses, stories, concepts, mahfuzat, sources, updates };

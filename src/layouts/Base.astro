@@ -74,6 +74,7 @@ const nav = [
             <nav class="menu-panel" aria-label="القائمة">
               {nav.map((item) => <a href={item.href} aria-current={item.match(path) ? 'page' : undefined}>{item.label}</a>)}
               <hr />
+              <a href="/updates/">جديد الموقع</a>
               <a href="/stories/">الحكايات</a>
               <a href="/sources/">المصادر</a>
               <a href="/method/">منهج التوثيق</a>
@@ -93,6 +94,7 @@ const nav = [
       <div class="shell footer-row">
         <div><b>{siteName}</b> · تاريخ الأدب، والشعر، والنثر، وعلوم النص</div>
         <nav aria-label="روابط التذييل">
+          <a href="/updates/">جديد الموقع</a>
           <a href="/sources/">المصادر</a>
           <a href="/method/">منهج التوثيق ودرجات الرواية</a>
           <a href="/search/">البحث</a>

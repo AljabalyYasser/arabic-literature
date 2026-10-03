@@ -23,6 +23,18 @@ const ov = d.overview;
 const sources = await sourceMap();
 // الفقرات يفصل بينها سطر فارغ.
 const paras = (t: string) => t.split(/\n\s*\n/).map((x) => x.trim()).filter(Boolean);
+// فهرس أقسام الصفحة بترتيبها، ليصل القارئ إلى الطريق والأعلام والوجوه دون أن يبحث عنها.
+const toc = [
+  ov && { id: 'history', title: 'ماذا حدث؟' },
+  ov && { id: 'change', title: 'ما الذي تغيّر؟' },
+  ov && ov.arts.length > 0 && { id: 'arts', title: 'الفنون' },
+  ov && (ov.books.length > 0 || ov.booksLater.length > 0) && { id: 'books', title: 'الكتب' },
+  ov && ov.texts.length > 0 && { id: 'texts', title: 'نصوص صنعت العصر' },
+  era.route.length > 0 && { id: 'route', title: 'الطريق المقترح' },
+  era.topics.length > 0 && { id: 'topics', title: 'القضايا' },
+  (era.formative.length > 0 || era.important.length > 0) && { id: 'alam', title: 'الأعلام' },
+  era.groups.length > 0 && { id: 'faces', title: 'الوجوه في مجموعات' },
+].filter(Boolean) as { id: string; title: string }[];
 ---
 <Base title={d.title} description={stripCites(d.summary) ?? `${d.title}: قضاياه وأعلامه والطريق المقترح لقراءته.`} searchType="عصر">
   <Crumbs items={[{ href: '/', label: 'المسار' }, { label: eraName }]} />
@@ -32,22 +44,28 @@ const paras = (t: string) => t.split(/\n\s*\n/).map((x) => x.trim()).filter(Bool
     {d.summary && <p class="lede measure" set:html={fmt(d.summary, sources)} />}
     <div class="meta-row"><StatusBadge status={d.status} /></div>
     {d.caveat && <p class="note-box measure" set:html={fmt(d.caveat, sources)} />}
+    {toc.length > 2 && (
+      <nav class="page-toc" aria-label="أقسام الصفحة">
+        <b>في هذه الصفحة</b>
+        <ul class="pill-list">{toc.map((t) => <li><a href={`#${t.id}`}>{t.title}</a></li>)}</ul>
+      </nav>
+    )}
   </header>
 
   {ov && (
     <div class="era-map">
-      <section class="section measure">
+      <section class="section measure" id="history">
         <div class="section-head"><span class="kicker">أين أنت؟</span><h2>ماذا حدث؟</h2></div>
         {paras(ov.history).map((t) => <p set:html={fmt(t, sources)} />)}
       </section>
 
-      <section class="section measure">
+      <section class="section measure" id="change">
         <div class="section-head"><h2>ما الذي تغيّر في اللغة والأدب؟</h2></div>
         {paras(ov.change).map((t) => <p set:html={fmt(t, sources)} />)}
       </section>
 
       {ov.arts.length > 0 && (
-        <section class="section">
+        <section class="section" id="arts">
           <div class="section-head"><h2>الفنون التي برزت</h2></div>
           <div class="grid two">
             {ov.arts.map((a) => <article class="card"><h3>{a.title}</h3><p set:html={fmt(a.text, sources)} /></article>)}
@@ -75,7 +93,7 @@ const paras = (t: string) => t.split(/\n\s*\n/).map((x) => x.trim()).filter(Bool
       ))}
 
       {(ov.books.length > 0 || ov.booksLater.length > 0) && (
-        <section class="section measure">
+        <section class="section measure" id="books">
           <div class="section-head"><h2>أهم الكتب</h2></div>
           <h3 class="list-head">من آثار العصر وأهله</h3>
           {ov.books.length > 0 && <ul class="name-list">{ov.books.map((k) => <li><b>{k.title}</b> <span set:html={fmt(k.text, sources)} /></li>)}</ul>}
@@ -90,7 +108,7 @@ const paras = (t: string) => t.split(/\n\s*\n/).map((x) => x.trim()).filter(Bool
       )}
 
       {ov.texts.length > 0 && (
-        <section class="section measure">
+        <section class="section measure" id="texts">
           <div class="section-head"><h2>نصوص صنعت العصر</h2></div>
           <ul class="name-list">{ov.texts.map((k) => <li><b>{k.text_id ? <a href={url.text(k.text_id.id)}>{k.title}</a> : k.title}</b> <span set:html={fmt(k.text, sources)} /></li>)}</ul>
           {ov.notes.texts && <p class="era-note" set:html={fmt(ov.notes.texts, sources)} />}
@@ -113,7 +131,7 @@ const paras = (t: string) => t.split(/\n\s*\n/).map((x) => x.trim()).filter(Bool
   )}
 
   {era.route.length > 0 && (
-    <section class="section">
+    <section class="section" id="route">
       <div class="section-head">
         <span class="kicker">من أين تبدأ؟</span>
         <h2>الطريق المقترح</h2>
@@ -138,7 +156,7 @@ const paras = (t: string) => t.split(/\n\s*\n/).map((x) => x.trim()).filter(Bool
   )}
 
   {era.topics.length > 0 && (
-    <section class="section">
+    <section class="section" id="topics">
       <div class="section-head">
         <span class="kicker">قضايا العصر</span>
         <h2>ما يلزم لفهم العصر</h2>
@@ -175,7 +193,7 @@ const paras = (t: string) => t.split(/\n\s*\n/).map((x) => x.trim()).filter(Bool
       ))}
 
       {era.groups.length > 0 && (
-        <div class="tier-block">
+        <div class="tier-block" id="faces">
           <h3>{tiers.face.plural}</h3>
           <p class="muted small">{tiers.face.hint}</p>
           <ol class="group-list">

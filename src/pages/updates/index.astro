@@ -1,0 +1,16 @@
+---
+// جديد الموقع كله، أحدثه أولًا.
+import Base from '../../layouts/Base.astro';
+import Crumbs from '../../components/Crumbs.astro';
+import UpdatesList from '../../components/UpdatesList.astro';
+---
+<Base title="جديد الموقع" description="ما أُضيف إلى الموقع، بتاريخه وروابط مواضعه.">
+  <Crumbs items={[{ href: '/', label: 'المسار' }, { label: 'جديد الموقع' }]} />
+  <header class="station-head">
+    <h1>جديد الموقع</h1>
+    <p class="lede measure">ما أُضيف إلى الموقع، أحدثه أولًا، وكل إضافة معها روابط مواضعها.</p>
+  </header>
+  <section class="section">
+    <UpdatesList />
+  </section>
+</Base>

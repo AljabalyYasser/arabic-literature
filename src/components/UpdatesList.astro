@@ -1,0 +1,28 @@
+---
+// قائمة «جديد الموقع»: أحدث الإضافات أولًا، لكل إضافة تاريخها وروابط مواضعها.
+import { getCollection } from 'astro:content';
+
+interface Props { limit?: number }
+const { limit } = Astro.props;
+
+const months = ['يناير', 'فبراير', 'مارس', 'أبريل', 'مايو', 'يونيو', 'يوليو', 'أغسطس', 'سبتمبر', 'أكتوبر', 'نوفمبر', 'ديسمبر'];
+const fmtDate = (d: string) => {
+  const [y, m, day] = d.split('-').map(Number);
+  return `${day} ${months[m - 1]} ${y}`;
+};
+
+const all = (await getCollection('updates')).sort((a, b) => b.data.date.localeCompare(a.data.date) || b.id.localeCompare(a.id));
+const items = limit ? all.slice(0, limit) : all;
+---
+<ol class="updates">
+  {items.map((u) => (
+    <li class="card update">
+      <time datetime={u.data.date}>{fmtDate(u.data.date)}</time>
+      <h3>{u.data.links[0] ? <a href={u.data.links[0].href}>{u.data.title}</a> : u.data.title}</h3>
+      <p>{u.data.text}</p>
+      {u.data.links.length > 1 && (
+        <ul class="pill-list">{u.data.links.map((l) => <li><a href={l.href}>{l.label}</a></li>)}</ul>
+      )}
+    </li>
+  ))}
+</ol>
