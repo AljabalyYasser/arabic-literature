@@ -1,0 +1,14 @@
+---
+// فهرس أقسام الفصل: العناوين الكبرى، وتحت كل منها فروعه. يُبرز site.ts القسم الذي يقرؤه القارئ الآن.
+export type TocItem = { slug: string; text: string; subs: { slug: string; text: string }[] };
+interface Props { items: TocItem[] }
+const { items } = Astro.props;
+---
+<ol class="toc-list">
+  {items.map((h) => (
+    <li class="toc-group">
+      <a href={`#${h.slug}`}>{h.text}</a>
+      {h.subs.length > 0 && <ol>{h.subs.map((s) => <li><a href={`#${s.slug}`}>{s.text}</a></li>)}</ol>}
+    </li>
+  ))}
+</ol>

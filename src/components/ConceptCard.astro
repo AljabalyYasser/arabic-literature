@@ -1,12 +1,21 @@
 ---
+// مفهوم داخل نص الفصل: يُقرأ تعريفه في مكانه، وصفحته لمن أراد ما يتصل به.
 import { must, url } from '../lib/content';
 import { conceptGroups } from '../lib/labels';
+import Body from './Body.astro';
 
 interface Props { id: string }
 const c = await must({ collection: 'concepts', id: Astro.props.id });
 ---
-<a class="card link-card embed" href={url.concept(c.id)} style="display:block">
-  <span class="kicker">{conceptGroups[c.data.group]}</span>
-  <h3>{c.data.name}</h3>
-  <p>{c.data.short}</p>
-</a>
+<details class="card embed fold">
+  <summary>
+    <span class="kicker">{conceptGroups[c.data.group]}</span>
+    <h3>{c.data.name}</h3>
+    <span class="fold-lede">{c.data.short}</span>
+    <span class="fold-cue" data-closed="اقرأ المفهوم هنا" data-open="أغلق المفهوم"></span>
+  </summary>
+  <div class="fold-body">
+    <Body entry={c} />
+    <p class="fold-more"><a href={url.concept(c.id)}>صفحة المفهوم</a></p>
+  </div>
+</details>

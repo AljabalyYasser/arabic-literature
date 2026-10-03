@@ -851,3 +851,165 @@ html.js .verse .panel + .panel { margin-top: 0; }
 .test-mode .mahfuz .hideable.revealed { filter: none; user-select: auto; }
 .group-toc .pill-list { margin: 0; }
 .group-sec-text { color: var(--ink-2); margin: 0 0 1rem; }
+
+/* ---------- القراءة المتصلة ---------- */
+
+/* بطاقة تنفتح في مكانها داخل الفصل: حكاية، أو مفهوم، أو علَم. */
+.fold { padding: 0; }
+.fold > summary {
+  list-style: none;
+  cursor: pointer;
+  padding: 1.25rem;
+  display: grid;
+  gap: 0.35rem;
+  border-radius: var(--radius);
+}
+.fold > summary::-webkit-details-marker { display: none; }
+.fold > summary:hover { background: color-mix(in srgb, var(--paper-2) 50%, transparent); }
+.fold > summary:focus-visible { outline: 2px solid var(--accent); outline-offset: 2px; }
+.fold > summary h3 { margin: 0.2rem 0 0; }
+.fold-lede { color: var(--ink-2); }
+.fold-cue { font-family: var(--font-ui); font-size: 0.82rem; font-weight: 600; color: var(--accent); margin-top: 0.25rem; }
+.fold-cue::before { content: attr(data-closed) ' ▾'; }
+.fold[open] > summary .fold-cue::before { content: attr(data-open) ' ▴'; }
+.fold[open] > summary { border-bottom: 1px dashed var(--line); border-radius: var(--radius) var(--radius) 0 0; }
+.fold-body { padding: 0.25rem 1.25rem 1.25rem; }
+.fold-body .prose { max-width: none; }
+.fold-note { font-size: 0.95rem; color: var(--ink-2); border-inline-start: 3px solid var(--line-2); padding-inline-start: 0.75rem; }
+.fold-more { margin: 0.75rem 0 0; font-family: var(--font-ui); font-size: 0.85rem; }
+
+/* نافذة المصدر عند الضغط على الإحالة. */
+.cite[aria-expanded='true'] { outline: 2px solid var(--accent); outline-offset: 1px; }
+.cite-pop {
+  position: absolute;
+  z-index: 40;
+  display: grid;
+  gap: 0.2rem;
+  padding: 0.9rem 1rem 0.85rem;
+  padding-inline-end: 2.25rem;
+  background: var(--card);
+  border: 1px solid var(--line-2);
+  border-radius: var(--radius-sm);
+  box-shadow: var(--shadow);
+  font-family: var(--font-ui);
+  font-size: 0.85rem;
+  color: var(--ink-2);
+}
+.cite-pop[hidden] { display: none; }
+.cite-pop .book { color: var(--ink); font-size: 0.95rem; }
+.cite-pop .loc { color: var(--accent); font-weight: 600; }
+.cite-pop .links { display: flex; flex-wrap: wrap; gap: 0.35rem 1rem; margin-top: 0.4rem; }
+.cite-pop .close {
+  position: absolute;
+  inset-inline-end: 0.4rem;
+  top: 0.35rem;
+  border: 0;
+  background: none;
+  color: var(--ink-3);
+  font-size: 1.2rem;
+  line-height: 1;
+  cursor: pointer;
+  padding: 0.25rem;
+}
+
+/* موضع الفصل من طريقه. */
+.route-strip { margin: 0 0 1.5rem; font-family: var(--font-ui); font-size: 0.85rem; }
+.route-strip > b { display: block; color: var(--ink-3); font-weight: 500; font-size: 0.8rem; margin-bottom: 0.45rem; }
+.route-strip ol { list-style: none; margin: 0; padding: 0; display: flex; flex-wrap: wrap; gap: 0.4rem; }
+.route-strip li > a, .route-strip li > span {
+  display: inline-flex;
+  align-items: baseline;
+  gap: 0.4rem;
+  padding: 0.3rem 0.75rem;
+  border: 1px solid var(--line);
+  border-radius: 999px;
+  color: var(--ink-2);
+  text-decoration: none;
+  background: var(--card);
+}
+.route-strip li > a:hover { border-color: var(--accent); color: var(--accent); }
+.route-strip .n { color: var(--ink-3); font-size: 0.75rem; }
+.route-strip .is-current > span { border-color: var(--accent); background: var(--accent-soft); color: var(--accent); font-weight: 600; }
+.route-strip .is-current small { font-weight: 400; font-size: 0.72rem; }
+.route-strip .planned { opacity: 0.6; border-style: dashed; }
+
+/* فهرس الفصل: شريط ثابت على الشاشات الضيقة، وعمود جانبي على العريضة. */
+.toc-list, .toc-list ol { list-style: none; margin: 0; padding: 0; }
+.toc-list { display: grid; gap: 0.1rem; font-family: var(--font-ui); font-size: 0.85rem; }
+.toc-list a { display: block; padding: 0.3rem 0.6rem; border-radius: 8px; color: var(--ink-2); text-decoration: none; border-inline-start: 2px solid transparent; }
+.toc-list a:hover { color: var(--accent); }
+.toc-list a.is-active { color: var(--accent); background: var(--accent-soft); border-inline-start-color: var(--accent); font-weight: 600; }
+.toc-list ol { padding-inline-start: 0.75rem; font-size: 0.8rem; }
+.toc-list .toc-group > ol { display: none; }
+.toc-list .toc-group.is-open > ol { display: block; }
+.toc-title { display: block; font-family: var(--font-ui); font-size: 0.8rem; color: var(--ink-3); font-weight: 500; margin: 0 0 0.5rem 0.6rem; }
+
+.toc-bar {
+  position: sticky;
+  top: 3.75rem;
+  z-index: 15;
+  margin: 0 calc(-1 * var(--gutter)) 1.5rem;
+  background: color-mix(in srgb, var(--paper) 94%, transparent);
+  backdrop-filter: blur(8px);
+  -webkit-backdrop-filter: blur(8px);
+  border-bottom: 1px solid var(--line);
+}
+.toc-bar > summary {
+  list-style: none;
+  cursor: pointer;
+  display: flex;
+  align-items: baseline;
+  gap: 0.6rem;
+  padding: 0.6rem var(--gutter);
+  font-family: var(--font-ui);
+  font-size: 0.85rem;
+}
+.toc-bar > summary::-webkit-details-marker { display: none; }
+.toc-bar-label { color: var(--ink-3); white-space: nowrap; }
+.toc-bar-label::after { content: ' ▾'; }
+.toc-bar[open] .toc-bar-label::after { content: ' ▴'; }
+.toc-bar-current { color: var(--accent); font-weight: 600; overflow: hidden; text-overflow: ellipsis; white-space: nowrap; min-width: 0; }
+.toc-bar > .toc { max-height: 60vh; overflow: auto; padding: 0 var(--gutter) 0.75rem; }
+.toc-bar .toc-list .toc-group > ol { display: block; }
+
+.toc-side { display: none; }
+@media (min-width: 1150px) {
+  .toc-bar { display: none; }
+  .chapter-layout { display: grid; grid-template-columns: minmax(0, var(--measure)) 16rem; justify-content: space-between; gap: 3rem; }
+  .toc-side {
+    display: block;
+    position: sticky;
+    top: 5rem;
+    align-self: start;
+    max-height: calc(100vh - 6rem);
+    overflow: auto;
+    padding-bottom: 1rem;
+  }
+}
+
+/* القفز إلى عنوان لا يختفي تحت الرأس الثابت وشريط الفهرس. */
+.station-body :is(h2, h3), .section[id] { scroll-margin-top: 7.5rem; }
+
+/* زر الرجوع إلى موضع القراءة. */
+.return-chip {
+  position: fixed;
+  inset-inline: 0;
+  bottom: 1rem;
+  z-index: 30;
+  margin-inline: auto;
+  width: max-content;
+  max-width: calc(100vw - 2rem);
+  display: flex;
+  align-items: center;
+  gap: 0.25rem;
+  padding: 0.35rem 0.4rem 0.35rem 0.9rem;
+  padding-inline: 1rem 0.4rem;
+  background: var(--accent);
+  color: var(--accent-ink);
+  border-radius: 999px;
+  box-shadow: var(--shadow);
+  font-family: var(--font-ui);
+  font-size: 0.85rem;
+}
+.return-chip a { color: inherit; text-decoration: none; overflow: hidden; text-overflow: ellipsis; white-space: nowrap; }
+.return-chip button { border: 0; background: none; color: inherit; font-size: 1.1rem; line-height: 1; cursor: pointer; padding: 0.2rem 0.4rem; opacity: 0.8; }

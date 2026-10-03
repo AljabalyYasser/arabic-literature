@@ -1,12 +1,26 @@
 ---
-import { lifespan, livedAgo, must, url } from '../lib/content';
+// علَم داخل نص الفصل: يُعرف في مكانه، وصفحته أو مساره لمن أراد أن يتوسع.
+import { fmt, lifespan, livedAgo, must, nameGen, sourceMap, url } from '../lib/content';
 import { kindsOf } from '../lib/labels';
+import Body from './Body.astro';
 
 interface Props { id: string }
 const p = await must({ collection: 'people', id: Astro.props.id });
+const sources = await sourceMap();
+const face = p.data.tier === 'face' && !p.data.page;
+const she = p.data.female;
+const more = p.data.tier === 'formative' ? `مسار ${nameGen(p)}` : face ? (she ? 'بطاقتها في صفحة مجموعتها' : 'بطاقته في صفحة مجموعته') : 'صفحة العلم';
 ---
-<a class="card link-card embed" href={url.personOf(p)} style="display:block">
-  <span class="kicker">{[kindsOf(p.data), lifespan(p.data.born, p.data.died), livedAgo(p.data.born, p.data.died)].filter(Boolean).join(' · ')}</span>
-  <h3>{p.data.name}</h3>
-  <p>{p.data.summary}</p>
-</a>
+<details class="card embed fold">
+  <summary>
+    <span class="kicker">{[kindsOf(p.data), lifespan(p.data.born, p.data.died), livedAgo(p.data.born, p.data.died)].filter(Boolean).join(' · ')}</span>
+    <h3>{p.data.name}</h3>
+    <span class="fold-lede">{p.data.summary}</span>
+    <span class="fold-cue" data-closed={she ? 'اعرفها هنا' : 'اعرفه هنا'} data-open="أغلق"></span>
+  </summary>
+  <div class="fold-body">
+    {p.data.placement && <p set:html={fmt(p.data.placement, sources)} />}
+    {face && <Body entry={p} />}
+    <p class="fold-more"><a href={url.personOf(p)}>{more}</a></p>
+  </div>
+</details>

@@ -16,13 +16,14 @@ import Bayt from './Bayt.astro';
 import Ago from './Ago.astro';
 import VerseSet from './VerseSet.astro';
 import MahfuzCard from './MahfuzCard.astro';
-import { chapterPlace, nameGen, readingOrder, url, type Chapter } from '../lib/content';
+import ChapterToc, { type TocItem } from './ChapterToc.astro';
+import { chapterPlace, nameGen, readingOrder, stagesOf, url, type Chapter } from '../lib/content';
 import { ordinals } from '../lib/labels';
 
 interface Props { chapter: Chapter }
 const { chapter } = Astro.props;
 const d = chapter.data;
-const { Content } = await render(chapter);
+const { Content, headings } = await render(chapter);
 const place = await chapterPlace(chapter);
 const order = await readingOrder();
 const i = order.findIndex((c) => c.id === chapter.id);
@@ -51,10 +52,37 @@ const placeLabel = async (c: Chapter) => {
 const link = async (c?: Chapter) => c && { href: url.chapter(c.id), label: await placeLabel(c), title: c.data.title };
 const [prevLink, nextLink] = [await link(prev), await link(next)];
 const components = { Reading, VerseSet, VerseQuote, Cite, ConceptCard, PersonCard, StoryCard, Bayt, Ago };
+
+// فهرس الفصل: عناوينه، ثم أقسام آخره.
+const toc: TocItem[] = [];
+for (const h of headings.filter((x) => x.depth === 2 || x.depth === 3)) {
+  if (h.depth === 3 && toc.length > 0) toc.at(-1)!.subs.push({ slug: h.slug, text: h.text });
+  else toc.push({ slug: h.slug, text: h.text, subs: [] });
+}
+if (d.outcomes.length > 0) toc.push({ slug: 'outcomes', text: 'الحصيلة', subs: [] });
+if (mahfuzat.length > 0) toc.push({ slug: 'mahfuzat', text: 'المحفوظات', subs: [] });
+if (d.review.length > 0) toc.push({ slug: 'review', text: 'اختبر فهمك', subs: [] });
+if (d.sources.length > 0) toc.push({ slug: 'sources', text: 'مصادر هذه القراءة', subs: [] });
+
+// موضع الفصل من طريقه: الطريق المقترح في عصره، أو مراحل مسار علَمه.
+let routeLabel = '';
+let route: { n: number; title: string; href?: string; current: boolean }[] = [];
+if (place.kind === 'topic') {
+  const e = place.era;
+  routeLabel = `الطريق المقترح في ${e.entry.data.title}`;
+  route = e.route.length > 0
+    ? e.route.map((item, k) => item.kind === 'topic'
+      ? { n: k + 1, title: item.slot.title, href: item.slot.entry && url.chapter(item.slot.entry.id), current: item.slot.entry?.id === chapter.id }
+      : { n: k + 1, title: `مسار ${nameGen(item.person)}`, href: url.person(item.person.id), current: false })
+    : e.topics.map((t, k) => ({ n: k + 1, title: t.title, href: t.entry && url.chapter(t.entry.id), current: t.entry?.id === chapter.id }));
+} else {
+  routeLabel = `مسار ${nameGen(place.person)}`;
+  route = (await stagesOf(place.person.id)).map((c, k) => ({ n: k + 1, title: c.data.title, href: url.chapter(c.id), current: c.id === chapter.id }));
+}
 ---
 <Base title={d.title} description={d.subtitle} searchType={place.kind === 'topic' ? 'قضية' : 'مرحلة'}>
   <Crumbs items={crumbs} />
-  <header class="station-head">
+  <header class="station-head" data-reading-title={d.title}>
     <span class="kicker">{kicker}</span>
     <h1>{d.title}</h1>
     {d.subtitle && <p class="lede measure">{d.subtitle}</p>}
@@ -64,33 +92,65 @@ const components = { Reading, VerseSet, VerseQuote, Cite, ConceptCard, PersonCar
     </div>
   </header>
 
-  <div class="prose station-body">
-    <Content components={components} />
+  {route.length > 1 && (
+    <nav class="route-strip" aria-label={routeLabel}>
+      <b>{routeLabel}</b>
+      <ol>
+        {route.map((r) => (
+          <li class={r.current ? 'is-current' : undefined}>
+            {r.current
+              ? <span aria-current="page"><span class="n">{r.n}</span>{r.title}<small>أنت هنا</small></span>
+              : r.href ? <a href={r.href}><span class="n">{r.n}</span>{r.title}</a> : <span class="planned"><span class="n">{r.n}</span>{r.title}</span>}
+          </li>
+        ))}
+      </ol>
+    </nav>
+  )}
+
+  {toc.length > 2 && (
+    <details class="toc-bar" data-toc-bar>
+      <summary><span class="toc-bar-label">في هذا الفصل</span><span class="toc-bar-current" data-toc-current></span></summary>
+      <nav class="toc" data-toc aria-label="فهرس الفصل"><ChapterToc items={toc} /></nav>
+    </details>
+  )}
+
+  <div class="chapter-layout">
+    <div class="prose station-body">
+      <Content components={components} />
+    </div>
+    {toc.length > 2 && (
+      <aside class="toc-side">
+        <nav class="toc" data-toc aria-label="فهرس الفصل">
+          <b class="toc-title">في هذا الفصل</b>
+          <ChapterToc items={toc} />
+        </nav>
+      </aside>
+    )}
   </div>
 
   {d.outcomes.length > 0 && (
-    <section class="section measure">
+    <section class="section measure" id="outcomes">
       <div class="section-head"><span class="kicker">الحصيلة</span><h2>ما الذي خرجت به من هذه القراءة؟</h2></div>
       <ol class="outcomes">{d.outcomes.map((o) => <li><span>{o}</span></li>)}</ol>
     </section>
   )}
 
   {mahfuzat.length > 0 && (
-    <section class="section measure">
+    <section class="section measure" id="mahfuzat">
       <div class="section-head"><span class="kicker">المحفوظات</span><h2>ما يبقى معك من هذه القراءة</h2><p>تجدها كلها مع محفوظات العصور الأخرى في <a href="/mahfuzat/">المحفوظات</a>.</p></div>
       <div class="mahfuz-list">{mahfuzat.map((m) => <MahfuzCard item={m} showChapter={false} />)}</div>
     </section>
   )}
 
   {d.review.length > 0 && (
-    <section class="section measure review" data-pagefind-ignore>
+    <section class="section measure review" id="review" data-pagefind-ignore>
       <div class="section-head"><span class="kicker">مراجعة</span><h2>اختبر فهمك</h2><p>حاول أن تجيب قبل أن تفتح الجواب.</p></div>
       {d.review.map((r) => <details><summary>{r.q}</summary><p>{r.a}</p></details>)}
     </section>
   )}
 
   {d.sources.length > 0 && (
-    <section class="section measure">
+    <section class="section measure" id="sources">
       <div class="section-head"><h2>مصادر هذه القراءة</h2></div>
       <CiteList items={d.sources} />
     </section>

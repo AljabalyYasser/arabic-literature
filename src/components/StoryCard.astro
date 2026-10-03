@@ -1,12 +1,23 @@
 ---
-import { must, url } from '../lib/content';
+// حكاية داخل نص الفصل: تنفتح في مكانها فلا يخرج القارئ من قراءته، وصفحتها لمن أراد مصادرها كلها.
+import { fmt, must, sourceMap, url } from '../lib/content';
 import Grade from './Grade.astro';
+import Body from './Body.astro';
 
 interface Props { id: string }
 const s = await must({ collection: 'stories', id: Astro.props.id });
+const sources = await sourceMap();
 ---
-<a class="card link-card embed" href={url.story(s.id)} style="display:block">
-  <span class="meta-row"><Grade of="story" grade={s.data.grade} tag={s.data.tag} /></span>
-  <h3 style="margin-top:0.5rem">{s.data.title}</h3>
-  <p>{s.data.summary}</p>
-</a>
+<details class="card embed fold">
+  <summary>
+    <span class="meta-row"><Grade of="story" grade={s.data.grade} tag={s.data.tag} /></span>
+    <h3>{s.data.title}</h3>
+    <span class="fold-lede">{s.data.summary}</span>
+    <span class="fold-cue" data-closed="اقرأ الحكاية هنا" data-open="أغلق الحكاية"></span>
+  </summary>
+  <div class="fold-body">
+    <Body entry={s} />
+    {s.data.gradeReason && <p class="fold-note"><b>لماذا هذه الدرجة؟</b> <span set:html={fmt(s.data.gradeReason, sources)} /></p>}
+    <p class="fold-more"><a href={url.story(s.id)}>صفحة الحكاية ومصادرها</a></p>
+  </div>
+</details>

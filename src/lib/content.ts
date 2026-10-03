@@ -325,7 +325,13 @@ function citeLink(id: string, loc: string | undefined, sources: SourceMap) {
   const s = sources.get(id);
   if (!s) throw new Error(`إحالة إلى مصدر غير موجود: ${id}`);
   const label = loc ? `${s.data.short}، ${loc.trim()}` : s.data.short;
-  return `<a class="cite" href="${url.source(id)}" title="${escapeHtml(s.data.title)}">${escapeHtml(label)}</a>`;
+  // بيانات الكتاب في الرابط نفسه، لتظهر في نافذة صغيرة عند الضغط ولا يخرج القارئ من صفحته (site.ts).
+  const d = s.data;
+  const ed = [d.editor && `تحقيق ${d.editor}`, d.publisher, d.edition, d.year].filter(Boolean).join('، ');
+  const data = [['book', d.title], ['author', d.author], ['ed', ed], ['loc', loc?.trim() ?? ''], ['url', d.url ?? '']]
+    // القوس مرمّز حتى لا يضيف إليه withDeathAgo بُعد التاريخ داخل السمة.
+    .filter(([, v]) => v).map(([k, v]) => ` data-${k}="${escapeHtml(v!).replace(/\(/g, '&#40;')}"`).join('');
+  return `<a class="cite" href="${url.source(id)}" title="${escapeHtml(d.title)}"${data}>${escapeHtml(label)}</a>`;
 }
 
 // يحوّل نصًا من ملفات المحتوى إلى HTML آمن، مع تحويل الإحالات إلى روابط.
