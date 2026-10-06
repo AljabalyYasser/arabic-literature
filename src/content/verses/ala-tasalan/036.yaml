@@ -1,0 +1,21 @@
+explained: false
+first: "أَوَتْ لِلشِّيَاحِ وَاهْتَدَى لِصَلِيلِهَا"
+second: "كَتَائِبُ خُضْرٌ لَيْسَ فِيهِنَّ نَاكِلُ"
+vocabulary:
+  - term: "الشِّيَاحِ"
+    text: "«والشِّياحُ: الحِذارُ والجِدُّ فِي كُلِّ شَيْءٍ» [@lisan، ج2 ص501]."
+  - term: "خُضْرٌ"
+    text: "سود من الحديد؛ يقول المحقق: «وصفها بالخضرة للبسها الحديد» [@diwan-labid، ص263]."
+  - term: "نَاكِلُ"
+    text: "جبان: «يُقَالُ: نَكَلَ عَنِ الْعَدُوِّ وَعَنِ الْيَمِينِ يَنْكُلُ، بِالضَّمِّ، أَي جَبُنَ» [@lisan، ج11 ص677]."
+sources:
+  - source: "diwan-labid"
+    loc: "ص263"
+    url: "https://archive.org/details/3929pdf/page/n308/mode/1up"
+  - source: "lisan"
+    loc: "ج2 ص501"
+    url: "https://shamela.ws/book/1687/1305"
+  - source: "lisan"
+    loc: "ج11 ص677"
+    url: "https://shamela.ws/book/1687/5855"
+status: "review"

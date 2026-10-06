@@ -1,0 +1,19 @@
+explained: false
+first: "يُلَاقُونَ مِنْهَا فَرْطَ حَدٍّ وَجُرْأَةٍ"
+second: "إِذَا لَمْ تُقَوِّمْ دَرْأَهُنَّ الْمَسَاحِلُ"
+vocabulary:
+  - term: "دَرْأَهُنَّ"
+    text: "جموحهن، وأصله العِوَج: «والدَّرْءُ، بِالْفَتْحِ: العَوَجُ فِي الْقَنَاةِ والعَصا وَنَحْوِهَا مِمَّا تَصْلُبُ وتَصْعُبُ إِقامتُه» [@lisan، ج1 ص75]."
+  - term: "الْمَسَاحِلُ"
+    text: "حدائد اللجام: «واللِّجامُ حَدائِدُ قَدْ يَشْتَبك بعضُها فِي بَعْضٍ، مِنْهَا العِضَادَتانِ والمِسْحَلُ» [@lisan، ج1 ص685]."
+sources:
+  - source: "diwan-labid"
+    loc: "ص260"
+    url: "https://archive.org/details/3929pdf/page/n305/mode/1up"
+  - source: "lisan"
+    loc: "ج1 ص75"
+    url: "https://shamela.ws/book/1687/75"
+  - source: "lisan"
+    loc: "ج1 ص685"
+    url: "https://shamela.ws/book/1687/685"
+status: "review"

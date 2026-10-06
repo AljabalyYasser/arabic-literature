@@ -1,0 +1,19 @@
+explained: false
+first: "رَعَى خَرَزَاتِ الْمُلْكِ عِشْرِينَ حِجَّةً"
+second: "وَعِشْرِينَ حَتَّى فَادَ وَالشَّيْبُ شَامِلُ"
+vocabulary:
+  - term: "خَرَزَاتِ الْمُلْكِ"
+    text: "«وخَرَزاتُ المَلِك: جواهرُ تاجِهِ. وَيُقَالُ: كَانَ المَلِك إِذا مَلَك عَامًا زِيدَتْ فِي تَاجِهِ خَرَزَة لِيُعْلَمَ عَدَدُ سِني مُلْكِه؛ قَالَ لَبِيدٌ يَذْكُرُ الْحَرْثَ بْنُ أَبي شَمِر الغَسَّاني» [@lisan، ج5 ص345]."
+  - term: "فَادَ"
+    text: "مات: «وفادَ يَفُودُ فَوْداً: مَاتَ» [@lisan، ج3 ص340]."
+sources:
+  - source: "diwan-labid"
+    loc: "ص266"
+    url: "https://archive.org/details/3929pdf/page/n311/mode/1up"
+  - source: "lisan"
+    loc: "ج5 ص345"
+    url: "https://shamela.ws/book/1687/2929"
+  - source: "lisan"
+    loc: "ج3 ص340"
+    url: "https://shamela.ws/book/1687/1782"
+status: "review"

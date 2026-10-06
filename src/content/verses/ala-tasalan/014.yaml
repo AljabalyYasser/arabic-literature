@@ -1,0 +1,19 @@
+explained: false
+first: "إِذَا مَسَّ أَسْآرَ الطُّيُورِ صَفَتْ لَهُ"
+second: "مُشَعْشَعَةٌ مِمَّا تُعَتِّقُ بَابِلُ"
+vocabulary:
+  - term: "أَسْآرَ"
+    text: "بقايا: «السُّؤْرُ بَقِيَّة الشَّيْءِ، وَجَمْعُهُ أَسآرٌ» [@lisan، ج4 ص339]. ويرى المحقق أنها بقايا الصيد: «أي إذا أكل الصيد شرب الخمر التي هذه صفتها» [@diwan-labid، ص258]."
+  - term: "مُشَعْشَعَةٌ"
+    text: "خمر ممزوجة: «وشَعْشَعَ الشَّرابَ شَعْشَعَةً: مزَجَه بِالْمَاءِ، وَقِيلَ: المُشَعْشَعة الخَمْرُ الَّتِي أُرِقَّ مَزْجُها» [@lisan، ج8 ص182]."
+sources:
+  - source: "diwan-labid"
+    loc: "ص258"
+    url: "https://archive.org/details/3929pdf/page/n303/mode/1up"
+  - source: "lisan"
+    loc: "ج4 ص339"
+    url: "https://shamela.ws/book/1687/2299"
+  - source: "lisan"
+    loc: "ج8 ص182"
+    url: "https://shamela.ws/book/1687/4030"
+status: "review"

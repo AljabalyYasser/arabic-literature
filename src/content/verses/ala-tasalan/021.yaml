@@ -1,0 +1,21 @@
+explained: false
+first: "إِذَا وَضَعُوا أَلْبَادَهَا عَنْ مُتُونِهَا"
+second: "وَقَدْ نَضَحَتْ أَعْطَافُهَا وَالْكَوَاهِلُ"
+vocabulary:
+  - term: "أَلْبَادَهَا"
+    text: "ما تحت سروجها: «واللِّبْدُ مِنَ البُسُط: مَعْرُوفٌ، وَكَذَلِكَ لِبْدُ السَّرْجِ» [@lisan، ج3 ص386]."
+  - term: "نَضَحَتْ"
+    text: "رشحت بالعرق."
+  - term: "الْكَوَاهِلُ"
+    text: "«والكاهِلُ مَا بَيْنَ الكَتِفَيْنِ» [@lisan، ج1 ص208]."
+sources:
+  - source: "diwan-labid"
+    loc: "ص259"
+    url: "https://archive.org/details/3929pdf/page/n304/mode/1up"
+  - source: "lisan"
+    loc: "ج3 ص386"
+    url: "https://shamela.ws/book/1687/1828"
+  - source: "lisan"
+    loc: "ج1 ص208"
+    url: "https://shamela.ws/book/1687/208"
+status: "review"

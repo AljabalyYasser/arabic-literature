@@ -1,0 +1,19 @@
+explained: false
+first: "فَإِنْ أَنْتَ لَمْ تَصْدُقْكَ نَفْسُكَ فَانْتَسِبْ"
+second: "لَعَلَّكَ تَهْدِيكَ الْقُرُونُ الْأَوَائِلُ"
+vocabulary:
+  - term: "فَانْتَسِبْ"
+    text: "اذكر آباءك واحدًا واحدًا: «قل أَيْن فلَان ابْن فلَان» [@khizana، ج2 ص253]، فلن تجد منهم أحدًا باقيًا [@khizana، ج2 ص254]."
+  - term: "الْقُرُونُ"
+    text: "الأجيال: «والْقُرُون: جمع قرن وَهُوَ أهل زمَان وَاحِد» [@khizana، ج2 ص254]."
+sources:
+  - source: "diwan-labid"
+    loc: "ص255"
+    url: "https://archive.org/details/3929pdf/page/n300/mode/1up"
+  - source: "khizana"
+    loc: "ج2 ص253"
+    url: "https://shamela.ws/book/12732/722"
+  - source: "khizana"
+    loc: "ج2 ص254"
+    url: "https://shamela.ws/book/12732/723"
+status: "review"

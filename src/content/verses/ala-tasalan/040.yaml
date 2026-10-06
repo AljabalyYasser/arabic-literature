@@ -1,0 +1,16 @@
+explained: false
+first: "يُجَاوِبْنَ بُحًّا قَدْ أُعِيدَتْ وَأَسْمَحَتْ"
+second: "إِذَا احْتَثَّ بِالشِّرْعِ الدِّقَاقِ الْأَنَامِلُ"
+vocabulary:
+  - term: "بُحًّا ... بِالشِّرْعِ"
+    text: "يقول المحقق: البُحّ «جمع أبح وهو صفة للعود»، والشِّرْع «جمع شرعة وهو الوتر الدقيق» [@diwan-labid، ص264]."
+  - term: "أَسْمَحَتْ"
+    text: "انقادت: «وَيُقَالُ: أَسْمَحَتْ نَفْسُه إِذا انْقَادَتْ» [@lisan، ج2 ص489]."
+sources:
+  - source: "diwan-labid"
+    loc: "ص264"
+    url: "https://archive.org/details/3929pdf/page/n309/mode/1up"
+  - source: "lisan"
+    loc: "ج2 ص489"
+    url: "https://shamela.ws/book/1687/1293"
+status: "review"

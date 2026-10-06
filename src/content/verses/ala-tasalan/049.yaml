@@ -1,0 +1,19 @@
+explained: false
+first: "وَغَسَّانُ ذَلَّتْ يَوْمَ جِلَّقَ ذِلَّةً"
+second: "بِسَيِّدِهَا وَالْأَرْيَحِيُّ الْمُنَازِلُ"
+vocabulary:
+  - term: "جِلَّقَ"
+    text: "«جِلَّق وجِلِّق: مَوْضِعٌ؛ يُصْرَفُ وَلَا يُصْرَفُ» [@lisan، ج10 ص36]، وهو بالشام."
+  - term: "الْأَرْيَحِيُّ"
+    text: "«والأَرْيَحِيُّ: الرَّجُلُ الْوَاسِعُ الخُلُق النَّشِيطُ إِلى الْمَعْرُوفِ» [@lisan، ج2 ص460]."
+sources:
+  - source: "diwan-labid"
+    loc: "ص266"
+    url: "https://archive.org/details/3929pdf/page/n311/mode/1up"
+  - source: "lisan"
+    loc: "ج10 ص36"
+    url: "https://shamela.ws/book/1687/4706"
+  - source: "lisan"
+    loc: "ج2 ص460"
+    url: "https://shamela.ws/book/1687/1264"
+status: "review"

@@ -1,0 +1,14 @@
+explained: false
+first: "إِذَا الْمَرْءُ أَسْرَى لَيْلَةً ظَنَّ أَنَّهُ"
+second: "قَضَى عَمَلًا وَالْمَرْءُ مَا عَاشَ عَامِلُ"
+vocabulary:
+  - term: "أَسْرَى"
+    text: "سار ليلًا، «وسرى وَأسرى بِمَعْنى». ويقول البغدادي في معنى البيت: «إِذا سهر الْمَرْء لَيْلَة فِي عمل ظن أَنه قد فرغ مِنْهُ وَهُوَ مَا عَاشَ يعرض لَهُ مثل ذَلِك» [@khizana، ج2 ص253]."
+sources:
+  - source: "diwan-labid"
+    loc: "ص254"
+    url: "https://archive.org/details/3929pdf/page/n299/mode/1up"
+  - source: "khizana"
+    loc: "ج2 ص253"
+    url: "https://shamela.ws/book/12732/722"
+status: "review"

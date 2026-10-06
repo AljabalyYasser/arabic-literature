@@ -1,0 +1,21 @@
+explained: false
+first: "كَأَنْ لَمْ يَكُنْ بِالشِّرْعِ مِنْهُمْ طَلَائِعٌ"
+second: "فَلَمْ تَرْعَ سَحًّا فِي الرَّبِيعِ الْقَنَابِلُ"
+vocabulary:
+  - term: "بِالشِّرْعِ"
+    text: "موضع، كما يقول المحقق [@diwan-labid، ص266]."
+  - term: "سَحًّا"
+    text: "يقول المحقق: «متتابعاً، أي لم ترع رعياً سحاً، ولست واثقاً منها، ولعلها «شيحاً»» [@diwan-labid، ص266]."
+  - term: "الْقَنَابِلُ"
+    text: "جماعات الخيل: «القَنْبَلة والقَنْبل: طَائِفَةٌ مِنَ النَّاسِ وَمِنَ الْخَيْلِ» [@lisan، ج11 ص569]."
+sources:
+  - source: "diwan-labid"
+    loc: "ص265"
+    url: "https://archive.org/details/3929pdf/page/n310/mode/1up"
+  - source: "diwan-labid"
+    loc: "ص266"
+    url: "https://archive.org/details/3929pdf/page/n311/mode/1up"
+  - source: "lisan"
+    loc: "ج11 ص569"
+    url: "https://shamela.ws/book/1687/5747"
+status: "review"

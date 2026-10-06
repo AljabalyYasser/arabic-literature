@@ -1,0 +1,19 @@
+explained: false
+first: "فَيَوْمًا عُنَاةٌ فِي الْحَدِيدِ يَفُكُّهُمْ"
+second: "وَيَوْمًا جِيَادٌ مُلْجَمَاتٌ قَوَافِلُ"
+vocabulary:
+  - term: "عُنَاةٌ"
+    text: "أسرى، جمع عانٍ: «والعَانِي الأَسِيرُ» [@lisan، ج15 ص101]."
+  - term: "قَوَافِلُ"
+    text: "راجعة، من القُفول وهو الرجوع؛ وفي اللسان: «واشتقَّ اسمُ القافِلة مِنْ ذَلِكَ لأَنهم يَقْفُلون» [@lisan، ج11 ص560]."
+sources:
+  - source: "diwan-labid"
+    loc: "ص259"
+    url: "https://archive.org/details/3929pdf/page/n304/mode/1up"
+  - source: "lisan"
+    loc: "ج15 ص101"
+    url: "https://shamela.ws/book/1687/7713"
+  - source: "lisan"
+    loc: "ج11 ص560"
+    url: "https://shamela.ws/book/1687/5738"
+status: "review"

@@ -1,0 +1,16 @@
+explained: false
+first: "وَمَا نَسَجَتْ أَسْرَادُ دَاوُدَ وَابْنِهِ"
+second: "مُضَاعَفَةً مِنْ نَسْجِهِ إِذْ يُقَابِلُ"
+vocabulary:
+  - term: "أَسْرَادُ"
+    text: "جمع سَرْد، والسرد في اللغة: «تَقْدِمَةُ شَيْءٍ إِلى شَيْءٍ تأْتي بِهِ متَّسقاً بعضُه فِي أَثر بَعْضٍ مُتَتَابِعًا» [@lisan، ج3 ص211]، ومنه نسج الدروع حلقة في حلقة."
+  - term: "مُضَاعَفَةً"
+    text: "درعًا نُسجت حلقتين حلقتين."
+sources:
+  - source: "diwan-labid"
+    loc: "ص262"
+    url: "https://archive.org/details/3929pdf/page/n307/mode/1up"
+  - source: "lisan"
+    loc: "ج3 ص211"
+    url: "https://shamela.ws/book/1687/1653"
+status: "review"

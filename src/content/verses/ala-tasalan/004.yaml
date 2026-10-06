@@ -1,0 +1,16 @@
+explained: false
+first: "فَقُولَا لَهُ إِنْ كَانَ يَقْسِمُ أَمْرَهُ"
+second: "أَلَمَّا يَعِظْكَ الدَّهْرُ أُمُّكَ هَابِلُ"
+vocabulary:
+  - term: "يَقْسِمُ أَمْرَهُ"
+    text: "يقدّره ويدبّره. في الخزانة: «أقسم بِمَعْنى قدر يَعْنِي قولا لَهُ إِن كَانَ يدبر أمره وَينظر فِيهِ» [@khizana، ج2 ص253]."
+  - term: "أُمُّكَ هَابِلُ"
+    text: "دعاء عليه بالموت: «يُقَال: هبلته أمه أَي: ثكلته» [@khizana، ج2 ص253]."
+sources:
+  - source: "diwan-labid"
+    loc: "ص255"
+    url: "https://archive.org/details/3929pdf/page/n300/mode/1up"
+  - source: "khizana"
+    loc: "ج2 ص253"
+    url: "https://shamela.ws/book/12732/722"
+status: "review"

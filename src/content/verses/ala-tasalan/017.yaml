@@ -1,0 +1,19 @@
+explained: false
+first: "تَكُرُّ عَلَيْهِ لَا يُصَرَّدُ شُرْبُهُ"
+second: "إِذَا مَا انْتَشَى لَمْ تَحْتَضِرْهُ الْعَوَاذِلُ"
+vocabulary:
+  - term: "لَا يُصَرَّدُ"
+    text: "لا يُقلَّل: «والتَّصريدُ: سَقْيٌ دُونَ الرَّيِّ» [@lisan، ج3 ص249]."
+  - term: "لَمْ تَحْتَضِرْهُ الْعَوَاذِلُ"
+    text: "لم يحضره اللوّام. ويقول المحقق في العواذل: «يلومونه على أنه أفاض في السخاء حتى خرج عن الحد المعقول» [@diwan-labid، ص259]."
+sources:
+  - source: "diwan-labid"
+    loc: "ص258"
+    url: "https://archive.org/details/3929pdf/page/n303/mode/1up"
+  - source: "lisan"
+    loc: "ج3 ص249"
+    url: "https://shamela.ws/book/1687/1691"
+  - source: "diwan-labid"
+    loc: "ص259"
+    url: "https://archive.org/details/3929pdf/page/n304/mode/1up"
+status: "review"

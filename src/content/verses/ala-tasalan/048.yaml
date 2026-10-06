@@ -1,0 +1,18 @@
+explained: false
+first: "وَبِالرَّسِّ أَوْصَالٌ كَأَنَّ زُهَاءَهَا"
+second: "ذَوِي الضُّمْرِ لَمَّا زَالَ عَنْهَا الْقَبَائِلُ"
+vocabulary:
+  - term: "الرَّسِّ"
+    text: "يقول المحقق: «واد بنجد» [@diwan-labid، ص266]."
+  - term: "زُهَاءَهَا"
+    text: "شخوصها وقدرها: «وزُهاءُ الشيءِ وزِهَاؤُه: قَدْرُه» [@lisan، ج14 ص363]."
+  - term: "الضُّمْرِ"
+    text: "يقول المحقق: «والضمر اسم جبل» [@diwan-labid، ص266]."
+sources:
+  - source: "diwan-labid"
+    loc: "ص266"
+    url: "https://archive.org/details/3929pdf/page/n311/mode/1up"
+  - source: "lisan"
+    loc: "ج14 ص363"
+    url: "https://shamela.ws/book/1687/7487"
+status: "review"
