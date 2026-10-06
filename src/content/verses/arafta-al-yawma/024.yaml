@@ -2,12 +2,15 @@ explained: false
 first: "حَلَفْتُ لَكُمْ عَلَى مَا قَدْ نَعَيْتُمْ"
 second: "بِرَأْسِ العَيْنِ إِنْ نَفَضَ السَّقَامَا"
 vocabulary:
-  - term: "نَعَيْتُمْ"
-    text: "أخبرتم بموته، يعني ممدوحه إياسًا."
+  - term: "عَلَى مَا قَدْ نَعَيْتُمْ"
+    text: "على من نعيتم من قتلاكم، أي أخبرتم بموتهم. وفي تلخيص المحقق: «إنى أقسم لكم بمن قتل من رجالكم فى (رأس العين)» [@diwan-asha، ص232]."
   - term: "رَأْسِ العَيْنِ"
     text: "موضع."
 sources:
   - source: "diwan-asha"
     loc: "ص233"
     url: "https://archive.org/details/20201023_20201023_0327/page/n229/mode/1up"
+  - source: "diwan-asha"
+    loc: "ص232"
+    url: "https://archive.org/details/20201023_20201023_0327/page/n228/mode/1up"
 status: "review"
