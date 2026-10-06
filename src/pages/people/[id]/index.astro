@@ -141,7 +141,7 @@ const textsTitle = p.tier === 'face' ? he('نصه', 'نصها') : he('نصوصه
             <h3>{t.data.title}</h3>
             <div class="meta-row">
               {count > 0 && <span>{countWord(count, ['بيت واحد مشروح', 'بيتان مشروحان', 'أبيات مشروحة', 'بيتًا مشروحًا'])}</span>}
-              {t.data.attribution && <Grade of="text" grade={t.data.attribution.grade} note={t.data.attribution.note} />}
+              {t.data.attribution && <Grade of="text" grade={t.data.attribution.grade} note={stripCites(t.data.attribution.note)} />}
             </div>
           </a>
         ))}

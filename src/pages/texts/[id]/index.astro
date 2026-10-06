@@ -33,7 +33,7 @@ const mixed = explained.length < verses.length;
       <h1>{t.title}</h1>
       {t.occasion && <p class="lede" set:html={fmt(t.occasion, sources)} />}
       <div class="meta-row">
-        {t.attribution && <Grade of="text" grade={t.attribution.grade} note={t.attribution.note} />}
+        {t.attribution && <Grade of="text" grade={t.attribution.grade} note={stripCites(t.attribution.note)} />}
         {t.reading && <span class="badge plain" title={readingTiers[t.reading].hint}>{readingTiers[t.reading].label}</span>}
         {t.reading && <span class="badge plain">النص كاملًا: {countWord(verses.length + t.omit.length, ['بيت واحد', 'بيتان', 'أبيات', 'بيتًا'])}</span>}
         {range && <span class="badge plain">{mixed ? 'المشروح منها شرحًا كاملًا' : 'الأبيات المشروحة'}: {range}</span>}
@@ -45,7 +45,7 @@ const mixed = explained.length < verses.length;
         {t.meter && <div><dt>البحر</dt><dd>{t.meter}</dd></div>}
         {t.rhyme && <div><dt>القافية</dt><dd>{t.rhyme}</dd></div>}
         {t.year && <div><dt>زمن القول</dt><dd>{formatDate(t.year)}</dd></div>}
-        {t.attribution && <div><dt>النسبة</dt><dd style="font-weight:400">{t.attribution.note}</dd></div>}
+        {t.attribution && <div><dt>النسبة</dt><dd style="font-weight:400" set:html={fmt(t.attribution.note, sources)} /></div>}
       </dl>
     </aside>
   </div>

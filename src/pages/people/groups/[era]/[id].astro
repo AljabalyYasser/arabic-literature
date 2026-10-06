@@ -9,7 +9,7 @@ import StatusBadge from '../../../../components/StatusBadge.astro';
 import CiteList from '../../../../components/CiteList.astro';
 import Body from '../../../../components/Body.astro';
 import Grade from '../../../../components/Grade.astro';
-import { fmt, getEras, lifespan, sourceMap, url, type Era, type GroupSlot } from '../../../../lib/content';
+import { fmt, getEras, lifespan, sourceMap, stripCites, url, type Era, type GroupSlot } from '../../../../lib/content';
 import { kindsOf, readingTiers, textKinds, tiers } from '../../../../lib/labels';
 
 export async function getStaticPaths() {
@@ -84,7 +84,7 @@ if (rest.length) blocks.push({ id: 'others', title: sections.length ? 'وجوه 
                 <li>
                   <a href={url.text(t.id)}>اقرأ النص: {t.data.title}</a>
                   <span class="sub">{textKinds[t.data.kind]}{t.data.reading && ` · ${readingTiers[t.data.reading].label}`}</span>
-                  {t.data.attribution && <Grade of="text" grade={t.data.attribution.grade} note={t.data.attribution.note} />}
+                  {t.data.attribution && <Grade of="text" grade={t.data.attribution.grade} note={stripCites(t.data.attribution.note)} />}
                 </li>
               ))}
             </ul>
