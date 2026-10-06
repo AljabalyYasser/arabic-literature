@@ -1,0 +1,17 @@
+explained: false
+first: "فَذُو هَاشٍ فَمِيثُ عُرَيْتِنَاتٍ"
+second: "عَفَتْهَا الرِّيحُ بَعْدَكَ وَالسَّمَاءُ"
+vocabulary:
+  - term: "فَذُو هَاشٍ"
+    text: "«موضع» [@diwan-zuhayr، ص123]. و«عُرَيْتِنات» «اسم موضع» كما يقول المحقق [@diwan-zuhayr، ص122]."
+  - term: "مِيثُ"
+    text: "«جمع مَيْثاء، وهي الرّملة السّهلة» [@diwan-zuhayr، ص123]."
+  - term: "عَفَتْهَا"
+    text: "«أي: دَرَستها وغيّرت رسومها، بأن سفَت التراب عليها» [@diwan-zuhayr، ص123]."
+  - term: "السَّمَاءُ"
+    text: "«ههنا: المطر. سمّاه بذلك، لأنه من السماء ينزل» [@diwan-zuhayr، ص123]."
+sources:
+  - source: "diwan-zuhayr"
+    loc: "ص122–123"
+    url: "https://archive.org/details/3917pdf/page/n122/mode/1up"
+status: "review"

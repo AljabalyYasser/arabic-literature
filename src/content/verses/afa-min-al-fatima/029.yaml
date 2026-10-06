@@ -1,0 +1,13 @@
+explained: false
+first: "كَأَنَّ بَرِيقَهُ بَرَقَانُ سَحْلٍ"
+second: "جَلَا عَنْ مَتْنِهِ حُرُضٌ وَمَاءُ"
+vocabulary:
+  - term: "بَرَقَانُ سَحْلٍ"
+    text: "«يقول: كأنّ بريق هذا الحمار ولمعانه، حين انجرد من وبره، بريقُ ثوبٍ أبيض غُسل بالحُرُض، فجلا لونه. و«السَّحْل»: ثوب يمانٍ أبيض» [@diwan-zuhayr، ص134]."
+  - term: "حُرُضٌ"
+    text: "«الأُشنان» [@diwan-zuhayr، ص134]، وهو «ما يُغسل به من الحَمْض» كما يقول المحقق [@diwan-zuhayr، ص134]."
+sources:
+  - source: "diwan-zuhayr"
+    loc: "ص134"
+    url: "https://archive.org/details/3917pdf/page/n134/mode/1up"
+status: "review"

@@ -1,0 +1,15 @@
+explained: false
+first: "فَمَهْلًا آلَ عَبْدِ اللَّهِ عَدُّوا"
+second: "مَخَازِيَ لَا يُدَبُّ لَهَا الضَّرَاءُ"
+vocabulary:
+  - term: "آلَ عَبْدِ اللَّهِ"
+    text: "«بنو عبدالله»: «حيٌّ من كلب» [@diwan-zuhayr، ص145]."
+  - term: "عَدُّوا مَخَازِيَ"
+    text: "«أي: اصرِفوا عن أنفسكم هذه المخازي التي تنالكم بغدركم» [@diwan-zuhayr، ص145]."
+  - term: "لَا يُدَبُّ لَهَا الضَّرَاءُ"
+    text: "«أي: لا يخفى أمرها. والضَّراء: ما تواريتَ به من شجرٍ خاصّة» [@diwan-zuhayr، ص145]."
+sources:
+  - source: "diwan-zuhayr"
+    loc: "ص145"
+    url: "https://archive.org/details/3917pdf/page/n145/mode/1up"
+status: "review"

@@ -1,0 +1,15 @@
+explained: false
+first: "وَإِمَّا أَنْ يَقُولَ بَنُو مَصَادٍ"
+second: "إِلَيْكُمْ إِنَّنَا قَوْمٌ بِرَاءُ"
+vocabulary:
+  - term: "بَنُو مَصَادٍ"
+    text: "«من بني حصن» [@diwan-zuhayr، ص137]."
+  - term: "إِلَيْكُمْ"
+    text: "«أي: تنحَّوا عنّا، فلا سبيل لكم علينا، فإنّنا بُراءٌ ممّا وسمتمونا به، من الغدر ومنع الحقّ» [@diwan-zuhayr، ص137]."
+  - term: "بِرَاءُ"
+    text: "«جمع بريء، مثل كريم وكرام» [@diwan-zuhayr، ص137]."
+sources:
+  - source: "diwan-zuhayr"
+    loc: "ص137"
+    url: "https://archive.org/details/3917pdf/page/n137/mode/1up"
+status: "review"

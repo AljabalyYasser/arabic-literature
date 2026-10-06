@@ -1,0 +1,17 @@
+explained: false
+first: "تُلَجْلِجُ مُضْغَةً فِيهَا أَنِيضٌ"
+second: "أَصَلَّتْ فَهْيَ تَحْتَ الْكَشْحِ دَاءُ"
+vocabulary:
+  - term: "تُلَجْلِجُ مُضْغَةً"
+    text: "«أي: تردّدها في فمك» [@diwan-zuhayr، ص143]. «وهذا مثل ضربه. أي: أخذتَ هذا المال، فلا أنت تُذهبه، ولا أنت تردّه، كما يُلجلج الرّجل المضغة، فلا يبتلعها ولا يُلقيها» [@diwan-zuhayr، ص144]."
+  - term: "أَنِيضٌ"
+    text: "«الذي لم ينضج» [@diwan-zuhayr، ص144]."
+  - term: "أَصَلَّتْ"
+    text: "«أنتنت» [@diwan-zuhayr، ص144]."
+  - term: "الْكَشْحِ"
+    text: "«الجنب. وقيل: هو الخصر» [@diwan-zuhayr، ص144]."
+sources:
+  - source: "diwan-zuhayr"
+    loc: "ص143–144"
+    url: "https://archive.org/details/3917pdf/page/n143/mode/1up"
+status: "review"

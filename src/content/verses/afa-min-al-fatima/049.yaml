@@ -1,0 +1,15 @@
+explained: false
+first: "لَقَدْ زَارَتْ بُيُوتَ بَنِي عُلَيْمٍ"
+second: "مِنَ الْكَلِمَاتِ آنِيَةٌ مِلَاءُ"
+vocabulary:
+  - term: "بَنِي عُلَيْمٍ"
+    text: "«من كلب، وهو عُلَيم بن جَناب» [@diwan-zuhayr، ص141]."
+  - term: "الْكَلِمَاتِ"
+    text: "«يعني: قصائد الهجو. والعرب تسمّي القصيدة كلمة» [@diwan-zuhayr، ص141]."
+  - term: "آنِيَةٌ مِلَاءُ"
+    text: "«أي: مملوءةٌ شرًّا من الهجاء. وضرب الآنية مثلًا» [@diwan-zuhayr، ص141]."
+sources:
+  - source: "diwan-zuhayr"
+    loc: "ص141"
+    url: "https://archive.org/details/3917pdf/page/n141/mode/1up"
+status: "review"

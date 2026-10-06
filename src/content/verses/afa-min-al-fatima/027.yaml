@@ -1,0 +1,15 @@
+explained: false
+first: "كَأَنَّ سَحِيلَهُ فِي كُلِّ فَجْرٍ"
+second: "عَلَى أَحْسَاءِ يَمْؤُودٍ دُعَاءُ"
+vocabulary:
+  - term: "سَحِيلَهُ"
+    text: "«صوت الحمار، وبه سُمّي مِسْحَلًا» [@diwan-zuhayr، ص133]."
+  - term: "أَحْسَاءِ يَمْؤُودٍ"
+    text: "«يمؤود»: «اسم موضع. و«الأحساء»: جمع حِسْي، وهو موضع يكون فيه الماء» [@diwan-zuhayr، ص133]."
+  - term: "دُعَاءُ"
+    text: "«شبّه صوت الحمار بصوت إنسان، يدعو صاحبه ويناديه» [@diwan-zuhayr، ص133]."
+sources:
+  - source: "diwan-zuhayr"
+    loc: "ص133"
+    url: "https://archive.org/details/3917pdf/page/n133/mode/1up"
+status: "review"

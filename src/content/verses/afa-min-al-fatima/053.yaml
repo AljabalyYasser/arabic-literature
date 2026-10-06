@@ -1,0 +1,18 @@
+explained: false
+first: "وَجَارُ الْبَيْتِ وَالرَّجُلُ الْمُنَادِي"
+second: "أَمَامَ الْحَيِّ عَقْدُهُمَا سَوَاءُ"
+vocabulary:
+  - term: "الْمُنَادِي"
+    text: "«المُجالِس. وهو من النّادي والنَّديّ، وهما المجلس» [@diwan-zuhayr، ص143]."
+  - term: "أَمَامَ الْحَيِّ"
+    text: "«لأنّ مجالسهم كانت أمام الحيّ، لئلّا يسمع النساء كلامهم، ويطّلعن على تدبيرهم» [@diwan-zuhayr، ص143]."
+  - term: "عَقْدُهُمَا سَوَاءُ"
+    text: "«يقول: من جاور قومًا ومن جالسهم فحقّهما سواء، وذمّتهما واحدة» [@diwan-zuhayr، ص143]."
+sources:
+  - source: "diwan-zuhayr"
+    loc: "ص142"
+    url: "https://archive.org/details/3917pdf/page/n142/mode/1up"
+  - source: "diwan-zuhayr"
+    loc: "ص143"
+    url: "https://archive.org/details/3917pdf/page/n143/mode/1up"
+status: "review"

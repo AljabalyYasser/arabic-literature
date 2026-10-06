@@ -1,0 +1,16 @@
+explained: false
+first: "أَبَى الشُّهَدَاءُ عِنْدَكَ مِنْ مَعَدٍّ"
+second: "فَلَيْسَ لِمَا تَدِبُّ لَهُ خَفَاءُ"
+vocabulary:
+  - term: "أَبَى الشُّهَدَاءُ"
+    text: "«أي: أبى الذين حولك، من معدّ ممّن شهد الأمر، أن يُخفي على الناس، أي: هو أمر بيّن» [@diwan-zuhayr، ص143]."
+  - term: "لِمَا تَدِبُّ لَهُ خَفَاءُ"
+    text: "«أي: الأمر أبينُ من أن يخفى، لصحّة دلائله» [@diwan-zuhayr، ص143]. وتدِبّ: «تمشي كالحيّة، أي: تختِل وتحتال» كما يقول المحقق [@diwan-zuhayr، ص142]."
+sources:
+  - source: "diwan-zuhayr"
+    loc: "ص142"
+    url: "https://archive.org/details/3917pdf/page/n142/mode/1up"
+  - source: "diwan-zuhayr"
+    loc: "ص143"
+    url: "https://archive.org/details/3917pdf/page/n143/mode/1up"
+status: "review"

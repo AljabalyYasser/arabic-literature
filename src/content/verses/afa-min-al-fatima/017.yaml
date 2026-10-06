@@ -1,0 +1,18 @@
+explained: false
+first: "أَذَٰلِكَ أَمْ شَتِيمُ الْوَجْهِ جَأْبٌ"
+second: "عَلَيْهِ مِنْ عَقِيقَتِهِ عِفَاءُ"
+vocabulary:
+  - term: "أَذَٰلِكَ أَمْ شَتِيمُ الْوَجْهِ"
+    text: "«يريد: أذلك الظّليمُ تشبيهُه ناقتي في السّرعة، أم عَيرٌ شتيمُ الوجه؟» [@diwan-zuhayr، ص129]. والعَير: حمار الوحش، والشَّتيم: «الكريه الوجه» [@diwan-zuhayr، ص129]."
+  - term: "جَأْبٌ"
+    text: "«الغليظ. وهو مهموز» [@diwan-zuhayr، ص129]."
+  - term: "عَقِيقَتِهِ عِفَاءُ"
+    text: "«و«العقيقة»: شعر الحمار، الذي وُلد به. و«العِفاء»: الشّعر والوبر الكثير» [@diwan-zuhayr، ص129]."
+sources:
+  - source: "diwan-zuhayr"
+    loc: "ص128"
+    url: "https://archive.org/details/3917pdf/page/n128/mode/1up"
+  - source: "diwan-zuhayr"
+    loc: "ص129"
+    url: "https://archive.org/details/3917pdf/page/n129/mode/1up"
+status: "review"

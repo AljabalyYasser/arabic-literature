@@ -1,0 +1,17 @@
+explained: false
+first: "كَأَنَّ أَوَابِدَ الثِّيرَانِ فِيهَا"
+second: "هَجَائِنُ فِي مَغَابِنِهَا الطِّلَاءُ"
+vocabulary:
+  - term: "أَوَابِدَ"
+    text: "«التي تسكن القَفْر فتأبَّد، أي: تتوحّش» [@diwan-zuhayr، ص125]."
+  - term: "هَجَائِنُ"
+    text: "«جمع هِجان، وهي الناقة البيضاء» [@diwan-zuhayr، ص125]."
+  - term: "مَغَابِنِهَا"
+    text: "«جمع مَغْبِن، وهو باطن أصل الفخذ والمِرفق» [@diwan-zuhayr، ص125]."
+  - term: "الطِّلَاءُ"
+    text: "«القَطِران. شبّه بقر الوحش — في بياضها واسوداد مغابنها — بهجان الإبل، المطليّة المغابن بالقطران» [@diwan-zuhayr، ص125]."
+sources:
+  - source: "diwan-zuhayr"
+    loc: "ص125"
+    url: "https://archive.org/details/3917pdf/page/n125/mode/1up"
+status: "review"

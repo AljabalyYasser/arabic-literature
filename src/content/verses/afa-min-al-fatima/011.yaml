@@ -1,0 +1,18 @@
+explained: false
+first: "فَأَمَّا مَا فُوَيْقَ الْعِقْدِ مِنْهَا"
+second: "فَمِنْ أَدْمَاءَ مَرْتَعُهَا الْخَلَاءُ"
+vocabulary:
+  - term: "مَا فُوَيْقَ الْعِقْدِ"
+    text: "«يعني: عنقها، لأنّ موضع العقد: النَّحر، وفوقه العنق. وصغّر «فوق» لتقارب ما بين العنق والعقد» [@diwan-zuhayr، ص126]."
+  - term: "أَدْمَاءَ"
+    text: "«الظّبية البيضاء» [@diwan-zuhayr، ص126]."
+  - term: "مَرْتَعُهَا الْخَلَاءُ"
+    text: "«الخلاء»: «الموضع الخالي. وإنما خصّ الظّبية به، لأنه أراد أنها إذا تفرّدت تجزع، فتتشوّف، وتمدّ عنقها. وذلك أحسن لها» [@diwan-zuhayr، ص126]."
+sources:
+  - source: "diwan-zuhayr"
+    loc: "ص125"
+    url: "https://archive.org/details/3917pdf/page/n125/mode/1up"
+  - source: "diwan-zuhayr"
+    loc: "ص126"
+    url: "https://archive.org/details/3917pdf/page/n126/mode/1up"
+status: "review"

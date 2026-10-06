@@ -1,0 +1,14 @@
+explained: false
+first: "غَصِصْتَ بِنِيئِهَا فَبَشِمْتَ عَنْهَا"
+second: "وَعِنْدَكَ لَوْ أَرَدْتَ لَهَا دَوَاءُ"
+vocabulary:
+  - term: "غَصِصْتَ بِنِيئِهَا فَبَشِمْتَ عَنْهَا"
+    text: "«أي: هذا المال الذي أخذته كمضغةٍ نيئة، غصِصت بها وبشِمت عنها، وعندك لها دواء. ودواؤها أن تردّ هذا المال إلى أهله» [@diwan-zuhayr، ص144]. وبشِم: «تخِم أو سئم» كما يقول المحقق [@diwan-zuhayr، ص143]."
+sources:
+  - source: "diwan-zuhayr"
+    loc: "ص143"
+    url: "https://archive.org/details/3917pdf/page/n143/mode/1up"
+  - source: "diwan-zuhayr"
+    loc: "ص144"
+    url: "https://archive.org/details/3917pdf/page/n144/mode/1up"
+status: "review"

@@ -1,0 +1,15 @@
+explained: false
+first: "جِوَارٌ شَاهِدٌ عَدْلٌ عَلَيْكُمْ"
+second: "وَسِيَّانِ الْكَفَالَةُ وَالتَّلَاءُ"
+vocabulary:
+  - term: "جِوَارٌ شَاهِدٌ عَدْلٌ عَلَيْكُمْ"
+    text: "«يقول: قد كان هذا الرجل جارًا لكم، وجواره بيّن مشهور، فهو شاهد عليكم أنّكم أصحابه» [@diwan-zuhayr، ص139]."
+  - term: "سِيَّانِ"
+    text: "«أي: مِثلان» [@diwan-zuhayr، ص139]."
+  - term: "التَّلَاءُ"
+    text: "«الحَوالة. أي: من كفل لك كفالةً، ومن جعل لك» [@diwan-zuhayr، ص139] «حَوالةً من ذمّة، فقد وجب حقٌّ بهذين جميعًا» [@diwan-zuhayr، ص140]."
+sources:
+  - source: "diwan-zuhayr"
+    loc: "ص139–140"
+    url: "https://archive.org/details/3917pdf/page/n139/mode/1up"
+status: "review"

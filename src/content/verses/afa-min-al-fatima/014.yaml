@@ -1,0 +1,17 @@
+explained: false
+first: "بِآرِزَةِ الْفَقَارَةِ لَمْ يَخُنْهَا"
+second: "قِطَافٌ فِي الرِّكَابِ وَلَا خِلَاءُ"
+vocabulary:
+  - term: "بِآرِزَةِ الْفَقَارَةِ"
+    text: "ناقة «آرزة الفَقارة» «وهي: الدّانية بعضُها من بعض». «فأراد: أنّ الناقة مجتمعة الفقارة ملتئمتها. وذاك أشدّ لها» [@diwan-zuhayr، ص127]."
+  - term: "قِطَافٌ"
+    text: "«مقاربة الخطو وضيقه» [@diwan-zuhayr، ص127]."
+  - term: "خِلَاءُ"
+    text: "«و«الخِلاء» في الناقة: مثل الحِران في الخيل» [@diwan-zuhayr، ص127]."
+  - term: "الرِّكَابِ"
+    text: "«الإبل» [@diwan-zuhayr، ص127]."
+sources:
+  - source: "diwan-zuhayr"
+    loc: "ص127"
+    url: "https://archive.org/details/3917pdf/page/n127/mode/1up"
+status: "review"

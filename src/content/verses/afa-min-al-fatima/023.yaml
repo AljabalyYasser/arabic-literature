@@ -1,0 +1,17 @@
+explained: false
+first: "وَإِنْ مَالَا لِوَعْثٍ خَاذَمَتْهُ"
+second: "بِأَلْوَاحٍ مَفَاصِلُهَا ظِمَاءُ"
+vocabulary:
+  - term: "وَعْثٍ"
+    text: "«والوَعْث من الرّمل: ما غابت فيه أرساغه» [@diwan-zuhayr، ص131]."
+  - term: "خَاذَمَتْهُ"
+    text: "«عارضته بعدوها» [@diwan-zuhayr، ص131]."
+  - term: "بِأَلْوَاحٍ"
+    text: "الألواح: «العظام العريضة لا مخّ لها» كما يقول المحقق [@diwan-zuhayr، ص132]."
+  - term: "ظِمَاءُ"
+    text: "«أي: صِلابٌ قليلة اللحم، لا رَهَل لها» [@diwan-zuhayr، ص132]."
+sources:
+  - source: "diwan-zuhayr"
+    loc: "ص131–132"
+    url: "https://archive.org/details/3917pdf/page/n131/mode/1up"
+status: "review"

@@ -1,0 +1,16 @@
+explained: false
+first: "سَتَأْتِي آلَ حِصْنٍ حَيْثُ كَانُوا"
+second: "مِنَ الْمَثُلَاتِ بَاقِيَةٌ ثِنَاءُ"
+vocabulary:
+  - term: "الْمَثُلَاتِ"
+    text: "«جمع مَثُلة، وهو أن يُمثَّل بالإنسان، أي: يُسَبّ ويُنكَّل به» [@diwan-zuhayr، ص142]."
+  - term: "بَاقِيَةٌ ثِنَاءُ"
+    text: "«أي: تبقى على الدّهر، وتُروى. و«الثِّناء»: أن تُثنّى وتُردَّد مرّةً بعد مرّة» [@diwan-zuhayr، ص142]."
+sources:
+  - source: "diwan-zuhayr"
+    loc: "ص141"
+    url: "https://archive.org/details/3917pdf/page/n141/mode/1up"
+  - source: "diwan-zuhayr"
+    loc: "ص142"
+    url: "https://archive.org/details/3917pdf/page/n142/mode/1up"
+status: "review"

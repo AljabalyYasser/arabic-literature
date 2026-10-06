@@ -1,0 +1,16 @@
+explained: false
+first: "وَيَبْقَى بَيْنَنَا قَذَعٌ وَتُلْفَوْا"
+second: "إِذًا قَوْمًا بِأَنْفُسِهِمْ أَسَاءُوا"
+vocabulary:
+  - term: "قَذَعٌ"
+    text: "«القبيح من القول. يقال: أقذع فلانٌ لفلان، إذا قال له قولًا قبيحًا» [@diwan-zuhayr، ص146]."
+  - term: "وَتُلْفَوْا ... أَسَاءُوا"
+    text: "«أي: تُلفَوا مسيئين إلى أنفسكم بما تعرّضتم له من الهجاء والشّتم» [@diwan-zuhayr، ص146]."
+sources:
+  - source: "diwan-zuhayr"
+    loc: "ص145"
+    url: "https://archive.org/details/3917pdf/page/n145/mode/1up"
+  - source: "diwan-zuhayr"
+    loc: "ص146"
+    url: "https://archive.org/details/3917pdf/page/n146/mode/1up"
+status: "review"

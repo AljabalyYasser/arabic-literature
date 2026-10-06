@@ -1,0 +1,17 @@
+explained: false
+first: "أَصَكَّ مُصَلَّمِ الْأُذُنَيْنِ أَجْنَى"
+second: "لَهُ بِالسِّيِّ تَنُّومٌ وَآءُ"
+vocabulary:
+  - term: "أَصَكَّ"
+    text: "«المتقارب العُرقوبين» [@diwan-zuhayr، ص128]."
+  - term: "مُصَلَّمِ الْأُذُنَيْنِ"
+    text: "«المقطوع الأذنين من أصولها. وبذلك تُوصف النعام» [@diwan-zuhayr، ص128]."
+  - term: "تَنُّومٌ وَآءُ"
+    text: "«نبتان» [@diwan-zuhayr، ص128]."
+  - term: "أَجْنَى"
+    text: "«أدرك وحان أن يُجنى. وصف أنّ الظّليم في خِصب» [@diwan-zuhayr، ص129]. و«السِّيّ»: «اسم أرض» [@diwan-zuhayr، ص129]."
+sources:
+  - source: "diwan-zuhayr"
+    loc: "ص128–129"
+    url: "https://archive.org/details/3917pdf/page/n128/mode/1up"
+status: "review"

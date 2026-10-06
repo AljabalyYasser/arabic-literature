@@ -1,0 +1,15 @@
+explained: false
+first: "جَرَتْ سُنُحًا فَقُلْتُ لَهَا أَجِيزِي"
+second: "نَوًى مَشْمُولَةٌ فَمَتَى اللِّقَاءُ"
+vocabulary:
+  - term: "سُنُحًا"
+    text: "«جمع سانح، وهو ما ولّى الرامي مَيامنه، فلم يمكنه رميه. وهو ضدّ البارح» [@diwan-zuhayr، ص124]."
+  - term: "أَجِيزِي"
+    text: "«أي: جاوزي واقطعي» [@diwan-zuhayr، ص124]."
+  - term: "مَشْمُولَةٌ"
+    text: "«السّريعة الانكشاف، أخذه من أنّ ريح الشّمال، إذا كانت مع السّحاب، لم تلبث أن تذهب وتنقشع» [@diwan-zuhayr، ص124]."
+sources:
+  - source: "diwan-zuhayr"
+    loc: "ص124"
+    url: "https://archive.org/details/3917pdf/page/n124/mode/1up"
+status: "review"

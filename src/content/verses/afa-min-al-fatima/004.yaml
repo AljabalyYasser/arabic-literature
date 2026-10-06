@@ -1,0 +1,15 @@
+explained: false
+first: "يَشِمْنَ بُرُوقَهُ وَيَرُشُّ أَرْيَ الْـ"
+second: "ـجَنُوبِ عَلَى حَوَاجِبِهَا الْعَمَاءُ"
+vocabulary:
+  - term: "يَشِمْنَ بُرُوقَهُ"
+    text: "«أي: ينظُرنَ بروق هذه المواضع، وإنما يريد أنهنّ في خصب» [@diwan-zuhayr، ص123]."
+  - term: "أَرْيَ الْجَنُوبِ"
+    text: "«عملُها. يعني: المطر الذي هيّجته الجنوب وبعثته» [@diwan-zuhayr، ص123]."
+  - term: "الْعَمَاءُ"
+    text: "«السّحاب الرقيق» [@diwan-zuhayr، ص123]."
+sources:
+  - source: "diwan-zuhayr"
+    loc: "ص123"
+    url: "https://archive.org/details/3917pdf/page/n123/mode/1up"
+status: "review"

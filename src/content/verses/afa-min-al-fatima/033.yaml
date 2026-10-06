@@ -1,0 +1,18 @@
+explained: false
+first: "يَجُرُّونَ الْبُرُودَ وَقَدْ تَمَشَّتْ"
+second: "حُمَيَّا الْكَأْسِ فِيهِمْ وَالْغِنَاءُ"
+vocabulary:
+  - term: "الْبُرُودَ"
+    text: "«ثياب موشيّة» [@diwan-zuhayr، ص136]."
+  - term: "حُمَيَّا الْكَأْسِ"
+    text: "الكأس: «الخمر في الإناء»، وحُميّاها: «سَوْرتها وصدمتها في الرأس» [@diwan-zuhayr، ص136]."
+  - term: "يَجُرُّونَ الْبُرُودَ"
+    text: "«يقول: يتبخترون في البرود، إذ عمِلت فيهم الخمر وأخذت منهم» [@diwan-zuhayr، ص136]."
+sources:
+  - source: "diwan-zuhayr"
+    loc: "ص135"
+    url: "https://archive.org/details/3917pdf/page/n135/mode/1up"
+  - source: "diwan-zuhayr"
+    loc: "ص136"
+    url: "https://archive.org/details/3917pdf/page/n136/mode/1up"
+status: "review"

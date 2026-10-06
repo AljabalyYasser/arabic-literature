@@ -1,0 +1,15 @@
+explained: false
+first: "لَهُمْ رَاحٌ وَرَاوُوقٌ وَمِسْكٌ"
+second: "تُعَلُّ بِهِ جُلُودُهُمُ وَمَاءُ"
+vocabulary:
+  - term: "رَاحٌ"
+    text: "«الخمر، سُمّيت بذلك، لارتياح صاحبها إليها» [@diwan-zuhayr، ص135]."
+  - term: "رَاوُوقٌ"
+    text: "«المِصفاة، وهي خِرقة تُصفّى بها الخمر» [@diwan-zuhayr، ص135]."
+  - term: "تُعَلُّ"
+    text: "«أي: تُطيَّب بالمسك مرّة بعد مرّة. وهو من العَلَل، وهو الشُّرب الثاني» [@diwan-zuhayr، ص135]."
+sources:
+  - source: "diwan-zuhayr"
+    loc: "ص135"
+    url: "https://archive.org/details/3917pdf/page/n135/mode/1up"
+status: "review"

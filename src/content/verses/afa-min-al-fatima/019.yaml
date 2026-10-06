@@ -1,0 +1,18 @@
+explained: false
+first: "تَرَفَّعَ لِلْقَنَانِ وَكُلِّ فَجٍّ"
+second: "طَبَاهُ الرِّعْيُ مِنْهُ وَالْخَلَاءُ"
+vocabulary:
+  - term: "تَرَفَّعَ لِلْقَنَانِ"
+    text: "«يقول: لمّا أقبل القيظ، فجفّت الغُدران، ارتفع إلى «القَنان» وهو: جبل لبني أسد بين أرض غطفان وطيّئ» [@diwan-zuhayr، ص130]."
+  - term: "فَجٍّ"
+    text: "«الطريق الواسع بين جبلين، وهو مُخصِب أبدًا» [@diwan-zuhayr، ص130]."
+  - term: "طَبَاهُ الرِّعْيُ"
+    text: "الرِّعي: «ما يُرعى من الكلأ». و«طباه»: «أي: دعاه ما فيه من الرِّعي، وخلاؤه من الناس، إلى أن ينتقل إليه، ويرعاه» [@diwan-zuhayr، ص130]."
+sources:
+  - source: "diwan-zuhayr"
+    loc: "ص129"
+    url: "https://archive.org/details/3917pdf/page/n129/mode/1up"
+  - source: "diwan-zuhayr"
+    loc: "ص130"
+    url: "https://archive.org/details/3917pdf/page/n130/mode/1up"
+status: "review"

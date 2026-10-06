@@ -1,0 +1,18 @@
+explained: false
+first: "فَشَجَّ بِهَا الْأَمَاعِزَ فَهْيَ تَهْوِي"
+second: "هُوِيَّ الدَّلْوِ أَسْلَمَهَا الرِّشَاءُ"
+vocabulary:
+  - term: "فَشَجَّ بِهَا الْأَمَاعِزَ"
+    text: "«فجعل يعلو بالأتان «الأماعز» وهي: حُزون الأرض الكثيرة الحصى» [@diwan-zuhayr، ص131]."
+  - term: "تَهْوِي"
+    text: "«تُسرع» [@diwan-zuhayr، ص131]."
+  - term: "أَسْلَمَهَا الرِّشَاءُ"
+    text: "«و«الرِّشاء»: الحبل. شبّه سرعة الأتان، وانقضاضها في عدوها، بالدّلو إذا انتُزعت ملأى، فانقطع حبلها وأسلمها» [@diwan-zuhayr، ص131]."
+sources:
+  - source: "diwan-zuhayr"
+    loc: "ص130"
+    url: "https://archive.org/details/3917pdf/page/n130/mode/1up"
+  - source: "diwan-zuhayr"
+    loc: "ص131"
+    url: "https://archive.org/details/3917pdf/page/n131/mode/1up"
+status: "review"

@@ -1,0 +1,13 @@
+explained: false
+first: "تَمَشَّى بَيْنَ قَتْلَى قَدْ أُصِيبَتْ"
+second: "نُفُوسُهُمُ وَلَمْ تُهْرَقْ دِمَاءُ"
+vocabulary:
+  - term: "تَمَشَّى بَيْنَ قَتْلَى"
+    text: "«أي: تمشّى الخمرُ بين سُكارى، قد صرعتهم، فكأنّهم قتلى» [@diwan-zuhayr، ص136]."
+  - term: "قَدْ أُصِيبَتْ نُفُوسُهُمُ"
+    text: "«أي: أذهبت الخمرُ عقولهم وقواهم. فكأنّ نفوسهم مُصابة» [@diwan-zuhayr، ص136]."
+sources:
+  - source: "diwan-zuhayr"
+    loc: "ص136"
+    url: "https://archive.org/details/3917pdf/page/n136/mode/1up"
+status: "review"

@@ -1,0 +1,15 @@
+explained: false
+first: "فَتُجْمَعُ أَيْمُنٌ مِنَّا وَمِنْكُمْ"
+second: "بِمُقْسَمَةٍ تَمُورُ بِهَا الدِّمَاءُ"
+vocabulary:
+  - term: "أَيْمُنٌ"
+    text: "«أي: تُجمع أيمانٌ منّا، وأيمانٌ منكم، على هذا الحقّ الذي قِبَلكم» [@diwan-zuhayr، ص141]."
+  - term: "بِمُقْسَمَةٍ"
+    text: "«موضع القَسَم، وأراد بها مكّة حيث تُنحر البُدْن» [@diwan-zuhayr، ص141]."
+  - term: "تَمُورُ"
+    text: "«أي: تسيل» [@diwan-zuhayr، ص141]."
+sources:
+  - source: "diwan-zuhayr"
+    loc: "ص141"
+    url: "https://archive.org/details/3917pdf/page/n141/mode/1up"
+status: "review"

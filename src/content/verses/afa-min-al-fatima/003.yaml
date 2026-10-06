@@ -1,0 +1,17 @@
+explained: false
+first: "فَذِرْوَةُ فَالْجِنَابُ كَأَنَّ خُنْسَ الـ"
+second: "ـنِّعَاجِ الطَّاوِيَاتِ بِهَا الْمُلَاءُ"
+vocabulary:
+  - term: "فَذِرْوَةُ فَالْجِنَابُ"
+    text: "«أرضان» [@diwan-zuhayr، ص123]."
+  - term: "خُنْسَ النِّعَاجِ"
+    text: "النعاج: «إناث البقر»، والخُنْس: «جمع خَنْساء، وهي القصيرة الأنف. وبذلك تُوصف البقر» [@diwan-zuhayr، ص123]."
+  - term: "الطَّاوِيَاتِ"
+    text: "«الضّامرات البطون» [@diwan-zuhayr، ص123]."
+  - term: "الْمُلَاءُ"
+    text: "«أرديةُ الحرير، شبّه البقر بها لبياضها» [@diwan-zuhayr، ص123]."
+sources:
+  - source: "diwan-zuhayr"
+    loc: "ص123"
+    url: "https://archive.org/details/3917pdf/page/n123/mode/1up"
+status: "review"

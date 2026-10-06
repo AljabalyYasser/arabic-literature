@@ -1,0 +1,20 @@
+explained: false
+first: "وَلَوْلَا أَنْ يَنَالَ أَبَا طَرِيفٍ"
+second: "إِسَارٌ مِنْ مَلِيكٍ أَوْ لِحَاءُ"
+vocabulary:
+  - term: "أَبَا طَرِيفٍ"
+    text: "«المأسور» [@diwan-zuhayr، ص141]."
+  - term: "إِسَارٌ مِنْ مَلِيكٍ"
+    text: "«و«المليك»: الآسر له، لأنّه يملكه. و«الإسار»: سوء الأسر وشدّته» [@diwan-zuhayr، ص141]."
+  - term: "لِحَاءُ"
+    text: "«الملاحاة واللّوم» [@diwan-zuhayr، ص141]."
+  - term: "وَلَوْلَا"
+    text: "جوابها في البيت بعده: «أي: لولا أن تُضرّوا بأبي طريف لهجوتكم، وزارت القصائدُ بيوتكم» [@diwan-zuhayr، ص141]."
+sources:
+  - source: "diwan-zuhayr"
+    loc: "ص140"
+    url: "https://archive.org/details/3917pdf/page/n140/mode/1up"
+  - source: "diwan-zuhayr"
+    loc: "ص141"
+    url: "https://archive.org/details/3917pdf/page/n141/mode/1up"
+status: "review"
