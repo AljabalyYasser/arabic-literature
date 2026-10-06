@@ -9,6 +9,7 @@ earliest:
   url: "https://shamela.ws/book/23785/176"
 people:
   - "tarafa"
+  - "al-asha"
 sources:
   - source: "ibn-qutayba"
     loc: "ج1 ص183، ص185–186"

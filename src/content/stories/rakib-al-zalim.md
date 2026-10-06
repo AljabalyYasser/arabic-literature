@@ -10,6 +10,7 @@ earliest:
   url: "https://shamela.ws/book/124335/46"
 people:
   - "imru-al-qais"
+  - "al-asha"
 sources:
   - source: "ibn-al-anbari"
     loc: "ص47–48"
