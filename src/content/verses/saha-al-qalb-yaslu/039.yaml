@@ -1,0 +1,16 @@
+explained: false
+first: "سَعَى بَعْدَهُمْ قَوْمٌ لِكَيْ يُدْرِكُوهُمُ"
+second: "فَلَمْ يَفْعَلُوا وَلَمْ يُلِيمُوا وَلَمْ يَأْلُوا"
+vocabulary:
+  - term: "لَمْ يُلِيمُوا"
+    text: "«أي: لم يأتوا ما يلامون عليه، حين لم يبلغوا منزلة هؤلاء، لأنها أعلى من أن تُبلغ» [@diwan-zuhayr، ص44]."
+  - term: "لَمْ يَأْلُوا"
+    text: "«أي: لم يقصّروا في السعي بجميل الفعل» [@diwan-zuhayr، ص44]."
+sources:
+  - source: "diwan-zuhayr"
+    loc: "ص43"
+    url: "https://archive.org/details/3917pdf/page/n43/mode/1up"
+  - source: "diwan-zuhayr"
+    loc: "ص44"
+    url: "https://archive.org/details/3917pdf/page/n44/mode/1up"
+status: "review"

@@ -1,0 +1,17 @@
+explained: false
+first: "فَمَا يَكُ مِنْ خَيْرٍ أَتَوْهُ فَإِنَّمَا"
+second: "تَوَارَثَهُ آبَاءُ آبَائِهِمْ قَبْلُ"
+vocabulary:
+  - term: "تَوَارَثَهُ آبَاءُ آبَائِهِمْ"
+    text: "«يقول: مجدهم تليد قديم متوارث، ورثوه كابرًا عن كابر» [@diwan-zuhayr، ص44]. وفي الشرح المنسوب إلى ثَعْلَب: «فَمَا كَانَ مِنْ خَيْرٍ» [@sharh-thalab-zuhayr، ص95]."
+sources:
+  - source: "diwan-zuhayr"
+    loc: "ص43"
+    url: "https://archive.org/details/3917pdf/page/n43/mode/1up"
+  - source: "diwan-zuhayr"
+    loc: "ص44"
+    url: "https://archive.org/details/3917pdf/page/n44/mode/1up"
+  - source: "sharh-thalab-zuhayr"
+    loc: "ص95"
+    url: "https://archive.org/details/3918pdf/page/n94/mode/1up"
+status: "review"

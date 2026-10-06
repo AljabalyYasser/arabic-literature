@@ -1,0 +1,16 @@
+explained: false
+first: "رَأَى اللَّهُ بِالْإِحْسَانِ مَا فَعَلَا بِكُمْ"
+second: "فَأَبْلَاهُمَا خَيْرَ الْبَلَاءِ الَّذِي يَبْلُو"
+vocabulary:
+  - term: "رَأَى اللَّهُ بِالْإِحْسَانِ"
+    text: "«يقول: رأى الله فعلهما حسنًا»، وهو عند الأعلم «يحتمل أن يكون دعاء، ويحتمل أن يكون خبرًا» [@diwan-zuhayr، ص40]. وروى أبو عمرو: «جَزَى اللَّهُ بِالْإِحْسَانِ» [@sharh-thalab-zuhayr، ص91]."
+  - term: "فَأَبْلَاهُمَا خَيْرَ الْبَلَاءِ"
+    text: "«أي: صنع الله بهما خير الصنع، الذي يبتلي به عباده». «وإنما قال «خير البلاء» لأنّ الله تعالى يُبلي بالخير والشرّ» [@diwan-zuhayr، ص40]."
+sources:
+  - source: "diwan-zuhayr"
+    loc: "ص40"
+    url: "https://archive.org/details/3917pdf/page/n40/mode/1up"
+  - source: "sharh-thalab-zuhayr"
+    loc: "ص91"
+    url: "https://archive.org/details/3918pdf/page/n90/mode/1up"
+status: "review"

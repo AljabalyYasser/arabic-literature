@@ -1,0 +1,15 @@
+explained: false
+first: "تَنْبِذُ أَفْلَاءَهَا فِي كُلِّ مَنْزِلَةٍ"
+second: "تَنْتِخُ أَعْيُنَهَا الْعِقْبَانُ وَالرَّخَمُ"
+vocabulary:
+  - term: "أَفْلَاءَهَا"
+    text: "أولادها، جمع فِلْو، وهو ولد الفرس."
+  - term: "تَنْبِذُ أَفْلَاءَهَا"
+    text: "«يقول: تُلقي أولادها من الجهد ودؤوب السير، فتقع عليها العقبان والرخم» [@diwan-zuhayr، ص106]."
+  - term: "تَنْتِخُ"
+    text: "«أي: تنزعها وتستخرجها. والمنقاش يُسمّى المنتاخ» [@diwan-zuhayr، ص106]."
+sources:
+  - source: "diwan-zuhayr"
+    loc: "ص106"
+    url: "https://archive.org/details/3917pdf/page/n106/mode/1up"
+status: "review"

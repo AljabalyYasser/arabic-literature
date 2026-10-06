@@ -1,0 +1,18 @@
+explained: false
+first: "عَلَى مُكْثِرِيهِمْ رِزْقُ مَنْ يَعْتَرِيهِمُ"
+second: "وَعِنْدَ الْمُقِلِّينَ السَّمَاحَةُ وَالْبَذْلُ"
+vocabulary:
+  - term: "مُكْثِرِيهِمْ"
+    text: "«يعني: على مياسيرهم وأغنيائهم» [@diwan-zuhayr، ص43]."
+  - term: "يَعْتَرِيهِمُ"
+    text: "«أي: قصدهم وطلب ما عندهم» [@diwan-zuhayr، ص43]."
+  - term: "الْمُقِلِّينَ"
+    text: "«و«المقلّ»: القليل المال» [@diwan-zuhayr، ص43]."
+sources:
+  - source: "diwan-zuhayr"
+    loc: "ص42"
+    url: "https://archive.org/details/3917pdf/page/n42/mode/1up"
+  - source: "diwan-zuhayr"
+    loc: "ص43"
+    url: "https://archive.org/details/3917pdf/page/n43/mode/1up"
+status: "review"

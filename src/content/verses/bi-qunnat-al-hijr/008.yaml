@@ -1,0 +1,21 @@
+explained: false
+first: "حَامِي الذِّمَارِ عَلَى مُحَافَظَةِ الْـ"
+second: "ـجُلَّى أَمِينُ مُغَيَّبِ الصَّدْرِ"
+vocabulary:
+  - term: "حَامِي الذِّمَارِ"
+    text: "«أي: يحمي ما يجب عليه أن يحميه، من حُرَمه» [@diwan-zuhayr، ص117]."
+  - term: "الْجُلَّى"
+    text: "«النائبة الجليلة». «و«على» هنا بمعنى اللام» [@diwan-zuhayr، ص117]."
+  - term: "أَمِينُ مُغَيَّبِ الصَّدْرِ"
+    text: "«أي: هو مؤتمن على ما يغيّب في صدره، ويضمره» [@diwan-zuhayr، ص117]، فلا يضمر إلا الوفاء [@diwan-zuhayr، ص118]."
+sources:
+  - source: "diwan-zuhayr"
+    loc: "ص116"
+    url: "https://archive.org/details/3917pdf/page/n116/mode/1up"
+  - source: "diwan-zuhayr"
+    loc: "ص117"
+    url: "https://archive.org/details/3917pdf/page/n117/mode/1up"
+  - source: "diwan-zuhayr"
+    loc: "ص118"
+    url: "https://archive.org/details/3917pdf/page/n118/mode/1up"
+status: "review"

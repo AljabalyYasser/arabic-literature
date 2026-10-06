@@ -1,0 +1,18 @@
+explained: false
+first: "مُوَرَّثُ الْمَجْدِ لَا يَغْتَالُ هِمَّتَهُ"
+second: "عَنِ الرِّيَاسَةِ لَا عَجْزٌ وَلَا سَأَمُ"
+vocabulary:
+  - term: "مُوَرَّثُ الْمَجْدِ"
+    text: "«أي: ليس بحديث الشرف، بل ورث ذلك عن آبائه» [@diwan-zuhayr، ص113]."
+  - term: "يَغْتَالُ"
+    text: "«يقطع ويهلك» [@diwan-zuhayr، ص113]."
+  - term: "لَا عَجْزٌ"
+    text: "««لا» زائدة، والمعنى: لا يغتال همّته عجز ولا سأم». و«السأم»: «الملل» [@diwan-zuhayr، ص113]."
+sources:
+  - source: "diwan-zuhayr"
+    loc: "ص112"
+    url: "https://archive.org/details/3917pdf/page/n112/mode/1up"
+  - source: "diwan-zuhayr"
+    loc: "ص113"
+    url: "https://archive.org/details/3917pdf/page/n113/mode/1up"
+status: "review"

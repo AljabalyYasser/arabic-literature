@@ -1,0 +1,16 @@
+explained: false
+first: "هُنَالِكَ إِنْ يُسْتَخْبَلُوا الْمَالَ يُخْبِلُوا"
+second: "وَإِنْ يُسْأَلُوا يُعْطُوا وَإِنْ يَيْسِرُوا يُغْلُوا"
+vocabulary:
+  - term: "يُسْتَخْبَلُوا ... يُخْبِلُوا"
+    text: "«و«الاستخبال»: أن يستعير الرجل من الرجل إبلًا، فيشرب ألبانها، وينتفع بأوبارها» [@diwan-zuhayr، ص42]. وأنكرها أبو عمرو: «لا أعرف الاستخبال، وأراه «يُستخوَلوا»»، والاستخوال عنده «أن يملّكوهم إياه» [@sharh-thalab-zuhayr، ص93]."
+  - term: "يَيْسِرُوا يُغْلُوا"
+    text: "«إذا قامروا بالميسر يأخذون سمان الجزر، فيقامرون عليها. لا ينحرون إلا غالية» [@diwan-zuhayr، ص42]. والميسر: قمار العرب بالقداح على الجزور."
+sources:
+  - source: "diwan-zuhayr"
+    loc: "ص42"
+    url: "https://archive.org/details/3917pdf/page/n42/mode/1up"
+  - source: "sharh-thalab-zuhayr"
+    loc: "ص93"
+    url: "https://archive.org/details/3918pdf/page/n92/mode/1up"
+status: "review"

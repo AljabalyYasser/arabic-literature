@@ -1,0 +1,13 @@
+explained: false
+first: "كَالْهِنْدُوَانِيِّ لَا يُخْزِيكَ مَشْهَدُهُ"
+second: "وَسْطَ السُّيُوفِ إِذَا مَا تُضْرَبُ الْبُهَمُ"
+vocabulary:
+  - term: "كَالْهِنْدُوَانِيِّ"
+    text: "«يقول: هذا الممدوح، في مضائه وقطعه للأمور، كالسيف الهندوانيّ. وهو منسوب إلى الهند على غير قياس» [@diwan-zuhayr، ص113]."
+  - term: "الْبُهَمُ"
+    text: "«جمع بُهمة، وهو البطل الشجاع الذي لا يُدرى من أين يؤتى في القتال» [@diwan-zuhayr، ص113]."
+sources:
+  - source: "diwan-zuhayr"
+    loc: "ص113"
+    url: "https://archive.org/details/3917pdf/page/n113/mode/1up"
+status: "review"

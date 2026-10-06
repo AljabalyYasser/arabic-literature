@@ -1,0 +1,15 @@
+explained: false
+first: "بِخَيْلٍ عَلَيْهَا جِنَّةٌ عَبْقَرِيَّةٌ"
+second: "جَدِيرُونَ يَوْمًا أَنْ يَنَالُوا فَيَسْتَعْلُوا"
+vocabulary:
+  - term: "جِنَّةٌ عَبْقَرِيَّةٌ"
+    text: "رجال كالجن: «و«عبقر»: أرض. وإذا أرادت العرب المبالغة في وصف شيء قالت: هو عبقريّ» [@diwan-zuhayr، ص35]."
+  - term: "جَدِيرُونَ"
+    text: "«أي: خليقون، مستحقّون» [@diwan-zuhayr، ص35]."
+  - term: "يَسْتَعْلُوا"
+    text: "«يظفروا ويعلوا على العدوّ» [@diwan-zuhayr، ص35]."
+sources:
+  - source: "diwan-zuhayr"
+    loc: "ص35"
+    url: "https://archive.org/details/3917pdf/page/n35/mode/1up"
+status: "review"

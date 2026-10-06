@@ -1,0 +1,15 @@
+explained: false
+first: "يَمْرُونَهَا سَاعَةً مَرْيًا بِأَسْؤُقِهِمْ"
+second: "حَتَّى إِذَا مَا بَدَا لِلْغَارَةِ النَّعَمُ"
+vocabulary:
+  - term: "يَمْرُونَهَا"
+    text: "«أي: يحرّكونها، ويستخرجون جريها. وأصل المري: المسح على الضرع، لتدرّ الناقة» [@diwan-zuhayr، ص110]."
+  - term: "بِأَسْؤُقِهِمْ"
+    text: "بسيقانهم، جمع ساق."
+  - term: "النَّعَمُ"
+    text: "«الإبل» [@diwan-zuhayr، ص110]."
+sources:
+  - source: "diwan-zuhayr"
+    loc: "ص110"
+    url: "https://archive.org/details/3917pdf/page/n110/mode/1up"
+status: "review"

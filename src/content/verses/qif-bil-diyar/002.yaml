@@ -1,0 +1,19 @@
+explained: false
+first: "لَا الدَّارُ غَيَّرَهَا بَعْدِي الْأَنِيسُ وَلَا"
+second: "بِالدَّارِ لَوْ كَلَّمَتْ ذَا حَاجَةٍ صَمَمُ"
+vocabulary:
+  - term: "الْأَنِيسُ"
+    text: "الناس. «أي: لم ينزلها بعدي أنيس، فيغيّروا ما يعرف منها» [@diwan-zuhayr، ص101]. ومن روى «بُعْدُ الْأَنِيسِ»، كما في الشرح المنسوب إلى ثَعْلَب، فالمعنى: «لم يغيّرها بُعد الأنيس قطّ، ولكن الأرواح والديم» [@sharh-thalab-zuhayr، ص116]."
+  - term: "صَمَمُ"
+    text: "«ولا بها صمم عن تحيّتي ... ولكنها لم تكلّمني، ولا ردّت جوابي» [@diwan-zuhayr، ص101]."
+sources:
+  - source: "diwan-zuhayr"
+    loc: "ص100"
+    url: "https://archive.org/details/3917pdf/page/n100/mode/1up"
+  - source: "diwan-zuhayr"
+    loc: "ص101"
+    url: "https://archive.org/details/3917pdf/page/n101/mode/1up"
+  - source: "sharh-thalab-zuhayr"
+    loc: "ص116"
+    url: "https://archive.org/details/3918pdf/page/n115/mode/1up"
+status: "review"

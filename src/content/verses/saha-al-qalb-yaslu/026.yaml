@@ -1,0 +1,13 @@
+explained: false
+first: "بِلَادٌ بِهَا عَزُّوا مَعَدًّا وَغَيْرَهَا"
+second: "مَشَارِبُهَا عَذْبٌ وَأَعْلَامُهَا ثَمْلُ"
+vocabulary:
+  - term: "عَزُّوا مَعَدًّا"
+    text: "«أي: غلبوها في العزّ، وظهروا عليها» [@diwan-zuhayr، ص39]."
+  - term: "أَعْلَامُهَا ثَمْلُ"
+    text: "«و«الأعلام»: الجبال. و«الثَّمْل»: التي يقام فيها» [@diwan-zuhayr، ص39]، أي يطيب فيها المقام."
+sources:
+  - source: "diwan-zuhayr"
+    loc: "ص39"
+    url: "https://archive.org/details/3917pdf/page/n39/mode/1up"
+status: "review"

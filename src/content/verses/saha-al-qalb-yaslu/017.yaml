@@ -1,0 +1,18 @@
+explained: false
+first: "قُضَاعِيَّةٌ أَوْ أُخْتُهَا مُضَرِيَّةٌ"
+second: "يُحَرَّقُ فِي حَافَاتِهَا الْحَطَبُ الْجَزْلُ"
+vocabulary:
+  - term: "قُضَاعِيَّةٌ أَوْ أُخْتُهَا مُضَرِيَّةٌ"
+    text: "«نسب الحرب إلى قضاعة. ويقال: قضاعة بن معدّ، ومضر بن نزار بن معدّ. فلذلك قال «أو أختها مضرية»» [@diwan-zuhayr، ص36]."
+  - term: "حَافَاتِهَا"
+    text: "جوانبها."
+  - term: "الْجَزْلُ"
+    text: "«ما غلظ من الحطب» [@diwan-zuhayr، ص36]."
+sources:
+  - source: "diwan-zuhayr"
+    loc: "ص36"
+    url: "https://archive.org/details/3917pdf/page/n36/mode/1up"
+  - source: "diwan-zuhayr"
+    loc: "ص37"
+    url: "https://archive.org/details/3917pdf/page/n37/mode/1up"
+status: "review"

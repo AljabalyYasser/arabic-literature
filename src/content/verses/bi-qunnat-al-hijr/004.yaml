@@ -1,0 +1,16 @@
+explained: false
+first: "دَعْ ذَا وَعَدِّ الْقَوْلَ فِي هَرِمٍ"
+second: "خَيْرِ الْبُدَاةِ وَسَيِّدِ الْحَضْرِ"
+vocabulary:
+  - term: "دَعْ ذَا وَعَدِّ الْقَوْلَ"
+    text: "«أي: دع ما أنت فيه من وصف الديار، وعدّ القول في مدح هرم» [@diwan-zuhayr، ص115]، أي اصرفه إليه."
+  - term: "خَيْرِ الْبُدَاةِ وَسَيِّدِ الْحَضْرِ"
+    text: "«أي: خير أهل البدو، و[سيد أهل] الحضر». «والمعنى أنه خير من حضر وغاب» [@diwan-zuhayr، ص115]. وفي إنشاد حماد عند أبي الفرج: «خَيْرِ الْكُهُولِ وَسَيِّدِ الْحَضْرِ» [@aghani-dk، ج6 ص91]."
+sources:
+  - source: "diwan-zuhayr"
+    loc: "ص115"
+    url: "https://archive.org/details/3917pdf/page/n115/mode/1up"
+  - source: "aghani-dk"
+    loc: "ج6 ص91"
+    url: "https://archive.org/details/aghani2014/6/page/n92/mode/1up"
+status: "review"

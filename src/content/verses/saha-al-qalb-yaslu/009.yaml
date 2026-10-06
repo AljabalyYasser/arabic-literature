@@ -1,0 +1,15 @@
+explained: false
+first: "تَرَبَّصْ فَإِنْ تُقْوِ الْمَرَوْرَاةُ مِنْهُمُ"
+second: "وَدَارَاتُهَا لَا تُقْوِ مِنْهُمْ إِذًا نَخْلُ"
+vocabulary:
+  - term: "تَرَبَّصْ"
+    text: "«أي: تلبّث، ولا تعجل بالذهاب» [@diwan-zuhayr، ص34]."
+  - term: "تُقْوِ"
+    text: "«تخلو وتقفر» [@diwan-zuhayr، ص34]."
+  - term: "الْمَرَوْرَاةُ ... نَخْلُ"
+    text: "مواضع: «و«المروراة»: أرض. و«الدارات»: جمع دارة ودار. والدارة: كلّ جوبة بين جبال. و«نخل»: اسم أرض» [@diwan-zuhayr، ص34]. والجوبة: الفجوة."
+sources:
+  - source: "diwan-zuhayr"
+    loc: "ص34"
+    url: "https://archive.org/details/3917pdf/page/n34/mode/1up"
+status: "review"

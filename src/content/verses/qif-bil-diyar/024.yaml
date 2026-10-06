@@ -1,0 +1,16 @@
+explained: false
+first: "وَآخَرِينَ تَرَى الْمَاذِيَّ عُدَّتَهُمْ"
+second: "مِنْ نَسْجِ دَاوُدَ أَوْ مَا أَوْرَثَتْ إِرَمُ"
+vocabulary:
+  - term: "الْمَاذِيَّ"
+    text: "«الدروع السهلة اللينة الصافية» [@diwan-zuhayr، ص109]."
+  - term: "إِرَمُ"
+    text: "«أمّة قديمة. ويقال: هي عاد. وإنما يريد أنها دروع قديمة متوارثة. والعرب تنسب كلّ قديم إلى عاد» [@diwan-zuhayr، ص109]."
+sources:
+  - source: "diwan-zuhayr"
+    loc: "ص108"
+    url: "https://archive.org/details/3917pdf/page/n108/mode/1up"
+  - source: "diwan-zuhayr"
+    loc: "ص109"
+    url: "https://archive.org/details/3917pdf/page/n109/mode/1up"
+status: "review"

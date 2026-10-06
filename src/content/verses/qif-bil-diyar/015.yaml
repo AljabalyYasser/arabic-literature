@@ -1,0 +1,18 @@
+explained: false
+first: "الْقَائِدُ الْخَيْلَ مَنْكُوبًا دَوَابِرُهَا"
+second: "مِنْهَا الشَّنُونُ وَمِنْهَا الزَّاهِقُ الزَّهِمُ"
+vocabulary:
+  - term: "مَنْكُوبًا دَوَابِرُهَا"
+    text: "«أي: قد دأبت في السير، وباشرت قوائمها خشونة الأرض، فنكبت الحجارة «دوابرها» وهي: مآخير الحوافر» [@diwan-zuhayr، ص106]."
+  - term: "الشَّنُونُ"
+    text: "«من الخيل: بين السمين والمهزول» [@diwan-zuhayr، ص106]."
+  - term: "الزَّاهِقُ الزَّهِمُ"
+    text: "«و«الزاهق»: السمين. و«الزهم»: الكثير الشحم» [@diwan-zuhayr، ص106]."
+sources:
+  - source: "diwan-zuhayr"
+    loc: "ص105"
+    url: "https://archive.org/details/3917pdf/page/n105/mode/1up"
+  - source: "diwan-zuhayr"
+    loc: "ص106"
+    url: "https://archive.org/details/3917pdf/page/n106/mode/1up"
+status: "review"

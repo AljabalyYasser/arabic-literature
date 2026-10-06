@@ -1,0 +1,18 @@
+explained: false
+first: "كَأَنَّ عَيْنِي وَقَدْ سَالَ السَّلِيلُ بِهِمْ"
+second: "وَعَبْرَةٌ مَا هُمُ لَوْ أَنَّهُمْ أَمَمُ"
+vocabulary:
+  - term: "سَالَ السَّلِيلُ بِهِمْ"
+    text: "«أي: ساروا فيه سيرًا سريعًا، لمّا انحدروا فيه. والسليل: واد بعينه» [@diwan-zuhayr، ص103]."
+  - term: "وَعَبْرَةٌ مَا هُمُ"
+    text: "«أي: هم عبرة لي. وحقيقته: هم سبب بكائي وفيض عبرتي. و«ما» زائدة» [@diwan-zuhayr، ص103]."
+  - term: "أَمَمُ"
+    text: "«القصد والقرب»: «لو كانوا قصدًا لكنت أزورهم، ولكن بعدوا» [@diwan-zuhayr، ص103]."
+sources:
+  - source: "diwan-zuhayr"
+    loc: "ص102"
+    url: "https://archive.org/details/3917pdf/page/n102/mode/1up"
+  - source: "diwan-zuhayr"
+    loc: "ص103"
+    url: "https://archive.org/details/3917pdf/page/n103/mode/1up"
+status: "review"

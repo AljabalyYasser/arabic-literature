@@ -1,0 +1,18 @@
+explained: false
+first: "وَفِيهِمْ مَقَامَاتٌ حِسَانٌ وُجُوهُهُمْ"
+second: "وَأَنْدِيَةٌ يَنْتَابُهَا الْقَوْلُ وَالْفِعْلُ"
+vocabulary:
+  - term: "مَقَامَاتٌ"
+    text: "«المجالس. سمّيت بذلك، لأنّ الرجل كان يقوم في المجلس، فيحضّ على الخير، ويصلح بين الناس. وأراد بالمقامات أهلها» [@diwan-zuhayr، ص42]."
+  - term: "أَنْدِيَةٌ"
+    text: "«جمع نديّ، وهو المجلس والمتحدَّث» [@diwan-zuhayr، ص42]."
+  - term: "يَنْتَابُهَا"
+    text: "«أي: يقصدها» [@diwan-zuhayr، ص42]."
+sources:
+  - source: "diwan-zuhayr"
+    loc: "ص42"
+    url: "https://archive.org/details/3917pdf/page/n42/mode/1up"
+  - source: "diwan-zuhayr"
+    loc: "ص43"
+    url: "https://archive.org/details/3917pdf/page/n43/mode/1up"
+status: "review"

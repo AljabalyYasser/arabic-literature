@@ -1,0 +1,18 @@
+explained: false
+first: "قَوْدُ الْجِيَادِ وَإِصْهَارُ الْمُلُوكِ وَصَبْـ"
+second: "ـرٌ فِي مَوَاطِنَ لَوْ كَانُوا بِهَا سَئِمُوا"
+vocabulary:
+  - term: "قَوْدُ الْجِيَادِ"
+    text: "«تبيين لقوله «ما لم ينالوا»» [@diwan-zuhayr، ص112]."
+  - term: "إِصْهَارُ الْمُلُوكِ"
+    text: "«أي: مصاهرة الملوك. يقال: صاهر فلانًا وأصهر إليه» [@diwan-zuhayr، ص112]."
+  - term: "لَوْ كَانُوا بِهَا سَئِمُوا"
+    text: "وصفه «بالصبر في مواطن الحرب وغيرها، مما يسأم فيه غيره، ولا يصبر عليه» [@diwan-zuhayr، ص112]."
+sources:
+  - source: "diwan-zuhayr"
+    loc: "ص111"
+    url: "https://archive.org/details/3917pdf/page/n111/mode/1up"
+  - source: "diwan-zuhayr"
+    loc: "ص112"
+    url: "https://archive.org/details/3917pdf/page/n112/mode/1up"
+status: "review"

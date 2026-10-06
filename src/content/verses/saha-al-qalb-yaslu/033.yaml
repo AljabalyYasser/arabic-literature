@@ -1,0 +1,16 @@
+explained: false
+first: "رَأَيْتُ ذَوِي الْحَاجَاتِ حَوْلَ بُيُوتِهِمْ"
+second: "قَطِينًا بِهَا حَتَّى إِذَا نَبَتَ الْبَقْلُ"
+vocabulary:
+  - term: "قَطِينًا"
+    text: "«والقطين أيضًا: الساكن في الدار، النازل فيها. وأراد به ههنا: الساكن» [@diwan-zuhayr، ص42]."
+  - term: "حَتَّى إِذَا نَبَتَ الْبَقْلُ"
+    text: "«يعني: أنّ الفقراء يلزمون بيوت هؤلاء القوم، يعيشون في أموالهم، حتى يُخصب الناس، وينبت البقل» [@diwan-zuhayr، ص42]."
+sources:
+  - source: "diwan-zuhayr"
+    loc: "ص41"
+    url: "https://archive.org/details/3917pdf/page/n41/mode/1up"
+  - source: "diwan-zuhayr"
+    loc: "ص42"
+    url: "https://archive.org/details/3917pdf/page/n42/mode/1up"
+status: "review"

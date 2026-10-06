@@ -1,0 +1,15 @@
+explained: false
+first: "وَمُرَهَّقُ النِّيرَانِ يُحْمَدُ فِي الْـ"
+second: "ـلَأْوَاءِ غَيْرُ مُلَعَّنِ الْقِدْرِ"
+vocabulary:
+  - term: "مُرَهَّقُ النِّيرَانِ"
+    text: "«أي: تُغشى ناره». «وإنما يصف أنه يوقد النار بالليل، ليعشو إليها الضيف والغريب» [@diwan-zuhayr، ص118]."
+  - term: "اللَّأْوَاءِ"
+    text: "«الجهد وشدّة الزمان» [@diwan-zuhayr، ص118]."
+  - term: "غَيْرُ مُلَعَّنِ الْقِدْرِ"
+    text: "«أي: لا يؤكل ما فيها دون الضيف، والجار واليتيم والمسكين» [@diwan-zuhayr، ص118]."
+sources:
+  - source: "diwan-zuhayr"
+    loc: "ص118"
+    url: "https://archive.org/details/3917pdf/page/n118/mode/1up"
+status: "review"

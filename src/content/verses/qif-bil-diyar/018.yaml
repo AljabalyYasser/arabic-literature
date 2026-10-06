@@ -1,0 +1,18 @@
+explained: false
+first: "فَهْيَ تَبَلَّغُ بِالْأَعْنَاقِ يُتْبِعُهَا"
+second: "خَلْجُ الْأَجِرَّةِ فِي أَشْدَاقِهَا ضَجَمُ"
+vocabulary:
+  - term: "تَبَلَّغُ بِالْأَعْنَاقِ"
+    text: "«أي: تمدّ أعناقها، لأنها مقرونة بالإبل مجنوبة خلفها» [@diwan-zuhayr، ص106]."
+  - term: "خَلْجُ الْأَجِرَّةِ"
+    text: "«و«الخلج»: الجذب» [@diwan-zuhayr، ص106]. «و«الأجرّة»: حبال من جلود، واحدها جرير» [@diwan-zuhayr، ص107]."
+  - term: "ضَجَمُ"
+    text: "«الميل» [@diwan-zuhayr، ص107]."
+sources:
+  - source: "diwan-zuhayr"
+    loc: "ص106"
+    url: "https://archive.org/details/3917pdf/page/n106/mode/1up"
+  - source: "diwan-zuhayr"
+    loc: "ص107"
+    url: "https://archive.org/details/3917pdf/page/n107/mode/1up"
+status: "review"

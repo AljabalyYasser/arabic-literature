@@ -1,0 +1,18 @@
+explained: false
+first: "غَرْبٌ عَلَى بَكْرَةٍ أَوْ لُؤْلُؤٌ قَلِقٌ"
+second: "فِي السِّلْكِ خَانَ بِهِ رَبَّاتِهِ النُّظُمُ"
+vocabulary:
+  - term: "غَرْبٌ عَلَى بَكْرَةٍ"
+    text: "خبر «كأنّ» في البيت السابق. «و«الغرب»: دلو عظيمة تستقي بها السانية على بكرة» [@diwan-zuhayr، ص103]، والسانية: الناقة يُستقى عليها."
+  - term: "لُؤْلُؤٌ قَلِقٌ"
+    text: "«هو الذي لا يستقرّ، إذا انقطع خيطه» [@diwan-zuhayr، ص103]."
+  - term: "خَانَ بِهِ رَبَّاتِهِ النُّظُمُ"
+    text: "«و«النظم»: جمع نظام، وهو الخيط أيضًا». «أي: خان صواحب اللؤلؤ خيط النظام، وانقطع، فقلق اللؤلؤ وانحدر. فشبّه دموعه به» [@diwan-zuhayr، ص103]."
+sources:
+  - source: "diwan-zuhayr"
+    loc: "ص103"
+    url: "https://archive.org/details/3917pdf/page/n103/mode/1up"
+  - source: "diwan-zuhayr"
+    loc: "ص104"
+    url: "https://archive.org/details/3917pdf/page/n104/mode/1up"
+status: "review"

@@ -1,0 +1,13 @@
+explained: false
+first: "يَقْسِمُ ثُمَّ يُسَوِّي الْقَسْمَ بَيْنَهُمُ"
+second: "مُعْتَدِلُ الْحُكْمِ لَا هَارٍ وَلَا هَشِمُ"
+vocabulary:
+  - term: "هَارٍ"
+    text: "«الهائر الضعيف. وأصله من قولهم: تهوّر الجرف وانهار، إذا تساقط» [@diwan-zuhayr، ص111]."
+  - term: "هَشِمُ"
+    text: "«السريع الانكسار. ضربه مثلًا للممدوح. أي: ليس بضعيف البنية والرأي» [@diwan-zuhayr، ص111]."
+sources:
+  - source: "diwan-zuhayr"
+    loc: "ص111"
+    url: "https://archive.org/details/3917pdf/page/n111/mode/1up"
+status: "review"

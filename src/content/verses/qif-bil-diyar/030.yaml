@@ -1,0 +1,18 @@
+explained: false
+first: "حَتَّى تَآوَى إِلَى لَا فَاحِشٍ بَرَمٍ"
+second: "وَلَا شَحِيحٍ إِذَا أَصْحَابُهُ غَنِمُوا"
+vocabulary:
+  - term: "تَآوَى"
+    text: "«أي: ترجع النعم والغنائم، وتأوي إلى الممدوح» [@diwan-zuhayr، ص111]."
+  - term: "بَرَمٍ"
+    text: "«الذي لا يدخل في الميسر لبخله» [@diwan-zuhayr، ص111]."
+  - term: "وَلَا شَحِيحٍ إِذَا أَصْحَابُهُ غَنِمُوا"
+    text: "«وإنما يعني أنه لا يستأثر بشيء دون أصحابه، ولا ينافسهم فيما ظفروا به» [@diwan-zuhayr، ص111]."
+sources:
+  - source: "diwan-zuhayr"
+    loc: "ص110"
+    url: "https://archive.org/details/3917pdf/page/n110/mode/1up"
+  - source: "diwan-zuhayr"
+    loc: "ص111"
+    url: "https://archive.org/details/3917pdf/page/n111/mode/1up"
+status: "review"

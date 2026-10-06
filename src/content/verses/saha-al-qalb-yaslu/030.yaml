@@ -1,0 +1,23 @@
+explained: false
+first: "تَدَارَكْتُمَا الْأَحْلَافَ قَدْ ثُلَّ عَرْشُهَا"
+second: "وَذُبْيَانَ قَدْ زَلَّتْ بِأَقْدَامِهَا النَّعْلُ"
+vocabulary:
+  - term: "تَدَارَكْتُمَا"
+    text: "«يعني: تداركتماهم بالحمالة والصلح» [@diwan-zuhayr، ص41]."
+  - term: "الْأَحْلَافَ"
+    text: "عند الأعلم: «أسد وغطفان وطيّئ» [@diwan-zuhayr، ص41]. وفي الشرح المنسوب إلى ثَعْلَب: «الأحلاف: عبس وفزارة» [@sharh-thalab-zuhayr، ص91]."
+  - term: "ثُلَّ عَرْشُهَا"
+    text: "«أي: أصابها ما كسرها وهدمها. يقال: ثُلّ عرش فلان، إذا هُدم بناؤه وذهب عزّه» [@diwan-zuhayr، ص41]."
+  - term: "زَلَّتْ بِأَقْدَامِهَا النَّعْلُ"
+    text: "«هذا مثل ضربه، يريد أنهم وقعوا في حيرة وضلال» [@diwan-zuhayr، ص41]."
+sources:
+  - source: "diwan-zuhayr"
+    loc: "ص40"
+    url: "https://archive.org/details/3917pdf/page/n40/mode/1up"
+  - source: "diwan-zuhayr"
+    loc: "ص41"
+    url: "https://archive.org/details/3917pdf/page/n41/mode/1up"
+  - source: "sharh-thalab-zuhayr"
+    loc: "ص91"
+    url: "https://archive.org/details/3918pdf/page/n90/mode/1up"
+status: "review"

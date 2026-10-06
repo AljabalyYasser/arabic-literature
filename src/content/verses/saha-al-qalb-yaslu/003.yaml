@@ -1,0 +1,16 @@
+explained: false
+first: "وَكُنْتُ إِذَا مَا جِئْتُ يَوْمًا لِحَاجَةٍ"
+second: "مَضَتْ وَأَجَمَّتْ حَاجَةُ الْغَدِ مَا تَخْلُو"
+vocabulary:
+  - term: "أَجَمَّتْ"
+    text: "«أي: دنت وحان وقوعها». ويروى «أَحَمَّتْ» بالحاء، «ومعناها كمعنى أجمّت» [@diwan-zuhayr، ص32]."
+  - term: "مَا تَخْلُو"
+    text: "«أي: لا يخلو الإنسان من حاجة ما تراخت مدّته» [@diwan-zuhayr، ص32]: كلما قضى منها حاجة تطلعت نفسه إلى أخرى."
+sources:
+  - source: "diwan-zuhayr"
+    loc: "ص31"
+    url: "https://archive.org/details/3917pdf/page/n31/mode/1up"
+  - source: "diwan-zuhayr"
+    loc: "ص32"
+    url: "https://archive.org/details/3917pdf/page/n32/mode/1up"
+status: "review"

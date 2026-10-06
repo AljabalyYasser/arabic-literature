@@ -1,0 +1,18 @@
+explained: false
+first: "صَحَا الْقَلْبُ عَنْ سَلْمَى وَقَدْ كَادَ لَا يَسْلُو"
+second: "وَأَقْفَرَ مِنْ سَلْمَى التَّعَانِيقُ فَالثَّقْلُ"
+vocabulary:
+  - term: "صَحَا الْقَلْبُ"
+    text: "أفاق من حبها. يقول الأعلم: «أفاق القلب عن حبّ سلمى لبعدها منه» [@diwan-zuhayr، ص31]."
+  - term: "أَقْفَرَ"
+    text: "خلا من أهله."
+  - term: "التَّعَانِيقُ فَالثَّقْلُ"
+    text: "«موضعان» [@diwan-zuhayr، ص31]. وفي الشرح المنسوب إلى ثَعْلَب: «وروى أبو عمرو: «فالثُّجْل»» [@sharh-thalab-zuhayr، ص83]."
+sources:
+  - source: "diwan-zuhayr"
+    loc: "ص31"
+    url: "https://archive.org/details/3917pdf/page/n31/mode/1up"
+  - source: "sharh-thalab-zuhayr"
+    loc: "ص83"
+    url: "https://archive.org/details/3918pdf/page/n82/mode/1up"
+status: "review"

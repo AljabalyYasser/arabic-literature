@@ -1,0 +1,15 @@
+explained: false
+first: "وَإِنْ قَامَ فِيهِمْ حَامِلٌ قَالَ قَاعِدٌ"
+second: "رَشَدْتَ فَلَا غُرْمٌ عَلَيْكَ وَلَا خَذْلُ"
+vocabulary:
+  - term: "حَامِلٌ"
+    text: "من يتحمّل الديات عن غيره: «إن تحمّل أحدهم حمالة لم يُردّ عليه فعله، ولا سفّه رأيه» [@diwan-zuhayr، ص43]."
+  - term: "قَاعِدٌ"
+    text: "«وهو الذي لم يحمل الحمالة» [@diwan-zuhayr، ص43]."
+  - term: "غُرْمٌ ... خَذْلُ"
+    text: "الغرم: ما يلزم أداؤه من المال. والخذل: ترك النصرة."
+sources:
+  - source: "diwan-zuhayr"
+    loc: "ص43"
+    url: "https://archive.org/details/3917pdf/page/n43/mode/1up"
+status: "review"

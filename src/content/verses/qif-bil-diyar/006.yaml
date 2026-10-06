@@ -1,0 +1,15 @@
+explained: false
+first: "شَطَّتْ بِهِمْ قَرْقَرَى بِرْكٌ بِأَيْمُنِهِمْ"
+second: "وَالْعَالِيَاتُ وَعَنْ أَيْسَارِهِمْ خِيَمُ"
+vocabulary:
+  - term: "شَطَّتْ بِهِمْ قَرْقَرَى"
+    text: "«أي: رحلوا إليها، فبعدت بهم» [@diwan-zuhayr، ص102]. وقرقرى موضع."
+  - term: "بِرْكٌ بِأَيْمُنِهِمْ"
+    text: "«أي: جعلوه على ذات اليمين، عند ظعنهم وسيرهم» [@diwan-zuhayr، ص102]."
+  - term: "الْعَالِيَاتُ ... خِيَمُ"
+    text: "«و«العاليات»: مواضع مشرفة»، و«خيم» «موضع. وقيل: هو جبل» [@diwan-zuhayr، ص102]."
+sources:
+  - source: "diwan-zuhayr"
+    loc: "ص102"
+    url: "https://archive.org/details/3917pdf/page/n102/mode/1up"
+status: "review"

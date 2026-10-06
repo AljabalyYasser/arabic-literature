@@ -1,0 +1,18 @@
+explained: false
+first: "تَأَوَّبَنِي ذِكْرُ الْأَحِبَّةِ بَعْدَمَا"
+second: "هَجَعْتُ وَدُونِي قُلَّةُ الْحَزْنِ فَالرَّمْلُ"
+vocabulary:
+  - term: "تَأَوَّبَنِي"
+    text: "«أي: أتاني مع الليل» [@diwan-zuhayr، ص33]."
+  - term: "هَجَعْتُ"
+    text: "نمت ليلًا."
+  - term: "قُلَّةُ الْحَزْنِ"
+    text: "«و«القلّة»: أعلى الجبل. و«الحزن»: ما غلظ من الأرض» [@diwan-zuhayr، ص33]."
+sources:
+  - source: "diwan-zuhayr"
+    loc: "ص32"
+    url: "https://archive.org/details/3917pdf/page/n32/mode/1up"
+  - source: "diwan-zuhayr"
+    loc: "ص33"
+    url: "https://archive.org/details/3917pdf/page/n33/mode/1up"
+status: "review"

@@ -1,0 +1,20 @@
+explained: false
+first: "قَدْ عُولِيَتْ فَهْيَ مَرْفُوعٌ جَوَاشِنُهَا"
+second: "عَلَى قَوَائِمَ عُوجٍ لَحْمُهَا زِيَمُ"
+vocabulary:
+  - term: "عُولِيَتْ"
+    text: "«أي: خُلقت مرتفعة، طوالًا» [@diwan-zuhayr، ص106]."
+  - term: "جَوَاشِنُهَا"
+    text: "«الصدور» [@diwan-zuhayr، ص106]."
+  - term: "عُوجٍ"
+    text: "«أي: ليست بمستقيمة. وذلك أسرع لها، وهو من خلقة الجياد» [@diwan-zuhayr، ص106]."
+  - term: "لَحْمُهَا زِيَمُ"
+    text: "«أي: متفرّق عن رؤوس العظام» [@diwan-zuhayr، ص106]، فقوائمها قليلة اللحم."
+sources:
+  - source: "diwan-zuhayr"
+    loc: "ص105"
+    url: "https://archive.org/details/3917pdf/page/n105/mode/1up"
+  - source: "diwan-zuhayr"
+    loc: "ص106"
+    url: "https://archive.org/details/3917pdf/page/n106/mode/1up"
+status: "review"

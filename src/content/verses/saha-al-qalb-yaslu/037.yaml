@@ -1,0 +1,13 @@
+explained: false
+first: "وَإِنْ جِئْتَهُمْ أَلْفَيْتَ حَوْلَ بُيُوتِهِمْ"
+second: "مَجَالِسَ قَدْ يُشْفَى بِأَحْلَامِهَا الْجَهْلُ"
+vocabulary:
+  - term: "أَلْفَيْتَ"
+    text: "وجدت."
+  - term: "بِأَحْلَامِهَا"
+    text: "بعقول أهلها. «يقول: هم أهل حلوم وآراء، فمن شاهد مجالسهم تحلّم، وإن كان جاهلًا» [@diwan-zuhayr، ص43]."
+sources:
+  - source: "diwan-zuhayr"
+    loc: "ص43"
+    url: "https://archive.org/details/3917pdf/page/n43/mode/1up"
+status: "review"

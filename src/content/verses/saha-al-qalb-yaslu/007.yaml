@@ -1,0 +1,13 @@
+explained: false
+first: "لَأَرْتَحِلَنْ بِالْفَجْرِ ثُمَّ لَأَدْأَبَنْ"
+second: "إِلَى اللَّيْلِ إِلَّا أَنْ يُعَرِّجَنِي طِفْلُ"
+vocabulary:
+  - term: "لَأَدْأَبَنْ"
+    text: "«هو من الدؤوب في السير» [@diwan-zuhayr، ص33]، أي لأسيرنّ سيرًا متصلًا."
+  - term: "يُعَرِّجَنِي طِفْلُ"
+    text: "يحبسني. وفي الطفل عند الأعلم قولان: ولد تضعه ناقته فيقيم عليها، أو نار يقدحها ليختبز [@diwan-zuhayr، ص33]."
+sources:
+  - source: "diwan-zuhayr"
+    loc: "ص33"
+    url: "https://archive.org/details/3917pdf/page/n33/mode/1up"
+status: "review"

@@ -1,0 +1,18 @@
+explained: false
+first: "هُمُ جَدَّدُوا أَحْكَامَ كُلِّ مُضِلَّةٍ"
+second: "مِنَ الْعُقْمِ لَا يُلْفَى لِأَمْثَالِهَا فَصْلُ"
+vocabulary:
+  - term: "مُضِلَّةٍ"
+    text: "«حرب تُضلّ الناس، أو يُضلّ فيها، فلا يوجد من يفصل أمرها» [@diwan-zuhayr، ص39]."
+  - term: "الْعُقْمِ"
+    text: "«الحروب الشديدة. واحدتها عقيم. وأصل العقيم: التي لا تلد» [@diwan-zuhayr، ص39]، كأنها تهلك أهلها فلا تخلّف أحدًا."
+  - term: "لَا يُلْفَى"
+    text: "لا يوجد."
+sources:
+  - source: "diwan-zuhayr"
+    loc: "ص38"
+    url: "https://archive.org/details/3917pdf/page/n38/mode/1up"
+  - source: "diwan-zuhayr"
+    loc: "ص39"
+    url: "https://archive.org/details/3917pdf/page/n39/mode/1up"
+status: "review"

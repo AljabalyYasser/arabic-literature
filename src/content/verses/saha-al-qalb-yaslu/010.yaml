@@ -1,0 +1,13 @@
+explained: false
+first: "فَإِنْ تُقْوِيَا مِنْهُمْ فَإِنَّ مُحَجَّرًا"
+second: "وَجِزْعَ الْحِسَا مِنْهُمْ إِذًا قَلَّمَا يَخْلُو"
+vocabulary:
+  - term: "مُحَجَّرًا"
+    text: "«موضع» [@diwan-zuhayr، ص34]."
+  - term: "جِزْعَ الْحِسَا"
+    text: "«الجزع: منعطف الوادي». والحِسا «جمع حِسْي»، وهو ماء يُحفر عنه الرمل، «وقصره ضرورة». «ويروى: «وجزع الحشا»» [@diwan-zuhayr، ص34]."
+sources:
+  - source: "diwan-zuhayr"
+    loc: "ص34"
+    url: "https://archive.org/details/3917pdf/page/n34/mode/1up"
+status: "review"

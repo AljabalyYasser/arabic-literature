@@ -1,0 +1,18 @@
+explained: false
+first: "عَلَيْهَا أُسُودٌ ضَارِيَاتٌ لَبُوسُهُمْ"
+second: "سَوَابِغُ بِيضٌ لَا تُخَرِّقُهَا النَّبْلُ"
+vocabulary:
+  - term: "ضَارِيَاتٌ"
+    text: "معتادة على الصيد والافتراس."
+  - term: "لَبُوسُهُمْ"
+    text: "«ما يلبسه الإنسان ... وأراد به الدروع» [@diwan-zuhayr، ص36]."
+  - term: "سَوَابِغُ بِيضٌ"
+    text: "«و«السوابغ»: الكاملة. وأراد بـ«البيض» أنها صقيلة لم تصدأ» [@diwan-zuhayr، ص36]."
+sources:
+  - source: "diwan-zuhayr"
+    loc: "ص35"
+    url: "https://archive.org/details/3917pdf/page/n35/mode/1up"
+  - source: "diwan-zuhayr"
+    loc: "ص36"
+    url: "https://archive.org/details/3917pdf/page/n36/mode/1up"
+status: "review"

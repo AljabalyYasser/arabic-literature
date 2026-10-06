@@ -1,0 +1,16 @@
+explained: false
+first: "وَمِنْ ضَرِيبَتِهِ التَّقْوَى وَيَعْصِمُهُ"
+second: "مِنْ سَيِّئِ الْعَثَرَاتِ اللَّهُ وَالرَّحِمُ"
+vocabulary:
+  - term: "ضَرِيبَتِهِ"
+    text: "طبعه: «يقول: من خليقته، وما جُبل عليه، تقوى الله عزّ وجلّ» [@diwan-zuhayr، ص113]."
+  - term: "الْعَثَرَاتِ ... وَالرَّحِمُ"
+    text: "«ويعصمه من أن يقع في هلكة اللهُ، وصلةُ الرحم» [@diwan-zuhayr، ص113]."
+sources:
+  - source: "diwan-zuhayr"
+    loc: "ص112"
+    url: "https://archive.org/details/3917pdf/page/n112/mode/1up"
+  - source: "diwan-zuhayr"
+    loc: "ص113"
+    url: "https://archive.org/details/3917pdf/page/n113/mode/1up"
+status: "review"

@@ -1,0 +1,15 @@
+explained: false
+first: "كَانُوا فَرِيقَيْنِ يُصْغُونَ الزِّجَاجَ عَلَى"
+second: "قُعْسِ الْكَوَاهِلِ فِي أَكْتَافِهَا شَمَمُ"
+vocabulary:
+  - term: "يُصْغُونَ الزِّجَاجَ"
+    text: "«أي: يميلونها، ويهيّئونها للطعن. وأراد بـ«الزجاج»: الأسنّة» [@diwan-zuhayr، ص108]."
+  - term: "قُعْسِ الْكَوَاهِلِ"
+    text: "«يعني: أنّ كواهلها مشرفة، حتى كأنّ بها حدبًا. والأقعس: الأحدب» [@diwan-zuhayr، ص108]. والكاهل: أعلى الظهر مما يلي العنق."
+  - term: "شَمَمُ"
+    text: "«الارتفاع» [@diwan-zuhayr، ص108]."
+sources:
+  - source: "diwan-zuhayr"
+    loc: "ص108"
+    url: "https://archive.org/details/3917pdf/page/n108/mode/1up"
+status: "review"

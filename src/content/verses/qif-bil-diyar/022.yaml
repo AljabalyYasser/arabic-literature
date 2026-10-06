@@ -1,0 +1,18 @@
+explained: false
+first: "صَدَّتْ صُدُودًا عَنِ الْأَشْوَالِ وَاشْتَرَفَتْ"
+second: "قُبْلًا تَقَلْقَلُ فِي أَعْنَاقِهَا الْجِذَمُ"
+vocabulary:
+  - term: "الْأَشْوَالِ"
+    text: "«بقايا الماء في القرب والأسقية» [@diwan-zuhayr، ص108]: عرضوا عليها الماء فصدّت عنه."
+  - term: "اشْتَرَفَتْ قُبْلًا"
+    text: "«أي: رفعت رؤوسها وشخوصها». «و«القبل»: جمع أقبل وقبلاء. وهي التي تنظر بمآخر أعينها، لعزّة أنفسها» [@diwan-zuhayr، ص108]."
+  - term: "الْجِذَمُ"
+    text: "«قطع من جلود، كالسياط. يريد أنّ في أعناقها قلائد من سيور» [@diwan-zuhayr، ص108]."
+sources:
+  - source: "diwan-zuhayr"
+    loc: "ص107"
+    url: "https://archive.org/details/3917pdf/page/n107/mode/1up"
+  - source: "diwan-zuhayr"
+    loc: "ص108"
+    url: "https://archive.org/details/3917pdf/page/n108/mode/1up"
+status: "review"

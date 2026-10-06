@@ -1,0 +1,15 @@
+explained: false
+first: "مَتَى يَشْتَجِرْ قَوْمٌ تَقُلْ سَرَوَاتُهُمْ"
+second: "هُمُ بَيْنَنَا فَهُمُ رِضًا وَهُمُ عَدْلُ"
+vocabulary:
+  - term: "يَشْتَجِرْ"
+    text: "يختلف ويتنازع: «إذا اختلف قوم في أمر رضوا بحكم هؤلاء لما عُرف من عدلهم» [@diwan-zuhayr، ص38]."
+  - term: "سَرَوَاتُهُمْ"
+    text: "أشرافهم. «جمع سراة. وسراة: جمع سريّ» [@diwan-zuhayr، ص38]."
+  - term: "هُمُ بَيْنَنَا"
+    text: "«أي: هم الحاكمون بيننا، كما تقول: الله بيني وبينك» [@diwan-zuhayr، ص38]."
+sources:
+  - source: "diwan-zuhayr"
+    loc: "ص38"
+    url: "https://archive.org/details/3917pdf/page/n38/mode/1up"
+status: "review"

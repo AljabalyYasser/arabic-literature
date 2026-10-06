@@ -1,0 +1,16 @@
+explained: false
+first: "إِنَّ الْبَخِيلَ مَلُومٌ حَيْثُ كَانَ وَلَـ"
+second: "ـكِنَّ الْجَوَادَ عَلَى عِلَّاتِهِ هَرِمُ"
+vocabulary:
+  - term: "عَلَى عِلَّاتِهِ"
+    text: "«أي: على ما ينوبه، من قلّة ذات يد وعوز» [@diwan-zuhayr، ص104]. وفي الشرح المنسوب إلى ثَعْلَب: «على عسره ويسره» [@sharh-thalab-zuhayr، ص119]."
+  - term: "هَرِمُ"
+    text: "«اسم الممدوح» [@diwan-zuhayr، ص104]: هَرِم بن سِنان."
+sources:
+  - source: "diwan-zuhayr"
+    loc: "ص104"
+    url: "https://archive.org/details/3917pdf/page/n104/mode/1up"
+  - source: "sharh-thalab-zuhayr"
+    loc: "ص119"
+    url: "https://archive.org/details/3918pdf/page/n118/mode/1up"
+status: "review"

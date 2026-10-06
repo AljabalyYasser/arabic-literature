@@ -1,0 +1,17 @@
+explained: false
+first: "دَارٌ لِأَسْمَاءَ بِالْغَمْرَيْنِ مَاثِلَةٌ"
+second: "كَالْوَحْيِ لَيْسَ بِهَا مِنْ أَهْلِهَا أَرِمُ"
+vocabulary:
+  - term: "الْغَمْرَيْنِ"
+    text: "«موضع، ثنّاه بموضع آخر ضمّه إليه» [@diwan-zuhayr، ص101]."
+  - term: "مَاثِلَةٌ"
+    text: "«المنتصبة. وهي اللاطئة أيضًا» [@diwan-zuhayr، ص101]، فالكلمة من الأضداد."
+  - term: "كَالْوَحْيِ"
+    text: "«يعني أنه لم يبق من آيات الدار إلا رسوم، كالكتاب المسطور» [@diwan-zuhayr، ص101]."
+  - term: "أَرِمُ"
+    text: "«بمعنى: أحد. ولا يستعمل إلا بعد النفي» [@diwan-zuhayr، ص101]."
+sources:
+  - source: "diwan-zuhayr"
+    loc: "ص101"
+    url: "https://archive.org/details/3917pdf/page/n101/mode/1up"
+status: "review"

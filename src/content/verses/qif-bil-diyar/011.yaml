@@ -1,0 +1,16 @@
+explained: false
+first: "فَاسْتَبْدَلَتْ بَعْدَنَا دَارًا يَمَانِيَةً"
+second: "تَرْعَى الْخَرِيفَ فَأَدْنَى دَارِهَا ظَلِمُ"
+vocabulary:
+  - term: "تَرْعَى الْخَرِيفَ"
+    text: "«أي: ترعى ما ينبت عن مطر الخريف» [@diwan-zuhayr، ص104]."
+  - term: "ظَلِمُ"
+    text: "«اسم موضع. يقول: أدنى منازلها إلينا منزلها بهذا الموضع» [@diwan-zuhayr، ص104]. وفي الشرح المنسوب إلى ثَعْلَب: «وظَلِم: جبل، وقيل: موضع، ومعدن» [@sharh-thalab-zuhayr، ص119]."
+sources:
+  - source: "diwan-zuhayr"
+    loc: "ص104"
+    url: "https://archive.org/details/3917pdf/page/n104/mode/1up"
+  - source: "sharh-thalab-zuhayr"
+    loc: "ص119"
+    url: "https://archive.org/details/3918pdf/page/n118/mode/1up"
+status: "review"

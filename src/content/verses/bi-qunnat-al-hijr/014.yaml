@@ -1,0 +1,15 @@
+explained: false
+first: "جَلْدٍ يَحُثُّ عَلَى الْجَمِيعِ إِذَا"
+second: "كَرِهَ الظَّنُونُ جَوَامِعَ الْأَمْرِ"
+vocabulary:
+  - term: "يَحُثُّ عَلَى الْجَمِيعِ"
+    text: "«أي: قويّ العزم، مجتهد فيما ينفع العشيرة من التآلف والاجتماع» [@diwan-zuhayr، ص119]."
+  - term: "الظَّنُونُ"
+    text: "«الذي لا يوثق بما عنده، لما عُلم من قلّة خيره» [@diwan-zuhayr، ص119]."
+  - term: "جَوَامِعَ الْأَمْرِ"
+    text: "«ما يجمع الناس من شأنهم» [@diwan-zuhayr، ص119]."
+sources:
+  - source: "diwan-zuhayr"
+    loc: "ص119"
+    url: "https://archive.org/details/3917pdf/page/n119/mode/1up"
+status: "review"

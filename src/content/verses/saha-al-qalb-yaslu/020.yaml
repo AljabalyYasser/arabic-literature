@@ -1,0 +1,18 @@
+explained: false
+first: "تِهَامُونَ نَجْدِيُّونَ كَيْدًا وَنُجْعَةً"
+second: "لِكُلِّ أُنَاسٍ مِنْ وَقَائِعِهِمْ سَجْلُ"
+vocabulary:
+  - term: "تِهَامُونَ نَجْدِيُّونَ"
+    text: "«أي: يأتون تهامة ونجدًا، غازين أو منتجعين» [@diwan-zuhayr، ص37]."
+  - term: "نُجْعَةً"
+    text: "«طلب المرعى» [@diwan-zuhayr، ص37]."
+  - term: "سَجْلُ"
+    text: "«النصيب والحظّ. وأصل السجل: الدلو مملوءة ماءً» [@diwan-zuhayr، ص38]: يصيبون هؤلاء مرة وهؤلاء مرة."
+sources:
+  - source: "diwan-zuhayr"
+    loc: "ص37"
+    url: "https://archive.org/details/3917pdf/page/n37/mode/1up"
+  - source: "diwan-zuhayr"
+    loc: "ص38"
+    url: "https://archive.org/details/3917pdf/page/n38/mode/1up"
+status: "review"

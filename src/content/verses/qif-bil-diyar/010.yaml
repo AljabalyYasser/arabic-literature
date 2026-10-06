@@ -1,0 +1,18 @@
+explained: false
+first: "عَهْدِي بِهِمْ يَوْمَ بَابِ الْقَرْيَتَيْنِ وَقَدْ"
+second: "زَالَ الْهَمَالِيجُ بِالْفُرْسَانِ وَاللُّجُمُ"
+vocabulary:
+  - term: "بَابِ الْقَرْيَتَيْنِ"
+    text: "«هو: موضع في طريق مكة» [@diwan-zuhayr، ص104]."
+  - term: "زَالَ"
+    text: "«ومعنى «زال»: مال وعدل» [@diwan-zuhayr، ص104]."
+  - term: "الْهَمَالِيجُ ... وَاللُّجُمُ"
+    text: "«و«الهماليج» ههنا: الإبل. و«اللجم» كناية عن الخيل الملجمة. والمعنى: أنّ بعضهم على إبل، وبعضهم على خيل. وقيل: «الهماليج» ههنا: الخيل بأعينها» [@diwan-zuhayr، ص104]. والهماليج في الأصل: الدواب السهلة السير."
+sources:
+  - source: "diwan-zuhayr"
+    loc: "ص103"
+    url: "https://archive.org/details/3917pdf/page/n103/mode/1up"
+  - source: "diwan-zuhayr"
+    loc: "ص104"
+    url: "https://archive.org/details/3917pdf/page/n104/mode/1up"
+status: "review"

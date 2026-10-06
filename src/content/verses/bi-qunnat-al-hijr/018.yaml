@@ -1,0 +1,16 @@
+explained: false
+first: "يَصْطَادُ أُحْدَانَ الرِّجَالِ فَمَا"
+second: "تَنْفَكُّ أَجْرِيهِ عَلَى ذُخْرِ"
+vocabulary:
+  - term: "أُحْدَانَ الرِّجَالِ"
+    text: "«جمع واحد، والهمزة بدل من واو. أي: يصطاد الرجال واحدًا بعد واحد» [@diwan-zuhayr، ص121]."
+  - term: "ذُخْرِ"
+    text: "«ما يُدّخر لما بعد اليوم» [@diwan-zuhayr، ص121]."
+sources:
+  - source: "diwan-zuhayr"
+    loc: "ص120"
+    url: "https://archive.org/details/3917pdf/page/n120/mode/1up"
+  - source: "diwan-zuhayr"
+    loc: "ص121"
+    url: "https://archive.org/details/3917pdf/page/n121/mode/1up"
+status: "review"

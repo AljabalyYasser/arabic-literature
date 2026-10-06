@@ -1,0 +1,13 @@
+explained: false
+first: "وَقَدْ أَرَاهَا حَدِيثًا غَيْرَ مُقْوِيَةٍ"
+second: "السِّرُّ مِنْهَا فَوَادِي الْحَفْرِ فَالْهِدَمُ"
+vocabulary:
+  - term: "مُقْوِيَةٍ"
+    text: "«والمقوية: الخالية المقفرة» [@diwan-zuhayr، ص101]."
+  - term: "السِّرُّ ... فَالْهِدَمُ"
+    text: "«و«السرّ والحفر والهدم»: مواضع. ورفعها بـ«مقوية»» [@diwan-zuhayr، ص101]."
+sources:
+  - source: "diwan-zuhayr"
+    loc: "ص101"
+    url: "https://archive.org/details/3917pdf/page/n101/mode/1up"
+status: "review"

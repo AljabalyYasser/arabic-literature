@@ -1,0 +1,15 @@
+explained: false
+first: "يَنْظُرُ فُرْسَانُهُمْ أَمْرَ الرَّئِيسِ وَقَدْ"
+second: "شَدَّ السُّرُوجَ عَلَى أَثْبَاجِهَا الْحُزُمُ"
+vocabulary:
+  - term: "يَنْظُرُ"
+    text: "ينتظر: «أي: ينتظرون أن يأمرهم. وصفهم بطاعة رئيسهم، وذلك من الحزم» [@diwan-zuhayr، ص109]."
+  - term: "أَثْبَاجِهَا"
+    text: "«الأوساط» [@diwan-zuhayr، ص109]."
+  - term: "الْحُزُمُ"
+    text: "جمع حزام، وهو ما يُشدّ به السرج على الفرس."
+sources:
+  - source: "diwan-zuhayr"
+    loc: "ص109"
+    url: "https://archive.org/details/3917pdf/page/n109/mode/1up"
+status: "review"

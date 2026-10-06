@@ -1,0 +1,18 @@
+explained: false
+first: "وَلَنِعْمَ حَشْوُ الدِّرْعِ أَنْتَ إِذَا"
+second: "دُعِيَتْ نَزَالِ وَلُجَّ فِي الذُّعْرِ"
+vocabulary:
+  - term: "حَشْوُ الدِّرْعِ"
+    text: "لابسها: «يقول: نعم لابس الدرع أنت، إذا اشتدّت الحرب وحميت» [@diwan-zuhayr، ص117]."
+  - term: "دُعِيَتْ نَزَالِ"
+    text: "«وكانوا إذا ازدحموا، فلم يمكنهم التطاعن، تداعوا «نزال»، فنزلوا عن الخيل، وتقارعوا بالسيوف» [@diwan-zuhayr، ص117]."
+  - term: "لُجَّ فِي الذُّعْرِ"
+    text: "«تتابع الناس في الفزع. وهو من اللجاج في الشيء، وهو التمادي فيه» [@diwan-zuhayr، ص117]."
+sources:
+  - source: "diwan-zuhayr"
+    loc: "ص116"
+    url: "https://archive.org/details/3917pdf/page/n116/mode/1up"
+  - source: "diwan-zuhayr"
+    loc: "ص117"
+    url: "https://archive.org/details/3917pdf/page/n117/mode/1up"
+status: "review"

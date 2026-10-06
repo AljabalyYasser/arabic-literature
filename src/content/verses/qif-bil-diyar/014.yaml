@@ -1,0 +1,13 @@
+explained: false
+first: "وَإِنْ أَتَاهُ خَلِيلٌ يَوْمَ مَسْأَلَةٍ"
+second: "يَقُولُ لَا غَائِبٌ مَالِي وَلَا حَرِمُ"
+vocabulary:
+  - term: "خَلِيلٌ"
+    text: "«الخليل: الفقير ذو الخَلّة. يقال: اختلّ الرجل، إذا افتقر واحتاج» [@diwan-zuhayr، ص105]."
+  - term: "لَا غَائِبٌ مَالِي وَلَا حَرِمُ"
+    text: "«أي: لا يعتذر بغيبة مال، ولا يحرم سائله. والحَرِم والحَرَم: الممنوع» [@diwan-zuhayr، ص105]."
+sources:
+  - source: "diwan-zuhayr"
+    loc: "ص105"
+    url: "https://archive.org/details/3917pdf/page/n105/mode/1up"
+status: "review"

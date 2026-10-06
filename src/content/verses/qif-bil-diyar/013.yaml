@@ -1,0 +1,18 @@
+explained: false
+first: "هُوَ الْجَوَادُ الَّذِي يُعْطِيكَ نَائِلَهُ"
+second: "عَفْوًا وَيُظْلَمُ أَحْيَانًا فَيَظَّلِمُ"
+vocabulary:
+  - term: "نَائِلَهُ"
+    text: "عطاءه."
+  - term: "عَفْوًا"
+    text: "«أي: يعطيك ما سألته سهلًا، بلا مطل، ولا تعب» [@diwan-zuhayr، ص105]."
+  - term: "يُظْلَمُ أَحْيَانًا فَيَظَّلِمُ"
+    text: "«أي: يُطلب منه في غير موضع الطلب، وفي غير وقته. فيحتمل ذلك، لكرمه وجوده». «وقوله «فيظّلم» أي: يحتمل الظلم». ويقال فيه «يَطَّلِم» بالطاء أيضًا، «والبيت يروى على الوجهين» [@diwan-zuhayr، ص105]."
+sources:
+  - source: "diwan-zuhayr"
+    loc: "ص104"
+    url: "https://archive.org/details/3917pdf/page/n104/mode/1up"
+  - source: "diwan-zuhayr"
+    loc: "ص105"
+    url: "https://archive.org/details/3917pdf/page/n105/mode/1up"
+status: "review"

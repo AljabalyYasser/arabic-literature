@@ -1,0 +1,16 @@
+explained: false
+first: "وَإِذَا بَرَزْتَ بِهِ بَرَزْتَ إِلَى"
+second: "ضَافِي الْخَلِيقَةِ طَيِّبِ الْخُبْرِ"
+vocabulary:
+  - term: "بَرَزْتَ بِهِ"
+    text: "«يريد: برزت إليه. وحروف الجرّ قد يبدل بعضها من بعض» [@diwan-zuhayr، ص119]."
+  - term: "ضَافِي الْخَلِيقَةِ طَيِّبِ الْخُبْرِ"
+    text: "«أي: واسع الخلق»، «أي: حسن المخبر، جميله» [@diwan-zuhayr، ص119]."
+sources:
+  - source: "diwan-zuhayr"
+    loc: "ص118"
+    url: "https://archive.org/details/3917pdf/page/n118/mode/1up"
+  - source: "diwan-zuhayr"
+    loc: "ص119"
+    url: "https://archive.org/details/3917pdf/page/n119/mode/1up"
+status: "review"

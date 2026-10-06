@@ -1,0 +1,16 @@
+explained: false
+first: "وَلَسْتُ بِلَاقٍ بِالْحِجَازِ مُجَاوِرًا"
+second: "وَلَا سَفَرًا إِلَّا لَهُ مِنْهُمُ حَبْلُ"
+vocabulary:
+  - term: "سَفَرًا"
+    text: "«أراد: ولا صاحب سفر، فحذف لعلم السامع» [@diwan-zuhayr، ص39]. وفي الشرح المنسوب إلى ثَعْلَب: «وسَفْر: قوم على سفر»، «ويروى: «بالحجاز مسافرًا، ولا سفرًا»» [@sharh-thalab-zuhayr، ص91]."
+  - term: "حَبْلُ"
+    text: "«العهد والذمّة» [@diwan-zuhayr، ص39]."
+sources:
+  - source: "diwan-zuhayr"
+    loc: "ص39"
+    url: "https://archive.org/details/3917pdf/page/n39/mode/1up"
+  - source: "sharh-thalab-zuhayr"
+    loc: "ص91"
+    url: "https://archive.org/details/3918pdf/page/n90/mode/1up"
+status: "review"

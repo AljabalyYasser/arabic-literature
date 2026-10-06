@@ -1,0 +1,20 @@
+explained: false
+first: "فَأَقْسَمْتُ جَهْدًا بِالْمَنَازِلِ مِنْ مِنًى"
+second: "وَمَا سُحِقَتْ فِيهِ الْمَقَادِمُ وَالْقَمْلُ"
+vocabulary:
+  - term: "جَهْدًا"
+    text: "قسمًا مغلّظًا، يجهد فيه يمينه."
+  - term: "الْمَنَازِلِ مِنْ مِنًى"
+    text: "«حيث ينزل الناس بمنى» [@diwan-zuhayr، ص33]، أي في الحج."
+  - term: "سُحِقَتْ"
+    text: "«حُلقت». «ويروى «سُحِفت» بالفاء، ومعناه: حُلقت، أيضًا» [@diwan-zuhayr، ص33]."
+  - term: "الْمَقَادِمُ وَالْقَمْلُ"
+    text: "«و«المقادم»: جمع مقدَّم الرأس. وأراد بـ«القمل»: الشعر الذي فيه القمل» [@diwan-zuhayr، ص33]، فهو يقسم بمواضع حلق الرؤوس في الحج."
+sources:
+  - source: "diwan-zuhayr"
+    loc: "ص32"
+    url: "https://archive.org/details/3917pdf/page/n32/mode/1up"
+  - source: "diwan-zuhayr"
+    loc: "ص33"
+    url: "https://archive.org/details/3917pdf/page/n33/mode/1up"
+status: "review"

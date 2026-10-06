@@ -1,0 +1,16 @@
+explained: false
+first: "فَلَأَنْتَ تَفْرِي مَا خَلَقْتَ وَبَعْـ"
+second: "ـضُ الْقَوْمِ يَخْلُقُ ثُمَّ لَا يَفْرِي"
+vocabulary:
+  - term: "تَفْرِي مَا خَلَقْتَ"
+    text: "«هذا مثل ضربه. والخالق: الذي يقدّر الأديم ويهيّئه لأن يقطعه ويخرزه. والفري: القطع» [@diwan-zuhayr، ص120]."
+  - term: "وَبَعْضُ الْقَوْمِ يَخْلُقُ ثُمَّ لَا يَفْرِي"
+    text: "«وبعض القوم يقدّر الأمر ويتهيّأ له، ثم لا يقدم عليه، ولا يمضيه، عجزًا وضعف همّة» [@diwan-zuhayr، ص120]."
+sources:
+  - source: "diwan-zuhayr"
+    loc: "ص119"
+    url: "https://archive.org/details/3917pdf/page/n119/mode/1up"
+  - source: "diwan-zuhayr"
+    loc: "ص120"
+    url: "https://archive.org/details/3917pdf/page/n120/mode/1up"
+status: "review"

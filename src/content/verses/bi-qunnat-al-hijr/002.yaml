@@ -1,0 +1,20 @@
+explained: false
+first: "لَعِبَ الزَّمَانُ بِهَا وَغَيَّرَهَا"
+second: "بَعْدِي سَوَافِي الْمُورِ وَالْقَطْرِ"
+vocabulary:
+  - term: "لَعِبَ الزَّمَانُ"
+    text: "وفي الشرح المنسوب إلى ثَعْلَب: «لَعِبَ الرِّيَاحُ بِهَا»، وقبله: «وروى أبو عبيدة والأصمعيّ» [@sharh-thalab-zuhayr، ص76]."
+  - term: "سَوَافِي الْمُورِ وَالْقَطْرِ"
+    text: "«و«السوافي»: جمع سافية، وهي الريح الشديدة التي تسفي التراب، أي: تطيره. و«المور»: التراب» [@diwan-zuhayr، ص115]. «وعطف «القطر» على «المور» لقرب جواره منه، وحقّه أن يعطف على السوافي» [@diwan-zuhayr، ص115]."
+sources:
+  - source: "diwan-zuhayr"
+    loc: "ص114"
+    url: "https://archive.org/details/3917pdf/page/n114/mode/1up"
+    note: "من الأبيات 1–3 المختلف فيها: في خبر يرويه أبو الفرج أن حمادًا الراوية أقرّ للمهدي بأنه قائل ما يسبق «دع ذا» (انظر مدخل النص)."
+  - source: "diwan-zuhayr"
+    loc: "ص115"
+    url: "https://archive.org/details/3917pdf/page/n115/mode/1up"
+  - source: "sharh-thalab-zuhayr"
+    loc: "ص76"
+    url: "https://archive.org/details/3918pdf/page/n75/mode/1up"
+status: "review"

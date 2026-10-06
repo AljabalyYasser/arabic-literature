@@ -1,0 +1,18 @@
+explained: false
+first: "قِفْ بِالدِّيَارِ الَّتِي لَمْ يَعْفُهَا الْقِدَمُ"
+second: "بَلَى وَغَيَّرَهَا الْأَرْوَاحُ وَالدِّيَمُ"
+vocabulary:
+  - term: "لَمْ يَعْفُهَا الْقِدَمُ"
+    text: "«أي: لم يدرسها ويمح أثرها تقادم عهدها» [@diwan-zuhayr، ص100]."
+  - term: "بَلَى"
+    text: "استدراك ينقض ما قبله: «والمعنى: أنّ بعضها عفا، وبعضها لم يعف. فلذلك استدرك بـ«بلى»» [@diwan-zuhayr، ص100]. «وقال أبو عبيدة: أكذب نفسه؛ قال «لم يعفها» ثم رجع فقال «بلى...»» [@diwan-zuhayr، ص101]."
+  - term: "الْأَرْوَاحُ وَالدِّيَمُ"
+    text: "«و«الأرواح»: جمع ريح. و«الديم»: الأمطار الدائمة مع سكون» [@diwan-zuhayr، ص101]."
+sources:
+  - source: "diwan-zuhayr"
+    loc: "ص100"
+    url: "https://archive.org/details/3917pdf/page/n100/mode/1up"
+  - source: "diwan-zuhayr"
+    loc: "ص101"
+    url: "https://archive.org/details/3917pdf/page/n101/mode/1up"
+status: "review"

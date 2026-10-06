@@ -1,0 +1,16 @@
+explained: false
+first: "فَرِحْتُ بِمَا خُبِّرْتُ عَنْ سَيِّدَيْكُمُ"
+second: "وَكَانَا امْرَأَيْنِ كُلُّ أَمْرِهِمَا يَعْلُو"
+vocabulary:
+  - term: "بِمَا خُبِّرْتُ عَنْ سَيِّدَيْكُمُ"
+    text: "«أي: فرحت بالحمالة التي حمل الحارث بن عوف وهرم بن سنان» [@diwan-zuhayr، ص40]. والحمالة: الديات يحملها الرجل عن غيره ليصلح بين القوم."
+  - term: "كُلُّ أَمْرِهِمَا يَعْلُو"
+    text: "وفي الشرح المنسوب إلى ثَعْلَب: «كُلُّ شَأْنِهِمَا يَعْلُو» [@sharh-thalab-zuhayr، ص91]."
+sources:
+  - source: "diwan-zuhayr"
+    loc: "ص40"
+    url: "https://archive.org/details/3917pdf/page/n40/mode/1up"
+  - source: "sharh-thalab-zuhayr"
+    loc: "ص91"
+    url: "https://archive.org/details/3918pdf/page/n90/mode/1up"
+status: "review"

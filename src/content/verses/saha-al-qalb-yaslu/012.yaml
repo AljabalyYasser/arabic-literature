@@ -1,0 +1,18 @@
+explained: false
+first: "إِذَا فَزِعُوا طَارُوا إِلَى مُسْتَغِيثِهِمْ"
+second: "طِوَالَ الرِّمَاحِ لَا ضِعَافٌ وَلَا عُزْلُ"
+vocabulary:
+  - term: "فَزِعُوا"
+    text: "هنا بمعنى أغاثوا: «أي: أغاثوا مستصرخًا مستغيثًا بهم» [@diwan-zuhayr، ص35]."
+  - term: "طِوَالَ الرِّمَاحِ"
+    text: "كناية عن القوة: «لأنّ الرمح الطويل الكامل لا يكاد يستعمله إلا الكامل الخَلق الشديد القوة» [@diwan-zuhayr، ص35]."
+  - term: "عُزْلُ"
+    text: "«جمع أعزل. وهو الذي لا سلاح معه» [@diwan-zuhayr، ص35]."
+sources:
+  - source: "diwan-zuhayr"
+    loc: "ص34"
+    url: "https://archive.org/details/3917pdf/page/n34/mode/1up"
+  - source: "diwan-zuhayr"
+    loc: "ص35"
+    url: "https://archive.org/details/3917pdf/page/n35/mode/1up"
+status: "review"
