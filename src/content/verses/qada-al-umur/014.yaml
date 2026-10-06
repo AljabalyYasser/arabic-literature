@@ -1,0 +1,15 @@
+explained: false
+first: "أَكْرَمْتُ عِرْضِي أَنْ يُنَالَ بِنَجْوَةٍ"
+second: "إِنَّ الْبَرِيءَ مِنَ الْهَنَاتِ سَعِيدُ"
+vocabulary:
+  - term: "عِرْضِي"
+    text: "«الحسب والأصل» [@diwan-labid، ص37]."
+  - term: "بِنَجْوَةٍ"
+    text: "«النجوة: الارتفاع» [@diwan-labid، ص37]، أي صنتُ عرضي في مكان عالٍ لا يُنال."
+  - term: "الْهَنَاتِ"
+    text: "«أمور لا خير فيها» [@diwan-labid، ص37]."
+sources:
+  - source: "diwan-labid"
+    loc: "ص37"
+    url: "https://archive.org/details/3929pdf/page/n82/mode/1up"
+status: "review"

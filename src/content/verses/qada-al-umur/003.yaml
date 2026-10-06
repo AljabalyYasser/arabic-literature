@@ -1,0 +1,15 @@
+explained: false
+first: "وَلَقَدْ بَلَتْ إِرَمٌ وَعَادٌ كَيْدَهُ"
+second: "وَلَقَدْ بَلَتْهُ بَعْدَ ذَاكَ ثَمُودُ"
+vocabulary:
+  - term: "بَلَتْ"
+    text: "«خبرت» [@diwan-labid، ص34]، أي جرّبت."
+  - term: "إِرَمٌ"
+    text: "«إرم من عاد» [@diwan-labid، ص34]."
+  - term: "ثَمُودُ"
+    text: "«قوم صالح» [@diwan-labid، ص34]."
+sources:
+  - source: "diwan-labid"
+    loc: "ص34"
+    url: "https://archive.org/details/3929pdf/page/n79/mode/1up"
+status: "review"

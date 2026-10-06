@@ -1,0 +1,19 @@
+explained: false
+first: "وَفِيمَنْ سِوَاهُمْ مِنْ مُلُوكٍ وَسُوقَةٍ"
+second: "دَعَائِمُ عَرْشٍ خَانَهُ الدَّهْرُ فَانْقَعَرْ"
+vocabulary:
+  - term: "سُوقَةٍ"
+    text: "«السوقة من الناس: الرعية ومن دون الملك» [@lisan، ج10 ص170]."
+  - term: "فَانْقَعَرْ"
+    text: "انقلع من أصله؛ «والمنقعر: المنقلع من أصله» [@lisan، ج5 ص109]."
+sources:
+  - source: "diwan-labid"
+    loc: "ص213"
+    url: "https://archive.org/details/3929pdf/page/n258/mode/1up"
+  - source: "lisan"
+    loc: "ج10 ص170"
+    url: "https://shamela.ws/book/1687/4840"
+  - source: "lisan"
+    loc: "ج5 ص109"
+    url: "https://shamela.ws/book/1687/2693"
+status: "review"

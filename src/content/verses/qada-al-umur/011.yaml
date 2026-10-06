@@ -1,0 +1,16 @@
+explained: false
+first: "وَأَرَاهُ يَأْتِي مِثْلَ يَوْمِ لَقِيتُهُ"
+second: "لَمْ يَنْصَرِمْ وَضَعُفْتُ وَهْوَ شَدِيدُ"
+vocabulary:
+  - term: "مِثْلَ يَوْمِ لَقِيتُهُ"
+    text: "«وأرى الدهر يأتي مثل يوم لقيته، مثل يوم كنت فيه شاباً» [@diwan-labid، ص36]."
+  - term: "يَنْصَرِمْ"
+    text: "ينقطع، من «الصرم: القطع البائن» [@lisan، ج12 ص334]."
+sources:
+  - source: "diwan-labid"
+    loc: "ص36"
+    url: "https://archive.org/details/3929pdf/page/n81/mode/1up"
+  - source: "lisan"
+    loc: "ج12 ص334"
+    url: "https://shamela.ws/book/1687/6247"
+status: "review"

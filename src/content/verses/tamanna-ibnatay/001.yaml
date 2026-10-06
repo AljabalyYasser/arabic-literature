@@ -1,0 +1,16 @@
+explained: false
+first: "تَمَنَّى ابْنَتَايَ أَنْ يَعِيشَ أَبُوهُمَا"
+second: "وَهَلْ أَنَا إِلَّا مِنْ رَبِيعَةَ أَوْ مُضَرْ"
+vocabulary:
+  - term: "تَمَنَّى"
+    text: "تتمنّى؛ قال البَغْداديّ: «هو مضارع وأصله تتمنى بتاءين» [@khizana، ج4 ص340]."
+  - term: "وَهَلْ أَنَا إِلَّا مِنْ رَبِيعَةَ أَوْ مُضَرْ"
+    text: "«أي: جميع آبائي من ربيعة أو مضر قد ماتوا» [@khizana، ج4 ص340]، فلا بد أن أموت كما ماتوا."
+sources:
+  - source: "diwan-labid"
+    loc: "ص213"
+    url: "https://archive.org/details/3929pdf/page/n258/mode/1up"
+  - source: "khizana"
+    loc: "ج4 ص340"
+    url: "https://shamela.ws/book/12732/1742"
+status: "review"

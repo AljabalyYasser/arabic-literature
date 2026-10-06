@@ -1,0 +1,17 @@
+explained: false
+first: "وَشَهِدْتُ أَنْجِيَةَ الْأُفَاقَةِ عَالِيًا"
+second: "كَعْبِي وَأَرْدَافُ الْمُلُوكِ شُهُودُ"
+vocabulary:
+  - term: "أَنْجِيَةَ"
+    text: "«من المناجاة، واحدها نجي» [@diwan-labid، ص35]، أي مجالس القوم يتشاورون."
+  - term: "الْأُفَاقَةِ"
+    text: "«موضع» [@diwan-labid، ص35]."
+  - term: "عَالِيًا كَعْبِي"
+    text: "«فلجت عليهم» [@diwan-labid، ص35]، أي غلبتهم."
+  - term: "أَرْدَافُ الْمُلُوكِ"
+    text: "«الذين هم دونهم. ردف الملك: الذي معه لا يفارقه» [@diwan-labid، ص35]."
+sources:
+  - source: "diwan-labid"
+    loc: "ص35"
+    url: "https://archive.org/details/3929pdf/page/n80/mode/1up"
+status: "review"

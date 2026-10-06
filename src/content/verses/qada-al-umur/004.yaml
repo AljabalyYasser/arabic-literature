@@ -1,0 +1,15 @@
+explained: false
+first: "خَلَّوْا ثِيَابَهُمُ عَلَى عَوْرَاتِهِمْ"
+second: "فَهُمُ بِأَفْنِيَةِ الْبُيُوتِ هُمُودُ"
+vocabulary:
+  - term: "خَلَّوْا ثِيَابَهُمُ"
+    text: "«شدوها بالأخلة حين أيقنوا بالموت والهلاك» [@diwan-labid، ص34]. والأَخِلّة: جمع خِلال، وهو العود يُشدّ به الثوب."
+  - term: "أَفْنِيَةِ الْبُيُوتِ"
+    text: "«ساحاتها» [@diwan-labid، ص34]."
+  - term: "هُمُودُ"
+    text: "«موتى» [@diwan-labid، ص34]."
+sources:
+  - source: "diwan-labid"
+    loc: "ص34"
+    url: "https://archive.org/details/3929pdf/page/n79/mode/1up"
+status: "review"

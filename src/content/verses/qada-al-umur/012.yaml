@@ -1,0 +1,13 @@
+explained: false
+first: "وَحَمَيْتُ قَوْمِي إِذْ دَعَتْنِي عَامِرٌ"
+second: "وَتَقَدَّمَتْ يَوْمَ الْغَبِيطِ وُفُودُ"
+vocabulary:
+  - term: "يَوْمَ الْغَبِيطِ"
+    text: "«يوم لهم» [@diwan-labid، ص37]، أي من أيام قومه."
+  - term: "وُفُودُ"
+    text: "«جماعة» [@diwan-labid، ص37]."
+sources:
+  - source: "diwan-labid"
+    loc: "ص37"
+    url: "https://archive.org/details/3929pdf/page/n82/mode/1up"
+status: "review"

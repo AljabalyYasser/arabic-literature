@@ -1,0 +1,15 @@
+explained: false
+first: "وَأَبُوكِ بُسْرٌ لَا يُفَنَّدُ عُمْرُهُ"
+second: "وَإِلَى بِلًى مَا يُرْجَعَنَّ جَدِيدُ"
+vocabulary:
+  - term: "بُسْرٌ"
+    text: "«يعنى بسرة ابنة لبيد بن ربيعة فرخمها» [@diwan-labid، ص36]، أي حذف آخر اسمها في النداء."
+  - term: "لَا يُفَنَّدُ عُمْرُهُ"
+    text: "«لا سفه عمره، أي لم يكن سفيهاً في حياته» [@diwan-labid، ص36]."
+  - term: "وَإِلَى بِلًى"
+    text: "«يقول: وكل جديد يرجع إلى بلى» [@diwan-labid، ص36]."
+sources:
+  - source: "diwan-labid"
+    loc: "ص35"
+    url: "https://archive.org/details/3929pdf/page/n80/mode/1up"
+status: "review"

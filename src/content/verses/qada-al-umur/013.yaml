@@ -1,0 +1,17 @@
+explained: false
+first: "وَتَدَأْكَأَتْ أَرْكَانُ كُلِّ قَبِيلَةٍ"
+second: "وَفَوَارِسُ الْمَلِكِ الْهُمَامِ تَذُودُ"
+vocabulary:
+  - term: "تَدَأْكَأَتْ"
+    text: "«ازدحمت» [@diwan-labid، ص37]."
+  - term: "أَرْكَانُ"
+    text: "«الجوانب» [@diwan-labid، ص37]."
+  - term: "الْهُمَامِ"
+    text: "«الأسد. شبه الملك به، سمى هماما لأنه يهمهم إذا مشى» [@diwan-labid، ص37]."
+  - term: "تَذُودُ"
+    text: "«تمنع وتطرد» [@diwan-labid، ص37]."
+sources:
+  - source: "diwan-labid"
+    loc: "ص37"
+    url: "https://archive.org/details/3929pdf/page/n82/mode/1up"
+status: "review"

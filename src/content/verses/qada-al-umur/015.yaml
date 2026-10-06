@@ -1,0 +1,15 @@
+explained: false
+first: "مَا إِنْ أَهَابُ إِذَا السُّرَادِقُ غَمَّهُ"
+second: "قَرْعُ الْقِسِيِّ وَأُرْعِشَ الرِّعْدِيدُ"
+vocabulary:
+  - term: "السُّرَادِقُ غَمَّهُ"
+    text: "«كثر عليه»، «يريد أهل السرادق وإنما يريد الملك» [@diwan-labid، ص37]. والسُّرادِق: الفسطاط يُمدّ فوق صحن البيت."
+  - term: "قَرْعُ الْقِسِيِّ"
+    text: "«أي يصيب بعضها بعضاً، وكانوا إذا جاءوا الملك جاءوا وعليهم قسيهم» [@diwan-labid، ص37]."
+  - term: "الرِّعْدِيدُ"
+    text: "«الجبان» [@diwan-labid، ص37]."
+sources:
+  - source: "diwan-labid"
+    loc: "ص37"
+    url: "https://archive.org/details/3929pdf/page/n82/mode/1up"
+status: "review"

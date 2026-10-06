@@ -1,0 +1,17 @@
+explained: false
+first: "وَلَهُ الْفَوَاضِلُ وَالنَّوَافِلُ وَالْعُلَا"
+second: "وَلَهُ أَثِيثُ الْخَيْرِ وَالْمَعْدُودُ"
+vocabulary:
+  - term: "الْفَوَاضِلُ"
+    text: "«له كل فاضلة، ثم يجمع فواضل» [@diwan-labid، ص34]."
+  - term: "النَّوَافِلُ"
+    text: "«العطايا» [@diwan-labid، ص34]."
+  - term: "أَثِيثُ الْخَيْرِ"
+    text: "«والأثيث: الكثير من كل شيء الملتف» [@diwan-labid، ص34]، أي الخير الكثير."
+  - term: "الْمَعْدُودُ"
+    text: "«ما يعد» [@diwan-labid، ص34]، أي ما يُحصى من النعم."
+sources:
+  - source: "diwan-labid"
+    loc: "ص34"
+    url: "https://archive.org/details/3929pdf/page/n79/mode/1up"
+status: "review"

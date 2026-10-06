@@ -1,0 +1,17 @@
+explained: false
+first: "وَغَنِيتُ سَبْتًا قَبْلَ مُجْرَى دَاحِسٍ"
+second: "لَوْ كَانَ لِلنَّفْسِ اللَّجُوجِ خُلُودُ"
+vocabulary:
+  - term: "غَنِيتُ"
+    text: "«عشت» [@diwan-labid، ص35]."
+  - term: "سَبْتًا"
+    text: "«دهراً»، «ويقال إن السبت ثمانون سنة» [@diwan-labid، ص35]."
+  - term: "مُجْرَى دَاحِسٍ"
+    text: "مُجْرى «مصدر»، وداحس «فرس» [@diwan-labid، ص35]، وهو الفرس الذي قامت بسبب سباقه حرب داحس والغبراء. ويُروى «مَجْرَى»، قال أبو الحسن: «وهو أجود الوجهين» [@diwan-labid، ص35]."
+  - term: "اللَّجُوجِ"
+    text: "«العاصية» [@diwan-labid، ص35]."
+sources:
+  - source: "diwan-labid"
+    loc: "ص35"
+    url: "https://archive.org/details/3929pdf/page/n80/mode/1up"
+status: "review"

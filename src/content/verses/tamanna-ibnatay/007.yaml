@@ -1,0 +1,22 @@
+explained: false
+first: "إِلَى الْحَوْلِ ثُمَّ اسْمُ السَّلَامِ عَلَيْكُمَا"
+second: "وَمَنْ يَبْكِ حَوْلًا كَامِلًا فَقَدِ اعْتَذَرْ"
+vocabulary:
+  - term: "اسْمُ السَّلَامِ عَلَيْكُمَا"
+    text: "قال البَغْداديّ: «والمراد من قوله: ثم اسم السلام عليكما الكناية عن الأمر بترك ما كان أمرهما به وهو سلام توديع» [@khizana، ج4 ص339]. وذهب أبو عبيدة، كما ينقل عنه، «إلى أن لفظ اسم هنا مقحم» [@khizana، ج4 ص338]، أي زائد."
+  - term: "اعْتَذَرْ"
+    text: "«واعتذر بمعنى أعذر أي: صار ذا عذر» [@khizana، ج4 ص341]."
+sources:
+  - source: "diwan-labid"
+    loc: "ص214"
+    url: "https://archive.org/details/3929pdf/page/n259/mode/1up"
+  - source: "khizana"
+    loc: "ج4 ص338"
+    url: "https://shamela.ws/book/12732/1740"
+  - source: "khizana"
+    loc: "ج4 ص339"
+    url: "https://shamela.ws/book/12732/1741"
+  - source: "khizana"
+    loc: "ج4 ص341"
+    url: "https://shamela.ws/book/12732/1743"
+status: "review"
