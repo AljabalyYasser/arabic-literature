@@ -1,0 +1,15 @@
+explained: false
+first: "الْبَاعِثُ النَّوْحَ فِي مَآتِمِهِ"
+second: "مِثْلَ الظِّبَاءِ الْأَبْكَارِ بِالْجَرَدِ"
+vocabulary:
+  - term: "الْبَاعِثُ النَّوْحَ"
+    text: "«يقول: يقتل الرجال فيناح عليهم» [@diwan-labid، ص162]."
+  - term: "مَآتِمِهِ"
+    text: "«الجماعة في الحزن والفرح» [@diwan-labid، ص162]."
+  - term: "الْجَرَدِ"
+    text: "«الأرض المستوية» [@diwan-labid، ص162]."
+sources:
+  - source: "diwan-labid"
+    loc: "ص162"
+    url: "https://archive.org/details/3929pdf/page/n207/mode/1up"
+status: "review"

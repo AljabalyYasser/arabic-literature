@@ -1,0 +1,18 @@
+explained: false
+first: "أَلَيْسَ وَرَائِي إِنْ تَرَاخَتْ مَنِيَّتِي"
+second: "لُزُومُ الْعَصَا تُحْنَى عَلَيْهَا الْأَصَابِعُ"
+vocabulary:
+  - term: "وَرَائِي"
+    text: "«ووراءى في معنى قدامى» [@diwan-labid، ص171]، أي أمامي."
+  - term: "تَرَاخَتْ"
+    text: "«أبطأت» [@diwan-labid، ص170]."
+  - term: "تُحْنَى"
+    text: "«تعطف عليها» [@diwan-labid، ص171]."
+sources:
+  - source: "diwan-labid"
+    loc: "ص170"
+    url: "https://archive.org/details/3929pdf/page/n215/mode/1up"
+  - source: "diwan-labid"
+    loc: "ص171"
+    url: "https://archive.org/details/3929pdf/page/n216/mode/1up"
+status: "review"

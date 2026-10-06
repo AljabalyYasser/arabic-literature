@@ -1,0 +1,16 @@
+explained: false
+first: "فَإِنْ تَقْعُدْ فَمُكْرَمَةٌ حَصَانٌ"
+second: "وَإِنْ تَظْعَنْ فَمُحْسِنَةُ الْكَلَامِ"
+vocabulary:
+  - term: "حَصَانٌ"
+    text: "«عفيفة» [@diwan-labid، ص205]."
+  - term: "تَظْعَنْ"
+    text: "ترحل؛ وفي شرح الطوسي: «يقول: إن أقامت أكرمت وإن ظعنت كان هذا الثناء منها أى تثنى بما أوليت» [@diwan-labid، ص205]."
+sources:
+  - source: "diwan-labid"
+    loc: "ص204"
+    url: "https://archive.org/details/3929pdf/page/n249/mode/1up"
+  - source: "diwan-labid"
+    loc: "ص205"
+    url: "https://archive.org/details/3929pdf/page/n250/mode/1up"
+status: "review"

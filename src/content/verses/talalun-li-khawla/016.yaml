@@ -1,0 +1,15 @@
+explained: false
+first: "حَتَّى تَحَيَّرَتِ الدِّبَارُ كَأَنَّهَا"
+second: "زَلَفٌ وَأُلْقِيَ قِتْبُهَا الْمَحْزُومُ"
+vocabulary:
+  - term: "تَحَيَّرَتِ الدِّبَارُ"
+    text: "«تحيرت الدبار بالماء أى أقام الماء فيها»، «والدبار: المشارات» [@diwan-labid، ص123]."
+  - term: "زَلَفٌ"
+    text: "«مصانع الماء واحدها زلفة» [@diwan-labid، ص123]."
+  - term: "قِتْبُهَا"
+    text: "«قتبها وما عليه» [@diwan-labid، ص123]."
+sources:
+  - source: "diwan-labid"
+    loc: "ص123"
+    url: "https://archive.org/details/3929pdf/page/n168/mode/1up"
+status: "review"

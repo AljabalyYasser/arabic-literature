@@ -1,0 +1,15 @@
+explained: false
+first: "دِمَنٌ تَلَاعَبَتِ الرِّيَاحُ بِرَسْمِهَا"
+second: "حَتَّى تَنَكَّرَ نُؤْيُهَا الْمَهْدُومُ"
+vocabulary:
+  - term: "دِمَنٌ"
+    text: "«واحدها دمنة، والدمنة ما أثر فى الدار من مصب لبن وأثر رماد وبعر» [@diwan-labid، ص119]."
+  - term: "تَنَكَّرَ"
+    text: "«درس» [@diwan-labid، ص119]."
+  - term: "نُؤْيُهَا"
+    text: "«والنؤى: حفر يحفر حول البيت، ليرد ماء المطر» [@diwan-labid، ص119]."
+sources:
+  - source: "diwan-labid"
+    loc: "ص119"
+    url: "https://archive.org/details/3929pdf/page/n164/mode/1up"
+status: "review"

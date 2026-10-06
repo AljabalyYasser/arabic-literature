@@ -1,0 +1,15 @@
+explained: false
+first: "وَقَدْ كَانَ الْمُعَصَّبُ يَعْتَفِيهَا"
+second: "وَتُحْبَسُ عِنْدَ غَايَاتِ الذِّمَامِ"
+vocabulary:
+  - term: "الْمُعَصَّبُ"
+    text: "«الفقير المحتاج يعصب رأسه ورجليه بالخرق للجهد» [@diwan-labid، ص203]."
+  - term: "يَعْتَفِيهَا"
+    text: "«يأتيها يطلب خيرها» [@diwan-labid، ص203]."
+  - term: "غَايَاتِ الذِّمَامِ"
+    text: "«يريد ما يلزمه نفسه من الحياء والتكرم للسائل» [@diwan-labid، ص203]."
+sources:
+  - source: "diwan-labid"
+    loc: "ص203"
+    url: "https://archive.org/details/3929pdf/page/n248/mode/1up"
+status: "review"

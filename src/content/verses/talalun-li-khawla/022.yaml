@@ -1,0 +1,20 @@
+explained: false
+first: "مِنْ كُلِّ أَبْطَحَ يَخْفِيَانِ غَمِيرَهُ"
+second: "أَوْ يَرْتَعَانِ فَبَارِضٌ وَجَمِيمُ"
+vocabulary:
+  - term: "أَبْطَحَ"
+    text: "«بطن الوادى يخلطه حصى» [@diwan-labid، ص126]."
+  - term: "يَخْفِيَانِ"
+    text: "«يظهران» [@diwan-labid، ص126]."
+  - term: "غَمِيرَهُ"
+    text: "«اليابس فى أصل الرطب» [@diwan-labid، ص126]، ويقال: «ماؤه الذى تحت التراب والرمال» [@diwan-labid، ص127]."
+  - term: "بَارِضٌ وَجَمِيمُ"
+    text: "«والبارض: بارض البهمى حين طلع وظهر. والجميم فوق ذلك من البهمى حين أمكن للرعى» [@diwan-labid، ص127]."
+sources:
+  - source: "diwan-labid"
+    loc: "ص126"
+    url: "https://archive.org/details/3929pdf/page/n171/mode/1up"
+  - source: "diwan-labid"
+    loc: "ص127"
+    url: "https://archive.org/details/3929pdf/page/n172/mode/1up"
+status: "review"

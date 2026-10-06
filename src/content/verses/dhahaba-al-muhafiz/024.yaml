@@ -1,0 +1,14 @@
+explained: false
+first: "فَوَدِّعْ بِالسَّلَامِ أَبَا حُزَيْزٍ"
+second: "وَقَلَّ وَدَاعُ أَرْبَدَ بِالسَّلَامِ"
+vocabulary:
+  - term: "أَبَا حُزَيْزٍ"
+    text: "«أبو حزيز يريد أبا حزاز يعنى أربد فصغر» [@diwan-labid، ص208]."
+sources:
+  - source: "diwan-labid"
+    loc: "ص207"
+    url: "https://archive.org/details/3929pdf/page/n252/mode/1up"
+  - source: "diwan-labid"
+    loc: "ص208"
+    url: "https://archive.org/details/3929pdf/page/n253/mode/1up"
+status: "review"

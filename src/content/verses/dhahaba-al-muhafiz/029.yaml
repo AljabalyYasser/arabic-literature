@@ -1,0 +1,13 @@
+explained: false
+first: "وَلَيْسَ النَّاسُ بَعْدَكَ فِي نَقِيرٍ"
+second: "وَلَا هُمْ غَيْرُ أَصْدَاءٍ وَهَامِ"
+vocabulary:
+  - term: "نَقِيرٍ"
+    text: "«يقول ليسوا في شىء، والنقير: النقرة خلف النواة» [@diwan-labid، ص209]."
+  - term: "أَصْدَاءٍ وَهَامِ"
+    text: "«يقول: يموتون. يقال إنما أنت هامة اليوم أو غد أى تموت فيصيح الصداء عليك» [@diwan-labid، ص209]."
+sources:
+  - source: "diwan-labid"
+    loc: "ص209"
+    url: "https://archive.org/details/3929pdf/page/n254/mode/1up"
+status: "review"

@@ -1,0 +1,16 @@
+explained: false
+first: "إِنْ يَشْغَبُوا لَا يُبَالِ شَغْبَهُمُ"
+second: "أَوْ يَقْصِدُوا فِي الْحُكُومِ يَقْتَصِدِ"
+vocabulary:
+  - term: "يَشْغَبُوا"
+    text: "«الشغب ها هنا: القتال» [@diwan-labid، ص162]."
+  - term: "يَقْتَصِدِ"
+    text: "يأخذ القصد، أي يعتدل؛ «يقتصدوا: يأخذوا القصد» [@diwan-labid، ص162]."
+sources:
+  - source: "diwan-labid"
+    loc: "ص161"
+    url: "https://archive.org/details/3929pdf/page/n206/mode/1up"
+  - source: "diwan-labid"
+    loc: "ص162"
+    url: "https://archive.org/details/3929pdf/page/n207/mode/1up"
+status: "review"

@@ -1,0 +1,18 @@
+explained: false
+first: "طَعِنٌ إِذَا خِفْتُ الْهَوَانَ بِبَلْدَةٍ"
+second: "وَأَخُو الْمَضَاعِفِ لَا يَكَادُ يَرِيمُ"
+vocabulary:
+  - term: "طَعِنٌ"
+    text: "ماضٍ في الأرض؛ «وطعن في المفازة ونحوها يطعن: مضى فيها وأمعن» [@lisan، ج13 ص266]. وفي نسخة عند الطوسي: «ظعن» [@diwan-labid، ص131]."
+  - term: "الْمَضَاعِفِ"
+    text: "«المضاعف: الضعف» [@diwan-labid، ص131]."
+  - term: "يَرِيمُ"
+    text: "«يبرح» [@diwan-labid، ص131]."
+sources:
+  - source: "diwan-labid"
+    loc: "ص131"
+    url: "https://archive.org/details/3929pdf/page/n176/mode/1up"
+  - source: "lisan"
+    loc: "ج13 ص266"
+    url: "https://shamela.ws/book/1687/6827"
+status: "review"

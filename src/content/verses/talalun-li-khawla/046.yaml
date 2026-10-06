@@ -1,0 +1,13 @@
+explained: false
+first: "وَعَشِيَّةَ الْحُومَانِ أَسْلَمَ جُنْدَهُ"
+second: "قَيْسٌ وَأَيْقَنَ أَنَّهُ مَهْزُومُ"
+vocabulary:
+  - term: "الْحُومَانِ"
+    text: "«يوم لهم»، و«الحومان: اسم أرض» [@diwan-labid، ص135]."
+  - term: "قَيْسٌ"
+    text: "«قيس بن مكشوح المرادى قال أبو عبيدة: ويقال قيس بن سلمة الكندى، أسرته بنو عامر يوم رحرحان» [@diwan-labid، ص135]."
+sources:
+  - source: "diwan-labid"
+    loc: "ص135"
+    url: "https://archive.org/details/3929pdf/page/n180/mode/1up"
+status: "review"

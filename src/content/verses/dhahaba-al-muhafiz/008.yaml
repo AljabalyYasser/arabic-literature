@@ -1,0 +1,18 @@
+explained: false
+first: "خُبَاسَاتُ الْفَوَارِسِ كُلَّ يَوْمٍ"
+second: "إِذَا لَمْ يُرْجَ رِسْلٌ فِي السَّوَامِ"
+vocabulary:
+  - term: "خُبَاسَاتُ"
+    text: "«غنائم، والخباسة: الغنيمة» [@diwan-labid، ص204]."
+  - term: "رِسْلٌ"
+    text: "«لبن» [@diwan-labid، ص204]."
+  - term: "السَّوَامِ"
+    text: "«ما رعى من إبل وغنم وبقر» [@diwan-labid، ص204]."
+sources:
+  - source: "diwan-labid"
+    loc: "ص203"
+    url: "https://archive.org/details/3929pdf/page/n248/mode/1up"
+  - source: "diwan-labid"
+    loc: "ص204"
+    url: "https://archive.org/details/3929pdf/page/n249/mode/1up"
+status: "review"

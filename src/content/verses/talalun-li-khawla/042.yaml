@@ -1,0 +1,20 @@
+explained: false
+first: "بِكَتَائِبٍ تَرْدِي تَعَوَّدَ كَبْشُهَا"
+second: "نَطْحَ الْكِبَاشِ كَأَنَّهُنَّ نُجُومُ"
+vocabulary:
+  - term: "تَرْدِي"
+    text: "«تمشى وتعدو، والرديان: ضرب من العدو» [@diwan-labid، ص134]."
+  - term: "كَبْشُهَا"
+    text: "«رئيسها» [@diwan-labid، ص134]."
+  - term: "نَطْحَ الْكِبَاشِ"
+    text: "«أى مقاتلة الرؤساء» [@diwan-labid، ص134]."
+  - term: "كَأَنَّهُنَّ نُجُومُ"
+    text: "«من بريق الحديد» [@diwan-labid، ص134]."
+sources:
+  - source: "diwan-labid"
+    loc: "ص133"
+    url: "https://archive.org/details/3929pdf/page/n178/mode/1up"
+  - source: "diwan-labid"
+    loc: "ص134"
+    url: "https://archive.org/details/3929pdf/page/n179/mode/1up"
+status: "review"

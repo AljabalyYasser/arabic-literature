@@ -1,0 +1,13 @@
+explained: false
+first: "حُلْوٌ كَرِيمٌ وَفِي حَلَاوَتِهِ"
+second: "مُرٌّ لَطِيفُ الْأَحْشَاءِ وَالْكَبِدِ"
+vocabulary:
+  - term: "حُلْوٌ ... مُرٌّ"
+    text: "في شرح الطوسي: «لين في موضع اللين، صعب في موضع الصعوبة» [@diwan-labid، ص162]."
+  - term: "لَطِيفُ الْأَحْشَاءِ وَالْكَبِدِ"
+    text: "«معناه حسن الخلق» [@diwan-labid، ص162]، و«خميص البطن» [@diwan-labid، ص162]."
+sources:
+  - source: "diwan-labid"
+    loc: "ص162"
+    url: "https://archive.org/details/3929pdf/page/n207/mode/1up"
+status: "review"

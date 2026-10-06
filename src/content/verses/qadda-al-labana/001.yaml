@@ -1,0 +1,17 @@
+explained: false
+first: "قَضِّ اللُّبَانَةَ لَا أَبَا لَكَ وَاذْهَبِ"
+second: "وَالْحَقْ بِأُسْرَتِكَ الْكِرَامِ الْغُيَّبِ"
+vocabulary:
+  - term: "اللُّبَانَةَ"
+    text: "«بقية الحاجة» [@diwan-labid، ص153]."
+  - term: "لَا أَبَا لَكَ"
+    text: "«دعا عليه» [@diwan-labid، ص153]، وهو هنا يخاطب نفسه."
+  - term: "أُسْرَتِكَ"
+    text: "«قومه» [@diwan-labid، ص153]."
+  - term: "الْغُيَّبِ"
+    text: "«الذين قد غابوا عنه» [@diwan-labid، ص153]، أي الموتى."
+sources:
+  - source: "diwan-labid"
+    loc: "ص153"
+    url: "https://archive.org/details/3929pdf/page/n198/mode/1up"
+status: "review"

@@ -1,0 +1,22 @@
+explained: false
+first: "فَصَرَفْتُ قَصْرًا وَالشُّؤُونُ كَأَنَّهَا"
+second: "غَرْبٌ تَحُثُّ بِهِ الْقَلُوصُ هَزِيمُ"
+vocabulary:
+  - term: "قَصْرًا"
+    text: "«عشياً» [@diwan-labid، ص122]."
+  - term: "الشُّؤُونُ"
+    text: "«مجارى الدمع» [@diwan-labid، ص122]."
+  - term: "غَرْبٌ"
+    text: "«الدلو العظيم» [@diwan-labid، ص122]."
+  - term: "الْقَلُوصُ"
+    text: "«الناقة التى تستقى» [@diwan-labid، ص122]."
+  - term: "هَزِيمُ"
+    text: "«مشقوق» [@diwan-labid، ص122]، «وهذه مثل لدمع العين» [@diwan-labid، ص122]."
+sources:
+  - source: "diwan-labid"
+    loc: "ص121"
+    url: "https://archive.org/details/3929pdf/page/n166/mode/1up"
+  - source: "diwan-labid"
+    loc: "ص122"
+    url: "https://archive.org/details/3929pdf/page/n167/mode/1up"
+status: "review"

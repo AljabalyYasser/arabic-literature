@@ -1,0 +1,15 @@
+explained: false
+first: "حَتَّى تَهَجَّرَ فِي الرَّوَاحِ وَهَاجَهُ"
+second: "طَلَبُ الْمُعَقِّبِ حَقَّهُ الْمَظْلُومُ"
+vocabulary:
+  - term: "تَهَجَّرَ فِي الرَّوَاحِ"
+    text: "«أى عجل الرواح إلى الماء» [@diwan-labid، ص128]."
+  - term: "هَاجَهُ"
+    text: "«حركه» [@diwan-labid، ص128]."
+  - term: "الْمُعَقِّبِ"
+    text: "«صاحب المال. طلب حقه مرة بعد مرة» [@diwan-labid، ص128]، أي هاجه إلى الماء طلبٌ ملحّ كطلب المظلوم حقه."
+sources:
+  - source: "diwan-labid"
+    loc: "ص128"
+    url: "https://archive.org/details/3929pdf/page/n173/mode/1up"
+status: "review"

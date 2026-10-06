@@ -1,0 +1,17 @@
+explained: false
+first: "نَخْلٌ كَوَارِعُ فِي خَلِيجِ مُحَلِّمٍ"
+second: "حَمَلَتْ فَمِنْهَا مُوقَرٌ مَكْمُومُ"
+vocabulary:
+  - term: "كَوَارِعُ"
+    text: "«أراد اللواتى فى الماء» [@diwan-labid، ص120]."
+  - term: "مُحَلِّمٍ"
+    text: "«نهر بالبحرين، وخليجه ما اختلج منه» [@diwan-labid، ص120]."
+  - term: "مُوقَرٌ"
+    text: "«حامل» [@diwan-labid، ص120]."
+  - term: "مَكْمُومُ"
+    text: "«مغطى بالكمامة من برد أو داء» [@diwan-labid، ص120]."
+sources:
+  - source: "diwan-labid"
+    loc: "ص120"
+    url: "https://archive.org/details/3929pdf/page/n165/mode/1up"
+status: "review"

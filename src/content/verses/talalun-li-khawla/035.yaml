@@ -1,0 +1,19 @@
+explained: false
+first: "وَمَسَارِبٍ كَالزَّوْجِ رَشَّحَ بَقْلَهَا"
+second: "صُهْبٌ دَوَاجِنُ صَوْبُهُنَّ مُدِيمُ"
+vocabulary:
+  - term: "مَسَارِبٍ"
+    text: "«المراعى» [@diwan-labid، ص131]."
+  - term: "كَالزَّوْجِ"
+    text: "«الزوج: النمط، شبهها به» [@diwan-labid، ص131]."
+  - term: "رَشَّحَ"
+    text: "«أنبت وربى» [@diwan-labid، ص131]."
+  - term: "صُهْبٌ دَوَاجِنُ"
+    text: "«صهب: سحابات. دواجن: مقيمات فى ذلك الموضع» [@diwan-labid، ص131]."
+  - term: "صَوْبُهُنَّ مُدِيمُ"
+    text: "«أى مطرهن مديم» [@diwan-labid، ص131]، أي دائم."
+sources:
+  - source: "diwan-labid"
+    loc: "ص131"
+    url: "https://archive.org/details/3929pdf/page/n176/mode/1up"
+status: "review"

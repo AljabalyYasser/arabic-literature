@@ -1,0 +1,20 @@
+explained: false
+first: "وَكَتِيبَةُ الْأَحْلَافِ قَدْ لَاقَيْتُهُمْ"
+second: "حَيْثُ اسْتَفَاضَ دَكَادِكٌ وَقَصِيمُ"
+vocabulary:
+  - term: "الْأَحْلَافِ"
+    text: "«أسد وغطفان وبعض طىء وبعض نبهان، وضبة وعكل» [@diwan-labid، ص135]."
+  - term: "اسْتَفَاضَ"
+    text: "«اتسع» [@diwan-labid، ص135]."
+  - term: "دَكَادِكٌ"
+    text: "«رمل متواضعة ليست مرتفعة» [@diwan-labid، ص135]."
+  - term: "قَصِيمُ"
+    text: "«رمل خفيف، وهو منبت الغضا» [@diwan-labid، ص135]."
+sources:
+  - source: "diwan-labid"
+    loc: "ص134"
+    url: "https://archive.org/details/3929pdf/page/n179/mode/1up"
+  - source: "diwan-labid"
+    loc: "ص135"
+    url: "https://archive.org/details/3929pdf/page/n180/mode/1up"
+status: "review"

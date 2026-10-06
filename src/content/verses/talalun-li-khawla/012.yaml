@@ -1,0 +1,19 @@
+explained: false
+first: "بَكَرَتْ بِهِ جُرَشِيَّةٌ مَقْطُورَةٌ"
+second: "تُرْوِي الْمَحَاجِرَ بَازِلٌ عُلْكُومُ"
+vocabulary:
+  - term: "جُرَشِيَّةٌ"
+    text: "«ناقة منسوبة إلى جرش وهى أرض باليمن» [@diwan-labid، ص122]."
+  - term: "مَقْطُورَةٌ"
+    text: "«مطلية بالقطران» [@diwan-labid، ص122]."
+  - term: "الْمَحَاجِرَ"
+    text: "«الأماكن التى اجتمع فيها الماء، ويقال هى البساتين» [@diwan-labid، ص122]."
+  - term: "بَازِلٌ"
+    text: "«قد انتهى سنها» [@diwan-labid، ص122]."
+  - term: "عُلْكُومُ"
+    text: "«ضخمة كثيرة اللحم» [@diwan-labid، ص122]."
+sources:
+  - source: "diwan-labid"
+    loc: "ص122"
+    url: "https://archive.org/details/3929pdf/page/n167/mode/1up"
+status: "review"

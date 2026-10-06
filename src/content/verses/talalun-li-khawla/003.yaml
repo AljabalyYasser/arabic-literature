@@ -1,0 +1,17 @@
+explained: false
+first: "أَوْ مُذْهَبٌ جُدَدٌ عَلَى أَلْوَاحِهِنْـ"
+second: "ـنَ النَّاطِقُ الْمَبْرُوزُ وَالْمَخْتُومُ"
+vocabulary:
+  - term: "مُذْهَبٌ"
+    text: "«المذهب: اللوح عليه ذهب، شبهه أيضاً بما عرف من الدار» [@diwan-labid، ص119]."
+  - term: "جُدَدٌ"
+    text: "«الطرائق التى فيه واحدها جدة» [@diwan-labid، ص119]."
+  - term: "النَّاطِقُ"
+    text: "«الكتاب» [@diwan-labid، ص119]."
+  - term: "الْمَبْرُوزُ وَالْمَخْتُومُ"
+    text: "«المبروز: المكتوب، المنشور. والمختوم: الذى لم ينشر» [@diwan-labid، ص119]."
+sources:
+  - source: "diwan-labid"
+    loc: "ص119"
+    url: "https://archive.org/details/3929pdf/page/n164/mode/1up"
+status: "review"

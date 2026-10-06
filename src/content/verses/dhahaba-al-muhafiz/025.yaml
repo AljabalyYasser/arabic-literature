@@ -1,0 +1,13 @@
+explained: false
+first: "يُفَضِّلُهُ شِتَاءَ النَّاسِ مَجْدٌ"
+second: "إِذَا قُصِرَ السُّتُورُ عَلَى الْبِرَامِ"
+vocabulary:
+  - term: "شِتَاءَ النَّاسِ"
+    text: "في شرح الطوسي: «يقول: يعرف فضل أربد في الشتاء حين يشتد حال الناس، وتقل الألبان وييبس البقل» [@diwan-labid، ص208]."
+  - term: "قُصِرَ السُّتُورُ عَلَى الْبِرَامِ"
+    text: "«فالبرام جمع برمة، قصر الستور: حبست وأسبلت على البرام» [@diwan-labid، ص208]."
+sources:
+  - source: "diwan-labid"
+    loc: "ص208"
+    url: "https://archive.org/details/3929pdf/page/n253/mode/1up"
+status: "review"

@@ -1,0 +1,17 @@
+explained: false
+first: "ظَلَّتْ تُخَالِجُهُ وَظَلَّ يَحُوطُهَا"
+second: "طَوْرًا وَيَرْبَأُ فَوْقَهَا وَيَحُومُ"
+vocabulary:
+  - term: "تُخَالِجُهُ"
+    text: "«تميل عنه جانبا، يعنى الأتن أى تنازعه الأمر لا تطيعه» [@diwan-labid، ص127]."
+  - term: "يَحُوطُهَا"
+    text: "«يردها» [@diwan-labid، ص127]."
+  - term: "طَوْرًا"
+    text: "«مرة» [@diwan-labid، ص127]."
+  - term: "يَرْبَأُ فَوْقَهَا"
+    text: "«يعلو فوقها لينظر ما يجيئه مما يريبه ويخشى عليه وعليها» [@diwan-labid، ص127]."
+sources:
+  - source: "diwan-labid"
+    loc: "ص127"
+    url: "https://archive.org/details/3929pdf/page/n172/mode/1up"
+status: "review"

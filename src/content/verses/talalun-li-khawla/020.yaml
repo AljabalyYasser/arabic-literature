@@ -1,0 +1,17 @@
+explained: false
+first: "جَوْنٌ بِصَارَةَ أَقْفَرَتْ لِمَرَادِهِ"
+second: "وَخَلَا لَهُ السُّؤْبَانُ فَالْبُرْعُومُ"
+vocabulary:
+  - term: "جَوْنٌ"
+    text: "«حمار أسود» [@diwan-labid، ص126]."
+  - term: "صَارَةَ"
+    text: "«جبل، ويقال موضع» [@diwan-labid، ص126]."
+  - term: "مَرَادِهِ"
+    text: "«موضعه الذى يرود فيه فى الرعى» [@diwan-labid، ص126]."
+  - term: "السُّؤْبَانُ فَالْبُرْعُومُ"
+    text: "«والسوبان اسم واد. والبرعوم: أطراف الطراثيث والراسن ونحوه من النبت» [@diwan-labid، ص126]."
+sources:
+  - source: "diwan-labid"
+    loc: "ص126"
+    url: "https://archive.org/details/3929pdf/page/n171/mode/1up"
+status: "review"

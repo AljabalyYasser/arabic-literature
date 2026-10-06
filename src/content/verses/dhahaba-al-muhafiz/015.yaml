@@ -1,0 +1,15 @@
+explained: false
+first: "وَإِنْ بَكَرُوا غَدَوْتَ بِمُسْمِعَاتٍ"
+second: "وَأَدْكَنَ عَاتِقٍ جَلْدِ الْعِصَامِ"
+vocabulary:
+  - term: "مُسْمِعَاتٍ"
+    text: "«مغنيات» [@diwan-labid، ص205]."
+  - term: "أَدْكَنَ عَاتِقٍ"
+    text: "«أدكن يعنى الزق»، «والعاتق: الزق الذى قد عتق وجادت الخمر فيه وطابت» [@diwan-labid، ص205]."
+  - term: "الْعِصَامِ"
+    text: "«الذى يشد به رأس الزق أو القربة» [@diwan-labid، ص205]."
+sources:
+  - source: "diwan-labid"
+    loc: "ص205"
+    url: "https://archive.org/details/3929pdf/page/n250/mode/1up"
+status: "review"

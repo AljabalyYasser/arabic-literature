@@ -1,0 +1,15 @@
+explained: false
+first: "فَكَأَنَّ ظُعْنَ الْحَيِّ لَمَّا أَشْرَفَتْ"
+second: "بِالْآلِ وَارْتَفَعَتْ بِهِنَّ حُزُومُ"
+vocabulary:
+  - term: "ظُعْنَ الْحَيِّ"
+    text: "«النساء فى الهوادج» [@diwan-labid، ص120]."
+  - term: "الْآلِ"
+    text: "«السراب» [@diwan-labid، ص120]."
+  - term: "حُزُومُ"
+    text: "«واحدها حزم، والحزم من الأرض: ما ارتفع وأشرف فى غلظ» [@diwan-labid، ص120]."
+sources:
+  - source: "diwan-labid"
+    loc: "ص120"
+    url: "https://archive.org/details/3929pdf/page/n165/mode/1up"
+status: "review"

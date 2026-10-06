@@ -1,0 +1,20 @@
+explained: false
+first: "لَتَقَيَّظَتْ عَلَكَ الْحِجَازِ مُقِيمَةً"
+second: "فَجُنُوبَ نَاصِفَةٍ لِقَاحُ الْحَوْأَبِ"
+vocabulary:
+  - term: "لَتَقَيَّظَتْ"
+    text: "«أى صارت في القيظ» [@diwan-labid، ص155]، أي أقامت الصيف."
+  - term: "عَلَكَ الْحِجَازِ"
+    text: "«شجر يقال له العلك»، و«الابل إذا لم يكن لها مرعى أكلت الشجر» [@diwan-labid، ص155]."
+  - term: "جُنُوبَ نَاصِفَةٍ"
+    text: "«موضع» [@diwan-labid، ص155]."
+  - term: "لِقَاحُ الْحَوْأَبِ"
+    text: "«لقاح: إبل. والحوأب: رجل، وهو أحد بنى سلمى بن مالك بن جعفر، ذهبت إبله فطلبها لبيد، حتى ردها على الحوأب، كلم فيها الملك» [@diwan-labid، ص155]."
+sources:
+  - source: "diwan-labid"
+    loc: "ص154"
+    url: "https://archive.org/details/3929pdf/page/n199/mode/1up"
+  - source: "diwan-labid"
+    loc: "ص155"
+    url: "https://archive.org/details/3929pdf/page/n200/mode/1up"
+status: "review"

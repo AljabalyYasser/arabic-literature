@@ -1,0 +1,17 @@
+explained: false
+first: "وَإِذَا تَوَاكَلَتِ الْمَقَانِبُ لَمْ يَزَلْ"
+second: "بِالثَّغْرِ مِنَّا مِنْسَرٌ وَعَظِيمُ"
+vocabulary:
+  - term: "الْمَقَانِبُ"
+    text: "«الكتائب، واحدها مقنب» [@diwan-labid، ص137]."
+  - term: "الثَّغْرِ"
+    text: "«موضع المخافة» [@diwan-labid، ص137]."
+  - term: "مِنْسَرٌ"
+    text: "«المنسر بكسر الميم وفتح السين: الجيش قدر أربعين رجلا أو خمسين» [@diwan-labid، ص137]."
+  - term: "عَظِيمُ"
+    text: "«كبير رئيس» [@diwan-labid، ص137]."
+sources:
+  - source: "diwan-labid"
+    loc: "ص137"
+    url: "https://archive.org/details/3929pdf/page/n182/mode/1up"
+status: "review"

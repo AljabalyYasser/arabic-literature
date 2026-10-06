@@ -1,0 +1,16 @@
+explained: false
+first: "مِنْهَا حُوَيٌّ وَالذُّهَابُ وَقَبْلَهُ"
+second: "يَوْمٌ بِبُرْقَةِ رَحْرَحَانَ كَرِيمُ"
+vocabulary:
+  - term: "حُوَيٌّ وَالذُّهَابُ"
+    text: "«حوى والذهاب يومان، كانت لهم فيه وقعة»، والذهاب «غائط من أرض بنى الحارث بن كعب أغار عليها فيه عامر بن الطفيل» [@diwan-labid، ص133]."
+  - term: "بُرْقَةِ رَحْرَحَانَ"
+    text: "«رحرحان: موضع وقعة» [@diwan-labid، ص133]، وفيه في شرح الطوسي يومان، قُتل في الأول يثربي بن عدس [@diwan-labid، ص133]."
+sources:
+  - source: "diwan-labid"
+    loc: "ص132"
+    url: "https://archive.org/details/3929pdf/page/n177/mode/1up"
+  - source: "diwan-labid"
+    loc: "ص133"
+    url: "https://archive.org/details/3929pdf/page/n178/mode/1up"
+status: "review"

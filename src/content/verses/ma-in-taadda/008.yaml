@@ -1,0 +1,16 @@
+explained: false
+first: "إِنْ يُغْبَطُوا يُهْبَطُوا وَإِنْ أَمِرُوا"
+second: "يَوْمًا يَصِيرُوا لِلْهُلْكِ وَالنَّكَدِ"
+vocabulary:
+  - term: "يُغْبَطُوا يُهْبَطُوا"
+    text: "في شرح الطوسي: «يقول: إن غبطوا يوماً فإنهم يموتون. ويهبطوا ها هنا: يموتون» [@diwan-labid، ص160]."
+  - term: "أَمِرُوا"
+    text: "كثروا؛ «وَالْعَرَبُ تَقُولُ: أَمِرَ بَنُو فُلَانٍ أَي كَثُرُوا» [@lisan، ج4 ص28]."
+sources:
+  - source: "diwan-labid"
+    loc: "ص160"
+    url: "https://archive.org/details/3929pdf/page/n205/mode/1up"
+  - source: "lisan"
+    loc: "ج4 ص28"
+    url: "https://shamela.ws/book/1687/1988"
+status: "review"

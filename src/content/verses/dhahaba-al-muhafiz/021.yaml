@@ -1,0 +1,15 @@
+explained: false
+first: "بِضَرْبَةِ فَيْصَلٍ تَرَكَتْ رَئِيسًا"
+second: "عَلَى الْخَدَّيْنِ يَنْحِطُ غَيْرَ نَامِ"
+vocabulary:
+  - term: "فَيْصَلٍ"
+    text: "«فصلت بين القوم. يفصل: يقطع» [@diwan-labid، ص207]."
+  - term: "يَنْحِطُ"
+    text: "«ينحط بخفض الحاء أى يزحر» [@diwan-labid، ص207]، أي يئن بنفَس شديد."
+  - term: "غَيْرَ نَامِ"
+    text: "«أى غير مرتفع» [@diwan-labid، ص207]."
+sources:
+  - source: "diwan-labid"
+    loc: "ص207"
+    url: "https://archive.org/details/3929pdf/page/n252/mode/1up"
+status: "review"

@@ -1,0 +1,21 @@
+explained: false
+first: "بَقَرٌ مَسَاكِنُهَا مَسَارِبُ عَازِبٍ"
+second: "وَارْتَبَّهُنَّ شَقَائِقٌ وَصَرِيمُ"
+vocabulary:
+  - term: "بَقَرٌ"
+    text: "«يعنى النساء جعلهن كبقر الوحش» [@diwan-labid، ص121]."
+  - term: "مَسَارِبُ"
+    text: "«مذاهبها فى الرعى» [@diwan-labid، ص121]."
+  - term: "عَازِبٍ"
+    text: "«مكان قفر قد عزب عنه الناس فلم يرعوه» [@diwan-labid، ص121]."
+  - term: "ارْتَبَّهُنَّ"
+    text: "«أى رباهن» [@diwan-labid، ص121]."
+  - term: "شَقَائِقٌ"
+    text: "«الشقيقة: أرض بين رملتين تنبت نباتاً» [@diwan-labid، ص121]."
+  - term: "صَرِيمُ"
+    text: "«الرمل المنفرد» [@diwan-labid، ص121]."
+sources:
+  - source: "diwan-labid"
+    loc: "ص121"
+    url: "https://archive.org/details/3929pdf/page/n166/mode/1up"
+status: "review"

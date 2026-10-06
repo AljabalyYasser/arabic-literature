@@ -1,0 +1,15 @@
+explained: false
+first: "وَتَرَى الْمُسَوَّمَ فِي الْقِيَادِ كَأَنَّهُ"
+second: "صَعْلٌ إِذَا فَقَدَ السِّيَاقَ يَصُومُ"
+vocabulary:
+  - term: "الْمُسَوَّمَ"
+    text: "«الفرس المعلم» [@diwan-labid، ص134]."
+  - term: "صَعْلٌ"
+    text: "«الظليم» [@diwan-labid، ص134]."
+  - term: "يَصُومُ"
+    text: "يقف؛ في شرح الطوسي: «يقول: إذا لم يسق، يقوم أى قد كل وأعيا» [@diwan-labid، ص134]."
+sources:
+  - source: "diwan-labid"
+    loc: "ص134"
+    url: "https://archive.org/details/3929pdf/page/n179/mode/1up"
+status: "review"

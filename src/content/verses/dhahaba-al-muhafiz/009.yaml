@@ -1,0 +1,15 @@
+explained: false
+first: "إِذَا مَا تَعْزُبُ الْأَنْعَامُ رَاحَتْ"
+second: "عَلَى الْأَيْتَامِ وَالْكَلِّ الْعِيَامِ"
+vocabulary:
+  - term: "تَعْزُبُ"
+    text: "«تبعد في المرعى» [@diwan-labid، ص204]."
+  - term: "الْكَلِّ"
+    text: "«العيال» [@diwan-labid، ص204]."
+  - term: "الْعِيَامِ"
+    text: "«العطاش الذين يقرمون إلى اللبن يشتهونه» [@diwan-labid، ص204]."
+sources:
+  - source: "diwan-labid"
+    loc: "ص204"
+    url: "https://archive.org/details/3929pdf/page/n249/mode/1up"
+status: "review"

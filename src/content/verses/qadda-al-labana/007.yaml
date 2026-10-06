@@ -1,0 +1,13 @@
+explained: false
+first: "وَلَقَدْ دَخَلْتُ عَلَى خُمَيِّرَ بَيْتَهُ"
+second: "مُتَنَكِّرًا فِي مُلْكِهِ كَالْأَغْلَبِ"
+vocabulary:
+  - term: "خُمَيِّرَ"
+    text: "«ملك من ملوك الحبش أتاه فكلمه في فداء قوم فأجازه وأحسن إليه» [@diwan-labid، ص155]."
+  - term: "كَالْأَغْلَبِ"
+    text: "«والأغلب: الغليظ العنق» [@diwan-labid، ص155]."
+sources:
+  - source: "diwan-labid"
+    loc: "ص155"
+    url: "https://archive.org/details/3929pdf/page/n200/mode/1up"
+status: "review"

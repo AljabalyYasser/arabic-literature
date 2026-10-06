@@ -1,0 +1,17 @@
+explained: false
+first: "حَتَّى إِذَا انْجَرَدَ النَّسِيلُ كَأَنَّهُ"
+second: "زَغَبٌ يَطِيرُ وَكُرْسُفٌ مَجْلُومُ"
+vocabulary:
+  - term: "انْجَرَدَ"
+    text: "«سقط» [@diwan-labid، ص127]."
+  - term: "النَّسِيلُ"
+    text: "«الوبر، وهو ما نسل من وبره فى عامه فألقاه عنه» [@diwan-labid، ص127]."
+  - term: "زَغَبٌ"
+    text: "«ريش لين قصار» [@diwan-labid، ص127]."
+  - term: "كُرْسُفٌ مَجْلُومُ"
+    text: "«وكرسف: قطن. مجلوم: مقطوع بالجلم» [@diwan-labid، ص127]."
+sources:
+  - source: "diwan-labid"
+    loc: "ص127"
+    url: "https://archive.org/details/3929pdf/page/n172/mode/1up"
+status: "review"

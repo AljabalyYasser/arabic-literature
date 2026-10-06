@@ -1,0 +1,19 @@
+explained: false
+first: "فَكَأَنَّ مَعْرُوفَ الدِّيَارِ بِقَادِمٍ"
+second: "فَبُرَاقِ غَوْلٍ فَالرِّجَامِ وُشُومُ"
+vocabulary:
+  - term: "مَعْرُوفَ الدِّيَارِ"
+    text: "«ما عرف من الديار» [@diwan-labid، ص118]."
+  - term: "بُرَاقِ"
+    text: "جمع برقاء، «وهى الأرض يخلط ترابها حصى» [@diwan-labid، ص118]."
+  - term: "غَوْلٍ"
+    text: "«الغول: ما تطامن من الأرض وسهل» [@diwan-labid، ص118]."
+  - term: "الرِّجَامِ"
+    text: "«حجارة مجموعة واحدها رجمة، وهى علامات تكون» [@diwan-labid، ص118]."
+  - term: "وُشُومُ"
+    text: "«آثار، الواحد وشم. وشوم يريد وشم النساء على أيديهن» [@diwan-labid، ص118]."
+sources:
+  - source: "diwan-labid"
+    loc: "ص118"
+    url: "https://archive.org/details/3929pdf/page/n163/mode/1up"
+status: "review"

@@ -1,0 +1,16 @@
+explained: false
+first: "لَمْ يُبْلِغِ الْعَيْنَ كُلَّ نَهْمَتِهَا"
+second: "لَيْلَةَ تُمْسِي الْجِيَادُ كَالْقِدَدِ"
+vocabulary:
+  - term: "نَهْمَتِهَا"
+    text: "حاجتها؛ «والنَّهْمَة: الْحَاجَةُ، وَقِيلَ: بلوغُ الهِمَّةِ والشهوةِ فِي الشَّيْءِ» [@lisan، ج12 ص593]. وفي شرح الطوسي: «يقول: لم يبلغ عيني منه كل ما تريد أن تنظر إليه من سرور» [@diwan-labid، ص159]."
+  - term: "الْقِدَدِ"
+    text: "«السيور ... وإنما يريد أنها ضامرة» [@diwan-labid، ص159]، أي الخيل نحيلة من شدة السير."
+sources:
+  - source: "diwan-labid"
+    loc: "ص159"
+    url: "https://archive.org/details/3929pdf/page/n204/mode/1up"
+  - source: "lisan"
+    loc: "ج12 ص593"
+    url: "https://shamela.ws/book/1687/6506"
+status: "review"

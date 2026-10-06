@@ -1,0 +1,19 @@
+explained: false
+first: "وَغَدَاةَ قَاعِ الْقُرْنَتَيْنِ أَتَيْنَهُمْ"
+second: "رَهْوًا يَلُوحُ خِلَالَهَا التَّسْوِيمُ"
+vocabulary:
+  - term: "أَتَيْنَهُمْ"
+    text: "«الخيل أتينهم» [@diwan-labid، ص133]."
+  - term: "رَهْوًا"
+    text: "«متتابعة» [@diwan-labid، ص133]."
+  - term: "قَاعِ الْقُرْنَتَيْنِ"
+    text: "«والقاع: الأرض ذات الطين الحر. القرنتين: موضع» [@diwan-labid، ص133]."
+  - term: "خِلَالَهَا"
+    text: "«وسطها» [@diwan-labid، ص133]."
+  - term: "التَّسْوِيمُ"
+    text: "«العلامات» [@diwan-labid، ص133]."
+sources:
+  - source: "diwan-labid"
+    loc: "ص133"
+    url: "https://archive.org/details/3929pdf/page/n178/mode/1up"
+status: "review"

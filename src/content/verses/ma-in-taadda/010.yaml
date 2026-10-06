@@ -1,0 +1,16 @@
+explained: false
+first: "وَعَيْنِ هَلَّا بَكَيْتِ أَرْبَدَ إِذْ"
+second: "أَلْوَتْ رِيَاحُ الشِّتَاءِ بِالْعَضَدِ"
+vocabulary:
+  - term: "أَلْوَتْ"
+    text: "«ذهبت به وطارت» [@diwan-labid، ص161]."
+  - term: "الْعَضَدِ"
+    text: "«الشجر اليابس، ويقال المقطوع» [@diwan-labid، ص161]."
+sources:
+  - source: "diwan-labid"
+    loc: "ص160"
+    url: "https://archive.org/details/3929pdf/page/n205/mode/1up"
+  - source: "diwan-labid"
+    loc: "ص161"
+    url: "https://archive.org/details/3929pdf/page/n206/mode/1up"
+status: "review"

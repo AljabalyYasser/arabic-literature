@@ -1,0 +1,18 @@
+explained: false
+first: "وَأَرْبَدُ فَارِسُ الْهَيْجَا إِذَا مَا"
+second: "تَقَعَّرَتِ الْمَشَاجِرُ بِالْخِيَامِ"
+vocabulary:
+  - term: "الْهَيْجَا"
+    text: "الحرب؛ «والهَيْجُ والهِياجُ والهَيْجا والهَيْجاءُ: الْحَرْبُ، بِالْمَدِّ وَالْقَصْرِ» [@lisan، ج2 ص395]."
+  - term: "تَقَعَّرَتْ"
+    text: "«تقوضت من أصلها» [@diwan-labid، ص201]."
+  - term: "الْمَشَاجِرُ"
+    text: "«خشب توضع عليه أمتعتهم»، و«قال الأصمعى: والشجار قبة الهودج» [@diwan-labid، ص201]."
+sources:
+  - source: "diwan-labid"
+    loc: "ص201"
+    url: "https://archive.org/details/3929pdf/page/n246/mode/1up"
+  - source: "lisan"
+    loc: "ج2 ص395"
+    url: "https://shamela.ws/book/1687/1199"
+status: "review"

@@ -1,0 +1,15 @@
+explained: false
+first: "وَكُلِّ فَرِيغَةٍ عَجْلَى رَمُوحٍ"
+second: "كَأَنَّ رَشَاشَهَا لَهَبُ الضِّرَامِ"
+vocabulary:
+  - term: "فَرِيغَةٍ"
+    text: "«طعنة واسعة» [@diwan-labid، ص207]."
+  - term: "رَمُوحٍ"
+    text: "«يرمح دمها إذا خرج تراه كأنه يفور» [@diwan-labid، ص207]."
+  - term: "الضِّرَامِ"
+    text: "«الحطب الدقيق الذى تسرع فيه النار» [@diwan-labid، ص207]."
+sources:
+  - source: "diwan-labid"
+    loc: "ص207"
+    url: "https://archive.org/details/3929pdf/page/n252/mode/1up"
+status: "review"

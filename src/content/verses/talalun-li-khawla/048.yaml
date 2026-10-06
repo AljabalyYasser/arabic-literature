@@ -1,0 +1,15 @@
+explained: false
+first: "مِنَّا حُمَاةُ الشِّعْبِ يَوْمَ تَوَاكَلَتْ"
+second: "أَسَدٌ وَذُبْيَانُ الصَّفَا وَتَمِيمُ"
+vocabulary:
+  - term: "الشِّعْبِ"
+    text: "«شعب جبلة، وجبلة أكمة» [@diwan-labid، ص135]."
+  - term: "تَوَاكَلَتْ"
+    text: "«تخاذلت وضعفت» [@diwan-labid، ص135]."
+  - term: "ذُبْيَانُ الصَّفَا"
+    text: "«الصفا ها هنا من المودة»، ويقال: «والصفا: موضع صفا بجبلة» [@diwan-labid، ص135]."
+sources:
+  - source: "diwan-labid"
+    loc: "ص135"
+    url: "https://archive.org/details/3929pdf/page/n180/mode/1up"
+status: "review"

@@ -1,0 +1,18 @@
+explained: false
+first: "زُجَلٌ وَرُفِّعَ فِي ظِلَالِ حُدُوجِهَا"
+second: "بِيضُ الْخُدُودِ حَدِيثُهُنَّ رَخِيمُ"
+vocabulary:
+  - term: "زُجَلٌ"
+    text: "«فرق» [@diwan-labid، ص121]، أي جماعات."
+  - term: "حُدُوجِهَا"
+    text: "هوادجها؛ قال الأزهري: «الحِدْجُ، بِكَسْرِ الْحَاءِ، مَرْكَبٌ مِنْ مَرَاكِبِ النِّسَاءِ نَحْوُ الْهَوْدَجِ والمِحَفَّة» [@lisan، ج2 ص230]."
+  - term: "رَخِيمُ"
+    text: "«لين فى أنس» [@diwan-labid، ص121]."
+sources:
+  - source: "diwan-labid"
+    loc: "ص121"
+    url: "https://archive.org/details/3929pdf/page/n166/mode/1up"
+  - source: "lisan"
+    loc: "ج2 ص230"
+    url: "https://shamela.ws/book/1687/1034"
+status: "review"

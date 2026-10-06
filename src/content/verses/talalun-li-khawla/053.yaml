@@ -1,0 +1,16 @@
+explained: false
+first: "وَلَهُمْ حُلُومٌ كَالْجِبَالِ وَسَادَةٌ"
+second: "نُجُبٌ وَفَرْعٌ مَاجِدٌ وَأُرُومُ"
+vocabulary:
+  - term: "نُجُبٌ"
+    text: "«كرام» [@diwan-labid، ص137]."
+  - term: "أُرُومُ"
+    text: "أصل؛ «الأرومة: الأصل» [@diwan-labid، ص132]."
+sources:
+  - source: "diwan-labid"
+    loc: "ص137"
+    url: "https://archive.org/details/3929pdf/page/n182/mode/1up"
+  - source: "diwan-labid"
+    loc: "ص132"
+    url: "https://archive.org/details/3929pdf/page/n177/mode/1up"
+status: "review"

@@ -1,0 +1,15 @@
+explained: false
+first: "طَلَلٌ لِخَوْلَةَ بِالرُّسَيْسِ قَدِيمُ"
+second: "فَبِعَاقِلٍ فَالْأَنْعَمَيْنِ رُسُومُ"
+vocabulary:
+  - term: "طَلَلٌ"
+    text: "«والطلل ما شخص من آثار الدار» [@diwan-labid، ص118]."
+  - term: "الرُّسَيْسِ"
+    text: "«اسم موضع» [@diwan-labid، ص118]، وكذلك «عاقل: موضع» [@diwan-labid، ص118]."
+  - term: "رُسُومُ"
+    text: "«واحدها رسم، والرسم: أثر الدار» [@diwan-labid، ص118]."
+sources:
+  - source: "diwan-labid"
+    loc: "ص118"
+    url: "https://archive.org/details/3929pdf/page/n163/mode/1up"
+status: "review"

@@ -1,0 +1,13 @@
+explained: false
+first: "لَهُ زَبَدٌ عَلَى النَّاجُودِ وَرْدٌ"
+second: "بِمَاءِ الْمُزْنِ مِنْ رِيقِ الْغَمَامِ"
+vocabulary:
+  - term: "النَّاجُودِ"
+    text: "«الباطية أو الظرف يصب فيه الخمر» [@diwan-labid، ص205]."
+  - term: "رِيقِ الْغَمَامِ"
+    text: "«أول مطره. الغمام: السحاب» [@diwan-labid، ص205]."
+sources:
+  - source: "diwan-labid"
+    loc: "ص205"
+    url: "https://archive.org/details/3929pdf/page/n250/mode/1up"
+status: "review"

@@ -1,0 +1,16 @@
+explained: false
+first: "فَلَا جَزِعٌ إِنْ فَرَّقَ الدَّهْرُ بَيْنَنَا"
+second: "وَكُلُّ فَتًى يَوْمًا بِهِ الدَّهْرُ فَاجِعُ"
+vocabulary:
+  - term: "فَلَا جَزِعٌ"
+    text: "فلست بجازع. وفي شرح الطوسي: «فلا جزع لميت إن مات بعد من أهلي، لكون قلبي قد وقرته المصائب» [@diwan-labid، ص168]."
+  - term: "فَاجِعُ"
+    text: "مُوجِع بمصيبة؛ وفي اللسان: «والفَواجِعُ: المَصائِبُ المُؤْلِمَةُ الَّتِي تَفْجَعُ الإِنسان بِمَا يَعِزُّ عَلَيْهِ» [@lisan، ج8 ص245]."
+sources:
+  - source: "diwan-labid"
+    loc: "ص168"
+    url: "https://archive.org/details/3929pdf/page/n213/mode/1up"
+  - source: "lisan"
+    loc: "ج8 ص245"
+    url: "https://shamela.ws/book/1687/4093"
+status: "review"

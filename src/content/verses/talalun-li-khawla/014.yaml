@@ -1,0 +1,19 @@
+explained: false
+first: "تَسْنُو وَيُعْجِلُ كَرَّهَا مُتَبَذِّلٌ"
+second: "شَثْنٌ بِهِ دَنَسُ الْهِنَاءِ دَمِيمُ"
+vocabulary:
+  - term: "تَسْنُو"
+    text: "«تستقى، وكل ما استقى سان» [@diwan-labid، ص123]."
+  - term: "يُعْجِلُ كَرَّهَا"
+    text: "«أى ردها» [@diwan-labid، ص123]."
+  - term: "مُتَبَذِّلٌ"
+    text: "«قد ابتذل نفسه للعمل» [@diwan-labid، ص123]."
+  - term: "شَثْنٌ"
+    text: "«غليظ الكف والأصابع» [@diwan-labid، ص123]."
+  - term: "دَمِيمُ"
+    text: "«قليل قبيح» [@diwan-labid، ص123]."
+sources:
+  - source: "diwan-labid"
+    loc: "ص123"
+    url: "https://archive.org/details/3929pdf/page/n168/mode/1up"
+status: "review"

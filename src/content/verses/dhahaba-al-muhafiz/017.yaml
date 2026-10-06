@@ -1,0 +1,18 @@
+explained: false
+first: "إِذَا بَكَرَ النِّسَاءُ مُرَدَّفَاتٍ"
+second: "حَوَاسِرَ لَا يُجِئْنَ عَلَى الْخِدَامِ"
+vocabulary:
+  - term: "مُرَدَّفَاتٍ"
+    text: "«محمولات» [@diwan-labid، ص206]."
+  - term: "حَوَاسِرَ"
+    text: "مكشوفات الرؤوس؛ «وكلُّ مَكْشُوفَةِ الرأْس وَالذِّرَاعَيْنِ: حاسِرٌ، وَالْجَمْعُ حُسَّرٌ وحَواسِر» [@lisan، ج4 ص188]."
+  - term: "لَا يُجِئْنَ عَلَى الْخِدَامِ"
+    text: "«يريد لا يغطين الخدام وهى الخلاخيل» [@diwan-labid، ص206]، أي يسرعن في الفزع فلا يسترن سوقهن."
+sources:
+  - source: "diwan-labid"
+    loc: "ص206"
+    url: "https://archive.org/details/3929pdf/page/n251/mode/1up"
+  - source: "lisan"
+    loc: "ج4 ص188"
+    url: "https://shamela.ws/book/1687/2148"
+status: "review"

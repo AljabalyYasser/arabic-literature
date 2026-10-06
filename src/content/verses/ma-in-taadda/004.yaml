@@ -1,0 +1,20 @@
+explained: false
+first: "الْحَارِبِ الْجَابِرِ الْحَرِيبَ إِذَا"
+second: "جَاءَ نَكِيبًا وَإِنْ يَعُدْ يَعُدِ"
+vocabulary:
+  - term: "الْحَارِبِ"
+    text: "«يحرب الأموال» [@diwan-labid، ص158]، أي يسلبها من الأعداء."
+  - term: "الْجَابِرِ الْحَرِيبَ"
+    text: "«والجابر الذى يجبر من قد حرب ماله» [@diwan-labid، ص158]، أي يعين من سُلب ماله."
+  - term: "نَكِيبًا"
+    text: "«مصاباً» [@diwan-labid، ص158]، «والنكيب: المنكوب الذى نكبه الزمان» [@diwan-labid، ص159]."
+  - term: "وَإِنْ يَعُدْ يَعُدِ"
+    text: "«وإن يعد لسؤاله، يعد لعطيته» [@diwan-labid، ص158]."
+sources:
+  - source: "diwan-labid"
+    loc: "ص158"
+    url: "https://archive.org/details/3929pdf/page/n203/mode/1up"
+  - source: "diwan-labid"
+    loc: "ص159"
+    url: "https://archive.org/details/3929pdf/page/n204/mode/1up"
+status: "review"

@@ -1,0 +1,13 @@
+explained: false
+first: "فَجَّعَنِي الرَّعْدُ وَالصَّوَاعِقُ بِالْـ"
+second: "ـفَارِسِ يَوْمَ الْكَرِيهَةِ النَّجُدِ"
+vocabulary:
+  - term: "فَجَّعَنِي"
+    text: "أوجعني بمصيبة عظيمة؛ في شرح الطوسي: «الأمر الفجيع والفاجع: العظيم» [@diwan-labid، ص158]."
+  - term: "النَّجُدِ"
+    text: "«النجد: الشديد»، و«النجد: البطل ذو نجدة» [@diwan-labid، ص158]."
+sources:
+  - source: "diwan-labid"
+    loc: "ص158"
+    url: "https://archive.org/details/3929pdf/page/n203/mode/1up"
+status: "review"

@@ -1,0 +1,15 @@
+explained: false
+first: "إِنِّي امْرُؤٌ مَنَعَتْ أُرُومَةُ عَامِرٍ"
+second: "ضَيْمِي وَقَدْ جَنَفَتْ عَلَيَّ خُصُومُ"
+vocabulary:
+  - term: "أُرُومَةُ"
+    text: "«الأصل» [@diwan-labid، ص132]."
+  - term: "ضَيْمِي"
+    text: "«ظلمى» [@diwan-labid، ص132]."
+  - term: "جَنَفَتْ"
+    text: "«جارت» [@diwan-labid، ص132]."
+sources:
+  - source: "diwan-labid"
+    loc: "ص132"
+    url: "https://archive.org/details/3929pdf/page/n177/mode/1up"
+status: "review"

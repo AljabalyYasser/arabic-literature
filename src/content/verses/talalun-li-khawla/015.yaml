@@ -1,0 +1,21 @@
+explained: false
+first: "بِمُقَابَلٍ سَرِبِ الْمَخَارِزِ عِدْلُهُ"
+second: "قَلِقُ الْمَحَالَةِ جَارِنٌ مَسْلُومُ"
+vocabulary:
+  - term: "مُقَابَلٍ"
+    text: "«دلو من جلدين قوبل بينهما» [@diwan-labid، ص123]."
+  - term: "سَرِبِ الْمَخَارِزِ"
+    text: "«سرب: سائل. المخارز: موضع الخرز» [@diwan-labid، ص123]."
+  - term: "عِدْلُهُ"
+    text: "«مثله، دلو آخر مثله» [@diwan-labid، ص123]."
+  - term: "الْمَحَالَةِ"
+    text: "«البكرة التى يلتف عليها الحبل» [@diwan-labid، ص123]."
+  - term: "جَارِنٌ"
+    text: "«لين» [@diwan-labid، ص123]."
+  - term: "مَسْلُومُ"
+    text: "«دبغ بالسلم وهو شجر» [@diwan-labid، ص123]."
+sources:
+  - source: "diwan-labid"
+    loc: "ص123"
+    url: "https://archive.org/details/3929pdf/page/n168/mode/1up"
+status: "review"

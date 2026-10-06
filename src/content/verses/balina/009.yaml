@@ -1,0 +1,19 @@
+explained: false
+first: "وَيَمْضُونَ أَرْسَالًا وَنَخْلُفُ بَعْدَهُمْ"
+second: "كَمَا ضَمَّ أُخْرَى التَّالِيَاتِ الْمُشَايِعُ"
+vocabulary:
+  - term: "أَرْسَالًا"
+    text: "«أي جماعة بعد جماعة» [@diwan-labid، ص170]."
+  - term: "نَخْلُفُ"
+    text: "«نبقى» [@diwan-labid، ص170]."
+  - term: "ضَمَّ"
+    text: "«جمع» [@diwan-labid، ص170]."
+  - term: "التَّالِيَاتِ"
+    text: "«أواخر الابل» [@diwan-labid، ص170]."
+  - term: "الْمُشَايِعُ"
+    text: "«الذي يزجر إبله، يصيح بها» [@diwan-labid، ص170]."
+sources:
+  - source: "diwan-labid"
+    loc: "ص170"
+    url: "https://archive.org/details/3929pdf/page/n215/mode/1up"
+status: "review"

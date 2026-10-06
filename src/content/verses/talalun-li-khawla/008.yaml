@@ -1,0 +1,20 @@
+explained: false
+first: "سُحُقٌ يُمَتِّعُهَا الصَّفَا وَسَرِيُّهُ"
+second: "عُمٌّ نَوَاعِمُ بَيْنَهُنَّ كُرُومُ"
+vocabulary:
+  - term: "سُحُقٌ"
+    text: "«الطوال، واحدها سحوق» [@diwan-labid، ص120]."
+  - term: "يُمَتِّعُهَا"
+    text: "«يربيها ويحسن نباتها ويطيلها» [@diwan-labid، ص120]."
+  - term: "الصَّفَا وَسَرِيُّهُ"
+    text: "«الصفا: نهر، وسريه: ماؤه الجارى» [@diwan-labid، ص121]."
+  - term: "عُمٌّ"
+    text: "«طوال عظام واحدها عميمة» [@diwan-labid، ص121]."
+sources:
+  - source: "diwan-labid"
+    loc: "ص120"
+    url: "https://archive.org/details/3929pdf/page/n165/mode/1up"
+  - source: "diwan-labid"
+    loc: "ص121"
+    url: "https://archive.org/details/3929pdf/page/n166/mode/1up"
+status: "review"

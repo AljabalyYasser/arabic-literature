@@ -1,0 +1,15 @@
+explained: false
+first: "وَتَصَيَّفَا بَعْدَ الرَّبِيعِ وَأَحْنَقَا"
+second: "وَعَلَاهُمَا مَوْقُودُهُ الْمَسْمُومُ"
+vocabulary:
+  - term: "تَصَيَّفَا"
+    text: "«أى رعيا الصيف» [@diwan-labid، ص126]."
+  - term: "أَحْنَقَا"
+    text: "«ضمرا» [@diwan-labid، ص126]."
+  - term: "مَوْقُودُهُ الْمَسْمُومُ"
+    text: "«موقوده: موقود الصيف. المسموم: من السموم» [@diwan-labid، ص126]، أي حر الصيف وريحه الحارة."
+sources:
+  - source: "diwan-labid"
+    loc: "ص126"
+    url: "https://archive.org/details/3929pdf/page/n171/mode/1up"
+status: "review"

@@ -1,0 +1,15 @@
+explained: false
+first: "وَلَقَدْ بَلَتْ يَوْمَ النُّخَيْلِ وَقَبْلَهُ"
+second: "مَرَّانُ مِنْ أَيَّامِنَا وَحَرِيمُ"
+vocabulary:
+  - term: "بَلَتْ"
+    text: "«جربت وخبرت» [@diwan-labid، ص135]."
+  - term: "يَوْمَ النُّخَيْلِ"
+    text: "«وقعة فى واد يقال له بطن النخيل» [@diwan-labid، ص135]."
+  - term: "مَرَّانُ ... وَحَرِيمُ"
+    text: "«مران وحريم من جعفى بن سعد العشيرة» [@diwan-labid، ص135]."
+sources:
+  - source: "diwan-labid"
+    loc: "ص135"
+    url: "https://archive.org/details/3929pdf/page/n180/mode/1up"
+status: "review"

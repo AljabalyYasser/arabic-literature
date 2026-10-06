@@ -1,0 +1,19 @@
+explained: false
+first: "أَعَاذِلَ مَا يُدْرِيكِ إِلَّا تَظَنِّيًا"
+second: "إِذَا ارْتَحَلَ الْفِتْيَانُ مَنْ هُوَ رَاجِعُ"
+vocabulary:
+  - term: "أَعَاذِلَ"
+    text: "يا عاذلة، أي اللائمة؛ «العَذْلُ: اللَّوْمُ» [@lisan، ج11 ص437]."
+  - term: "تَظَنِّيًا"
+    text: "ظنًّا، وأصله التظنّن، قُلبت إحدى النونات ياء، «كَمَا قَالُوا: تَظَنَّيْتُ، مِنَ الظَّنِّ» [@lisan، ج1 ص731]."
+sources:
+  - source: "diwan-labid"
+    loc: "ص171"
+    url: "https://archive.org/details/3929pdf/page/n216/mode/1up"
+  - source: "lisan"
+    loc: "ج11 ص437"
+    url: "https://shamela.ws/book/1687/5615"
+  - source: "lisan"
+    loc: "ج1 ص731"
+    url: "https://shamela.ws/book/1687/731"
+status: "review"

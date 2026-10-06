@@ -1,0 +1,13 @@
+explained: false
+first: "فَبِتِلْكَ أَقْضِي الْهَمَّ إِنَّ خِلَاجَهُ"
+second: "سَقَمٌ وَإِنِّي لِلْخِلَاجِ صَرُومُ"
+vocabulary:
+  - term: "خِلَاجَهُ"
+    text: "«ما ينازعه من الشك فى الآراء» [@diwan-labid، ص131]."
+  - term: "صَرُومُ"
+    text: "«قاطع»، «وصروم معتاد لذلك» [@diwan-labid، ص131]. يقول: «فإذا خالجنى الأمر صرمته أى قطعته بعزمة» [@diwan-labid، ص131]."
+sources:
+  - source: "diwan-labid"
+    loc: "ص131"
+    url: "https://archive.org/details/3929pdf/page/n176/mode/1up"
+status: "review"

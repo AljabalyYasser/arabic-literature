@@ -1,0 +1,21 @@
+explained: false
+first: "لَوْلَا تُسَلِّيكَ اللُّبَانَةَ حُرَّةٌ"
+second: "حَرَجٌ كَأَحْنَاءِ الْغَبِيطِ عَقِيمُ"
+vocabulary:
+  - term: "لَوْلَا"
+    text: "«يريد هلا» [@diwan-labid، ص124]."
+  - term: "تُسَلِّيكَ"
+    text: "«تذهب بهمك» [@diwan-labid، ص124]."
+  - term: "حُرَّةٌ"
+    text: "«الكريمة» [@diwan-labid، ص124]."
+  - term: "حَرَجٌ"
+    text: "«ضامرة» [@diwan-labid، ص124]."
+  - term: "أَحْنَاءِ الْغَبِيطِ"
+    text: "«أحناء الغبيط: خشبه من جوانبه»، «والغبيط: مركب من مراكب النساء» [@diwan-labid، ص124]."
+  - term: "عَقِيمُ"
+    text: "«لا تحبل فهو أقوى لها وأشد» [@diwan-labid، ص124]."
+sources:
+  - source: "diwan-labid"
+    loc: "ص124"
+    url: "https://archive.org/details/3929pdf/page/n169/mode/1up"
+status: "review"

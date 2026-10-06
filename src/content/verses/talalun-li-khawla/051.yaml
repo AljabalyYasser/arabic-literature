@@ -1,0 +1,17 @@
+explained: false
+first: "وَإِذَا شَتَوْا عَادَتْ عَلَى جِيرَانِهِمْ"
+second: "رُجُحٌ تُوَفِّيهَا مَرَابِعُ كُومُ"
+vocabulary:
+  - term: "رُجُحٌ"
+    text: "«جفان عظام ثقال» [@diwan-labid، ص136]."
+  - term: "تُوَفِّيهَا"
+    text: "«يملؤها» [@diwan-labid، ص136]."
+  - term: "مَرَابِعُ"
+    text: "«اللواتى نتجن فى الربيع» [@diwan-labid، ص136]."
+  - term: "كُومُ"
+    text: "«عظام الأسنمة، الواحدة كوماء» [@diwan-labid، ص136]."
+sources:
+  - source: "diwan-labid"
+    loc: "ص136"
+    url: "https://archive.org/details/3929pdf/page/n181/mode/1up"
+status: "review"

@@ -1,0 +1,17 @@
+explained: false
+first: "قَدْ قُدْتُ فِي غَلَسِ الظَّلَامِ وَطَيْرُهُ"
+second: "عُصَبٌ عَلَى فَنَنِ الْعِضَاهِ جُثُومُ"
+vocabulary:
+  - term: "غَلَسِ الظَّلَامِ"
+    text: "«أول الصبح» [@diwan-labid، ص131]."
+  - term: "فَنَنِ"
+    text: "«الفنن: الغصن» [@diwan-labid، ص131]."
+  - term: "الْعِضَاهِ"
+    text: "«ما عظم من الشجر وله شوك» [@diwan-labid، ص131]."
+  - term: "جُثُومُ"
+    text: "«واقعة على الشجر لم تصبح فتطير» [@diwan-labid، ص131]."
+sources:
+  - source: "diwan-labid"
+    loc: "ص131"
+    url: "https://archive.org/details/3929pdf/page/n176/mode/1up"
+status: "review"

@@ -1,0 +1,17 @@
+explained: false
+first: "يُوفِي وَيَرْتَقِبُ النِّجَادَ كَأَنَّهُ"
+second: "ذُو إِرْبَةٍ كُلَّ الْمَرَامِ يَرُومُ"
+vocabulary:
+  - term: "يُوفِي"
+    text: "«يشرف» [@diwan-labid، ص127]."
+  - term: "النِّجَادَ"
+    text: "«ما ارتفع من الأرض» [@diwan-labid، ص127]."
+  - term: "ذُو إِرْبَةٍ"
+    text: "«أى ذو حاجة» [@diwan-labid، ص127]."
+  - term: "كُلَّ الْمَرَامِ يَرُومُ"
+    text: "«أى كل مطلب يطلب» [@diwan-labid، ص127]."
+sources:
+  - source: "diwan-labid"
+    loc: "ص127"
+    url: "https://archive.org/details/3929pdf/page/n172/mode/1up"
+status: "review"

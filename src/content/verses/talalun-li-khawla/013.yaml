@@ -1,0 +1,19 @@
+explained: false
+first: "دَهْمَاءُ قَدْ دَجَنَتْ وَأَحْنَقَ صُلْبُهَا"
+second: "وَأَحَالَ فِيهَا الرَّضْحُ وَالتَّصْرِيمُ"
+vocabulary:
+  - term: "دَجَنَتْ"
+    text: "«اعتادت ذلك، والداجن: المعتاد» [@diwan-labid، ص122]."
+  - term: "أَحْنَقَ"
+    text: "«ضمر وارتفع» [@diwan-labid، ص122]."
+  - term: "أَحَالَ"
+    text: "«استبان فيها بعد حول» [@diwan-labid، ص122]."
+  - term: "الرَّضْحُ"
+    text: "«النوى المدقوق» [@diwan-labid، ص122]."
+  - term: "التَّصْرِيمُ"
+    text: "«ألا تحلب فذلك أسمن لها» [@diwan-labid، ص122]."
+sources:
+  - source: "diwan-labid"
+    loc: "ص122"
+    url: "https://archive.org/details/3929pdf/page/n167/mode/1up"
+status: "review"

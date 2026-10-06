@@ -1,0 +1,19 @@
+explained: false
+first: "حَرْفٌ أَضَرَّ بِهَا السِّفَارُ كَأَنَّهَا"
+second: "بَعْدَ الْكَلَالِ مُسَدَّمٌ مَحْجُومُ"
+vocabulary:
+  - term: "حَرْفٌ"
+    text: "«ضامرة»، وقال أبو عبيدة: «ناقة تشبه بحرف الجبل» [@diwan-labid، ص124]."
+  - term: "السِّفَارُ"
+    text: "«السفر» [@diwan-labid، ص124]."
+  - term: "الْكَلَالِ"
+    text: "«الإعياء والفتور» [@diwan-labid، ص124]."
+  - term: "مُسَدَّمٌ"
+    text: "«فحل هائج يحبس عن الضراب» [@diwan-labid، ص124]."
+  - term: "مَحْجُومُ"
+    text: "«مشدود فمه بالحجامة» [@diwan-labid، ص124]."
+sources:
+  - source: "diwan-labid"
+    loc: "ص124"
+    url: "https://archive.org/details/3929pdf/page/n169/mode/1up"
+status: "review"

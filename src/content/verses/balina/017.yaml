@@ -1,0 +1,15 @@
+explained: false
+first: "تُبَكِّي عَلَى إِثْرِ الشَّبَابِ الَّذِي مَضَى"
+second: "أَلَا إِنَّ أَخْدَانَ الشَّبَابِ الرَّعَارِعُ"
+vocabulary:
+  - term: "تُبَكِّي"
+    text: "«تبكي عاذلته» [@diwan-labid، ص172]، أي تبكي العاذلة على شبابه."
+  - term: "أَخْدَانَ"
+    text: "«إخوان» [@diwan-labid، ص172]."
+  - term: "الرَّعَارِعُ"
+    text: "«الأحداث» [@diwan-labid، ص172]، أي الفتيان الصغار، «واحدهم رعرع للذكر، ورعرعة للأنثى» [@diwan-labid، ص172]."
+sources:
+  - source: "diwan-labid"
+    loc: "ص172"
+    url: "https://archive.org/details/3929pdf/page/n217/mode/1up"
+status: "review"

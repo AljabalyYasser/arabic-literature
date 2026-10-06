@@ -1,0 +1,15 @@
+explained: false
+first: "يَعْفُو عَلَى الْجَهْدِ وَالسُّؤَالِ كَمَا"
+second: "أُنْزِلَ صَوْبُ الرَّبِيعِ ذِي الرَّصَدِ"
+vocabulary:
+  - term: "يَعْفُو"
+    text: "«يكثر» [@diwan-labid، ص159]، أي يكثر عطاؤه في الشدة وعند السؤال."
+  - term: "صَوْبُ الرَّبِيعِ"
+    text: "«صوب الربيع: مطره» [@diwan-labid، ص159]."
+  - term: "الرَّصَدِ"
+    text: "«نبات يكمن تحت الثرى وذلك في أول مطر، فإذا أصابه مطر الربيع ظهر» [@diwan-labid، ص159]."
+sources:
+  - source: "diwan-labid"
+    loc: "ص159"
+    url: "https://archive.org/details/3929pdf/page/n204/mode/1up"
+status: "review"

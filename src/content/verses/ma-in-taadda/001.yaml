@@ -1,0 +1,16 @@
+explained: false
+first: "مَا إِنْ تُعَرِّي الْمَنُونُ مِنْ أَحَدِ"
+second: "لَا وَالِدٍ مُشْفِقٍ وَلَا وَلَدِ"
+vocabulary:
+  - term: "تُعَرِّي"
+    text: "«تترك» [@diwan-labid، ص158]. وفي شرح الطوسي: «يقول: لا تدعه عارياً من المصائب» [@diwan-labid، ص158]."
+  - term: "الْمَنُونُ"
+    text: "الموت؛ «والمَنُون: الْمَوْتُ» [@lisan، ج13 ص415]."
+sources:
+  - source: "diwan-labid"
+    loc: "ص158"
+    url: "https://archive.org/details/3929pdf/page/n203/mode/1up"
+  - source: "lisan"
+    loc: "ج13 ص415"
+    url: "https://shamela.ws/book/1687/6976"
+status: "review"

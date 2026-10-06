@@ -1,0 +1,15 @@
+explained: false
+first: "فَتَضَيَّفَا مَاءً بِدَحْلٍ سَاكِنًا"
+second: "يَسْتَنُّ فَوْقَ سَرَاتِهِ الْعُلْجُومُ"
+vocabulary:
+  - term: "دَحْلٍ"
+    text: "«غار يكون فى أصل الجبل، يكون فيه ماء يضيق من أعلاه ويتسع من آخره» [@diwan-labid، ص130]."
+  - term: "سَرَاتِهِ"
+    text: "«ظهره» [@diwan-labid، ص130]."
+  - term: "الْعُلْجُومُ"
+    text: "«العلجوم ها هنا الموج»، ويقال: «والعلجوم: الضفدع» [@diwan-labid، ص130]."
+sources:
+  - source: "diwan-labid"
+    loc: "ص130"
+    url: "https://archive.org/details/3929pdf/page/n175/mode/1up"
+status: "review"

@@ -1,0 +1,15 @@
+explained: false
+first: "شَدًّا وَمَرْفُوعًا يُقَرِّبُ مِثْلُهُ"
+second: "لِلْوِرْدِ لَا نَفِقٌ وَلَا مَسْؤُومُ"
+vocabulary:
+  - term: "شَدًّا وَمَرْفُوعًا"
+    text: "«الشد: العدو. والمرفوع: أشد من الشد» [@diwan-labid، ص129]."
+  - term: "نَفِقٌ"
+    text: "«القليل، أى لم يخرج كل جريه» [@diwan-labid، ص129]."
+  - term: "مَسْؤُومُ"
+    text: "«مملول» [@diwan-labid، ص129]."
+sources:
+  - source: "diwan-labid"
+    loc: "ص129"
+    url: "https://archive.org/details/3929pdf/page/n174/mode/1up"
+status: "review"

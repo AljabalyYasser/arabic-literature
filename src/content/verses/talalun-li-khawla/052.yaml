@@ -1,0 +1,18 @@
+explained: false
+first: "لَا يَجْتَوِيهَا ضَيْفُهُمْ وَفَقِيرُهُمْ"
+second: "وَمُدَفَّعٌ طَرَقَ النُّبُوحَ يَتِيمُ"
+vocabulary:
+  - term: "يَجْتَوِيهَا"
+    text: "«يكرهها» [@diwan-labid، ص137]."
+  - term: "مُدَفَّعٌ"
+    text: "«رجل يدفع من موضع إلى موضع، لا ينزل»، «لا يضيفه أحد لشدة حال الناس» [@diwan-labid، ص137]."
+  - term: "النُّبُوحَ"
+    text: "«الأحياء»، وقال الأصمعي: «هى ضجة الناس والحى وأصواتهم» [@diwan-labid، ص137]."
+sources:
+  - source: "diwan-labid"
+    loc: "ص136"
+    url: "https://archive.org/details/3929pdf/page/n181/mode/1up"
+  - source: "diwan-labid"
+    loc: "ص137"
+    url: "https://archive.org/details/3929pdf/page/n182/mode/1up"
+status: "review"

@@ -1,0 +1,17 @@
+explained: false
+first: "فَمَضَى وَضَاحِي الْمَاءِ فَوْقَ لَبَانِهِ"
+second: "وَرَمَى بِهَا عُرْضَ السَّرِيِّ يَعُومُ"
+vocabulary:
+  - term: "ضَاحِي الْمَاءِ"
+    text: "«أعلاه» [@diwan-labid، ص130]."
+  - term: "لَبَانِهِ"
+    text: "«صدره» [@diwan-labid، ص130]."
+  - term: "عُرْضَ السَّرِيِّ"
+    text: "«السرى: النهر»، و«كذلك عرض السرى كأنه وسطه» [@diwan-labid، ص130]."
+  - term: "يَعُومُ"
+    text: "«يسبح» [@diwan-labid، ص130]."
+sources:
+  - source: "diwan-labid"
+    loc: "ص130"
+    url: "https://archive.org/details/3929pdf/page/n175/mode/1up"
+status: "review"

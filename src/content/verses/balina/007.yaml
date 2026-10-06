@@ -1,0 +1,13 @@
+explained: false
+first: "وَمَا الْبِرُّ إِلَّا مُضْمَرَاتٌ مِنَ التُّقَى"
+second: "وَمَا الْمَالُ إِلَّا مُعْمَرَاتٌ وَدَائِعُ"
+vocabulary:
+  - term: "مُضْمَرَاتٌ"
+    text: "«ما أضمرت» [@diwan-labid، ص169]، أي ما أخفته النفس."
+  - term: "مُعْمَرَاتٌ"
+    text: "في شرح الطوسي: «العرب تقول: هذه الدار لك عمرى أي أنها لك ما عمرت. يقول: فهذا المال لك ما عمرت فإذا مت فلا شيء لك منه، إنما هو وديعة» [@diwan-labid، ص169]."
+sources:
+  - source: "diwan-labid"
+    loc: "ص169"
+    url: "https://archive.org/details/3929pdf/page/n214/mode/1up"
+status: "review"

@@ -1,0 +1,17 @@
+explained: false
+first: "وَإِذَا تُرِيدُ الشَّأْوَ يُدْرِكُ شَأْوَهَا"
+second: "مُعُجٌ كَأَنَّ رَجِيعَهُنَّ عَصِيمُ"
+vocabulary:
+  - term: "الشَّأْوَ"
+    text: "«السبق» [@diwan-labid، ص129]."
+  - term: "مُعُجٌ"
+    text: "«قوائم الحمار. والمعج: عدو سهل لين» [@diwan-labid، ص129]."
+  - term: "رَجِيعَهُنَّ"
+    text: "«عرقهن» [@diwan-labid، ص129]."
+  - term: "عَصِيمُ"
+    text: "«وهو أثر القطران» [@diwan-labid، ص129]، يقول: «كأن اسوداد عرقهن» كذلك [@diwan-labid، ص129]."
+sources:
+  - source: "diwan-labid"
+    loc: "ص129"
+    url: "https://archive.org/details/3929pdf/page/n174/mode/1up"
+status: "review"

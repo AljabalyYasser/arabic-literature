@@ -1,0 +1,15 @@
+explained: false
+first: "عَلَى فَقْدِ الْحَرِيبِ إِذَا اعْتَرَاهَا"
+second: "وَعِنْدَ الْفَضْلِ فِي الْقُحَمِ الْعِظَامِ"
+vocabulary:
+  - term: "الْحَرِيبِ"
+    text: "«وهو الذى قد حرب ماله» [@diwan-labid، ص203]، أي سُلب."
+  - term: "اعْتَرَاهَا"
+    text: "«إذا أتاها» [@diwan-labid، ص203]."
+  - term: "الْقُحَمِ"
+    text: "«الأمور التى يتقحمها. وكل أمر شديد تتقحم عليه فهو قحمة» [@diwan-labid، ص203]."
+sources:
+  - source: "diwan-labid"
+    loc: "ص203"
+    url: "https://archive.org/details/3929pdf/page/n248/mode/1up"
+status: "review"

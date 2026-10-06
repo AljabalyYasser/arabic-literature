@@ -1,0 +1,17 @@
+explained: false
+first: "غَرْبًا لَجُوجًا فِي الْعِنَانِ إِذَا انْتَحَى"
+second: "زَبَدٌ عَلَى أَقْرَابِهِ وَحَمِيمُ"
+vocabulary:
+  - term: "غَرْبًا"
+    text: "«الفرس الحديد الخفيف» [@diwan-labid، ص132]."
+  - term: "انْتَحَى"
+    text: "«إذا اعتمد» [@diwan-labid، ص132]."
+  - term: "أَقْرَابِهِ"
+    text: "«خواصره» [@diwan-labid، ص132]."
+  - term: "زَبَدٌ ... وَحَمِيمُ"
+    text: "«هذا من العرق كله» [@diwan-labid، ص132]."
+sources:
+  - source: "diwan-labid"
+    loc: "ص132"
+    url: "https://archive.org/details/3929pdf/page/n177/mode/1up"
+status: "review"

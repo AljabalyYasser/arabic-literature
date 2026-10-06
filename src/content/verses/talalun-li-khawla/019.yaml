@@ -1,0 +1,19 @@
+explained: false
+first: "أَوْ مِسْحَلٌ سَنِقٌ عِضَادَةَ سَمْحَجٍ"
+second: "بِسَرَاتِهَا نَدَبٌ لَهُ وَكُلُومُ"
+vocabulary:
+  - term: "مِسْحَلٌ"
+    text: "«الفحل من الحمر»، و«مسحل: حمار وحش» [@diwan-labid، ص125]."
+  - term: "سَنِقٌ"
+    text: "«بشم»، و«سنق: قد كره الأكل من الشبع» [@diwan-labid، ص125]."
+  - term: "عِضَادَةَ سَمْحَجٍ"
+    text: "«إلى جانب عضد هذه السمحج»، «والسمحج: الأتان الطويلة الظهر» [@diwan-labid، ص125]."
+  - term: "سَرَاتِهَا"
+    text: "«أعلى ظهرها» [@diwan-labid، ص125]."
+  - term: "نَدَبٌ لَهُ وَكُلُومُ"
+    text: "«ندب: خدوش وآثار»، و«كلوم: جراحات من عضه إياها» [@diwan-labid، ص125]."
+sources:
+  - source: "diwan-labid"
+    loc: "ص125"
+    url: "https://archive.org/details/3929pdf/page/n170/mode/1up"
+status: "review"
