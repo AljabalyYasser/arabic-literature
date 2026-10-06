@@ -1,0 +1,20 @@
+explained: false
+first: مَا يُجْعَلُ الجُدُّ الظَّنُونُ الَّذِي
+second: جُنِّبَ صَوْبَ اللَّجِبِ الزَّاخِرِ
+vocabulary:
+- term: الجُدُّ
+  text: 'البئر: «والجُدُّ، بِالضَّمِّ: الْبِئْرُ الَّتِي تَكُونُ فِي مَوْضِعٍ كَثِيرِ الكلإِ» [@lisan، ج3 ص110]، وأنشد صاحب اللسان البيت والذي بعده.'
+- term: الظَّنُونُ
+  text: التي لا يُدرى أفيها ماء أم لا.
+- term: جُنِّبَ
+  text: أُبعد عنه.
+- term: اللَّجِبِ الزَّاخِرِ
+  text: السيل الكثير الصوت والماء.
+sources:
+- source: diwan-asha
+  loc: ص177
+  url: https://archive.org/details/20201023_20201023_0327/page/n175/mode/1up
+- source: lisan
+  loc: ج3 ص110
+  url: https://shamela.ws/book/1687/1552
+status: review

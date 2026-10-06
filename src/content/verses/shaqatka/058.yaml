@@ -1,0 +1,13 @@
+explained: false
+first: فِي مِجْدَلٍ شُيِّدَ بُنْيَانُهُ
+second: يَزِلُّ عَنْهُ ظُفُرُ الطَّائِرِ
+vocabulary:
+- term: مِجْدَلٍ
+  text: 'قصر. يقول المحقق: «المجدل القصر» [@diwan-asha، ص183].'
+- term: يَزِلُّ عَنْهُ ظُفُرُ الطَّائِرِ
+  text: لملاسة حجارته، فلا يستقر عليه الطير.
+sources:
+- source: diwan-asha
+  loc: ص183
+  url: https://archive.org/details/20201023_20201023_0327/page/n181/mode/1up
+status: review

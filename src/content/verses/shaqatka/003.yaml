@@ -1,0 +1,18 @@
+explained: false
+first: دَارٌ لَهَا غَيَّرَ آيَاتِهَا
+second: كُلُّ مُلِثٍّ صَوْبُهُ زَاخِرِ
+vocabulary:
+- term: آيَاتِهَا
+  text: علاماتها.
+- term: مُلِثٍّ
+  text: 'سحاب مقيم دائم المطر، من «وأَلثَّ بِالْمَكَانِ: أَقام بِهِ» [@lisan، ج2 ص183].'
+- term: صَوْبُهُ زَاخِرِ
+  text: مطره كثير.
+sources:
+- source: diwan-asha
+  loc: ص175
+  url: https://archive.org/details/20201023_20201023_0327/page/n174/mode/1up
+- source: lisan
+  loc: ج2 ص183
+  url: https://shamela.ws/book/1687/987
+status: review

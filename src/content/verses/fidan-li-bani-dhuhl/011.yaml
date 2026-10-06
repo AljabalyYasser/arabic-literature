@@ -1,0 +1,23 @@
+explained: false
+first: وَلَمْ يَبْقَ إِلَّا ذَاتُ رَيْعٍ مُفَاضَةٌ
+second: وَأَسْهَلَ مِنْهُمْ عُصْبَةٌ فَأَطَلَّتِ
+vocabulary:
+- term: ذَاتُ رَيْعٍ
+  text: 'درع طويلة الكمين: «ورَيْعُ الدِّرْع: فَضْلُ كُمَّيْها عَلَى أَطراف الأَنامل» [@lisan، ج8 ص138].'
+- term: مُفَاضَةٌ
+  text: 'واسعة سابغة: «دِرْعٌ مُفاضةٌ وَهِيَ السابِغةُ» [@lisan، ج6 ص336].'
+- term: وَأَسْهَلَ
+  text: نزل إلى السهل.
+- term: فَأَطَلَّتِ
+  text: يقول المحقق إنها «من قولهم أطل عليه بالأذى اذا لم يزل له مؤذيا» [@diwan-asha، ص297].
+sources:
+- source: diwan-asha
+  loc: ص297
+  url: https://archive.org/details/20201023_20201023_0327/page/n289/mode/1up
+- source: lisan
+  loc: ج8 ص138
+  url: https://shamela.ws/book/1687/3986
+- source: lisan
+  loc: ج6 ص336
+  url: https://shamela.ws/book/1687/3348
+status: review

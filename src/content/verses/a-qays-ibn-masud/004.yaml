@@ -1,0 +1,20 @@
+explained: false
+first: كَأَنَّكَ لَمْ تَشْهَدْ قَرَابِينَ جَمَّةً
+second: تَعِيثُ ضِبَاعٌ فِيهِمُ وَعَوَاسِلُ
+vocabulary:
+- term: قَرَابِينَ
+  text: 'جمع قُرْبان، وهو ما يُتقرَّب به من الذبائح. يقول المحقق: «يقصد القتلى فى الحروب» [@diwan-asha، ص219].'
+- term: جَمَّةً
+  text: كثيرة.
+- term: تَعِيثُ
+  text: تُفسد وتنهش.
+- term: عَوَاسِلُ
+  text: 'الذئاب: «وَالذِّئْبُ عاسِلٌ، وَالْجَمْعُ العُسَّل والعَوَاسِل» [@lisan، ج11 ص446].'
+sources:
+- source: diwan-asha
+  loc: ص219
+  url: https://archive.org/details/20201023_20201023_0327/page/n215/mode/1up
+- source: lisan
+  loc: ج11 ص446
+  url: https://shamela.ws/book/1687/5624
+status: review

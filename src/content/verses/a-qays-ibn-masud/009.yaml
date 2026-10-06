@@ -1,0 +1,21 @@
+explained: false
+first: لَقَدْ كَانَ فِي شَيْبَانَ لَوْ كُنْتَ رَاضِيًا
+second: قِبَابٌ وَحَيٌّ حِلَّةٌ وَقَنَابِلُ
+vocabulary:
+- term: قِبَابٌ
+  text: خيام ضخمة، جمع قُبّة.
+- term: حِلَّةٌ
+  text: «وحَيٌّ حِلَّة أَي نُزُول وَفِيهِمْ كَثْرَةٌ» [@lisan، ج11 ص164].
+- term: قَنَابِلُ
+  text: '«القَنْبَلة والقَنْبل: طَائِفَةٌ مِنَ النَّاسِ وَمِنَ الْخَيْلِ» [@lisan، ج11 ص569].'
+sources:
+- source: diwan-asha
+  loc: ص219
+  url: https://archive.org/details/20201023_20201023_0327/page/n215/mode/1up
+- source: lisan
+  loc: ج11 ص164
+  url: https://shamela.ws/book/1687/5346
+- source: lisan
+  loc: ج11 ص569
+  url: https://shamela.ws/book/1687/5747
+status: review

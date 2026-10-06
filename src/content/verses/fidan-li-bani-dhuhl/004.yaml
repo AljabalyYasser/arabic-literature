@@ -1,0 +1,15 @@
+explained: false
+first: أَتَتْهُمْ مِنَ البَطْحَاءِ يَبْرُقُ بَيْضُهَا
+second: وَقَدْ رُفِعَتْ رَايَاتُهَا فَاسْتَقَلَّتِ
+vocabulary:
+- term: البَطْحَاءِ
+  text: موضع، وهو عند المحقق من المواضع التي قرب الكوفة حيث جرت المعركة [@diwan-asha، ص295].
+- term: بَيْضُهَا
+  text: خُوَذ الحديد، جمع بَيْضة.
+- term: فَاسْتَقَلَّتِ
+  text: فارتفعت.
+sources:
+- source: diwan-asha
+  loc: ص295
+  url: https://archive.org/details/20201023_20201023_0327/page/n287/mode/1up
+status: review

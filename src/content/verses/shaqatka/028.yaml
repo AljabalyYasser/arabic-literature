@@ -1,0 +1,18 @@
+explained: false
+first: وَلَسْتَ فِي الأَثْرَيْنَ مِنْ مَالِكٍ
+second: وَلَا أَبِي بَكْرٍ ذَوِي النَّاصِرِ
+vocabulary:
+- term: الأَثْرَيْنَ
+  text: الأكثرين مالًا.
+- term: مَالِكٍ
+  text: بنو مالك بن جعفر، رهط عامر، كما في شجرة النسب التي رسمها المحقق [@diwan-asha، ص174].
+- term: أَبِي بَكْرٍ
+  text: 'يقول المحقق: «ابو بكر هم بنو ابى بكر بن كلاب بن ربيعة بن عامر بن صعصعة» [@diwan-asha، ص179].'
+sources:
+- source: diwan-asha
+  loc: ص179
+  url: https://archive.org/details/20201023_20201023_0327/page/n178/mode/1up
+- source: diwan-asha
+  loc: ص174
+  url: https://archive.org/details/20201023_20201023_0327/page/n171/mode/1up
+status: review

@@ -1,0 +1,19 @@
+explained: false
+first: وَاسْمَعْ فَإِنِّي طَبِنٌ عَالِمٌ
+second: أَقْطَعُ مِنْ شِقْشِقَةِ الهَادِرِ
+vocabulary:
+- term: طَبِنٌ
+  text: 'فطن: «الطَّبَنُ، بِالتَّحْرِيكِ: الفِطْنَةُ» [@lisan، ج13 ص263].'
+- term: شِقْشِقَةِ الهَادِرِ
+  text: «الشِّقْشِقةُ جِلْدَةٌ فِي حَلْقِ الْجَمَلِ الْعَرَبِيِّ يَنْفُخُ فِيهَا الرِّيحَ فَتَنْتَفِخُ فَيَهْدِرُ فِيهَا» [@lisan، ج10 ص185]، يريد أنه يُسكت المتشدّق.
+sources:
+- source: diwan-asha
+  loc: ص181
+  url: https://archive.org/details/20201023_20201023_0327/page/n179/mode/1up
+- source: lisan
+  loc: ج13 ص263
+  url: https://shamela.ws/book/1687/6824
+- source: lisan
+  loc: ج10 ص185
+  url: https://shamela.ws/book/1687/4855
+status: review

@@ -61,7 +61,7 @@ sources:
     note: "المطلع وخبر كسرى."
   - source: "deif"
     loc: "ج1 ص336، ص340، ص344–345"
-    url: "https://shamela.ws/book/11996/340"
+    url: "https://shamela.ws/book/11996/336"
     note: "روايتها، وشكه في قسم المواعظ منها، ورأيه في خبر كسرى."
 status: "review"
 ---

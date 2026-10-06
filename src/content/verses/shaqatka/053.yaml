@@ -1,0 +1,22 @@
+explained: false
+first: وَكُلِّ جَوْبٍ مُتْرَصٍ صُنْعُهُ
+second: وَصَارِمٍ ذِي رَوْنَقٍ بَاتِرِ
+vocabulary:
+- term: جَوْبٍ
+  text: تُرس.
+- term: مُتْرَصٍ
+  text: 'مُحكم: «التَّرِيصُ: المحكمُ، تَرُصَ الشيءُ تَراصةً، فَهُوَ مُتْرَصٌ وتَرِيص» [@lisan، ج7 ص10].'
+- term: وَصَارِمٍ
+  text: وسيف قاطع.
+- term: رَوْنَقٍ
+  text: بريق السيف وماؤه.
+- term: بَاتِرِ
+  text: قاطع.
+sources:
+- source: diwan-asha
+  loc: ص183
+  url: https://archive.org/details/20201023_20201023_0327/page/n181/mode/1up
+- source: lisan
+  loc: ج7 ص10
+  url: https://shamela.ws/book/1687/3393
+status: review

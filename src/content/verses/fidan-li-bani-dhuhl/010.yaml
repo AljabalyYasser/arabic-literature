@@ -1,0 +1,18 @@
+explained: false
+first: سَوَابِغُهُمْ بِيضٌ خِفَافٌ وَفَوْقَهُمْ
+second: مِنَ البِيضِ أَمْثَالُ النُّجُومِ اسْتَقَلَّتِ
+vocabulary:
+- term: سَوَابِغُهُمْ
+  text: 'دروعهم التامة الطويلة: «دِرْعٌ مُفاضةٌ وَهِيَ السابِغةُ» [@lisan، ج6 ص336].'
+- term: مِنَ البِيضِ
+  text: من الخُوَذ.
+- term: اسْتَقَلَّتِ
+  text: ارتفعت.
+sources:
+- source: diwan-asha
+  loc: ص297
+  url: https://archive.org/details/20201023_20201023_0327/page/n289/mode/1up
+- source: lisan
+  loc: ج6 ص336
+  url: https://shamela.ws/book/1687/3348
+status: review

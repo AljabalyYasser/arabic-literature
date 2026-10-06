@@ -1,0 +1,23 @@
+explained: false
+first: كَمْ فِيهِمُ مِنْ شَطْبَةٍ خَيْفَقٍ
+second: وَسَابِحٍ ذِي مَيْعَةٍ ضَابِرِ
+vocabulary:
+- term: شَطْبَةٍ خَيْفَقٍ
+  text: فرس طويلة سريعة.
+- term: وَسَابِحٍ
+  text: «وَكَذَلِكَ السَّابِحُ مِنَ الْخَيْلِ يَمُدُّ يَدَيْهِ فِي الْجَرْيِ سَبْحاً» [@lisan، ج2 ص471]، وأنشد صاحب اللسان البيت.
+- term: مَيْعَةٍ
+  text: نشاط وسرعة.
+- term: ضَابِرِ
+  text: '«ضَبَرَ الفَرَسُ يَضْبُر ضَبْراً وضَبَراناً إِذا عَدَا، وَفِي الْمُحْكَمِ: جَمَع قَوَائِمَهُ ووَثَبَ» [@lisan، ج4 ص479].'
+sources:
+- source: diwan-asha
+  loc: ص183
+  url: https://archive.org/details/20201023_20201023_0327/page/n181/mode/1up
+- source: lisan
+  loc: ج2 ص471
+  url: https://shamela.ws/book/1687/1275
+- source: lisan
+  loc: ج4 ص479
+  url: https://shamela.ws/book/1687/2439
+status: review

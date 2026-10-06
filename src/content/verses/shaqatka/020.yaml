@@ -1,0 +1,17 @@
+explained: false
+first: مِثْلَ الفُرَاتِيِّ إِذَا مَا طَمَا
+second: يَقْذِفُ بِالبُوصِيِّ وَالمَاهِرِ
+vocabulary:
+- term: الفُرَاتِيِّ
+  text: نهر الفرات.
+- term: طَمَا
+  text: ارتفع ماؤه.
+- term: بِالبُوصِيِّ
+  text: 'بالسفينة. يقول المحقق: «البوصى السفين» [@diwan-asha، ص177].'
+- term: وَالمَاهِرِ
+  text: والسابح الحاذق.
+sources:
+- source: diwan-asha
+  loc: ص177
+  url: https://archive.org/details/20201023_20201023_0327/page/n175/mode/1up
+status: review

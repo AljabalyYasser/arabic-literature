@@ -1,0 +1,18 @@
+explained: false
+first: عَلَى كُلِّ مَحْبُوكِ السَّرَاةِ كَأَنَّهُ
+second: عُقَابٌ هَوَتْ مِنْ مَرْقَبٍ إِذْ تَعَلَّتِ
+vocabulary:
+- term: مَحْبُوكِ السَّرَاةِ
+  text: 'فرس مُحكم الظهر، والسَّراة: الظهر. «إِنه لمَحْبُوك الْمَتْنِ والعَجُز إِذا كَانَ فِيهِ اسْتِوَاءٌ مَعَ ارْتِفَاعٍ» [@lisan، ج10 ص408]، وأنشد صاحب اللسان البيت.'
+- term: مَرْقَبٍ
+  text: موضع مرتفع يُرقب منه.
+- term: تَعَلَّتِ
+  text: ارتفعت.
+sources:
+- source: diwan-asha
+  loc: ص297
+  url: https://archive.org/details/20201023_20201023_0327/page/n289/mode/1up
+- source: lisan
+  loc: ج10 ص408
+  url: https://shamela.ws/book/1687/5077
+status: review

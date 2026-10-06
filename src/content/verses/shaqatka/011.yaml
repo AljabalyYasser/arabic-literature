@@ -1,0 +1,15 @@
+explained: false
+first: قَدْ نَهَدَ الثَّدْيُ عَلَى صَدْرِهَا
+second: فِي مُشْرِقٍ ذِي صَبَحٍ نَائِرِ
+vocabulary:
+- term: نَهَدَ
+  text: برز.
+- term: صَبَحٍ
+  text: 'يقول المحقق: «الصبح بريق الحديد والحلى» [@diwan-asha، ص175].'
+- term: نَائِرِ
+  text: مضيء.
+sources:
+- source: diwan-asha
+  loc: ص175
+  url: https://archive.org/details/20201023_20201023_0327/page/n174/mode/1up
+status: review

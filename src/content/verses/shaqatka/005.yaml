@@ -1,0 +1,17 @@
+explained: false
+first: كَدُمْيَةٍ صُوِّرَ مِحْرَابُهَا
+second: بِمُذْهَبٍ فِي مَرْمَرٍ مَائِرِ
+vocabulary:
+- term: كَدُمْيَةٍ
+  text: كصورة منقوشة.
+- term: مِحْرَابُهَا
+  text: صدر البيت الذي هي فيه.
+- term: بِمُذْهَبٍ
+  text: بما طُلي بالذهب.
+- term: مَائِرِ
+  text: 'يقول المحقق: «والمرمر مائر اى براق يتموج لجودة صقله» [@diwan-asha، ص175].'
+sources:
+- source: diwan-asha
+  loc: ص175
+  url: https://archive.org/details/20201023_20201023_0327/page/n174/mode/1up
+status: review

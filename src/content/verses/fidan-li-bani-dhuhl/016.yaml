@@ -1,0 +1,18 @@
+explained: false
+first: وَأَفْلَتَهُمْ قَيْسٌ فَقُلْتُ لَعَلَّهُ
+second: يَبِلُّ لَئِنْ كَانَتْ بِهِ النَّعْلُ زَلَّتِ
+vocabulary:
+- term: وَأَفْلَتَهُمْ قَيْسٌ
+  text: نجا منهم، وهو عند المحقق قيس بن مسعود [@diwan-asha، ص297].
+- term: يَبِلُّ
+  text: 'يبرأ ويسلم، يقال بَلَّ من مرضه وأَبَلَّ: «والبَلِيلة: الصِّحَّة مِنْ أَبَلَّ مِنْ مَرَضه أَي صَحَّ» [@lisan، ج11 ص630].'
+- term: كَانَتْ بِهِ النَّعْلُ زَلَّتِ
+  text: أخطأ وعثر.
+sources:
+- source: diwan-asha
+  loc: ص297
+  url: https://archive.org/details/20201023_20201023_0327/page/n289/mode/1up
+- source: lisan
+  loc: ج11 ص630
+  url: https://shamela.ws/book/1687/5808
+status: review

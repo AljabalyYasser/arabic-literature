@@ -1,0 +1,21 @@
+explained: false
+first: أَوْ بَيْضَةٍ فِي الدِّعْصِ مَكْنُونَةٍ
+second: أَوْ دُرَّةٍ شِيفَتْ لَدَى تَاجِرِ
+vocabulary:
+- term: الدِّعْصِ
+  text: '«الدِّعصُ: قُورٌ مِنَ الرَّمْلِ مُجْتَمِعٌ» [@lisan، ج7 ص35].'
+- term: مَكْنُونَةٍ
+  text: مستورة مصونة.
+- term: شِيفَتْ
+  text: 'جُليت: «شافَ الشيءَ شَوْفاً: جَلَاهُ» [@lisan، ج9 ص184].'
+sources:
+- source: diwan-asha
+  loc: ص175
+  url: https://archive.org/details/20201023_20201023_0327/page/n174/mode/1up
+- source: lisan
+  loc: ج7 ص35
+  url: https://shamela.ws/book/1687/3418
+- source: lisan
+  loc: ج9 ص184
+  url: https://shamela.ws/book/1687/4491
+status: review

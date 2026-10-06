@@ -1,0 +1,27 @@
+explained: false
+first: وَقَدْ شَمَّرَتْ بِالنَّاسِ شَمْطَاءُ لَاقِحٌ
+second: عَوَانٌ شَدِيدٌ هَمْزُهَا فَأَضَلَّتِ
+vocabulary:
+- term: شَمَّرَتْ
+  text: جدّت واشتدت.
+- term: شَمْطَاءُ
+  text: التي خالط بياضُ شعرها سواده، يجعل الحرب عجوزًا.
+- term: لَاقِحٌ
+  text: '«وحَرْب لاقحٌ: مَثَّلَ بالأُنثى الْحَامِلِ» [@lisan، ج2 ص583]، وأنشد صاحب اللسان البيت.'
+- term: عَوَانٌ
+  text: حرب قوتل فيها مرة بعد مرة.
+- term: هَمْزُهَا
+  text: ضغطها وعصرها.
+- term: فَأَضَلَّتِ
+  text: 'فدفنت من دفنت: «وأَضْلَلْت المَيِّتَ دَفَنْته» [@lisan، ج11 ص391].'
+sources:
+- source: diwan-asha
+  loc: ص295
+  url: https://archive.org/details/20201023_20201023_0327/page/n287/mode/1up
+- source: lisan
+  loc: ج2 ص583
+  url: https://shamela.ws/book/1687/1387
+- source: lisan
+  loc: ج11 ص391
+  url: https://shamela.ws/book/1687/5569
+status: review

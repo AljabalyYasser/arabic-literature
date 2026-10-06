@@ -1,0 +1,19 @@
+explained: false
+first: أَجَذَعًا تُوعِدُنِي سَادِرًا
+second: لَسْتَ عَلَى الأَعْدَاءِ بِالقَادِرِ
+vocabulary:
+- term: أَجَذَعًا
+  text: 'أشابًّا غِرًّا: «الجَذَعُ: الصَّغِيرُ السِّنِّ» [@lisan، ج8 ص43].'
+- term: سَادِرًا
+  text: '«والسادِرُ: الْمُتَحَيِّرُ» [@lisan، ج4 ص355].'
+sources:
+- source: diwan-asha
+  loc: ص181
+  url: https://archive.org/details/20201023_20201023_0327/page/n179/mode/1up
+- source: lisan
+  loc: ج8 ص43
+  url: https://shamela.ws/book/1687/3891
+- source: lisan
+  loc: ج4 ص355
+  url: https://shamela.ws/book/1687/2315
+status: review

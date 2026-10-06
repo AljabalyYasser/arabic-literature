@@ -1,0 +1,16 @@
+explained: false
+first: فَجَادَتْ عَلَى الهَامَرْزِ وَسْطَ بُيُوتِهِمْ
+second: شَآبِيبُ مَوْتٍ أَسْبَلَتْ وَاسْتَهَلَّتِ
+vocabulary:
+- term: شَآبِيبُ
+  text: '«الشَّآبِيبُ مِن المَطر: الدُّفعاتُ» [@lisan، ج1 ص479].'
+- term: أَسْبَلَتْ وَاسْتَهَلَّتِ
+  text: هطلت واشتد انصبابها.
+sources:
+- source: diwan-asha
+  loc: ص297
+  url: https://archive.org/details/20201023_20201023_0327/page/n289/mode/1up
+- source: lisan
+  loc: ج1 ص479
+  url: https://shamela.ws/book/1687/479
+status: review

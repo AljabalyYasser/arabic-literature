@@ -1,0 +1,21 @@
+explained: false
+first: مِنْ كُلِّ كَوْمَاءَ سَحُوفٍ إِذَا
+second: جَفَّتْ مِنَ اللَّحْمِ مُدَى الجَازِرِ
+vocabulary:
+- term: كَوْمَاءَ
+  text: '«وَنَاقَةٌ كَوْمَاء: عَظيمة السَّنام طَوِيلَتُهُ» [@lisan، ج12 ص529].'
+- term: سَحُوفٍ
+  text: '«وَنَاقَةٌ سَحُوفٌ: كَثِيرَةُ السَّحائف. والسَّحْفةُ: الشَّحْمةُ عامَّةً» [@lisan، ج9 ص145].'
+- term: مُدَى الجَازِرِ
+  text: سكاكين الذابح، جمع مُدْية.
+sources:
+- source: diwan-asha
+  loc: ص181
+  url: https://archive.org/details/20201023_20201023_0327/page/n179/mode/1up
+- source: lisan
+  loc: ج12 ص529
+  url: https://shamela.ws/book/1687/6442
+- source: lisan
+  loc: ج9 ص145
+  url: https://shamela.ws/book/1687/4452
+status: review

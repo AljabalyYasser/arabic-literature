@@ -1,0 +1,18 @@
+explained: false
+first: شَاقَتْكَ مِنْ قَتْلَةَ أَطْلَالُهَا
+second: بِالشَّطِّ فَالوِتْرِ إِلَى حَاجِرِ
+vocabulary:
+- term: شَاقَتْكَ
+  text: هاجت شوقك.
+- term: قَتْلَةَ
+  text: 'اسم صاحبته: «والقَتُول وقَتْلَة: اسْمَانِ؛ وإِياها عَنَى الأَعشى» [@lisan، ج11 ص552]، ثم أنشد البيت.'
+- term: بِالشَّطِّ فَالوِتْرِ إِلَى حَاجِرِ
+  text: مواضع.
+sources:
+- source: diwan-asha
+  loc: ص175
+  url: https://archive.org/details/20201023_20201023_0327/page/n174/mode/1up
+- source: lisan
+  loc: ج11 ص552
+  url: https://shamela.ws/book/1687/5730
+status: review

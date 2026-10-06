@@ -1,0 +1,15 @@
+explained: false
+first: أَمِنْ جَبَلِ الأَمْرَارِ صُرَّتْ خِيَامُكُمْ
+second: عَلَى نَبَإٍ أَنَّ الأَشَافِيَّ سَائِلُ
+vocabulary:
+- term: جَبَلِ الأَمْرَارِ
+  text: 'موضع. يقول المحقق: «الأمرار جبال» [@diwan-asha، ص219].'
+- term: صُرَّتْ
+  text: شُدّت وجُمعت للرحيل.
+- term: الأَشَافِيَّ سَائِلُ
+  text: 'وادٍ سال بالمطر. يقول المحقق: «الأشافى واد فى بلاد بنى شيبان» [@diwan-asha، ص219].'
+sources:
+- source: diwan-asha
+  loc: ص219
+  url: https://archive.org/details/20201023_20201023_0327/page/n215/mode/1up
+status: review

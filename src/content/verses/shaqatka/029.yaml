@@ -1,0 +1,20 @@
+explained: false
+first: هُمْ هَامَةُ الحَيِّ إِذَا حُصِّلُوا
+second: مِنْ جَعْفَرٍ فِي السُّؤْدَدِ القَاهِرِ
+vocabulary:
+- term: هَامَةُ
+  text: الرأس.
+- term: حُصِّلُوا
+  text: مُيّزوا.
+- term: جَعْفَرٍ
+  text: بنو جعفر بن كلاب، ومنهم عامر وعلقمة [@diwan-asha، ص174].
+- term: السُّؤْدَدِ
+  text: السيادة.
+sources:
+- source: diwan-asha
+  loc: ص179
+  url: https://archive.org/details/20201023_20201023_0327/page/n178/mode/1up
+- source: diwan-asha
+  loc: ص174
+  url: https://archive.org/details/20201023_20201023_0327/page/n171/mode/1up
+status: review

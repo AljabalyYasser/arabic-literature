@@ -1,0 +1,15 @@
+explained: false
+first: تَنَاهَتْ بَنُو الأَحْرَارِ إِذْ صَبَرَتْ لَهُمْ
+second: فَوَارِسُ مِنْ شَيْبَانَ غُلْبٌ فَوَلَّتِ
+vocabulary:
+- term: تَنَاهَتْ
+  text: كفّت.
+- term: بَنُو الأَحْرَارِ
+  text: 'يقول المحقق: «بنو الأحرار هم الفرس» [@diwan-asha، ص297].'
+- term: غُلْبٌ
+  text: غلاظ الرقاب، جمع أغلب.
+sources:
+- source: diwan-asha
+  loc: ص297
+  url: https://archive.org/details/20201023_20201023_0327/page/n289/mode/1up
+status: review

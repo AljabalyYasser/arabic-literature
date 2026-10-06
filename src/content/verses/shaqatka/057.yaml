@@ -1,0 +1,19 @@
+explained: false
+first: شَتَّانَ مَا يَوْمِي عَلَى كُورِهَا
+second: وَيَوْمُ حَيَّانَ أَخِي جَابِرِ
+vocabulary:
+- term: شَتَّانَ مَا
+  text: 'ما أبعد ما بين، وأنشد صاحب اللسان البيت وقال: «مَعْنَاهُ: تَباعَدَ الَّذِي بَيْنَهُمَا» [@lisan، ج2 ص49].'
+- term: كُورِهَا
+  text: 'رحلها: «الكُورُ، بِالضَّمِّ: الرَّحْلُ، وَقِيلَ: الرَّحْلُ بأَداته» [@lisan، ج5 ص154].'
+sources:
+- source: diwan-asha
+  loc: ص183
+  url: https://archive.org/details/20201023_20201023_0327/page/n181/mode/1up
+- source: lisan
+  loc: ج2 ص49
+  url: https://shamela.ws/book/1687/853
+- source: lisan
+  loc: ج5 ص154
+  url: https://shamela.ws/book/1687/2738
+status: review

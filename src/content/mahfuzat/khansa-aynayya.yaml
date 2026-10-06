@@ -1,0 +1,15 @@
+kind: "bayt"
+title: "أعينيّ جودا ولا تجمدا"
+part: "1"
+order: 3
+person: "al-khansa"
+lines:
+  - first: "أَعَيْنَيَّ جُودَا وَلَا تَجْمُدَا"
+    second: "أَلَا تَبْكِيَانِ لِصَخْرِ النَّدَى"
+meaning: "تنادي عينيها أن تجودا بالدمع ولا تجفّا، على صخر الكريم. غُنّي فافتتح به أبو الفَرَج ترجمتها في الأغاني [@aghani-dk، ج15 ص75]، وقدّم المُبَرِّد قصيدته بقوله «ومن حسن شعرها قولها» [@kamil، ج4 ص41]."
+chapter: "al-khansa/marathi-ukhra"
+sources:
+  - source: "diwan-khansa"
+    loc: "ص143"
+    url: "https://archive.org/details/3318pdf_202001/page/n142/mode/1up"
+status: "review"

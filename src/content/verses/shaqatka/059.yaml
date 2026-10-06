@@ -1,0 +1,23 @@
+explained: false
+first: يَجْمَعُ خَضْرَاءَ لَهَا سَوْرَةٌ
+second: تَعْصِفُ بِالدَّارِعِ وَالحَاسِرِ
+vocabulary:
+- term: خَضْرَاءَ
+  text: 'كتيبة سوداء من كثرة الحديد. يقول المحقق: «خضراء كتيبة يعلوها الحديد فهى خضراء، والعرب تسمى الأسود أخضر احيانا» [@diwan-asha، ص183].'
+- term: سَوْرَةٌ
+  text: 'حِدّة: «سَوْرَةُ الخمرِ وَغَيْرِهَا وسُوَارُها: حِدَّتُها» [@lisan، ج4 ص384].'
+- term: تَعْصِفُ
+  text: '«والحَرب تَعْصِف بِالْقَوْمِ: تَذهَب بِهِمْ وتُهْلِكُهم» [@lisan، ج9 ص249].'
+- term: بِالدَّارِعِ وَالحَاسِرِ
+  text: بلابس الدرع ومن لا درع عليه.
+sources:
+- source: diwan-asha
+  loc: ص183
+  url: https://archive.org/details/20201023_20201023_0327/page/n181/mode/1up
+- source: lisan
+  loc: ج4 ص384
+  url: https://shamela.ws/book/1687/2344
+- source: lisan
+  loc: ج9 ص249
+  url: https://shamela.ws/book/1687/4556
+status: review

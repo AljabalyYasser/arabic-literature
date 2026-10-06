@@ -1,0 +1,19 @@
+explained: false
+first: فَهَانَ عَلَيْنَا أَنْ تَجِفَّ وِطَابُكُمْ
+second: إِذَا حُنِيَتْ فِيهَا لَدَيْهِ الزَّوَاجِلُ
+vocabulary:
+- term: وِطَابُكُمْ
+  text: 'أسقية لبنكم: «الوَطْبُ: سِقاءُ اللبنِ» [@lisan، ج1 ص797]. وجفافها كناية عن الهلاك، يقول المحقق: «جفت وطابه وصفرت كذلك أى مات» [@diwan-asha، ص219].'
+- term: الزَّوَاجِلُ
+  text: جمع زاجِل، وهو «الْعُودُ الَّذِي يَكُونُ فِي طَرَف الْحَبْلِ الَّذِي تُشَدُّ بِهِ القِرْبة» [@lisan، ج11 ص302].
+sources:
+- source: diwan-asha
+  loc: ص219
+  url: https://archive.org/details/20201023_20201023_0327/page/n215/mode/1up
+- source: lisan
+  loc: ج1 ص797
+  url: https://shamela.ws/book/1687/797
+- source: lisan
+  loc: ج11 ص302
+  url: https://shamela.ws/book/1687/5482
+status: review

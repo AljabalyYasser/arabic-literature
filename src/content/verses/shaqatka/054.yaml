@@ -1,0 +1,20 @@
+explained: false
+first: وَكُلِّ مِرْنَانٍ لَهُ أَزْمَلٌ
+second: وَلَيِّنٍ أَكْعُبُهُ حَادِرِ
+vocabulary:
+- term: مِرْنَانٍ
+  text: 'قوس تُصوّت إذا رُمي عنها: «وَقَوْسٌ مُرِنٌّ ومِرْنانٌ» [@lisan، ج13 ص187].'
+- term: أَزْمَلٌ
+  text: صوت.
+- term: وَلَيِّنٍ أَكْعُبُهُ
+  text: ورمح ليّن، وكعوبه عُقَد قناته.
+- term: حَادِرِ
+  text: غليظ.
+sources:
+- source: diwan-asha
+  loc: ص183
+  url: https://archive.org/details/20201023_20201023_0327/page/n181/mode/1up
+- source: lisan
+  loc: ج13 ص187
+  url: https://shamela.ws/book/1687/6748
+status: review
