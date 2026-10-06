@@ -1,0 +1,16 @@
+explained: false
+first: "قَدَّمُوا إِذْ قَالَ قَيْسٌ قَدِّمُوا"
+second: "وَاحْفَظُوا الْمَجْدَ بِأَطْرَافِ الْأَسَلْ"
+vocabulary:
+  - term: "قَدَّمُوا"
+    text: "تقدّموا: «وَقَالَ لَبِيدٌ فِي قَدَّم بِمَعْنَى تَقدَّم» [@lisan، ج12 ص468]."
+  - term: "الْأَسَلْ"
+    text: "الرماح."
+sources:
+  - source: "diwan-labid"
+    loc: "ص192"
+    url: "https://archive.org/details/3929pdf/page/n237/mode/1up"
+  - source: "lisan"
+    loc: "ج12 ص468"
+    url: "https://shamela.ws/book/1687/6381"
+status: "review"

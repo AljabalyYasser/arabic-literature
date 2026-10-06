@@ -1,0 +1,19 @@
+explained: false
+first: "وَلَقَدْ يَعْلَمُ صَحْبِي كُلُّهُمْ"
+second: "بِعَدَانِ السِّيفِ صَبْرِي وَنَقَلْ"
+vocabulary:
+  - term: "بِعَدَانِ السِّيفِ"
+    text: "موضع على ساحل البحر؛ وفي اللسان: «والعدانُ: أَرض بِعَيْنِهَا مِنْ ذَلِكَ؛ وأَما قَوْلُ لَبِيدِ بْنِ رَبِيعَةَ الْعَامِرِيِّ» [@lisan، ج13 ص280]."
+  - term: "نَقَلْ"
+    text: "«أَبو عُبَيْدٍ: النَّقَل المُناقَلة فِي المنطِق» [@lisan، ج11 ص676]، أي مراجعة الكلام."
+sources:
+  - source: "diwan-labid"
+    loc: "ص186"
+    url: "https://archive.org/details/3929pdf/page/n231/mode/1up"
+  - source: "lisan"
+    loc: "ج13 ص280"
+    url: "https://shamela.ws/book/1687/6841"
+  - source: "lisan"
+    loc: "ج11 ص676"
+    url: "https://shamela.ws/book/1687/5854"
+status: "review"

@@ -1,0 +1,18 @@
+explained: false
+first: "وَالْهَبَانِيقُ قِيَامٌ مَعَهُمْ"
+second: "كُلُّ مَحْجُومٍ إِذَا صُبَّ هَمَلْ"
+vocabulary:
+  - term: "الْهَبَانِيقُ"
+    text: "«الهُبْنقُ والهُبْنُوق والهَبَيْنَقُ والهَبْنيق: الوَصِيفُ؛ قَالَ لَبِيدٌ» [@lisan، ج10 ص365]."
+  - term: "مَحْجُومٍ"
+    text: "إبريق مسدود الفم؛ ينقل المحقق عن ابن قتيبة: «محجوم: إبريق عليه فدام»، ويرويه صاحب اللسان «ملثوم» [@diwan-labid، ص196]."
+  - term: "هَمَلْ"
+    text: "فاض."
+sources:
+  - source: "diwan-labid"
+    loc: "ص196"
+    url: "https://archive.org/details/3929pdf/page/n241/mode/1up"
+  - source: "lisan"
+    loc: "ج10 ص365"
+    url: "https://shamela.ws/book/1687/5034"
+status: "review"

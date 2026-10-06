@@ -1,0 +1,16 @@
+explained: false
+first: "فِي قُرُومٍ سَادَةٍ مِنْ قَوْمِهِ"
+second: "نَظَرَ الدَّهْرُ إِلَيْهِمْ فَابْتَهَلْ"
+vocabulary:
+  - term: "قُرُومٍ"
+    text: "سادة، وأصل القَرْم الفحل من الإبل."
+  - term: "فَابْتَهَلْ"
+    text: "يقول المحقق: «ابتهل: سبّح، أو وقف متضرعاً، أي أنه وقف معجباً وهو ينظر إليهم» [@diwan-labid، ص198]."
+sources:
+  - source: "diwan-labid"
+    loc: "ص197"
+    url: "https://archive.org/details/3929pdf/page/n242/mode/1up"
+  - source: "diwan-labid"
+    loc: "ص198"
+    url: "https://archive.org/details/3929pdf/page/n243/mode/1up"
+status: "review"

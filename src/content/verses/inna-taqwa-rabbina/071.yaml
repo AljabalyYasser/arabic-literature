@@ -1,0 +1,16 @@
+explained: false
+first: "إِذْ دَعَتْنِي عَامِرٌ أَنْصُرُهَا"
+second: "فَالْتَقَى الْأَلْسُنُ كَالنَّبْلِ الدُّوَلْ"
+vocabulary:
+  - term: "عَامِرٌ"
+    text: "بنو عامر بن صعصعة، قوم لبيد."
+  - term: "الدُّوَلْ"
+    text: "يقول المحقق: «النبل الدول: التي تتداول» [@diwan-labid، ص194]، من «الدَّوْلةُ والدُّولةُ: العُقْبة فِي الْمَالِ والحَرْب سَواء» [@lisan، ج11 ص252]."
+sources:
+  - source: "diwan-labid"
+    loc: "ص194"
+    url: "https://archive.org/details/3929pdf/page/n239/mode/1up"
+  - source: "lisan"
+    loc: "ج11 ص252"
+    url: "https://shamela.ws/book/1687/5432"
+status: "review"

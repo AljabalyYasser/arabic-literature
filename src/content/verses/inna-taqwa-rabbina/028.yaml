@@ -1,0 +1,23 @@
+explained: false
+first: "وَمَجُودٍ مِنْ صُبَابَاتِ الْكَرَى"
+second: "عَاطِفِ النُّمْرُقِ صَدْقِ الْمُبْتَذَلْ"
+vocabulary:
+  - term: "وَمَجُودٍ"
+    text: "«والمجود: الَّذِي جاده النعاس وألح عَلَيْهِ حَتَّى أَخذه فَنَامَ» [@khizana، ج3 ص368]."
+  - term: "صُبَابَاتِ الْكَرَى"
+    text: "«فَإِن الْكرَى النّوم وصبابته بَقِيَّته» [@khizana، ج3 ص369]."
+  - term: "عَاطِفِ النُّمْرُقِ"
+    text: "«يُرِيد: عطف نمرقته وثناها فَنَامَ. والنمرقة مُثَلّثَة النُّون: الوسادة والطنفسة فَوق الرحل» [@khizana، ج3 ص369]."
+  - term: "صَدْقِ الْمُبْتَذَلْ"
+    text: "«أَي: جلد قوي لَا يُغير عِنْد ابتذاله نَفسه» [@khizana، ج3 ص369]."
+sources:
+  - source: "diwan-labid"
+    loc: "ص181"
+    url: "https://archive.org/details/3929pdf/page/n226/mode/1up"
+  - source: "khizana"
+    loc: "ج3 ص368"
+    url: "https://shamela.ws/book/12732/1302"
+  - source: "khizana"
+    loc: "ج3 ص369"
+    url: "https://shamela.ws/book/12732/1303"
+status: "review"

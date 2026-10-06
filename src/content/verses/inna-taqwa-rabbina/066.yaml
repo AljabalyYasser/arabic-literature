@@ -1,0 +1,19 @@
+explained: false
+first: "لَيْلَةَ الْعُرْقُوبِ لَمَّا غَامَرَتْ"
+second: "جَعْفَرٌ تُدْعَى وَرَهْطُ ابْنِ شَكَلْ"
+vocabulary:
+  - term: "الْعُرْقُوبِ"
+    text: "ينقل المحقق عن البَكْري: «العرقوب: من ديار خثعم أغارت فيه بنو كلاب عليهم فقتلوا يومئذ أشراف خثعم» [@diwan-labid، ص193]. وفي اللسان أن العرب تذكر الأيام للوقائع، «وإِذا كَانَتْ لَيْلًا ذكرُوها كَقَوْلِهِ» وأنشد البيت [@lisan، ج12 ص651]."
+  - term: "غَامَرَتْ"
+    text: "دخلت غمرة القتال: «وَشُجَاعٌ مُغامِرٌ: يَغْشَى غَمَراتِ الْمَوْتِ» [@lisan، ج5 ص30]."
+sources:
+  - source: "diwan-labid"
+    loc: "ص193"
+    url: "https://archive.org/details/3929pdf/page/n238/mode/1up"
+  - source: "lisan"
+    loc: "ج12 ص651"
+    url: "https://shamela.ws/book/1687/6564"
+  - source: "lisan"
+    loc: "ج5 ص30"
+    url: "https://shamela.ws/book/1687/2614"
+status: "review"

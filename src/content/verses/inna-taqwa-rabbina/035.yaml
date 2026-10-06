@@ -1,0 +1,19 @@
+explained: false
+first: "طَامِيَ الْعَرْمَضِ لَا عَهْدَ لَهُ"
+second: "بِأَنِيسٍ بَعْدَ حَوْلٍ قَدْ كَمَلْ"
+vocabulary:
+  - term: "طَامِيَ"
+    text: "«طَمَا الماءُ يَطْمُو طُمُوًّا ويَطْمِي طُمِيّاً: ارْتَفَعَ وعَلا» [@lisan، ج15 ص15]. ويقول المحقق إنه صفة لموصوف محذوف: «تقديره ماء أو غدير أو منهل» [@diwan-labid، ص184]."
+  - term: "الْعَرْمَضِ"
+    text: "«العَرْمَضُ والعِرْماضُ: الطُّحْلُبُ» [@lisan، ج7 ص187]."
+sources:
+  - source: "diwan-labid"
+    loc: "ص184"
+    url: "https://archive.org/details/3929pdf/page/n229/mode/1up"
+  - source: "lisan"
+    loc: "ج15 ص15"
+    url: "https://shamela.ws/book/1687/7627"
+  - source: "lisan"
+    loc: "ج7 ص187"
+    url: "https://shamela.ws/book/1687/3570"
+status: "review"

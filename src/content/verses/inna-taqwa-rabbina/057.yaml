@@ -1,0 +1,13 @@
+explained: false
+first: "وَمَعِي حَامِيَةٌ مِنْ جَعْفَرٍ"
+second: "كُلَّ يَوْمٍ تَبْتَلِي مَا فِي الْخِلَلْ"
+vocabulary:
+  - term: "حَامِيَةٌ"
+    text: "يقول المحقق: «الحامية: الرجل يحمى أصحابه في الحرب، وهم أيضاً الجماعة يحمون أنفسهم» [@diwan-labid، ص190]."
+  - term: "تَبْتَلِي مَا فِي الْخِلَلْ"
+    text: "تختبر سيوفها في أغمادها؛ يقول المحقق: «والخلل: جفون السيوف» [@diwan-labid، ص190]."
+sources:
+  - source: "diwan-labid"
+    loc: "ص190"
+    url: "https://archive.org/details/3929pdf/page/n235/mode/1up"
+status: "review"

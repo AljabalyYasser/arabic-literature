@@ -1,0 +1,19 @@
+explained: false
+first: "يَتَمَارَى فِي الَّذِي قُلْتُ لَهُ"
+second: "وَلَقَدْ يَسْمَعُ قَوْلِي حَيَّهَلْ"
+vocabulary:
+  - term: "يَتَمَارَى"
+    text: "«التماري فِي الشَّيْء والامتراء فِيهِ: المجادلة وَالشَّكّ فِيهِ» [@khizana، ج3 ص372]."
+  - term: "حَيَّهَلْ"
+    text: "«وحيهل: أَي: أسْرع وَأعجل» [@khizana، ج3 ص372]، «فإِنما سَكَّنَهُ لِلْقَافِيَةِ» [@lisan، ج11 ص708]."
+sources:
+  - source: "diwan-labid"
+    loc: "ص183"
+    url: "https://archive.org/details/3929pdf/page/n228/mode/1up"
+  - source: "khizana"
+    loc: "ج3 ص372"
+    url: "https://shamela.ws/book/12732/1306"
+  - source: "lisan"
+    loc: "ج11 ص708"
+    url: "https://shamela.ws/book/1687/5885"
+status: "review"

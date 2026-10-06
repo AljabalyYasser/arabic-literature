@@ -1,0 +1,21 @@
+explained: false
+first: "فَمَتَى يَنْقَعْ صُرَاخٌ صَادِقٌ"
+second: "يُحْلِبُوهُ ذَاتَ جَرْسٍ وَزَجَلْ"
+vocabulary:
+  - term: "يَنْقَعْ"
+    text: "يرتفع: «والنَّقْعُ: رَفْعُ الصوتِ. ونَقَعَ الصوتُ واسْتَنْقَعَ أَي ارْتَفَع؛ قَالَ لَبِيدٌ» [@lisan، ج8 ص362]."
+  - term: "يُحْلِبُوهُ"
+    text: "يعينوه؛ ينقل المحقق عن ابن السِّيد: «ويحلبوه: يمدوه ويعينوه بحلائب الخيل» [@diwan-labid، ص191]."
+  - term: "جَرْسٍ وَزَجَلْ"
+    text: "«والجَرْسُ: الصوتُ نَفْسُهُ» [@lisan، ج6 ص35]، والزجل مثله، و«أراد كتيبة ذات جرس وزجل» كما ينقل المحقق [@diwan-labid، ص191]."
+sources:
+  - source: "diwan-labid"
+    loc: "ص191"
+    url: "https://archive.org/details/3929pdf/page/n236/mode/1up"
+  - source: "lisan"
+    loc: "ج8 ص362"
+    url: "https://shamela.ws/book/1687/4210"
+  - source: "lisan"
+    loc: "ج6 ص35"
+    url: "https://shamela.ws/book/1687/3048"
+status: "review"

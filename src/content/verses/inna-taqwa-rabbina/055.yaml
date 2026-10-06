@@ -1,0 +1,21 @@
+explained: false
+first: "وَتَأَيَّبْتُ عَلَيْهِ ثَانِيًا"
+second: "يَتَّقِينِي بِتَلِيلٍ ذِي خُصَلْ"
+vocabulary:
+  - term: "وَتَأَيَّبْتُ"
+    text: "يرويه صاحب اللسان «وتأيَّيْتُ»، ويقول: «والتَّأَيِّي: التَّنَظُّر والتُّؤَدة. يُقَالُ: تَأَيَّا الرجلُ يَتَأَيَّا تَأَيِّياً إِذَا تأَنى فِي الأَمر» [@lisan، ج14 ص63]."
+  - term: "ثَانِيًا"
+    text: "ثانيًا عنانه."
+  - term: "بِتَلِيلٍ"
+    text: "«والتَّلِيل: العُنُق؛ قَالَ لَبِيدٌ» [@lisan، ج11 ص79]، والخُصَل: خُصَل الشعر."
+sources:
+  - source: "diwan-labid"
+    loc: "ص190"
+    url: "https://archive.org/details/3929pdf/page/n235/mode/1up"
+  - source: "lisan"
+    loc: "ج14 ص63"
+    url: "https://shamela.ws/book/1687/7187"
+  - source: "lisan"
+    loc: "ج11 ص79"
+    url: "https://shamela.ws/book/1687/5261"
+status: "review"

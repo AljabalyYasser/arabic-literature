@@ -1,0 +1,16 @@
+explained: false
+first: "مُمْقِرٌ مُرٌّ عَلَى أَعْدَائِهِ"
+second: "وَعَلَى الْأَدْنَيْنَ حُلْوٌ كَالْعَسَلْ"
+vocabulary:
+  - term: "مُمْقِرٌ"
+    text: "شديد المرارة: «ومَقِرَ الشيءُ، بِالْكَسْرِ، يَمْقَرُ مَقَراً أَي صَارَ مُرًّا» [@lisan، ج5 ص183]."
+  - term: "الْأَدْنَيْنَ"
+    text: "الأقربين."
+sources:
+  - source: "diwan-labid"
+    loc: "ص197"
+    url: "https://archive.org/details/3929pdf/page/n242/mode/1up"
+  - source: "lisan"
+    loc: "ج5 ص183"
+    url: "https://shamela.ws/book/1687/2767"
+status: "review"

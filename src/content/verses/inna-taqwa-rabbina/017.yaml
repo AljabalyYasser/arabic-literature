@@ -1,0 +1,18 @@
+explained: false
+first: "أَوْ نَهَتْهُ فَأَتَاهُ رِزْقُهُ"
+second: "فَاشْتَوَى لَيْلَةَ رِيحٍ وَاجْتَمَلْ"
+vocabulary:
+  - term: "أَوْ نَهَتْهُ"
+    text: "«أَي: رب غُلَام نهته أمه عَن السُّؤَال منا حَيَاء أَو قنوعاً فَبَعَثنَا إِلَيْهِ بِمَا اشتوى واجتمل» [@khizana، ج9 ص299]."
+  - term: "لَيْلَةَ رِيحٍ"
+    text: "«أَي: لَيْلَة برد من الشتَاء» [@khizana، ج9 ص299]، وهي ليالي الجدب."
+  - term: "اجْتَمَلْ"
+    text: "«واجتمل: اتخذ الْجَمِيل بِفَتْح الْجِيم وَهُوَ الشَّحْم الْمُذَاب» [@khizana، ج9 ص299]."
+sources:
+  - source: "diwan-labid"
+    loc: "ص178"
+    url: "https://archive.org/details/3929pdf/page/n223/mode/1up"
+  - source: "khizana"
+    loc: "ج9 ص299"
+    url: "https://shamela.ws/book/12732/4417"
+status: "review"

@@ -1,0 +1,21 @@
+explained: false
+first: "مِنْ نَسَا النَّاشِطِ إِذْ ثَوَّرْتُهُ"
+second: "أَوْ رَئِيسِ الْأَخْدَرِيَّاتِ الْأُوَلْ"
+vocabulary:
+  - term: "نَسَا"
+    text: "«هُوَ عِرْقُ النَّسَا» [@lisan، ج15 ص322]، عرق في الفخذ."
+  - term: "النَّاشِطِ"
+    text: "«والناشِطُ: الثَّوْر الوحْشِيّ الَّذِي يَخْرُجُ مِنْ بَلَدٍ إِلى بَلَدٍ» [@lisan، ج7 ص413]."
+  - term: "الْأَخْدَرِيَّاتِ"
+    text: "يقول المحقق: «الأخدريات: أتن الوحش، ورئيسها: الأخدري: حمار الوحش» [@diwan-labid، ص189]."
+sources:
+  - source: "diwan-labid"
+    loc: "ص189"
+    url: "https://archive.org/details/3929pdf/page/n234/mode/1up"
+  - source: "lisan"
+    loc: "ج15 ص322"
+    url: "https://shamela.ws/book/1687/7931"
+  - source: "lisan"
+    loc: "ج7 ص413"
+    url: "https://shamela.ws/book/1687/3796"
+status: "review"

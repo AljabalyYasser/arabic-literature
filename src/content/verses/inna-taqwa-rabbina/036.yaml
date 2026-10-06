@@ -1,0 +1,20 @@
+explained: false
+first: "فَهَرَقْنَا لَهُمَا فِي دَاثِرٍ"
+second: "لِضَوَاحِيهِ نَشِيشٌ بِالْبَلَلْ"
+vocabulary:
+  - term: "لَهُمَا"
+    text: "للناقتين: ناقته وناقة صاحبه."
+  - term: "دَاثِرٍ"
+    text: "يقول المحقق: «الداثر: الدارس والموصوف محذوف وهو هنا الحوض» [@diwan-labid، ص184]."
+  - term: "لِضَوَاحِيهِ"
+    text: "نواحيه، و«ضواحي الحوض نواحيه» كما يقول المحقق [@diwan-labid، ص184]."
+  - term: "نَشِيشٌ"
+    text: "«نَشَّ الماءُ يَنِشُّ نَشًّا ونَشِيشاً ونَشَّشَ: صَوَّتَ عِنْدَ الغلَيان» [@lisan، ج6 ص352]."
+sources:
+  - source: "diwan-labid"
+    loc: "ص184"
+    url: "https://archive.org/details/3929pdf/page/n229/mode/1up"
+  - source: "lisan"
+    loc: "ج6 ص352"
+    url: "https://shamela.ws/book/1687/3364"
+status: "review"

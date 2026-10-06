@@ -1,0 +1,19 @@
+explained: false
+first: "وَأَخُو الْقَفْرَةِ مَاضٍ هَمُّهُ"
+second: "كُلَّمَا شَاءَ عَلَى الْأَيْنِ ارْتَحَلْ"
+vocabulary:
+  - term: "الْقَفْرَةِ"
+    text: "«القَفْرُ والقَفْرة: الخلاءُ مِنَ الأَرض» [@lisan، ج5 ص110]."
+  - term: "الْأَيْنِ"
+    text: "«أَبو زَيْدٍ: الأَيْنُ الإِعْياء وَالتَّعَبُ» [@lisan، ج13 ص44]."
+sources:
+  - source: "diwan-labid"
+    loc: "ص181"
+    url: "https://archive.org/details/3929pdf/page/n226/mode/1up"
+  - source: "lisan"
+    loc: "ج5 ص110"
+    url: "https://shamela.ws/book/1687/2694"
+  - source: "lisan"
+    loc: "ج13 ص44"
+    url: "https://shamela.ws/book/1687/6607"
+status: "review"

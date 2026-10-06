@@ -1,0 +1,16 @@
+explained: false
+first: "طَالَ قَرْنُ الشَّمْسِ لَمَّا طَلَعَتْ"
+second: "فَإِذَا مَا حَضَرَ اللَّيْلُ اضْمَحَلْ"
+vocabulary:
+  - term: "قَرْنُ الشَّمْسِ"
+    text: "«وقَرْنُ الشَّمْسِ: أَوّلها عِنْدَ طُلُوعِ الشَّمْسِ وأَعلاها» [@lisan، ج13 ص332]."
+  - term: "اضْمَحَلْ"
+    text: "تلاشى وذهب."
+sources:
+  - source: "diwan-labid"
+    loc: "ص181"
+    url: "https://archive.org/details/3929pdf/page/n226/mode/1up"
+  - source: "lisan"
+    loc: "ج13 ص332"
+    url: "https://shamela.ws/book/1687/6893"
+status: "review"

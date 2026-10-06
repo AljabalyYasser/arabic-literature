@@ -1,0 +1,21 @@
+explained: false
+first: "يُغْرِقُ الثَّعْلَبَ فِي شِرَّتِهِ"
+second: "صَائِبُ الْجِذْمَةِ فِي غَيْرِ فَشَلْ"
+vocabulary:
+  - term: "الثَّعْلَبَ"
+    text: "«وثَعْلَبُ الرُّمْحِ: مَا دَخَلَ فِي جُبَّةِ السِّنان مِنْهُ» [@lisan، ج1 ص238]؛ أي إذا طُعنت عليه الطريدة غاب الرمح فيها."
+  - term: "شِرَّتِهِ"
+    text: "نشاطه وحدّته."
+  - term: "الْجِذْمَةِ"
+    text: "السرعة: «وسارَ وأَجْذمَ السيرَ: أَسرع فِيهِ؛ قَالَ لَبِيدٌ» [@lisan، ج12 ص88]. ويذكر المحقق أن الجذمة السوط عند بعضهم [@diwan-labid، ص188]."
+sources:
+  - source: "diwan-labid"
+    loc: "ص188"
+    url: "https://archive.org/details/3929pdf/page/n233/mode/1up"
+  - source: "lisan"
+    loc: "ج1 ص238"
+    url: "https://shamela.ws/book/1687/238"
+  - source: "lisan"
+    loc: "ج12 ص88"
+    url: "https://shamela.ws/book/1687/6004"
+status: "review"

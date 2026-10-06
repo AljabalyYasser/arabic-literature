@@ -1,0 +1,21 @@
+explained: false
+first: "يَتَّقِي الْأَرْضَ بِدَفٍّ شَاسِفٍ"
+second: "وَضُلُوعٍ تَحْتَ صُلْبٍ قَدْ نَحَلْ"
+vocabulary:
+  - term: "يَتَّقِي الْأَرْضَ"
+    text: "«أَي: يتجافى عَنْهَا» [@khizana، ج3 ص369]."
+  - term: "بِدَفٍّ"
+    text: "«والدف بِفَتْح الدَّال: الْجنب» [@khizana، ج3 ص369]."
+  - term: "شَاسِفٍ"
+    text: "«والشاسف بِتَقْدِيم الْمُعْجَمَة على الْمُهْملَة: الْيَابِس ضمراً وهزالاً» [@khizana، ج3 ص370]."
+sources:
+  - source: "diwan-labid"
+    loc: "ص182"
+    url: "https://archive.org/details/3929pdf/page/n227/mode/1up"
+  - source: "khizana"
+    loc: "ج3 ص369"
+    url: "https://shamela.ws/book/12732/1303"
+  - source: "khizana"
+    loc: "ج3 ص370"
+    url: "https://shamela.ws/book/12732/1304"
+status: "review"

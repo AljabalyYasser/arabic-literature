@@ -1,0 +1,16 @@
+explained: false
+first: "تَحْسُرُ الدِّيبَاجَ عَنْ أَذْرُعِهِمْ"
+second: "عِنْدَ ذِي تَاجٍ إِذَا قَالَ فَعَلْ"
+vocabulary:
+  - term: "تَحْسُرُ"
+    text: "تكشف: «الحَسْرُ: كَشْطُكَ الشَّيْءَ عَنِ الشَّيْءِ» [@lisan، ج4 ص187]."
+  - term: "ذِي تَاجٍ"
+    text: "النعمان."
+sources:
+  - source: "diwan-labid"
+    loc: "ص196"
+    url: "https://archive.org/details/3929pdf/page/n241/mode/1up"
+  - source: "lisan"
+    loc: "ج4 ص187"
+    url: "https://shamela.ws/book/1687/2147"
+status: "review"

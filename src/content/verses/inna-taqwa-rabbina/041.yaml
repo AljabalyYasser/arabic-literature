@@ -1,0 +1,14 @@
+explained: false
+first: "فَمَضَيْنَا فَقَضَيْنَا نَاجِحًا"
+second: "مَوْطِنًا يُسْأَلُ عَنْهُ مَا فَعَلْ"
+vocabulary:
+  - term: "نَاجِحًا"
+    text: "يقول المحقق: «السير الناجح والنجح هو الوشيك»، ويذكر رواية «فقرينا ناجحاً» [@diwan-labid، ص186]."
+sources:
+  - source: "diwan-labid"
+    loc: "ص185"
+    url: "https://archive.org/details/3929pdf/page/n230/mode/1up"
+  - source: "diwan-labid"
+    loc: "ص186"
+    url: "https://archive.org/details/3929pdf/page/n231/mode/1up"
+status: "review"

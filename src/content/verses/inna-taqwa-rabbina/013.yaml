@@ -1,0 +1,16 @@
+explained: false
+first: "إِنْ تَرَيْ رَأْسِيَ أَمْسَى وَاضِحًا"
+second: "سُلِّطَ الشَّيْبُ عَلَيْهِ فَاشْتَعَلْ"
+vocabulary:
+  - term: "وَاضِحًا"
+    text: "أبيض من الشيب، من «الوَضَحُ: بياضُ الصُّبْحِ والقمرُ والبَرَصُ والغرةُ والتحجيلُ فِي الْقَوَائِمِ» [@lisan، ج2 ص634]."
+  - term: "فَاشْتَعَلْ"
+    text: "وفي الديوان نقلًا عن الخزانة: «وشبه انتشار الشيب باشتعال النار في سرعة الالتهاب» [@diwan-labid، ص177]."
+sources:
+  - source: "diwan-labid"
+    loc: "ص177"
+    url: "https://archive.org/details/3929pdf/page/n222/mode/1up"
+  - source: "lisan"
+    loc: "ج2 ص634"
+    url: "https://shamela.ws/book/1687/1438"
+status: "review"

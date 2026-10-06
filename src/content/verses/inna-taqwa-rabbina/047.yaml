@@ -1,0 +1,21 @@
+explained: false
+first: "يَطْرُدُ الزُّجَّ يُبَارِي ظِلَّهُ"
+second: "بِأَسِيلٍ كَالسِّنَانِ الْمُنْتَخَلْ"
+vocabulary:
+  - term: "الزُّجَّ"
+    text: "«والزُّجُّ: النَّعَامُ، الْوَاحِدَةُ زَجَّاءُ، وأَزَجُّ لِلذَّكَرِ، وَهُوَ الْبَعِيدُ الخَطْوِ؛ قَالَ لَبِيدٌ» [@lisan، ج2 ص286]."
+  - term: "بِأَسِيلٍ"
+    text: "بخدّ أسيل طويل."
+  - term: "الْمُنْتَخَلْ"
+    text: "المختار المصفّى: «نَخَلَ الشيءَ يَنْخُلُه نَخْلًا وتَنَخَّلَه وانْتَخَلَه: صَفَّاه واختارَه» [@lisan، ج11 ص651]."
+sources:
+  - source: "diwan-labid"
+    loc: "ص187"
+    url: "https://archive.org/details/3929pdf/page/n232/mode/1up"
+  - source: "lisan"
+    loc: "ج2 ص286"
+    url: "https://shamela.ws/book/1687/1090"
+  - source: "lisan"
+    loc: "ج11 ص651"
+    url: "https://shamela.ws/book/1687/5829"
+status: "review"

@@ -1,0 +1,16 @@
+explained: false
+first: "فَمَتَى أَهْلِكْ فَلَا أَحْفِلُهُ"
+second: "بَجَلِي الْآنَ مِنَ الْعَيْشِ بَجَلْ"
+vocabulary:
+  - term: "أَحْفِلُهُ"
+    text: "أباليه؛ يقول المحقق: «حفلت كذا وكذا أي باليت به؛ والحفل: المبالاة» [@diwan-labid، ص197]."
+  - term: "بَجَلِي"
+    text: "«وبَجَلِي كَذَا وبَجَلِي أَي حَسْبي؛ قَالَ لَبِيدٌ» [@lisan، ج11 ص45]."
+sources:
+  - source: "diwan-labid"
+    loc: "ص197"
+    url: "https://archive.org/details/3929pdf/page/n242/mode/1up"
+  - source: "lisan"
+    loc: "ج11 ص45"
+    url: "https://shamela.ws/book/1687/5227"
+status: "review"

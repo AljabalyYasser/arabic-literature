@@ -1,0 +1,21 @@
+explained: false
+first: "بِأَجَشِّ الصَّوْتِ يَعْبُوبٍ إِذَا"
+second: "طَرَقَ الْحَيَّ مِنَ الْغَزْوِ صَهَلْ"
+vocabulary:
+  - term: "أَجَشِّ الصَّوْتِ"
+    text: "«وفرسٌ أَجَشّ الصّوتِ: فِي صَهِيله جَشَش؛ قَالَ لَبِيدٌ» [@lisan، ج6 ص274]، أي غلظ."
+  - term: "يَعْبُوبٍ"
+    text: "«واليَعْبوبُ: الفَرَسُ الطويلُ السَّرِيعُ؛ وَقِيلَ: الكَثير الجَرْيِ» [@lisan، ج1 ص574]."
+  - term: "طَرَقَ"
+    text: "أتى ليلًا."
+sources:
+  - source: "diwan-labid"
+    loc: "ص187"
+    url: "https://archive.org/details/3929pdf/page/n232/mode/1up"
+  - source: "lisan"
+    loc: "ج6 ص274"
+    url: "https://shamela.ws/book/1687/3286"
+  - source: "lisan"
+    loc: "ج1 ص574"
+    url: "https://shamela.ws/book/1687/574"
+status: "review"

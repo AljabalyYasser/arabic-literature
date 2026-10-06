@@ -1,0 +1,18 @@
+explained: false
+first: "قَلَّمَا عَرَّسَ حَتَّى هِجْتُهُ"
+second: "بِالتَّبَاشِيرِ مِنَ الصُّبْحِ الْأُوَلْ"
+vocabulary:
+  - term: "عَرَّسَ"
+    text: "«والتعريس: النُّزُول فِي آخر اللَّيْل للاستراحة وَالنَّوْم» [@khizana، ج3 ص370]."
+  - term: "هِجْتُهُ"
+    text: "«وهجته: أيقظته من النّوم» [@khizana، ج3 ص370]."
+  - term: "التَّبَاشِيرِ ... الْأُوَلْ"
+    text: "«والتباشير: أَوَائِل الصُّبْح»، و«الأول صفة التباشير وَهُوَ بِضَم الْهمزَة وَفتح الْوَاو جمع أولى» [@khizana، ج3 ص370]."
+sources:
+  - source: "diwan-labid"
+    loc: "ص182"
+    url: "https://archive.org/details/3929pdf/page/n227/mode/1up"
+  - source: "khizana"
+    loc: "ج3 ص370"
+    url: "https://shamela.ws/book/12732/1304"
+status: "review"

@@ -1,0 +1,22 @@
+explained: false
+first: "فَإِذَا جُوزِيتَ قَرْضًا فَاجْزِهِ"
+second: "إِنَّمَا يَجْزِي الْفَتَى لَيْسَ الْجَمَلْ"
+vocabulary:
+  - term: "قَرْضًا"
+    text: "«وَالْقَرْض هُنَا: مَا سلف من إِحْسَان أَو إساءة» [@khizana، ج9 ص300]."
+  - term: "لَيْسَ الْجَمَلْ"
+    text: "«لَيْسَ» هنا بمعنى «لا»: «وَقَدْ تَجِيءُ لَيْسَ بِمَعْنَى لَا وَلَا بِمَعْنَى لَيْسَ؛ وَمِنْ ذَلِكَ قَوْلُ لَبِيدٍ» [@lisan، ج15 ص469]. ومعنى الشطر عند البغدادي: «أَن الَّذِي يَجْزِي بِمَا يُعَامل بِهِ من حسن أَو قَبِيح هُوَ الْإِنْسَان لَا الْبَهِيمَة» [@khizana، ج9 ص301]."
+sources:
+  - source: "diwan-labid"
+    loc: "ص179"
+    url: "https://archive.org/details/3929pdf/page/n224/mode/1up"
+  - source: "khizana"
+    loc: "ج9 ص300"
+    url: "https://shamela.ws/book/12732/4418"
+  - source: "lisan"
+    loc: "ج15 ص469"
+    url: "https://shamela.ws/book/1687/8076"
+  - source: "khizana"
+    loc: "ج9 ص301"
+    url: "https://shamela.ws/book/12732/4419"
+status: "review"

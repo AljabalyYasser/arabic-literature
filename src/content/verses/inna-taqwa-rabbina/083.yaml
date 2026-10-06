@@ -1,0 +1,16 @@
+explained: false
+first: "فَأَخِي إِنْ شَرِبُوا مِنْ خَيْرِهِمْ"
+second: "وَأَبُو الْحَزَّازِ مِنْ أَهْلِ النَّفَلْ"
+vocabulary:
+  - term: "أَبُو الْحَزَّازِ"
+    text: "يقول المحقق: «أبو الحزاز كنية أربد أخي لبيد» [@diwan-labid، ص198]."
+  - term: "النَّفَلْ"
+    text: "العطاء: «النَّفَل، بِالتَّحْرِيكِ: الغنيمةُ والهبةُ» [@lisan، ج11 ص670]."
+sources:
+  - source: "diwan-labid"
+    loc: "ص198"
+    url: "https://archive.org/details/3929pdf/page/n243/mode/1up"
+  - source: "lisan"
+    loc: "ج11 ص670"
+    url: "https://shamela.ws/book/1687/5848"
+status: "review"

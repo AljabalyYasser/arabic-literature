@@ -1,0 +1,18 @@
+explained: false
+first: "أَعْمِلِ الْعِيسَ عَلَى عِلَّاتِهَا"
+second: "إِنَّمَا يُنْجِحُ أَصْحَابُ الْعَمَلْ"
+vocabulary:
+  - term: "أَعْمِلِ"
+    text: "«أعمل: أَمر من الإعمال وَهُوَ الإشغال» [@khizana، ج9 ص303]."
+  - term: "الْعِيسَ"
+    text: "«والعيس: الْإِبِل الْبيض» [@khizana، ج9 ص303]."
+  - term: "عِلَّاتِهَا"
+    text: "«والعلات بِالْكَسْرِ: الْحَالَات جمع عِلّة بِمَعْنى الْحَالة» [@khizana، ج9 ص303]."
+sources:
+  - source: "diwan-labid"
+    loc: "ص179"
+    url: "https://archive.org/details/3929pdf/page/n224/mode/1up"
+  - source: "khizana"
+    loc: "ج9 ص303"
+    url: "https://shamela.ws/book/12732/4421"
+status: "review"

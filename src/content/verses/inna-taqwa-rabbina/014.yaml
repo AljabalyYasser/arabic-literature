@@ -1,0 +1,18 @@
+explained: false
+first: "فَلَقَدْ أُعْوِصُ بِالْخَصْمِ وَقَدْ"
+second: "أَمْلَأُ الْجَفْنَةَ مِنْ شَحْمِ الْقُلَلْ"
+vocabulary:
+  - term: "أُعْوِصُ بِالْخَصْمِ"
+    text: "«وَقَالَ الطوسي: أعوص: أركب بِهِ الْأَمر العويص أَي: الشَّديد» [@khizana، ج9 ص299]."
+  - term: "الْجَفْنَةَ"
+    text: "«والجفنة بِفَتْح الْجِيم: الْقَصعَة» [@khizana، ج9 ص299]."
+  - term: "الْقُلَلْ"
+    text: "«وَأَرَادَ بالقلل الأسنمة» [@khizana، ج9 ص299]، والواحدة قُلّة، وقلة كل شيء أعلاه."
+sources:
+  - source: "diwan-labid"
+    loc: "ص177"
+    url: "https://archive.org/details/3929pdf/page/n222/mode/1up"
+  - source: "khizana"
+    loc: "ج9 ص299"
+    url: "https://shamela.ws/book/12732/4417"
+status: "review"

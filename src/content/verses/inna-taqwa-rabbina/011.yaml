@@ -1,0 +1,21 @@
+explained: false
+first: "حَالَفَ الْفَرْقَدَ شِرْكًا فِي السُّرَى"
+second: "خَلَّةً بَاقِيَةً دُونَ الْخُلَلْ"
+vocabulary:
+  - term: "الْفَرْقَدَ"
+    text: "نجم يهتدى به في السرى، وهما فرقدان، «وَرُبَّمَا قَالَتِ الْعَرَبُ لَهُمَا الفَرْقد؛ قَالَ لَبِيدٌ» [@lisan، ج3 ص334]."
+  - term: "شِرْكًا"
+    text: "شريكًا، يقول المحقق: «الشِّرك: الشريك، والحصة والنصيب» [@diwan-labid، ص176]."
+  - term: "خَلَّةً"
+    text: "خصلة: «والخَلَّة: كالخَصْلة» [@lisan، ج11 ص216]. ويقول المحقق إن في نسخة «خُلّة» «بمعنى الصديق» [@diwan-labid، ص176]."
+sources:
+  - source: "diwan-labid"
+    loc: "ص176"
+    url: "https://archive.org/details/3929pdf/page/n221/mode/1up"
+  - source: "lisan"
+    loc: "ج3 ص334"
+    url: "https://shamela.ws/book/1687/1776"
+  - source: "lisan"
+    loc: "ج11 ص216"
+    url: "https://shamela.ws/book/1687/5396"
+status: "review"

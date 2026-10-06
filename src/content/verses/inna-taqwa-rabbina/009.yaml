@@ -1,0 +1,21 @@
+explained: false
+first: "بِالْغُرَابَاتِ فَزَرَّافَاتِهَا"
+second: "فَبِخِنْزِيرٍ فَأَطْرَافِ حُبَلْ"
+vocabulary:
+  - term: "الْغُرَابَاتِ ... حُبَلْ"
+    text: "مواضع. يقول المحقق: «الغرابات: إكام سود» و«الحبَل: موضع باليمامة» [@diwan-labid، ص176]."
+  - term: "فَزَرَّافَاتِهَا"
+    text: "ما دنا منها: «زَرَفَ إِلَيْهِ يَزْرِفُ زُرُوفاً وزَريفاً: دَنَا؛ وَقَوْلُ لَبِيدٌ ... عَنَى بِذَلِكَ مَا قَرُبَ مِنْهَا» [@lisan، ج9 ص133]."
+  - term: "فَبِخِنْزِيرٍ"
+    text: "«وَخِنْزِيرٌ: مَوْضِعُ ذَكَرَهُ لَبِيدٌ» [@lisan، ج4 ص260]."
+sources:
+  - source: "diwan-labid"
+    loc: "ص176"
+    url: "https://archive.org/details/3929pdf/page/n221/mode/1up"
+  - source: "lisan"
+    loc: "ج9 ص133"
+    url: "https://shamela.ws/book/1687/4440"
+  - source: "lisan"
+    loc: "ج4 ص260"
+    url: "https://shamela.ws/book/1687/2220"
+status: "review"

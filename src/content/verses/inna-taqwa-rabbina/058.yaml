@@ -1,0 +1,16 @@
+explained: false
+first: "وَقَبِيلٌ مِنْ عُقَيْلٍ صَادِقٌ"
+second: "كَلُيُوثٍ بَيْنَ غَابٍ وَعَصَلْ"
+vocabulary:
+  - term: "قَبِيلٌ"
+    text: "جماعة."
+  - term: "غَابٍ وَعَصَلْ"
+    text: "يقول المحقق: «والغاب: أجمة القصب»، و«العصل: جمع عصلة، وهي شجرة» [@diwan-labid، ص190]. وأنشد صاحب اللسان البيت في العَصَل [@lisan، ج11 ص450]."
+sources:
+  - source: "diwan-labid"
+    loc: "ص190"
+    url: "https://archive.org/details/3929pdf/page/n235/mode/1up"
+  - source: "lisan"
+    loc: "ج11 ص450"
+    url: "https://shamela.ws/book/1687/5628"
+status: "review"

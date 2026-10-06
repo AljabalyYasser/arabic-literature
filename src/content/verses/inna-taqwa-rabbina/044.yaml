@@ -1,0 +1,19 @@
+explained: false
+first: "وَلَقَدْ أَغْدُو وَمَا يَعْدَمُنِي"
+second: "صَاحِبٌ غَيْرُ طَوِيلِ الْمُحْتَبَلْ"
+vocabulary:
+  - term: "صَاحِبٌ"
+    text: "فرسه: «يَعْنِي فَرَسًا أَي مَا يَفْقِدُني فَرَسِي، يَقُولُ: لَيْسَ مَعِي أَحدٌ غيرُ نَفْسي وفرَسي» [@lisan، ج12 ص393]."
+  - term: "الْمُحْتَبَلْ"
+    text: "«أَي غَيْرُ طَوِيلِ الأَرساغ، وإِذا قَصُرت أَرساغه كَانَ أَشدّ. والمُحْتَبَل مِنَ الدَّابَّةِ: رُسْغُها لأَنه مَوْضِعُ الحَبْل» [@lisan، ج11 ص137]."
+sources:
+  - source: "diwan-labid"
+    loc: "ص186"
+    url: "https://archive.org/details/3929pdf/page/n231/mode/1up"
+  - source: "lisan"
+    loc: "ج12 ص393"
+    url: "https://shamela.ws/book/1687/6306"
+  - source: "lisan"
+    loc: "ج11 ص137"
+    url: "https://shamela.ws/book/1687/5319"
+status: "review"

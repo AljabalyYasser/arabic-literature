@@ -1,0 +1,21 @@
+explained: false
+first: "كُلَّ يَوْمٍ مَنَعُوا جَامِلَهُمْ"
+second: "وَمُرِنَّاتٍ كَآرَامِ تُبَلْ"
+vocabulary:
+  - term: "جَامِلَهُمْ"
+    text: "يقول المحقق: «الجامل: الحيّ العظيم»، وإن في اللسان «حاملهم» [@diwan-labid، ص192]."
+  - term: "مُرِنَّاتٍ"
+    text: "نساء صائحات: «رَنَّت تَرِنُّ رَنيناً ورَنَّنَتْ تَرْنيناً وتَرْنِيَة وأَرَنَّتْ: صَاحَتْ» [@lisan، ج13 ص187]."
+  - term: "آرَامِ تُبَلْ"
+    text: "ظباؤه البيض، و«وتُبَل: اسْمُ وَادٍ؛ قَالَ لَبِيدٌ» [@lisan، ج11 ص76]."
+sources:
+  - source: "diwan-labid"
+    loc: "ص192"
+    url: "https://archive.org/details/3929pdf/page/n237/mode/1up"
+  - source: "lisan"
+    loc: "ج13 ص187"
+    url: "https://shamela.ws/book/1687/6748"
+  - source: "lisan"
+    loc: "ج11 ص76"
+    url: "https://shamela.ws/book/1687/5258"
+status: "review"

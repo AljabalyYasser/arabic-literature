@@ -1,0 +1,19 @@
+explained: false
+first: "يُسْئِدُ السَّيْرَ عَلَيْهَا رَاكِبٌ"
+second: "رَابِطُ الْجَأْشِ عَلَى كُلِّ وَجَلْ"
+vocabulary:
+  - term: "يُسْئِدُ السَّيْرَ"
+    text: "«الْجَوْهَرِيُّ: الإِسآد الإِغْذاذُ فِي السَّيْرِ وأَكثر مَا يُسْتَعْمَلُ ذَلِكَ فِي سَيْرِ اللَّيْلِ؛ وَقَالَ لَبِيدٌ» [@lisan، ج3 ص201]."
+  - term: "رَابِطُ الْجَأْشِ"
+    text: "«وَرَجُلٌ رَابِطُ الجَأْشِ ورَبِيطُ الجأْشِ أَي شَدِيدُ الْقَلْبِ» [@lisan، ج7 ص303]."
+sources:
+  - source: "diwan-labid"
+    loc: "ص176"
+    url: "https://archive.org/details/3929pdf/page/n221/mode/1up"
+  - source: "lisan"
+    loc: "ج3 ص201"
+    url: "https://shamela.ws/book/1687/1643"
+  - source: "lisan"
+    loc: "ج7 ص303"
+    url: "https://shamela.ws/book/1687/3686"
+status: "review"

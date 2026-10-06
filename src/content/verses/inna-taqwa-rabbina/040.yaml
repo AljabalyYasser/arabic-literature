@@ -1,0 +1,21 @@
+explained: false
+first: "تَرْزُمُ الشَّارِفُ مِنْ عِرْفَانِهِ"
+second: "كُلَّمَا لَاحَ بِنَجْدٍ وَاحْتَفَلْ"
+vocabulary:
+  - term: "تَرْزُمُ"
+    text: "يقول المحقق: «ترزم: تصوّت وتحن» [@diwan-labid، ص185]."
+  - term: "الشَّارِفُ"
+    text: "«والشارِفُ مِنَ الإِبل: المُسِنُّ والمُسِنَّةُ» [@lisan، ج9 ص173]."
+  - term: "احْتَفَلْ"
+    text: "«وَطَرِيقٌ مُحْتَفِل أَي ظَاهِرٌ مُسْتَبِين، وَقَدِ احْتَفَل أَي اسْتَبَانَ، واحْتَفَلَ الطريقُ: وَضَح؛ قَالَ لَبِيدٌ يَصِفُ طَرِيقًا» [@lisan، ج11 ص158]."
+sources:
+  - source: "diwan-labid"
+    loc: "ص185"
+    url: "https://archive.org/details/3929pdf/page/n230/mode/1up"
+  - source: "lisan"
+    loc: "ج9 ص173"
+    url: "https://shamela.ws/book/1687/4480"
+  - source: "lisan"
+    loc: "ج11 ص158"
+    url: "https://shamela.ws/book/1687/5340"
+status: "review"

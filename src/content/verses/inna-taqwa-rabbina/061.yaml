@@ -1,0 +1,23 @@
+explained: false
+first: "أَحْكَمَ الْجِنْثِيُّ مِنْ عَوْرَاتِهَا"
+second: "كُلَّ حِرْبَاءٍ إِذَا أُكْرِهَ صَلْ"
+vocabulary:
+  - term: "الْجِنْثِيُّ"
+    text: "الزرّاد صانع الدروع عند ابن قُتَيْبة كما ينقل المحقق [@diwan-labid، ص192]، وقيل السيف، وفي اللسان: «السيفُ بِعَيْنِهِ» [@lisan، ج2 ص129]."
+  - term: "عَوْرَاتِهَا"
+    text: "فتوقها، كما يقول المحقق [@diwan-labid، ص192]."
+  - term: "حِرْبَاءٍ"
+    text: "«والحِرْباءُ: مِسْمارُ الدِّرْع، وَقِيلَ: هُوَ رأْسُ المِسْمارِ فِي حَلْقةِ الدِّرْع» [@lisan، ج1 ص306]."
+  - term: "صَلْ"
+    text: "صوّت، من الصليل."
+sources:
+  - source: "diwan-labid"
+    loc: "ص192"
+    url: "https://archive.org/details/3929pdf/page/n237/mode/1up"
+  - source: "lisan"
+    loc: "ج2 ص129"
+    url: "https://shamela.ws/book/1687/933"
+  - source: "lisan"
+    loc: "ج1 ص306"
+    url: "https://shamela.ws/book/1687/306"
+status: "review"

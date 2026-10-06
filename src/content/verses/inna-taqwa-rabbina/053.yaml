@@ -1,0 +1,23 @@
+explained: false
+first: "فَهْوَ شَحَّاجٌ مُدِلٌّ سَنِقٌ"
+second: "لَاحِقُ الْبَطْنِ إِذَا يَعْدُو زَمَلْ"
+vocabulary:
+  - term: "شَحَّاجٌ"
+    text: "«والمِشْحَجُ والشَّحَّاج: الْحِمَارُ الوحشيُّ، صِفة غَالِبَةٌ» [@lisan، ج2 ص305]، من شحيجه وهو صوته."
+  - term: "سَنِقٌ"
+    text: "«أَبو عُبَيْدٍ: السَّنِقُ الشَّبْعان كالمُتَّخِم» [@lisan، ج10 ص165]."
+  - term: "لَاحِقُ الْبَطْنِ"
+    text: "ضامره."
+  - term: "زَمَلْ"
+    text: "يقول المحقق: «زمل: عدا وأسرع معتمداً في أحد شقيه رافعاً جنبه الآخر» [@diwan-labid، ص189]."
+sources:
+  - source: "diwan-labid"
+    loc: "ص189"
+    url: "https://archive.org/details/3929pdf/page/n234/mode/1up"
+  - source: "lisan"
+    loc: "ج2 ص305"
+    url: "https://shamela.ws/book/1687/1109"
+  - source: "lisan"
+    loc: "ج10 ص165"
+    url: "https://shamela.ws/book/1687/4835"
+status: "review"

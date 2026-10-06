@@ -1,0 +1,18 @@
+explained: false
+first: "رَاسِخُ الدِّمْنِ عَلَى أَعْضَادِهِ"
+second: "ثَلَمَتْهُ كُلُّ رِيحٍ وَسَبَلْ"
+vocabulary:
+  - term: "الدِّمْنِ"
+    text: "«الصِّحَاحُ: الدِّمْن البَعر؛ قَالَ لَبِيدٌ» بهذا البيت [@lisan، ج13 ص158]."
+  - term: "أَعْضَادِهِ"
+    text: "جوانبه؛ يقول المحقق: «وقيل عضده: جانباه والجمع أعضاد» [@diwan-labid، ص184]."
+  - term: "ثَلَمَتْهُ ... وَسَبَلْ"
+    text: "كسرت حرفه كل ريح ومطر؛ يقول المحقق: «ثلمته: كسرته أو كسرت حرفه. السَّبَل: المطر المسبل» [@diwan-labid، ص184]."
+sources:
+  - source: "diwan-labid"
+    loc: "ص184"
+    url: "https://archive.org/details/3929pdf/page/n229/mode/1up"
+  - source: "lisan"
+    loc: "ج13 ص158"
+    url: "https://shamela.ws/book/1687/6719"
+status: "review"

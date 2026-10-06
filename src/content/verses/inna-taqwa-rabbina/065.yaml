@@ -1,0 +1,21 @@
+explained: false
+first: "فَصَلَقْنَا فِي مُرَادٍ صَلْقَةً"
+second: "وَصُدَاءٍ أَلْحَقَتْهُمْ بِالثَّلَلْ"
+vocabulary:
+  - term: "صَلَقْنَا"
+    text: "صحنا وأغرنا؛ ينقل المحقق عن الكسائي: «الصلقة: الصياح» [@diwan-labid، ص193]."
+  - term: "مُرَادٍ وَصُدَاءٍ"
+    text: "قبيلتان من اليمن: «وصُداء، مَمْدُودٌ: حَيٌّ مِنَ اليَمَنِ» [@lisan، ج1 ص108]."
+  - term: "الثَّلَلْ"
+    text: "«ابْنُ سِيدَهْ: الثَّلَل، بِالتَّحْرِيكِ، الْهَلَاكُ» [@lisan، ج11 ص90]."
+sources:
+  - source: "diwan-labid"
+    loc: "ص193"
+    url: "https://archive.org/details/3929pdf/page/n238/mode/1up"
+  - source: "lisan"
+    loc: "ج1 ص108"
+    url: "https://shamela.ws/book/1687/108"
+  - source: "lisan"
+    loc: "ج11 ص90"
+    url: "https://shamela.ws/book/1687/5272"
+status: "review"

@@ -1,0 +1,23 @@
+explained: false
+first: "مُدْمِنٌ يَجْلُو بِأَطْرَافِ الذُّرَى"
+second: "دَنَسَ الْأَسْؤُقِ بِالْعَضْبِ الْأَفَلْ"
+vocabulary:
+  - term: "يَجْلُو بِأَطْرَافِ الذُّرَى"
+    text: "يقول المحقق: «هذا رجل يعرقب الإبل لينحرها ثم يمسح ذرى أسنمتها بسيفه ليجلو ما عليه من دم الأسؤق» [@diwan-labid، ص198]."
+  - term: "الْأَسْؤُقِ"
+    text: "جمع ساق."
+  - term: "الْعَضْبِ"
+    text: "السيف القاطع، من «العَضْبُ: الْقَطْعُ» [@lisan، ج1 ص609]."
+  - term: "الْأَفَلْ"
+    text: "المثلوم: «وَسَيْفٌ فَلِيل مَفْلُول وأَفَلُّ أَي مُنْفَلٌّ» [@lisan، ج11 ص530]."
+sources:
+  - source: "diwan-labid"
+    loc: "ص198"
+    url: "https://archive.org/details/3929pdf/page/n243/mode/1up"
+  - source: "lisan"
+    loc: "ج1 ص609"
+    url: "https://shamela.ws/book/1687/609"
+  - source: "lisan"
+    loc: "ج11 ص530"
+    url: "https://shamela.ws/book/1687/5708"
+status: "review"

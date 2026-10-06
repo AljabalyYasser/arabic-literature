@@ -1,0 +1,18 @@
+explained: false
+first: "يَذْعَرُ الْبَرْكَ فَقَدْ أَفْزَعَهُ"
+second: "نَاهِضٌ يَنْهَضُ نَهْضَ الْمُخْتَزَلْ"
+vocabulary:
+  - term: "يَذْعَرُ"
+    text: "يخيف: «الذُّعْرُ، بِالضَّمِّ: الخَوْفُ والفَزَعُ» [@lisan، ج4 ص306]."
+  - term: "الْبَرْكَ"
+    text: "الإبل الباركة."
+  - term: "نَهْضَ الْمُخْتَزَلْ"
+    text: "ينقل المحقق عن ابن قتيبة: «ناهض هو الممدوح، نهض المختزل أي غير مستوٍ لأنه قد شرب وسكر»، و«المختزل: المقطوع السنام» [@diwan-labid، ص198]."
+sources:
+  - source: "diwan-labid"
+    loc: "ص198"
+    url: "https://archive.org/details/3929pdf/page/n243/mode/1up"
+  - source: "lisan"
+    loc: "ج4 ص306"
+    url: "https://shamela.ws/book/1687/2266"
+status: "review"
