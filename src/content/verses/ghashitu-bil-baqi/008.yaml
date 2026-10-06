@@ -1,0 +1,15 @@
+explained: false
+first: "كَهَمِّكَ إِنْ تَجْهَدْ تَجِدْهَا نَجِيحَةً"
+second: "صَبُورًا وَإِنْ تَسْتَرْخِ عَنْهَا تَزَيَّدِ"
+vocabulary:
+  - term: "كَهَمِّكَ"
+    text: "«أي: كما تريد» [@diwan-zuhayr، ص179]."
+  - term: "نَجِيحَةً"
+    text: "سريعة [@diwan-zuhayr، ص179]."
+  - term: "تَزَيَّدِ"
+    text: "تسير التزيّد، «وهو ضرب من السير فوق العَنَق» [@diwan-zuhayr، ص180]."
+sources:
+  - source: "diwan-zuhayr"
+    loc: "ص179–180"
+    url: "https://archive.org/details/3917pdf/page/n179/mode/1up"
+status: "review"

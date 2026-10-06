@@ -1,0 +1,15 @@
+explained: false
+first: "غَزَتْ سِمَانًا فَآبَتْ ضُمَّرًا خُدُجًا"
+second: "مِنْ بَعْدِ مَا جَنَبُوهَا بُدَّنًا عُقُقَا"
+vocabulary:
+  - term: "ضُمَّرًا خُدُجًا"
+    text: "رجعت مهازيل، والخُدُج «التي تُلقي أولادها لغير تمام» [@diwan-zuhayr، ص73]."
+  - term: "جَنَبُوهَا"
+    text: "«أي: قادوها. وكانوا يركبون الإبل ويقودون الخيل» [@diwan-zuhayr، ص73]."
+  - term: "بُدَّنًا عُقُقَا"
+    text: "البُدّن جمع بادن، «وهي الضخمة السمينة»، والعُقُق جمع عَقوق، «وهي التي استبان حملها» [@diwan-zuhayr، ص73]."
+sources:
+  - source: "diwan-zuhayr"
+    loc: "ص73"
+    url: "https://archive.org/details/3917pdf/page/n73/mode/1up"
+status: "review"

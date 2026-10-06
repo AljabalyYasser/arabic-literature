@@ -1,0 +1,15 @@
+explained: false
+first: "لَيْثٌ بِعَثَّرَ يَصْطَادُ الرِّجَالَ إِذَا"
+second: "مَا كَذَّبَ اللَّيْثُ عَنْ أَقْرَانِهِ صَدَقَا"
+vocabulary:
+  - term: "عَثَّرَ"
+    text: "اسم موضع [@diwan-zuhayr، ص77]."
+  - term: "كَذَّبَ"
+    text: "«أي: لم يصدق الحملة. ويقال: كذّب الرجل عن كذا، إذا رجع عنه» [@diwan-zuhayr، ص77]."
+  - term: "أَقْرَانِهِ"
+    text: "جمع قِرْن، وهو «الصاحب في القتال» [@diwan-zuhayr، ص77]."
+sources:
+  - source: "diwan-zuhayr"
+    loc: "ص76–77"
+    url: "https://archive.org/details/3917pdf/page/n76/mode/1up"
+status: "review"

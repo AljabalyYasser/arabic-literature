@@ -1,0 +1,17 @@
+explained: false
+first: "أَلَيْسَ بِفَيَّاضٍ يَدَاهُ غَمَامَةٌ"
+second: "ثِمَالِ الْيَتَامَى فِي السِّنِينَ مُحَمَّدِ"
+vocabulary:
+  - term: "غَمَامَةٌ"
+    text: "سحابة [@diwan-zuhayr، ص189]."
+  - term: "ثِمَالِ الْيَتَامَى"
+    text: "يقال: فلان «ثِمال» قومه «إذا كان يطعمهم ويقوم عليهم» [@diwan-zuhayr، ص189]."
+  - term: "فِي السِّنِينَ"
+    text: "«أي: في الشدائد. يقال: أصابتهم سنة، أي: جدب وشدّة» [@diwan-zuhayr، ص189]."
+  - term: "مُحَمَّدِ"
+    text: "«الذي يُحمد كثيرًا» [@diwan-zuhayr، ص189]."
+sources:
+  - source: "diwan-zuhayr"
+    loc: "ص188–189"
+    url: "https://archive.org/details/3917pdf/page/n188/mode/1up"
+status: "review"

@@ -1,0 +1,15 @@
+explained: false
+first: "لَهَا مَتَاعٌ وَأَعْوَانٌ غَدَوْنَ بِهِ"
+second: "قِتْبٌ وَغَرْبٌ إِذَا مَا أُفْرِغَ انْسَحَقَا"
+vocabulary:
+  - term: "قِتْبٌ"
+    text: "رحل صغير، وهو عند الأعلم «أداة السانية» [@diwan-zuhayr، ص67]، أي الناقة التي يُستقى عليها."
+  - term: "غَرْبٌ"
+    text: "الدلو العظيمة [@diwan-zuhayr، ص67]."
+  - term: "انْسَحَقَا"
+    text: "«أي: مضى وبَعُد سيلانه» [@diwan-zuhayr، ص68]."
+sources:
+  - source: "diwan-zuhayr"
+    loc: "ص67–68"
+    url: "https://archive.org/details/3917pdf/page/n67/mode/1up"
+status: "review"

@@ -1,0 +1,13 @@
+explained: false
+first: "هَذَا وَلَيْسَ كَمَنْ يَعْيَا بِخُطَّتِهِ"
+second: "وَسْطَ النَّدِيِّ إِذَا مَا نَاطِقٌ نَطَقَا"
+vocabulary:
+  - term: "يَعْيَا بِخُطَّتِهِ"
+    text: "يعجز عن أمره. يقول الأعلم: «ثمّ وصفه بالبلاغة، وأنه لا يعيا بخطّته، إذا قام وسط النديّ» [@diwan-zuhayr، ص77]."
+  - term: "النَّدِيِّ"
+    text: "«مجلس القوم» [@diwan-zuhayr، ص77]."
+sources:
+  - source: "diwan-zuhayr"
+    loc: "ص77"
+    url: "https://archive.org/details/3917pdf/page/n77/mode/1up"
+status: "review"

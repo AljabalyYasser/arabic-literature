@@ -1,0 +1,15 @@
+explained: false
+first: "وَقَابِلٌ يَتَغَنَّى كُلَّمَا قَدَرَتْ"
+second: "عَلَى الْعَرَاقِي يَدَاهُ قَائِمًا دَفَقَا"
+vocabulary:
+  - term: "قَابِلٌ"
+    text: "الذي يتلقى الدلو إذا خرجت فيصبّ ما فيها، ويتغنى فتطرب الناقة وتسرع [@diwan-zuhayr، ص68]."
+  - term: "الْعَرَاقِي"
+    text: "جمع عَرْقُوة، وهما خشبتان تُجعلان في فم الدلو يُشدّ فيهما الحبل [@diwan-zuhayr، ص68]."
+  - term: "دَفَقَا"
+    text: "صبّ الدلو في الجدول [@diwan-zuhayr، ص68]."
+sources:
+  - source: "diwan-zuhayr"
+    loc: "ص68"
+    url: "https://archive.org/details/3917pdf/page/n68/mode/1up"
+status: "review"

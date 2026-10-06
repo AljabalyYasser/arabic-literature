@@ -1,0 +1,19 @@
+explained: false
+first: "شَجَّ السُّقَاةُ عَلَى نَاجُودِهَا شَبِمًا"
+second: "مِنْ مَاءِ لِينَةَ لَا طَرْقًا وَلَا رَنِقَا"
+vocabulary:
+  - term: "شَجَّ"
+    text: "صبّ الماء على الخمر ومزجها به، «ومنه الشجّة في الرأس» [@diwan-zuhayr، ص65]."
+  - term: "نَاجُودِهَا"
+    text: "«أوّل ما يخرج من الخمر. وقيل: هو كلّ إناء تُجعل فيه الخمر» [@diwan-zuhayr، ص65]."
+  - term: "شَبِمًا"
+    text: "الماء البارد [@diwan-zuhayr، ص65]."
+  - term: "لِينَةَ"
+    text: "«اسم بئر من أعذب الآبار، وهي بطريق مكّة» [@diwan-zuhayr، ص65]."
+  - term: "لَا طَرْقًا وَلَا رَنِقَا"
+    text: "الطرق: الماء الذي بالت فيه الإبل وبعرت، والرنق: الكدر [@diwan-zuhayr، ص65]."
+sources:
+  - source: "diwan-zuhayr"
+    loc: "ص65"
+    url: "https://archive.org/details/3917pdf/page/n65/mode/1up"
+status: "review"

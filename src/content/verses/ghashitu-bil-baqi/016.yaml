@@ -1,0 +1,17 @@
+explained: false
+first: "طَبَاهَا ضَحَاءٌ أَوْ خَلَاءٌ فَخَالَفَتْ"
+second: "إِلَيْهِ السِّبَاعُ فِي كِنَاسٍ وَمَرْقَدِ"
+vocabulary:
+  - term: "طَبَاهَا ضَحَاءٌ"
+    text: "دعاها الرعي، «والضحاء للإبل: مثل الغداء للناس» [@diwan-zuhayr، ص182]."
+  - term: "خَلَاءٌ"
+    text: "خلوّ المكان [@diwan-zuhayr، ص182]."
+  - term: "فَخَالَفَتْ إِلَيْهِ السِّبَاعُ"
+    text: "أتت السباع ولدها بعد أن نهضت إلى الرعي [@diwan-zuhayr، ص182]."
+  - term: "كِنَاسٍ"
+    text: "موضعها الذي تكنس فيه، «أي: تستتر من حرّ أو برد» [@diwan-zuhayr، ص182]."
+sources:
+  - source: "diwan-zuhayr"
+    loc: "ص182"
+    url: "https://archive.org/details/3917pdf/page/n182/mode/1up"
+status: "review"

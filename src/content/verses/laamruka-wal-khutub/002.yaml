@@ -1,0 +1,16 @@
+explained: false
+first: "لَقَدْ بَالَيْتُ مَظْعَنَ أُمِّ أَوْفَى"
+second: "وَلَكِنْ أُمُّ أَوْفَى لَا تُبَالِي"
+vocabulary:
+  - term: "بَالَيْتُ"
+    text: "من المبالاة [@sharh-thalab-zuhayr، ص257]. يقول الأعلم: «ولمّا ظعنت باليتُ مظعنها، واهتممت لفراقها» [@diwan-zuhayr، ص166]."
+  - term: "مَظْعَنَ"
+    text: "«مظعنها: مسيرها، من قولك: ظعنت تظعن ظعنًا» [@sharh-thalab-zuhayr، ص257]."
+sources:
+  - source: "diwan-zuhayr"
+    loc: "ص165–166"
+    url: "https://archive.org/details/3917pdf/page/n165/mode/1up"
+  - source: "sharh-thalab-zuhayr"
+    loc: "ص257"
+    url: "https://archive.org/details/3918pdf/page/n256/mode/1up"
+status: "review"

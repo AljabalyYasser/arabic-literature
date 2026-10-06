@@ -1,0 +1,17 @@
+explained: false
+first: "دَمًا عِنْدَ شِلْوٍ تَحْجُلُ الطَّيْرُ حَوْلَهُ"
+second: "وَبَضْعَ لِحَامٍ فِي إِهَابٍ مُقَدَّدِ"
+vocabulary:
+  - term: "شِلْوٍ"
+    text: "بقية الجسد [@diwan-zuhayr، ص183]."
+  - term: "تَحْجُلُ"
+    text: "تمشي مشي المقيّد، والحِجْل: القيد [@diwan-zuhayr، ص183]."
+  - term: "بَضْعَ لِحَامٍ"
+    text: "البَضْع جمع بَضْعة، واللِّحام جمع لحم [@diwan-zuhayr، ص183]."
+  - term: "إِهَابٍ مُقَدَّدِ"
+    text: "الإهاب: الجلد، والمقدّد: «المخرّق والمشقّق» [@diwan-zuhayr، ص183]."
+sources:
+  - source: "diwan-zuhayr"
+    loc: "ص183"
+    url: "https://archive.org/details/3917pdf/page/n183/mode/1up"
+status: "review"

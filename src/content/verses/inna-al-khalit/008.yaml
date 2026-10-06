@@ -1,0 +1,17 @@
+explained: false
+first: "مَا زِلْتُ أَرْمُقُهُمْ حَتَّى إِذَا هَبَطَتْ"
+second: "أَيْدِي الرِّكَابِ بِهِمْ مِنْ رَاكِسٍ فَلَقَا"
+vocabulary:
+  - term: "أَرْمُقُهُمْ"
+    text: "«ألحظهم وأنظر إليهم، حزنًا لفراقهم» [@diwan-zuhayr، ص65]."
+  - term: "الرِّكَابِ"
+    text: "الإبل التي يُرحل عليها [@diwan-zuhayr، ص65]."
+  - term: "رَاكِسٍ"
+    text: "اسم واد [@diwan-zuhayr، ص65]."
+  - term: "فَلَقَا"
+    text: "المطمئن من الأرض بين جبلين [@diwan-zuhayr، ص65]."
+sources:
+  - source: "diwan-zuhayr"
+    loc: "ص65"
+    url: "https://archive.org/details/3917pdf/page/n65/mode/1up"
+status: "review"

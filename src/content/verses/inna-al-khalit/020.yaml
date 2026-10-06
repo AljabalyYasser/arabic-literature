@@ -1,0 +1,17 @@
+explained: false
+first: "حَتَّى يَؤُوبَ بِهَا عُوجًا مُعَطَّلَةً"
+second: "تَشْكُو الدَّوَابِرَ وَالْأَنْسَاءَ وَالصُّفُقَا"
+vocabulary:
+  - term: "عُوجًا"
+    text: "«جمع أعوج وعوجاء، وهي التي هزلت فاعوجّت» [@diwan-zuhayr، ص74]."
+  - term: "مُعَطَّلَةً"
+    text: "التي لا أرسان عليها لأنها لا تحتاج إليها من الإعياء [@diwan-zuhayr، ص73]."
+  - term: "الْأَنْسَاءَ"
+    text: "جمع نسا، «وهو عرق في الفخذ» [@diwan-zuhayr، ص74]."
+  - term: "الصُّفُقَا"
+    text: "جمع صِفاق البطن، «وهو جلد دون الجلد الأعلى ممّا يلي البطن» [@diwan-zuhayr، ص74]."
+sources:
+  - source: "diwan-zuhayr"
+    loc: "ص73–74"
+    url: "https://archive.org/details/3917pdf/page/n73/mode/1up"
+status: "review"

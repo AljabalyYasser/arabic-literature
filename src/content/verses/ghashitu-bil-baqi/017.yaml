@@ -1,0 +1,15 @@
+explained: false
+first: "أَضَاعَتْ فَلَمْ تُغْفَرْ لَهَا خَلَوَاتُهَا"
+second: "فَلَاقَتْ بَيَانًا عِنْدَ آخِرِ مَعْهَدِ"
+vocabulary:
+  - term: "أَضَاعَتْ"
+    text: "«أي: تركت ولدها وغفلت عنه» [@diwan-zuhayr، ص183]."
+  - term: "بَيَانًا"
+    text: "ما استبانت به أن ولدها قد عُقر: جلد وبقية لحم ودم [@diwan-zuhayr، ص183]."
+  - term: "آخِرِ مَعْهَدِ"
+    text: "آخر موضع عهدته فيه وفارقته منه [@diwan-zuhayr، ص183]."
+sources:
+  - source: "diwan-zuhayr"
+    loc: "ص183"
+    url: "https://archive.org/details/3917pdf/page/n183/mode/1up"
+status: "review"

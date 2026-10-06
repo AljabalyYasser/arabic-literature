@@ -1,0 +1,15 @@
+explained: false
+first: "سِوَى رُبُعٍ لَمْ يَأْتِ فِيهِ مَخَانَةً"
+second: "وَلَا رَهَقًا مِنْ عَائِذٍ مُتَهَوِّدِ"
+vocabulary:
+  - term: "سِوَى رُبُعٍ"
+    text: "لم يكثّر ماله بظلم غيره، «وإنّما يأخذ الربع من الغنيمة، دون أن يخون فيه» [@diwan-zuhayr، ص190]."
+  - term: "رَهَقًا"
+    text: "ظلمًا [@diwan-zuhayr، ص190]."
+  - term: "عَائِذٍ مُتَهَوِّدِ"
+    text: "العائذ: من يعوذ به، والمتهوّد: «المطمئنّ الساكن إليه» [@diwan-zuhayr، ص190]."
+sources:
+  - source: "diwan-zuhayr"
+    loc: "ص190"
+    url: "https://archive.org/details/3917pdf/page/n190/mode/1up"
+status: "review"

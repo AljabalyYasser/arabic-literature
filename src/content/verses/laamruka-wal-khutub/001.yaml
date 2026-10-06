@@ -1,0 +1,18 @@
+explained: false
+first: "لَعَمْرُكَ وَالْخُطُوبُ مُغَيِّرَاتٌ"
+second: "وَفِي طُولِ الْمُعَاشَرَةِ التَّقَالِي"
+vocabulary:
+  - term: "لَعَمْرُكَ"
+    text: "«قسم في معنى بقائك وحياتك» [@sharh-thalab-zuhayr، ص257]."
+  - term: "الْخُطُوبُ مُغَيِّرَاتٌ"
+    text: "الخطوب: الأمور، ومغيّرات: تنقل من حال إلى حال [@sharh-thalab-zuhayr، ص257]. ويقول الأعلم: «يقول: خطوب الدهر قد تغيّر المودّة» [@diwan-zuhayr، ص166]."
+  - term: "التَّقَالِي"
+    text: "التباغض، «وهو تفاعل من قليته أقليه قلًى» [@sharh-thalab-zuhayr، ص257]."
+sources:
+  - source: "diwan-zuhayr"
+    loc: "ص165–166"
+    url: "https://archive.org/details/3917pdf/page/n165/mode/1up"
+  - source: "sharh-thalab-zuhayr"
+    loc: "ص257"
+    url: "https://archive.org/details/3918pdf/page/n256/mode/1up"
+status: "review"

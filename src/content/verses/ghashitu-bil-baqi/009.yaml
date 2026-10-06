@@ -1,0 +1,17 @@
+explained: false
+first: "وَتَنْضَحُ ذِفْرَاهَا بِجَوْنٍ كَأَنَّهُ"
+second: "عَصِيمُ كُحَيْلٍ فِي الْمَرَاجِلِ مُعْقَدِ"
+vocabulary:
+  - term: "ذِفْرَاهَا"
+    text: "«عظم ناتئ خلف الأذن» [@diwan-zuhayr، ص180]."
+  - term: "بِجَوْنٍ"
+    text: "بعرق أسود، و«عرق الإبل يضرب إلى السواد أوّل ما يبدو، ثمّ يصفرّ بعد» [@diwan-zuhayr، ص180]."
+  - term: "عَصِيمُ كُحَيْلٍ"
+    text: "الكحيل ضرب من الهِناء تُطلى به الإبل، وعصيمه أثره، ويقال: العصيم ضرب من القطران [@diwan-zuhayr، ص180]."
+  - term: "مُعْقَدِ"
+    text: "«المطبوخ الخاثر» [@diwan-zuhayr، ص180]."
+sources:
+  - source: "diwan-zuhayr"
+    loc: "ص180"
+    url: "https://archive.org/details/3917pdf/page/n180/mode/1up"
+status: "review"

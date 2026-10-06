@@ -1,0 +1,11 @@
+explained: false
+first: "أَلَيْسَ بِضَرَّابِ الْكُمَاةِ بِسَيْفِهِ"
+second: "وَفَكَّاكِ أَغْلَالِ الْأَسِيرِ الْمُقَيَّدِ"
+vocabulary:
+  - term: "الْكُمَاةِ"
+    text: "جمع كميّ، «وهو الذي يكمي شجاعته، أي: يكتمها إلى وقت الحاجة إليها» [@diwan-zuhayr، ص187]."
+sources:
+  - source: "diwan-zuhayr"
+    loc: "ص187"
+    url: "https://archive.org/details/3917pdf/page/n187/mode/1up"
+status: "review"

@@ -1,0 +1,13 @@
+explained: false
+first: "إِلَى هَرِمٍ تَهْجِيرُهَا وَوَسِيجُهَا"
+second: "تَرُوحُ مِنَ اللَّيْلِ التَّمَامِ وَتَغْتَدِي"
+vocabulary:
+  - term: "تَهْجِيرُهَا وَوَسِيجُهَا"
+    text: "التهجير: السير في الهاجرة، والوسيج: «ضرب من السير سريع» [@diwan-zuhayr، ص187]."
+  - term: "اللَّيْلِ التَّمَامِ"
+    text: "أطول ما يكون من الليل [@diwan-zuhayr، ص186–187]."
+sources:
+  - source: "diwan-zuhayr"
+    loc: "ص186–187"
+    url: "https://archive.org/details/3917pdf/page/n186/mode/1up"
+status: "review"

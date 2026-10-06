@@ -1,0 +1,15 @@
+explained: false
+first: "وَتَنْفُضُ عَنْهَا غَيْبَ كُلِّ خَمِيلَةٍ"
+second: "وَتَخْشَى رُمَاةَ الْغَوْثِ مِنْ كُلِّ مَرْصَدِ"
+vocabulary:
+  - term: "تَنْفُضُ"
+    text: "«أي: تنظر: هل ترى فيه ما تكره أم لا؟» [@diwan-zuhayr، ص183]."
+  - term: "غَيْبَ كُلِّ خَمِيلَةٍ"
+    text: "الغيب كل ما استتر عنك، والخميلة «رملة ذات شجر» [@diwan-zuhayr، ص184]."
+  - term: "الْغَوْثِ"
+    text: "«قبيلة من طيّئ. وخصّهم، لأنّهم أهل رماية، وصيد» [@diwan-zuhayr، ص184]."
+sources:
+  - source: "diwan-zuhayr"
+    loc: "ص183–184"
+    url: "https://archive.org/details/3917pdf/page/n183/mode/1up"
+status: "review"

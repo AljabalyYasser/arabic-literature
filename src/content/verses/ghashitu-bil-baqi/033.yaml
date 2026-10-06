@@ -1,0 +1,15 @@
+explained: false
+first: "وَمِدْرَهُ حَرْبٍ حَمْيُهَا يُتَّقَى بِهِ"
+second: "شَدِيدُ الرِّجَامِ بِاللِّسَانِ وَبِالْيَدِ"
+vocabulary:
+  - term: "مِدْرَهُ حَرْبٍ"
+    text: "«المدفع. أي: هو فارس القوم، الذي يدفع عنهم» [@diwan-zuhayr، ص188]."
+  - term: "حَمْيُهَا"
+    text: "شدّتها، «وهو مستعار من حمي النار» [@diwan-zuhayr، ص188]."
+  - term: "شَدِيدُ الرِّجَامِ"
+    text: "شديد المراجمة، أي المراماة بالخصومة والقتال: أشار باللسان إلى الخصومة وباليد إلى القتال [@diwan-zuhayr، ص188]."
+sources:
+  - source: "diwan-zuhayr"
+    loc: "ص188"
+    url: "https://archive.org/details/3917pdf/page/n188/mode/1up"
+status: "review"

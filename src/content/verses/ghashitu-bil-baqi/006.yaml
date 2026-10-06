@@ -1,0 +1,15 @@
+explained: false
+first: "مَتَى مَا تُكَلِّفْهَا مَآبَةَ مَنْهَلٍ"
+second: "فَتُسْتَعْفَ أَوْ تُنْهَكْ إِلَيْهِ فَتَجْهَدِ"
+vocabulary:
+  - term: "مَآبَةَ مَنْهَلٍ"
+    text: "«أن تسير نهارها، ثمّ تؤوب إلى المنهل عشيًّا. والمنهل: الماء» [@diwan-zuhayr، ص179]."
+  - term: "فَتُسْتَعْفَ"
+    text: "«أي: يؤخذ عفوها في السير» [@diwan-zuhayr، ص179]."
+  - term: "تُنْهَكْ"
+    text: "«يُبلغ منها بالضرب والإجهاد» [@diwan-zuhayr، ص179]."
+sources:
+  - source: "diwan-zuhayr"
+    loc: "ص178–179"
+    url: "https://archive.org/details/3917pdf/page/n178/mode/1up"
+status: "review"

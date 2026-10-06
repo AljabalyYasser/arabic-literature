@@ -1,0 +1,13 @@
+explained: false
+first: "وَذَاكَ أَحْزَمُهُمْ رَأْيًا إِذَا نَبَأٌ"
+second: "مِنَ الْحَوَادِثِ غَادَى النَّاسَ أَوْ طَرَقَا"
+vocabulary:
+  - term: "نَبَأٌ"
+    text: "أمر ينوب ويُخبر به لشدته وفظاعته [@diwan-zuhayr، ص75]."
+  - term: "غَادَى النَّاسَ أَوْ طَرَقَا"
+    text: "جاءهم غدوة أو ليلًا، «و«الطروق»: المجيء بالليل» [@diwan-zuhayr، ص75]."
+sources:
+  - source: "diwan-zuhayr"
+    loc: "ص75"
+    url: "https://archive.org/details/3917pdf/page/n75/mode/1up"
+status: "review"

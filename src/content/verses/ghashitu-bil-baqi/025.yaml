@@ -1,0 +1,17 @@
+explained: false
+first: "نَجَاءٌ مُجِدٌّ لَيْسَ فِيهِ وَتِيرَةٌ"
+second: "وَتَذْبِيبُهَا عَنْهَا بِأَسْحَمَ مِذْوَدِ"
+vocabulary:
+  - term: "نَجَاءٌ"
+    text: "السرعة في السير، والمعنى: أنقذها نجاء [@diwan-zuhayr، ص185]."
+  - term: "وَتِيرَةٌ"
+    text: "«التلبّث والفترة» [@diwan-zuhayr، ص185]."
+  - term: "تَذْبِيبُهَا"
+    text: "«أن تذبّ الكلاب عن نفسها» [@diwan-zuhayr، ص185]."
+  - term: "بِأَسْحَمَ مِذْوَدِ"
+    text: "الأسحم: قرن أسود، والمذود: الذي تدفع به عن نفسها، من ذاد يذود إذا دفع [@diwan-zuhayr، ص185]."
+sources:
+  - source: "diwan-zuhayr"
+    loc: "ص185"
+    url: "https://archive.org/details/3917pdf/page/n185/mode/1up"
+status: "review"

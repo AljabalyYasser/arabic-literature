@@ -1,0 +1,15 @@
+explained: false
+first: "يُحِيلُ فِي جَدْوَلٍ تَحْبُو ضَفَادِعُهُ"
+second: "حَبْوَ الْجَوَارِي تَرَى فِي مَائِهِ نُطُقَا"
+vocabulary:
+  - term: "يُحِيلُ"
+    text: "يصبّ ماء الغرب في جدول، «وهو: نهر صغير» [@diwan-zuhayr، ص72]."
+  - term: "تَحْبُو ضَفَادِعُهُ"
+    text: "يقول الأعلم: «وإنما ذكر الضفادع ليخبر أنّ الجدول دائم الماء أبدًا، لا ييبس» [@diwan-zuhayr، ص72]."
+  - term: "نُطُقَا"
+    text: "الطرائق التي تعلو الماء، شبّهها بالنُّطُق جمع النطاق [@diwan-zuhayr، ص72]."
+sources:
+  - source: "diwan-zuhayr"
+    loc: "ص68، ص72"
+    url: "https://archive.org/details/3917pdf/page/n68/mode/1up"
+status: "review"

@@ -1,0 +1,15 @@
+explained: false
+first: "كَلَيْثٍ أَبِي شِبْلَيْنِ يَحْمِي عَرِينَهُ"
+second: "إِذَا هُوَ لَاقَى نَجْدَةً لَمْ يُعَرِّدِ"
+vocabulary:
+  - term: "عَرِينَهُ"
+    text: "أجمته [@diwan-zuhayr، ص188]."
+  - term: "نَجْدَةً"
+    text: "الشدة والجرأة [@diwan-zuhayr، ص188]."
+  - term: "لَمْ يُعَرِّدِ"
+    text: "«أي: لم يفرّ» [@diwan-zuhayr، ص188]."
+sources:
+  - source: "diwan-zuhayr"
+    loc: "ص187–188"
+    url: "https://archive.org/details/3917pdf/page/n187/mode/1up"
+status: "review"

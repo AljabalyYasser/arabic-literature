@@ -1,0 +1,17 @@
+explained: false
+first: "يَطِيبُ لَهُ أَوِ افْتِرَاصٍ بِسَيْفِهِ"
+second: "عَلَى دَهَشٍ فِي عَارِضٍ مُتَوَقِّدِ"
+vocabulary:
+  - term: "يَطِيبُ لَهُ"
+    text: "«أراد: سوى ربع يطيب له» [@diwan-zuhayr، ص190]."
+  - term: "افْتِرَاصٍ"
+    text: "«الضرب والقطع. ويقال: هو من الفرصة» [@diwan-zuhayr، ص190]."
+  - term: "دَهَشٍ"
+    text: "العجلة [@diwan-zuhayr، ص190]."
+  - term: "عَارِضٍ مُتَوَقِّدِ"
+    text: "جيش شبّهه بالعارض من السحاب، «وجعله «متوقّدًا» لكثرة سلاح الحديد» [@diwan-zuhayr، ص190]."
+sources:
+  - source: "diwan-zuhayr"
+    loc: "ص190"
+    url: "https://archive.org/details/3917pdf/page/n190/mode/1up"
+status: "review"

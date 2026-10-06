@@ -1,0 +1,13 @@
+explained: false
+first: "فَأَنْقَذَهَا مِنْ غَمْرَةِ الْمَوْتِ أَنَّهَا"
+second: "رَأَتْ أَنَّهَا إِنْ تَنْظُرِ النَّبْلَ تُقْصَدِ"
+vocabulary:
+  - term: "تَنْظُرِ النَّبْلَ"
+    text: "«أي: إن تنتظر أصحاب النبل أن يجيئوا» [@diwan-zuhayr، ص185]."
+  - term: "تُقْصَدِ"
+    text: "«تُقتل. يقال: رماه فأقصده، إذا أصاب مقتله» [@diwan-zuhayr، ص185]."
+sources:
+  - source: "diwan-zuhayr"
+    loc: "ص185"
+    url: "https://archive.org/details/3917pdf/page/n185/mode/1up"
+status: "review"

@@ -1,0 +1,17 @@
+explained: false
+first: "تَمْطُو الرِّشَاءَ فَتُجْرِي فِي ثِنَايَتِهَا"
+second: "مِنَ الْمَحَالَةِ ثَقْبًا رَائِدًا قَلِقَا"
+vocabulary:
+  - term: "تَمْطُو الرِّشَاءَ"
+    text: "تمدّ الحبل [@diwan-zuhayr، ص67]."
+  - term: "ثِنَايَتِهَا"
+    text: "الحبل الذي يُشدّ أحد طرفيه بقتب الناقة والآخر في الدلو [@diwan-zuhayr، ص67]."
+  - term: "الْمَحَالَةِ"
+    text: "البكرة [@diwan-zuhayr، ص67]."
+  - term: "رَائِدًا قَلِقَا"
+    text: "الرائد: الذي يجيء ويذهب، والقلق: الذي لا يثبت، يصف ثقب البكرة وهو يدور [@diwan-zuhayr، ص67]."
+sources:
+  - source: "diwan-zuhayr"
+    loc: "ص67"
+    url: "https://archive.org/details/3917pdf/page/n67/mode/1up"
+status: "review"
