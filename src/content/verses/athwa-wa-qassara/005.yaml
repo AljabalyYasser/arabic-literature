@@ -1,0 +1,21 @@
+explained: false
+first: "بَلْ لَيْتَ شِعْرِي هَلْ أَعُودَنْ نَاشِئًا"
+second: "مِثْلِي زُمَيْنَ أَحُلُّ بُرْقَةَ أَنْقَدَا"
+vocabulary:
+  - term: "لَيْتَ شِعْرِي"
+    text: "ليتني أعلم."
+  - term: "نَاشِئًا"
+    text: "غلامًا حدثًا: «غلامٌ ناشِئٌ وَجَارِيَةٌ ناشِئةٌ» [@lisan، ج1 ص171]."
+  - term: "زُمَيْنَ أَحُلُّ بُرْقَةَ أَنْقَدَا"
+    text: "زمنَ كنت أنزل بُرقة أنقد، وهي موضع. وفي اللسان: «زُمَيْنَ هَنا بِبُرْقةِ أَنْقَدا» [@lisan، ج15 ص485]."
+sources:
+  - source: "diwan-asha"
+    loc: "ص263"
+    url: "https://archive.org/details/20201023_20201023_0327/page/n255/mode/1up"
+  - source: "lisan"
+    loc: "ج1 ص171"
+    url: "https://shamela.ws/book/1687/171"
+  - source: "lisan"
+    loc: "ج15 ص485"
+    url: "https://shamela.ws/book/1687/8092"
+status: "review"

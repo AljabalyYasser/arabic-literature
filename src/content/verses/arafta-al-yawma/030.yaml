@@ -1,0 +1,19 @@
+explained: false
+first: "أَخُو النَّجَدَاتِ لَا يَكْبُو لِضُرٍّ"
+second: "وَلَا مَرِحٌ إِذَا مَا الخَيْرُ دَامَا"
+vocabulary:
+  - term: "النَّجَدَاتِ"
+    text: "«النَّجْدَةُ: الشَّجَاعَةُ» [@lisan، ج3 ص418]."
+  - term: "يَكْبُو"
+    text: "يسقط على وجهه: «كَبا لوَجْهِهِ يَكْبُو كَبْواً سَقَطَ» [@lisan، ج15 ص213]."
+sources:
+  - source: "diwan-asha"
+    loc: "ص235"
+    url: "https://archive.org/details/20201023_20201023_0327/page/n231/mode/1up"
+  - source: "lisan"
+    loc: "ج3 ص418"
+    url: "https://shamela.ws/book/1687/1860"
+  - source: "lisan"
+    loc: "ج15 ص213"
+    url: "https://shamela.ws/book/1687/7824"
+status: "review"

@@ -1,0 +1,19 @@
+explained: false
+first: "تَخَيَّرَهَا أَخُو عَانَاتَ شَهْرًا"
+second: "وَرَجَّى أَوْلَهَا عَامًا فَعَامَا"
+vocabulary:
+  - term: "أَخُو عَانَاتَ"
+    text: "تاجر من عانة: «وعانَةُ: قَرْيَةٌ مِنْ قُرى» الجزيرة، و«وَرُبَّمَا قَالُوا عاناتٌ» [@lisan، ج13 ص300]."
+  - term: "أَوْلَهَا"
+    text: "ما يؤول إليه من ربحها. وفي اللسان «ورَجَّى خَيرَها» [@lisan، ج13 ص300] و«ورَجَّى بِرَّها» [@lisan، ج4 ص53]."
+sources:
+  - source: "diwan-asha"
+    loc: "ص233"
+    url: "https://archive.org/details/20201023_20201023_0327/page/n229/mode/1up"
+  - source: "lisan"
+    loc: "ج13 ص300"
+    url: "https://shamela.ws/book/1687/6861"
+  - source: "lisan"
+    loc: "ج4 ص53"
+    url: "https://shamela.ws/book/1687/2013"
+status: "review"

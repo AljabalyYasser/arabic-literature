@@ -1,0 +1,19 @@
+explained: false
+first: "كَلَّا يَمِينَ اللَّهِ حَتَّى تُنْزِلُوا"
+second: "مِنْ رَأْسِ شَاهِقَةٍ إِلَيْنَا الأَسْوَدَا"
+vocabulary:
+  - term: "شَاهِقَةٍ"
+    text: "«والشاهِقُ: الْجَبَلُ الْمُرْتَفِعُ» [@lisan، ج10 ص192]."
+  - term: "الأَسْوَدَا"
+    text: "في اللسان: «والأَسودُ: عَلَمٌ فِي رأْس جَبَلٍ»، وأنشد البيت [@lisan، ج3 ص231]. ويقول المحقق: «الأسود هو أخو الحوفزان، كان في يد كسرى في رهن قيس بن مسعود» [@diwan-asha، ص267]."
+sources:
+  - source: "diwan-asha"
+    loc: "ص267"
+    url: "https://archive.org/details/20201023_20201023_0327/page/n259/mode/1up"
+  - source: "lisan"
+    loc: "ج10 ص192"
+    url: "https://shamela.ws/book/1687/4862"
+  - source: "lisan"
+    loc: "ج3 ص231"
+    url: "https://shamela.ws/book/1687/1673"
+status: "review"

@@ -1,0 +1,16 @@
+explained: false
+first: "آلَيْتُ لَا نُعْطِيهِ مِنْ أَبْنَائِنَا"
+second: "رُهُنًا فَيُفْسِدَهُمْ كَمَنْ قَدْ أَفْسَدَا"
+vocabulary:
+  - term: "آلَيْتُ"
+    text: "أقسمت."
+  - term: "رُهُنًا"
+    text: "جمع رَهْن، وهو ما يوضع عند غيرك ضمانًا: «الرَّهْنُ مَا وُضِعَ عِنْدَ الإِنسان» [@lisan، ج13 ص188]؛ يريد الرهائن من أبنائهم."
+sources:
+  - source: "diwan-asha"
+    loc: "ص265"
+    url: "https://archive.org/details/20201023_20201023_0327/page/n257/mode/1up"
+  - source: "lisan"
+    loc: "ج13 ص188"
+    url: "https://shamela.ws/book/1687/6749"
+status: "review"

@@ -1,0 +1,21 @@
+explained: false
+first: "فَإِنْ تَكُ لِمَّتِي يَا قَتْلُ أَضْحَتْ"
+second: "كَأَنَّ عَلَى مَفَارِقِهَا ثَغَامَا"
+vocabulary:
+  - term: "لِمَّتِي"
+    text: "«واللِّمَّة: شَعْرُ الرأْس» [@lisan، ج12 ص551]."
+  - term: "يَا قَتْلُ"
+    text: "يريد صاحبته، ناداها مرخَّمًا، أي بحذف آخر الاسم."
+  - term: "ثَغَامَا"
+    text: "«الثَّغام، بِالْفَتْحِ: نَبْت عَلَى شَكْل الحَلِيِّ» [@lisan، ج12 ص77]، ونَوره أبيض، فشبّه به شيبه."
+sources:
+  - source: "diwan-asha"
+    loc: "ص231"
+    url: "https://archive.org/details/20201023_20201023_0327/page/n227/mode/1up"
+  - source: "lisan"
+    loc: "ج12 ص551"
+    url: "https://shamela.ws/book/1687/6464"
+  - source: "lisan"
+    loc: "ج12 ص77"
+    url: "https://shamela.ws/book/1687/5993"
+status: "review"

@@ -1,0 +1,19 @@
+explained: false
+first: "عَرَفْتَ اليَوْمَ مِنْ تَيَّا مُقَامًا"
+second: "بِجَوٍّ أَوْ عَرَفْتَ لَهَا خِيَامًا"
+vocabulary:
+  - term: "تَيَّا"
+    text: "إشارة إلى صاحبته، وأصلها اسم إشارة مصغّر: «وتَيّا تَصْغِيرُهُ» أي تصغير «تا» [@lisan، ج14 ص106]."
+  - term: "جَوٍّ"
+    text: "«وجوٌّ: اسْمُ الْيَمَامَةِ» [@lisan، ج14 ص159]."
+sources:
+  - source: "diwan-asha"
+    loc: "ص231"
+    url: "https://archive.org/details/20201023_20201023_0327/page/n227/mode/1up"
+  - source: "lisan"
+    loc: "ج14 ص106"
+    url: "https://shamela.ws/book/1687/7230"
+  - source: "lisan"
+    loc: "ج14 ص159"
+    url: "https://shamela.ws/book/1687/7283"
+status: "review"

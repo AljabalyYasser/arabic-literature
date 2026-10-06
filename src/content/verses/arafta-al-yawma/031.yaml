@@ -1,0 +1,16 @@
+explained: false
+first: "لَهُ يَوْمَانِ يَوْمُ لِعَابِ خُودٍ"
+second: "وَيَوْمٌ يَسْتَمِي القُحَمَ العِظَامَا"
+vocabulary:
+  - term: "خُودٍ"
+    text: "«الخَوْدُ: الْفَتَاةُ الْحَسَنَةُ الخَلق الشَّابَّةُ» [@lisan، ج3 ص165]."
+  - term: "يَسْتَمِي القُحَمَ"
+    text: "يطلب الأمور الشاقة. يقول المحقق: «يستمي يطلب. القحم الأهوال» [@diwan-asha، ص235]."
+sources:
+  - source: "diwan-asha"
+    loc: "ص235"
+    url: "https://archive.org/details/20201023_20201023_0327/page/n231/mode/1up"
+  - source: "lisan"
+    loc: "ج3 ص165"
+    url: "https://shamela.ws/book/1687/1607"
+status: "review"

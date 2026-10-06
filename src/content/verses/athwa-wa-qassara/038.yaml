@@ -1,0 +1,21 @@
+explained: false
+first: "فَاقْعُدْ عَلَيْكَ التَّاجُ مُعْتَصِبًا بِهِ"
+second: "لَا تَطْلُبَنَّ سَوَامَنَا فَتَعَبَّدَا"
+vocabulary:
+  - term: "مُعْتَصِبًا"
+    text: "شادًّا التاج على رأسك: «والعِصابة: الْعِمَامَةُ، وكلُّ مَا يُعَصَّبُ بِهِ الرأْسُ» [@lisan، ج1 ص602]."
+  - term: "سَوَامَنَا"
+    text: "إبلنا الراعية: «والسَّوَامُ والسائمةُ بِمَعْنًى: وَهُوَ الْمَالُ الرَّاعِي» [@lisan، ج12 ص311]."
+  - term: "فَتَعَبَّدَا"
+    text: "فتتخذنا عبيدًا."
+sources:
+  - source: "diwan-asha"
+    loc: "ص269"
+    url: "https://archive.org/details/20201023_20201023_0327/page/n261/mode/1up"
+  - source: "lisan"
+    loc: "ج1 ص602"
+    url: "https://shamela.ws/book/1687/602"
+  - source: "lisan"
+    loc: "ج12 ص311"
+    url: "https://shamela.ws/book/1687/6224"
+status: "review"

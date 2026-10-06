@@ -1,0 +1,19 @@
+explained: false
+first: "وَفِي كُلِّ عَامٍ أَنْتَ جَاشِمُ غَزْوَةٍ"
+second: "تَشُدُّ لِأَقْصَاهَا عَزِيمَ عَزَائِكَا"
+vocabulary:
+  - term: "جَاشِمُ"
+    text: "متكلّف: «جَشِمَ الأَمْرَ، بِالْكَسْرِ، يَجْشَمُه جَشْماً وجَشامةً وتَجَشَّمَه: تَكَلَّفَه عَلَى مَشَقَّةٍ» [@lisan، ج12 ص100]."
+  - term: "عَزِيمَ عَزَائِكَا"
+    text: "أشدّ صبرك: «العَزَاءُ: الصَّبْرُ» [@lisan، ج15 ص52]."
+sources:
+  - source: "diwan-asha"
+    loc: "ص127"
+    url: "https://archive.org/details/20201023_20201023_0327/page/n125/mode/1up"
+  - source: "lisan"
+    loc: "ج12 ص100"
+    url: "https://shamela.ws/book/1687/6016"
+  - source: "lisan"
+    loc: "ج15 ص52"
+    url: "https://shamela.ws/book/1687/7664"
+status: "review"

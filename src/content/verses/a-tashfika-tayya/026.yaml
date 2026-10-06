@@ -1,0 +1,17 @@
+explained: false
+first: "يَقُولُونَ فِي الإِكْفَاءِ أَكْبَرُ هَمِّهِ"
+second: "أَلَا رُبَّ مِنْهُمْ مَنْ يَعِيشُ بِمَالِكَا"
+vocabulary:
+  - term: "الإِكْفَاءِ"
+    text: "الجَور والميل عن العدل: «وأَكْفَأَ فِي سَيره: جارَ عَنِ القَصْدِ» [@lisan، ج1 ص142]. يقول: يتهمه حسّاده بأن همّه الجور على الناس. وعند شوقي ضَيْف «فى الأكفاء»، وقال: «يريد بالشطر الأول أن ممدوحه يتهم بأنه يظلم أكفاءه» [@deif، ج1 ص350]."
+sources:
+  - source: "diwan-asha"
+    loc: "ص127"
+    url: "https://archive.org/details/20201023_20201023_0327/page/n125/mode/1up"
+  - source: "lisan"
+    loc: "ج1 ص142"
+    url: "https://shamela.ws/book/1687/142"
+  - source: "deif"
+    loc: "ج1 ص350"
+    url: "https://shamela.ws/book/11996/346"
+status: "review"

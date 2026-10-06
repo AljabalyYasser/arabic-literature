@@ -1,0 +1,21 @@
+explained: false
+first: "وَكَأَنَّهُ هِقْلٌ يُبَارِي هِقْلَةً"
+second: "رَمْدَاءَ فِي خِيطٍ نَقَانِقَ أَرْمَدَا"
+vocabulary:
+  - term: "هِقْلٌ ... هِقْلَةً"
+    text: "«الهِقْلُ: الفتيُّ مِنَ النَّعام» [@lisan، ج11 ص700]، والهقلة أنثاه."
+  - term: "رَمْدَاءَ"
+    text: "رمادية اللون."
+  - term: "خِيطٍ نَقَانِقَ"
+    text: "جماعة من ذكور النعام، و«والنَّقْنَقُ: الظَّلِيمُ» [@lisan، ج10 ص360]."
+sources:
+  - source: "diwan-asha"
+    loc: "ص265"
+    url: "https://archive.org/details/20201023_20201023_0327/page/n257/mode/1up"
+  - source: "lisan"
+    loc: "ج11 ص700"
+    url: "https://shamela.ws/book/1687/5877"
+  - source: "lisan"
+    loc: "ج10 ص360"
+    url: "https://shamela.ws/book/1687/5029"
+status: "review"

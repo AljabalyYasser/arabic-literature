@@ -1,0 +1,16 @@
+explained: false
+first: "يَقُودُ المَوْتَ يَهْدِيهِ إِيَاسٌ"
+second: "عَلَى جَرْدَاءَ تَسْتَوْفِي الحِزَامَا"
+vocabulary:
+  - term: "جَرْدَاءَ"
+    text: "فرس قصيرة الشعر: «والأَجْرَدُ مِنَ الخيلِ والدوابِّ كلِّه» [@lisan، ج3 ص116] القصير الشعر."
+  - term: "تَسْتَوْفِي الحِزَامَا"
+    text: "تملأ الحزام لضخامة جنبيها."
+sources:
+  - source: "diwan-asha"
+    loc: "ص235"
+    url: "https://archive.org/details/20201023_20201023_0327/page/n231/mode/1up"
+  - source: "lisan"
+    loc: "ج3 ص116"
+    url: "https://shamela.ws/book/1687/1558"
+status: "review"

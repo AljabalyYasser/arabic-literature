@@ -1,0 +1,13 @@
+explained: false
+first: "خَرِبَتْ بُيُوتُ نَبِيطَةٍ فَكَأَنَّمَا"
+second: "لَمْ تَلْقَ بَعْدَكَ عَامِرًا مُتَعَهِّدَا"
+vocabulary:
+  - term: "نَبِيطَةٍ"
+    text: "النبط، قوم من العجم بسواد العراق."
+  - term: "مُتَعَهِّدَا"
+    text: "من يتعهد الدار ويصلحها."
+sources:
+  - source: "diwan-asha"
+    loc: "ص267"
+    url: "https://archive.org/details/20201023_20201023_0327/page/n259/mode/1up"
+status: "review"

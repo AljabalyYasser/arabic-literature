@@ -1,0 +1,21 @@
+explained: false
+first: "لَيَلْتَمِسَنْ بِلَادَكُمُ بِمَجْرٍ"
+second: "يُثِيرُ بِكُلِّ بَلْقَعَةٍ قَتَامَا"
+vocabulary:
+  - term: "بِمَجْرٍ"
+    text: "بجيش عظيم: «المَجْرُ، بِالتَّسْكِينِ، الْجَيْشُ الْعَظِيمُ» [@lisan، ج5 ص159]."
+  - term: "بَلْقَعَةٍ"
+    text: "أرض قفر خالية."
+  - term: "قَتَامَا"
+    text: "«والقَتَمُ والقَتامُ: الغُبار» [@lisan، ج12 ص461]."
+sources:
+  - source: "diwan-asha"
+    loc: "ص235"
+    url: "https://archive.org/details/20201023_20201023_0327/page/n231/mode/1up"
+  - source: "lisan"
+    loc: "ج5 ص159"
+    url: "https://shamela.ws/book/1687/2743"
+  - source: "lisan"
+    loc: "ج12 ص461"
+    url: "https://shamela.ws/book/1687/6374"
+status: "review"

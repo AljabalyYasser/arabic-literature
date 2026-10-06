@@ -1,0 +1,16 @@
+explained: false
+first: "وَأَرَى الغَوَانِيَ حِينَ شِبْتُ هَجَرْنَنِي"
+second: "أَنْ لَا أَكُونَ لَهُنَّ مِثْلِي أَمْرَدَا"
+vocabulary:
+  - term: "الغَوَانِيَ"
+    text: "جمع غانية، وهي الحسناء من النساء."
+  - term: "أَمْرَدَا"
+    text: "«والأَمْرَدُ: الشابُّ الَّذِي بلغَ خُرُوجَ لِحْيته وطَرَّ شَارِبُهُ وَلَمْ تَبْدُ لِحْيَتُهُ» [@lisan، ج3 ص401]."
+sources:
+  - source: "diwan-asha"
+    loc: "ص263"
+    url: "https://archive.org/details/20201023_20201023_0327/page/n255/mode/1up"
+  - source: "lisan"
+    loc: "ج3 ص401"
+    url: "https://shamela.ws/book/1687/1843"
+status: "review"

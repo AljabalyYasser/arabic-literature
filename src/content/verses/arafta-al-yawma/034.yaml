@@ -1,0 +1,19 @@
+explained: false
+first: "كَفَاهُ الحَرْبَ إِذْ لَقِحَتْ إِيَاسٌ"
+second: "فَأَعْلَى عَنْ نَمَارِقِهِ فَقَامَا"
+vocabulary:
+  - term: "لَقِحَتْ"
+    text: "هاجت بعد سكون، من لقاح الناقة: «ولَقِحت الحربُ» [@lisan، ج9 ص301]."
+  - term: "نَمَارِقِهِ"
+    text: "«النُّمْرُقُ والنُّمْرُقة والنِّمْرِقة، بِالْكَسْرِ: الْوِسَادَةُ، وَقِيلَ: وِسَادَةٌ صَغِيرَةٌ» [@lisan، ج10 ص361]. وأعلى عنها: قام عنها."
+sources:
+  - source: "diwan-asha"
+    loc: "ص235"
+    url: "https://archive.org/details/20201023_20201023_0327/page/n231/mode/1up"
+  - source: "lisan"
+    loc: "ج9 ص301"
+    url: "https://shamela.ws/book/1687/4608"
+  - source: "lisan"
+    loc: "ج10 ص361"
+    url: "https://shamela.ws/book/1687/5030"
+status: "review"

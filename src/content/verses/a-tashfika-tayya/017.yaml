@@ -1,0 +1,19 @@
+explained: false
+first: "فَلَمَّا أَتَتْ آطَامَ جَوٍّ وَأَهْلَهُ"
+second: "أُنِيخَتْ وَأَلْقَتْ رَحْلَهَا بِفِنَائِكَا"
+vocabulary:
+  - term: "آطَامَ"
+    text: "جمع أُطُم: «الأُطُم: حِصْنٌ مَبْنِيٌّ بِحِجَارَةٍ» [@lisan، ج12 ص19]، وفيه هذا البيت."
+  - term: "جَوٍّ"
+    text: "«وجوٌّ: اسْمُ الْيَمَامَةِ» [@lisan، ج14 ص159]، وهي بلد هَوْذة."
+sources:
+  - source: "diwan-asha"
+    loc: "ص127"
+    url: "https://archive.org/details/20201023_20201023_0327/page/n125/mode/1up"
+  - source: "lisan"
+    loc: "ج12 ص19"
+    url: "https://shamela.ws/book/1687/5935"
+  - source: "lisan"
+    loc: "ج14 ص159"
+    url: "https://shamela.ws/book/1687/7283"
+status: "review"

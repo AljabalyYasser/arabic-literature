@@ -1,0 +1,19 @@
+explained: false
+first: "تَرُوحُ جِيَادُهُ مِثْلَ السَّعَالِي"
+second: "حَوَافِرُهُنَّ تَهْتَضِمُ السِّلَامَا"
+vocabulary:
+  - term: "السَّعَالِي"
+    text: "«والسِّعْلاةُ والسِّعْلا: الغُولُ» [@lisan، ج11 ص336]."
+  - term: "تَهْتَضِمُ السِّلَامَا"
+    text: "تكسر الحجارة: «والسِّلامُ والسَّلِمُ: الْحِجَارَةُ» [@lisan، ج12 ص297]."
+sources:
+  - source: "diwan-asha"
+    loc: "ص235"
+    url: "https://archive.org/details/20201023_20201023_0327/page/n231/mode/1up"
+  - source: "lisan"
+    loc: "ج11 ص336"
+    url: "https://shamela.ws/book/1687/5516"
+  - source: "lisan"
+    loc: "ج12 ص297"
+    url: "https://shamela.ws/book/1687/6210"
+status: "review"

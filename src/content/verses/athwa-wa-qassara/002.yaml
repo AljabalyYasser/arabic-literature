@@ -1,0 +1,19 @@
+explained: false
+first: "وَمَضَى لِحَاجَتِهِ وَأَصْبَحَ حَبْلُهَا"
+second: "خَلَقًا وَكَانَ يَظُنُّ أَنْ لَنْ يُنْكَدَا"
+vocabulary:
+  - term: "خَلَقًا"
+    text: "باليًا: «وَقَدْ خَلُق الثَّوْبُ» إذا بلي [@lisan، ج10 ص89]، أي انقطع وصلها."
+  - term: "يُنْكَدَا"
+    text: "يُحرم ويُمنع، من «ونَكِدَ الرجلُ نَكَداً» إذا قلّ خيره؛ والنَّكَد: «الشؤْمُ واللؤْمُ» [@lisan، ج3 ص427]."
+sources:
+  - source: "diwan-asha"
+    loc: "ص263"
+    url: "https://archive.org/details/20201023_20201023_0327/page/n255/mode/1up"
+  - source: "lisan"
+    loc: "ج10 ص89"
+    url: "https://shamela.ws/book/1687/4759"
+  - source: "lisan"
+    loc: "ج3 ص427"
+    url: "https://shamela.ws/book/1687/1869"
+status: "review"

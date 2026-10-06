@@ -1,0 +1,16 @@
+explained: false
+first: "إِذَا مَا الآثِمَاتُ وَنَيْنَ حَطَّتْ"
+second: "عَلَى العِلَّاتِ تَجْتَرِعُ الإِكَامَا"
+vocabulary:
+  - term: "الآثِمَاتُ"
+    text: "الإبل المبطئات. يقول المحقق: «الآثمات التي لا تصدق السير» [@diwan-asha، ص233]."
+  - term: "الإِكَامَا"
+    text: "جمع أَكَم، والأَكَمة التل: «وَجَمْعُ الأَكَمِ إِكامٌ» [@lisan، ج12 ص20]. وتجترعها: تقطعها كأنها تبتلعها."
+sources:
+  - source: "diwan-asha"
+    loc: "ص233"
+    url: "https://archive.org/details/20201023_20201023_0327/page/n229/mode/1up"
+  - source: "lisan"
+    loc: "ج12 ص20"
+    url: "https://shamela.ws/book/1687/5936"
+status: "review"

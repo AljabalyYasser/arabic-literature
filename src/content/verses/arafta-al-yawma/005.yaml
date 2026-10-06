@@ -1,0 +1,17 @@
+explained: false
+first: "وَقَدْ قَالَتْ قُتَيْلَةُ إِذْ رَأَتْنِي"
+second: "وَقَدْ لَا تَعْدَمُ الحَسْنَاءُ ذَامَا"
+vocabulary:
+  - term: "ذَامَا"
+    text: "عيبًا. «الذَّامُ والذَّيْم: العَيْبُ» [@maydani، ج2 ص213]. والشطر مثل: «وَفِي الْمَثَلِ: لَا تَعْدَمُ الحَسْناءُ ذَامًا» [@lisan، ج12 ص223]، أي إن الحسناء تعيب الناس ولها عيبها. وينشد ابن بَرِّيّ الشطر نفسه في بيت لأنس بن نُواس المحاربيّ [@lisan، ج12 ص223]."
+sources:
+  - source: "diwan-asha"
+    loc: "ص231"
+    url: "https://archive.org/details/20201023_20201023_0327/page/n227/mode/1up"
+  - source: "maydani"
+    loc: "ج2 ص213"
+    url: "https://shamela.ws/book/12929/3586"
+  - source: "lisan"
+    loc: "ج12 ص223"
+    url: "https://shamela.ws/book/1687/6138"
+status: "review"

@@ -1,0 +1,19 @@
+explained: false
+first: "فَهَاجَتْ شَوْقَ مَحْزُونٍ طَرُوبٍ"
+second: "فَأَسْبَلَ دَمْعَهُ فِيهَا سِجَامًا"
+vocabulary:
+  - term: "طَرُوبٍ"
+    text: "«الطَّرَبُ: الفَرَح والحُزْنُ؛ عَنْ ثَعْلَبٍ» [@lisan، ج1 ص557]، وهو هنا الحزن، لأنه «محزون»."
+  - term: "سِجَامًا"
+    text: "سائلًا منصبًّا، من «سَجَمَتِ الْعَيْنُ الدَّمْعَ» [@lisan، ج12 ص280]."
+sources:
+  - source: "diwan-asha"
+    loc: "ص231"
+    url: "https://archive.org/details/20201023_20201023_0327/page/n227/mode/1up"
+  - source: "lisan"
+    loc: "ج1 ص557"
+    url: "https://shamela.ws/book/1687/557"
+  - source: "lisan"
+    loc: "ج12 ص280"
+    url: "https://shamela.ws/book/1687/6193"
+status: "review"

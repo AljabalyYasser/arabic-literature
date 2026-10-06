@@ -1,0 +1,16 @@
+explained: false
+first: "وَيَوْمَ الخَرْجِ مِنْ قَرْمَاءَ هَاجَتْ"
+second: "صِبَاكَ حَمَامَةٌ تَدْعُو حَمَامًا"
+vocabulary:
+  - term: "يَوْمَ الخَرْجِ"
+    text: "يوم نشأ السحاب، من قولهم: «وخَرج لَهُ خُروجٌ حَسَنٌ، وَذَلِكَ أَوَّلَ مَا يَنْشَأُ» [@lisan، ج1 ص171]."
+  - term: "قَرْمَاءَ"
+    text: "موضع. يقول المحقق: «قرماء موضع باليمامة» [@diwan-asha، ص231]."
+sources:
+  - source: "diwan-asha"
+    loc: "ص231"
+    url: "https://archive.org/details/20201023_20201023_0327/page/n227/mode/1up"
+  - source: "lisan"
+    loc: "ج1 ص171"
+    url: "https://shamela.ws/book/1687/171"
+status: "review"

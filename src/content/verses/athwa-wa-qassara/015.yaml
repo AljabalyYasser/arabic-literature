@@ -1,0 +1,23 @@
+explained: false
+first: "وَكَأَنَّهَا ذُو جُدَّةٍ غِبَّ السُّرَى"
+second: "أَوْ قَارِحٌ يَتْلُو نَحَائِصَ جُدَّدَا"
+vocabulary:
+  - term: "ذُو جُدَّةٍ"
+    text: "حمار وحش في ظهره خطّ. يقول المحقق: «الجدة (بضم الجيم) العلامة والخطة في ظهر حمار الوحش» [@diwan-asha، ص265]."
+  - term: "غِبَّ السُّرَى"
+    text: "بعد سير الليل."
+  - term: "قَارِحٌ"
+    text: "الحمار المسنّ القويّ: «والقارحُ مِنْ ذِي الْحَافِر» بمنزلة البازل من الإبل [@lisan، ج2 ص559]."
+  - term: "نَحَائِصَ"
+    text: "«النَّحُوص: الأَتان الوحشيةُ الْحَائِلُ» [@lisan، ج7 ص95]، أي التي لم تحمل."
+sources:
+  - source: "diwan-asha"
+    loc: "ص265"
+    url: "https://archive.org/details/20201023_20201023_0327/page/n257/mode/1up"
+  - source: "lisan"
+    loc: "ج2 ص559"
+    url: "https://shamela.ws/book/1687/1363"
+  - source: "lisan"
+    loc: "ج7 ص95"
+    url: "https://shamela.ws/book/1687/3478"
+status: "review"

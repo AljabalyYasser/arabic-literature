@@ -1,0 +1,19 @@
+explained: false
+first: "أَرَاكَ كَبِرْتَ وَاسْتَحْدَثْتَ خُلْقًا"
+second: "وَوَدَّعْتَ الكَوَاعِبَ وَالمُدَامَا"
+vocabulary:
+  - term: "الكَوَاعِبَ"
+    text: "جمع كاعب، وهي الجارية حين يبدو ثديها: «وكَعَبَتِ الجاريةُ، تَكْعُبُ وتَكْعِبُ» [@lisan، ج1 ص719]."
+  - term: "المُدَامَا"
+    text: "«والمُدامُ والمُدامَةُ: الْخَمْرُ» [@lisan، ج12 ص214]."
+sources:
+  - source: "diwan-asha"
+    loc: "ص231"
+    url: "https://archive.org/details/20201023_20201023_0327/page/n227/mode/1up"
+  - source: "lisan"
+    loc: "ج1 ص719"
+    url: "https://shamela.ws/book/1687/719"
+  - source: "lisan"
+    loc: "ج12 ص214"
+    url: "https://shamela.ws/book/1687/6129"
+status: "review"

@@ -1,0 +1,14 @@
+explained: false
+first: "عَرِيضٍ تَعْجِزُ الصَّحْرَاءُ عَنْهُ"
+second: "وَيَشْرَبُ قَبْلَ آخِرِهِ الجِمَامَا"
+vocabulary:
+  - term: "الجِمَامَا"
+    text: "جمع جَمّة، وهي «الْمَكَانُ الَّذِي» يجتمع فيه الماء [@lisan، ج12 ص105]. يقول: يشرب أوله المياه الكثيرة قبل أن يصل آخره."
+sources:
+  - source: "diwan-asha"
+    loc: "ص235"
+    url: "https://archive.org/details/20201023_20201023_0327/page/n231/mode/1up"
+  - source: "lisan"
+    loc: "ج12 ص105"
+    url: "https://shamela.ws/book/1687/6021"
+status: "review"

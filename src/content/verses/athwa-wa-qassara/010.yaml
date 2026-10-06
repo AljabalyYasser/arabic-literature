@@ -1,0 +1,16 @@
+explained: false
+first: "قَالَتْ قُتَيْلَةُ مَا لِجِسْمِكَ سَايِئًا"
+second: "وَأَرَى ثِيَابَكَ بَالِيَاتٍ هُمَّدَا"
+vocabulary:
+  - term: "سَايِئًا"
+    text: "سيّئ المنظر."
+  - term: "هُمَّدَا"
+    text: "بالية: «وهَمَدَ الثوبُ يَهْمُدُ هُمُوداً وهَمْداً: تَقَطَّع وبليَ، وَهُوَ مِنْ طُولِ الطَّيِّ» [@lisan، ج3 ص437]."
+sources:
+  - source: "diwan-asha"
+    loc: "ص263"
+    url: "https://archive.org/details/20201023_20201023_0327/page/n255/mode/1up"
+  - source: "lisan"
+    loc: "ج3 ص437"
+    url: "https://shamela.ws/book/1687/1879"
+status: "review"

@@ -1,0 +1,19 @@
+explained: false
+first: "وَهَلْ يَشْتَاقُ مِثْلُكَ مِنْ رُسُومٍ"
+second: "عَفَتْ إِلَّا الأَيَاصِرَ وَالثُّمَامَا"
+vocabulary:
+  - term: "الأَيَاصِرَ"
+    text: "«والإِصارُ والأَيْصَر: الْحَشِيشُ الْمُجْتَمِعُ» [@lisan، ج4 ص23]."
+  - term: "الثُّمَامَا"
+    text: "«والثُّمام: نَبْتٌ ضَعِيفٌ لَهُ خُوصٌ أَو شَبِيهٌ بالخُوص» [@lisan، ج12 ص81]، يُسدّ به خصاص البيوت، فلم يبق من الديار إلا هذا."
+sources:
+  - source: "diwan-asha"
+    loc: "ص231"
+    url: "https://archive.org/details/20201023_20201023_0327/page/n227/mode/1up"
+  - source: "lisan"
+    loc: "ج4 ص23"
+    url: "https://shamela.ws/book/1687/1983"
+  - source: "lisan"
+    loc: "ج12 ص81"
+    url: "https://shamela.ws/book/1687/5997"
+status: "review"

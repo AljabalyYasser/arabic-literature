@@ -1,0 +1,19 @@
+explained: false
+first: "قَطَعْتُ إِذَا مَا اللَّيْلُ كَانَتْ نُجُومُهُ"
+second: "بَوَانِيَ فِي جَوِّ السَّمَاءِ سَوَامِكَا"
+vocabulary:
+  - term: "بَوَانِيَ"
+    text: "ثابتة لا تبرح، من قولهم: «أَلقى عَصاه وأَلقى بَوانِيَه» [@lisan، ج13 ص61] إذا أقام."
+  - term: "سَوَامِكَا"
+    text: "مرتفعة: «والسَّامِكُ: الْعَالِي الْمُرْتَفِعُ» [@lisan، ج10 ص444]."
+sources:
+  - source: "diwan-asha"
+    loc: "ص125"
+    url: "https://archive.org/details/20201023_20201023_0327/page/n123/mode/1up"
+  - source: "lisan"
+    loc: "ج13 ص61"
+    url: "https://shamela.ws/book/1687/6624"
+  - source: "lisan"
+    loc: "ج10 ص444"
+    url: "https://shamela.ws/book/1687/5113"
+status: "review"

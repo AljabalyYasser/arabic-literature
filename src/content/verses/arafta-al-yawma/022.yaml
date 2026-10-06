@@ -1,0 +1,16 @@
+explained: false
+first: "كَأَنَّ شُعَاعَ قَرْنِ الشَّمْسِ فِيهَا"
+second: "إِذَا مَا فَتَّ عَنْ فِيهَا الخِتَامَا"
+vocabulary:
+  - term: "قَرْنِ الشَّمْسِ"
+    text: "أول ما يطلع منها."
+  - term: "الخِتَامَا"
+    text: "ما يُختم به رأس الدَّنّ، وفي اللسان: «وخِتامُ كُلِّ مَشروب: آخرُه» [@lisan، ج12 ص164]."
+sources:
+  - source: "diwan-asha"
+    loc: "ص233"
+    url: "https://archive.org/details/20201023_20201023_0327/page/n229/mode/1up"
+  - source: "lisan"
+    loc: "ج12 ص164"
+    url: "https://shamela.ws/book/1687/6080"
+status: "review"

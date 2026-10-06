@@ -1,0 +1,22 @@
+explained: false
+first: "حَتَّى يُفِيدَكَ مِنْ بَنِيهِ رَهِينَةً"
+second: "نَعْشٌ وَيَرْهَنَكَ السِّمَاكُ الفَرْقَدَا"
+vocabulary:
+  - term: "نَعْشٌ"
+    text: "«وبَناتُ نَعْشٍ: سبعةُ كَواكبَ: أَربعة مِنْهَا نَعْش لأَنها مُربّعة، وثلاثةٌ بَناتُ نَعْشٍ» [@lisan، ج6 ص355]."
+  - term: "السِّمَاكُ الفَرْقَدَا"
+    text: "نجوم: «والسِّماكانِ: نَجْمَانِ» [@lisan، ج10 ص443]، «والفَرْقدانِ: نَجْمَانِ» [@lisan، ج3 ص334]. أي لن نعطيك رهينة حتى تعطيك النجوم أبناءها رهائن، وذلك محال."
+sources:
+  - source: "diwan-asha"
+    loc: "ص267"
+    url: "https://archive.org/details/20201023_20201023_0327/page/n259/mode/1up"
+  - source: "lisan"
+    loc: "ج6 ص355"
+    url: "https://shamela.ws/book/1687/3367"
+  - source: "lisan"
+    loc: "ج10 ص443"
+    url: "https://shamela.ws/book/1687/5112"
+  - source: "lisan"
+    loc: "ج3 ص334"
+    url: "https://shamela.ws/book/1687/1776"
+status: "review"

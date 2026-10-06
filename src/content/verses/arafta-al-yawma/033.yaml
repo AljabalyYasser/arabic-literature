@@ -1,0 +1,17 @@
+explained: false
+first: "إِذَا مَا عَاجِزٌ رَثَّتْ قُوَاهُ"
+second: "رَأَى وَطْءَ الفِرَاشِ لَهُ فَنَامَا"
+vocabulary:
+  - term: "رَثَّتْ قُوَاهُ"
+    text: "بليت حباله، أي ضعف. «الرَّثُّ ...: الخَلَق الخَسيسُ الْبَالِي مِنْ كُلِّ شَيْءٍ» [@lisan، ج2 ص151]، و«القُوَّة الطَّاقَةُ الْوَاحِدَةُ مِنْ طاقاتِ الحَبْل» [@lisan، ج15 ص207]."
+sources:
+  - source: "diwan-asha"
+    loc: "ص235"
+    url: "https://archive.org/details/20201023_20201023_0327/page/n231/mode/1up"
+  - source: "lisan"
+    loc: "ج2 ص151"
+    url: "https://shamela.ws/book/1687/955"
+  - source: "lisan"
+    loc: "ج15 ص207"
+    url: "https://shamela.ws/book/1687/7818"
+status: "review"

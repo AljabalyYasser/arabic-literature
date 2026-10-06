@@ -9,7 +9,12 @@ earliest:
   url: "https://shamela.ws/book/23785/324"
 people:
   - "durayd-ibn-al-simma"
+  - "al-khansa"
 sources:
+  - source: "aghani-dk"
+    loc: "ج15 ص76–77"
+    url: "https://archive.org/details/aghani2014/15/page/n77/mode/1up"
+    note: "رواية أبي عُبَيْدة، وخبر الخادم، وبيتا جوابها."
   - source: "ibn-qutayba"
     loc: "ج1 ص331"
     url: "https://shamela.ws/book/23785/324"

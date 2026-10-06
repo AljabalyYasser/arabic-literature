@@ -1,0 +1,19 @@
+explained: false
+first: "تَشُقُّ اللَّيْلَ وَالسَّبَرَاتِ عَنْهَا"
+second: "بِأَتْلَعَ سَاطِعٍ يُشْرِي الزِّمَامَا"
+vocabulary:
+  - term: "السَّبَرَاتِ"
+    text: "«والسَّبَراتُ: جَمْعُ سَبْرَة، وَهِيَ الغَداةُ البارِدَة» [@lisan، ج4 ص341]."
+  - term: "بِأَتْلَعَ"
+    text: "بعنق طويل: «والأَتْلَعُ والتَّلِعُ والتَّلِيعُ: الطويلُ، وَقِيلَ: الطويلُ العُنُقِ» [@lisan، ج8 ص35]."
+sources:
+  - source: "diwan-asha"
+    loc: "ص233"
+    url: "https://archive.org/details/20201023_20201023_0327/page/n229/mode/1up"
+  - source: "lisan"
+    loc: "ج4 ص341"
+    url: "https://shamela.ws/book/1687/2301"
+  - source: "lisan"
+    loc: "ج8 ص35"
+    url: "https://shamela.ws/book/1687/3883"
+status: "review"

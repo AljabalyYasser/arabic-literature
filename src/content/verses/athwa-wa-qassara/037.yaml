@@ -1,0 +1,21 @@
+explained: false
+first: "ضَمِنَتْ لَنَا أَعْجَازُهُنَّ قُدُورَنَا"
+second: "وَضُرُوعُهُنَّ لَنَا الصَّرِيحَ الأَجْرَدَا"
+vocabulary:
+  - term: "أَعْجَازُهُنَّ"
+    text: "مآخيرهن، وهي أسمن ما فيها."
+  - term: "الصَّرِيحَ"
+    text: "اللبن الخالص: «الصَّرَحُ والصَّرِيحُ ...: المَحْضُ الخالصُ مِنْ كُلِّ شَيْءٍ» [@lisan، ج2 ص509]."
+  - term: "الأَجْرَدَا"
+    text: "الصافي. قال شوقي ضَيْف: «الصريح: اللبن الخالص. الأجرد: الصافى» [@deif، ج1 ص334]."
+sources:
+  - source: "diwan-asha"
+    loc: "ص267"
+    url: "https://archive.org/details/20201023_20201023_0327/page/n259/mode/1up"
+  - source: "lisan"
+    loc: "ج2 ص509"
+    url: "https://shamela.ws/book/1687/1313"
+  - source: "deif"
+    loc: "ج1 ص334"
+    url: "https://shamela.ws/book/11996/330"
+status: "review"
