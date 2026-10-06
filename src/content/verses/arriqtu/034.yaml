@@ -1,0 +1,15 @@
+explained: false
+first: يَقُولُ فَلَا أَعْيَا لِشَيْءٍ أَقُولُهُ
+second: كَفَانِيَ لَا عَيٌّ وَلَا هُوَ أَخْرَقُ
+vocabulary:
+- term: فَلَا أَعْيَا
+  text: فلا أعجز.
+- term: عَيٌّ
+  text: عاجز عن البيان.
+- term: أَخْرَقُ
+  text: لا يحسن العمل.
+sources:
+- source: diwan-asha
+  loc: ص257
+  url: https://archive.org/details/20201023_20201023_0327/page/n249/mode/1up
+status: review

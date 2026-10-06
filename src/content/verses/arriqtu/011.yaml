@@ -1,0 +1,18 @@
+explained: false
+first: وَحُورٌ كَأَمْثَالِ الدُّمَى وَمَنَاصِفٌ
+second: وَقِدْرٌ وَطَبَّاخٌ وَصَاعٌ وَدَيْسَقُ
+vocabulary:
+- term: الدُّمَى
+  text: الصور والتماثيل، واحدتها دُمْية.
+- term: وَمَنَاصِفٌ
+  text: خدم.
+- term: وَصَاعٌ وَدَيْسَقُ
+  text: 'قال ابن برّي: «الصَّاعُ مِشْرَبةٌ، والدَّيْسَقُ خِوان مِنْ فضَّة» [@lisan، ج10 ص97].'
+sources:
+- source: diwan-asha
+  loc: ص253
+  url: https://archive.org/details/20201023_20201023_0327/page/n245/mode/1up
+- source: lisan
+  loc: ج10 ص97
+  url: https://shamela.ws/book/1687/4767
+status: review

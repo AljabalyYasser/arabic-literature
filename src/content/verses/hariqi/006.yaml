@@ -1,0 +1,15 @@
+explained: false
+first: "أَلَا يَا لَهْفَ نَفْسِي بَعْدَ عَيْشٍ"
+second: "لَنَا بِجَنُوبِ دَرَّ فَذِي نَهِيقِ"
+vocabulary:
+- term: "يَا لَهْفَ نَفْسِي"
+  text: "في الشرح: «تتلهّف على ما فاتها ممّا كانوا فيه من رخاء العيش بهذا المكان» [@diwan-khansa، ص67]."
+- term: "دَرَّ"
+  text: "في الشرح: «درّ: وادٍ وروضة تصبّ من الحرّة في اللعباء» [@diwan-khansa، ص67]."
+- term: "فَذِي نَهِيقِ"
+  text: "في الشرح: «وذو نهيق: وادٍ آخر يماشيه عن يساره للمُصْعِد» [@diwan-khansa، ص67]."
+sources:
+- source: "diwan-khansa"
+  loc: "ص67"
+  url: "https://archive.org/details/3318pdf_202001/page/n66/mode/1up"
+status: "review"

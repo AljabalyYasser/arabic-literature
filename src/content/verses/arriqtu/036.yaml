@@ -1,0 +1,16 @@
+explained: false
+first: إِذَا حَاجَةٌ وَلَّتْكَ لَا تَسْتَطِيعُهَا
+second: فَخُذْ طَرَفًا مِنْ غَيْرِهَا حِينَ تَسْبِقُ
+vocabulary:
+- term: وَلَّتْكَ
+  text: 'أعرضت عنك: «فإِنه أَراد وَلَّتْ عَنْكَ، فَحَذَفَ وأَوصل» [@lisan، ج15 ص414].'
+- term: حِينَ تَسْبِقُ
+  text: حين تفوتك.
+sources:
+- source: diwan-asha
+  loc: ص257
+  url: https://archive.org/details/20201023_20201023_0327/page/n249/mode/1up
+- source: lisan
+  loc: ج15 ص414
+  url: https://shamela.ws/book/1687/8021
+status: review

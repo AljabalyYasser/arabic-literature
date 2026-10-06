@@ -1,0 +1,20 @@
+explained: false
+first: مَرِحَتْ حُرَّةٌ كَقَنْطَرَةِ الرُّو
+second: مِيِّ تَفْرِي الْهَجِيرَ بِالْإِرْقَالِ
+vocabulary:
+- term: مَرِحَتْ
+  text: نشطت.
+- term: كَقَنْطَرَةِ الرُّومِيِّ
+  text: كالبناء الضخم المحكم.
+- term: تَفْرِي الْهَجِيرَ
+  text: تقطع حر الهاجرة.
+- term: بِالْإِرْقَالِ
+  text: '«والإِرْقَال: ضَرْبٌ مِنَ الخَبَب» [@lisan، ج11 ص293].'
+sources:
+- source: diwan-asha
+  loc: ص41
+  url: https://archive.org/details/20201023_20201023_0327/page/n41/mode/1up
+- source: lisan
+  loc: ج11 ص293
+  url: https://shamela.ws/book/1687/5473
+status: review

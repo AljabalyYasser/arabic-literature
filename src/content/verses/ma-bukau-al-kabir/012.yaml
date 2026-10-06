@@ -1,0 +1,26 @@
+explained: false
+first: ظَبْيَةٌ مِنْ ظِبَاءِ وَجْرَةَ أَدْمَا
+second: ءُ تَسَفُّ الْكَبَاثَ تَحْتَ الْهَدَالِ
+vocabulary:
+- term: وَجْرَةَ
+  text: موضع تكثر فيه الظباء.
+- term: أَدْمَاءُ
+  text: «والأُدْمُ مِنَ الظِّباء بيضٌ تَعْلوهُنّ جُدَدٌ فيهنَّ غُبْرة» [@lisan، ج12 ص11].
+- term: تَسَفُّ الْكَبَاثَ
+  text: 'تأكل ثمر الأراك: «الكَبَاثُ، بِالْفَتْحِ: نضيجُ ثَمَرِ الأَراك» [@lisan، ج2 ص178].'
+- term: الْهَدَالِ
+  text: '«والهَدال: مَا تَهَدَّل مِنَ الأَغصان» [@lisan، ج11 ص692].'
+sources:
+- source: diwan-asha
+  loc: ص39
+  url: https://archive.org/details/20201023_20201023_0327/page/n39/mode/1up
+- source: lisan
+  loc: ج12 ص11
+  url: https://shamela.ws/book/1687/5927
+- source: lisan
+  loc: ج2 ص178
+  url: https://shamela.ws/book/1687/982
+- source: lisan
+  loc: ج11 ص692
+  url: https://shamela.ws/book/1687/5870
+status: review

@@ -1,0 +1,19 @@
+explained: false
+first: تَرْتَعِي السَّفْحَ فَالْكَثِيبَ فَذَاقَا
+second: رٍ فَرَوْضَ الْقَطَا فَذَاتَ الرِّئَالِ
+vocabulary:
+- term: تَرْتَعِي
+  text: ترعى.
+- term: السَّفْحَ ... ذَاتَ الرِّئَالِ
+  text: 'مواضع ترعى فيها؛ وقال صاحب اللسان في السفح هنا: «هُوَ اسْمُ مَوْضِعٍ بِعَيْنِهِ» [@lisan، ج2 ص486]، و«ذاتُ الرِّئَالِ رَوْضَةٌ» [@lisan، ج11 ص262].'
+sources:
+- source: diwan-asha
+  loc: ص39
+  url: https://archive.org/details/20201023_20201023_0327/page/n39/mode/1up
+- source: lisan
+  loc: ج2 ص486
+  url: https://shamela.ws/book/1687/1290
+- source: lisan
+  loc: ج11 ص262
+  url: https://shamela.ws/book/1687/5442
+status: review

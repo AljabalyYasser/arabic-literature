@@ -1,0 +1,21 @@
+explained: false
+first: عِنْدَهُ الْحَزْمُ وَالتُّقَى وَأَسَا الصَّرْ
+second: عِ وَحَمْلٌ لِمُضْلِعِ الْأَثْقَالِ
+vocabulary:
+- term: الْحَزْمُ
+  text: ضبط الأمر.
+- term: وَأَسَا الصَّرْعِ
+  text: 'ومداواة الصرع. وفي رواية اللسان «وأَسا الشَّقِّ»، قال: «أَرَادَ: وَعِنْدَهُ أَسْوُ الشَّقِّ، فَجَعَلَ الْوَاوَ أَلفاً مَقْصُورَةً» [@lisan، ج14 ص34].'
+- term: لِمُضْلِعِ الْأَثْقَالِ
+  text: '«وحِمْلٌ مُضْلِعٌ: مُثْقِلٌ للأَضْلاعِ» [@lisan، ج8 ص225].'
+sources:
+- source: diwan-asha
+  loc: ص45
+  url: https://archive.org/details/20201023_20201023_0327/page/n45/mode/1up
+- source: lisan
+  loc: ج14 ص34
+  url: https://shamela.ws/book/1687/7158
+- source: lisan
+  loc: ج8 ص225
+  url: https://shamela.ws/book/1687/4073
+status: review

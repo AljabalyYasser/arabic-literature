@@ -1,0 +1,16 @@
+explained: false
+first: "وَهَاجِرَةٍ حَرُّهَا وَاقِدٌ"
+second: "جَعَلْتَ رِدَاءَكَ أَظْلَالَهَا"
+vocabulary:
+- term: "وَهَاجِرَةٍ"
+  text: "في لسان العرب: «هَجَّر الرَّجُلُ إِذا خَرَجَ بِالْهَاجِرَةِ، وَهِيَ نِصْفُ النَّهَارِ» [@lisan، ج5 ص255]."
+- term: "رِدَاءَكَ"
+  text: "السيف. يذكر المحقق أن في حاشية نسخة دار الكتب بخط الكرماني: «يعني بالرداء: السيف» [@diwan-khansa، ص94]."
+sources:
+- source: "diwan-khansa"
+  loc: "ص94"
+  url: "https://archive.org/details/3318pdf_202001/page/n93/mode/1up"
+- source: "lisan"
+  loc: "ج5 ص255"
+  url: "https://shamela.ws/book/1687/2839"
+status: "review"

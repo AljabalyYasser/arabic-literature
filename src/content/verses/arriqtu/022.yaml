@@ -1,0 +1,28 @@
+explained: false
+first: وَشَاوٍ إِذَا شِئْنَا كَمِيشٌ بِمِسْعَرٍ
+second: وَصَهْبَاءُ مِزْبَادٌ إِذَا مَا تُصَفَّقُ
+vocabulary:
+- term: وَشَاوٍ
+  text: ورجل يشوي اللحم.
+- term: كَمِيشٌ
+  text: 'سريع: «فانْكَمَشَ وتَكَمَّش أَي أَسرع» [@lisan، ج6 ص343].'
+- term: بِمِسْعَرٍ
+  text: 'بما توقد به النار: «والمِسْعَرُ والمِسْعارُ: مَا سُعِرَتْ بِهِ» [@lisan، ج4 ص365].'
+- term: وَصَهْبَاءُ
+  text: '«والصَّهْباءُ: الخَمْر؛ سُمِّيَتْ بِذَلِكَ لِلَوْنِهَا» [@lisan، ج1 ص532].'
+- term: مِزْبَادٌ
+  text: يعلوها الزَّبَد.
+sources:
+- source: diwan-asha
+  loc: ص255
+  url: https://archive.org/details/20201023_20201023_0327/page/n248/mode/1up
+- source: lisan
+  loc: ج6 ص343
+  url: https://shamela.ws/book/1687/3355
+- source: lisan
+  loc: ج4 ص365
+  url: https://shamela.ws/book/1687/2325
+- source: lisan
+  loc: ج1 ص532
+  url: https://shamela.ws/book/1687/532
+status: review

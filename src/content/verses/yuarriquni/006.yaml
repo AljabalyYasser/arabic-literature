@@ -1,0 +1,19 @@
+explained: false
+first: "أَلَا يَا صَخْرُ لَا أَنْسَاكَ حَتَّى"
+second: "أُفَارِقَ مُهْجَتِي وَيُشَقَّ رَمْسِي"
+vocabulary:
+- term: "مُهْجَتِي"
+  text: "روحي. في لسان العرب: «المُهْجَةُ: دَمُ الْقَلْبِ، ولا بقاء للنَّفْسِ بعد ما تُراقُ مُهْجَتُه» [@lisan، ج2 ص370]."
+- term: "رَمْسِي"
+  text: "قبري: «والرَّمْسُ: الْقَبْرُ» [@lisan، ج4 ص294]."
+sources:
+- source: "diwan-khansa"
+  loc: "ص326"
+  url: "https://archive.org/details/3318pdf_202001/page/n325/mode/1up"
+- source: "lisan"
+  loc: "ج2 ص370"
+  url: "https://shamela.ws/book/1687/1174"
+- source: "lisan"
+  loc: "ج4 ص294"
+  url: "https://shamela.ws/book/1687/2254"
+status: "review"

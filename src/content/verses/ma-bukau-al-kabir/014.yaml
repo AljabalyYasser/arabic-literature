@@ -1,0 +1,21 @@
+explained: false
+first: وَكَأَنَّ السُّمُوطَ عَكَّفَهَا السِّلْـ
+second: ـكُ بِعِطْفَيْ جَيْدَاءَ أُمِّ غَزَالِ
+vocabulary:
+- term: السُّمُوطَ
+  text: 'القلائد: «والسِّمْطُ: الخَيْطُ مَا دَامَ فِيهِ الخَرَزُ» [@lisan، ج7 ص322].'
+- term: عَكَّفَهَا السِّلْكُ
+  text: 'نظمها الخيط: «وعُكِّفَ النظمُ: نُضِّدَ فِيهِ الجوهرُ»، وفي البيت: «أَي حَبَسها وَلَمْ يَدَعْها تَتَفَرَّقُ» [@lisan، ج9 ص255].'
+- term: بِعِطْفَيْ جَيْدَاءَ أُمِّ غَزَالِ
+  text: بجانبي عنق ظبية طويلة العنق لها ولد.
+sources:
+- source: diwan-asha
+  loc: ص41
+  url: https://archive.org/details/20201023_20201023_0327/page/n41/mode/1up
+- source: lisan
+  loc: ج7 ص322
+  url: https://shamela.ws/book/1687/3705
+- source: lisan
+  loc: ج9 ص255
+  url: https://shamela.ws/book/1687/4562
+status: review

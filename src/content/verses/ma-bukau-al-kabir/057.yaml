@@ -1,0 +1,26 @@
+explained: false
+first: غَيْرُ مِيلٍ وَلَا عَوَاوِيرَ فِي الْهَيْـ
+second: ـجَا وَلَا عُزَّلٍ وَلَا أَكْفَالِ
+vocabulary:
+- term: مِيلٍ
+  text: جمع أَمْيَل، وهو الذي لا يستوي على السرج.
+- term: عَوَاوِيرَ
+  text: '«والعُوّار أَيضاً: الضَّعِيفُ الْجَبَانُ السَّرِيعُ الْفِرَارِ كالأَعْور، وَجَمْعُهُ عَوَاوِيرُ» [@lisan، ج4 ص616].'
+- term: عُزَّلٍ
+  text: '«والعُزُل والأَعْزَلُ: الَّذِي لَا سِلاحَ مَعَهُ» [@lisan، ج11 ص442].'
+- term: أَكْفَالِ
+  text: '«والكِفْل: الَّذِي لَا يُثْبَتُ عَلَى ظُهُورِ الْخَيْلِ» [@lisan، ج11 ص589].'
+sources:
+- source: diwan-asha
+  loc: ص47
+  url: https://archive.org/details/20201023_20201023_0327/page/n47/mode/1up
+- source: lisan
+  loc: ج4 ص616
+  url: https://shamela.ws/book/1687/2576
+- source: lisan
+  loc: ج11 ص442
+  url: https://shamela.ws/book/1687/5620
+- source: lisan
+  loc: ج11 ص589
+  url: https://shamela.ws/book/1687/5767
+status: review

@@ -1,0 +1,21 @@
+explained: false
+first: "أَحَامِيَكُمْ وَرَافِدَكُمْ تَرَكْتُمْ"
+second: "لَدَى غَبْرَاءَ مُنْهَدِمٍ رَجَاهَا"
+vocabulary:
+- term: "وَرَافِدَكُمْ"
+  text: "مُعطيكم، من الرِّفد: «والرِّفْدُ: الصِّلَةُ» [@lisan، ج3 ص181]."
+- term: "غَبْرَاءَ"
+  text: "الأرض، يعني القبر: «وَالْغَبْرَاءُ: الأَرض» [@lisan، ج4 ص245]."
+- term: "رَجَاهَا"
+  text: "في الشرح: «الرَّجا: جانب البئر، وجانب القبر» [@diwan-khansa، ص283]."
+sources:
+- source: "diwan-khansa"
+  loc: "ص283"
+  url: "https://archive.org/details/3318pdf_202001/page/n282/mode/1up"
+- source: "lisan"
+  loc: "ج3 ص181"
+  url: "https://shamela.ws/book/1687/1623"
+- source: "lisan"
+  loc: "ج4 ص245"
+  url: "https://shamela.ws/book/1687/2205"
+status: "review"

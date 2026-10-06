@@ -1,0 +1,13 @@
+explained: false
+first: "لَهَا مِشْفَرٌ سَابِغٌ طُولُهُ"
+second: "وَلَا عَيْنَ فِيهَا وَلَا فَا لَهَا"
+vocabulary:
+- term: "مِشْفَرٌ"
+  text: "في الشرح: «المِشفر: أوّل خيلها ورجالها ورماحها» [@diwan-khansa، ص95]."
+- term: "وَلَا عَيْنَ فِيهَا وَلَا فَا لَهَا"
+  text: "في الشرح: «أخبر أنّ هذه الصخرة ململمة لا عين فيها ولا فم» [@diwan-khansa، ص95]."
+sources:
+- source: "diwan-khansa"
+  loc: "ص95"
+  url: "https://archive.org/details/3318pdf_202001/page/n94/mode/1up"
+status: "review"

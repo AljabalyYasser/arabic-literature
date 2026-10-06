@@ -1,0 +1,23 @@
+explained: false
+first: وَإِنَّ امْرَأً أَسْرَى إِلَيْكِ وَدُونَهُ
+second: فَيَافٍ تَنُوفَاتٌ وَبَيْدَاءُ خَيْفَقُ
+vocabulary:
+- term: أَسْرَى
+  text: سار ليلًا.
+- term: فَيَافٍ
+  text: '«والفَيْفَاء: الصَّحْرَاءُ المَلساء وهنَّ الفَيَافِي» [@lisan، ج9 ص274].'
+- term: تَنُوفَاتٌ
+  text: '«التَّنُوفةُ: القَفْرُ مِنَ الأَرض» [@lisan، ج9 ص18].'
+- term: خَيْفَقُ
+  text: واسعة.
+sources:
+- source: diwan-asha
+  loc: ص259
+  url: https://archive.org/details/20201023_20201023_0327/page/n251/mode/1up
+- source: lisan
+  loc: ج9 ص274
+  url: https://shamela.ws/book/1687/4581
+- source: lisan
+  loc: ج9 ص18
+  url: https://shamela.ws/book/1687/4325
+status: review

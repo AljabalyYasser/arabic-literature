@@ -1,0 +1,14 @@
+explained: false
+first: "أُبَكِّي أَبِي عَمْرًا بِعَيْنٍ غَزِيرَةٍ"
+second: "قَلِيلٍ إِذَا نَامَ الْعُيُونُ هُجُودُهَا"
+vocabulary:
+- term: "هُجُودُهَا"
+  text: "نومها، من «هَجَدَ يَهْجُدُ هُجوداً وأَهْجَدَ: نَامَ» [@lisan، ج3 ص431]."
+sources:
+- source: "diwan-khansa"
+  loc: "ص365"
+  url: "https://archive.org/details/3318pdf_202001/page/n364/mode/1up"
+- source: "lisan"
+  loc: "ج3 ص431"
+  url: "https://shamela.ws/book/1687/1873"
+status: "review"

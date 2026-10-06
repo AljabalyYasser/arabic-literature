@@ -1,0 +1,16 @@
+explained: false
+first: "أُفَدِّيهِ بِحَيِّ بَنِي سُلَيْمٍ"
+second: "بِظَاعِنِهِمْ وَبِالْأَنَسِ الْمُقِيمِ"
+vocabulary:
+- term: "بِظَاعِنِهِمْ"
+  text: "بمن يرحل منهم، من «ظَعَنَ يَظْعَنُ ظَعْناً وظَعَناً، بِالتَّحْرِيكِ، وظُعوناً: ذَهَبَ وَسَارَ» [@lisan، ج13 ص270]."
+- term: "وَبِالْأَنَسِ الْمُقِيمِ"
+  text: "في الشرح: «الأنَس: أهل الدار الذين فيها» [@diwan-khansa، ص222]."
+sources:
+- source: "diwan-khansa"
+  loc: "ص222"
+  url: "https://archive.org/details/3318pdf_202001/page/n221/mode/1up"
+- source: "lisan"
+  loc: "ج13 ص270"
+  url: "https://shamela.ws/book/1687/6831"
+status: "review"

@@ -1,0 +1,19 @@
+explained: false
+first: وَجِيَادًا كَأَنَّهَا قُضُبُ الشَّوْ
+second: حَطِ تَعْدُو بِشِكَّةِ الْأَبْطَالِ
+vocabulary:
+- term: قُضُبُ الشَّوْحَطِ
+  text: '«والشَّوْحَطُ: ضَرْبٌ مِنَ النَّبْع تُتَّخَذُ مِنْهُ القِياسُ» [@lisan، ج7 ص328].'
+- term: بِشِكَّةِ
+  text: '«والشِّكَّةُ: السِّلَاحُ» [@lisan، ج10 ص452].'
+sources:
+- source: diwan-asha
+  loc: ص45
+  url: https://archive.org/details/20201023_20201023_0327/page/n45/mode/1up
+- source: lisan
+  loc: ج7 ص328
+  url: https://shamela.ws/book/1687/3711
+- source: lisan
+  loc: ج10 ص452
+  url: https://shamela.ws/book/1687/5121
+status: review

@@ -1,0 +1,19 @@
+explained: false
+first: "وَصِنْوَيَّ لَا أَنْسَى مُعَاوِيَةَ الَّذِي"
+second: "لَهُ مِنْ سَرَاةِ الْحَرَّتَيْنِ وُفُودُهَا"
+vocabulary:
+- term: "وَصِنْوَيَّ"
+  text: "أخويّ. في لسان العرب: «والصِّنْوُ: الأَخ الشَّقِيقُ والعمُّ والابنُ» [@lisan، ج14 ص470]."
+- term: "سَرَاةِ"
+  text: "جمع سَرِيّ، و«السَّريُّ الشَّرِيفُ النَّفِيسُ مِنَ النَّاسِ» [@lisan، ج13 ص328]."
+sources:
+- source: "diwan-khansa"
+  loc: "ص365"
+  url: "https://archive.org/details/3318pdf_202001/page/n364/mode/1up"
+- source: "lisan"
+  loc: "ج14 ص470"
+  url: "https://shamela.ws/book/1687/7594"
+- source: "lisan"
+  loc: "ج13 ص328"
+  url: "https://shamela.ws/book/1687/6889"
+status: "review"

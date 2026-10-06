@@ -1,0 +1,21 @@
+explained: false
+first: لَاتَ هَنَّا ذِكْرَى جُبَيْرَةَ أَوْ مَنْ
+second: جَاءَ مِنْهَا بِطَائِفِ الْأَهْوَالِ
+vocabulary:
+- term: لَاتَ هَنَّا
+  text: 'ليس هذا حين ذلك ولا موضعه: «فلاتَ هَنَّتْ أَي لَيْسَ ذَا موضعَ ذَلِكَ وَلَا حِينَه» [@lisan، ج15 ص484].'
+- term: جُبَيْرَةَ
+  text: اسم امرأة.
+- term: بِطَائِفِ الْأَهْوَالِ
+  text: 'بطيفها وما يجلبه من الأهوال، قال الفراء: «الطَّائِفُ والطَّيْف سَوَاءٌ، وَهُوَ مَا كَانَ كالخَيال وَالشَّيْءُ يُلِمّ بِكَ» [@lisan، ج9 ص225].'
+sources:
+- source: diwan-asha
+  loc: ص39
+  url: https://archive.org/details/20201023_20201023_0327/page/n39/mode/1up
+- source: lisan
+  loc: ج15 ص484
+  url: https://shamela.ws/book/1687/8091
+- source: lisan
+  loc: ج9 ص225
+  url: https://shamela.ws/book/1687/4532
+status: review

@@ -1,0 +1,16 @@
+explained: false
+first: "وَإِذْ فِينَا مُعَاوِيَةُ بْنُ عَمْرٍو"
+second: "عَلَى أَدْمَاءَ كَالْجَمَلِ الْفَنِيقِ"
+vocabulary:
+- term: "أَدْمَاءَ"
+  text: "ناقة بيضاء. في الشرح: «الأدماء: الصادقة البياض التي لا يخلطها شيء من الألوان» [@diwan-khansa، ص69]."
+- term: "الْفَنِيقِ"
+  text: "«والفَنِيقُ: الفحلُ المُكْرَمُ» [@lisan، ج6 ص83]."
+sources:
+- source: "diwan-khansa"
+  loc: "ص69"
+  url: "https://archive.org/details/3318pdf_202001/page/n68/mode/1up"
+- source: "lisan"
+  loc: "ج6 ص83"
+  url: "https://shamela.ws/book/1687/3095"
+status: "review"

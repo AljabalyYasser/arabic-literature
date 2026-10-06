@@ -1,0 +1,16 @@
+explained: false
+first: ثُمَّ دَانَتْ بَعْدُ الرِّبَابُ وَكَانَتْ
+second: كَعَذَابٍ عُقُوبَةُ الْأَقْوَالِ
+vocabulary:
+- term: دَانَتْ
+  text: خضعت.
+- term: الْأَقْوَالِ
+  text: 'الملوك، جمع قَيْل: «قَالَ أَبو عُبَيْدَةَ: الأَقْيال ملوك باليمن دُونَ الْمَلِكِ الأَعظم»، «وَقَالَ الأَعشى فَجَعَلَهُمْ أَقْوالًا» [@lisan، ج11 ص576].'
+sources:
+- source: diwan-asha
+  loc: ص49
+  url: https://archive.org/details/20201023_20201023_0327/page/n49/mode/1up
+- source: lisan
+  loc: ج11 ص576
+  url: https://shamela.ws/book/1687/5754
+status: review

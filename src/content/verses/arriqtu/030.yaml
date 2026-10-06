@@ -1,0 +1,16 @@
+explained: false
+first: فَمَا أَنَا عَمَّا تَعْمَلُونَ بِجَاهِلٍ
+second: وَلَا بِشَبَاةٍ جَهْلُهُ يَتَدَفَّقُ
+vocabulary:
+- term: بِشَبَاةٍ
+  text: 'بسفيه، كما يفسره المحقق [@diwan-asha، ص257، الحاشية]؛ وفي رواية اللسان: «وَلَا بسَفِيهٍ حِلْمُه يَتدفَّقُ» [@lisan، ج10 ص100].'
+- term: يَتَدَفَّقُ
+  text: 'يندفع ويسارع: «فُلَانٌ يَتدفَّق فِي الْبَاطِلِ تدفُّقاً إِذَا كَانَ يُسارع إِلَيْهِ» [@lisan، ج10 ص100].'
+sources:
+- source: diwan-asha
+  loc: ص257
+  url: https://archive.org/details/20201023_20201023_0327/page/n249/mode/1up
+- source: lisan
+  loc: ج10 ص100
+  url: https://shamela.ws/book/1687/4770
+status: review

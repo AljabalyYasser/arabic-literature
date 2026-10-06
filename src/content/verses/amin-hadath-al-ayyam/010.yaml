@@ -1,0 +1,17 @@
+explained: false
+first: "شَرَنْبَثُ أَطْرَافِ الْبَنَانِ ضُبَارِمٌ"
+second: "لَهُ فِي عَرِينِ الْغِيلِ عِرْسٌ وَأَشْبُلُ"
+vocabulary:
+- term: "شَرَنْبَثُ"
+  text: "في الشرح: «شرنبث: ضخم واسع» [@diwan-khansa، ص323]."
+- term: "ضُبَارِمٌ"
+  text: "في الشرح: «ضُبارم: ضخم الرقبة والوسط، وهذه صفة الأسد» [@diwan-khansa، ص323]."
+- term: "الْغِيلِ"
+  text: "في الشرح: «والغيل: غيضة قصب وطرفاء» [@diwan-khansa، ص323]."
+- term: "عِرْسٌ وَأَشْبُلُ"
+  text: "لبؤة وأشبال."
+sources:
+- source: "diwan-khansa"
+  loc: "ص322–323"
+  url: "https://archive.org/details/3318pdf_202001/page/n321/mode/1up"
+status: "review"

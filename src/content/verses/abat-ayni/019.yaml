@@ -1,0 +1,17 @@
+explained: false
+first: "تُكَفْكِفُ فَضْلَ سَابِغَةٍ دِلَاصٍ"
+second: "عَلَى خَيْفَانَةٍ خَفِقٍ حَشَاهَا"
+vocabulary:
+- term: "تُكَفْكِفُ"
+  text: "في الشرح: «وتُكفكف: تردّه بالنطاق وبالمحزمة» [@diwan-khansa، ص288]."
+- term: "سَابِغَةٍ دِلَاصٍ"
+  text: "درع واسعة ليّنة. في الشرح: «الدِّلاص: الليّنة» [@diwan-khansa، ص288]."
+- term: "خَيْفَانَةٍ"
+  text: "في الشرح: «أي على فرس كأنّها جرادة في خفّتها وضمرها» [@diwan-khansa، ص288]."
+- term: "خَفِقٍ"
+  text: "في الشرح: «خفق: ضامر» [@diwan-khansa، ص288]."
+sources:
+- source: "diwan-khansa"
+  loc: "ص288"
+  url: "https://archive.org/details/3318pdf_202001/page/n287/mode/1up"
+status: "review"

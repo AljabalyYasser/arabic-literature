@@ -1,0 +1,15 @@
+explained: false
+first: "فَمَنْ لِلضَّيْفِ إِنْ هَبَّتْ شَمَالٌ"
+second: "مُزَعْزِعَةٌ تُنَاوِحُهَا صَبَاهَا"
+vocabulary:
+- term: "مُزَعْزِعَةٌ"
+  text: "في الشرح: «المُزعزعة: المحرّكة لأطناب البيوت» [@diwan-khansa، ص282]."
+- term: "تُنَاوِحُهَا"
+  text: "في الشرح: «تناوحها: تقابلها وتواجهها» [@diwan-khansa، ص282]."
+- term: "صَبَاهَا"
+  text: "في الشرح: «قالوا: الصّبا أبرد ريح عندنا، والشمال مثلها» [@diwan-khansa، ص282]."
+sources:
+- source: "diwan-khansa"
+  loc: "ص282"
+  url: "https://archive.org/details/3318pdf_202001/page/n281/mode/1up"
+status: "review"

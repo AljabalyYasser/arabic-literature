@@ -1,0 +1,13 @@
+explained: false
+first: "وَيَبْكِ عَلَيْكَ قَوْمُكَ لِلْيَتَامَى"
+second: "وَلِلْهَيْجَاءِ إِنَّكَ مَا عَنَاهَا"
+vocabulary:
+- term: "وَلِلْهَيْجَاءِ"
+  text: "في الشرح: «الهيجا: الحرب» [@diwan-khansa، ص285]."
+- term: "إِنَّكَ مَا عَنَاهَا"
+  text: "في الشرح: «أي كان يعنيك ما كان يعني عشيرتك، أي يعنيك ما عناها. فاختصر الكلام» [@diwan-khansa، ص285]."
+sources:
+- source: "diwan-khansa"
+  loc: "ص285"
+  url: "https://archive.org/details/3318pdf_202001/page/n284/mode/1up"
+status: "review"

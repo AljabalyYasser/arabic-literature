@@ -1,0 +1,19 @@
+explained: false
+first: وَلَقَدْ شُبَّتِ الْحُرُوبُ فَمَا غُمْـ
+second: ـمِرْتَ فِيهَا إِذْ قَلَّصَتْ عَنْ حِيَالِ
+vocabulary:
+- term: فَمَا غُمِّرْتَ
+  text: 'لم تكن فيها غُمْرًا، و«الغُمْرُ: الجاهلُ» [@lisan، ج1 ص242].'
+- term: قَلَّصَتْ عَنْ حِيَالِ
+  text: «أَي لَقِحَت بَعْدَ أَن كَانَتْ حَائِلًا» [@lisan، ج7 ص82]، يشبّه الحرب بناقة حملت بعد أن كانت لا تحمل.
+sources:
+- source: diwan-asha
+  loc: ص45
+  url: https://archive.org/details/20201023_20201023_0327/page/n45/mode/1up
+- source: lisan
+  loc: ج1 ص242
+  url: https://shamela.ws/book/1687/242
+- source: lisan
+  loc: ج7 ص82
+  url: https://shamela.ws/book/1687/3465
+status: review

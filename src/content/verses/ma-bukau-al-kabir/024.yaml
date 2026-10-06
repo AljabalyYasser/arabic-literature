@@ -1,0 +1,21 @@
+explained: false
+first: وَاسْتُحِثَّ الْمُغَيِّرُونَ مِنَ الْقَوْ
+second: مِ وَكَانَ النِّطَافُ مَا فِي الْعَزَالِي
+vocabulary:
+- term: الْمُغَيِّرُونَ
+  text: '«والمُغَيِّر: الَّذِي يُغَيِّر عَلَى بَعيره أَداتَه لِيُخَفِّفَ عَنْهُ ويُريحه» [@lisan، ج5 ص40].'
+- term: النِّطَافُ
+  text: بقايا الماء.
+- term: الْعَزَالِي
+  text: '«والعَزْلاء: مَصَبُّ الْمَاءِ مِنَ الرَّاوِيَةِ والقِرْبةِ فِي أَسفلها» [@lisan، ج11 ص443].'
+sources:
+- source: diwan-asha
+  loc: ص41
+  url: https://archive.org/details/20201023_20201023_0327/page/n41/mode/1up
+- source: lisan
+  loc: ج5 ص40
+  url: https://shamela.ws/book/1687/2624
+- source: lisan
+  loc: ج11 ص443
+  url: https://shamela.ws/book/1687/5621
+status: review

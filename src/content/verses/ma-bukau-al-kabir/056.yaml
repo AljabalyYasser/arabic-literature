@@ -1,0 +1,15 @@
+explained: false
+first: جُنْدُكَ التَّالِدُ الْعَتِيقُ مِنَ السَّا
+second: دَاتِ أَهْلِ الْقِبَابِ وَالْآكَالِ
+vocabulary:
+- term: التَّالِدُ
+  text: القديم.
+- term: الْقِبَابِ
+  text: الخيام الضخمة.
+- term: وَالْآكَالِ
+  text: 'يقول المحقق: «قطائع كانت الملوك تقطعها للأشراف» [@diwan-asha، ص47، الحاشية].'
+sources:
+- source: diwan-asha
+  loc: ص47
+  url: https://archive.org/details/20201023_20201023_0327/page/n47/mode/1up
+status: review

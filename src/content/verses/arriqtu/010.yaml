@@ -1,0 +1,21 @@
+explained: false
+first: لَهُ دَرْمَكٌ فِي رَأْسِهِ وَمَشَارِبٌ
+second: وَمِسْكٌ وَرَيْحَانٌ وَرَاحٌ تُصَفَّقُ
+vocabulary:
+- term: دَرْمَكٌ
+  text: 'الدقيق الأبيض الخالص: «والدَّرْمَكُ: دَقِيقُ الحُوَّارَى» [@lisan، ج10 ص423]، وأنشد صاحب اللسان البيت شاهدًا عليه.'
+- term: وَمَشَارِبٌ
+  text: مواضع يُشرب فيها.
+- term: تُصَفَّقُ
+  text: 'تُنقل من إناء إلى إناء لتصفو: «وصَفَقَه وصَفَّقَه وأَصْفَقَه: حوَّله مِنْ إِناء إِلى إِناء لِيَصْفُو» [@lisan، ج10 ص202].'
+sources:
+- source: diwan-asha
+  loc: ص253
+  url: https://archive.org/details/20201023_20201023_0327/page/n245/mode/1up
+- source: lisan
+  loc: ج10 ص423
+  url: https://shamela.ws/book/1687/5092
+- source: lisan
+  loc: ج10 ص202
+  url: https://shamela.ws/book/1687/4872
+status: review

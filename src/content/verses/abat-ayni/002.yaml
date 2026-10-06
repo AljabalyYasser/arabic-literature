@@ -1,0 +1,13 @@
+explained: false
+first: "عَلَى صَخْرٍ وَأَيُّ فَتًى كَصَخْرٍ"
+second: "إِذَا مَا النَّابُ لَمْ تَرْأَمْ طَلَاهَا"
+vocabulary:
+- term: "النَّابُ"
+  text: "في الشرح: «الناب: الناقة المسنّة» [@diwan-khansa، ص278]."
+- term: "لَمْ تَرْأَمْ طَلَاهَا"
+  text: "لم تعطف على ولدها. في الشرح: «يعني أنّها لم ترأم طلاها من الضرّ والبرد؛ شُغلت عن ولدها فلم تعطف عليه. والطلا: الولد» [@diwan-khansa، ص279]."
+sources:
+- source: "diwan-khansa"
+  loc: "ص278–279"
+  url: "https://archive.org/details/3318pdf_202001/page/n277/mode/1up"
+status: "review"

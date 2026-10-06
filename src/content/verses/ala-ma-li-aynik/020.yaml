@@ -1,0 +1,15 @@
+explained: false
+first: "وَمُجْمِعَةٍ سُقْتَهَا قَاعِدًا"
+second: "فَأَعْلَمْتَ بِالرُّمْحِ أَغْفَالَهَا"
+vocabulary:
+- term: "وَمُجْمِعَةٍ"
+  text: "في الشرح: «والمُجمِعة: الكتيبة أيضًا» [@diwan-khansa، ص96]."
+- term: "قَاعِدًا"
+  text: "في الشرح: «أي وأنت قاعدٌ على فرسك» [@diwan-khansa، ص96]."
+- term: "أَغْفَالَهَا"
+  text: "في الشرح: «والغُفل واحد الأغفال وهي التي ليست عليها سِمَة من الدواب» [@diwan-khansa، ص96]."
+sources:
+- source: "diwan-khansa"
+  loc: "ص95–96"
+  url: "https://archive.org/details/3318pdf_202001/page/n94/mode/1up"
+status: "review"

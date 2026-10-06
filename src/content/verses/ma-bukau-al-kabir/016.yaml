@@ -1,0 +1,21 @@
+explained: false
+first: بَاكَرَتْهَا الْأَغْرَابُ فِي سِنَةِ النَّوْ
+second: مِ فَتَجْرِي خِلَالَ شَوْكِ السَّيَالِ
+vocabulary:
+- term: الْأَغْرَابُ
+  text: 'الأقداح: «والغَرْبُ: القَدَح، وَالْجَمْعُ أَغْراب» [@lisan، ج1 ص644].'
+- term: فِي سِنَةِ النَّوْمِ
+  text: في أول النعاس.
+- term: شَوْكِ السَّيَالِ
+  text: 'يعني الأسنان، و«السَّيَال، بِالْفَتْحِ: شَجَرٌ لَهُ شَوْكٌ أَبيض» [@lisan، ج11 ص352].'
+sources:
+- source: diwan-asha
+  loc: ص41
+  url: https://archive.org/details/20201023_20201023_0327/page/n41/mode/1up
+- source: lisan
+  loc: ج1 ص644
+  url: https://shamela.ws/book/1687/644
+- source: lisan
+  loc: ج11 ص352
+  url: https://shamela.ws/book/1687/5532
+status: review

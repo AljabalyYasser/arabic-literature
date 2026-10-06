@@ -1,0 +1,19 @@
+explained: false
+first: فَذَاكَ وَلَمْ يُعْجِزْ مِنَ الْمَوْتِ رَبَّهُ
+second: وَلَكِنْ أَتَاهُ الْمَوْتُ لَا يَتَأَبَّقُ
+vocabulary:
+- term: وَلَمْ يُعْجِزْ مِنَ الْمَوْتِ رَبَّهُ
+  text: 'لم يُفلت صاحبَه من الموت: «وَمَعْنَى الإِعْجاز الفَوْتُ والسَّبْقُ» [@lisan، ج5 ص370].'
+- term: لَا يَتَأَبَّقُ
+  text: 'لا يستخفي: «وأَبَقَ وتأَبَّقَ: اسْتَخْفَى ثُمَّ ذَهَبَ» [@lisan، ج10 ص3].'
+sources:
+- source: diwan-asha
+  loc: ص253
+  url: https://archive.org/details/20201023_20201023_0327/page/n245/mode/1up
+- source: lisan
+  loc: ج5 ص370
+  url: https://shamela.ws/book/1687/2954
+- source: lisan
+  loc: ج10 ص3
+  url: https://shamela.ws/book/1687/4673
+status: review

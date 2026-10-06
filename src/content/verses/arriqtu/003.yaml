@@ -1,0 +1,19 @@
+explained: false
+first: فَإِنْ يُمْسِ عِنْدِي الشَّيْبُ وَالْهَمُّ وَالْعَشَى
+second: فَقَدْ بِنَّ مِنِّي وَالسِّلَامُ تُفَلَّقُ
+vocabulary:
+- term: الْعَشَى
+  text: 'ضعف البصر: «العَشَا، مقصورٌ: سوءُ البَصَرِ بالليلِ والنهارِ» [@lisan، ج15 ص56].'
+- term: وَالسِّلَامُ تُفَلَّقُ
+  text: 'والحجارة نفسها تتشقق على الدهر: «والسِّلامُ والسَّلِمُ: الْحِجَارَةُ» [@lisan، ج12 ص297].'
+sources:
+- source: diwan-asha
+  loc: ص253
+  url: https://archive.org/details/20201023_20201023_0327/page/n245/mode/1up
+- source: lisan
+  loc: ج15 ص56
+  url: https://shamela.ws/book/1687/7668
+- source: lisan
+  loc: ج12 ص297
+  url: https://shamela.ws/book/1687/6210
+status: review

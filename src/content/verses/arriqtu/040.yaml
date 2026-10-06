@@ -1,0 +1,19 @@
+explained: false
+first: فَيَفْجَعْنَ ذَا الْمَالِ الْكَثِيرِ بِمَالِهِ
+second: وَطَوْرًا يُقَنِّينَ الضَّرِيكَ فَيَلْحَقُ
+vocabulary:
+- term: يُقَنِّينَ
+  text: 'يُغنين ويجعلن له مالًا يقتنيه: «وأَقناه اللهُ حَتَّى قَنِيَ قِنًى وَهُوَ أَن يَصيرَ لَهُ قِنيةٌ مِنَ الْمَالِ» [@lisan، ج15 ص137].'
+- term: الضَّرِيكَ
+  text: '«الضَّرِيكُ: الْفَقِيرُ الْيَابِسُ الْهَالِكُ سُوءَ حالٍ» [@lisan، ج10 ص461].'
+sources:
+- source: diwan-asha
+  loc: ص259
+  url: https://archive.org/details/20201023_20201023_0327/page/n251/mode/1up
+- source: lisan
+  loc: ج15 ص137
+  url: https://shamela.ws/book/1687/7749
+- source: lisan
+  loc: ج10 ص461
+  url: https://shamela.ws/book/1687/5130
+status: review

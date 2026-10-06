@@ -1,0 +1,21 @@
+explained: false
+first: وَكِسْرَى شَهَنْشَاهُ الَّذِي سَارَ مُلْكُهُ
+second: لَهُ مَا اشْتَهَى رَاحٌ عَتِيقٌ وَزَنْبَقُ
+vocabulary:
+- term: شَهَنْشَاهُ
+  text: 'لفظ فارسي: «يُرَادُ بِهِ ملِك الْمُلُوكِ» [@lisan، ج13 ص511].'
+- term: رَاحٌ عَتِيقٌ
+  text: خمر قديمة.
+- term: وَزَنْبَقُ
+  text: '«الزَّنْبَقُ: دُهْنُ الْيَاسَمِينِ» [@lisan، ج10 ص146].'
+sources:
+- source: diwan-asha
+  loc: ص253
+  url: https://archive.org/details/20201023_20201023_0327/page/n245/mode/1up
+- source: lisan
+  loc: ج13 ص511
+  url: https://shamela.ws/book/1687/7072
+- source: lisan
+  loc: ج10 ص146
+  url: https://shamela.ws/book/1687/4816
+status: review

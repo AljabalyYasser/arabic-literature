@@ -1,0 +1,21 @@
+explained: false
+first: حَلَّ أَهْلِي بَطْنَ الْغَمِيسِ فَبَادَوْ
+second: لَى وَحَلَّتْ عُلْوِيَّةً بِالسِّخَالِ
+vocabulary:
+- term: بَطْنَ الْغَمِيسِ فَبَادَوْلَى
+  text: 'موضعان: «وبَادَوْلَى وبَادُولَى، بِالْفَتْحِ وَالضَّمِّ: مَوْضِعٌ» [@lisan، ج11 ص50].'
+- term: عُلْوِيَّةً
+  text: في العالية، وهي أعالي نجد.
+- term: بِالسِّخَالِ
+  text: '«والسِّخَال: مَوْضِعٌ أَو مَوَاضِعُ» [@lisan، ج11 ص332].'
+sources:
+- source: diwan-asha
+  loc: ص39
+  url: https://archive.org/details/20201023_20201023_0327/page/n39/mode/1up
+- source: lisan
+  loc: ج11 ص50
+  url: https://shamela.ws/book/1687/5232
+- source: lisan
+  loc: ج11 ص332
+  url: https://shamela.ws/book/1687/5512
+status: review

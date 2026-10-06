@@ -1,0 +1,15 @@
+explained: false
+first: "وَأَكْرَمَ عِنْدَ ضُرِّ النَّاسِ جَهْدًا"
+second: "لِجَادٍ أَوْ لِجَارٍ أَوْ لِعِرْسِ"
+vocabulary:
+- term: "عِنْدَ ضُرِّ النَّاسِ"
+  text: "في الشرح: «أي: إذا ضرّ الناس وجُهدوا كان صخر أكرم ما يكون؛ أي يُطعم ويُسقى» [@diwan-khansa، ص326]."
+- term: "لِجَادٍ"
+  text: "في الشرح: «الجادي: الطالب» [@diwan-khansa، ص326]."
+- term: "لِعِرْسِ"
+  text: "في الشرح: «العِرس: امرأة الرجل» [@diwan-khansa، ص326]."
+sources:
+- source: "diwan-khansa"
+  loc: "ص326"
+  url: "https://archive.org/details/3318pdf_202001/page/n325/mode/1up"
+status: "review"

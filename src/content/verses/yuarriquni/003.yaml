@@ -1,0 +1,14 @@
+explained: false
+first: "فَلَمْ أَسْمَعْ بِهِ رُزْءًا لِجِنٍّ"
+second: "وَلَمْ أَسْمَعْ بِهِ رُزْءًا لِإِنْسِ"
+vocabulary:
+- term: "رُزْءًا"
+  text: "مصيبة. في الشرح المنسوب إلى ثَعْلَب: «والرّزء: المصيبة» [@diwan-khansa، ص280]."
+sources:
+- source: "diwan-khansa"
+  loc: "ص325"
+  url: "https://archive.org/details/3318pdf_202001/page/n324/mode/1up"
+- source: "diwan-khansa"
+  loc: "ص280"
+  url: "https://archive.org/details/3318pdf_202001/page/n279/mode/1up"
+status: "review"

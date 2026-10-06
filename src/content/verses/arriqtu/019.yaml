@@ -1,0 +1,19 @@
+explained: false
+first: وَقَدْ أَقْطَعُ الْيَوْمَ الطَّوِيلَ بِفِتْيَةٍ
+second: مَسَامِيحَ تُسْقَى وَالْخِبَاءُ مُرَوَّقُ
+vocabulary:
+- term: مَسَامِيحَ
+  text: 'أسخياء، جمع مِسْماح: «وَرِجَالٌ مَسامِيحُ» [@lisan، ج2 ص489].'
+- term: وَالْخِبَاءُ مُرَوَّقُ
+  text: والخيمة مضروب لها رِواق، و«رِواق الْبَيْتِ مُقدَّمه» [@lisan، ج10 ص133].
+sources:
+- source: diwan-asha
+  loc: ص255
+  url: https://archive.org/details/20201023_20201023_0327/page/n248/mode/1up
+- source: lisan
+  loc: ج2 ص489
+  url: https://shamela.ws/book/1687/1293
+- source: lisan
+  loc: ج10 ص133
+  url: https://shamela.ws/book/1687/4803
+status: review

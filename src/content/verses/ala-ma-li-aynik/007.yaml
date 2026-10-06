@@ -1,0 +1,19 @@
+explained: false
+first: "لَعَمْرُ أَبِيهِ لَنِعْمَ الْفَتَى"
+second: "تَحُشُّ بِهِ الْحَرْبُ أَجْذَالَهَا"
+vocabulary:
+- term: "تَحُشُّ"
+  text: "توقد. في لسان العرب: «ويَحُشُّ الرجلُ الحطبَ ويَحُشُّ النَّارَ إِذا ضَمَّ الْحَطَبَ عَلَيْهَا وأَوقَدَها» [@lisan، ج6 ص285]."
+- term: "أَجْذَالَهَا"
+  text: "جمع جِذْل، «وَهُوَ أَصل الشَّجَرَةِ» [@lisan، ج10 ص413]. فهو حطب الحرب الذي تشتعل به."
+sources:
+- source: "diwan-khansa"
+  loc: "ص86"
+  url: "https://archive.org/details/3318pdf_202001/page/n85/mode/1up"
+- source: "lisan"
+  loc: "ج6 ص285"
+  url: "https://shamela.ws/book/1687/3297"
+- source: "lisan"
+  loc: "ج10 ص413"
+  url: "https://shamela.ws/book/1687/5082"
+status: "review"

@@ -1,0 +1,16 @@
+explained: false
+first: "إِلَى مَلِكٍ لَا إِلَى سُوقَةٍ"
+second: "وَذَلِكَ مَا كَانَ إِعْمَالَهَا"
+vocabulary:
+- term: "سُوقَةٍ"
+  text: "«والسُّوقة خِلَافُ المَلِك» [@lisan، ج10 ص170]."
+- term: "إِعْمَالَهَا"
+  text: "في الشرح: «أرادت أن تقول: وذلك شأنها الذي أُعملت فيه» [@diwan-khansa، ص100]."
+sources:
+- source: "diwan-khansa"
+  loc: "ص100"
+  url: "https://archive.org/details/3318pdf_202001/page/n99/mode/1up"
+- source: "lisan"
+  loc: "ج10 ص170"
+  url: "https://shamela.ws/book/1687/4840"
+status: "review"

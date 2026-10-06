@@ -1,0 +1,16 @@
+explained: false
+first: يَرُوحُ فَتَى صِدْقٍ وَيَغْدُو عَلَيْهِمُ
+second: بِمِلْءِ جِفَانٍ مِنْ سَدِيفٍ يُدَفَّقُ
+vocabulary:
+- term: سَدِيفٍ
+  text: '«السَّدِيفُ: لَحم السَّنامِ» [@lisan، ج9 ص147].'
+- term: يُدَفَّقُ
+  text: يُصبّ.
+sources:
+- source: diwan-asha
+  loc: ص261
+  url: https://archive.org/details/20201023_20201023_0327/page/n253/mode/1up
+- source: lisan
+  loc: ج9 ص147
+  url: https://shamela.ws/book/1687/4454
+status: review

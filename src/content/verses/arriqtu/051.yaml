@@ -1,0 +1,21 @@
+explained: false
+first: لَعَمْرِي لَقَدْ لَاحَتْ عُيُونٌ كَثِيرَةٌ
+second: إِلَى ضَوْءِ نَارٍ فِي يَفَاعٍ تُحَرَّقُ
+vocabulary:
+- term: لَاحَتْ
+  text: 'نظرت: «ولُحْتُ إِلى كَذَا أَلُوحُ إِذا نَظَرْتُ إِلى نَارٍ بَعِيدَةٍ» [@lisan، ج2 ص585].'
+- term: يَفَاعٍ
+  text: '«الْيِفَاعُ: المُشْرِفُ مِنَ الأَرض وَالْجَبَلِ» [@lisan، ج8 ص414].'
+- term: تُحَرَّقُ
+  text: توقد.
+sources:
+- source: diwan-asha
+  loc: ص259
+  url: https://archive.org/details/20201023_20201023_0327/page/n251/mode/1up
+- source: lisan
+  loc: ج2 ص585
+  url: https://shamela.ws/book/1687/1389
+- source: lisan
+  loc: ج8 ص414
+  url: https://shamela.ws/book/1687/4262
+status: review

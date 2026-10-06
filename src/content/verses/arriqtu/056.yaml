@@ -1,0 +1,26 @@
+explained: false
+first: وَأَمَّا إِذَا مَا أَوَّبَ الْمَحْلُ سَرْحَهُمْ
+second: وَلَاحَ لَهُمْ مِنَ الْعَشِيَّاتِ سَمْلَقُ
+vocabulary:
+- term: أَوَّبَ
+  text: أرجع.
+- term: الْمَحْلُ
+  text: «المَحْل الجدبُ وَهُوَ انْقِطَاعُ الْمَطَرِ ويُبْسُ الأَرض مِنَ الكَلإِ» [@lisan، ج11 ص617].
+- term: سَرْحَهُمْ
+  text: '«السَّرْحُ: المالُ السَّائِمُ» [@lisan، ج2 ص478].'
+- term: سَمْلَقُ
+  text: '«السَّمْلَق: الأَرض الْمُسْتَوِيَةِ، وَقِيلَ: القَفْر الَّذِي لَا نَبَاتَ فِيهِ» [@lisan، ج10 ص164].'
+sources:
+- source: diwan-asha
+  loc: ص261
+  url: https://archive.org/details/20201023_20201023_0327/page/n253/mode/1up
+- source: lisan
+  loc: ج11 ص617
+  url: https://shamela.ws/book/1687/5795
+- source: lisan
+  loc: ج2 ص478
+  url: https://shamela.ws/book/1687/1282
+- source: lisan
+  loc: ج10 ص164
+  url: https://shamela.ws/book/1687/4834
+status: review

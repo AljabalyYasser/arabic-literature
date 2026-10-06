@@ -1,0 +1,17 @@
+explained: false
+first: "أَبَتْ عَيْنِي وَعَاوَدَهَا قَذَاهَا"
+second: "بِعُوَّارٍ فَمَا تَقْضِي كَرَاهَا"
+vocabulary:
+- term: "أَبَتْ عَيْنِي"
+  text: "في الشرح المنسوب إلى ثَعْلَب: «أي: أبت لا تنام» [@diwan-khansa، ص278]."
+- term: "قَذَاهَا"
+  text: "في الشرح: «قذاها؛ أي همّها وأرقها» [@diwan-khansa، ص278]."
+- term: "بِعُوَّارٍ"
+  text: "في الشرح: «وإنّما العُوّار ها هنا: الحزن» [@diwan-khansa، ص278]."
+- term: "كَرَاهَا"
+  text: "في الشرح: «أي نومها» [@diwan-khansa، ص278]."
+sources:
+- source: "diwan-khansa"
+  loc: "ص278"
+  url: "https://archive.org/details/3318pdf_202001/page/n277/mode/1up"
+status: "review"

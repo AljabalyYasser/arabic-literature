@@ -1,0 +1,26 @@
+explained: false
+first: وَيُجْبَى إِلَيْهِ السَّيْلَحُونَ وَدُونَهَا
+second: صَرِيفُونَ فِي أَنْهَارِهَا وَالْخَوَرْنَقُ
+vocabulary:
+- term: وَيُجْبَى إِلَيْهِ
+  text: يُجمع إليه خراجها.
+- term: السَّيْلَحُونَ
+  text: '«والسَّيْلَحُون: مَوْضِعٌ» [@lisan، ج2 ص488].'
+- term: صَرِيفُونَ
+  text: '«وصَرِيفون: مَوْضِعٌ بِالْعِرَاقِ» [@lisan، ج9 ص192].'
+- term: وَالْخَوَرْنَقُ
+  text: '«والخَوَرْنق: اسْمُ قَصْرٍ بِالْعِرَاقِ، فَارِسِيٌّ مُعَرَّبٌ، بِنَاهُ النُّعْمَانُ الأَكبر» [@lisan، ج10 ص79].'
+sources:
+- source: diwan-asha
+  loc: ص255
+  url: https://archive.org/details/20201023_20201023_0327/page/n248/mode/1up
+- source: lisan
+  loc: ج2 ص488
+  url: https://shamela.ws/book/1687/1292
+- source: lisan
+  loc: ج9 ص192
+  url: https://shamela.ws/book/1687/4499
+- source: lisan
+  loc: ج10 ص79
+  url: https://shamela.ws/book/1687/4749
+status: review

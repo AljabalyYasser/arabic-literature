@@ -1,0 +1,13 @@
+explained: false
+first: "وَإِذْ فِينَا فَوَارِسُ كُلِّ هَيْجَا"
+second: "إِذَا فَزِعُوا وَفِتْيَانُ الْخُرُوقِ"
+vocabulary:
+- term: "هَيْجَا"
+  text: "الحرب. في الشرح: «وسمّيت الهيجاء لهيجان القتال» [@diwan-khansa، ص68]."
+- term: "وَفِتْيَانُ الْخُرُوقِ"
+  text: "في الشرح: «والخَرْق: الفلاة المتسعة تنخرق فيها الريح» [@diwan-khansa، ص68]، و«هم فتيان الفلوات لأنهم يتعسّفون ويعتسفون الفلوات» [@diwan-khansa، ص69]."
+sources:
+- source: "diwan-khansa"
+  loc: "ص68–69"
+  url: "https://archive.org/details/3318pdf_202001/page/n67/mode/1up"
+status: "review"

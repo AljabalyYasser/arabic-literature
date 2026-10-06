@@ -1,0 +1,19 @@
+explained: false
+first: "فَيَوْمًا تَرَاهُ عَلَى هَيْكَلٍ"
+second: "أَخَا الْحَرْبِ يَلْبَسُ سِرْبَالَهَا"
+vocabulary:
+- term: "هَيْكَلٍ"
+  text: "فرس ضخم. في لسان العرب: «اللَّيْثُ: الهَيْكَلُ الْفَرَسُ الطَّوِيلُ عُلُوًّا وعدْواً» [@lisan، ج11 ص700]."
+- term: "سِرْبَالَهَا"
+  text: "درعها: «السِّرْبالُ: القَميص والدِّرْع» [@lisan، ج11 ص335]."
+sources:
+- source: "diwan-khansa"
+  loc: "ص109"
+  url: "https://archive.org/details/3318pdf_202001/page/n108/mode/1up"
+- source: "lisan"
+  loc: "ج11 ص700"
+  url: "https://shamela.ws/book/1687/5877"
+- source: "lisan"
+  loc: "ج11 ص335"
+  url: "https://shamela.ws/book/1687/5515"
+status: "review"

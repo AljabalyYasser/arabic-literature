@@ -1,0 +1,16 @@
+explained: false
+first: يَدَاكَ يَدَا صِدْقٍ فَكَفٌّ مُفِيدَةٌ
+second: وَأُخْرَى إِذَا مَا ضُنَّ بِالزَّادِ تُنْفِقُ
+vocabulary:
+- term: مُفِيدَةٌ
+  text: 'معطية: «أَفَدْتُ المالَ أَي أَعطيته غَيْرِي» [@lisan، ج3 ص341].'
+- term: ضُنَّ
+  text: بُخل.
+sources:
+- source: diwan-asha
+  loc: ص261
+  url: https://archive.org/details/20201023_20201023_0327/page/n253/mode/1up
+- source: lisan
+  loc: ج3 ص341
+  url: https://shamela.ws/book/1687/1783
+status: review

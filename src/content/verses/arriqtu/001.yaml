@@ -1,0 +1,19 @@
+explained: false
+first: أَرِقْتُ وَمَا هَذَا السُّهَادُ الْمُؤَرِّقُ
+second: وَمَا بِيَ مِنْ سُقْمٍ وَمَا بِيَ مَعْشَقُ
+vocabulary:
+- term: السُّهَادُ
+  text: 'الأرق وقلة النوم. قال الجوهري: «السُّهادُ الأَرَقُ» [@lisan، ج3 ص224].'
+- term: مَعْشَقُ
+  text: 'العشق، مصدر ميمي: «والمَعْشَقُ: العِشْقُ» [@lisan، ج10 ص252].'
+sources:
+- source: diwan-asha
+  loc: ص253
+  url: https://archive.org/details/20201023_20201023_0327/page/n245/mode/1up
+- source: lisan
+  loc: ج3 ص224
+  url: https://shamela.ws/book/1687/1666
+- source: lisan
+  loc: ج10 ص252
+  url: https://shamela.ws/book/1687/4921
+status: review

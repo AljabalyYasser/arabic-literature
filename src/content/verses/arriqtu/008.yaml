@@ -1,0 +1,21 @@
+explained: false
+first: بَنَاهُ سُلَيْمَانُ بْنُ دَاوُدَ حِقْبَةً
+second: لَهُ أَزَجٌ عَالٍ وَطَيٌّ مُوَثَّقُ
+vocabulary:
+- term: حِقْبَةً
+  text: '«والحِقْبةُ مِنَ الدَّهر: مُدَّةٌ لَا وَقْتَ لَهَا» [@lisan، ج1 ص326].'
+- term: أَزَجٌ
+  text: '«الأَزَجُ: بيْتٌ يُبْنى طُولًا» [@lisan، ج2 ص208].'
+- term: وَطَيٌّ مُوَثَّقُ
+  text: وبناء بالحجارة محكم، من طيّ البئر وهو بناء جوانبها بالحجارة.
+sources:
+- source: diwan-asha
+  loc: ص253
+  url: https://archive.org/details/20201023_20201023_0327/page/n245/mode/1up
+- source: lisan
+  loc: ج1 ص326
+  url: https://shamela.ws/book/1687/326
+- source: lisan
+  loc: ج2 ص208
+  url: https://shamela.ws/book/1687/1012
+status: review

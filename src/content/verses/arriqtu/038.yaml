@@ -1,0 +1,16 @@
+explained: false
+first: أَتَزْعُمُ لِلْأَكْفَاءِ مَا أَنْتَ أَهْلُهُ
+second: وَتَخْتَالُ إِذْ جَارُ ابْنِ عَمِّكَ مُرْهَقُ
+vocabulary:
+- term: لِلْأَكْفَاءِ
+  text: للنظراء.
+- term: مُرْهَقُ
+  text: 'مكلَّف ما لا يطيق: «وأَرْهقَه عُسْراً أَي كَلَّفه إِياه» [@lisan، ج10 ص129].'
+sources:
+- source: diwan-asha
+  loc: ص257
+  url: https://archive.org/details/20201023_20201023_0327/page/n249/mode/1up
+- source: lisan
+  loc: ج10 ص129
+  url: https://shamela.ws/book/1687/4799
+status: review

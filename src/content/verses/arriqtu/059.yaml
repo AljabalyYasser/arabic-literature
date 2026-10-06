@@ -1,0 +1,23 @@
+explained: false
+first: وَعَادَ فَتَى صِدْقٍ عَلَيْهِمْ بِجَفْنَةٍ
+second: وَسَوْدَاءَ لَأْيًا بِالْمَزَادَةِ تُمْرَقُ
+vocabulary:
+- term: وَسَوْدَاءَ
+  text: يعني القِدْر، سوّدها الطبخ.
+- term: لَأْيًا
+  text: 'بعد بطء ومشقة: «اللأْيُ: البُطْءُ» [@lisan، ج4 ص454].'
+- term: بِالْمَزَادَةِ
+  text: بالقربة الكبيرة.
+- term: تُمْرَقُ
+  text: 'يُكثَّر مرقها: «وأَمْرَقَها يُمْرقها إمْراقاً: أَكثر مَرَقَها» [@lisan، ج10 ص340]؛ أي لا يُصبّ فيها من الماء إلا قليل لكثرة اللحم.'
+sources:
+- source: diwan-asha
+  loc: ص261
+  url: https://archive.org/details/20201023_20201023_0327/page/n253/mode/1up
+- source: lisan
+  loc: ج4 ص454
+  url: https://shamela.ws/book/1687/2414
+- source: lisan
+  loc: ج10 ص340
+  url: https://shamela.ws/book/1687/5009
+status: review

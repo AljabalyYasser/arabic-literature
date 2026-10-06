@@ -1,0 +1,13 @@
+explained: false
+first: "لِيَبْكُوا حِينَ تَشْتَجِرُ الْعَوَالِي"
+second: "غَدَاةَ الرَّوْعِ سَاعَةَ مُصْطَلَاهَا"
+vocabulary:
+- term: "تَشْتَجِرُ الْعَوَالِي"
+  text: "في الشرح: «تشتجر: تختلف وتشتبك»، و«عالية الرمح: أعلاه» [@diwan-khansa، ص285]."
+- term: "سَاعَةَ مُصْطَلَاهَا"
+  text: "في الشرح: «ساعة تصطلي الحرب» [@diwan-khansa، ص286]."
+sources:
+- source: "diwan-khansa"
+  loc: "ص285–286"
+  url: "https://archive.org/details/3318pdf_202001/page/n284/mode/1up"
+status: "review"

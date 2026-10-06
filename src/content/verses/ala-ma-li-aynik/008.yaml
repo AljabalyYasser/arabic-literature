@@ -1,0 +1,19 @@
+explained: false
+first: "حَدِيدُ الْفُؤَادِ ذَلِيقُ اللِّسَانِ"
+second: "يُجَازِي الْمَقَارِضَ أَمْثَالَهَا"
+vocabulary:
+- term: "ذَلِيقُ اللِّسَانِ"
+  text: "حادّه، «وذَلَقُ اللِّسَانِ كذَلَقِ السِّنان» [@lisan، ج1 ص204]."
+- term: "الْمَقَارِضَ"
+  text: "ما يُفعل به أو يُقال له من سوء. في لسان العرب: «والمُقارَضةُ: تَكُونُ فِي العَمَلِ السَّيِء والقَوْلِ السَّيِء» [@lisan، ج7 ص217]."
+sources:
+- source: "diwan-khansa"
+  loc: "ص86"
+  url: "https://archive.org/details/3318pdf_202001/page/n85/mode/1up"
+- source: "lisan"
+  loc: "ج1 ص204"
+  url: "https://shamela.ws/book/1687/204"
+- source: "lisan"
+  loc: "ج7 ص217"
+  url: "https://shamela.ws/book/1687/3600"
+status: "review"

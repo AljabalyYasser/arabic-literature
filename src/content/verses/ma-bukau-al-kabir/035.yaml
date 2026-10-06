@@ -1,0 +1,26 @@
+explained: false
+first: أَثَّرَتْ فِي جَنَاجِنٍ كَإِرَانِ الْـ
+second: ـمَيْتِ عُولِينَ فَوْقَ عُوجٍ رِسَالِ
+vocabulary:
+- term: جَنَاجِنٍ
+  text: '«والجَناجِنُ: عِظامُ الصَّدْرِ» [@lisan، ج13 ص100].'
+- term: كَإِرَانِ الْمَيْتِ
+  text: 'كالنعش: «الإِرانُ خشبٌ يُشدُّ بَعْضُهُ إِلَى بَعْضٍ تُحْمَل فِيهِ الْمَوْتَى» [@lisan، ج13 ص14].'
+- term: عُولِينَ
+  text: رُفعن.
+- term: عُوجٍ رِسَالِ
+  text: 'قوائم معوجّة طوال: «أَي قَوَائِمُ طِوال» [@lisan، ج11 ص283].'
+sources:
+- source: diwan-asha
+  loc: ص43
+  url: https://archive.org/details/20201023_20201023_0327/page/n43/mode/1up
+- source: lisan
+  loc: ج13 ص100
+  url: https://shamela.ws/book/1687/6661
+- source: lisan
+  loc: ج13 ص14
+  url: https://shamela.ws/book/1687/6577
+- source: lisan
+  loc: ج11 ص283
+  url: https://shamela.ws/book/1687/5463
+status: review

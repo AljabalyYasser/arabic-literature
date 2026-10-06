@@ -1,0 +1,13 @@
+explained: false
+first: "بِمُعْتَرَكٍ بَيْنَهَا ضَيِّقٍ"
+second: "مَجَرَّ الْمَنِيَّةِ أَذْيَالَهَا"
+vocabulary:
+- term: "بِمُعْتَرَكٍ"
+  text: "في الشرح: «أي: حيث التقى القوم فطمع هذا القِرن في قِرنه» [@diwan-khansa، ص92]."
+- term: "مَجَرَّ الْمَنِيَّةِ أَذْيَالَهَا"
+  text: "في الشرح: «أي: تجرّ أذيالها بين الرماح والسيوف، والقوم حين يلتقون لا يقع بينهم أحدٌ إلّا ذهب» [@diwan-khansa، ص93]."
+sources:
+- source: "diwan-khansa"
+  loc: "ص92–93"
+  url: "https://archive.org/details/3318pdf_202001/page/n91/mode/1up"
+status: "review"

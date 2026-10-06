@@ -1,0 +1,21 @@
+explained: false
+first: رُبَّ خَرْقٍ مِنْ دُونِهَا يُخْرِسُ السَّفْـ
+second: ـرَ وَمِيلٍ يُفْضِي إِلَى أَمْيَالِ
+vocabulary:
+- term: خَرْقٍ
+  text: «والخرق الأَرض الواسعة» [@lisan، ج6 ص138].
+- term: يُخْرِسُ السَّفْرَ
+  text: يُسكت المسافرين من هوله.
+- term: وَمِيلٍ
+  text: '«والمِيلُ مِنَ الأَرض: قدْرُ منتهَى مدِّ الْبَصَرِ» [@lisan، ج11 ص639].'
+sources:
+- source: diwan-asha
+  loc: ص39
+  url: https://archive.org/details/20201023_20201023_0327/page/n39/mode/1up
+- source: lisan
+  loc: ج6 ص138
+  url: https://shamela.ws/book/1687/3150
+- source: lisan
+  loc: ج11 ص639
+  url: https://shamela.ws/book/1687/5817
+status: review

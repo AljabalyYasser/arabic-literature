@@ -1,0 +1,18 @@
+explained: false
+first: قَدْ تَعَلَّلْتُهَا عَلَى نَكَظِ الْمَيْـ
+second: ـطِ وَقَدْ خَبَّ لَامِعَاتُ الْآلِ
+vocabulary:
+- term: تَعَلَّلْتُهَا
+  text: استخرجت ما عندها من السير.
+- term: نَكَظِ الْمَيْطِ
+  text: 'عجلة البعد: «النَّكْظةُ والنَّكَظةُ: العَجَلة» [@lisan، ج7 ص465].'
+- term: لَامِعَاتُ الْآلِ
+  text: السراب اللامع.
+sources:
+- source: diwan-asha
+  loc: ص41
+  url: https://archive.org/details/20201023_20201023_0327/page/n41/mode/1up
+- source: lisan
+  loc: ج7 ص465
+  url: https://shamela.ws/book/1687/3848
+status: review

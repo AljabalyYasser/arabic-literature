@@ -1,0 +1,19 @@
+explained: false
+first: تَرَى الْقَوْمَ فِيهَا شَارِعِينَ وَدُونَهُمْ
+second: مِنَ الْقَوْمِ وِلْدَانٌ مِنَ النَّسْلِ دَرْدَقُ
+vocabulary:
+- term: شَارِعِينَ
+  text: 'يتناولون الطعام كما يتناول الوارد الماء: «شَرَعَ الوارِدُ يَشْرَعُ شَرْعاً وشُروعاً: تَنَاوَلَ الماءَ بفِيه» [@lisan، ج8 ص175].'
+- term: دَرْدَقُ
+  text: '«والدَّرْدَقُ: صِغَارُ الإِبل وَالنَّاسِ» [@lisan، ج10 ص96].'
+sources:
+- source: diwan-asha
+  loc: ص261
+  url: https://archive.org/details/20201023_20201023_0327/page/n253/mode/1up
+- source: lisan
+  loc: ج8 ص175
+  url: https://shamela.ws/book/1687/4023
+- source: lisan
+  loc: ج10 ص96
+  url: https://shamela.ws/book/1687/4766
+status: review

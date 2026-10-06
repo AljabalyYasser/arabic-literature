@@ -1,0 +1,15 @@
+explained: false
+first: "وَرَجْرَاجَةٍ فَوْقَهَا بَيْضُهَا"
+second: "عَلَيْهَا الْمُضَاعَفُ زُفْنَا لَهَا"
+vocabulary:
+- term: "وَرَجْرَاجَةٍ"
+  text: "كتيبة. في الشرح عن الأَصْمَعِيّ: «الرجراجة: الكتيبة التي تمخّض من كثرتها» [@diwan-khansa، ص102]."
+- term: "الْمُضَاعَفُ"
+  text: "في الشرح: «والمضاعف من الدروع: التي تُنسج حلقتين حلقتين» [@diwan-khansa، ص102]."
+- term: "زُفْنَا لَهَا"
+  text: "في الشرح: «زُفنا لها: مشينا إليها باختيال» [@diwan-khansa، ص102]."
+sources:
+- source: "diwan-khansa"
+  loc: "ص102"
+  url: "https://archive.org/details/3318pdf_202001/page/n101/mode/1up"
+status: "review"

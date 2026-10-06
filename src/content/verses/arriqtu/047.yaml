@@ -1,0 +1,21 @@
+explained: false
+first: وَأَصْفَرَ كَالْحِنَّاءِ طَامٍ جِمَامُهُ
+second: إِذَا ذَاقَهُ مُسْتَعْذِبُ الْمَاءِ يَبْصُقُ
+vocabulary:
+- term: وَأَصْفَرَ
+  text: وماء أصفر متغير.
+- term: طَامٍ
+  text: «ارْتَفَعَ وعَلا ومَلأَ النَّهْرُ، فَهُوَ طامٍ» [@lisan، ج15 ص15].
+- term: جِمَامُهُ
+  text: 'ما اجتمع منه، و«الجُمَّة: الْمَاءُ نَفْسُهُ» [@lisan، ج12 ص105].'
+sources:
+- source: diwan-asha
+  loc: ص259
+  url: https://archive.org/details/20201023_20201023_0327/page/n251/mode/1up
+- source: lisan
+  loc: ج15 ص15
+  url: https://shamela.ws/book/1687/7627
+- source: lisan
+  loc: ج12 ص105
+  url: https://shamela.ws/book/1687/6021
+status: review

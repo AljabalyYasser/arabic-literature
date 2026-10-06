@@ -1,0 +1,13 @@
+explained: false
+first: "فِدًى لِلْفَارِسِ الْجُشَمِيِّ نَفْسِي"
+second: "أُفَدِّيهِ بِمَا لِي مِنْ حَمِيمِ"
+vocabulary:
+- term: "لِلْفَارِسِ الْجُشَمِيِّ"
+  text: "في الشرح المنسوب إلى ثَعْلَب: «والفارس الجشمي: تعني قيس بن عامر» [@diwan-khansa، ص222]، وهو قاتل هاشم بن حَرْمَلة."
+- term: "حَمِيمِ"
+  text: "القريب. في الشرح: «أي أفدّيه بكل حميم لي؛ وهو القريب» [@diwan-khansa، ص221–222]."
+sources:
+- source: "diwan-khansa"
+  loc: "ص221–222"
+  url: "https://archive.org/details/3318pdf_202001/page/n220/mode/1up"
+status: "review"

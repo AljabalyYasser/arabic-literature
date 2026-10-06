@@ -1,0 +1,26 @@
+explained: false
+first: هِيَ الصَّاحِبُ الْأَدْنَى وَبَيْنِي وَبَيْنَهَا
+second: مَجُوفٌ عِلَافِيٌّ وَقِطْعٌ وَنُمْرُقُ
+vocabulary:
+- term: مَجُوفٌ
+  text: 'رحل عظيم الجوف، قال أبو عبيدة: «المَجُوف الرَّجُل الضَّخْمُ» الجوف، وأنشد البيت [@lisan، ج9 ص35].'
+- term: عِلَافِيٌّ
+  text: «العِلافيّ أَعظم الرِّحَالِ أَخَرَةً وَوَاسِطًا» [@lisan، ج9 ص256].
+- term: وَقِطْعٌ
+  text: 'طِنفسة تُلقى على الرحل: «القِطْعِ، يَعْنِي الطِّنْفِسةَ» [@lisan، ج1 ص213].'
+- term: وَنُمْرُقُ
+  text: وسادة.
+sources:
+- source: diwan-asha
+  loc: ص257
+  url: https://archive.org/details/20201023_20201023_0327/page/n249/mode/1up
+- source: lisan
+  loc: ج9 ص35
+  url: https://shamela.ws/book/1687/4342
+- source: lisan
+  loc: ج9 ص256
+  url: https://shamela.ws/book/1687/4563
+- source: lisan
+  loc: ج1 ص213
+  url: https://shamela.ws/book/1687/213
+status: review

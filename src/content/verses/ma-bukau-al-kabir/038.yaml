@@ -1,0 +1,19 @@
+explained: false
+first: فَرْعُ نَبْعٍ يَهْتَزُّ فِي غُصُنِ الْمَجْـ
+second: ـدِ غَزِيرُ النَّدَى شَدِيدُ الْمِحَالِ
+vocabulary:
+- term: فَرْعُ نَبْعٍ
+  text: 'غصن من شجرة كريمة الأصل: «النَّبعُ شَجَرُ القِسِيّ» [@lisan، ج1 ص764].'
+- term: الْمِحَالِ
+  text: 'الكيد والقوة، وفي اللسان في البيت: «أَي شَدِيدُ الْمَكْرِ» [@lisan، ج11 ص619].'
+sources:
+- source: diwan-asha
+  loc: ص43
+  url: https://archive.org/details/20201023_20201023_0327/page/n43/mode/1up
+- source: lisan
+  loc: ج1 ص764
+  url: https://shamela.ws/book/1687/764
+- source: lisan
+  loc: ج11 ص619
+  url: https://shamela.ws/book/1687/5797
+status: review

@@ -1,0 +1,26 @@
+explained: false
+first: يُوَازِي كُبَيْدَاءَ السَّمَاءِ وَدُونَهُ
+second: بَلَاطٌ وَدَارَاتٌ وَكِلْسٌ وَخَنْدَقُ
+vocabulary:
+- term: كُبَيْدَاءَ السَّمَاءِ
+  text: 'وسطها، يقال: حلّق الطائر حتى صار في كبد السماء «وكُبَيْداءِ السَّمَاءِ» [@lisan، ج3 ص375].'
+- term: بَلَاطٌ
+  text: '«والبَلاطُ، بِالْفَتْحِ: الْحِجَارَةُ المَفْرُوشةُ فِي الدَّارِ» [@lisan، ج7 ص264].'
+- term: وَكِلْسٌ
+  text: '«الكِلْسُ: مِثْلُ الصَّارُوج يُبْنَى بِهِ» [@lisan، ج6 ص197].'
+- term: وَخَنْدَقُ
+  text: حفير يحيط بالحصن.
+sources:
+- source: diwan-asha
+  loc: ص253
+  url: https://archive.org/details/20201023_20201023_0327/page/n245/mode/1up
+- source: lisan
+  loc: ج3 ص375
+  url: https://shamela.ws/book/1687/1817
+- source: lisan
+  loc: ج7 ص264
+  url: https://shamela.ws/book/1687/3647
+- source: lisan
+  loc: ج6 ص197
+  url: https://shamela.ws/book/1687/3209
+status: review

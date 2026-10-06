@@ -1,0 +1,18 @@
+kind: "bayt"
+title: "ذهب الذين يعاش في أكنافهم"
+part: "1"
+order: 2
+person: "labid"
+lines:
+  - first: "ذَهَبَ الَّذِينَ يُعَاشُ فِي أَكْنَافِهِمْ"
+    second: "وَبَقِيتُ فِي خَلْفٍ كَجِلْدِ الْأَجْرَبِ"
+meaning: "ذهب الذين كان الناس يعيشون في كنفهم، وبقي هو في قوم لا خير فيهم، يشينون من صحبهم كما يشين الجرب الجلد. قاله في رثاء أخيه أربد، وكانت عائشة تكثر التمثل به، وقالت: «رحم الله تعالى لبيدا، إني لأروى له ألف بيت» [@ibn-al-anbari، ص511]."
+chapter: "labid/marathi-arbad"
+sources:
+  - source: "diwan-labid"
+    loc: "ص153"
+    url: "https://archive.org/details/3929pdf/page/n198/mode/1up"
+  - source: "ibn-al-anbari"
+    loc: "ص511"
+    url: "https://shamela.ws/book/124335/502"
+status: "review"

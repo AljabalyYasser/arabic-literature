@@ -1,0 +1,15 @@
+explained: false
+first: "وَنَوْحٍ بَعَثْتَ كَمِثْلِ الْإِرَاـ"
+second: "ـخِ آنَسَتِ الْعِينُ أَشْبَالَهَا"
+vocabulary:
+- term: "وَنَوْحٍ"
+  text: "في الشرح: «أي: ورُبّ نوحٍ في نساءٍ قَتلتَ رجالهنّ فبعثتهنّ للنوح» [@diwan-khansa، ص101]."
+- term: "الْإِرَاخِ"
+  text: "في الشرح: «والإراخ: أولاد البقر، واحدها إرخ، والعين: البقر» [@diwan-khansa، ص101]، يعني بقر الوحش."
+- term: "آنَسَتِ"
+  text: "في الشرح: «وآنست: أبصرت» [@diwan-khansa، ص101]."
+sources:
+- source: "diwan-khansa"
+  loc: "ص101"
+  url: "https://archive.org/details/3318pdf_202001/page/n100/mode/1up"
+status: "review"

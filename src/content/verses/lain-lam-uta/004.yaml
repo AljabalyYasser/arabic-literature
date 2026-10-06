@@ -1,0 +1,16 @@
+explained: false
+first: "أَتُكْرِهُنِي هُبِلْتَ عَلَى دُرَيْدٍ"
+second: "وَقَدْ أَصْفَحْتُ سَيِّدَ آلِ بَدْرِ"
+vocabulary:
+- term: "هُبِلْتَ"
+  text: "دعاء عليه بالموت، من قولهم: «هَبِلَتْهُ أُمُّه: ثَكِلَتْه» [@lisan، ج11 ص686]."
+- term: "أَصْفَحْتُ"
+  text: "رددتُ. في الشرح المنسوب إلى ثَعْلَب: «يقال: أصفحتُ الرجل: رددته. ويقال: أصفحه عن حاجته: ردّه» [@diwan-khansa، ص372]."
+sources:
+- source: "diwan-khansa"
+  loc: "ص371–372"
+  url: "https://archive.org/details/3318pdf_202001/page/n370/mode/1up"
+- source: "lisan"
+  loc: "ج11 ص686"
+  url: "https://shamela.ws/book/1687/5864"
+status: "review"

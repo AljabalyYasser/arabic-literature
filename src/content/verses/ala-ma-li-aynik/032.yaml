@@ -1,0 +1,15 @@
+explained: false
+first: "تَقُدُّ الذُّؤَابَةَ مِنْ يَذْبُلٍ"
+second: "أَبَتْ أَنْ تُفَارِقَ أَوْعَالَهَا"
+vocabulary:
+- term: "تَقُدُّ"
+  text: "تشقّ."
+- term: "الذُّؤَابَةَ"
+  text: "في الشرح: «والذؤابة: أعلى كلّ شيء» [@diwan-khansa، ص107]."
+- term: "يَذْبُلٍ"
+  text: "في الشرح: «و«يذبل» جبل في أقصى أرض بني كلاب» [@diwan-khansa، ص108]."
+sources:
+- source: "diwan-khansa"
+  loc: "ص107–108"
+  url: "https://archive.org/details/3318pdf_202001/page/n106/mode/1up"
+status: "review"

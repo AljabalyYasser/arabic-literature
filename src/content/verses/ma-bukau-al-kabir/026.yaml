@@ -1,0 +1,34 @@
+explained: false
+first: تَقْطَعُ الْأَمْعَزَ الْمُكَوْكِبَ وَخْدًا
+second: بِنَوَاجٍ سَرِيعَةِ الْإِيغَالِ
+vocabulary:
+- term: الْأَمْعَزَ
+  text: '«والأَمْعَزُ والمَعْزاءُ: الأَرض الحَزْنَةُ الغليظةُ ذَاتُ الْحِجَارَةِ» [@lisan، ج5 ص411].'
+- term: الْمُكَوْكِبَ
+  text: '«وَيُقَالُ للأَمْعَزِ إِذا توَقَّدَ حَصاه ضَحاءً: مُكَوْكِبٌ» [@lisan، ج1 ص721].'
+- term: وَخْدًا
+  text: '«الوَخْدُ: ضَرْبٌ مِنْ سَيْرِ الإِبل، وَهُوَ سَعَةُ الخَطْو فِي الْمَشْيِ» [@lisan، ج3 ص453].'
+- term: بِنَوَاجٍ
+  text: «أَي بقوائمَ سِراعٍ» [@lisan، ج15 ص306].
+- term: الْإِيغَالِ
+  text: '«والإِيغالُ: السَّير السريعُ» [@lisan، ج11 ص733].'
+sources:
+- source: diwan-asha
+  loc: ص43
+  url: https://archive.org/details/20201023_20201023_0327/page/n43/mode/1up
+- source: lisan
+  loc: ج5 ص411
+  url: https://shamela.ws/book/1687/2995
+- source: lisan
+  loc: ج1 ص721
+  url: https://shamela.ws/book/1687/721
+- source: lisan
+  loc: ج3 ص453
+  url: https://shamela.ws/book/1687/1895
+- source: lisan
+  loc: ج15 ص306
+  url: https://shamela.ws/book/1687/7917
+- source: lisan
+  loc: ج11 ص733
+  url: https://shamela.ws/book/1687/5910
+status: review

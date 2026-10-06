@@ -1,0 +1,21 @@
+explained: false
+first: وَالْمَكَاكِيكَ وَالصِّحَافَ مِنَ الْفِضْـ
+second: ـضَةِ وَالضَّامِزَاتِ تَحْتَ الرِّجَالِ
+vocabulary:
+- term: وَالْمَكَاكِيكَ
+  text: '«والمَكُّوكُ: طاسٌ يُشْرَبُ بِهِ» [@lisan، ج10 ص491].'
+- term: وَالصِّحَافَ
+  text: القصاع.
+- term: وَالضَّامِزَاتِ
+  text: 'الإبل الساكنة تحت راكبها لا ترغو: «الناقَةُ الضامزَة الَّتِي لَا تَجْتَرُّ» [@lisan، ج1 ص678].'
+sources:
+- source: diwan-asha
+  loc: ص45
+  url: https://archive.org/details/20201023_20201023_0327/page/n45/mode/1up
+- source: lisan
+  loc: ج10 ص491
+  url: https://shamela.ws/book/1687/5160
+- source: lisan
+  loc: ج1 ص678
+  url: https://shamela.ws/book/1687/678
+status: review

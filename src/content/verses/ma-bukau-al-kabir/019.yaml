@@ -1,0 +1,21 @@
+explained: false
+first: مِنْ سَرَاةِ الْهِجَانِ صَلَّبَهَا الْعُضْـ
+second: ـضُ وَرَعْيُ الْحِمَى وَطُولُ الْحِيَالِ
+vocabulary:
+- term: سَرَاةِ الْهِجَانِ
+  text: 'خيار الإبل: «وسَراةُ الْمَالِ: خِياره»، «والهِجانُ: الخِيارُ مِنْ كُلِّ شيءٍ» [@lisan، ج1 ص527].'
+- term: الْعُضُّ
+  text: '«العُضُّ: عَلَفُ أَهل الأَمصار مِثْلُ القَتِّ وَالنَّوَى» [@lisan، ج7 ص189].'
+- term: الْحِيَالِ
+  text: ألّا تحمل.
+sources:
+- source: diwan-asha
+  loc: ص41
+  url: https://archive.org/details/20201023_20201023_0327/page/n41/mode/1up
+- source: lisan
+  loc: ج1 ص527
+  url: https://shamela.ws/book/1687/527
+- source: lisan
+  loc: ج7 ص189
+  url: https://shamela.ws/book/1687/3572
+status: review

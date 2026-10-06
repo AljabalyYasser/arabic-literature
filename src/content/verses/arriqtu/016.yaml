@@ -1,0 +1,29 @@
+explained: false
+first: وَيَأْمُرُ لِلْيَحْمُومِ كُلَّ عَشِيَّةٍ
+second: بِقَتٍّ وَتَعْلِيقٍ وَقَدْ كَادَ يَسْنَقُ
+vocabulary:
+- term: لِلْيَحْمُومِ
+  text: فرس النعمان بن المنذر، «سُمِّيَ يَحموماً لِشِدَّةِ سَوَادِهِ» [@lisan، ج12 ص157].
+- term: بِقَتٍّ
+  text: '«والقَتُّ: الفِصْفِصَةُ، وخَصَّ بعضُهم بِهِ اليابسةَ مِنْهَا» [@lisan، ج2 ص71].'
+- term: وَتَعْلِيقٍ
+  text: 'علف يُعلَّق عليه: «والعَلِيقُ: القَضِيمُ يُعَلَّق عَلَى الدَّابَّةِ» [@lisan، ج10 ص267].'
+- term: يَسْنَقُ
+  text: 'يُتخم: «السَّنَقُ: البَشَمُ» [@lisan، ج10 ص165]، والبَشَم: التخمة.'
+sources:
+- source: diwan-asha
+  loc: ص255
+  url: https://archive.org/details/20201023_20201023_0327/page/n248/mode/1up
+- source: lisan
+  loc: ج12 ص157
+  url: https://shamela.ws/book/1687/6073
+- source: lisan
+  loc: ج2 ص71
+  url: https://shamela.ws/book/1687/875
+- source: lisan
+  loc: ج10 ص267
+  url: https://shamela.ws/book/1687/4936
+- source: lisan
+  loc: ج10 ص165
+  url: https://shamela.ws/book/1687/4835
+status: review

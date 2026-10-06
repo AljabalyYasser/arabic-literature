@@ -1,0 +1,13 @@
+explained: false
+first: "هَرِيقِي مِنْ دُمُوعِكِ وَاسْتَفِيقِي"
+second: "وَصَبْرًا إِنْ أَطَقْتِ وَلَنْ تُطِيقِي"
+vocabulary:
+- term: "هَرِيقِي"
+  text: "صُبّي. في الشرح المنسوب إلى ثَعْلَب: «يقال: أرقتُ وهرقتُ وأهرقتُ» [@diwan-khansa، ص62]."
+- term: "وَاسْتَفِيقِي"
+  text: "كُفّي عن البكاء. في الشرح: «أي أمسكي وأفيقي» [@diwan-khansa، ص62]."
+sources:
+- source: "diwan-khansa"
+  loc: "ص62"
+  url: "https://archive.org/details/3318pdf_202001/page/n61/mode/1up"
+status: "review"

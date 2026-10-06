@@ -1,0 +1,21 @@
+explained: false
+first: وَلَا الْمَلِكُ النُّعْمَانُ يَوْمَ لَقِيتُهُ
+second: بِإِمَّتِهِ يُعْطِي الْقُطُوطَ وَيَأْفِقُ
+vocabulary:
+- term: بِإِمَّتِهِ
+  text: 'بنعمته: «والإِمَّة: النِّعْمة» [@lisan، ج12 ص24].'
+- term: الْقُطُوطَ
+  text: 'صكوك الجوائز: «والقِطُّ: الصَّكُّ بالجائزةِ»، «وَالْجَمْعُ قُطوطٌ» [@lisan، ج7 ص382].'
+- term: وَيَأْفِقُ
+  text: 'يفضّل بعضهم على بعض في العطاء: «قَوْلُهُ: يأْفِقُ يُفَضِّلُ» [@lisan، ج7 ص382].'
+sources:
+- source: diwan-asha
+  loc: ص255
+  url: https://archive.org/details/20201023_20201023_0327/page/n248/mode/1up
+- source: lisan
+  loc: ج12 ص24
+  url: https://shamela.ws/book/1687/5940
+- source: lisan
+  loc: ج7 ص382
+  url: https://shamela.ws/book/1687/3765
+status: review

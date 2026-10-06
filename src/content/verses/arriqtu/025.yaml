@@ -1,0 +1,18 @@
+explained: false
+first: وَخَرْقٍ مَخُوفٍ قَدْ قَطَعْتُ بِجَسْرَةٍ
+second: إِذَا خَبَّ آلٌ فَوْقَهُ يَتَرَقْرَقُ
+vocabulary:
+- term: وَخَرْقٍ
+  text: «والخرق الأَرض الواسعة» [@lisan، ج6 ص138].
+- term: بِجَسْرَةٍ
+  text: بناقة قوية ماضية.
+- term: خَبَّ آلٌ ... يَتَرَقْرَقُ
+  text: اضطرب السراب فوقه وجعل يجيء ويذهب.
+sources:
+- source: diwan-asha
+  loc: ص255
+  url: https://archive.org/details/20201023_20201023_0327/page/n248/mode/1up
+- source: lisan
+  loc: ج6 ص138
+  url: https://shamela.ws/book/1687/3150
+status: review

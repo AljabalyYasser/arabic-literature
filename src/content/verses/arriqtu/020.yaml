@@ -1,0 +1,24 @@
+explained: false
+first: وَرَادِعَةٍ بِالْمِسْكِ صَفْرَاءَ عِنْدَنَا
+second: لِجَسِّ النَّدَامَى فِي يَدِ الدِّرْعِ مَفْتَقُ
+vocabulary:
+- term: وَرَادِعَةٍ بِالْمِسْكِ
+  text: 'وجارية متلطخة بالمسك: «والرَّدْعُ: أَن تَرْدَع ثَوْبًا بِطِيب أَو زَعْفَرَانٍ» [@lisan، ج8 ص121].'
+- term: يَدِ الدِّرْعِ
+  text: 'كُمّ قميصها: «ودِرْعُ المرأَةِ: قميصُها» [@lisan، ج8 ص82].'
+- term: مَفْتَقُ
+  text: 'شقّ مفتوح، من «الفَتْق: خِلَافَ الرَّتْق» [@lisan، ج10 ص296].'
+sources:
+- source: diwan-asha
+  loc: ص255
+  url: https://archive.org/details/20201023_20201023_0327/page/n248/mode/1up
+- source: lisan
+  loc: ج8 ص121
+  url: https://shamela.ws/book/1687/3969
+- source: lisan
+  loc: ج8 ص82
+  url: https://shamela.ws/book/1687/3930
+- source: lisan
+  loc: ج10 ص296
+  url: https://shamela.ws/book/1687/4965
+status: review

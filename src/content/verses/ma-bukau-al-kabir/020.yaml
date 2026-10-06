@@ -1,0 +1,16 @@
+explained: false
+first: لَمْ تَعَطَّفْ عَلَى حُوَارٍ وَلَمْ يَقْـ
+second: ـطَعْ عُبَيْدٌ عُرُوقَهَا مِنْ خُمَالِ
+vocabulary:
+- term: حُوَارٍ
+  text: ولد الناقة.
+- term: عُبَيْدٌ ... مِنْ خُمَالِ
+  text: '«والخُمَال: دَاءٌ يأْخذ فِي مَفَاصِلِ الإِنسان وَقَوَائِمِ الْخَيْلِ وَالشَّاءِ والإِبل تَظْلَع مِنْهُ، ويُداوَى بِقَطْعِ العِرْق»، «وعُبَيْدٌ: بَيْطار» [@lisan، ج11 ص222].'
+sources:
+- source: diwan-asha
+  loc: ص41
+  url: https://archive.org/details/20201023_20201023_0327/page/n41/mode/1up
+- source: lisan
+  loc: ج11 ص222
+  url: https://shamela.ws/book/1687/5402
+status: review

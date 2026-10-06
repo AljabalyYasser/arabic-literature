@@ -1,0 +1,16 @@
+explained: false
+first: ثُمَّ وَصَّلْتَ صِرَّةً بِرَبِيعٍ
+second: حِينَ صَرَّفْتَ حَالَةً عَنْ حَالِ
+vocabulary:
+- term: صِرَّةً
+  text: '«والصِّرَّةُ: شدَّة البَرْدِ» [@lisan، ج4 ص450].'
+- term: بِرَبِيعٍ
+  text: بالخصب.
+sources:
+- source: diwan-asha
+  loc: ص49
+  url: https://archive.org/details/20201023_20201023_0327/page/n49/mode/1up
+- source: lisan
+  loc: ج4 ص450
+  url: https://shamela.ws/book/1687/2410
+status: review

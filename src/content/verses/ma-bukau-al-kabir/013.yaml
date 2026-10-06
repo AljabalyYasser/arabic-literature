@@ -1,0 +1,34 @@
+explained: false
+first: حُرَّةٌ طَفْلَةُ الْأَنَامِلِ تَرْتَـ
+second: ـبُّ سُخَامًا تَكُفُّهُ بِخِلَالِ
+vocabulary:
+- term: حُرَّةٌ
+  text: '«والحُرَّةُ: الْكَرِيمَةُ مِنَ النِّسَاءِ» [@lisan، ج4 ص182].'
+- term: طَفْلَةُ الْأَنَامِلِ
+  text: 'ليّنة الأصابع: «وَيُقَالُ: جَارِيَةٌ طَفْلةٌ إِذا كَانَتْ رَخْصةً» [@lisan، ج11 ص401].'
+- term: تَرْتَبُّ
+  text: 'تصلح شعرها وتتعهده: «والمرأَةُ تَرْتَبُّ الشعَر بالدُّهْن» [@lisan، ج1 ص404].'
+- term: سُخَامًا
+  text: 'شعرًا ليّنًا: «والسُّخامُ مِنَ الشَّعَرِ وَالرِّيشِ وَالْقُطْنِ والخَزِّ وَنَحْوِ ذَلِكَ: اللَّيِّنُ الحَسَن» [@lisan، ج12 ص283].'
+- term: تَكُفُّهُ بِخِلَالِ
+  text: 'تجمعه بعود: «والخِلال: الْعُودُ الَّذِي يُتَخَلَّل بِهِ، وَمَا خُلَّ بِهِ الثَّوْبُ أَيضاً» [@lisan، ج11 ص214].'
+sources:
+- source: diwan-asha
+  loc: ص41
+  url: https://archive.org/details/20201023_20201023_0327/page/n41/mode/1up
+- source: lisan
+  loc: ج4 ص182
+  url: https://shamela.ws/book/1687/2142
+- source: lisan
+  loc: ج11 ص401
+  url: https://shamela.ws/book/1687/5579
+- source: lisan
+  loc: ج1 ص404
+  url: https://shamela.ws/book/1687/404
+- source: lisan
+  loc: ج12 ص283
+  url: https://shamela.ws/book/1687/6196
+- source: lisan
+  loc: ج11 ص214
+  url: https://shamela.ws/book/1687/5394
+status: review

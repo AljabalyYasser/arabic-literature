@@ -1,0 +1,15 @@
+explained: false
+first: "وَخَيْلٍ قَدْ دَلَفْتَ لَهَا بِخَيْلٍ"
+second: "فَدَارَتْ بَيْنَ كَبْشَيْهَا رَحَاهَا"
+vocabulary:
+- term: "دَلَفْتَ"
+  text: "في الشرح: «دلفت أي زحفت» [@diwan-khansa، ص287]."
+- term: "كَبْشَيْهَا"
+  text: "في الشرح: «وكبشيها: رئيسيها» [@diwan-khansa، ص287]."
+- term: "رَحَاهَا"
+  text: "في الشرح: «ورحى الجيش: معظمه وكثرته» [@diwan-khansa، ص287]."
+sources:
+- source: "diwan-khansa"
+  loc: "ص287"
+  url: "https://archive.org/details/3318pdf_202001/page/n286/mode/1up"
+status: "review"

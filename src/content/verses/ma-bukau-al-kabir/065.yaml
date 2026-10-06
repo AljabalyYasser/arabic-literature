@@ -1,0 +1,21 @@
+explained: false
+first: فَخْمَةً يَلْجَأُ الْمُضَافُ إِلَيْهَا
+second: وَرِعَالًا مَوْصُولَةً بِرِعَالِ
+vocabulary:
+- term: فَخْمَةً
+  text: كتيبة ضخمة.
+- term: الْمُضَافُ
+  text: '«والمُضَاف: المُلْجَأُ المُحْرَجُ المُثْقَلُ بِالشَّرِّ» [@lisan، ج9 ص211].'
+- term: وَرِعَالًا
+  text: '«والرَّعْلَة: القَطِيع أَو القِطْعة مِنَ الْخَيْلِ لَيْسَتْ بِالْكَثِيرَةِ» [@lisan، ج11 ص286].'
+sources:
+- source: diwan-asha
+  loc: ص49
+  url: https://archive.org/details/20201023_20201023_0327/page/n49/mode/1up
+- source: lisan
+  loc: ج9 ص211
+  url: https://shamela.ws/book/1687/4518
+- source: lisan
+  loc: ج11 ص286
+  url: https://shamela.ws/book/1687/5466
+status: review

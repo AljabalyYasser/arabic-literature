@@ -1,0 +1,16 @@
+explained: false
+first: وَأَحْمَدْتَ أَنْ أَلْحَقْتَ بِالْأَمْسِ صِرْمَةً
+second: لَهَا غُدُرَاتٌ وَاللَّوَاحِقُ تَلْحَقُ
+vocabulary:
+- term: صِرْمَةً
+  text: قطعة من الإبل.
+- term: غُدُرَاتٌ
+  text: بقايا، يقال «غَدَرٌ أَي بَقِيَّةٌ»؛ و«وَاحِدَةُ الغِدَر غِدْرة وَيُجْمَعُ غِدَراً وغِدَرات» [@lisan، ج5 ص9].
+sources:
+- source: diwan-asha
+  loc: ص259
+  url: https://archive.org/details/20201023_20201023_0327/page/n251/mode/1up
+- source: lisan
+  loc: ج5 ص9
+  url: https://shamela.ws/book/1687/2593
+status: review

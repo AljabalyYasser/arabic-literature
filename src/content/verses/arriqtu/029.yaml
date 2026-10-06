@@ -1,0 +1,26 @@
+explained: false
+first: مِنَ الْجَاهِلِ الْعِرِّيضِ يُهْدِي لِيَ الْخَنَا
+second: وَذَلِكَ مِمَّا يَبْتَرِينِي وَيَعْرُقُ
+vocabulary:
+- term: الْعِرِّيضِ
+  text: 'يقول المحقق: «الذي يتعرض للناس بالشر» [@diwan-asha، ص257، الحاشية].'
+- term: الْخَنَا
+  text: '«والخَنَا: الفُحْش» [@lisan، ج14 ص244].'
+- term: يَبْتَرِينِي
+  text: 'يَبريني وينحتني: «وابْتَرَاه: كبَراه» [@lisan، ج14 ص70].'
+- term: وَيَعْرُقُ
+  text: 'ويأخذ لحمي كما يُعرق العظم: «يُقَالُ: عَرَقْتُ العظمَ وتَعَرَّقْتُه إِذا أَخذتَ اللَّحْمَ عَنْهُ بأَسنانك نَهْشاً» [@lisan، ج10 ص244].'
+sources:
+- source: diwan-asha
+  loc: ص257
+  url: https://archive.org/details/20201023_20201023_0327/page/n249/mode/1up
+- source: lisan
+  loc: ج14 ص244
+  url: https://shamela.ws/book/1687/7368
+- source: lisan
+  loc: ج14 ص70
+  url: https://shamela.ws/book/1687/7194
+- source: lisan
+  loc: ج10 ص244
+  url: https://shamela.ws/book/1687/4913
+status: review

@@ -1,0 +1,16 @@
+explained: false
+first: وَلَا عَادِيًا لَمْ يَمْنَعِ الْمَوْتَ مَالُهُ
+second: وَحِصْنٌ بِتَيْمَاءَ الْيَهُودِيِّ أَبْلَقُ
+vocabulary:
+- term: عَادِيًا
+  text: 'عادياء، أبو السَّمَوْأَل صاحب الحصن، و«الأَبْلَقُ الفَرْد: قَصْرُ السَّمَوْأَل بْنِ عادِياء الْيَهُودِيِّ بأَرض تَيْماء» [@lisan، ج10 ص26].'
+- term: أَبْلَقُ
+  text: اسم الحصن، وقد «أَبدل أَبلق مِنْ حِصْنٍ» كما يقول صاحب اللسان [@lisan، ج10 ص26].
+sources:
+- source: diwan-asha
+  loc: ص253
+  url: https://archive.org/details/20201023_20201023_0327/page/n245/mode/1up
+- source: lisan
+  loc: ج10 ص26
+  url: https://shamela.ws/book/1687/4696
+status: review

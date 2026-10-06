@@ -1,0 +1,24 @@
+explained: false
+first: فَوْقَ دَيْمُومَةٍ تَغَوَّلُ بِالسَّفْـ
+second: ـرِ قِفَارٍ إِلَّا مِنَ الْآجَالِ
+vocabulary:
+- term: دَيْمُومَةٍ
+  text: 'فلاة لا ماء فيها: «وَالْجَدَّاءُ: الَّتِي لَا مَاءَ بِهَا، وَكَذَلِكَ الدَّيْمُومَةُ» [@lisan، ج3 ص285].'
+- term: تَغَوَّلُ بِالسَّفْرِ
+  text: 'تتلوّن بالمسافرين فتضلّهم: «والتَّغَوُّل: التَّلَوُّن» [@lisan، ج11 ص507].'
+- term: الْآجَالِ
+  text: '«والإِجْلُ، بِالْكَسْرِ: الْقَطِيعُ مِنْ بَقْرِ الْوَحْشِ، وَالْجَمْعُ آجَال» [@lisan، ج11 ص11].'
+sources:
+- source: diwan-asha
+  loc: ص41
+  url: https://archive.org/details/20201023_20201023_0327/page/n41/mode/1up
+- source: lisan
+  loc: ج3 ص285
+  url: https://shamela.ws/book/1687/1727
+- source: lisan
+  loc: ج11 ص507
+  url: https://shamela.ws/book/1687/5685
+- source: lisan
+  loc: ج11 ص11
+  url: https://shamela.ws/book/1687/5193
+status: review

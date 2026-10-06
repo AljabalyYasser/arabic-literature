@@ -1,0 +1,21 @@
+explained: false
+first: وَتُصْبِحُ مِنْ غِبِّ السُّرَى وَكَأَنَّمَا
+second: أَلَمَّ بِهَا مِنْ طَائِفِ الْجِنِّ أَوْلَقُ
+vocabulary:
+- term: غِبِّ السُّرَى
+  text: عقب سير الليل.
+- term: طَائِفِ الْجِنِّ
+  text: 'مسّها: «وأَصابه طَوْفٌ مِنَ الشَّيْطَانِ وطَائِفٌ وطَيِّف وطَيْفٌ، الأَخيرة عَلَى التَّخْفِيفِ، أَي مَسٌّ» [@lisan، ج9 ص225].'
+- term: أَوْلَقُ
+  text: «فالأَوْلَقُ شِبْهُ الْجُنُونِ» [@lisan، ج10 ص384].
+sources:
+- source: diwan-asha
+  loc: ص257
+  url: https://archive.org/details/20201023_20201023_0327/page/n249/mode/1up
+- source: lisan
+  loc: ج9 ص225
+  url: https://shamela.ws/book/1687/4532
+- source: lisan
+  loc: ج10 ص384
+  url: https://shamela.ws/book/1687/5053
+status: review

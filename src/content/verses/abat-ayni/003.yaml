@@ -1,0 +1,13 @@
+explained: false
+first: "حَلَفْتُ بِرَبِّ صُهْبٍ مُعْمَلَاتٍ"
+second: "إِلَى الْبَيْتِ الْمُحَرَّمِ مُنْتَهَاهَا"
+vocabulary:
+- term: "صُهْبٍ"
+  text: "في الشرح: «الصُّهب من الإبل: جمع أصهب وصهباء؛ وهو الذي يخلط بياضه حمرة» [@diwan-khansa، ص279]."
+- term: "مُعْمَلَاتٍ"
+  text: "في الشرح: «مُعمَلات: تُعمل في السير» [@diwan-khansa، ص279]."
+sources:
+- source: "diwan-khansa"
+  loc: "ص279"
+  url: "https://archive.org/details/3318pdf_202001/page/n278/mode/1up"
+status: "review"

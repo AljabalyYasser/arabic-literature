@@ -1,0 +1,18 @@
+explained: false
+first: "عَلَى رَجُلٍ كَرِيمِ الْخِيمِ أَضْحَى"
+second: "بِبَطْنِ حَفِيرَةٍ صَخِبٍ صَدَاهَا"
+vocabulary:
+- term: "الْخِيمِ"
+  text: "الطبع والخُلُق."
+- term: "حَفِيرَةٍ"
+  text: "القبر."
+- term: "صَدَاهَا"
+  text: "في لسان العرب: «الصَّدَى: طائِرٌ يَصِيحُ فِي هامَةِ المَقْتُولِ إِذَا لَمْ يُثْأَرْ بِهِ، وَقِيلَ: هُوَ طائِرٌ يَخْرُجُ مِنْ رَأْسِهِ إِذَا بَلِيَ» [@lisan، ج14 ص454]."
+sources:
+- source: "diwan-khansa"
+  loc: "ص284"
+  url: "https://archive.org/details/3318pdf_202001/page/n283/mode/1up"
+- source: "lisan"
+  loc: "ج14 ص454"
+  url: "https://shamela.ws/book/1687/7578"
+status: "review"

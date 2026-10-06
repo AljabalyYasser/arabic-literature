@@ -1,0 +1,18 @@
+explained: false
+first: ثُمَّ أَسْقَاهُمُ عَلَى نَفَدِ الْعَيْـ
+second: ـشِ فَأَرْوَى ذُنُوبَ رِفْدٍ مُحَالِ
+vocabulary:
+- term: نَفَدِ الْعَيْشِ
+  text: فناء الزاد.
+- term: ذُنُوبَ
+  text: '«والذَّنُوبُ: الدَّلْو فِيهَا ماءٌ» [@lisan، ج1 ص392].'
+- term: رِفْدٍ مُحَالِ
+  text: 'يقول المحقق: «محال مصبوب، ضربه مثلا للموت» [@diwan-asha، ص47، الحاشية].'
+sources:
+- source: diwan-asha
+  loc: ص47
+  url: https://archive.org/details/20201023_20201023_0327/page/n47/mode/1up
+- source: lisan
+  loc: ج1 ص392
+  url: https://shamela.ws/book/1687/392
+status: review

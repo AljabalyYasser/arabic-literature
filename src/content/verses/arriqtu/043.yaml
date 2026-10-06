@@ -1,0 +1,19 @@
+explained: false
+first: بِهِ تُنْفَضُ الْأَحْلَاسُ فِي كُلِّ مَنْزِلٍ
+second: وَتُعْقَدُ أَنْسَاعُ الْمَطِيِّ وَتُطْلَقُ
+vocabulary:
+- term: الْأَحْلَاسُ
+  text: جمع حِلْس، وهو كساء يُجعل «تَحْتَ الرَّحْلِ تَقِي بِهِ الْبَعِيرَ» [@lisan، ج3 ص326].
+- term: أَنْسَاعُ الْمَطِيِّ
+  text: '«النِّسْعُ: سَيْرٌ يُضْفَرُ عَلَى هَيْئَةِ أَعِنَّةِ النِّعالِ تُشَدُّ بِهِ الرِّحالُ» [@lisan، ج8 ص352]، والمطيّ: الإبل تُركب.'
+sources:
+- source: diwan-asha
+  loc: ص259
+  url: https://archive.org/details/20201023_20201023_0327/page/n251/mode/1up
+- source: lisan
+  loc: ج3 ص326
+  url: https://shamela.ws/book/1687/1768
+- source: lisan
+  loc: ج8 ص352
+  url: https://shamela.ws/book/1687/4200
+status: review

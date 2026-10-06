@@ -1,0 +1,13 @@
+explained: false
+first: "بِأَفْضَلَ سَيْبًا مِنْ يَدَيْكَ وَنِعْمَةً"
+second: "تَعُمُّ بِهَا بَلْ سَيْبُ كَفَّيْكَ أَجْزَلُ"
+vocabulary:
+- term: "سَيْبًا"
+  text: "في الشرح عن يعقوب: «السَّيب: العطاء، وأجزل: أعظم وأكثر» [@diwan-khansa، ص321]."
+- term: "تَعُمُّ بِهَا"
+  text: "في الشرح: «تعمّ بها: تعطي الكلّ؛ من يسأل ومن لا يسأل» [@diwan-khansa، ص321]."
+sources:
+- source: "diwan-khansa"
+  loc: "ص321"
+  url: "https://archive.org/details/3318pdf_202001/page/n320/mode/1up"
+status: "review"

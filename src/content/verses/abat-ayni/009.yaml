@@ -1,0 +1,16 @@
+explained: false
+first: "هُنَالِكَ إِنْ نَزَلْتَ بِبَيْتِ صَخْرٍ"
+second: "قَرَى الْأَضْيَافَ شَحْمًا مِنْ ذُرَاهَا"
+vocabulary:
+- term: "قَرَى"
+  text: "أطعم ضيفه."
+- term: "ذُرَاهَا"
+  text: "أسنمتها. في لسان العرب: «وذِرْوَةُ كلِّ شَيءٍ وذُرْوَتُه: أَعْلاهُ، والجَمْع الذُّرَى بِالضَّمِّ. وذِرْوة السَّنامِ والرأْسِ: أَشْرَفُهُما» [@lisan، ج14 ص284]."
+sources:
+- source: "diwan-khansa"
+  loc: "ص283"
+  url: "https://archive.org/details/3318pdf_202001/page/n282/mode/1up"
+- source: "lisan"
+  loc: "ج14 ص284"
+  url: "https://shamela.ws/book/1687/7408"
+status: "review"

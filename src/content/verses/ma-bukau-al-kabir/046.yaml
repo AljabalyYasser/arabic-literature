@@ -1,0 +1,26 @@
+explained: false
+first: يَهَبُ الْجِلَّةَ الْجَرَاجِرَ كَالْبُسْـ
+second: ـتَانِ تَحْنُو لِدَرْدَقٍ أَطْفَالِ
+vocabulary:
+- term: الْجِلَّةَ
+  text: '«والجِلَّةُ: المَسَانُّ مِنَ الإِبل» [@lisan، ج6 ص131].'
+- term: الْجَرَاجِرَ
+  text: «الجَراجِرُ والجَراجِبُ الْعِظَامُ مِنَ الإِبل» [@lisan، ج4 ص132].
+- term: كَالْبُسْتَانِ
+  text: كالنخل في كثرتها، و«البستان النخل» كما يقول المحقق [@diwan-asha، ص45، الحاشية].
+- term: لِدَرْدَقٍ
+  text: '«والدَّرْدَقُ: صِغَارُ الإِبل وَالنَّاسِ» [@lisan، ج10 ص96].'
+sources:
+- source: diwan-asha
+  loc: ص45
+  url: https://archive.org/details/20201023_20201023_0327/page/n45/mode/1up
+- source: lisan
+  loc: ج6 ص131
+  url: https://shamela.ws/book/1687/3143
+- source: lisan
+  loc: ج4 ص132
+  url: https://shamela.ws/book/1687/2092
+- source: lisan
+  loc: ج10 ص96
+  url: https://shamela.ws/book/1687/4766
+status: review
