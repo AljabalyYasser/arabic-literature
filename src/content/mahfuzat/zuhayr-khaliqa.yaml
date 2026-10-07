@@ -1,0 +1,17 @@
+kind: "bayt"
+title: "ومهما تكن عند امرئ من خليقة"
+part: "1"
+order: 3
+person: "zuhayr"
+verses:
+  - "a-min-umm-awfa/058"
+meaning: "ما يخفيه المرء من خُلُقه يظهر للناس وإن ظنّ أنه مستور. ولخّصه الزَّوْزَنِيّ: «وتحرير المعنى: أن الأخلاق لا تخفى والتخلّق لا يبقى» [@zawzani، ص151]. ويروي أبو الفَرَج عن ابن الأَعْرابِيّ عن أبي زِياد الكِلابِيّ أن عثمان بن عفّان أنشده «فقال: أحسن زهير وصدق، لو أن رجلًا دخل بيتًا في جوف بيت لتحدّث به الناس» [@aghani-dk، ج10 ص306]."
+chapter: "zuhayr/al-muallaqa-2"
+sources:
+  - source: "zawzani"
+    loc: "ص151"
+    url: "https://shamela.ws/book/11253/161"
+  - source: "aghani-dk"
+    loc: "ج10 ص306"
+    url: "https://archive.org/details/aghani2014/10/page/n313/mode/1up"
+status: "review"

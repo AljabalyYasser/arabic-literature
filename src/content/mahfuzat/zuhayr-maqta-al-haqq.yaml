@@ -1,0 +1,18 @@
+kind: "bayt"
+title: "فإن الحق مقطعه ثلاث"
+part: "1"
+order: 1
+person: "zuhayr"
+verses:
+  - "afa-min-al-fatima/040"
+meaning: "لا يُفصل في الحقّ إلا بواحدة من ثلاث: يمين، أو منافرة إلى حَكَم، أو بيان ينكشف به الأمر. قال ابن قُتَيْبة: «يعنى: يمينا أو منافرة إلى حاكم يقطع بالبيّنات أو جلاء، وهو بيان وبرهان يجلو به الحقّ وتتّضح الدعوى» [@ibn-qutayba، ج1 ص140]. ويقول ابن رَشِيق: «وسمي زهير قاضي الشعراء بهذا البيت» [@ibn-rashiq، ج1 ص55]، وخبر إعجاب عمر به منسوب، لأنه بلا إسناد."
+chapter: "zuhayr/hisn-wal-hija"
+story: "qadi-al-shuara"
+sources:
+  - source: "ibn-qutayba"
+    loc: "ج1 ص140"
+    url: "https://shamela.ws/book/23785/133"
+  - source: "ibn-rashiq"
+    loc: "ج1 ص55"
+    url: "https://shamela.ws/book/10909/37"
+status: "review"

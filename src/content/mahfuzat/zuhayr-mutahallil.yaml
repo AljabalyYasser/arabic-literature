@@ -1,0 +1,18 @@
+kind: "bayt"
+title: "تراه إذا ما جئته متهللا"
+part: "1"
+order: 2
+person: "zuhayr"
+lines:
+  - first: "تَرَاهُ إِذَا مَا جِئْتَهُ مُتَهَلِّلًا"
+    second: "كَأَنَّكَ تُعْطِيهِ الَّذِي أَنْتَ سَائِلُهْ"
+meaning: "يفرح حِصْن بمن يسأله كأن السائل هو المعطي. قال الأَعْلَم: «يقول: هو مسرور بمن سأله، مستبشر به كما يستبشر الإنسان بأن يوصل ويعطى» [@diwan-zuhayr، ص58]. وروى ابن قُتَيْبة: «قال عبد الملك لقوم من الشعراء: أىّ بيت أمدح؟ فاتّفقوا على بيت زهير»، وأنشد هذا البيت [@ibn-qutayba، ج1 ص139]."
+chapter: "zuhayr/hisn-wal-hija"
+sources:
+  - source: "diwan-zuhayr"
+    loc: "ص57–58"
+    url: "https://archive.org/details/3917pdf/page/n57/mode/1up"
+  - source: "ibn-qutayba"
+    loc: "ج1 ص139"
+    url: "https://shamela.ws/book/23785/132"
+status: "review"

@@ -1,0 +1,17 @@
+kind: "bayt"
+title: "سئمت تكاليف الحياة"
+part: "1"
+order: 1
+person: "zuhayr"
+verses:
+  - "a-min-umm-awfa/056"
+meaning: "ملّ زُهَيْر مشاقّ الحياة، ومن عاش ثمانين سنة ملّ لا محالة. قال الزَّوْزَنِيّ: «يقول: مللت مشاق الحياة وشدائدها، ومن عاش ثمانين سنة ملَّ الكبر لا محالة» [@zawzani، ص149]. وفي كتاب المعمَّرين لأبي حاتِم السِّجِسْتانِيّ أنه قاله «حين بلغ الثمانين» [@muammarun، ص83]."
+chapter: "zuhayr/al-muallaqa-2"
+sources:
+  - source: "zawzani"
+    loc: "ص149"
+    url: "https://shamela.ws/book/11253/159"
+  - source: "muammarun"
+    loc: "ص83"
+    url: "https://shamela.ws/book/671/103"
+status: "review"

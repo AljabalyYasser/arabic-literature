@@ -1,0 +1,17 @@
+kind: "bayt"
+title: "رأيت المنايا خبط عشواء"
+part: "1"
+order: 2
+person: "zuhayr"
+verses:
+  - "a-min-umm-awfa/057"
+meaning: "الموت كالناقة التي لا تبصر: من أصابته أماتته، ومن أخطأته عاش حتى يهرم. قال أبو جَعْفَر: «هو مثل، معناه أن المنايا تأتي بما لا تعرفه، فمن أصابته أماتته، فكأنها ناقة عشواء لا تبصر» [@ibn-al-anbari، ص289]. وسار «خبط عشواء» مثلًا، قال الزَّوْزَنِيّ: «ويقال في المثل: هو خابط خبط عشواء، أي قد ركب رأسه في الضلالة كالناقة التي لا تبصر ليلًا» [@zawzani، ص149]."
+chapter: "zuhayr/al-muallaqa-2"
+sources:
+  - source: "ibn-al-anbari"
+    loc: "ص288–289"
+    url: "https://shamela.ws/book/124335/284"
+  - source: "zawzani"
+    loc: "ص149"
+    url: "https://shamela.ws/book/11253/159"
+status: "review"
