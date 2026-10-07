@@ -14,7 +14,7 @@ sources:
   - source: "deif"
     loc: "ج1 ص371، ص373"
     url: "https://shamela.ws/book/11996/367"
-    note: "«ما قصه الرواة»، ورفض العم."
+    note: "ما قصه الرواة، ورفض العم."
   - source: "deif"
     loc: "ج7 ص483–484"
     url: "https://shamela.ws/book/11996/3626"
