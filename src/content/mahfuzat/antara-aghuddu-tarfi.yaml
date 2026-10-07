@@ -1,0 +1,18 @@
+kind: "bayt"
+title: "وأغض طرفي ما بدت لي جارتي"
+part: "1"
+order: 3
+person: "antara"
+lines:
+  - first: "وَأَغُضُّ طَرْفِي مَا بَدَتْ لِي جَارَتِي"
+    second: "حَتَّى يُوَارِيَ جَارَتِي مَأْوَاهَا"
+meaning: "أغض بصري عن جارتي ما دامت ظاهرة لي حتى تدخل منزلها. قال الأَعْلَم: «يقول: أغض بصري إذا بدت لي جارتي حتى تدخل منزلها فيواريها، ولا أتبعها نظري» [@diwan-antara، ص308]. والقصيدة راجحة النسبة إليه، وهي من خمس يرى محقق الديوان أن الأَعْلَم زادها على رواية الأَصْمَعِيّ [@diwan-antara، ص159–160]."
+chapter: "antara/faris-abs"
+sources:
+  - source: "diwan-antara"
+    loc: "ص308"
+    url: "https://archive.org/details/3562pdf/page/n313/mode/1up"
+  - source: "diwan-antara"
+    loc: "ص159–160"
+    url: "https://archive.org/details/3562pdf/page/n166/mode/1up"
+status: "review"

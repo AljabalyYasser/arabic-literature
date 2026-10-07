@@ -1,0 +1,17 @@
+kind: "bayt"
+title: "هلا سألت الخيل يا ابنة مالك"
+part: "1"
+order: 1
+person: "antara"
+verses:
+  - "hal-ghadara/044"
+meaning: "إن كنتِ لا تعرفين ما لم تشهديه من أمري، فاسألي الفرسان عني. قال الزَّوْزَنِيّ: «يقول: هل سألت الفرسان عن حالي في قتالي إن كنت جاهلة بها؟» [@zawzani، ص257]. والخيل هنا أصحابها، كما يقول العرب «يا خيل الله اركبي» [@ibn-al-anbari، ص343]."
+chapter: "antara/al-muallaqa-2"
+sources:
+  - source: "zawzani"
+    loc: "ص257"
+    url: "https://shamela.ws/book/11253/280"
+  - source: "ibn-al-anbari"
+    loc: "ص342–343"
+    url: "https://shamela.ws/book/124335/337"
+status: "review"

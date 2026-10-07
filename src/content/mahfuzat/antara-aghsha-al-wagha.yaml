@@ -1,0 +1,17 @@
+kind: "bayt"
+title: "أغشى الوغى وأعف عند المغنم"
+part: "1"
+order: 2
+person: "antara"
+verses:
+  - "hal-ghadara/047"
+meaning: "من شهد الحرب يخبرك أني أدخلها، فإذا جاءت الغنيمة كففت عنها. قال ابن الأَنْبارِيّ: «فيقول: آتى الحرب ولى فيها غناء، فإذا كانت الغنيمة كففت وعففت» [@ibn-al-anbari، ص345]. ويقول شوقي ضَيْف: «إنه لا يحارب من أجل الأسلاب والغنائم، وإنما يحارب ليكسب لقومه شرف الانتصار» [@deif، ج1 ص372]."
+chapter: "antara/al-muallaqa-2"
+sources:
+  - source: "ibn-al-anbari"
+    loc: "ص344–345"
+    url: "https://shamela.ws/book/124335/339"
+  - source: "deif"
+    loc: "ج1 ص372"
+    url: "https://shamela.ws/book/11996/368"
+status: "review"
