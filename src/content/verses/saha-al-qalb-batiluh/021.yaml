@@ -1,0 +1,17 @@
+explained: false
+first: "فَلَأْيًا بِلَأْيٍ مَا حَمَلْنَا وَلِيدَنَا"
+second: "عَلَى ظَهْرِ مَحْبُوكٍ ظِمَاءٍ مَفَاصِلُهْ"
+vocabulary:
+  - term: "فَلَأْيًا بِلَأْيٍ"
+    text: "«يقول: لنشاط الفرس لم نحمل الوليد عليه، إلّا بعد جهد وعناء شديد» [@diwan-zuhayr، ص53]. و«اللأي: البطء والجهد» كما يقول المحقق [@diwan-zuhayr، ص52]."
+  - term: "وَلِيدَنَا"
+    text: "«و«الوليد»: الغلام» [@diwan-zuhayr، ص53]."
+  - term: "مَحْبُوكٍ"
+    text: "«الشديد الخلق المدمج» [@diwan-zuhayr، ص53]."
+  - term: "ظِمَاءٍ مَفَاصِلُهْ"
+    text: "«أي: هي قليلة اللحم يابسة، وليست برهلة» [@diwan-zuhayr، ص53]."
+sources:
+  - source: "diwan-zuhayr"
+    loc: "ص52–53"
+    url: "https://archive.org/details/3917pdf/page/n52/mode/1up"
+status: "review"

@@ -1,0 +1,17 @@
+explained: false
+first: "لَيَأْتِيَنَّكَ مِنِّي مَنْطِقٌ قَذَعٌ"
+second: "بَاقٍ كَمَا دَنَّسَ الْقُبْطِيَّةَ الْوَدَكُ"
+vocabulary:
+  - term: "قَذَعٌ"
+    text: "«أقبح الشتم والهجاء» [@diwan-zuhayr، ص89]."
+  - term: "بَاقٍ"
+    text: "«أي: يجري على أفواه الرواة، ويبقى مع الدهر الطويل» [@diwan-zuhayr، ص89]."
+  - term: "الْقُبْطِيَّةَ"
+    text: "«ثياب بيض، تصنع بالشام» [@diwan-zuhayr، ص89]، ويقول المحقق: «والمشهور أنّ القبطيّة تصنع بمصر» [@diwan-zuhayr، ص89]."
+  - term: "الْوَدَكُ"
+    text: "«الدسم» كما يقول المحقق [@diwan-zuhayr، ص89]."
+sources:
+  - source: "diwan-zuhayr"
+    loc: "ص89"
+    url: "https://archive.org/details/3917pdf/page/n89/mode/1up"
+status: "review"

@@ -1,0 +1,15 @@
+explained: false
+first: "حُذَيْفَةُ يُنْمِيهِ وَبَدْرٌ كِلَاهُمَا"
+second: "إِلَى بَاذِخٍ يَعْلُو عَلَى مَنْ يُطَاوِلُهْ"
+vocabulary:
+  - term: "حُذَيْفَةُ ... وَبَدْرٌ"
+    text: "«و«حذيفة»: أبو الممدوح. و«بدر»: جدّه. والممدوح «حصن» بن حذيفة بن بدر الفزاري» [@diwan-zuhayr، ص60]."
+  - term: "يُنْمِيهِ"
+    text: "«يرفعه ويعليه» [@diwan-zuhayr، ص60]."
+  - term: "بَاذِخٍ"
+    text: "«العالي. يعني أنّ شرفه لا يقاوم» [@diwan-zuhayr، ص60]."
+sources:
+  - source: "diwan-zuhayr"
+    loc: "ص60"
+    url: "https://archive.org/details/3917pdf/page/n60/mode/1up"
+status: "review"

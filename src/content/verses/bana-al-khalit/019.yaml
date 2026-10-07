@@ -1,0 +1,13 @@
+explained: false
+first: "حَتَّى إِذَا مَا هَوَتْ كَفُّ الْوَلِيدِ لَهَا"
+second: "طَارَتْ وَفِي كَفِّهِ مِنْ رِيشِهَا بِتَكُ"
+vocabulary:
+  - term: "هَوَتْ كَفُّ الْوَلِيدِ لَهَا"
+    text: "«يقول: وقعت هذه القطاة بموضع، لمّا أخطأها الصقر، فهوت كفّ الغلام لها ليأخذها، فأفلتته» [@diwan-zuhayr، ص85]."
+  - term: "بِتَكُ"
+    text: "«القطع» [@diwan-zuhayr، ص85]، أي قطع من ريشها."
+sources:
+  - source: "diwan-zuhayr"
+    loc: "ص85"
+    url: "https://archive.org/details/3917pdf/page/n85/mode/1up"
+status: "review"

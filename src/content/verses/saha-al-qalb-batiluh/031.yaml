@@ -1,0 +1,13 @@
+explained: false
+first: "بَكَرْتُ عَلَيْهِ غُدْوَةً فَرَأَيْتُهُ"
+second: "قُعُودًا لَدَيْهِ بِالصَّرِيمِ عَوَاذِلُهْ"
+vocabulary:
+  - term: "بِالصَّرِيمِ"
+    text: "«جمع صريمة، وهي رملة تنقطع من معظم الرمل» … «وقيل: «الصريم» ههنا: الصبح. وهو أشبه بالمعنى، لأنه يسكر بالعشيّ، فإذا أصبح، وقد صحا من سكره، لُمنه» [@diwan-zuhayr، ص57]."
+  - term: "عَوَاذِلُهْ"
+    text: "«اللائي يعذلنه على إنفاق ماله» [@diwan-zuhayr، ص57]."
+sources:
+  - source: "diwan-zuhayr"
+    loc: "ص56–57"
+    url: "https://archive.org/details/3917pdf/page/n56/mode/1up"
+status: "review"

@@ -1,0 +1,15 @@
+explained: false
+first: "هَلْ تُبْلِغَنِّيَ أَدْنَى دَارِهِمْ قُلُصٌ"
+second: "يُزْجِي أَوَائِلَهَا التَّبْغِيلُ وَالرَّتَكُ"
+vocabulary:
+  - term: "قُلُصٌ"
+    text: "«جمع قلوص، وهي الفتيّة من الإبل» [@diwan-zuhayr، ص80]."
+  - term: "يُزْجِي"
+    text: "«و«الإزجاء»: السوق الرفيق» [@diwan-zuhayr، ص80]."
+  - term: "التَّبْغِيلُ وَالرَّتَكُ"
+    text: "«و«التبغيل»: ضرب من السير. وكأنه مشتقّ من مشي البغال. و«الرتك»: مقاربة الخطو في سرعة. وهو من مشي النعام» [@diwan-zuhayr، ص80]."
+sources:
+  - source: "diwan-zuhayr"
+    loc: "ص80"
+    url: "https://archive.org/details/3917pdf/page/n80/mode/1up"
+status: "review"

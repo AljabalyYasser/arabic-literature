@@ -1,0 +1,17 @@
+explained: false
+first: "أَمِينٍ شَظَاهُ لَمْ يُخَرَّقْ صِفَاقُهُ"
+second: "بِمِنْقَبَةٍ وَلَمْ تُقَطَّعْ أَبَاجِلُهْ"
+vocabulary:
+  - term: "أَمِينٍ شَظَاهُ"
+    text: "«و«الأمين»: القويّ. و«الشظى»: عظيم لاصق بالذراع» [@diwan-zuhayr، ص49]."
+  - term: "صِفَاقُهُ"
+    text: "«الجلدة السفلى من بطنه، التي تحت ظاهر الجلد» [@diwan-zuhayr، ص49]."
+  - term: "بِمِنْقَبَةٍ"
+    text: "«حديدة البيطار التي ينقب بها» [@diwan-zuhayr، ص49]."
+  - term: "أَبَاجِلُهْ"
+    text: "«عروق في اليد، واحدها أبجل» [@diwan-zuhayr، ص49]."
+sources:
+  - source: "diwan-zuhayr"
+    loc: "ص49"
+    url: "https://archive.org/details/3917pdf/page/n49/mode/1up"
+status: "review"

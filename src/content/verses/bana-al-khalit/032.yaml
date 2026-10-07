@@ -1,0 +1,15 @@
+explained: false
+first: "لَئِنْ حَلَلْتَ بِجَوٍّ فِي بَنِي أَسَدٍ"
+second: "فِي دِينِ عَمْرٍو وَحَالَتْ بَيْنَنَا فَدَكُ"
+vocabulary:
+  - term: "بِجَوٍّ"
+    text: "«واد بعينه» [@diwan-zuhayr، ص89]."
+  - term: "فِي دِينِ عَمْرٍو"
+    text: "«و«دين عمرو»: طاعته وسلطانه» … «وأراد: عمرو بن هند الملك» [@diwan-zuhayr، ص89]."
+  - term: "فَدَكُ"
+    text: "«اسم أرض» [@diwan-zuhayr، ص89]."
+sources:
+  - source: "diwan-zuhayr"
+    loc: "ص89"
+    url: "https://archive.org/details/3917pdf/page/n89/mode/1up"
+status: "review"

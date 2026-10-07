@@ -1,0 +1,13 @@
+explained: false
+first: "وَذِي خَطَلٍ فِي الْقَوْلِ يَحْسِبُ أَنَّهُ"
+second: "مُصِيبٌ فَمَا يُلْمِمْ بِهِ فَهْوَ قَائِلُهْ"
+vocabulary:
+  - term: "خَطَلٍ"
+    text: "«كثرة الكلام وخطؤه» [@diwan-zuhayr، ص60]."
+  - term: "فَمَا يُلْمِمْ بِهِ"
+    text: "«أي: ما حضره من الكلام — وإن كان خطأ — فهو قائله لسفهه، وقلّة تحصيله» [@diwan-zuhayr، ص60]."
+sources:
+  - source: "diwan-zuhayr"
+    loc: "ص59–60"
+    url: "https://archive.org/details/3917pdf/page/n59/mode/1up"
+status: "review"

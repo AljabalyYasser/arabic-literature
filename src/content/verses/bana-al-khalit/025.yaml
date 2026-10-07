@@ -1,0 +1,15 @@
+explained: false
+first: "هَلَّا سَأَلْتَ بَنِي الصَّيْدَاءِ كُلَّهُمُ"
+second: "بِأَيِّ حَبْلِ جِوَارٍ كُنْتُ أَمْتَسِكُ"
+vocabulary:
+  - term: "بَنِي الصَّيْدَاءِ"
+    text: "«قوم من بني أسد، وهم رهط الحارث بن ورقاء» [@diwan-zuhayr، ص87]."
+  - term: "حَبْلِ جِوَارٍ"
+    text: "«و«الحبل»: العهد والميثاق» [@diwan-zuhayr، ص87]."
+  - term: "كُنْتُ أَمْتَسِكُ"
+    text: "أتمسّك. يقول الأعلم: «سلهم كيف كنت أفعل، لو استجرت منهم، فإني كنت أستوثق، ولا أتعلّق إلّا بحبل متين شديد محكم» [@diwan-zuhayr، ص87]."
+sources:
+  - source: "diwan-zuhayr"
+    loc: "ص87"
+    url: "https://archive.org/details/3917pdf/page/n87/mode/1up"
+status: "review"

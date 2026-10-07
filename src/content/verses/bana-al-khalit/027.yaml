@@ -1,0 +1,15 @@
+explained: false
+first: "يَا حَارِ لَا أُرْمَيَنْ مِنْكُمْ بِدَاهِيَةٍ"
+second: "لَمْ يَلْقَهَا سُوقَةٌ قَبْلِي وَلَا مَلِكُ"
+vocabulary:
+  - term: "يَا حَارِ"
+    text: "«يريد: الحارث بن ورقاء» [@diwan-zuhayr، ص88]."
+  - term: "بِدَاهِيَةٍ"
+    text: "«الأمر الشديد» [@diwan-zuhayr، ص88]."
+  - term: "سُوقَةٌ"
+    text: "«دون الملك» [@diwan-zuhayr، ص88]."
+sources:
+  - source: "diwan-zuhayr"
+    loc: "ص87–88"
+    url: "https://archive.org/details/3917pdf/page/n87/mode/1up"
+status: "review"

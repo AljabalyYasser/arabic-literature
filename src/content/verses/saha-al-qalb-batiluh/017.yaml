@@ -1,0 +1,13 @@
+explained: false
+first: "فَقَالَ أَمِيرِي مَا تَرَى رَأْيَ مَا نَرَى"
+second: "أَنَخْتِلُهُ عَنْ نَفْسِهِ أَمْ نُصَاوِلُهْ"
+vocabulary:
+  - term: "أَمِيرِي"
+    text: "«الذي يؤامره ويستشيره» [@diwan-zuhayr، ص51]."
+  - term: "أَنَخْتِلُهُ ... أَمْ نُصَاوِلُهْ"
+    text: "«أي: نخادعه ونكيده، أم «نصاوله» أي: نجاهره ونصول به؟» [@diwan-zuhayr، ص51]."
+sources:
+  - source: "diwan-zuhayr"
+    loc: "ص51"
+    url: "https://archive.org/details/3917pdf/page/n51/mode/1up"
+status: "review"

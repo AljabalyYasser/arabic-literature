@@ -1,0 +1,15 @@
+explained: false
+first: "مِثْلُ النَّعَامِ إِذَا هَيَّجْتَهَا ارْتَفَعَتْ"
+second: "عَلَى لَوَاحِبَ بِيضٍ بَيْنَهَا الشَّرَكُ"
+vocabulary:
+  - term: "ارْتَفَعَتْ"
+    text: "«يقول: إذا هيّجت هذه الإبل، وحثثتها، ارتفعت في سيرها، وتزيّدت فيه» [@diwan-zuhayr، ص81]."
+  - term: "لَوَاحِبَ"
+    text: "«و«اللاحب»: الطريق الماضي البيّن» [@diwan-zuhayr، ص81]."
+  - term: "الشَّرَكُ"
+    text: "«بنيّات الطريق التي تتفرّع منه. والواحدة شركة» [@diwan-zuhayr، ص81]."
+sources:
+  - source: "diwan-zuhayr"
+    loc: "ص81"
+    url: "https://archive.org/details/3917pdf/page/n81/mode/1up"
+status: "review"

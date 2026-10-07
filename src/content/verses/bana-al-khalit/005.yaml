@@ -1,0 +1,15 @@
+explained: false
+first: "ثُمَّ اسْتَمَرُّوا وَقَالُوا إِنَّ مَشْرَبَكُمْ"
+second: "مَاءٌ بِشَرْقِيِّ سَلْمَى فَيْدُ أَوْ رَكَكُ"
+vocabulary:
+  - term: "اسْتَمَرُّوا"
+    text: "«أي: استقام أمرهم، واتّفق رأيهم، فمرّوا» [@diwan-zuhayr، ص80]."
+  - term: "سَلْمَى"
+    text: "«أحد جبلي طيّئ، وهما أجأ وسلمى» [@diwan-zuhayr، ص80]."
+  - term: "فَيْدُ أَوْ رَكَكُ"
+    text: "«موضعان. وقال الأصمعيّ: سألت أعرابيًّا فقلت له: أتعرف رككًا؟ قال: لا أعرفه، ولكن ههنا ماء يقال له: ركّ» [@diwan-zuhayr، ص80]."
+sources:
+  - source: "diwan-zuhayr"
+    loc: "ص80"
+    url: "https://archive.org/details/3917pdf/page/n80/mode/1up"
+status: "review"

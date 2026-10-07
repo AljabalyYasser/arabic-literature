@@ -1,0 +1,13 @@
+explained: false
+first: "عَزِيزٌ إِذَا حَلَّ الْحَلِيفَانِ حَوْلَهُ"
+second: "بِذِي لَجَبٍ لَجَّاتُهُ وَصَوَاهِلُهْ"
+vocabulary:
+  - term: "الْحَلِيفَانِ"
+    text: "«يعني: أسدًا وغطفان. وكانوا متحالفين على بني عبس وغيرهم» [@diwan-zuhayr، ص61]."
+  - term: "بِذِي لَجَبٍ لَجَّاتُهُ وَصَوَاهِلُهْ"
+    text: "«أي: بجيش ذي صوت وجلبة» … «والتقدير: بجيش لجب أصحاب لجّاته وصواهله» [@diwan-zuhayr، ص61]، والصواهل: الخيل."
+sources:
+  - source: "diwan-zuhayr"
+    loc: "ص60–61"
+    url: "https://archive.org/details/3917pdf/page/n60/mode/1up"
+status: "review"

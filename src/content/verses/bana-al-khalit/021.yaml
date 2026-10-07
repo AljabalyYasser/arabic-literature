@@ -1,0 +1,15 @@
+explained: false
+first: "حَتَّى اسْتَغَاثَتْ بِمَاءٍ لَا رِشَاءَ لَهُ"
+second: "مِنَ الْأَبَاطِحِ فِي حَافَاتِهِ الْبُرَكُ"
+vocabulary:
+  - term: "لَا رِشَاءَ لَهُ"
+    text: "«أي: هو ظاهر على وجه الأرض، فلا يحتاج إلى رشاء، يستقى به. و«الرشاء»: الحبل» [@diwan-zuhayr، ص85]."
+  - term: "الْأَبَاطِحِ"
+    text: "«و«الأبطح»: المنبطح من الأرض» [@diwan-zuhayr، ص85]."
+  - term: "الْبُرَكُ"
+    text: "«طير بيض صغار» [@diwan-zuhayr، ص85]."
+sources:
+  - source: "diwan-zuhayr"
+    loc: "ص85"
+    url: "https://archive.org/details/3917pdf/page/n85/mode/1up"
+status: "review"

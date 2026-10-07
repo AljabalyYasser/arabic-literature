@@ -1,0 +1,17 @@
+explained: false
+first: "لِمَنْ طَلَلٌ كَالْوَحْيِ عَافٍ مَنَازِلُهْ"
+second: "عَفَا الرَّسُّ مِنْهُ فَالرُّسَيْسُ فَعَاقِلُهْ"
+vocabulary:
+  - term: "طَلَلٌ"
+    text: "«ما بدا شخصه من بقيّة الدار» [@diwan-zuhayr، ص47]."
+  - term: "كَالْوَحْيِ"
+    text: "«و«الوحي»: الكتاب. شبّه به آثار الدار ورسومها» [@diwan-zuhayr، ص47]."
+  - term: "عَفَا"
+    text: "«أي: درس وتغيّر» [@diwan-zuhayr، ص47]."
+  - term: "الرَّسُّ ... فَالرُّسَيْسُ فَعَاقِلُهْ"
+    text: "«و«الرسّ والرسيس»: ماءان لبني أسد. و«عاقل»: أرض. وقيل: جبل» [@diwan-zuhayr، ص47]."
+sources:
+  - source: "diwan-zuhayr"
+    loc: "ص47"
+    url: "https://archive.org/details/3917pdf/page/n47/mode/1up"
+status: "review"

@@ -1,0 +1,15 @@
+explained: false
+first: "فَبَيْنَا نُبَغِّي الصَّيْدَ جَاءَ غُلَامُنَا"
+second: "يَدِبُّ وَيُخْفِي شَخْصَهُ وَيُضَائِلُهْ"
+vocabulary:
+  - term: "نُبَغِّي"
+    text: "«أي: نبتغيه» [@diwan-zuhayr، ص50]."
+  - term: "يَدِبُّ"
+    text: "«أي: يمشي راجلًا» [@diwan-zuhayr، ص50]."
+  - term: "وَيُخْفِي شَخْصَهُ وَيُضَائِلُهْ"
+    text: "يخفيه «لئلّا يشعر به الصيد فيفزع. ومعنى «يضائله»: يصغّره» [@diwan-zuhayr، ص50]."
+sources:
+  - source: "diwan-zuhayr"
+    loc: "ص50"
+    url: "https://archive.org/details/3917pdf/page/n50/mode/1up"
+status: "review"

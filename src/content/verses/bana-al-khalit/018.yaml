@@ -1,0 +1,15 @@
+explained: false
+first: "عِنْدَ الذُّنَابَى لَهَا صَوْتٌ وَأَزْمَلَةٌ"
+second: "يَكَادُ يَخْطَفُهَا طَوْرًا وَتَهْتَلِكُ"
+vocabulary:
+  - term: "أَزْمَلَةٌ"
+    text: "«اختلاط الصوت» [@diwan-zuhayr، ص84]."
+  - term: "يَخْطَفُهَا"
+    text: "«يأخذها بسرعة» [@diwan-zuhayr، ص84]."
+  - term: "وَتَهْتَلِكُ"
+    text: "«أي: تجتهد فيه، وتستخرج أقصاه» [@diwan-zuhayr، ص84]، يعني الطيران."
+sources:
+  - source: "diwan-zuhayr"
+    loc: "ص84"
+    url: "https://archive.org/details/3917pdf/page/n84/mode/1up"
+status: "review"

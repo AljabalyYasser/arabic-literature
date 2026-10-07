@@ -1,0 +1,17 @@
+explained: false
+first: "وَأَبْيَضَ فَيَّاضٍ يَدَاهُ غَمَامَةٌ"
+second: "عَلَى مُعْتَفِيهِ مَا تُغِبُّ فَوَاضِلُهْ"
+vocabulary:
+  - term: "وَأَبْيَضَ"
+    text: "«يريد: رجلًا نقيًّا من العيوب» [@diwan-zuhayr، ص56]. والواو بمعنى رُبّ."
+  - term: "فَيَّاضٍ"
+    text: "«الكثير العطاء» [@diwan-zuhayr، ص56]."
+  - term: "مُعْتَفِيهِ"
+    text: "«الطالبون ما عنده» [@diwan-zuhayr، ص56]."
+  - term: "مَا تُغِبُّ فَوَاضِلُهْ"
+    text: "«أي: هي دائمة لا تنقطع، ولا تأتي في الغبّ» … «و«فواضله»: عطاياه» [@diwan-zuhayr، ص56]. والغبّ: «أن تكون الزيارة في الأسبوع، أو اليومين، مرة واحدة» كما يقول المحقق [@diwan-zuhayr، ص56]."
+sources:
+  - source: "diwan-zuhayr"
+    loc: "ص55–56"
+    url: "https://archive.org/details/3917pdf/page/n55/mode/1up"
+status: "review"
