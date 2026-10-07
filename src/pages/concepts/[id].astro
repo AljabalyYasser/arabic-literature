@@ -6,7 +6,7 @@ import StatusBadge from '../../components/StatusBadge.astro';
 import CiteList from '../../components/CiteList.astro';
 import Body from '../../components/Body.astro';
 import VerseQuote from '../../components/VerseQuote.astro';
-import { mustAll, url } from '../../lib/content';
+import { fmt, mustAll, sourceMap, url } from '../../lib/content';
 import { conceptGroups } from '../../lib/labels';
 
 export async function getStaticPaths() {
@@ -17,6 +17,7 @@ const { concept } = Astro.props as { concept: CollectionEntry<'concepts'> };
 const c = concept.data;
 const related = await mustAll(c.related);
 const chapters = await getCollection('chapters', (s) => s.data.concepts.some((r) => r.id === concept.id));
+const sources = await sourceMap();
 ---
 <Base title={c.name} description={c.short} searchType="مفهوم">
   <Crumbs items={[{ href: '/concepts/', label: 'المفاهيم' }, { label: c.name }]} />
@@ -33,7 +34,7 @@ const chapters = await getCollection('chapters', (s) => s.data.concepts.some((r)
     <section class="section measure">
       <div class="section-head"><span class="kicker">مثال</span><h2>من النصوص</h2></div>
       <VerseQuote id={c.example.verse.id} />
-      {c.example.note && <p>{c.example.note}</p>}
+      {c.example.note && <p set:html={fmt(c.example.note, sources)} />}
     </section>
   )}
 
