@@ -1,0 +1,15 @@
+explained: false
+first: "يَحْمِلْنَ فِتْيَانًا مَدَاعِسَ بِالْقَنَا"
+second: "وُقُرًا إِذَا مَا الْحَرْبُ خَفَّ لِوَاهَا"
+vocabulary:
+- term: "مَدَاعِسَ"
+  text: "«المداعس جمع مدعس وهو الكثير الطعن» [@diwan-antara، ص305]."
+- term: "وُقُرًا"
+  text: "«والوقر جمع وقور وهو الثابت في الحرب» [@diwan-antara، ص305]."
+- term: "خَفَّ لِوَاهَا"
+  text: "إذا انهزم القوم وخفّ لواؤهم، «ثبت هؤلاء ولم يستخفهم الفزع» [@diwan-antara، ص305]."
+sources:
+- source: "diwan-antara"
+  loc: "ص305"
+  url: "https://archive.org/details/3562pdf/page/n310/mode/1up"
+status: "review"

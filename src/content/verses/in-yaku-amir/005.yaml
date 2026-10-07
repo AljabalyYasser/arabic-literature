@@ -1,0 +1,13 @@
+explained: false
+first: "فَإِنْ تَكُنِ الْفَوَارِسُ يَوْمَ حِسْيٍ"
+second: "أَصَابُوا مِنْ لِقَائِكَ مَا أَصَابُوا"
+vocabulary:
+  - term: "الْفَوَارِسُ"
+    text: "فرسان ذُبْيان."
+  - term: "يَوْمَ حِسْيٍ"
+    text: "«يعني يومًا كان لبني ذبيان على عامر، قُتِل فيه أخوه حَنْظَلة بن الطُّفَيل» [@diwan-nabigha، ص110]."
+sources:
+  - source: "diwan-nabigha"
+    loc: "ص110"
+    url: "https://archive.org/details/3409pdf_202001/page/n109/mode/1up"
+status: "review"

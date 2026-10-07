@@ -1,0 +1,13 @@
+explained: false
+first: "فَإِنْ يَبْرَأْ فَلَمْ أَنْفِثْ عَلَيْهِ"
+second: "وَإِنْ يُفْقَدْ فَحَقَّ لَهُ الْفُقُودُ"
+vocabulary:
+- term: "فَلَمْ أَنْفِثْ عَلَيْهِ"
+  text: "لم أرقه بالنفث، يعني جُرَيّة: إن برئ فما شفاه أحد غير أجله، قال الأَعْلَم: «رقيته ولا نفثت عليه» [@diwan-antara، ص283]."
+- term: "فَحَقَّ لَهُ الْفُقُودُ"
+  text: "«وإن يفقد أي يمت فحق له ذلك، فقد مات من هو خير منه» [@diwan-antara، ص283]."
+sources:
+- source: "diwan-antara"
+  loc: "ص283"
+  url: "https://archive.org/details/3562pdf/page/n288/mode/1up"
+status: "review"

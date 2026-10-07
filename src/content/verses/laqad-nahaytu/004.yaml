@@ -1,0 +1,15 @@
+explained: false
+first: "يَنْظُرْنَ شَزْرًا إِلَى مَنْ جَاءَ عَنْ عُرُضٍ"
+second: "بِأَوْجُهٍ مُنْكِرَاتِ الرِّقِّ أَحْرَارِ"
+vocabulary:
+  - term: "شَزْرًا"
+    text: "«أي ينظرن بمؤخّر أعينهنّ، يلتفتن يمينًا وشمالًا» [@diwan-nabigha، ص76]."
+  - term: "عَنْ عُرُضٍ"
+    text: "«أي عن ناحية» [@diwan-nabigha، ص76]."
+  - term: "مُنْكِرَاتِ الرِّقِّ أَحْرَارِ"
+    text: "«أي كُنّ في حرية، فلما سُبين أنكرنَ الرقّ والعبودية» [@diwan-nabigha، ص76]."
+sources:
+  - source: "diwan-nabigha"
+    loc: "ص76"
+    url: "https://archive.org/details/3409pdf_202001/page/n75/mode/1up"
+status: "review"

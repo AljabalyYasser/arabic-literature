@@ -1,0 +1,19 @@
+explained: false
+first: "سَاقَ الرُّفَيْدَاتِ مِنْ جَوْشٍ وَمِنْ عِظَمٍ"
+second: "وَمَاشَ مِنْ رَهْطِ رِبْعِيٍّ وَحَجَّارِ"
+vocabulary:
+  - term: "سَاقَ"
+    text: "«يعني الملك الذي كان حذّرهم إياه» [@diwan-nabigha، ص77]."
+  - term: "الرُّفَيْدَاتِ"
+    text: "«حيّ من كلب، يقال لهم: بنو رُفيدة» [@diwan-nabigha، ص77]."
+  - term: "جَوْشٍ وَمِنْ عِظَمٍ"
+    text: "«وجَوْش وعِظَم: موضعان في أرض كلب» [@diwan-nabigha، ص77]."
+  - term: "وَمَاشَ"
+    text: "«خلَط» [@diwan-nabigha، ص77]."
+  - term: "رِبْعِيٍّ وَحَجَّارِ"
+    text: "«رجلان من قُضاعة، وكلب أيضًا من قضاعة؛ يعني أنه غزاهم بقومه بأحياء من العرب» [@diwan-nabigha، ص77]."
+sources:
+  - source: "diwan-nabigha"
+    loc: "ص77"
+    url: "https://archive.org/details/3409pdf_202001/page/n76/mode/1up"
+status: "review"

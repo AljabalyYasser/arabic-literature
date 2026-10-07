@@ -1,0 +1,16 @@
+explained: false
+first: "يُذْرِينَ دَمْعًا عَلَى الْأَشْفَارِ مُنْحَدِرًا"
+second: "يَأْمُلْنَ رِحْلَةَ حِصْنٍ وَابْنِ سَيَّارِ"
+vocabulary:
+  - term: "يُذْرِينَ"
+    text: "«أي يصببنه ويرمين به» [@diwan-nabigha، ص76]."
+  - term: "حِصْنٍ وَابْنِ سَيَّارِ"
+    text: "«يريد حصن بن حذيفة الفزاريّ»، وابن سيّار سيد آخر من فَزارة، «وكانا سيّدَي فزارة، وإنما يأملن رحلتهما ليفُكّا أسرهنّ» [@diwan-nabigha، ص76]. وهو زَبّان بن سَيّار في خبر ابن السِّكِّيت [@diwan-nabigha، ص243]."
+sources:
+  - source: "diwan-nabigha"
+    loc: "ص76"
+    url: "https://archive.org/details/3409pdf_202001/page/n75/mode/1up"
+  - source: "diwan-nabigha"
+    loc: "ص243"
+    url: "https://archive.org/details/3409pdf_202001/page/n242/mode/1up"
+status: "review"

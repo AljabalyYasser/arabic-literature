@@ -1,0 +1,18 @@
+explained: false
+first: "فَكُنْ كَأَبِيكَ أَوْ كَأَبِي بَرَاءٍ"
+second: "تُوَافِقْكَ الْحُكُومَةُ وَالصَّوَابُ"
+vocabulary:
+  - term: "كَأَبِيكَ"
+    text: "أبوه الطُّفَيْل بن مالك، وعامر عند ابن قُتَيْبة «عامر بن الطّفيل بن مالك بن جعفر بن كلاب العامرىّ» [@ibn-qutayba، ج1 ص322]."
+  - term: "أَبِي بَرَاءٍ"
+    text: "«هو عامر بن مالك ملاعب الأسنّة، وهو عمّ عامر بن الطفيل» [@diwan-nabigha، ص109]."
+  - term: "الْحُكُومَةُ"
+    text: "«الحكم» [@diwan-nabigha، ص109]، أي الرأي الصائب."
+sources:
+  - source: "diwan-nabigha"
+    loc: "ص109"
+    url: "https://archive.org/details/3409pdf_202001/page/n108/mode/1up"
+  - source: "ibn-qutayba"
+    loc: "ج1 ص322"
+    url: "https://shamela.ws/book/23785/315"
+status: "review"

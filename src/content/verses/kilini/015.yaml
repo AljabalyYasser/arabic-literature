@@ -1,0 +1,20 @@
+explained: false
+first: "عَلَى عَارِفَاتٍ لِلطِّعَانِ عَوَابِسٍ"
+second: "بِهِنَّ كُلُومٌ بَيْنَ دَامٍ وَجَالِبِ"
+vocabulary:
+  - term: "عَارِفَاتٍ"
+    text: "«أي صابرات، واحدتها عارفة» [@diwan-nabigha، ص43]، يعني الخيل."
+  - term: "عَوَابِسٍ"
+    text: "«وصفها بالعبوس في الحرب؛ لكثرة ما تردّدت فيها» [@diwan-nabigha، ص44]."
+  - term: "كُلُومٌ"
+    text: "«الجراحات، واحدها كَلْم» [@diwan-nabigha، ص44]."
+  - term: "بَيْنَ دَامٍ وَجَالِبِ"
+    text: "بين جرح يسيل دمه وجرح بدأ يبرأ، «والجالب: اليابس الذي قد علته جُلبة البُرْء» [@diwan-nabigha، ص44]."
+sources:
+  - source: "diwan-nabigha"
+    loc: "ص43"
+    url: "https://archive.org/details/3409pdf_202001/page/n42/mode/1up"
+  - source: "diwan-nabigha"
+    loc: "ص44"
+    url: "https://archive.org/details/3409pdf_202001/page/n43/mode/1up"
+status: "review"

@@ -1,0 +1,13 @@
+explained: false
+first: "وَكَانَتْ لَهُمْ رِبْعِيَّةٌ يَحْذَرُونَهَا"
+second: "إِذَا خَضْخَضَتْ مَاءَ السَّمَاءِ الْقَبَائِلُ"
+vocabulary:
+  - term: "رِبْعِيَّةٌ"
+    text: "«يعني كتيبة أو غزوة في الربيع» [@diwan-nabigha، ص118]."
+  - term: "خَضْخَضَتْ مَاءَ السَّمَاءِ"
+    text: "«حرّكت، أي إذا استقوا من ماء الغُدُر فحرّكوه بالدلاء وغيرها» [@diwan-nabigha، ص118]، والغُدُر جمع غدير، وماء السماء ماء المطر، يعني زمن الربيع."
+sources:
+  - source: "diwan-nabigha"
+    loc: "ص118"
+    url: "https://archive.org/details/3409pdf_202001/page/n117/mode/1up"
+status: "review"

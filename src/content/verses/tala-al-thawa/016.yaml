@@ -1,0 +1,18 @@
+explained: false
+first: "وَلَقَدْ غَدَوْتُ أَمَامَ رَايَةِ غَالِبٍ"
+second: "يَوْمَ الْهِيَاجِ وَمَا غَدَوْتُ بِأَعْزَلِ"
+vocabulary:
+- term: "غَالِبٍ"
+  text: "لعله غالب بن قُطَيْعة بن عَبْس، وهو من أجداد عَنْتَرَة في أحد أنسابه عند أبي الفَرَج: «مالك ابن غالب بن قطيعة بن عبس» [@aghani-dk، ج8 ص237]."
+- term: "الْهِيَاجِ"
+  text: "«الهياج شدة الحرب» [@diwan-antara، ص251]."
+- term: "بِأَعْزَلِ"
+  text: "«والأعزل الذي لا سلاح معه» [@diwan-antara، ص251]."
+sources:
+- source: "diwan-antara"
+  loc: "ص251"
+  url: "https://archive.org/details/3562pdf/page/n256/mode/1up"
+- source: "aghani-dk"
+  loc: "ج8 ص237"
+  url: "https://archive.org/details/aghani2014/8/page/n236/mode/1up"
+status: "review"

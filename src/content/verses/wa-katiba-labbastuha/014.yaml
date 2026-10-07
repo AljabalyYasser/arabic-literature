@@ -1,0 +1,15 @@
+explained: false
+first: "يَعْثُرْنَ فِي نَقْعِ النَّجِيعِ جَوَافِلًا"
+second: "وَيَطَأْنَ مِنْ حَمْيِ الْوَغَى صَرْعَاهَا"
+vocabulary:
+- term: "نَقْعِ النَّجِيعِ"
+  text: "«والنقع ما نقع من الدم وثبت بالأرض، والنجيع الدم الطري» [@diwan-antara، ص307]."
+- term: "جَوَافِلًا"
+  text: "«والجوافل المسرعة» [@diwan-antara، ص307]."
+- term: "حَمْيِ الْوَغَى"
+  text: "«وحمي الوغى شدتها واشتعالها» [@diwan-antara، ص307]."
+sources:
+- source: "diwan-antara"
+  loc: "ص307"
+  url: "https://archive.org/details/3562pdf/page/n312/mode/1up"
+status: "review"

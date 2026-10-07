@@ -1,0 +1,20 @@
+explained: false
+first: "حِبَاؤُكَ وَالْعِيسُ الْعِتَاقُ كَأَنَّهَا"
+second: "هِجَانُ الْمَهَا تُحْدَى عَلَيْهَا الرَّحَائِلُ"
+vocabulary:
+  - term: "حِبَاؤُكَ"
+    text: "«أي عطاؤك وهبتُك» [@diwan-nabigha، ص119]، أي كل ما أملك من عطائك."
+  - term: "وَالْعِيسُ الْعِتَاقُ"
+    text: "«والعيس: البيض من الإبل، وهي أكرمها» [@diwan-nabigha، ص119]."
+  - term: "هِجَانُ الْمَهَا"
+    text: "«والمها: بقر الوحش. وهجانها: بيضها» [@diwan-nabigha، ص119]."
+  - term: "تُحْدَى عَلَيْهَا الرَّحَائِلُ"
+    text: "«أي تُساق»، «يعني أنه كان يهب كرام الإبل برحالها. والرحائل: جمع رحالة وهي السرج» [@diwan-nabigha، ص120]."
+sources:
+  - source: "diwan-nabigha"
+    loc: "ص119"
+    url: "https://archive.org/details/3409pdf_202001/page/n118/mode/1up"
+  - source: "diwan-nabigha"
+    loc: "ص120"
+    url: "https://archive.org/details/3409pdf_202001/page/n119/mode/1up"
+status: "review"

@@ -1,0 +1,15 @@
+explained: false
+first: "وَالْخَيْلُ تَعْلَمُ أَنَّا فِي تَجَاوُلِهَا"
+second: "عِنْدَ الطِّعَانِ أُولُو بُؤْسَى وَإِنْعَامِ"
+vocabulary:
+  - term: "وَالْخَيْلُ تَعْلَمُ"
+    text: "«يريد: وأصحاب الخيل» [@diwan-nabigha، ص85]."
+  - term: "تَجَاوُلِهَا"
+    text: "«والتجاول: الذهاب والمجيء في الحرب» [@diwan-nabigha، ص85]."
+  - term: "أُولُو بُؤْسَى وَإِنْعَامِ"
+    text: "«أي ذوو شِدّة وبأس. والإنعام: أن يمنّوا على الأسير فيُطلقوه» [@diwan-nabigha، ص85]."
+sources:
+  - source: "diwan-nabigha"
+    loc: "ص85"
+    url: "https://archive.org/details/3409pdf_202001/page/n84/mode/1up"
+status: "review"

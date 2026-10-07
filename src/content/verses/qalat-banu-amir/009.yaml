@@ -1,0 +1,15 @@
+explained: false
+first: "يَهْدِي كَتَائِبَ خُضْرًا لَيْسَ يَعْصِمُهَا"
+second: "إِلَّا ابْتِدَارٌ إِلَى مَوْتٍ بِإِلْجَامِ"
+vocabulary:
+  - term: "يَهْدِي كَتَائِبَ"
+    text: "«يعني صاحب اللواء يهدي هذه الكتائب ويسير بها» [@diwan-nabigha، ص84]."
+  - term: "خُضْرًا"
+    text: "«السُّود من كثرة السلاح» [@diwan-nabigha، ص84]."
+  - term: "لَيْسَ يَعْصِمُهَا إِلَّا ابْتِدَارٌ"
+    text: "«أي لا يعتصمون بهرب ولا هزيمة، لكن بالمبادرة إلى الحرب، وقتال العدو بالخيل الملجمة» [@diwan-nabigha، ص84]."
+sources:
+  - source: "diwan-nabigha"
+    loc: "ص84"
+    url: "https://archive.org/details/3409pdf_202001/page/n83/mode/1up"
+status: "review"

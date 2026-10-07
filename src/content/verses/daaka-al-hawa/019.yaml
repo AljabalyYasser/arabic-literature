@@ -1,0 +1,15 @@
+explained: false
+first: "وَإِنَّ تِلَادِي إِنْ ذَكَرْتُ وَشِكَّتِي"
+second: "وَمُهْرِي وَمَا ضَمَّتْ لَدَيَّ الْأَنَامِلُ"
+vocabulary:
+  - term: "تِلَادِي"
+    text: "«التِّلاد والتالد والمُتلَد: ما وُرث عن الآباء. وربما استعمل فيما اقتناه الإنسان وقدُم عنده» [@diwan-nabigha، ص119]."
+  - term: "وَشِكَّتِي"
+    text: "«والشِّكّة: جملة السلاح» [@diwan-nabigha، ص119]."
+  - term: "وَمَا ضَمَّتْ لَدَيَّ الْأَنَامِلُ"
+    text: "ما أملكه بيدي، «والأنامل: الأصابع، وأراد بها اليدين» [@diwan-nabigha، ص119]."
+sources:
+  - source: "diwan-nabigha"
+    loc: "ص119"
+    url: "https://archive.org/details/3409pdf_202001/page/n118/mode/1up"
+status: "review"

@@ -1,0 +1,17 @@
+explained: false
+first: "قَرْمَيْ قُضَاعَةَ حَلَّا حَوْلَ حُجْرَتِهِ"
+second: "مَدَّا عَلَيْهِ بِسُلَّافٍ وَأَنْفَارِ"
+vocabulary:
+  - term: "قَرْمَيْ قُضَاعَةَ"
+    text: "«يعني سيّدَي قضاعة وشريفيها» [@diwan-nabigha، ص77]، ويقول المحقق: «وهما ربعي وحجار المذكوران البيت السابق» [@diwan-nabigha، ص77]."
+  - term: "حَلَّا حَوْلَ حُجْرَتِهِ"
+    text: "«أي نزلا حول حجرة الملك حين أراد الغزو» [@diwan-nabigha، ص77]."
+  - term: "مَدَّا عَلَيْهِ بِسُلَّافٍ"
+    text: "«أي مدّاه بسُلّاف، وهم المتقدّمون من القوم» [@diwan-nabigha، ص77]."
+  - term: "وَأَنْفَارِ"
+    text: "«جمع نفر» [@diwan-nabigha، ص77]."
+sources:
+  - source: "diwan-nabigha"
+    loc: "ص77"
+    url: "https://archive.org/details/3409pdf_202001/page/n76/mode/1up"
+status: "review"

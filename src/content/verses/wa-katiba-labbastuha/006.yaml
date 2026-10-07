@@ -1,0 +1,17 @@
+explained: false
+first: "يَغْدُونَ بِالْمُسْتَلْئِمِينَ عَوَابِسًا"
+second: "قُودًا تَشَكَّى أَيْنَهَا وَوَجَاهَا"
+vocabulary:
+- term: "الْمُسْتَلْئِمِينَ"
+  text: "«والمستلئمون المتدرعون» [@diwan-antara، ص305]."
+- term: "عَوَابِسًا"
+  text: "من صفة الخيل، «وجربت عند شدة الحرب فهي تعبس لذلك» [@diwan-antara، ص305]."
+- term: "قُودًا"
+  text: "«والقود المنقادة الأعناق، واحدها أقود وقوداء» [@diwan-antara، ص305]."
+- term: "أَيْنَهَا وَوَجَاهَا"
+  text: "«والأين الفتور، والوجاء الحفاء» [@diwan-antara، ص305]."
+sources:
+- source: "diwan-antara"
+  loc: "ص305"
+  url: "https://archive.org/details/3562pdf/page/n310/mode/1up"
+status: "review"

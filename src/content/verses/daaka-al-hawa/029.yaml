@@ -1,0 +1,20 @@
+explained: false
+first: "بَكَى حَارِثُ الْجَوْلَانِ مِنْ فَقْدِ رَبِّهِ"
+second: "وَحَوْرَانُ مِنْهُ مُوحِشٌ مُتَضَائِلُ"
+vocabulary:
+  - term: "حَارِثُ الْجَوْلَانِ"
+    text: "«جبل في الجولان، وهو موضع بالشام» [@diwan-nabigha، ص121]."
+  - term: "مِنْ فَقْدِ رَبِّهِ"
+    text: "«أي النعمان» [@diwan-nabigha، ص121]، فهو ربّ تلك الأرض وملكها."
+  - term: "وَحَوْرَانُ"
+    text: "«بالشام أيضًا» [@diwan-nabigha، ص121]."
+  - term: "مُوحِشٌ مُتَضَائِلُ"
+    text: "خالٍ حزين، و«المتضائل: المتصاغر المتداخل» [@diwan-nabigha، ص122]."
+sources:
+  - source: "diwan-nabigha"
+    loc: "ص121"
+    url: "https://archive.org/details/3409pdf_202001/page/n120/mode/1up"
+  - source: "diwan-nabigha"
+    loc: "ص122"
+    url: "https://archive.org/details/3409pdf_202001/page/n121/mode/1up"
+status: "review"

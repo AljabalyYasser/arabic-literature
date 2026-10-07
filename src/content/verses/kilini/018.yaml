@@ -1,0 +1,15 @@
+explained: false
+first: "يَطِيرُ فُضَاضًا بَيْنَهَا كُلُّ قَوْنَسٍ"
+second: "وَيَتْبَعُهَا مِنْهُمْ فَرَاشُ الْحَوَاجِبِ"
+vocabulary:
+  - term: "فُضَاضًا"
+    text: "«القِطَع المتفرّقة» [@diwan-nabigha، ص44]."
+  - term: "قَوْنَسٍ"
+    text: "«أعلى الناصية» [@diwan-nabigha، ص44]، والمراد أعلى البَيْضة، وهي خوذة الحديد، لقول الأَعْلَم بعده: «أي يضربون البَيْض بالسيوف، فتتكسّر أعاليها وتتطاير» [@diwan-nabigha، ص44]."
+  - term: "فَرَاشُ الْحَوَاجِبِ"
+    text: "«عظامٌ رقاق تلي الخياشيم، ونسبها إلى الحواجب؛ لقربها منها» [@diwan-nabigha، ص44]."
+sources:
+  - source: "diwan-nabigha"
+    loc: "ص44"
+    url: "https://archive.org/details/3409pdf_202001/page/n43/mode/1up"
+status: "review"

@@ -1,0 +1,17 @@
+explained: false
+first: "بِضَرْبٍ يُزِيلُ الْهَامَ عَنْ سَكِنَاتِهِ"
+second: "وَطَعْنٍ كَإِيزَاغِ الْمَخَاضِ الضَّوَارِبِ"
+vocabulary:
+  - term: "الْهَامَ"
+    text: "«الرؤوس» [@diwan-nabigha، ص46]."
+  - term: "سَكِنَاتِهِ"
+    text: "«حيث تسكُن وتستقرّ، وهي الأعناق» [@diwan-nabigha، ص46]."
+  - term: "كَإِيزَاغِ الْمَخَاضِ"
+    text: "«وإيزاغ المخاض: نفحها بالبول مقطّعًا إذا أرادها الفحلُ؛ فشبّه خروج الدم من الجراحات بنفحها ببولها» [@diwan-nabigha، ص46]."
+  - term: "الضَّوَارِبِ"
+    text: "«التي تضرب الفحلَ بأرجلها، إذا أرادها» [@diwan-nabigha، ص46]."
+sources:
+  - source: "diwan-nabigha"
+    loc: "ص46"
+    url: "https://archive.org/details/3409pdf_202001/page/n45/mode/1up"
+status: "review"

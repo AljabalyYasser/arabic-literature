@@ -1,0 +1,15 @@
+explained: false
+first: "وَالْخَيْلُ تَعْلَمُ وَالْفَوَارِسُ أَنَّنِي"
+second: "فَرَّقْتُ جَمْعَهُمُ بِطَعْنَةِ فَيْصَلِ"
+vocabulary:
+- term: "الْخَيْلُ"
+  text: "أصحاب الخيل: «والخيل تعلم بمعنى أصحاب الخيل» [@diwan-antara، ص250]."
+- term: "فَرَّقْتُ جَمْعَهُمُ"
+  text: "«أي طعنت رئيس الكتيبة طعنة فتفرق جمعهم لذلك» [@diwan-antara، ص250]."
+- term: "فَيْصَلِ"
+  text: "«بطعنة فيصل أي بطعنة رجل فصل بين القوم، أي فرقهم وفصل بينهم» [@diwan-antara، ص250]."
+sources:
+- source: "diwan-antara"
+  loc: "ص250"
+  url: "https://archive.org/details/3562pdf/page/n255/mode/1up"
+status: "review"

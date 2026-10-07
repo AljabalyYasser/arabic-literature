@@ -1,0 +1,15 @@
+explained: false
+first: "وَقُلْتُ يَا قَوْمُ إِنَّ اللَّيْثَ مُنْقَبِضٌ"
+second: "عَلَى بَرَاثِنِهِ لِوَثْبَةِ الضَّارِي"
+vocabulary:
+  - term: "مُنْقَبِضٌ"
+    text: "«أي مجتمع متهيّئ للوثوب» [@diwan-nabigha، ص75]."
+  - term: "بَرَاثِنِهِ"
+    text: "«المخالب» [@diwan-nabigha، ص75]."
+  - term: "الضَّارِي"
+    text: "«من صفة الليث، ومعناه المتعوّد أكلَ الناس؛ وضرب هذا مثلًا للملك الذي حذّر قومه منه» [@diwan-nabigha، ص75]."
+sources:
+  - source: "diwan-nabigha"
+    loc: "ص75"
+    url: "https://archive.org/details/3409pdf_202001/page/n74/mode/1up"
+status: "review"

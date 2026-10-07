@@ -1,0 +1,15 @@
+explained: false
+first: "يُصَاحِبْنَهُمْ حَتَّى يُغِرْنَ مُغَارَهُمْ"
+second: "مِنَ الضَّارِيَاتِ بِالدِّمَاءِ الدَّوَارِبِ"
+vocabulary:
+  - term: "يُغِرْنَ مُغَارَهُمْ"
+    text: "يُغِرْن معهم حيث يُغيرون، أي يتبعنهم إلى الغارة."
+  - term: "الضَّارِيَاتِ"
+    text: "«أي المتعوّدات؛ لكثرة مصاحبتها للجيش» [@diwan-nabigha، ص43]."
+  - term: "الدَّوَارِبِ"
+    text: "«المتعوّدات أيضًا، يقال: درِب يدرَب، إذا اعتاد الشيء ولازمه» [@diwan-nabigha، ص43]."
+sources:
+  - source: "diwan-nabigha"
+    loc: "ص43"
+    url: "https://archive.org/details/3409pdf_202001/page/n42/mode/1up"
+status: "review"

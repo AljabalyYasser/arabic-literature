@@ -1,0 +1,15 @@
+explained: false
+first: "أَوْ تَزْجُرُوا مُكْفَهِرًّا لَا كِفَاءَ لَهُ"
+second: "كَاللَّيْلِ يَخْلِطُ أَصْرَامًا بِأَصْرَامِ"
+vocabulary:
+  - term: "مُكْفَهِرًّا"
+    text: "«المكفهرّ: الجيش العظيم، وكلّ متراكبٍ مكفهرّ» [@diwan-nabigha، ص83]."
+  - term: "لَا كِفَاءَ لَهُ"
+    text: "«أي ليس عندكم من القوة ما تُكافئونه به وتماثلونه» [@diwan-nabigha، ص83]."
+  - term: "يَخْلِطُ أَصْرَامًا بِأَصْرَامِ"
+    text: "«يعني شدّة سواد الليل وتراكُب ظلمته»، «والأصرام: القِطَع والجماعات» [@diwan-nabigha، ص83]."
+sources:
+  - source: "diwan-nabigha"
+    loc: "ص83"
+    url: "https://archive.org/details/3409pdf_202001/page/n82/mode/1up"
+status: "review"

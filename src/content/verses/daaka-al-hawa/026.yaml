@@ -1,0 +1,15 @@
+explained: false
+first: "سَقَى الْغَيْثُ قَبْرًا بَيْنَ بُصْرَى وَجَاسِمٍ"
+second: "بِغَيْثٍ مِنَ الْوَسْمِيِّ قَطْرٌ وَوَابِلُ"
+vocabulary:
+  - term: "بُصْرَى وَجَاسِمٍ"
+    text: "«هما موضعان بالشام» [@diwan-nabigha، ص121]."
+  - term: "الْوَسْمِيِّ"
+    text: "«أول المطر؛ لأنه يَسِمُ الأرضَ بالنبات، وإنما خصّ الوسميّ؛ لأنه أحلى المطر موقعًا من النفوس» [@diwan-nabigha، ص121]."
+  - term: "وَوَابِلُ"
+    text: "«والوابل: أشدّ المطر» [@diwan-nabigha، ص121]."
+sources:
+  - source: "diwan-nabigha"
+    loc: "ص121"
+    url: "https://archive.org/details/3409pdf_202001/page/n120/mode/1up"
+status: "review"

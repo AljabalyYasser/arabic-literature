@@ -1,0 +1,18 @@
+explained: false
+first: "تَجَلَّلَتْنِيَ إِذْ أَهْوَى الْعَصَا قِبَلِي"
+second: "كَأَنَّهَا صَنَمٌ يُعْتَادُ مَعْكُوفُ"
+vocabulary:
+- term: "تَجَلَّلَتْنِيَ"
+  text: "غطّتني بجسمها، قال الأَعْلَم: «أي وقعت علي امرأة أبي» [@diwan-antara، ص270]."
+- term: "أَهْوَى الْعَصَا"
+  text: "رفعها ليضرب بها، أي أبوه. وفي الأغاني: «و\"أهوى\": اعتمد» [@aghani-dk، ج8 ص238]."
+- term: "صَنَمٌ يُعْتَادُ مَعْكُوفُ"
+  text: "«يعتاد من العيادة أي يلزم، ويعاد تعظيما له. والمعكوف الذي يعكف عليه» [@diwan-antara، ص271]. وشبّهها بالصنم «لأنه يصور في أحسن صورة تمكن المصور» [@diwan-antara، ص270]."
+sources:
+- source: "diwan-antara"
+  loc: "ص270–271"
+  url: "https://archive.org/details/3562pdf/page/n275/mode/1up"
+- source: "aghani-dk"
+  loc: "ج8 ص238"
+  url: "https://archive.org/details/aghani2014/8/page/n237/mode/1up"
+status: "review"

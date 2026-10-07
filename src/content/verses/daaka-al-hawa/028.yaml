@@ -1,0 +1,17 @@
+explained: false
+first: "وَيُنْبِتُ حَوْذَانًا وَعَوْفًا مُنَوِّرًا"
+second: "سَأُتْبِعُهُ مِنْ خَيْرِ مَا قَالَ قَائِلُ"
+vocabulary:
+  - term: "وَيُنْبِتُ"
+    text: "«أي يُنبت هذا المطر الذي دعا للقبر به» [@diwan-nabigha، ص121]."
+  - term: "حَوْذَانًا وَعَوْفًا"
+    text: "«ضربان من النبت طيّبا الرائحة» [@diwan-nabigha، ص121]."
+  - term: "مُنَوِّرًا"
+    text: "مُزهرًا."
+  - term: "سَأُتْبِعُهُ"
+    text: "«أي سأُثني عليه بخير القول، وأذكره بأجمل الذِّكر» [@diwan-nabigha، ص121]."
+sources:
+  - source: "diwan-nabigha"
+    loc: "ص121"
+    url: "https://archive.org/details/3409pdf_202001/page/n120/mode/1up"
+status: "review"

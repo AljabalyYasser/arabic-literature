@@ -1,0 +1,13 @@
+explained: false
+first: "وَثِقْتُ لَهُ بِالنَّصْرِ إِذْ قِيلَ قَدْ غَزَتْ"
+second: "كَتَائِبُ مِنْ غَسَّانَ غَيْرُ أَشَائِبِ"
+vocabulary:
+  - term: "كَتَائِبُ"
+    text: "جيوش، واحدتها كتيبة."
+  - term: "غَيْرُ أَشَائِبِ"
+    text: "«والأشائب: الأخلاط»، أي إن جيوشه من غسّان «لم يخالطهم غيرُهم» [@diwan-nabigha، ص42]."
+sources:
+  - source: "diwan-nabigha"
+    loc: "ص42"
+    url: "https://archive.org/details/3409pdf_202001/page/n41/mode/1up"
+status: "review"

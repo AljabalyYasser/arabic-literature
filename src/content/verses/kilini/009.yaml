@@ -1,0 +1,18 @@
+explained: false
+first: "بَنُو عَمِّهِ دِنْيَا وَعَمْرُو بْنُ عَامِرٍ"
+second: "أُولَئِكَ قَوْمٌ بَأْسُهُمْ غَيْرُ كَاذِبِ"
+vocabulary:
+  - term: "دِنْيَا"
+    text: "«أراد الأدنَين في النسب» [@diwan-nabigha، ص42]، أي هم بنو عمّه الأقربون."
+  - term: "وَعَمْرُو بْنُ عَامِرٍ"
+    text: "«وعمرو بن عامر من الأزد» [@diwan-nabigha، ص42]، وهو عند الأَعْلَم «المعروف بمزيقيا» [@diwan-nabigha، ص42]، وملوك غَسّان من ولده، فجَفْنة عند البَغْداديّ «جفنة بن عمرو مزيقياء» [@khizana، ج3 ص330]."
+  - term: "بَأْسُهُمْ غَيْرُ كَاذِبِ"
+    text: "شدّتهم في الحرب صادقة لا تخلف."
+sources:
+  - source: "diwan-nabigha"
+    loc: "ص42"
+    url: "https://archive.org/details/3409pdf_202001/page/n41/mode/1up"
+  - source: "khizana"
+    loc: "ج3 ص330"
+    url: "https://shamela.ws/book/12732/1264"
+status: "review"

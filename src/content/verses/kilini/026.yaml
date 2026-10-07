@@ -1,0 +1,15 @@
+explained: false
+first: "تُحَيِّيهِمُ بِيضُ الْوَلَائِدِ بَيْنَهُمْ"
+second: "وَأَكْسِيَةُ الْإِضْرِيجِ فَوْقَ الْمَشَاجِبِ"
+vocabulary:
+  - term: "الْوَلَائِدِ"
+    text: "«وواحد الولائد وَليدة، وهي الأَمَة الشابّة» [@diwan-nabigha، ص47]."
+  - term: "الْإِضْرِيجِ"
+    text: "«الخزّ الأحمر» [@diwan-nabigha، ص47]."
+  - term: "الْمَشَاجِبِ"
+    text: "«أعواد تُعلّق عليها الثياب» [@diwan-nabigha، ص47]."
+sources:
+  - source: "diwan-nabigha"
+    loc: "ص47"
+    url: "https://archive.org/details/3409pdf_202001/page/n46/mode/1up"
+status: "review"

@@ -1,0 +1,15 @@
+explained: false
+first: "تَرَاهُنَّ خَلْفَ الْقَوْمِ خُزْرًا عُيُونُهَا"
+second: "جُلُوسَ الشُّيُوخِ فِي ثِيَابِ الْمَرَانِبِ"
+vocabulary:
+  - term: "خُزْرًا عُيُونُهَا"
+    text: "«أي تنظر بمآخير أعينها» [@diwan-nabigha، ص43]."
+  - term: "جُلُوسَ الشُّيُوخِ"
+    text: "«شبّه النسور في ضخامتها وسكونها وما عليها من الريش بشيوخٍ عليهم أكسية» [@diwan-nabigha، ص43]."
+  - term: "الْمَرَانِبِ"
+    text: "«ثياب سُود يقال لها: المرنبانية، تشبه أثواب النسور، وقيل: أكسية من جلود الأرانب» [@diwan-nabigha، ص43]."
+sources:
+  - source: "diwan-nabigha"
+    loc: "ص43"
+    url: "https://archive.org/details/3409pdf_202001/page/n42/mode/1up"
+status: "review"

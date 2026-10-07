@@ -1,0 +1,15 @@
+explained: false
+first: "فَهُمْ يَتَسَاقَوْنَ الْمَنِيَّةَ بَيْنَهُمْ"
+second: "بِأَيْدِيهِمُ بِيضٌ رِقَاقُ الْمَضَارِبِ"
+vocabulary:
+  - term: "يَتَسَاقَوْنَ الْمَنِيَّةَ"
+    text: "«أي يقتل بعضهم بعضًا، وضرب التساقي مثلًا» [@diwan-nabigha، ص44]."
+  - term: "بِيضٌ"
+    text: "سيوف."
+  - term: "رِقَاقُ الْمَضَارِبِ"
+    text: "«أي قاطعة ماضية، ومضرب السيف: حدّه، وهو قدر شبرٍ من أعلاه» [@diwan-nabigha، ص44]."
+sources:
+  - source: "diwan-nabigha"
+    loc: "ص44"
+    url: "https://archive.org/details/3409pdf_202001/page/n43/mode/1up"
+status: "review"

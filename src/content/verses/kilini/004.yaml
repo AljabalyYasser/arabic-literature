@@ -1,0 +1,16 @@
+explained: false
+first: "عَلَيَّ لِعَمْرٍو نِعْمَةٌ بَعْدَ نِعْمَةٍ"
+second: "لِوَالِدِهِ لَيْسَتْ بِذَاتِ عَقَارِبِ"
+vocabulary:
+  - term: "لِعَمْرٍو"
+    text: "عَمْرو بن الحارِث الغَسّانيّ، الممدوح، كما في رأس القصيدة [@diwan-nabigha، ص40]."
+  - term: "لَيْسَتْ بِذَاتِ عَقَارِبِ"
+    text: "«أي ليس فيه مكروه، ولا يكدّرها منٌّ ولا أذًى» [@diwan-nabigha، ص41]."
+sources:
+  - source: "diwan-nabigha"
+    loc: "ص40"
+    url: "https://archive.org/details/3409pdf_202001/page/n39/mode/1up"
+  - source: "diwan-nabigha"
+    loc: "ص41"
+    url: "https://archive.org/details/3409pdf_202001/page/n40/mode/1up"
+status: "review"

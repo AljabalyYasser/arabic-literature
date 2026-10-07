@@ -1,0 +1,15 @@
+explained: false
+first: "يَا رُبَّ ذَاتِ خَلِيلٍ قَدْ فَجَعْنَ بِهِ"
+second: "وَمُوتَمِينَ وَكَانُوا غَيْرَ أَيْتَامِ"
+vocabulary:
+  - term: "ذَاتِ خَلِيلٍ"
+    text: "«الخليل: البَعْل» [@diwan-nabigha، ص84]، أي الزوج."
+  - term: "فَجَعْنَ بِهِ"
+    text: "«أي فجعت الخيلُ ذاتَ الخليل بخليلها» [@diwan-nabigha، ص84]."
+  - term: "وَمُوتَمِينَ"
+    text: "الذين صُيّروا أيتامًا، وفي شرح البَطَلْيَوْسيّ كما ينقل المحقق: «موتمين: جمع موتم، وهو الذي فقد أباه» [@diwan-nabigha، ص84]."
+sources:
+  - source: "diwan-nabigha"
+    loc: "ص84"
+    url: "https://archive.org/details/3409pdf_202001/page/n83/mode/1up"
+status: "review"

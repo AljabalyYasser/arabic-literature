@@ -1,0 +1,19 @@
+explained: false
+first: "أَقَبَّ كَعَقْدِ الْأَنْدَرِيِّ مُسَحَّجٍ"
+second: "حَزَابِيَةٍ قَدْ كَدَّمَتْهُ الْمَسَاحِلُ"
+vocabulary:
+  - term: "أَقَبَّ"
+    text: "«الخميص البطن» [@diwan-nabigha، ص116]، أي ضامره."
+  - term: "كَعَقْدِ الْأَنْدَرِيِّ"
+    text: "«والأَنْدَريّ: حبل منسوب إلى أَنْدَر، وهي قرية بالشام؛ شبّه الحمار في طيّه وشدّة خلقه بهذا الحبل المضفور» [@diwan-nabigha، ص116]."
+  - term: "مُسَحَّجٍ"
+    text: "«الذي قد عضّته الحُمُر وكدمته» [@diwan-nabigha، ص116]."
+  - term: "حَزَابِيَةٍ"
+    text: "«الغليظ» [@diwan-nabigha، ص116]."
+  - term: "الْمَسَاحِلُ"
+    text: "«جمع مِسحل، وهو الذَّكَر من الحمير» [@diwan-nabigha، ص116]."
+sources:
+  - source: "diwan-nabigha"
+    loc: "ص116"
+    url: "https://archive.org/details/3409pdf_202001/page/n115/mode/1up"
+status: "review"

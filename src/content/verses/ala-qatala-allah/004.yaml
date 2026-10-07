@@ -1,0 +1,20 @@
+explained: false
+first: "حَلَفْنَا لَهُمْ وَالْخَيْلُ تَرْدِي بِنَا مَعًا"
+second: "نُزَايِلُكُمْ حَتَّى تَهِرُّوا الْعَوَالِيَا"
+vocabulary:
+- term: "تَرْدِي"
+  text: "تعدو، «الرديان ضرب من المسير» [@diwan-antara، ص224]."
+- term: "نُزَايِلُكُمْ"
+  text: "نفارقكم، يريد: لا نفارقكم. «والمُزَايَلَة: المُفارَقة» [@lisan، ج11 ص317]."
+- term: "تَهِرُّوا"
+  text: "«ومعنى تهروا تكرهوا» [@diwan-antara، ص224]."
+- term: "الْعَوَالِيَا"
+  text: "الرماح: «والعوالي جمع عالية الرمح وهي دون السنان بذراع وقيل أيضًا هي الرماح نفسها» [@diwan-antara، ص225]."
+sources:
+- source: "diwan-antara"
+  loc: "ص224–225"
+  url: "https://archive.org/details/3562pdf/page/n229/mode/1up"
+- source: "lisan"
+  loc: "ج11 ص317"
+  url: "https://shamela.ws/book/1687/5497"
+status: "review"

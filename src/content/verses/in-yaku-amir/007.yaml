@@ -1,0 +1,17 @@
+explained: false
+first: "فَوَارِسُ مِنْ مَنُولَةَ غَيْرُ مِيلٍ"
+second: "وَمُرَّةَ فَوْقَ جَمْعِهِمُ الْعُقَابُ"
+vocabulary:
+  - term: "مَنُولَةَ"
+    text: "«قال ابن الأعرابيّ: مَنُولة امرأة من تغلب، وهي أمّ مازن وشمخ، ابني فزارة بن ذبيان» [@diwan-nabigha، ص110]."
+  - term: "وَمُرَّةَ"
+    text: "«هو مُرّة بن عوف بن سعد بن ذُبيان» [@diwan-nabigha، ص110]."
+  - term: "غَيْرُ مِيلٍ"
+    text: "«ومِيل: جمع أَميَل، وهو الذي لا يستوي على السرج إذا ركب» [@diwan-nabigha، ص110]."
+  - term: "الْعُقَابُ"
+    text: "«الراية» [@diwan-nabigha، ص110]."
+sources:
+  - source: "diwan-nabigha"
+    loc: "ص110"
+    url: "https://archive.org/details/3409pdf_202001/page/n109/mode/1up"
+status: "review"

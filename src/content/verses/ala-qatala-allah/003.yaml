@@ -1,0 +1,18 @@
+explained: false
+first: "وَنَحْنُ مَنَعْنَا بِالْفَرُوقِ نِسَاءَنَا"
+second: "نُطَرِّفُ عَنْهَا مُشْعَلَاتٍ غَوَاشِيَا"
+vocabulary:
+- term: "الْفَرُوقِ"
+  text: "«الفروق واد بين اليمامة والبحرين، ويقال: هي عقبة دون هجر إلى نجد» [@diwan-antara، ص227]."
+- term: "نُطَرِّفُ"
+  text: "«أي نرد، والتطريف الرد والذب» [@diwan-antara، ص224]."
+- term: "مُشْعَلَاتٍ غَوَاشِيَا"
+  text: "خيلًا متفرقة تحيط بهم: «والمشعلات المنتشرة المتفرقة»، «والغواشي المحيطة بالقوم» [@diwan-antara، ص224]."
+sources:
+- source: "diwan-antara"
+  loc: "ص224"
+  url: "https://archive.org/details/3562pdf/page/n229/mode/1up"
+- source: "diwan-antara"
+  loc: "ص227"
+  url: "https://archive.org/details/3562pdf/page/n232/mode/1up"
+status: "review"

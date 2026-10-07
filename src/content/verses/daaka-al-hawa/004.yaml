@@ -1,0 +1,20 @@
+explained: false
+first: "فَسَلَّيْتُ مَا عِنْدِي بِرَوْحَةِ عِرْمِسٍ"
+second: "تَخُبُّ بِرَحْلِي تَارَةً وَتُنَاقِلُ"
+vocabulary:
+  - term: "فَسَلَّيْتُ مَا عِنْدِي"
+    text: "«سلوتُ عما ذكره من البكاء على الديار» [@diwan-nabigha، ص115]، «ومساءلتها عن أهلها» [@diwan-nabigha، ص116]."
+  - term: "بِرَوْحَةِ عِرْمِسٍ"
+    text: "بسير ناقة شديدة، و«العِرْمِس، وهي الشديدة، وأصل العِرْمِس الصخرة. شُبّهت الناقةُ بها؛ لصلابتها» [@diwan-nabigha، ص116]."
+  - term: "تَخُبُّ"
+    text: "«والخَبَب: ضرب من السَّيْر سريع» [@diwan-nabigha، ص116]."
+  - term: "وَتُنَاقِلُ"
+    text: "«والمناقلة: أن تُناقل يداها رجلَيها، وهو أن تضع رجليها في مواضع يديها؛ لسعة باعها، وقوة سيرها» [@diwan-nabigha، ص116]."
+sources:
+  - source: "diwan-nabigha"
+    loc: "ص115"
+    url: "https://archive.org/details/3409pdf_202001/page/n114/mode/1up"
+  - source: "diwan-nabigha"
+    loc: "ص116"
+    url: "https://archive.org/details/3409pdf_202001/page/n115/mode/1up"
+status: "review"

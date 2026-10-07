@@ -1,0 +1,17 @@
+explained: false
+first: "وَلَّوْا وَكَبْشُهُمُ يَكْبُو لِجَبْهَتِهِ"
+second: "عِنْدَ الْكُمَاةِ صَرِيعًا جَوْفُهُ دَامِ"
+vocabulary:
+  - term: "وَلَّوْا"
+    text: "«أي فرّوا منهزمين لمّا قُتِل كبشُهم، وهو رئيسهم» [@diwan-nabigha، ص85]."
+  - term: "يَكْبُو لِجَبْهَتِهِ"
+    text: "«أي يسقط على جبهته» [@diwan-nabigha، ص85]."
+  - term: "الْكُمَاةِ"
+    text: "«الشجعان، واحدهم كَمِيّ» [@diwan-nabigha، ص85]."
+  - term: "جَوْفُهُ دَامِ"
+    text: "«أي يسيل دمًا من الطعان» [@diwan-nabigha، ص85]."
+sources:
+  - source: "diwan-nabigha"
+    loc: "ص85"
+    url: "https://archive.org/details/3409pdf_202001/page/n84/mode/1up"
+status: "review"

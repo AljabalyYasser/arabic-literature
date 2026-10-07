@@ -1,0 +1,15 @@
+explained: false
+first: "لَا يَخْفِضُ الرِّزَّ عَنْ أَرْضٍ أَلَمَّ بِهَا"
+second: "وَلَا يَضِلُّ عَلَى مِصْبَاحِهِ السَّارِي"
+vocabulary:
+  - term: "الرِّزَّ"
+    text: "«الصوت، يعني أنه جيش منيع واثق بكثرته، فهو لا يخفض صوته مخافة أن يشعر بمكانه» [@diwan-nabigha، ص78]."
+  - term: "أَلَمَّ بِهَا"
+    text: "«أي نزل بها» [@diwan-nabigha، ص78]."
+  - term: "وَلَا يَضِلُّ عَلَى مِصْبَاحِهِ السَّارِي"
+    text: "«أي نيرانه كثيرة، فالساري يهتدي بضوئها» [@diwan-nabigha، ص78]، والساري الذي يسير ليلًا."
+sources:
+  - source: "diwan-nabigha"
+    loc: "ص78"
+    url: "https://archive.org/details/3409pdf_202001/page/n77/mode/1up"
+status: "review"

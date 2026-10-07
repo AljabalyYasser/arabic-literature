@@ -1,0 +1,17 @@
+explained: false
+first: "فَإِنْ تَكُ قَدْ وَدَّعْتَ غَيْرَ مُذَمَّمٍ"
+second: "أَوَاهِيَ مُلْكٍ ثَبَّتَتْهَا الْأَوَائِلُ"
+vocabulary:
+  - term: "وَدَّعْتَ"
+    text: "«ومعنى «ودّعت» فارقت» [@diwan-nabigha، ص120]."
+  - term: "غَيْرَ مُذَمَّمٍ"
+    text: "غير مذموم في ملكه."
+  - term: "أَوَاهِيَ مُلْكٍ"
+    text: "دعائم الملك، «والأواهي جمع واهية، وهي الدعامة» [@diwan-nabigha، ص120]."
+  - term: "ثَبَّتَتْهَا الْأَوَائِلُ"
+    text: "«يعني أن مُلكَه [فيهم] متوارَث» [@diwan-nabigha، ص120]، أي ثبّتها آباؤه."
+sources:
+  - source: "diwan-nabigha"
+    loc: "ص120"
+    url: "https://archive.org/details/3409pdf_202001/page/n119/mode/1up"
+status: "review"

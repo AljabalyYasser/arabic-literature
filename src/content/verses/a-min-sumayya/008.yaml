@@ -1,0 +1,19 @@
+explained: false
+first: "لَا شَكَّ لِلْمَرْءِ أَنَّ الدَّهْرَ ذُو خَلَفٍ"
+second: "فِيهِ تَفَرَّقُ ذُو إِلْفٍ وَمَأْلُوفُ"
+vocabulary:
+- term: "ذُو خَلَفٍ"
+  text: "يذهب فيه شيء ويجيء آخر مكانه، من قولهم: «وخَلَفَتِ الفاكهةُ بعضُها بَعْضًا خَلَفاً وخِلْفَةً إِذَا صَارَتْ خَلَفاً مِنَ الأُولى» [@lisan، ج9 ص86]."
+- term: "تَفَرَّقُ ذُو إِلْفٍ وَمَأْلُوفُ"
+  text: "يتفرّق فيه الأليف ومن يألفه، و«الإِلْف: الأَلِيفُ» [@lisan، ج9 ص11]. و«تَفَرَّقُ» أصلها تَتَفَرَّق."
+sources:
+- source: "diwan-antara"
+  loc: "ص271"
+  url: "https://archive.org/details/3562pdf/page/n276/mode/1up"
+- source: "lisan"
+  loc: "ج9 ص86"
+  url: "https://shamela.ws/book/1687/4393"
+- source: "lisan"
+  loc: "ج9 ص11"
+  url: "https://shamela.ws/book/1687/4318"
+status: "review"

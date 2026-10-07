@@ -1,0 +1,15 @@
+explained: false
+first: "أُسَائِلُ عَنْ سُعْدَى وَقَدْ مَرَّ بَعْدَنَا"
+second: "عَلَى عَرَصَاتِ الدَّارِ سَبْعٌ كَوَامِلُ"
+vocabulary:
+  - term: "سُعْدَى"
+    text: "اسم صاحبته، يذكر «منازل سُعْدى» [@diwan-nabigha، ص115]."
+  - term: "عَرَصَاتِ الدَّارِ"
+    text: "«العرصات: جمع عَرْصة، وهي كلّ فَجْوة ليس فيها بناء» [@diwan-nabigha، ص115]."
+  - term: "سَبْعٌ كَوَامِلُ"
+    text: "«أي سبع سنين كوامل لم ينقص منها شيء؛ وإنما يصف طُول عهد الديار بالأنيس» [@diwan-nabigha، ص115]."
+sources:
+  - source: "diwan-nabigha"
+    loc: "ص115"
+    url: "https://archive.org/details/3409pdf_202001/page/n114/mode/1up"
+status: "review"

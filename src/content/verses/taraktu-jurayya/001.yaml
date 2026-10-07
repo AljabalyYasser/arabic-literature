@@ -1,0 +1,15 @@
+explained: false
+first: "تَرَكْتُ جُرَيَّةَ الْعَمْرِيَّ فِيهِ"
+second: "شَدِيدُ الْعَيْرِ مُعْتَدِلٌ سَدِيدُ"
+vocabulary:
+- term: "الْعَمْرِيَّ"
+  text: "«العمري رجل من بني عمرو بن الهجيم» [@diwan-antara، ص282]."
+- term: "فِيهِ شَدِيدُ الْعَيْرِ"
+  text: "تركت فيه نصلًا شديد العَيْر، «والعير هاهنا ارتفاع في وسط النصل»، «وأراد نصلا شديد العير» [@diwan-antara، ص282]."
+- term: "سَدِيدُ"
+  text: "«والسديد المقوم» [@diwan-antara، ص282]."
+sources:
+- source: "diwan-antara"
+  loc: "ص282"
+  url: "https://archive.org/details/3562pdf/page/n287/mode/1up"
+status: "review"

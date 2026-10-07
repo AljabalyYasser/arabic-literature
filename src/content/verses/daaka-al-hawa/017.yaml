@@ -1,0 +1,20 @@
+explained: false
+first: "يَقُولُ رِجَالٌ يُنْكِرُونَ خَلِيقَتِي"
+second: "لَعَلَّ زِيَادًا لَا أَبَا لَكَ غَافِلُ"
+vocabulary:
+  - term: "خَلِيقَتِي"
+    text: "«الخليقة: الطبيعة» [@diwan-nabigha، ص119]."
+  - term: "زِيَادًا"
+    text: "«وزياد: اسم النابغة» [@diwan-nabigha، ص119]."
+  - term: "لَا أَبَا لَكَ"
+    text: "«قولهم لا أبا لك كلمة تفصل بها العرب كلامها» [@lisan، ج14 ص13]، أي تعترض بها في وسط الكلام."
+  - term: "غَافِلُ"
+    text: "ناسٍ للنعمان لا يذكره."
+sources:
+  - source: "diwan-nabigha"
+    loc: "ص119"
+    url: "https://archive.org/details/3409pdf_202001/page/n118/mode/1up"
+  - source: "lisan"
+    loc: "ج14 ص13"
+    url: "https://shamela.ws/book/1687/7137"
+status: "review"

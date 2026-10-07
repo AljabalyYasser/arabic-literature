@@ -1,0 +1,17 @@
+explained: false
+first: "إِذَا جَاهَدَتْهُ الشَّدَّ جَدَّ وَإِنْ وَنَتْ"
+second: "تَسَاقَطَ لَا وَانٍ وَلَا مُتَخَاذِلُ"
+vocabulary:
+  - term: "جَاهَدَتْهُ الشَّدَّ"
+    text: "عارضته وجهدت نفسها في العدو، و«الشدّ: العدو الشديد» [@diwan-nabigha، ص117]."
+  - term: "وَنَتْ"
+    text: "«فترت وأعيت» [@diwan-nabigha، ص117]."
+  - term: "تَسَاقَطَ"
+    text: "«أي ترك من عدوه من غير أن يني ويفتر» [@diwan-nabigha، ص117]."
+  - term: "مُتَخَاذِلُ"
+    text: "«الذي يخذل بعضُ خَلْقه بعضًا برخاوته» [@diwan-nabigha، ص117]."
+sources:
+  - source: "diwan-nabigha"
+    loc: "ص117"
+    url: "https://archive.org/details/3409pdf_202001/page/n116/mode/1up"
+status: "review"

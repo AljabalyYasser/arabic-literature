@@ -1,0 +1,15 @@
+explained: false
+first: "لَهُمْ لِوَاءٌ بِكَفَّيْ مَاجِدٍ بَطَلٍ"
+second: "لَا يَقْطَعُ الْخَرْقَ إِلَّا طَرْفُهُ سَامِ"
+vocabulary:
+  - term: "لِوَاءٌ"
+    text: "راية."
+  - term: "الْخَرْقَ"
+    text: "«الأرض الواسعة التي تنخرق فيها الرياح» [@diwan-nabigha، ص84]."
+  - term: "إِلَّا طَرْفُهُ سَامِ"
+    text: "«أي ليس بكليل البصر ولا جزوع على السفر، ولكنه صبورٌ جَلْد؛ فطرفُه سامٍ مرتفع» [@diwan-nabigha، ص84]."
+sources:
+  - source: "diwan-nabigha"
+    loc: "ص84"
+    url: "https://archive.org/details/3409pdf_202001/page/n83/mode/1up"
+status: "review"

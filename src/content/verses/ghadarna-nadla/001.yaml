@@ -1,0 +1,15 @@
+explained: false
+first: "غَادَرْنَ نَضْلَةَ فِي مَعْرَكٍ"
+second: "يَجُرُّ الْأَسِنَّةَ كَالْمُحْتَطِبْ"
+vocabulary:
+- term: "غَادَرْنَ"
+  text: "تركن، والفاعل الخيل: «يقول: غادرت الخيل نضلة والرماح فيه» [@diwan-antara، ص293]."
+- term: "مَعْرَكٍ"
+  text: "«والمعرك موضع القتال» [@diwan-antara، ص293]."
+- term: "يَجُرُّ الْأَسِنَّةَ كَالْمُحْتَطِبْ"
+  text: "الرماح فيه، «يجرها كما يجر المحتطب» الحطب [@diwan-antara، ص293]."
+sources:
+- source: "diwan-antara"
+  loc: "ص293"
+  url: "https://archive.org/details/3562pdf/page/n293/mode/1up"
+status: "review"

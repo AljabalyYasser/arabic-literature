@@ -1,0 +1,18 @@
+explained: false
+first: "أَمِنْ سُمَيَّةَ دَمْعُ الْعَيْنِ تَذْرِيفُ"
+second: "لَوْ أَنَّ ذَا مِنْكِ قَبْلَ الْيَوْمِ مَعْرُوفُ"
+vocabulary:
+- term: "سُمَيَّةَ"
+  text: "امرأة أبيه، وقيل: سُهَيّة [@aghani-dk، ج8 ص237]."
+- term: "تَذْرِيفُ"
+  text: "«التذريف سيلان الدمع وهو مصدر وضعه موضع الصفة» [@diwan-antara، ص270]: أي دمع العين ذارف."
+- term: "لَوْ أَنَّ ذَا مِنْكِ قَبْلَ الْيَوْمِ مَعْرُوفُ"
+  text: "تمنٍّ، قال الأَعْلَم: «أي ليتني عرفت منها هذا البكاء والإشفاق علي قبل اليوم» [@diwan-antara، ص270]."
+sources:
+- source: "diwan-antara"
+  loc: "ص270"
+  url: "https://archive.org/details/3562pdf/page/n275/mode/1up"
+- source: "aghani-dk"
+  loc: "ج8 ص237"
+  url: "https://archive.org/details/aghani2014/8/page/n236/mode/1up"
+status: "review"

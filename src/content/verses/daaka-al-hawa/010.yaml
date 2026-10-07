@@ -1,0 +1,15 @@
+explained: false
+first: "وَإِنْ هَبَطَا سَهْلًا أَثَارَا عَجَاجَةً"
+second: "وَإِنْ عَلَوَا حَزْنًا تَشَظَّتْ جَنَادِلُ"
+vocabulary:
+  - term: "عَجَاجَةً"
+    text: "غبارًا، «أي استخرجا ورفعا غبارًا من وقع حوافرهما» [@diwan-nabigha، ص117]."
+  - term: "حَزْنًا"
+    text: "«ما غلُظ من الأرض» [@diwan-nabigha، ص117]."
+  - term: "تَشَظَّتْ جَنَادِلُ"
+    text: "تكسّرت الحجارة، «ومعنى «تشظّت» تكسّرت فصارت شظايا؛ من شدة وقع حوافرها» [@diwan-nabigha، ص117]."
+sources:
+  - source: "diwan-nabigha"
+    loc: "ص117"
+    url: "https://archive.org/details/3409pdf_202001/page/n116/mode/1up"
+status: "review"

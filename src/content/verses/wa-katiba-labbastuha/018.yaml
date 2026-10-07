@@ -1,0 +1,16 @@
+explained: false
+first: "أَغْشَى فَتَاةَ الْحَيِّ عِنْدَ حَلِيلِهَا"
+second: "وَإِذَا غَزَا فِي الْجَيْشِ لَا أَغْشَاهَا"
+vocabulary:
+- term: "أَغْشَى"
+  text: "«أي أزورها واصلا لرحمها ما دام حليلها معها، فإن خرج غازيا لم أغشها» [@diwan-antara، ص308]."
+- term: "حَلِيلِهَا"
+  text: "زوجها، «والحَلِيل والحَلِيلة: الزَّوْجان» [@lisan، ج11 ص164]."
+sources:
+- source: "diwan-antara"
+  loc: "ص308"
+  url: "https://archive.org/details/3562pdf/page/n313/mode/1up"
+- source: "lisan"
+  loc: "ج11 ص164"
+  url: "https://shamela.ws/book/1687/5346"
+status: "review"

@@ -1,0 +1,16 @@
+explained: false
+first: "فَإِنَّكَ سَوْفَ تَحْلُمُ أَوْ تَنَاهَى"
+second: "إِذَا مَا شِبْتَ أَوْ شَابَ الْغُرَابُ"
+vocabulary:
+  - term: "تَنَاهَى"
+    text: "تنتهي عن الجهل."
+  - term: "أَوْ شَابَ الْغُرَابُ"
+    text: "«أي لا تحلم أبدًا، كما أن الغراب لا يشيب، وإنما هذا هُزُؤٌ منه به وذمٌّ» [@diwan-nabigha، ص110]."
+sources:
+  - source: "diwan-nabigha"
+    loc: "ص109"
+    url: "https://archive.org/details/3409pdf_202001/page/n108/mode/1up"
+  - source: "diwan-nabigha"
+    loc: "ص110"
+    url: "https://archive.org/details/3409pdf_202001/page/n109/mode/1up"
+status: "review"

@@ -1,0 +1,20 @@
+explained: false
+first: "لَا أَعْرِفَنْ رَبْرَبًا حُورًا مَدَامِعُهَا"
+second: "كَأَنَّ أَبْكَارَهَا نِعَاجُ دَوَّارِ"
+vocabulary:
+  - term: "لَا أَعْرِفَنْ"
+    text: "«كأنه نهى نفسه، وإنما يريد: لا تقيموا في هذا الموضع فتُسبى نساؤكم، فأعرف ذلك فيكم» [@diwan-nabigha، ص76]."
+  - term: "رَبْرَبًا"
+    text: "«القطيع من البقر، شبّه النساءَ به في حسن العيون وسكون المشي» [@diwan-nabigha، ص75]."
+  - term: "مَدَامِعُهَا"
+    text: "«العيون، وهي مواضع الدمع» [@diwan-nabigha، ص75]."
+  - term: "نِعَاجُ دَوَّارِ"
+    text: "«والنِّعاج: إناث البقر. ودَوّار: موضع» [@diwan-nabigha، ص75]، «سجن باليمامة» [@diwan-nabigha، ص76]."
+sources:
+  - source: "diwan-nabigha"
+    loc: "ص75"
+    url: "https://archive.org/details/3409pdf_202001/page/n74/mode/1up"
+  - source: "diwan-nabigha"
+    loc: "ص76"
+    url: "https://archive.org/details/3409pdf_202001/page/n75/mode/1up"
+status: "review"

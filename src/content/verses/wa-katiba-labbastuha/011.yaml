@@ -1,0 +1,13 @@
+explained: false
+first: "وَلَقِيتُ فِي قُبُلِ الْهَجِيرِ كَتِيبَةً"
+second: "فَطَعَنْتُ أَوَّلَ فَارِسٍ أُولَاهَا"
+vocabulary:
+- term: "قُبُلِ الْهَجِيرِ"
+  text: "«يقول: لقيت في استقبال الهاجرة كتيبة» [@diwan-antara، ص306]."
+- term: "أَوَّلَ فَارِسٍ أُولَاهَا"
+  text: "«وأولاها مقدمتها، وأراد أول فارس من أولاها، فحذف حرف الجر» [@diwan-antara، ص306]."
+sources:
+- source: "diwan-antara"
+  loc: "ص306"
+  url: "https://archive.org/details/3562pdf/page/n311/mode/1up"
+status: "review"

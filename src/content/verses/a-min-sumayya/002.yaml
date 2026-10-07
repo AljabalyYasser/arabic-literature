@@ -1,0 +1,17 @@
+explained: false
+first: "كَأَنَّهَا يَوْمَ صَدَّتْ مَا تُكَلِّمُنِي"
+second: "ظَبْيٌ بِعُسْفَانَ سَاجِي الطَّرْفِ مَطْرُوفُ"
+vocabulary:
+- term: "صَدَّتْ"
+  text: "«معنى صدت أعرضت» [@diwan-antara، ص270]."
+- term: "عُسْفَانَ"
+  text: "«موضع بمكة» [@diwan-antara، ص270]."
+- term: "سَاجِي الطَّرْفِ"
+  text: "«الساجي الفاتر النظر» [@diwan-antara، ص270]."
+- term: "مَطْرُوفُ"
+  text: "«والمطروف الذي طرفت عينه بثوب أو غير ذلك» فيفتر نظرها [@diwan-antara، ص270]."
+sources:
+- source: "diwan-antara"
+  loc: "ص270"
+  url: "https://archive.org/details/3562pdf/page/n275/mode/1up"
+status: "review"

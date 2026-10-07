@@ -1,0 +1,15 @@
+explained: false
+first: "يَسِيرُ بِهَا النُّعْمَانُ تَغْلِي قُدُورُهُ"
+second: "تَجِيشُ بِأَسْبَابِ الْمَنَايَا الْمَرَاجِلُ"
+vocabulary:
+  - term: "تَغْلِي قُدُورُهُ"
+    text: "«هذا مثلٌ ضربه لشدّة حربه، وقوته على العدوّ» [@diwan-nabigha، ص118]."
+  - term: "تَجِيشُ"
+    text: "«يرتفع زبدُها، ويشتدّ غليُها» [@diwan-nabigha، ص118]."
+  - term: "الْمَرَاجِلُ"
+    text: "«القُدُور من نحاس كانت أو من حجارة، واحدها مِرْجَل» [@diwan-nabigha، ص118]."
+sources:
+  - source: "diwan-nabigha"
+    loc: "ص118"
+    url: "https://archive.org/details/3409pdf_202001/page/n117/mode/1up"
+status: "review"

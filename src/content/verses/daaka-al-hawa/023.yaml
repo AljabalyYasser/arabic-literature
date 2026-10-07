@@ -1,0 +1,13 @@
+explained: false
+first: "فَمَا كَانَ بَيْنَ الْخَيْرِ لَوْ جَاءَ سَالِمًا"
+second: "أَبُو حُجُرٍ إِلَّا لَيَالٍ قَلَائِلُ"
+vocabulary:
+  - term: "أَبُو حُجُرٍ"
+    text: "«كنية النعمان بن الحارث» [@diwan-nabigha، ص120]."
+  - term: "لَوْ جَاءَ سَالِمًا"
+    text: "«يقول: لو سلِم من الموت لكان أي الخِصب والخير مع حياته وسلامته» [@diwan-nabigha، ص120]، أي ما كان بينه وبين الخير إلا ليالٍ يعود فيها."
+sources:
+  - source: "diwan-nabigha"
+    loc: "ص120"
+    url: "https://archive.org/details/3409pdf_202001/page/n119/mode/1up"
+status: "review"

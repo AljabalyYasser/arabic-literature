@@ -1,0 +1,15 @@
+explained: false
+first: "وَلَا تَذْهَبْ بِحِلْمِكَ طَامِيَاتٌ"
+second: "مِنَ الْخُيَلَاءِ لَيْسَ لَهُنَّ بَابُ"
+vocabulary:
+  - term: "طَامِيَاتٌ"
+    text: "«المرتفعات، يقال: طما الماءُ، إذا علا وارتفع» [@diwan-nabigha، ص109]."
+  - term: "الْخُيَلَاءِ"
+    text: "«التكبّر والبطَر» [@diwan-nabigha، ص109]."
+  - term: "لَيْسَ لَهُنَّ بَابُ"
+    text: "«أي لا آخر لهنّ ولا منتهى» [@diwan-nabigha، ص109]."
+sources:
+  - source: "diwan-nabigha"
+    loc: "ص109"
+    url: "https://archive.org/details/3409pdf_202001/page/n108/mode/1up"
+status: "review"

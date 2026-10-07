@@ -1,0 +1,15 @@
+explained: false
+first: "كَالدُّرِّ أَوْ فَضَضِ الْجُمَانِ تَقَطَّعَتْ"
+second: "مِنْهُ عَقَائِدُ سِلْكِهِ لَمْ يُوصَلِ"
+vocabulary:
+- term: "كَالدُّرِّ"
+  text: "يعني دموعه: «شبه دموعه في انحدارها بدر أو جمان انقطع سلكه» [@diwan-antara، ص247]."
+- term: "فَضَضِ الْجُمَانِ"
+  text: "«والجمان حب من فضة وتصاغ كالدر، والفضض ما انقطع سلكه» [@diwan-antara، ص247]."
+- term: "عَقَائِدُ سِلْكِهِ"
+  text: "«وعقائد جمع عقيدة بمعنى معقود، والسلك خيط النظام» [@diwan-antara، ص247]."
+sources:
+- source: "diwan-antara"
+  loc: "ص247"
+  url: "https://archive.org/details/3562pdf/page/n252/mode/1up"
+status: "review"
