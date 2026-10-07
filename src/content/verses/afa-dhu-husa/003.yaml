@@ -1,0 +1,13 @@
+explained: false
+first: "تَوَهَّمْتُ آيَاتٍ لَهَا فَعَرَفْتُهَا"
+second: "لِسِتَّةِ أَعْوَامٍ وَذَا الْعَامُ سَابِعُ"
+vocabulary:
+  - term: "آيَاتٍ"
+    text: "«علامات الدار التي تُعرف بها» [@diwan-nabigha، ص30]."
+  - term: "لِسِتَّةِ أَعْوَامٍ"
+    text: "«يريد بعد ستة أعوام، كما يقال: كتبتُ لليلةٍ خلتْ من الشهر، أي بعد ليلة» [@diwan-nabigha، ص30]."
+sources:
+  - source: "diwan-nabigha"
+    loc: "ص30"
+    url: "https://archive.org/details/3409pdf_202001/page/n29/mode/1up"
+status: "review"

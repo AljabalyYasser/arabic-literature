@@ -1,0 +1,13 @@
+explained: false
+first: "زَعَمَ الْهُمَامُ وَلَمْ أَذُقْهُ أَنَّهُ"
+second: "يُشْفَى بِرَيَّا رِيقِهَا الْعَطِشُ الصَّدِي"
+vocabulary:
+  - term: "بِرَيَّا"
+    text: "«الرَّيّا: الريح الطيّبة» [@diwan-nabigha، ص95]."
+  - term: "الصَّدِي"
+    text: "«الشديد العطش، وصف ريقها بطيب الرائحة وشدة البرد، حتى لو استنكهها الشديد العطش لذهب عطشه» [@diwan-nabigha، ص95]."
+sources:
+  - source: "diwan-nabigha"
+    loc: "ص95"
+    url: "https://archive.org/details/3409pdf_202001/page/n94/mode/1up"
+status: "review"

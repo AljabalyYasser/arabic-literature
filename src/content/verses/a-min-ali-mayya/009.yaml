@@ -1,0 +1,21 @@
+explained: false
+first: "نَظَرَتْ بِمُقْلَةِ شَادِنٍ مُتَرَبِّبٍ"
+second: "أَحْوَى أَحَمِّ الْمُقْلَتَيْنِ مُقَلَّدِ"
+vocabulary:
+  - term: "مُقْلَةِ"
+    text: "العين."
+  - term: "شَادِنٍ"
+    text: "«الشادن من أولاد الظباء: الذي قد شدن وقوي على المشي» [@diwan-nabigha، ص91]."
+  - term: "مُتَرَبِّبٍ"
+    text: "الذي رُبّي في البيت. قال الأَعْلَم: «شبّه الجارية بالغزال ربّته الجواري وزيّنته» [@diwan-nabigha، ص91]."
+  - term: "أَحْوَى"
+    text: "«الذي به خطّتان سوداوان وكذلك الظباء» [@diwan-nabigha، ص91]."
+  - term: "أَحَمِّ"
+    text: "«والأحمّ: الأسود» [@diwan-nabigha، ص91]."
+  - term: "مُقَلَّدِ"
+    text: "«الذي زُيِّن بالحلي وقلائد اللؤلؤ» [@diwan-nabigha، ص91]."
+sources:
+  - source: "diwan-nabigha"
+    loc: "ص91"
+    url: "https://archive.org/details/3409pdf_202001/page/n90/mode/1up"
+status: "review"

@@ -1,0 +1,15 @@
+explained: false
+first: "وَالْبَطْنُ ذُو عُكَنٍ لَطِيفٌ طَيُّهُ"
+second: "وَالنَّحْرُ تَنْفُجُهُ بِثَدْيٍ مُقْعَدِ"
+vocabulary:
+  - term: "ذُو عُكَنٍ"
+    text: "العُكَن طيّات البطن. قال الأَعْلَم: «أي مُهَفْهَفة خميصة البطن، ولو كانت مُفاضة عظيمة لم يكن لها عُكَن» [@diwan-nabigha، ص92]."
+  - term: "تَنْفُجُهُ"
+    text: "«أي تُعليه وترفعه» [@diwan-nabigha، ص92]."
+  - term: "مُقْعَدِ"
+    text: "«والمُقعَد: الغليظ الأصل في أول قعوده، الذي لم يسترخ» [@diwan-nabigha، ص92]."
+sources:
+  - source: "diwan-nabigha"
+    loc: "ص92"
+    url: "https://archive.org/details/3409pdf_202001/page/n91/mode/1up"
+status: "review"

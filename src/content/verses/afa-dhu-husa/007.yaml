@@ -1,0 +1,18 @@
+explained: false
+first: "فَكَفْكَفْتُ مِنِّي عَبْرَةً فَرَدَدْتُهَا"
+second: "عَلَى النَّحْرِ مِنْهَا مُسْتَهِلٌّ وَدَامِعُ"
+vocabulary:
+  - term: "فَكَفْكَفْتُ"
+    text: "رددتُ الدمع. قال الأَعْلَم: «وهو من كفّ يكفّ، فكّ التضعيف فأبدل من إحدى الفاءات كافًا» [@diwan-nabigha، ص31]."
+  - term: "مُسْتَهِلٌّ"
+    text: "«السائل المتصبّب» [@diwan-nabigha، ص31]."
+  - term: "وَدَامِعُ"
+    text: "«المترقرق في العين قبل أن ينصبّ» [@diwan-nabigha، ص31]. وقال الأَعْلَم في معنى البيت: «يصف أنه بكى لتغيّر الدار وتذكّر الأحبة، ثم ازدجر عن ذلك بما علم من شيبه وكبره» [@diwan-nabigha، ص32]."
+sources:
+  - source: "diwan-nabigha"
+    loc: "ص31"
+    url: "https://archive.org/details/3409pdf_202001/page/n30/mode/1up"
+  - source: "diwan-nabigha"
+    loc: "ص32"
+    url: "https://archive.org/details/3409pdf_202001/page/n31/mode/1up"
+status: "review"

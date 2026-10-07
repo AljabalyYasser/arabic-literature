@@ -1,0 +1,20 @@
+explained: false
+first: "عَلَيْهِنَّ شُعْثٌ عَامِدُونَ لِحَجِّهِمْ"
+second: "فَهُنَّ كَأَطْرَافِ الْحَنِيِّ خَوَاضِعُ"
+vocabulary:
+  - term: "شُعْثٌ"
+    text: "«أي متغيّرون من السفر» [@diwan-nabigha، ص36]، والأشعث المغبرّ الشعر."
+  - term: "عَامِدُونَ لِحَجِّهِمْ"
+    text: "قاصدون حجّهم."
+  - term: "كَأَطْرَافِ الْحَنِيِّ"
+    text: "«والحَنِيّ: القِسِيّ، واحدتها حَنِيّة؛ سُمّيت بذلك لأنها معطوفة الطرفين» [@diwan-nabigha، ص37]. يريد أن الإبل «ضامرة دقيقة من شدّة السير والجهد معوجّة» [@diwan-nabigha، ص37]."
+  - term: "خَوَاضِعُ"
+    text: "«أي خواشع ذليلة من الجهد» [@diwan-nabigha، ص37]."
+sources:
+  - source: "diwan-nabigha"
+    loc: "ص36"
+    url: "https://archive.org/details/3409pdf_202001/page/n35/mode/1up"
+  - source: "diwan-nabigha"
+    loc: "ص37"
+    url: "https://archive.org/details/3409pdf_202001/page/n36/mode/1up"
+status: "review"

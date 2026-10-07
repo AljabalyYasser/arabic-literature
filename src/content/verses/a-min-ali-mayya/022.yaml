@@ -1,0 +1,13 @@
+explained: false
+first: "زَعَمَ الْهُمَامُ بِأَنَّ فَاهَا بَارِدٌ"
+second: "عَذْبٌ مُقَبَّلُهُ شَهِيُّ الْمَوْرِدِ"
+vocabulary:
+  - term: "الْهُمَامُ"
+    text: "«يعني النعمان بن المنذر؛ لأنه كان يصف امرأته المتجردة. والهمام: السيد، سمّي بذلك لأنه إذا همّ بأمرٍ أمضاه» [@diwan-nabigha، ص95]."
+  - term: "الْمَوْرِدِ"
+    text: "موضع الورود، والمراد الفم."
+sources:
+  - source: "diwan-nabigha"
+    loc: "ص95"
+    url: "https://archive.org/details/3409pdf_202001/page/n94/mode/1up"
+status: "review"

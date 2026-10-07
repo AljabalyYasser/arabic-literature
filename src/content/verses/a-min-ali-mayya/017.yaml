@@ -1,0 +1,16 @@
+explained: false
+first: "سَقَطَ النَّصِيفُ وَلَمْ تُرِدْ إِسْقَاطَهُ"
+second: "فَتَنَاوَلَتْهُ وَاتَّقَتْنَا بِالْيَدِ"
+vocabulary:
+  - term: "النَّصِيفُ"
+    text: "«نصف خمار أو نصف ثوب يُعتجر به» [@diwan-nabigha، ص93]، أي يُلفّ على الرأس."
+  - term: "وَاتَّقَتْنَا بِالْيَدِ"
+    text: "سترت وجهها عنا بيدها. وفي رأس القصيدة عند الأَعْلَم أنها فاجأته «فسقط نصيفها عنها، فغطّت وجهها بمعصمها» [@diwan-nabigha، ص89]."
+sources:
+  - source: "diwan-nabigha"
+    loc: "ص93"
+    url: "https://archive.org/details/3409pdf_202001/page/n92/mode/1up"
+  - source: "diwan-nabigha"
+    loc: "ص89"
+    url: "https://archive.org/details/3409pdf_202001/page/n88/mode/1up"
+status: "review"

@@ -1,0 +1,13 @@
+explained: false
+first: "وَلَقَدْ أَصَابَ فُؤَادَهُ مِنْ حُبِّهَا"
+second: "عَنْ ظَهْرِ مِرْنَانٍ بِسَهْمٍ مُصْرِدِ"
+vocabulary:
+  - term: "مِرْنَانٍ"
+    text: "«مِفعال من الرنين، وهو صوت القوس عند الرمي، يريد رمَتْنا عن ظهر قوس» [@diwan-nabigha، ص91]."
+  - term: "مُصْرِدِ"
+    text: "«والمُصرِد: المنفذ. ويقال: صَرِد السهم، وأصردتُه أنا، إذا أنفذته» [@diwan-nabigha، ص91]."
+sources:
+  - source: "diwan-nabigha"
+    loc: "ص91"
+    url: "https://archive.org/details/3409pdf_202001/page/n90/mode/1up"
+status: "review"

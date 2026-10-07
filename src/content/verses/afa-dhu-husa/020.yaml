@@ -1,0 +1,13 @@
+explained: false
+first: "أَتَاكَ بِقَوْلٍ لَمْ أَكُنْ لِأَقُولَهُ"
+second: "وَلَوْ كُبِلَتْ فِي سَاعِدَيَّ الْجَوَامِعُ"
+vocabulary:
+  - term: "كُبِلَتْ"
+    text: "«أي جُمعت وشُدّت؛ أخذه من الكَبْل وهو القيد» [@diwan-nabigha، ص35]."
+  - term: "الْجَوَامِعُ"
+    text: "«الأغلال، والواحدة جامعة» [@diwan-nabigha، ص35]. وقال الأَعْلَم في الشطر: «أي لو كنت مجنونًا حتى أُشدّ بالحديد ما قلت ما بلغك عني» [@diwan-nabigha، ص35]."
+sources:
+  - source: "diwan-nabigha"
+    loc: "ص35"
+    url: "https://archive.org/details/3409pdf_202001/page/n34/mode/1up"
+status: "review"

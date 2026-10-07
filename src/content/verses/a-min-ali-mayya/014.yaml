@@ -1,0 +1,23 @@
+explained: false
+first: "قَامَتْ تَرَاءَى بَيْنَ سِجْفَيْ كِلَّةٍ"
+second: "كَالشَّمْسِ يَوْمَ طُلُوعِهَا بِالْأَسْعُدِ"
+vocabulary:
+  - term: "تَرَاءَى"
+    text: "تتراءى. قال الأَعْلَم: «أي تعرض لنا نفسها وتتظاهر» [@diwan-nabigha، ص92]."
+  - term: "سِجْفَيْ"
+    text: "السِّجفان مصراعا الستر. قال الأَعْلَم: «والسِّجف: الستر المشقوق الوسط» [@diwan-nabigha، ص92]."
+  - term: "كِلَّةٍ"
+    text: "«والكِلَّة: السِّتر الرَّقِيقُ يُخاط كَالْبَيْتِ» [@lisan، ج11 ص595]."
+  - term: "بِالْأَسْعُدِ"
+    text: "جمع سَعْد، و«السَّعْد: اليُمْن، وَهُوَ نَقِيضُ النَّحْس» [@lisan، ج3 ص213]. قال الأَعْلَم: «وجعل طلوع الشمس بالأسعد؛ ليكون ذلك أتمّ للتشبيه، وأبلغ في الوصف» [@diwan-nabigha، ص92]."
+sources:
+  - source: "diwan-nabigha"
+    loc: "ص92"
+    url: "https://archive.org/details/3409pdf_202001/page/n91/mode/1up"
+  - source: "lisan"
+    loc: "ج11 ص595"
+    url: "https://shamela.ws/book/1687/5773"
+  - source: "lisan"
+    loc: "ج3 ص213"
+    url: "https://shamela.ws/book/1687/1655"
+status: "review"

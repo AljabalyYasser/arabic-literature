@@ -1,0 +1,15 @@
+explained: false
+first: "فَإِنْ كُنْتُ لَا ذُو الضِّغْنِ عَنِّي مُكَذَّبٌ"
+second: "وَلَا حَلِفِي عَلَى الْبَرَاءَةِ نَافِعُ"
+vocabulary:
+  - term: "الضِّغْنِ"
+    text: "«الحقد والعداوة» [@diwan-nabigha، ص37]."
+  - term: "ذُو الضِّغْنِ عَنِّي مُكَذَّبٌ"
+    text: "أي لا يكذّبه أحد فيما يقوله عني، فقوله مقبول عندك."
+  - term: "الْبَرَاءَةِ"
+    text: "البراءة مما رُميتُ به."
+sources:
+  - source: "diwan-nabigha"
+    loc: "ص37"
+    url: "https://archive.org/details/3409pdf_202001/page/n36/mode/1up"
+status: "review"

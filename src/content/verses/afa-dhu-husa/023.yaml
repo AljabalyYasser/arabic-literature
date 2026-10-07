@@ -1,0 +1,19 @@
+explained: false
+first: "سِمَامًا تُبَارِي الرِّيحَ خُوصًا عُيُونُهَا"
+second: "لَهُنَّ رَذَايَا بِالطَّرِيقِ وَدَائِعُ"
+vocabulary:
+  - term: "سِمَامًا"
+    text: "«طيور تشبه السُّمانَى، شديدة الطيران، شبّه الإبل بها في سرعتها» [@diwan-nabigha، ص36]."
+  - term: "تُبَارِي الرِّيحَ"
+    text: "«أي تعارضها لسرعتها» [@diwan-nabigha، ص36]."
+  - term: "خُوصًا عُيُونُهَا"
+    text: "«أي غائرة العيون من الجهد والعناء» [@diwan-nabigha، ص36]."
+  - term: "رَذَايَا"
+    text: "«الساقطة المعيِيَة التي لا تنبعث، فأُخذت رحالها عنها وتُركت» [@diwan-nabigha، ص36]."
+  - term: "وَدَائِعُ"
+    text: "«قد استودعت الطريق، أي تُركت فيه لإعيائها» [@diwan-nabigha، ص36]."
+sources:
+  - source: "diwan-nabigha"
+    loc: "ص36"
+    url: "https://archive.org/details/3409pdf_202001/page/n35/mode/1up"
+status: "review"

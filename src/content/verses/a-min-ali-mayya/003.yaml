@@ -1,0 +1,15 @@
+explained: false
+first: "زَعَمَ الْغُرَابُ بِأَنَّ رِحْلَتَنَا غَدًا"
+second: "وَبِذَاكَ خَبَّرَنَا الْغُدَافُ الْأَسْوَدُ"
+vocabulary:
+  - term: "زَعَمَ الْغُرَابُ"
+    text: "«يعني أن الغراب نعب فأنذر بالرحيل، وكانوا يتطيّرون به، ويسمّونه حاتمًا؛ لأنه يحتم عندهم بالفراق» [@diwan-nabigha، ص89]."
+  - term: "رِحْلَتَنَا"
+    text: "«والرِّحلة: الارتحال» [@diwan-nabigha، ص89]."
+  - term: "الْغُدَافُ"
+    text: "الغراب، والغُداف عند الأَعْلَم «السابغ الريش» [@diwan-nabigha، ص89]، أي الوافر الريش."
+sources:
+  - source: "diwan-nabigha"
+    loc: "ص89"
+    url: "https://archive.org/details/3409pdf_202001/page/n88/mode/1up"
+status: "review"

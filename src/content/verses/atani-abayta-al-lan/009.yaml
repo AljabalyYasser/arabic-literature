@@ -1,0 +1,15 @@
+explained: false
+first: "أَلَمْ تَرَ أَنَّ اللَّهَ أَعْطَاكَ سُورَةً"
+second: "تَرَى كُلَّ مَلْكٍ دُونَهَا يَتَذَبْذَبُ"
+vocabulary:
+  - term: "سُورَةً"
+    text: "«المنزلة الرفيعة» [@diwan-nabigha، ص73]."
+  - term: "مَلْكٍ"
+    text: "مَلِك، بتسكين اللام."
+  - term: "يَتَذَبْذَبُ"
+    text: "«أي يتعلّق ويضطرب، وهذا مثل؛ وإنما يريد أن منازل الملوك دون منزلته، فكأنهم متعلّقون دونه» [@diwan-nabigha، ص73]."
+sources:
+  - source: "diwan-nabigha"
+    loc: "ص73"
+    url: "https://archive.org/details/3409pdf_202001/page/n72/mode/1up"
+status: "review"

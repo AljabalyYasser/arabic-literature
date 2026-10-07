@@ -1,0 +1,13 @@
+explained: false
+first: "بِتَكَلُّمٍ لَوْ تَسْتَطِيعُ كَلَامَهُ"
+second: "لَدَنَتْ لَهُ أَرْوَى الْهِضَابِ الصُّخَّدِ"
+vocabulary:
+  - term: "أَرْوَى"
+    text: "قال الأَعْلَم: «يقول: لو تستطيع الأروى، وهي إناث الوعول، سماع كلام هذه المرأة لنزلت إليه، ودنت منه؛ لحسنه، وأخذه بالقلوب» [@diwan-nabigha، ص96]."
+  - term: "الْهِضَابِ الصُّخَّدِ"
+    text: "«والهضاب: الجبال الصغار، والصُّخَّد: الملس» [@diwan-nabigha، ص96]."
+sources:
+  - source: "diwan-nabigha"
+    loc: "ص96"
+    url: "https://archive.org/details/3409pdf_202001/page/n95/mode/1up"
+status: "review"

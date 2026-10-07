@@ -1,0 +1,15 @@
+explained: false
+first: "أَوْ دُرَّةٍ صَدَفِيَّةٍ غَوَّاصُهَا"
+second: "بَهِجٌ مَتَى يَرَهَا يُهِلَّ وَيَسْجُدِ"
+vocabulary:
+  - term: "صَدَفِيَّةٍ"
+    text: "منسوبة إلى الصَّدَف، وهو «المحار» [@diwan-nabigha، ص92]."
+  - term: "بَهِجٌ"
+    text: "«الفرح المسرور بهذه الدرة لنفاستها» [@diwan-nabigha، ص92]."
+  - term: "يُهِلَّ وَيَسْجُدِ"
+    text: "«أي يرفع صوته بالحمد لله والثناء، ويسجد له شكرًا لما وهبه منها» [@diwan-nabigha، ص92]."
+sources:
+  - source: "diwan-nabigha"
+    loc: "ص92"
+    url: "https://archive.org/details/3409pdf_202001/page/n91/mode/1up"
+status: "review"

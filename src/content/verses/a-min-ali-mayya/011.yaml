@@ -1,0 +1,17 @@
+explained: false
+first: "صَفْرَاءُ كَالسِّيَرَاءِ أُكْمِلَ خَلْقُهَا"
+second: "كَالْغُصْنِ فِي غُلَوَائِهِ الْمُتَأَوِّدِ"
+vocabulary:
+  - term: "صَفْرَاءُ"
+    text: "«يعني أنها تُطلى بالزعفران، وتتطيّب به، وصفها بالنَّعمة وتمكّن الحال» [@diwan-nabigha، ص91]."
+  - term: "كَالسِّيَرَاءِ"
+    text: "«والسِّيَراء: الحريرة الصفراء؛ شبّهها بها لصفرة الطيب، وللين بشرتها ولطافتها» [@diwan-nabigha، ص91]."
+  - term: "غُلَوَائِهِ"
+    text: "«والغُلَواء: ارتفاع الغصن ونماؤه» [@diwan-nabigha، ص91]."
+  - term: "الْمُتَأَوِّدِ"
+    text: "«والمتأوّد: المتثنّي» [@diwan-nabigha، ص91]."
+sources:
+  - source: "diwan-nabigha"
+    loc: "ص91"
+    url: "https://archive.org/details/3409pdf_202001/page/n90/mode/1up"
+status: "review"

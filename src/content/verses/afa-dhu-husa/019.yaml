@@ -1,0 +1,15 @@
+explained: false
+first: "أَتَاكَ بِقَوْلٍ هَلْهَلِ النَّسْجِ كَاذِبٍ"
+second: "وَلَمْ يَأْتِ بِالْحَقِّ الَّذِي هُوَ نَاصِعُ"
+vocabulary:
+  - term: "هَلْهَلِ النَّسْجِ"
+    text: "«أي أتاك بقولٍ ضعيفٍ باطل، لم أكن لأقوله، بمنزلة الثوب المهلهل، وهو الذي نُسج وخُفّف ولم يُحكم» [@diwan-nabigha، ص35]."
+  - term: "كَاذِبٍ"
+    text: "«أي مكذوب فيه» [@diwan-nabigha، ص35]."
+  - term: "نَاصِعُ"
+    text: "«الواضح البيّن؛ وأصل الناصع: الخالص البياض» [@diwan-nabigha، ص35]."
+sources:
+  - source: "diwan-nabigha"
+    loc: "ص35"
+    url: "https://archive.org/details/3409pdf_202001/page/n34/mode/1up"
+status: "review"

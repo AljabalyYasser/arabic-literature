@@ -1,0 +1,17 @@
+explained: false
+first: "وَبِفَاحِمٍ رَجْلٍ أَثِيثٍ نَبْتُهُ"
+second: "كَالْكَرْمِ مَالَ عَلَى الدِّعَامِ الْمُسْنَدِ"
+vocabulary:
+  - term: "وَبِفَاحِمٍ"
+    text: "يعني الشَّعر. «والفاحم: الشديد السواد؛ مأخوذ من الفحم» [@diwan-nabigha، ص96]."
+  - term: "رَجْلٍ"
+    text: "«والرَّجْل: المرجَّل المشوط» [@diwan-nabigha، ص96]."
+  - term: "أَثِيثٍ"
+    text: "«الكثير الذي ركب بعضه بعضًا» [@diwan-nabigha، ص96]."
+  - term: "الدِّعَامِ الْمُسْنَدِ"
+    text: "الدِّعام جمع دِعامة، وهي ما يُسند به الكرم. قال الأَعْلَم: «والمسند: الذي رُفع وأُسند بعضه إلى بعض» [@diwan-nabigha، ص96]."
+sources:
+  - source: "diwan-nabigha"
+    loc: "ص96"
+    url: "https://archive.org/details/3409pdf_202001/page/n95/mode/1up"
+status: "review"

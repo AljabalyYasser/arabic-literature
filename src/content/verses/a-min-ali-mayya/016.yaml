@@ -1,0 +1,17 @@
+explained: false
+first: "أَوْ دُمْيَةٍ مِنْ مَرْمَرٍ مَرْفُوعَةٍ"
+second: "بُنِيَتْ بِآجُرٍّ يُشَادُ وَقَرْمَدِ"
+vocabulary:
+  - term: "دُمْيَةٍ"
+    text: "«الدُّمية: التمثال والصورة» [@diwan-nabigha، ص93]."
+  - term: "مَرْمَرٍ"
+    text: "«والمرمر: الرخام» [@diwan-nabigha، ص93]."
+  - term: "يُشَادُ"
+    text: "«يُبنى ويُرفع بالشِّيد، وهو الجصّ» [@diwan-nabigha، ص93]."
+  - term: "وَقَرْمَدِ"
+    text: "«والقرمد: خزفٌ مطبوخٌ مثل الآجرّ» [@diwan-nabigha، ص93]."
+sources:
+  - source: "diwan-nabigha"
+    loc: "ص93"
+    url: "https://archive.org/details/3409pdf_202001/page/n92/mode/1up"
+status: "review"

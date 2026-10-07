@@ -1,0 +1,17 @@
+explained: false
+first: "وَالنَّظْمُ فِي سِلْكٍ يُزَيِّنُ نَحْرَهَا"
+second: "ذَهَبٌ تَوَقَّدُ كَالشِّهَابِ الْمُوقَدِ"
+vocabulary:
+  - term: "وَالنَّظْمُ"
+    text: "«اسم المنظوم» [@diwan-nabigha، ص91]، أي ما نُظم من الخرز والحلي."
+  - term: "سِلْكٍ"
+    text: "«خيط النظام» [@diwan-nabigha، ص91]."
+  - term: "تَوَقَّدُ"
+    text: "تتوقّد، أي تلمع."
+  - term: "كَالشِّهَابِ"
+    text: "«والشهاب: النار؛ شبّه الذهب به في حمرته وبريقه» [@diwan-nabigha، ص91]."
+sources:
+  - source: "diwan-nabigha"
+    loc: "ص91"
+    url: "https://archive.org/details/3409pdf_202001/page/n90/mode/1up"
+status: "review"

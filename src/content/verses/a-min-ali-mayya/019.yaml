@@ -1,0 +1,16 @@
+explained: false
+first: "نَظَرَتْ إِلَيْكَ بِحَاجَةٍ لَمْ تَقْضِهَا"
+second: "نَظَرَ السَّقِيمِ إِلَى وُجُوهِ الْعُوَّدِ"
+vocabulary:
+  - term: "بِحَاجَةٍ لَمْ تَقْضِهَا"
+    text: "قال الأَعْلَم: «يقول: نظرت إليك نظرًا ضعيفًا لا تقدر معه على الكلام، أي نظرت نظر خائف مراقب، وأرادت كلامك – وهو حاجتها – فلم تقدر على ذلك؛ خشية الرقباء» [@diwan-nabigha، ص93–94]."
+  - term: "الْعُوَّدِ"
+    text: "الذين يعودون المريض. قال الأَعْلَم: «فهي كالسقيم الذي ينظر إلى من يعوده بطرف فاتر ضعيف، ولا يقدر على الكلام» [@diwan-nabigha، ص94]."
+sources:
+  - source: "diwan-nabigha"
+    loc: "ص93"
+    url: "https://archive.org/details/3409pdf_202001/page/n92/mode/1up"
+  - source: "diwan-nabigha"
+    loc: "ص94"
+    url: "https://archive.org/details/3409pdf_202001/page/n93/mode/1up"
+status: "review"

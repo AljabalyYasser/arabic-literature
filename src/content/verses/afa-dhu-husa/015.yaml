@@ -1,0 +1,15 @@
+explained: false
+first: "مَقَالَةُ أَنْ قَدْ قُلْتَ سَوْفَ أَنَالُهُ"
+second: "وَذَلِكَ مِنْ تِلْقَاءِ مِثْلِكَ رَائِعُ"
+vocabulary:
+  - term: "مَقَالَةُ"
+    text: "هي الملامة التي ذكرها في البيت قبله، قال الأَعْلَم: «تبيين لقوله: «أنك لمتني»، وبدلٌ منها، ويجوز نصبها ورفعها» [@diwan-nabigha، ص34]."
+  - term: "أَنَالُهُ"
+    text: "أناله بعقوبة."
+  - term: "رَائِعُ"
+    text: "«كأنه قال: وذلك القول رائع من تلقاء مثلك، أي يُفزع من قِبَلك» [@diwan-nabigha، ص34]."
+sources:
+  - source: "diwan-nabigha"
+    loc: "ص34"
+    url: "https://archive.org/details/3409pdf_202001/page/n33/mode/1up"
+status: "review"
