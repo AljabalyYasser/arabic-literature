@@ -1,0 +1,18 @@
+kind: "bayt"
+title: "الشمس والكواكب"
+part: "1"
+order: 2
+person: "al-nabigha"
+verses:
+  - "atani-abayta-al-lan/010"
+meaning: "النُّعْمان بين الملوك كالشمس بين الكواكب: إذا طلعت لم يظهر منها كوكب. قال الأَعْلَم: «يعني أن منزلته من الملوك كمنزلة الشمس من الكواكب، فإذا ذُكِر ونُشِرت مآثره لم يُذكر غيره معه» [@diwan-nabigha، ص74]. ويروي ابن قُتَيْبة عن ابن الكَلْبِيّ أن النابِغة أنشد النُّعْمانَ «كلمته التى يقول فيها» هذا البيت، «فدفع إليه مائة ناقة من الإبل السود، فيها رعاؤها» [@ibn-qutayba، ج1 ص163]."
+chapter: "al-nabigha/al-itidhariyyatan"
+story: "al-ibil-al-sud"
+sources:
+  - source: "diwan-nabigha"
+    loc: "ص74"
+    url: "https://archive.org/details/3409pdf_202001/page/n73/mode/1up"
+  - source: "ibn-qutayba"
+    loc: "ج1 ص163"
+    url: "https://shamela.ws/book/23785/156"
+status: "review"

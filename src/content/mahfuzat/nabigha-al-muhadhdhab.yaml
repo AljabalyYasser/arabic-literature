@@ -1,0 +1,23 @@
+kind: "bayt"
+title: "أي الرجال المهذب"
+part: "1"
+order: 3
+person: "al-nabigha"
+verses:
+  - "atani-abayta-al-lan/011"
+meaning: "من لم يحتمل أخاه على ما فيه من عيب لم يبق له أخ، فلا يخلو أحد من عيب. قال الأَعْلَم: «إن لم تصبر للأخ والصديق على فسادٍ يكون منه لم تُبْقِ لنفسك أخًا؛ إذ لا يخلو الإنسان من أن تكون فيه خصلةٌ غير مرضية» [@diwan-nabigha، ص74]. وقال ابن قُتَيْبة: «ومن جيّد شعره قوله» [@ibn-qutayba، ج1 ص170]. وصار عجزه مثلًا: «أيُّ الرِّجَالِ المُهَذَّبُ، أول من قاله النابغةُ» [@maydani، ج1 ص23]. ويذكر ابن سَلّام أن بني سعد بن زيد مَناة يدّعونه لرجل منهم [@ibn-sallam، ج1 ص56]."
+chapter: "al-nabigha/al-itidhariyyatan"
+sources:
+  - source: "diwan-nabigha"
+    loc: "ص74"
+    url: "https://archive.org/details/3409pdf_202001/page/n73/mode/1up"
+  - source: "ibn-qutayba"
+    loc: "ج1 ص170"
+    url: "https://shamela.ws/book/23785/163"
+  - source: "maydani"
+    loc: "ج1 ص23"
+    url: "https://shamela.ws/book/12929/73"
+  - source: "ibn-sallam"
+    loc: "ج1 ص56"
+    url: "https://shamela.ws/book/6738/55"
+status: "review"

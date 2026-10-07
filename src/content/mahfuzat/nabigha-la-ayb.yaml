@@ -1,0 +1,17 @@
+kind: "bayt"
+title: "ولا عيب فيهم غير أن سيوفهم"
+part: "1"
+order: 1
+person: "al-nabigha"
+verses:
+  - "kilini/019"
+meaning: "لا عيب في ملوك غَسّان إلا ثُلَم في سيوفهم من كثرة ما ضربوا بها الجيوش، وهذا ليس عيبًا. قال الأَعْلَم: «هو كقولك: لا عيبَ في فلان إلا كرمُه وكثرةُ جوده، أي لا عيب فيه أصلًا» [@diwan-nabigha، ص44–45]. ونقل ابن رَشِيق أن ابن المُعْتَزّ يسمّي هذا «توكيد المدح بما يشبه الذم»، وقال في البيت: «فجعل فلول السيف عيباً، وهو أوكد في المدح» [@ibn-rashiq، ج2 ص48]."
+chapter: "al-nabigha/ghassan-wa-qawmuhu"
+sources:
+  - source: "diwan-nabigha"
+    loc: "ص44–45"
+    url: "https://archive.org/details/3409pdf_202001/page/n43/mode/1up"
+  - source: "ibn-rashiq"
+    loc: "ج2 ص48"
+    url: "https://shamela.ws/book/10909/364"
+status: "review"

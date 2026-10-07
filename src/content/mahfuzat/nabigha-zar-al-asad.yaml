@@ -1,0 +1,17 @@
+kind: "bayt"
+title: "ولا قرار على زأر من الأسد"
+part: "1"
+order: 1
+person: "al-nabigha"
+verses:
+  - "ya-dara-mayya/048"
+meaning: "بلغه أن النُّعْمان يتوعّده، ولا يطمئن أحد وهو يسمع زئير الأسد. قال الأَعْلَم: «يقول: وَعِيدُ النُّعمانِ لا تستقرّ معه نفسي ولا تطمئنّ؛ هَيْبَةً له، كما لا تطيق ولا تسكن على زئير الأسد» [@diwan-nabigha، ص26]. وعدّه ابن قُتَيْبة مما يُتمثّل به من شعره، وقال: «تمثّل به الحجّاج بن يوسف حين سخط عليه عبد الملك بن مروان» [@ibn-qutayba، ج1 ص158]."
+chapter: "al-nabigha/ya-dara-mayya-2"
+sources:
+  - source: "diwan-nabigha"
+    loc: "ص26"
+    url: "https://archive.org/details/3409pdf_202001/page/n25/mode/1up"
+  - source: "ibn-qutayba"
+    loc: "ج1 ص158"
+    url: "https://shamela.ws/book/23785/151"
+status: "review"

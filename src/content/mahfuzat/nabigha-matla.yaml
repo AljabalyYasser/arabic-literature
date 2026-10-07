@@ -1,0 +1,18 @@
+kind: "bayt"
+title: "مطلع الدالية"
+part: "1"
+order: 1
+person: "al-nabigha"
+verses:
+  - "ya-dara-mayya/001"
+meaning: "ينادي دار مَيّة وقد خلت من أهلها وطال عليها الدهر، والنداء توجّع لا طلب جواب، كما يقول الأَعْلَم: «فجعل يخاطبها توجعا منه لما رأى من تغيرها، وتذكرا لما عهده منها» [@diwan-nabigha، ص14]. وفي رواية أبي عَمْرو بن العَلاء أن النابِغة دسّ إلى قينة النُّعْمان «بثلاثة أبيات، من أول قوله: يا دار مَيّة بالعَلْياء فالسَّنَد»، فلما سمعها الملك قال: «هذا شعر علويّ، هذا شعر النابغة» [@diwan-nabigha، ص29]."
+chapter: "al-nabigha/ya-dara-mayya-1"
+story: "shir-alawi"
+sources:
+  - source: "diwan-nabigha"
+    loc: "ص14، ص29"
+    url: "https://archive.org/details/3409pdf_202001/page/n13/mode/1up"
+  - source: "tabrizi-ashr"
+    loc: "ص308"
+    url: "https://shamela.ws/book/37488/307"
+status: "review"

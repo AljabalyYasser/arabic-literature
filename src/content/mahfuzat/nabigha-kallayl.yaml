@@ -1,0 +1,18 @@
+kind: "bayt"
+title: "فإنك كالليل الذي هو مدركي"
+part: "1"
+order: 1
+person: "al-nabigha"
+verses:
+  - "afa-dhu-husa/028"
+meaning: "يقول للنعمان: لا مهرب منك، فأنت كالليل يدركني أينما ذهبت. قال الأَعْلَم: «أي أنا في قبضتك حيث كنتُ وإن بعدتُ عنك، فأنت كذلك كالليل الذي يُدركني ويشملني بظلامه أينما وجّهت» [@diwan-nabigha، ص38]. ويروي ابن قُتَيْبة أن عمر بن الخطّاب سأل وفد غَطَفان عن قائله، فلما قالوا النابِغة «قال: هذا أشعر شعرائكم» [@ibn-qutayba، ج1 ص157]."
+chapter: "al-nabigha/al-itidhariyyatan"
+story: "umar-wal-nabigha"
+sources:
+  - source: "diwan-nabigha"
+    loc: "ص38"
+    url: "https://archive.org/details/3409pdf_202001/page/n37/mode/1up"
+  - source: "ibn-qutayba"
+    loc: "ج1 ص157"
+    url: "https://shamela.ws/book/23785/150"
+status: "review"
