@@ -100,4 +100,4 @@ groups:
   - { id: amthal, title: "أصحاب الأمثال" }
   - { id: khayl, title: "وصافو الخيل" }
   - { id: karam, title: "الكرم والوفاء والجوار" }
-route: [al-sahra, ayyam-al-arab, al-muallaqat, imru-al-qais, tarafa, al-asha, labid, al-khansa]
+route: [al-sahra, ayyam-al-arab, al-muallaqat, imru-al-qais, tarafa, zuhayr, al-nabigha, al-asha, antara, labid, al-khansa]

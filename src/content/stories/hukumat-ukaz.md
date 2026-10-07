@@ -11,6 +11,7 @@ earliest:
 people:
   - "al-khansa"
   - "al-asha"
+  - "al-nabigha"
 sources:
   - source: "aghani-dk"
     loc: "ج11 ص6"

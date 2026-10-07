@@ -10,6 +10,7 @@ earliest:
   url: "https://archive.org/details/aghani2014/15/page/n378/mode/1up"
 people:
   - "labid"
+  - "al-nabigha"
 sources:
   - source: "aghani-dk"
     loc: "ج15 ص377–378"
