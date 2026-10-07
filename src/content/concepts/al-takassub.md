@@ -7,6 +7,7 @@ example:
   note: "يقول الأَعْشَى لناقته: لا تشكي إليّ تعب السفر، وانتجعي الأسود، أي اطلبي عطاءه كما يُطلب الكلأ."
 related:
   - "bina-al-qasida"
+  - "al-madih"
 sources:
   - source: "ibn-sallam"
     loc: "ج1 ص65–67"
