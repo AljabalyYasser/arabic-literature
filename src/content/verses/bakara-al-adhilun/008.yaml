@@ -1,0 +1,19 @@
+explained: false
+first: "مُرَّةٍ قَبْلَ مَزْجِهَا فَإِذَا مَا"
+second: "مُزِجَتْ لَذَّ طَعْمُهَا مَنْ يَذُوقُ"
+vocabulary:
+  - term: "مُرَّةٍ"
+    text: "حادّة الطعم قبل أن تُخلط بالماء. وفي رواية اللسان «مُزَّةٍ» بالزاي [@lisan، ج10 ص216]، والمُزّة: «الْخَمْرَةُ الَّتِي فِيهَا مَزَازَةٌ» [@lisan، ج5 ص409]."
+  - term: "مَزْجِهَا"
+    text: "خلطها بالماء."
+sources:
+  - source: "aghani-dk"
+    loc: "ج6 ص77"
+    url: "https://archive.org/details/aghani2014/6/page/n78/mode/1up"
+  - source: "lisan"
+    loc: "ج10 ص216"
+    url: "https://shamela.ws/book/1687/4886"
+  - source: "lisan"
+    loc: "ج5 ص409"
+    url: "https://shamela.ws/book/1687/2993"
+status: "review"

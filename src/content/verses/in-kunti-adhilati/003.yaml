@@ -1,0 +1,19 @@
+explained: false
+first: "وَإِذَا الرِّيَاحُ تَكَمَّشَتْ"
+second: "بِجَوَانِبِ الْبَيْتِ الْكَبِيرِ"
+vocabulary:
+  - term: "تَكَمَّشَتْ"
+    text: "أسرعت: «وتَكَمَّش أَي أَسرع» [@lisan، ج6 ص343]."
+  - term: "وَإِذَا الرِّيَاحُ تَكَمَّشَتْ"
+    text: "يريد ريح الشتاء وأيام القحط، ويرى محقق «الحماسة» أن هبوب الرياح على البيت هنا «كِنَايَة عَن الجدب» [@tabrizi-hamasa، ج1 ص204]."
+sources:
+  - source: "asmaiyyat"
+    loc: "ص59"
+    url: "https://shamela.ws/book/6905/45"
+  - source: "lisan"
+    loc: "ج6 ص343"
+    url: "https://shamela.ws/book/1687/3355"
+  - source: "tabrizi-hamasa"
+    loc: "ج1 ص204"
+    url: "https://shamela.ws/book/6907/203"
+status: "review"

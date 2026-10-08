@@ -1,0 +1,21 @@
+explained: false
+first: "يَخْرُجْنَ مِنْ خَلَلِ الْغُبَا"
+second: "رِ يَجِفْنَ بِالنَّعَمِ الْكَثِيرِ"
+vocabulary:
+  - term: "خَلَلِ الْغُبَارِ"
+    text: "فُرَجه وما بين أطرافه."
+  - term: "يَجِفْنَ"
+    text: "يسرعن: «وَجَفَ البعيرُ وَالْفَرَسُ يَجِف وَجْفاً ووَجِيفاً: أَسْرعَ» [@lisan، ج9 ص352]."
+  - term: "النَّعَمِ"
+    text: "الإبل التي غنموها؛ قال ابن سِيدَه: «النَّعَم الإبل وَالشَّاءُ» [@lisan، ج12 ص585]."
+sources:
+  - source: "asmaiyyat"
+    loc: "ص59"
+    url: "https://shamela.ws/book/6905/45"
+  - source: "lisan"
+    loc: "ج9 ص352"
+    url: "https://shamela.ws/book/1687/4659"
+  - source: "lisan"
+    loc: "ج12 ص585"
+    url: "https://shamela.ws/book/1687/6498"
+status: "review"

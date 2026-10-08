@@ -1,0 +1,16 @@
+explained: false
+first: "يَا رُبَّ يَوْمٍ لِلْمُنَخْـ"
+second: "ـخَلِ قَدْ لَهَا فِيهِ قَصِيرِ"
+vocabulary:
+  - term: "لَهَا"
+    text: "لعب وطرب؛ «اللَّهْو: مَا لَهَوْت بِهِ ولَعِبْتَ بِهِ وشغَلَك مِنْ هَوًى وطَربٍ وَنَحْوِهُمَا» [@lisan، ج15 ص258]."
+  - term: "قَصِيرِ"
+    text: "يريد أن يوم اللهو يمضي سريعًا لطيبه."
+sources:
+  - source: "asmaiyyat"
+    loc: "ص60"
+    url: "https://shamela.ws/book/6905/46"
+  - source: "lisan"
+    loc: "ج15 ص258"
+    url: "https://shamela.ws/book/1687/7869"
+status: "review"

@@ -1,0 +1,23 @@
+explained: false
+first: "ثُمَّ كَانَ الْمِزَاجُ مَاءَ سَمَاءٍ"
+second: "غَيْرَ مَا آجِنٍ وَلَا مَطْرُوقِ"
+vocabulary:
+  - term: "الْمِزَاجُ"
+    text: "ما تُمزج به الخمر."
+  - term: "مَاءَ سَمَاءٍ"
+    text: "ماء مطر."
+  - term: "آجِنٍ"
+    text: "«الآجِنُ: الماءُ المتغيّرُ الطعمِ واللونِ» [@lisan، ج13 ص8]."
+  - term: "مَطْرُوقِ"
+    text: "«والطَّرْقُ والمَطرُوق أَيضاً: مَاءُ السَّمَاءِ الَّذِي تَبُولُ فِيهِ الإِبل وتَبْعَرُ»، وأنشد صاحب اللسان هذا البيت لعَدِيّ [@lisan، ج10 ص216]."
+sources:
+  - source: "aghani-dk"
+    loc: "ج6 ص77"
+    url: "https://archive.org/details/aghani2014/6/page/n78/mode/1up"
+  - source: "lisan"
+    loc: "ج13 ص8"
+    url: "https://shamela.ws/book/1687/6571"
+  - source: "lisan"
+    loc: "ج10 ص216"
+    url: "https://shamela.ws/book/1687/4886"
+status: "review"

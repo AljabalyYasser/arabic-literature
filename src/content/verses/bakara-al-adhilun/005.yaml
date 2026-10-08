@@ -1,0 +1,21 @@
+explained: false
+first: "وَثَنَايَا مُفَلَّجَاتٌ عِذَابٌ"
+second: "لَا قِصَارٌ تُرَى وَلَا هُنَّ رُوقُ"
+vocabulary:
+  - term: "ثَنَايَا"
+    text: "الأسنان الأربع في مقدّم الفم."
+  - term: "مُفَلَّجَاتٌ"
+    text: "بينها فُرَج يسيرة، وكانوا يستحسنونها: «وفَلَجُ الأَسنان: تباعُدٌ بَيْنَهَا ... وثَغْرٌ مُفَلَّجٌ» [@lisan، ج2 ص346]."
+  - term: "رُوقُ"
+    text: "طوال مشرفة: «الرَّوَقُ طُولُ الأَسنان وإِشْرافُ العُلْيا عَلَى السُّفْلى» [@lisan، ج10 ص135]."
+sources:
+  - source: "aghani-dk"
+    loc: "ج6 ص76"
+    url: "https://archive.org/details/aghani2014/6/page/n77/mode/1up"
+  - source: "lisan"
+    loc: "ج2 ص346"
+    url: "https://shamela.ws/book/1687/1150"
+  - source: "lisan"
+    loc: "ج10 ص135"
+    url: "https://shamela.ws/book/1687/4805"
+status: "review"

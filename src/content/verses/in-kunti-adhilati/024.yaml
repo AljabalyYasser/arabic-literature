@@ -1,0 +1,19 @@
+explained: false
+first: "يَا هِنْدُ مَنْ لِمُتَيَّمٍ"
+second: "يَا هِنْدُ لِلْعَانِي الْأَسِيرِ"
+vocabulary:
+  - term: "مُتَيَّمٍ"
+    text: "من ذلّله الحب؛ «وتيَّمَه الحبُّ إِذا اسْتولى عَلَيْهِ» [@lisan، ج12 ص75]."
+  - term: "الْعَانِي"
+    text: "الأسير: «والعَانِي الأَسِيرُ» [@lisan، ج15 ص101]."
+sources:
+  - source: "asmaiyyat"
+    loc: "ص61"
+    url: "https://shamela.ws/book/6905/47"
+  - source: "lisan"
+    loc: "ج12 ص75"
+    url: "https://shamela.ws/book/1687/5991"
+  - source: "lisan"
+    loc: "ج15 ص101"
+    url: "https://shamela.ws/book/1687/7713"
+status: "review"

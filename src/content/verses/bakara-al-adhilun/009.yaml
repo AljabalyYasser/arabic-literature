@@ -1,0 +1,21 @@
+explained: false
+first: "وَطَفَتْ فَوْقَهَا فَقَاقِيعُ كَالدُّرْ"
+second: "رِ صِغَارٌ يُثِيرُهَا التَّصْفِيقُ"
+vocabulary:
+  - term: "طَفَتْ"
+    text: "علت."
+  - term: "فَقَاقِيعُ"
+    text: "حبب الخمر: «هَناتٌ كأَمثالِ القَوارِيرِ الصِّغَارِ مُسْتَدِيرَةٌ تَتَفَقَّعُ عَلَى الْمَاءِ والشرابِ عِنْدَ المَزْجِ بِالْمَاءِ»، وأنشد صاحب اللسان هذا البيت لعَدِيّ [@lisan، ج8 ص256]."
+  - term: "التَّصْفِيقُ"
+    text: "المزج: «وصَفَّقَ الشرابَ: مزجَه» [@lisan، ج10 ص202]."
+sources:
+  - source: "aghani-dk"
+    loc: "ج6 ص77"
+    url: "https://archive.org/details/aghani2014/6/page/n78/mode/1up"
+  - source: "lisan"
+    loc: "ج8 ص256"
+    url: "https://shamela.ws/book/1687/4104"
+  - source: "lisan"
+    loc: "ج10 ص202"
+    url: "https://shamela.ws/book/1687/4872"
+status: "review"

@@ -1,0 +1,22 @@
+explained: false
+first: "شَدُّوا دَوَابِرَ بَيْضِهِمْ"
+second: "فِي كُلِّ مُحْكَمَةِ الْقَتِيرِ"
+vocabulary:
+  - term: "دَوَابِرَ بَيْضِهِمْ"
+    text: "مؤخّر خُوَذهم؛ «ودابِرُ الشَّيْءِ: آخِرُهُ» [@lisan، ج4 ص268]، والبَيْض جمع بَيْضة، وهي خوذة الحديد. ويقول محقق «الحماسة» إنهم «ربطوا أَوَاخِر بيضات الْحَدِيد من جَانب الْخلف بالدروع خوفًا من سُقُوطهَا عِنْد جري الْخَيل» [@tabrizi-hamasa، ج1 ص203]."
+  - term: "مُحْكَمَةِ الْقَتِيرِ"
+    text: "درع محكمة المسامير؛ «والقَتِيرُ: مَسامِيرُ الدِّرْعِ» [@lisan، ج1 ص216]."
+sources:
+  - source: "asmaiyyat"
+    loc: "ص59"
+    url: "https://shamela.ws/book/6905/45"
+  - source: "lisan"
+    loc: "ج4 ص268"
+    url: "https://shamela.ws/book/1687/2228"
+  - source: "tabrizi-hamasa"
+    loc: "ج1 ص203"
+    url: "https://shamela.ws/book/6907/202"
+  - source: "lisan"
+    loc: "ج1 ص216"
+    url: "https://shamela.ws/book/1687/216"
+status: "review"

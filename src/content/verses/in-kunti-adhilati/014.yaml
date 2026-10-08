@@ -1,0 +1,21 @@
+explained: false
+first: "الْكَاعِبِ الْحَسْنَاءِ تَرْ"
+second: "فُلُ فِي الدِّمَقْسِ وَفِي الْحَرِيرِ"
+vocabulary:
+  - term: "الْكَاعِبِ"
+    text: "الفتاة الناهد: «وكَعَبَتِ الجاريةُ ... كُعُوباً ... وكَعَّبَت: نَهَدَ ثَدْيُها» [@lisan، ج1 ص719]."
+  - term: "تَرْفُلُ"
+    text: "تتبختر جارّةً ثوبها، كما في البيت 11."
+  - term: "الدِّمَقْسِ"
+    text: "الحرير: «الدِمَقْسُ والدِمْقاسُ والمِدَقْسُ: الإِبْرَيْسَم وَقِيلَ القَزُّ» [@lisan، ج6 ص88]."
+sources:
+  - source: "asmaiyyat"
+    loc: "ص60"
+    url: "https://shamela.ws/book/6905/46"
+  - source: "lisan"
+    loc: "ج1 ص719"
+    url: "https://shamela.ws/book/1687/719"
+  - source: "lisan"
+    loc: "ج6 ص88"
+    url: "https://shamela.ws/book/1687/3100"
+status: "review"

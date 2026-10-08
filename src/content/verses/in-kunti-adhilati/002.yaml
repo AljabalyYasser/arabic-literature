@@ -1,0 +1,16 @@
+explained: false
+first: "لَا تَسْأَلِي عَنْ جُلِّ مَا"
+second: "لِي وَانْظُرِي حَسَبِي وَخِيرِي"
+vocabulary:
+  - term: "جُلِّ مَا لِي"
+    text: "معظم مالي: «وجُلُّ الشيءِ وجُلاله: مُعْظَمُهُ» [@lisan، ج11 ص116]."
+  - term: "خِيرِي"
+    text: "كرمي، كما يفسره محققا «الأصمعيات» [@asmaiyyat، ص59]."
+sources:
+  - source: "asmaiyyat"
+    loc: "ص59"
+    url: "https://shamela.ws/book/6905/45"
+  - source: "lisan"
+    loc: "ج11 ص116"
+    url: "https://shamela.ws/book/1687/5298"
+status: "review"

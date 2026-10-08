@@ -1,0 +1,16 @@
+explained: false
+first: "مَا شَفَّ جِسْمِي غَيْرُ حُبْـ"
+second: "ـبِكِ فَاهْدَئِي عَنِّي وَسِيرِي"
+vocabulary:
+  - term: "شَفَّ"
+    text: "أنحل؛ «وشَفَّ جِسمُه يَشِفُّ شُفُوفاً أَي نَحَلَ» [@lisan، ج9 ص180]."
+  - term: "فَاهْدَئِي عَنِّي"
+    text: "اسكني ولا تسأليني."
+sources:
+  - source: "asmaiyyat"
+    loc: "ص60"
+    url: "https://shamela.ws/book/6905/46"
+  - source: "lisan"
+    loc: "ج9 ص180"
+    url: "https://shamela.ws/book/1687/4487"
+status: "review"

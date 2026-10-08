@@ -1,0 +1,21 @@
+explained: false
+first: "مِنْهَا الصَّبُوحُ الَّذِي يَتْرُكُنِي"
+second: "لَيْثَ عِفِرِّينَ وَالْمَالُ كَثِيرْ"
+vocabulary:
+  - term: "الصَّبُوحُ"
+    text: "خمر الصباح، «وهو شرب الغداة» [@ibn-al-anbari، ص371]."
+  - term: "لَيْثَ عِفِرِّينَ"
+    text: "يُضرب به المثل في الشجاعة: «إِنه لأَشْجَعُ مِنْ لَيْثِ عِفِرِّينَ، قَالَ أَبو عَمْرٍو: هُوَ الأَسد، وَقَالَ الأَصمعي هُوَ دَابَّةٌ مِثْلُ الحِرْباء تتعرَّض لِلرَّاكِبِ» [@lisan، ج2 ص188]."
+  - term: "وَالْمَالُ كَثِيرْ"
+    text: "يخيّل إليه سكره أنه غني."
+sources:
+  - source: "asmaiyyat"
+    loc: "ص153"
+    url: "https://shamela.ws/book/6905/139"
+  - source: "ibn-al-anbari"
+    loc: "ص371"
+    url: "https://shamela.ws/book/124335/365"
+  - source: "lisan"
+    loc: "ج2 ص188"
+    url: "https://shamela.ws/book/1687/992"
+status: "review"

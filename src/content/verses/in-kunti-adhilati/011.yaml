@@ -1,0 +1,23 @@
+explained: false
+first: "يَرْفُلْنَ فِي الْمِسْكِ الذَّكِيْـ"
+second: "ـيِ وَصَائِكٍ كَدَمِ النَّحِيرِ"
+vocabulary:
+  - term: "يَرْفُلْنَ"
+    text: "يتبخترن: «ورَفَلَ فِي ثِيَابِهِ يَرْفُلُ إِذا أَطالها وَجَرَّهَا مُتَبَخْتِرًا» [@lisan، ج11 ص292]."
+  - term: "الذَّكِيِّ"
+    text: "الطيّب الرائحة."
+  - term: "صَائِكٍ"
+    text: "طيب لاصق بالجسد: «وصاكَ بِهِ الطيبُ يَصِيكُ أَي لَصِقَ بِهِ» [@lisan، ج10 ص458]."
+  - term: "كَدَمِ النَّحِيرِ"
+    text: "أحمر كدم الذبيحة المنحورة."
+sources:
+  - source: "asmaiyyat"
+    loc: "ص60"
+    url: "https://shamela.ws/book/6905/46"
+  - source: "lisan"
+    loc: "ج11 ص292"
+    url: "https://shamela.ws/book/1687/5472"
+  - source: "lisan"
+    loc: "ج10 ص458"
+    url: "https://shamela.ws/book/1687/5127"
+status: "review"
