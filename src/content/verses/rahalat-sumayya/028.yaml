@@ -1,0 +1,21 @@
+explained: false
+first: "طَلَبًا حَثِيثًا بِالْوَلِيدِ تَبُزُّهُ"
+second: "حَتَّى تَوَسَّطَ رُمْحُهُ أَكْفَالَهَا"
+vocabulary:
+  - term: "بِالْوَلِيدِ"
+    text: "بالغلام الذي يركبها."
+  - term: "تَبُزُّهُ"
+    text: "تغلبه: «وبَزَّهُ يَبُزُّهُ بَزًّا: غَلَبَهُ وَغَصَبَهُ» [@lisan، ج5 ص312]."
+  - term: "أَكْفَالَهَا"
+    text: "جمع كَفَل: «الكَفَل، بِالتَّحْرِيكِ: العجُز» [@lisan، ج11 ص588]، أي أعجاز البقر التي يطعنها."
+sources:
+  - source: "diwan-asha"
+    loc: "ص65"
+    url: "https://archive.org/details/20201023_20201023_0327/page/n65/mode/1up"
+  - source: "lisan"
+    loc: "ج5 ص312"
+    url: "https://shamela.ws/book/1687/2896"
+  - source: "lisan"
+    loc: "ج11 ص588"
+    url: "https://shamela.ws/book/1687/5766"
+status: "review"

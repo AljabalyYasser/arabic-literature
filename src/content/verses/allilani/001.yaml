@@ -1,0 +1,18 @@
+explained: false
+first: عَلِّلَانِي وَعَلِّلَا صَاحِبِيَّا
+second: وَاسْقِيَانِي مِنَ الْمُرَوَّقِ رِيَّا
+vocabulary:
+- term: عَلِّلَانِي
+  text: اسقياني مرة بعد مرة، والخطاب لاثنين على عادة العرب.
+- term: صَاحِبِيَّا
+  text: صاحبَيَّ، مثنى صاحب، وزيدت الألف للقافية.
+- term: الْمُرَوَّقِ
+  text: '«المروق من الشراب: المصفى» [@aghani-dk، ج11 ص121، الحاشية].'
+sources:
+- source: aghani-dk
+  loc: ج11 ص121
+  url: https://archive.org/details/Al-aghani_11/page/n120/mode/1up
+- source: aghani-dk
+  loc: ج11 ص121، الحاشية
+  url: https://archive.org/details/Al-aghani_11/page/n120/mode/1up
+status: review

@@ -1,0 +1,19 @@
+explained: false
+first: "كُنْتَ الْمُقَدَّمَ غَيْرَ لَابِسِ جُنَّةٍ"
+second: "بِالسَّيْفِ تَضْرِبُ مُعْلِمًا أَبْطَالَهَا"
+vocabulary:
+  - term: "جُنَّةٍ"
+    text: "«والجُنَّةُ، بِالضَّمِّ: مَا واراكَ مِنَ السِّلاح واسْتَتَرْتَ بِهِ مِنْهُ» [@lisan، ج13 ص94]."
+  - term: "مُعْلِمًا"
+    text: "«وأَعْلَمَ الفارِسُ: جَعَلَ لِنَفْسِهِ عَلامةَ الشُّجعان، فَهُوَ مُعْلِمٌ» [@lisan، ج12 ص419]."
+sources:
+  - source: "diwan-asha"
+    loc: "ص69"
+    url: "https://archive.org/details/20201023_20201023_0327/page/n69/mode/1up"
+  - source: "lisan"
+    loc: "ج13 ص94"
+    url: "https://shamela.ws/book/1687/6657"
+  - source: "lisan"
+    loc: "ج12 ص419"
+    url: "https://shamela.ws/book/1687/6332"
+status: "review"

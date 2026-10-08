@@ -1,11 +1,19 @@
 explained: false
-first: قَسَمْنَا بِذَاكَ الدَّهْرَ شَطْرَيْنِ بَيْنَنَا
-second: فَمَا يَنْقَضِي إِلَّا وَنَحْنُ عَلَى شَطْرِ
+first: أَبَى الْقَتْلُ إِلَّا آلَ صِمَّةَ أَنَّهُمْ
+second: أَبَوْا غَيْرَهُ وَالْقَدْرُ يَجْرِي إِلَى الْقَدْرِ
 vocabulary:
-- term: شَطْرَيْنِ
-  text: 'نصفين؛ والشطر: النصف.'
+- term: آلَ صِمَّةَ
+  text: أهل الصِّمّة، أبي دُرَيْد، أي دُرَيْد وإخوته.
+- term: الْقَدْرُ
+  text: القضاء؛ «القَدْر والقَدَر القضاء والحكم» [@lisan، ج5 ص74].
 sources:
+- source: tabrizi-hamasa
+  loc: ج1 ص341
+  url: https://shamela.ws/book/6907/324
 - source: ibn-qutayba
   loc: ج2 ص739
   url: https://shamela.ws/book/23785/730
+- source: lisan
+  loc: ج5 ص74
+  url: https://shamela.ws/book/1687/2658
 status: review

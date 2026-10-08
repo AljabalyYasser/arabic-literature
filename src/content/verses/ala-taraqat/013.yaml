@@ -1,0 +1,22 @@
+explained: false
+first: وَنَهْبٍ كَجُمَّاعِ الثُّرَيَّا حَوَيْتُهُ
+second: غِشَاشًا بِمُحْتَاتِ الْقَوَائِمِ خَيْفَقِ
+vocabulary:
+- term: نَهْبٍ
+  text: غنيمة.
+- term: جُمَّاعِ الثُّرَيَّا
+  text: كواكبها المجتمعة [@asmaiyyat، ص23، الحاشية].
+- term: غِشَاشًا
+  text: على عجلة [@asmaiyyat، ص23، الحاشية].
+- term: مُحْتَاتِ
+  text: الموثَّق الخَلْق [@asmaiyyat، ص23، الحاشية].
+- term: خَيْفَقِ
+  text: السريع الخفيف، أراد بذلك فرسًا [@asmaiyyat، ص23، الحاشية].
+sources:
+- source: asmaiyyat
+  loc: ص23
+  url: https://shamela.ws/book/6905/9
+- source: asmaiyyat
+  loc: ص23، الحاشية
+  url: https://shamela.ws/book/6905/9
+status: review

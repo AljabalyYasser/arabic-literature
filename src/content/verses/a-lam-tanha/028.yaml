@@ -1,0 +1,19 @@
+explained: false
+first: "إِذَا الْحَبَرَاتُ تَلَوَّتْ بِهِمْ"
+second: "وَجَرُّوا أَسَافِلَ هُدَّابِهَا"
+vocabulary:
+  - term: "الْحَبَرَاتُ"
+    text: "«والحِبَرَةُ، والحَبَرَةُ: ضَرْبٌ مِنْ بُرُودِ الْيَمَنِ مُنَمَّر» [@lisan، ج4 ص159]."
+  - term: "هُدَّابِهَا"
+    text: "«هُدْبُ الثَّوْبِ، وهُدْبَتُه، وهُدَّابُه: طَرَفُ الثوبِ، مِمَّا يَلي طُرَّتَه» [@lisan، ج1 ص780]. يصفهم بجرّ ثيابهم خيلاء."
+sources:
+  - source: "diwan-asha"
+    loc: "ص209"
+    url: "https://archive.org/details/20201023_20201023_0327/page/n203/mode/1up"
+  - source: "lisan"
+    loc: "ج4 ص159"
+    url: "https://shamela.ws/book/1687/2119"
+  - source: "lisan"
+    loc: "ج1 ص780"
+    url: "https://shamela.ws/book/1687/780"
+status: "review"

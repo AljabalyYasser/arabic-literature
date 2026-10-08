@@ -1,0 +1,18 @@
+explained: false
+first: تَمِيمُ بْنُ مُرٍّ وَأَشْيَاعُهَا
+second: وَكِنْدَةُ حَوْلِي جَمِيعًا صُبُرْ
+vocabulary:
+- term: تَمِيمُ بْنُ مُرٍّ
+  text: 'قبيلة تميم. ويروي ابن قُتَيْبة البيت في خبر أبيه: «واستعان حجر ببني حنظلة بن مالك بن زيد مناة بن تميم، فقال امرؤ القيس» هذا البيت [@ibn-qutayba، ج1 ص116].'
+- term: أَشْيَاعُهَا
+  text: أتباعها وأنصارها.
+- term: صُبُرْ
+  text: جمع صَبُور.
+sources:
+- source: diwan-imru-al-qais
+  loc: ص105
+  url: https://shamela.ws/book/27112/94
+- source: ibn-qutayba
+  loc: ج1 ص116
+  url: https://shamela.ws/book/23785/109
+status: review

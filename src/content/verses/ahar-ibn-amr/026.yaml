@@ -1,0 +1,21 @@
+explained: false
+first: وَأَرْكَبُ فِي الرَّوْعِ خَيْفَانَةً
+second: كَسَا وَجْهَهَا سَعَفٌ مُنْتَشِرْ
+vocabulary:
+- term: الرَّوْعِ
+  text: الفزع، أي الحرب.
+- term: خَيْفَانَةً
+  text: 'فرسًا خفيفة كالجرادة؛ قال أبو نصر: «العرب تشبه الخيل بالخيفان» [@lisan، ج9 ص102].'
+- term: سَعَفٌ
+  text: «وشبه امرؤ القيس ناصية الفرس بسعف النخل» [@lisan، ج9 ص151].
+sources:
+- source: diwan-imru-al-qais
+  loc: ص107
+  url: https://shamela.ws/book/27112/96
+- source: lisan
+  loc: ج9 ص102
+  url: https://shamela.ws/book/1687/4409
+- source: lisan
+  loc: ج9 ص151
+  url: https://shamela.ws/book/1687/4458
+status: review

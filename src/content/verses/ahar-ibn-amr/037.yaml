@@ -1,0 +1,19 @@
+explained: false
+first: وَعَيْنٌ لَهَا حَدْرَةٌ بَدْرَةٌ
+second: وَشُقَّتْ مَآقِيهِمَا مِنْ أُخُرْ
+vocabulary:
+- term: حَدْرَةٌ بَدْرَةٌ
+  text: '«وعين حدرة بدرة: عظيمة؛ وقيل: حادة النظر» [@lisan، ج4 ص173].'
+- term: مِنْ أُخُرْ
+  text: من مؤخّرها؛ «وشق ثوبه أخرا ومن أخر أي من خلف» [@lisan، ج4 ص15].
+sources:
+- source: diwan-imru-al-qais
+  loc: ص108
+  url: https://shamela.ws/book/27112/97
+- source: lisan
+  loc: ج4 ص173
+  url: https://shamela.ws/book/1687/2133
+- source: lisan
+  loc: ج4 ص15
+  url: https://shamela.ws/book/1687/1975
+status: review

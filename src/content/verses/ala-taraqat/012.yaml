@@ -1,0 +1,20 @@
+explained: false
+first: وَحِرَّةِ صَادٍ قَدْ نَضَحْتُ بِشُرْبَةٍ
+second: وَقَدْ ذُمَّ قَبْلِي لَيْلُ آخَرَ مُطْرِقِ
+vocabulary:
+- term: حِرَّةِ
+  text: حرارة العطش والتهابه [@asmaiyyat، ص23، الحاشية].
+- term: صَادٍ
+  text: الظمآن [@asmaiyyat، ص23، الحاشية].
+- term: نَضَحْتُ
+  text: سكّنت عطشه [@asmaiyyat، ص23، الحاشية].
+- term: شُرْبَةٍ
+  text: مقدار الريّ من الماء [@asmaiyyat، ص23، الحاشية].
+sources:
+- source: asmaiyyat
+  loc: ص23
+  url: https://shamela.ws/book/6905/9
+- source: asmaiyyat
+  loc: ص23، الحاشية
+  url: https://shamela.ws/book/6905/9
+status: review

@@ -1,0 +1,18 @@
+explained: false
+first: "قَدْ بِتُّ رَائِدَهَا وَشَاةِ مُحَاذِرٍ"
+second: "حَذِرًا يُقِلُّ بِعَيْنِهِ أَغْفَالَهَا"
+vocabulary:
+  - term: "رَائِدَهَا"
+    text: "«وَالرَّائِدُ: الَّذِي يُرْسَل فِي الْتِمَاسِ النُّجْعَة وَطَلَبِ الكلإِ» [@lisan، ج3 ص187]."
+  - term: "وَشَاةِ مُحَاذِرٍ"
+    text: "الشاة هنا المرأة، كما في البيت 7، والمحاذر زوجها الذي يرقبها."
+  - term: "أَغْفَالَهَا"
+    text: "ساعات غفلتها."
+sources:
+  - source: "diwan-asha"
+    loc: "ص63"
+    url: "https://archive.org/details/20201023_20201023_0327/page/n63/mode/1up"
+  - source: "lisan"
+    loc: "ج3 ص187"
+    url: "https://shamela.ws/book/1687/1629"
+status: "review"

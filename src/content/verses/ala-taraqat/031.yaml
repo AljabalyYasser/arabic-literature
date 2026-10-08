@@ -1,0 +1,20 @@
+explained: false
+first: يَجُرُّ بِأَكْنَافِ الْبِحَارِ إِلَى الْمَلَا
+second: رَبَابًا لَهُ مِثْلُ النَّعَامِ الْمُعَلَّقِ
+vocabulary:
+- term: يَجُرُّ
+  text: يعني الحَبِيّ [@asmaiyyat، ص26، الحاشية].
+- term: أَكْنَافِ
+  text: النواحي [@asmaiyyat، ص26، الحاشية].
+- term: الْبِحَارِ وَالْمَلَا
+  text: موضعان [@asmaiyyat، ص26، الحاشية].
+- term: رَبَابًا
+  text: سحاب دون السحاب الأعظم [@asmaiyyat، ص26، الحاشية].
+sources:
+- source: asmaiyyat
+  loc: ص26
+  url: https://shamela.ws/book/6905/12
+- source: asmaiyyat
+  loc: ص26، الحاشية
+  url: https://shamela.ws/book/6905/12
+status: review

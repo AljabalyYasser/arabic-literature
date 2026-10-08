@@ -1,0 +1,19 @@
+explained: false
+first: "أَكَلْتُ السَّنَامَ فَأَفْنَيْتُهُ"
+second: "وَشُدَّ النُّسُوعُ بِأَصْلَابِهَا"
+vocabulary:
+  - term: "النُّسُوعُ"
+    text: "«النِّسْعُ: سَيْرٌ يُضْفَرُ عَلَى هَيْئَةِ أَعِنَّةِ النِّعالِ تُشَدُّ بِهِ الرِّحالُ» [@lisan، ج8 ص352]، والنُّسُوع جمعه."
+  - term: "بِأَصْلَابِهَا"
+    text: "الأصلاب جمع صُلْب: «الصُّلْبُ والصُّلَّبُ: عَظْمٌ مِنْ لَدُنِ الكاهِل إِلى العَجْب» [@lisan، ج1 ص526]."
+sources:
+  - source: "diwan-asha"
+    loc: "ص207"
+    url: "https://archive.org/details/20201023_20201023_0327/page/n206/mode/1up"
+  - source: "lisan"
+    loc: "ج8 ص352"
+    url: "https://shamela.ws/book/1687/4200"
+  - source: "lisan"
+    loc: "ج1 ص526"
+    url: "https://shamela.ws/book/1687/526"
+status: "review"

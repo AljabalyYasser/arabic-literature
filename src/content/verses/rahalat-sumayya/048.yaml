@@ -1,0 +1,19 @@
+explained: false
+first: "فَأَصَبْنَ ذَا كَرَمٍ وَمَنْ أَخْطَأْنَهُ"
+second: "جَزَأَ الْمَقِيظَةَ خَشْيَةً أَمْثَالَهَا"
+vocabulary:
+  - term: "جَزَأَ"
+    text: "اكتفى: «وجَزِئَتِ الإِبلُ: إِذَا اكْتَفَتْ بالرُّطْبِ عَنِ الْمَاءِ» [@lisan، ج1 ص46]."
+  - term: "الْمَقِيظَةَ"
+    text: "«والمَقِيظةُ: نَبَاتٌ يَبْقَى أَخْضَرَ إِلى الْقَيْظِ» [@lisan، ج7 ص457]. يقول: من أخطأته الغارة لزم البادية لا يقرب الماء خشية أن يُصاب."
+sources:
+  - source: "diwan-asha"
+    loc: "ص69"
+    url: "https://archive.org/details/20201023_20201023_0327/page/n69/mode/1up"
+  - source: "lisan"
+    loc: "ج1 ص46"
+    url: "https://shamela.ws/book/1687/46"
+  - source: "lisan"
+    loc: "ج7 ص457"
+    url: "https://shamela.ws/book/1687/3840"
+status: "review"

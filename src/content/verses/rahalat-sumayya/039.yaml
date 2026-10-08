@@ -1,0 +1,16 @@
+explained: false
+first: "ثَقِفٌ إِذَا نَالَتْ يَدَاهُ غَنِيمَةً"
+second: "شَدَّ الرِّكَابَ لِمِثْلِهَا لِيَنَالَهَا"
+vocabulary:
+  - term: "ثَقِفٌ"
+    text: "«وثَقِفٌ وثَقُفٌ: حاذِقٌ فَهِم» [@lisan، ج9 ص19]."
+  - term: "الرِّكَابَ"
+    text: "الإبل التي يُسار عليها."
+sources:
+  - source: "diwan-asha"
+    loc: "ص67"
+    url: "https://archive.org/details/20201023_20201023_0327/page/n67/mode/1up"
+  - source: "lisan"
+    loc: "ج9 ص19"
+    url: "https://shamela.ws/book/1687/4326"
+status: "review"

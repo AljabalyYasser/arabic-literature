@@ -1,0 +1,16 @@
+explained: false
+first: "فَكَفَى الْعَضَارِيطُ الرِّكَابَ فَبُدِّدَتْ"
+second: "مِنْهُ لِأَمْرِ مُؤَمَّلٍ فَأَجَالَهَا"
+vocabulary:
+  - term: "الْعَضَارِيطُ"
+    text: "«والعُضْرُطُ والعُضْرُوطُ: الخادمُ عَلَى طَعامِ بطْنه، وَهُمُ العَضارِيطُ والعَضارِطةُ» [@lisan، ج7 ص351]."
+  - term: "فَأَجَالَهَا"
+    text: "فأدارها وأرسلها في الغارة."
+sources:
+  - source: "diwan-asha"
+    loc: "ص69"
+    url: "https://archive.org/details/20201023_20201023_0327/page/n69/mode/1up"
+  - source: "lisan"
+    loc: "ج7 ص351"
+    url: "https://shamela.ws/book/1687/3734"
+status: "review"

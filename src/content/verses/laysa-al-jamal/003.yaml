@@ -1,0 +1,26 @@
+explained: false
+first: أَعْدَدْتُ لِلْحَدَثَانِ سَا
+second: بِغَةً وَعَدَّاءً عَلَنْدَى
+vocabulary:
+- term: الْحَدَثَانِ
+  text: 'نوائب الدهر؛ «وحدثان الدهر… وحوادثه: نوبه، وما يحدث منه» [@lisan، ج2 ص132].'
+- term: سَابِغَةً
+  text: '«والسابغة: الدرع الواسعة» [@lisan، ج8 ص433].'
+- term: عَدَّاءً
+  text: فرسًا كثير العَدْو.
+- term: عَلَنْدَى
+  text: 'ضخمًا شديدًا؛ «والعلندى: البعير الضخم الشديد، وقيل: الضخم الطويل وكذلك الفرس» [@lisan، ج3 ص301].'
+sources:
+- source: tabrizi-hamasa
+  loc: ج1 ص50
+  url: https://shamela.ws/book/6907/49
+- source: lisan
+  loc: ج2 ص132
+  url: https://shamela.ws/book/1687/936
+- source: lisan
+  loc: ج8 ص433
+  url: https://shamela.ws/book/1687/4281
+- source: lisan
+  loc: ج3 ص301
+  url: https://shamela.ws/book/1687/1743
+status: review

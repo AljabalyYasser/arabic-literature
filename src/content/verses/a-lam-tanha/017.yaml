@@ -1,0 +1,11 @@
+explained: false
+first: "وَكَأْسٍ شَرِبْتُ عَلَى لَذَّةٍ"
+second: "وَأُخْرَى تَدَاوَيْتُ مِنْهَا بِهَا"
+vocabulary:
+  - term: "تَدَاوَيْتُ مِنْهَا بِهَا"
+    text: "عالجت ما فعلته بي الكأس الأولى بشرب الثانية."
+sources:
+  - source: "diwan-asha"
+    loc: "ص209"
+    url: "https://archive.org/details/20201023_20201023_0327/page/n203/mode/1up"
+status: "review"

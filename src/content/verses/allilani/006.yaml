@@ -1,0 +1,16 @@
+explained: false
+first: وَفَتًى يَضْرِبُ الْكَتِيبَةَ بِالسَّيْـ
+second: ـفِ إِذَا كَانَتِ السُّيُوفُ عِصِيَّا
+vocabulary:
+- term: الْكَتِيبَةَ
+  text: الجماعة من الجيش.
+- term: إِذَا كَانَتِ السُّيُوفُ عِصِيَّا
+  text: 'إذا صار الناس يضربون بالسيوف كما يضربون بالعصيّ؛ قال الجاحظ: «ويقولون إعتصى بالسيف، إذا جعل السيف عصاه» [@bayan، ج3 ص53].'
+sources:
+- source: aghani-dk
+  loc: ج11 ص121
+  url: https://archive.org/details/Al-aghani_11/page/n120/mode/1up
+- source: bayan
+  loc: ج3 ص53
+  url: https://shamela.ws/book/10614/604
+status: review

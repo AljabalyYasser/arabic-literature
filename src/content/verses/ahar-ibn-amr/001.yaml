@@ -1,0 +1,24 @@
+explained: false
+first: أَحَارِ بْنَ عَمْرٍو كَأَنِّي خَمِرْ
+second: وَيَعْدُو عَلَى الْمَرْءِ مَا يَأْتَمِرْ
+vocabulary:
+- term: أَحَارِ
+  text: 'يا حارِث، فرخّم الاسم؛ قال البغدادي: «والهمزة للنداء وحار مرخم حارث» [@khizana، ج1 ص374].'
+- term: خَمِرْ
+  text: «الذي قد خالطه داء أو حب» [@lisan، ج4 ص29].
+- term: مَا يَأْتَمِرْ
+  text: «أي ما تأمره به نفسه فيرى أنه رشد فربما كان هلاكه في ذلك» [@lisan، ج4 ص30].
+sources:
+- source: diwan-imru-al-qais
+  loc: ص105
+  url: https://shamela.ws/book/27112/94
+- source: khizana
+  loc: ج1 ص374
+  url: https://shamela.ws/book/12732/372
+- source: lisan
+  loc: ج4 ص29
+  url: https://shamela.ws/book/1687/1989
+- source: lisan
+  loc: ج4 ص30
+  url: https://shamela.ws/book/1687/1990
+status: review

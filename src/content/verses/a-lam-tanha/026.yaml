@@ -1,0 +1,19 @@
+explained: false
+first: "وَكَعْبَةُ نَجْرَانَ حَتْمٌ عَلَيْـ"
+second: "ـكِ حَتَّى تُنَاخِي بِأَبْوَابِهَا"
+vocabulary:
+  - term: "حَتْمٌ"
+    text: "واجب: «قَالَ ابْنُ سِيدَهْ: الحَتْمُ إِيجاب القَضاء» [@lisan، ج12 ص113]."
+  - term: "تُنَاخِي"
+    text: "تُبرَكي: «وأَناخَ الإِبلَ: أَبركها فَبَرَكَتْ» [@lisan، ج3 ص65]. يخاطب ناقته."
+sources:
+  - source: "diwan-asha"
+    loc: "ص209"
+    url: "https://archive.org/details/20201023_20201023_0327/page/n203/mode/1up"
+  - source: "lisan"
+    loc: "ج12 ص113"
+    url: "https://shamela.ws/book/1687/6029"
+  - source: "lisan"
+    loc: "ج3 ص65"
+    url: "https://shamela.ws/book/1687/1507"
+status: "review"

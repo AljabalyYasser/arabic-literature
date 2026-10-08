@@ -1,0 +1,21 @@
+explained: false
+first: فَإِنَّا لَلَحْمُ السَّيْفِ غَيْرَ نَكِيرَةٍ
+second: وَنُلْحِمُهُ حِينًا وَلَيْسَ بِذِي نُكْرِ
+vocabulary:
+- term: لَلَحْمُ السَّيْفِ
+  text: طُعمة له، أي يكثر فينا القتل.
+- term: غَيْرَ نَكِيرَةٍ
+  text: 'حقًّا لا يُنكَر؛ والنكير: الإنكار.'
+- term: نُلْحِمُهُ
+  text: 'نُطعمه لحم أعدائنا؛ يقال: «ألحمته سيفي»، و«ألحمت القوم إذا قتلتهم حتى صاروا لحما» [@lisan، ج12 ص537].'
+sources:
+- source: tabrizi-hamasa
+  loc: ج1 ص341
+  url: https://shamela.ws/book/6907/324
+- source: ibn-qutayba
+  loc: ج2 ص739
+  url: https://shamela.ws/book/23785/730
+- source: lisan
+  loc: ج12 ص537
+  url: https://shamela.ws/book/1687/6450
+status: review

@@ -1,0 +1,18 @@
+explained: false
+first: "قِبَلَ امْرِئٍ طَلْقِ الْيَدَيْنِ مُبَارَكٍ"
+second: "أَلْفَى أَبَاهُ بِنَجْوَةٍ فَسَمَا لَهَا"
+vocabulary:
+  - term: "قِبَلَ"
+    text: "جهة."
+  - term: "طَلْقِ الْيَدَيْنِ"
+    text: "سمح كثير العطاء."
+  - term: "بِنَجْوَةٍ"
+    text: "«والنَّجْوَةُ والنَّجَاةُ: مَا ارتفَع مِنَ الأَرض فَلَمْ يَعْلُه السَّيلُ» [@lisan، ج15 ص305]، أي في منزلة عالية من الشرف."
+sources:
+  - source: "diwan-asha"
+    loc: "ص65"
+    url: "https://archive.org/details/20201023_20201023_0327/page/n65/mode/1up"
+  - source: "lisan"
+    loc: "ج15 ص305"
+    url: "https://shamela.ws/book/1687/7916"
+status: "review"

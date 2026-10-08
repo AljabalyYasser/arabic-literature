@@ -1,14 +1,21 @@
 explained: false
-first: فَإِمَّا تَرَيْنَا لَا تَزَالُ دِمَاؤُنَا
-second: لَدَى وَاتِرٍ يَسْعَى بِهَا آخِرَ الدَّهْرِ
+first: فَقُلْتُ أَعَبْدَ اللَّهِ أَبْكِي أَمِ الَّذِي
+second: لَهُ الْجَدَثُ الْأَعْلَى قَتِيلَ أَبِي بَكْرِ
 vocabulary:
-- term: وَاتِرٍ
-  text: من قتل لنا قتيلًا ولم نُدرك ثأرنا منه؛ «وكل من أدركته بمكروه فقد وترته» [@lisan، ج5 ص274].
+- term: أَعَبْدَ اللَّهِ
+  text: 'أخوه عبد الله بن الصِّمَّة، «الذي قتلته غطفان» [@aghani-dk، ج10 ص4]، وهو الذي رثاه بالدالية.'
+- term: الْجَدَثُ
+  text: '«القبر» [@lisan، ج2 ص128].'
+- term: قَتِيلَ أَبِي بَكْرِ
+  text: 'أخوه قيس، «قتله بنو أبي بكر بن كلاب» [@aghani-dk، ج10 ص4].'
 sources:
-- source: ibn-qutayba
-  loc: ج2 ص739
-  url: https://shamela.ws/book/23785/730
+- source: tabrizi-hamasa
+  loc: ج1 ص340
+  url: https://shamela.ws/book/6907/323
+- source: aghani-dk
+  loc: ج10 ص4
+  url: https://archive.org/details/aghani2014/10/page/n5/mode/1up
 - source: lisan
-  loc: ج5 ص274
-  url: https://shamela.ws/book/1687/2858
+  loc: ج2 ص128
+  url: https://shamela.ws/book/1687/932
 status: review

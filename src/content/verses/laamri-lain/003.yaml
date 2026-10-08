@@ -1,0 +1,19 @@
+explained: false
+first: "فَإِنْ يَكُ نَوْءٌ مِنْ سَحَابٍ أَصَابَهُ"
+second: "فَقَدْ كَانَ يَعْلُو فِي اللِّقَاءِ وَيَظْفَرُ"
+vocabulary:
+  - term: "نَوْءٌ"
+    text: "«والنَّوْءُ: النَّجْمُ إِذَا مَالَ للمَغِيب» [@lisan، ج1 ص175]. «وَكَانَتِ الْعَرَبُ تُضِيفُ الأَمْطار والرِّياح والحرَّ وَالْبَرْدَ إِلَى السَّاقِطِ مِنْهَا» [@lisan، ج1 ص175]. يريد الصاعقة التي أحرقته."
+  - term: "اللِّقَاءِ"
+    text: "الحرب."
+sources:
+  - source: "tabrizi-hamasa"
+    loc: "ج1 ص432"
+    url: "https://shamela.ws/book/6907/415"
+  - source: "diwan-labid"
+    loc: "ص167"
+    url: "https://archive.org/details/3929pdf/page/n212/mode/1up"
+  - source: "lisan"
+    loc: "ج1 ص175"
+    url: "https://shamela.ws/book/1687/175"
+status: "review"

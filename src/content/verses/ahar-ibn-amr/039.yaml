@@ -1,0 +1,21 @@
+explained: false
+first: وَإِنْ أَدْبَرَتْ قُلْتَ أُثْفِيَّةٌ
+second: مُلَمْلَمَةٌ لَيْسَ فِيهَا أُثُرْ
+vocabulary:
+- term: أُثْفِيَّةٌ
+  text: «الحجر الذي توضع عليه القدر» [@lisan، ج9 ص3].
+- term: مُلَمْلَمَةٌ
+  text: «أي مستديرة صلبة» [@lisan، ج12 ص551].
+- term: أُثُرْ
+  text: أثر من شقّ أو نتوء.
+sources:
+- source: diwan-imru-al-qais
+  loc: ص108
+  url: https://shamela.ws/book/27112/97
+- source: lisan
+  loc: ج9 ص3
+  url: https://shamela.ws/book/1687/4310
+- source: lisan
+  loc: ج12 ص551
+  url: https://shamela.ws/book/1687/6464
+status: review

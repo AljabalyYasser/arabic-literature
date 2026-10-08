@@ -1,0 +1,20 @@
+explained: false
+first: وَخَيْلٍ تَعَادَى لَا هَوَادَةَ بَيْنَهَا
+second: شَهِدْتُ بِمَدْلُوكِ الْمَعَاقِمِ مُحْنِقِ
+vocabulary:
+- term: تَعَادَى
+  text: تتعادى، من العَدْو [@asmaiyyat، ص23، الحاشية].
+- term: لَا هَوَادَةَ
+  text: لا لين ولا مصالحة.
+- term: الْمَعَاقِمِ
+  text: فِقَر في مؤخّر الصلب، أو هي المفاصل [@asmaiyyat، ص23، الحاشية].
+- term: مُحْنِقِ
+  text: القليل اللحم، الضامر [@asmaiyyat، ص23، الحاشية].
+sources:
+- source: asmaiyyat
+  loc: ص23
+  url: https://shamela.ws/book/6905/9
+- source: asmaiyyat
+  loc: ص23، الحاشية
+  url: https://shamela.ws/book/6905/9
+status: review

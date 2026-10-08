@@ -1,0 +1,18 @@
+explained: false
+first: لَمَّا رَأَيْتُ نِسَاءَنَا
+second: يَفْحَصْنَ بِالْمَعْزَاءِ شَدَّا
+vocabulary:
+- term: يَفْحَصْنَ
+  text: يحفرن الأرض بأرجلهن من شدة العَدْو.
+- term: الْمَعْزَاءِ
+  text: '«والأمعز والمعزاء: الأرض الحزنة الغليظة ذات الحجارة» [@lisan، ج5 ص411].'
+- term: شَدًّا
+  text: عَدْوًا.
+sources:
+- source: tabrizi-hamasa
+  loc: ج1 ص51
+  url: https://shamela.ws/book/6907/50
+- source: lisan
+  loc: ج5 ص411
+  url: https://shamela.ws/book/1687/2995
+status: review

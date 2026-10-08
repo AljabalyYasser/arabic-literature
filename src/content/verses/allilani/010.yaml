@@ -1,0 +1,16 @@
+explained: false
+first: أَنَّمَا يَقْتُلُ النِّيَامَ وَلَا يَقْـ
+second: ـتُلُ يَقْظَانَ ذَا سِلَاحٍ كَمِيَّا
+vocabulary:
+- term: أَنَّمَا يَقْتُلُ
+  text: في كتاب سِيبَوَيْه «أنما تقتل» بتاء الخطاب [@aghani-dk، ج11 ص121، الحاشية].
+- term: كَمِيَّا
+  text: '«الكمي: الشجاع المتكمي في سلاحه، لأنه كمى نفسه أي سترها بالدرع والبيضة» [@aghani-dk، ج11 ص121، الحاشية].'
+sources:
+- source: aghani-dk
+  loc: ج11 ص121
+  url: https://archive.org/details/Al-aghani_11/page/n120/mode/1up
+- source: aghani-dk
+  loc: ج11 ص121، الحاشية
+  url: https://archive.org/details/Al-aghani_11/page/n120/mode/1up
+status: review

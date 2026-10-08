@@ -1,0 +1,20 @@
+explained: false
+first: كَأَنَّ الْمُدَامَ وَصَوْبَ الْغَمَامِ
+second: وَرِيحَ الْخُزَامَى وَنَشْرَ الْقُطُرْ
+vocabulary:
+- term: الْمُدَامَ
+  text: الخمر.
+- term: صَوْبَ الْغَمَامِ
+  text: 'المطر، و«صوب الغمام: الذي يمزج به الخمر» [@lisan، ج5 ص107].'
+- term: الْخُزَامَى
+  text: نبت طيب الريح.
+- term: نَشْرَ الْقُطُرْ
+  text: '«ونشر القطر: وهو رائحة العود» [@lisan، ج5 ص107].'
+sources:
+- source: diwan-imru-al-qais
+  loc: ص106
+  url: https://shamela.ws/book/27112/95
+- source: lisan
+  loc: ج5 ص107
+  url: https://shamela.ws/book/1687/2691
+status: review

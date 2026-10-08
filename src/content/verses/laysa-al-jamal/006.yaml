@@ -1,0 +1,21 @@
+explained: false
+first: قَوْمٌ إِذَا لَبِسُوا الْحَدِيـ
+second: ـدَ تَنَمَّرُوا حَلَقًا وَقِدَّا
+vocabulary:
+- term: تَنَمَّرُوا
+  text: 'صاروا كالنمور؛ «أي تشبهوا بالنمر لاختلاف ألوان القد والحديد»، وقال ابن بَرِّيّ: «ومعنى تنمروا تنكروا لعدوهم» [@lisan، ج5 ص235].'
+- term: حَلَقًا
+  text: دروعًا من حَلَق الحديد.
+- term: قِدًّا
+  text: '«والقد، بالكسر: سير يقد من جلد غير مدبوغ» [@lisan، ج3 ص344]، يريد ما يُلبس من الجلد في الحرب.'
+sources:
+- source: tabrizi-hamasa
+  loc: ج1 ص50
+  url: https://shamela.ws/book/6907/49
+- source: lisan
+  loc: ج5 ص235
+  url: https://shamela.ws/book/1687/2819
+- source: lisan
+  loc: ج3 ص344
+  url: https://shamela.ws/book/1687/1786
+status: review

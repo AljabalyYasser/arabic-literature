@@ -1,0 +1,20 @@
+explained: false
+first: لَهَا ثُنَنٌ كَخَوَافِي الْعُقَاـ
+second: ـبِ سُودٌ يَفِينَ إِذَا تَزْبَئِرّْ
+vocabulary:
+- term: ثُنَنٌ
+  text: «وهي شعرات مدلاة مشرفات من خلف» الرسغ [@lisan، ج13 ص84].
+- term: كَخَوَافِي الْعُقَابِ
+  text: الريش الصغار في جناحه.
+- term: يَفِينَ
+  text: «غير مهموز، أي يكثرن» [@lisan، ج13 ص84].
+- term: تَزْبَئِرّْ
+  text: ينتفش شعرها.
+sources:
+- source: diwan-imru-al-qais
+  loc: ص107
+  url: https://shamela.ws/book/27112/96
+- source: lisan
+  loc: ج13 ص84
+  url: https://shamela.ws/book/1687/6647
+status: review

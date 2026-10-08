@@ -1,0 +1,21 @@
+explained: false
+first: "وَإِذْ لِمَّتِي كَجَنَاحِ الْغُدَافِ"
+second: "تَرْنُو الْكِعَابُ لِإِعْجَابِهَا"
+vocabulary:
+  - term: "الْغُدَافِ"
+    text: "«الغُداف: الغُراب» [@lisan، ج9 ص262]، يشبّه به سواد شعره."
+  - term: "تَرْنُو"
+    text: "تديم النظر."
+  - term: "الْكِعَابُ"
+    text: "جمع كاعب: «وكَعَبَتِ الجاريةُ، تَكْعُبُ وتَكْعِبُ، الأَخيرةُ عَنْ ثعلبٍ، كُعُوباً وكُعُوبةً وكِعابةً وكَعَّبَت: نَهَدَ ثَدْيُها» [@lisan، ج1 ص719]. وجمعها على كِعاب عن ثعلب، كما ينقل صاحب اللسان [@lisan، ج1 ص719]."
+sources:
+  - source: "diwan-asha"
+    loc: "ص207"
+    url: "https://archive.org/details/20201023_20201023_0327/page/n206/mode/1up"
+  - source: "lisan"
+    loc: "ج9 ص262"
+    url: "https://shamela.ws/book/1687/4569"
+  - source: "lisan"
+    loc: "ج1 ص719"
+    url: "https://shamela.ws/book/1687/719"
+status: "review"

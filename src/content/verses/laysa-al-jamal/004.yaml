@@ -1,0 +1,31 @@
+explained: false
+first: نَهْدًا وَذَا شُطَبٍ يَقُدْـ
+second: ـدُ الْبَيْضَ وَالْأَبْدَانَ قَدَّا
+vocabulary:
+- term: نَهْدًا
+  text: «النهد في نعت الخيل الجسيم المشرف» [@lisan، ج3 ص429].
+- term: ذَا شُطَبٍ
+  text: 'سيفًا؛ «وذو شطب هو السيف. وشطب السيف: طرائقه التي في متنه» [@khizana، ج5 ص375].'
+- term: يَقُدُّ
+  text: 'يشقّ طولًا؛ «القدّ: القطع المستأصل والشق طولًا» [@lisan، ج3 ص344].'
+- term: الْبَيْضَ
+  text: جمع بَيْضة، وهي خوذة الحديد على الرأس.
+- term: الْأَبْدَانَ
+  text: 'جمع بَدَن، «والبدن: شبه درع إلا أنه قصير قدر ما يكون على الجسد فقط قصير الكمين» [@lisan، ج13 ص49].'
+sources:
+- source: tabrizi-hamasa
+  loc: ج1 ص50
+  url: https://shamela.ws/book/6907/49
+- source: lisan
+  loc: ج3 ص429
+  url: https://shamela.ws/book/1687/1871
+- source: khizana
+  loc: ج5 ص375
+  url: https://shamela.ws/book/12732/2271
+- source: lisan
+  loc: ج3 ص344
+  url: https://shamela.ws/book/1687/1786
+- source: lisan
+  loc: ج13 ص49
+  url: https://shamela.ws/book/1687/6612
+status: review

@@ -1,0 +1,16 @@
+explained: false
+first: "تَأْوِي طَوَائِفُهَا إِلَى مُخْضَرَّةٍ"
+second: "مَكْرُوهَةٍ يَخْشَى الْكُمَاةُ نِزَالَهَا"
+vocabulary:
+  - term: "مُخْضَرَّةٍ"
+    text: "كتيبة خضراء: «وَيُقَالُ: كَتِيبَةٌ خَضْراءٌ لِلَّتِي يَعْلُوهَا سَوَادُ الْحَدِيدِ» [@lisan، ج4 ص245]."
+  - term: "الْكُمَاةُ"
+    text: "الشجعان المستترون بالسلاح."
+sources:
+  - source: "diwan-asha"
+    loc: "ص69"
+    url: "https://archive.org/details/20201023_20201023_0327/page/n69/mode/1up"
+  - source: "lisan"
+    loc: "ج4 ص245"
+    url: "https://shamela.ws/book/1687/2205"
+status: "review"

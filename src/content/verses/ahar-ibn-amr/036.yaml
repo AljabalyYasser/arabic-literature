@@ -1,0 +1,18 @@
+explained: false
+first: لَهَا مِنْخَرٌ كَوِجَارِ الضِّبَاعِ
+second: فَمِنْهُ تُرِيحُ إِذَا تَنْبَهِرْ
+vocabulary:
+- term: كَوِجَارِ الضِّبَاعِ
+  text: '«والوجار والوجار: سرب الضبع» [@lisan، ج5 ص280].'
+- term: تُرِيحُ
+  text: تتنفّس.
+- term: تَنْبَهِرْ
+  text: ينقطع نفَسها من العَدْو.
+sources:
+- source: diwan-imru-al-qais
+  loc: ص108
+  url: https://shamela.ws/book/27112/97
+- source: lisan
+  loc: ج5 ص280
+  url: https://shamela.ws/book/1687/2864
+status: review

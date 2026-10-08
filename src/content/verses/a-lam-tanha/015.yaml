@@ -1,0 +1,19 @@
+explained: false
+first: "تَرَاهُنَّ مِنْ بَعْدِ إِسْآدِهِنَّ"
+second: "وَسَيْرِ النَّهَارِ وَتَدْآبِهَا"
+vocabulary:
+  - term: "إِسْآدِهِنَّ"
+    text: "«والإِسْآد: سَيْرُ اللَّيْلِ كُلِّهِ لَا تَعْرِيسَ فِيهِ» [@lisan، ج3 ص201]."
+  - term: "وَتَدْآبِهَا"
+    text: "دؤوبها في السير: «والفِعلُ اللَّازِمُ دَأَبَتِ الناقَةُ تَدْأَبُ دُؤُوباً» [@lisan، ج1 ص369]."
+sources:
+  - source: "diwan-asha"
+    loc: "ص209"
+    url: "https://archive.org/details/20201023_20201023_0327/page/n203/mode/1up"
+  - source: "lisan"
+    loc: "ج3 ص201"
+    url: "https://shamela.ws/book/1687/1643"
+  - source: "lisan"
+    loc: "ج1 ص369"
+    url: "https://shamela.ws/book/1687/369"
+status: "review"

@@ -1,0 +1,16 @@
+explained: false
+first: إِذَا أَقْبَلَتْ قُلْتَ دُبَّاءَةٌ
+second: مِنَ الْخُضْرِ مَغْمُوسَةٌ فِي الْغُدُرْ
+vocabulary:
+- term: دُبَّاءَةٌ
+  text: '«والدباء: القرع» [@lisan، ج14 ص249].'
+- term: الْغُدُرْ
+  text: جمع غدير.
+sources:
+- source: diwan-imru-al-qais
+  loc: ص108
+  url: https://shamela.ws/book/27112/97
+- source: lisan
+  loc: ج14 ص249
+  url: https://shamela.ws/book/1687/7373
+status: review

@@ -1,0 +1,18 @@
+explained: false
+first: يُعَلُّ بِهِ بَرْدُ أَنْيَابِهَا
+second: إِذَا طَرَّبَ الطَّائِرُ الْمُسْتَحِرْ
+vocabulary:
+- term: يُعَلُّ
+  text: يُسقى مرة بعد مرة.
+- term: الطَّائِرُ الْمُسْتَحِرْ
+  text: 'الطائر في السَّحَر؛ «واستحر الطائر: غرد بسحر» [@lisan، ج4 ص351].'
+- term: طَرَّبَ
+  text: رجّع صوته.
+sources:
+- source: diwan-imru-al-qais
+  loc: ص106
+  url: https://shamela.ws/book/27112/95
+- source: lisan
+  loc: ج4 ص351
+  url: https://shamela.ws/book/1687/2311
+status: review

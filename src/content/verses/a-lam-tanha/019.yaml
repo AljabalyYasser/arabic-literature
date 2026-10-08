@@ -1,0 +1,18 @@
+explained: false
+first: "كُمَيْتٍ يُرَى دُونَ قَعْرِ الْإِنَى"
+second: "كَمِثْلِ قَذَى الْعَيْنِ يُقْذَى بِهَا"
+vocabulary:
+  - term: "كُمَيْتٍ"
+    text: "«الكُمَيْتُ: مِنْ أَسماء الْخَمْرِ فِيهَا حُمرة وَسَوَادٌ» [@lisan، ج2 ص81]."
+  - term: "الْإِنَى"
+    text: "الإناء، قُصر."
+  - term: "قَذَى"
+    text: "ما يقع في العين أو في الشراب من غبار ونحوه."
+sources:
+  - source: "diwan-asha"
+    loc: "ص209"
+    url: "https://archive.org/details/20201023_20201023_0327/page/n203/mode/1up"
+  - source: "lisan"
+    loc: "ج2 ص81"
+    url: "https://shamela.ws/book/1687/885"
+status: "review"

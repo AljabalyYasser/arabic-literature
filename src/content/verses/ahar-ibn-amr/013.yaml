@@ -1,0 +1,28 @@
+explained: false
+first: فَتُورُ الْقِيَامِ قَطِيعُ الْكَلَاـ
+second: ـمِ تَفْتَرُّ عَنْ ذِي غُرُوبٍ خَصِرْ
+vocabulary:
+- term: فَتُورُ الْقِيَامِ
+  text: بطيئة القيام من النعمة.
+- term: قَطِيعُ الْكَلَامِ
+  text: قليلته؛ «وامرأة قطيع الكلام إذا لم تكن سليطة» [@lisan، ج8 ص279].
+- term: تَفْتَرُّ
+  text: تبتسم.
+- term: غُرُوبٍ
+  text: '«وغروب الأسنان: مناقع ريقها» [@lisan، ج1 ص643].'
+- term: خَصِرْ
+  text: بارد؛ «وماء خريص مثل خصر أي بارد» [@lisan، ج7 ص23].
+sources:
+- source: diwan-imru-al-qais
+  loc: ص106
+  url: https://shamela.ws/book/27112/95
+- source: lisan
+  loc: ج8 ص279
+  url: https://shamela.ws/book/1687/4127
+- source: lisan
+  loc: ج1 ص643
+  url: https://shamela.ws/book/1687/643
+- source: lisan
+  loc: ج7 ص23
+  url: https://shamela.ws/book/1687/3406
+status: review

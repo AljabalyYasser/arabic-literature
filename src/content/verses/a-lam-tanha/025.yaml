@@ -1,0 +1,18 @@
+explained: false
+first: "أُحِبُّ أُثَافِتَ وَقْتَ الْقِطَافِ"
+second: "وَوَقْتَ عُصَارَةِ أَعْنَابِهَا"
+vocabulary:
+  - term: "أُثَافِتَ"
+    text: "موضع، يقول المحقق: «أثافت قرية باليمامة كثيرة الكروم» [@diwan-asha، ص209]."
+  - term: "الْقِطَافِ"
+    text: "«والقَطَاف والقِطَاف: أَوانُ قَطْفِ الثَّمَرِ» [@lisan، ج9 ص285]."
+  - term: "عُصَارَةِ"
+    text: "عصر العنب للخمر."
+sources:
+  - source: "diwan-asha"
+    loc: "ص209"
+    url: "https://archive.org/details/20201023_20201023_0327/page/n203/mode/1up"
+  - source: "lisan"
+    loc: "ج9 ص285"
+    url: "https://shamela.ws/book/1687/4592"
+status: "review"

@@ -1,0 +1,21 @@
+explained: false
+first: فَظَلَّ يُرَنِّحُ فِي غَيْطَلٍ
+second: كَمَا يَسْتَدِيرُ الْحِمَارُ النَّعِرْ
+vocabulary:
+- term: يُرَنِّحُ
+  text: يدور ويتمايل من ألم الطعنة.
+- term: غَيْطَلٍ
+  text: «والغيطل والغيطلة الشجر الكثير الملتف» [@lisan، ج11 ص497].
+- term: الْحِمَارُ النَّعِرْ
+  text: الحمار الذي «دخلت النعرة في أنفه» [@lisan، ج5 ص221]، والنُّعَرة ذبابة.
+sources:
+- source: diwan-imru-al-qais
+  loc: ص107
+  url: https://shamela.ws/book/27112/96
+- source: lisan
+  loc: ج11 ص497
+  url: https://shamela.ws/book/1687/5675
+- source: lisan
+  loc: ج5 ص221
+  url: https://shamela.ws/book/1687/2805
+status: review

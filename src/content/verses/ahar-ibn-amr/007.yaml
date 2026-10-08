@@ -1,0 +1,21 @@
+explained: false
+first: وَفِيمَنْ أَقَامَ مِنَ الْحَيِّ هِرّْ
+second: أَمِ الظَّاعِنُونَ بِهَا فِي الشُّطُرْ
+vocabulary:
+- term: هِرّْ
+  text: 'صاحبته؛ قال البغدادي: «وكنيتها أم الحويرث وهي التي كان يشبب بها في أشعاره» [@khizana، ج1 ص375].'
+- term: الظَّاعِنُونَ
+  text: الراحلون.
+- term: الشُّطُرْ
+  text: 'البُعداء؛ «وحي شطير: بعيد، والجمع شطر» [@lisan، ج4 ص408].'
+sources:
+- source: diwan-imru-al-qais
+  loc: ص105
+  url: https://shamela.ws/book/27112/94
+- source: khizana
+  loc: ج1 ص375
+  url: https://shamela.ws/book/12732/373
+- source: lisan
+  loc: ج4 ص408
+  url: https://shamela.ws/book/1687/2368
+status: review

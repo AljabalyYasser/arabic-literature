@@ -1,0 +1,23 @@
+explained: false
+first: نُبِّئْتُ أَنَّ النَّارَ بَعْدَكَ أُوقِدَتْ
+second: وَاسْتَبَّ بَعْدَكَ يَا كُلَيْبُ الْمَجْلِسُ
+vocabulary:
+- term: نُبِّئْتُ
+  text: أُخبرت.
+- term: النَّارَ
+  text: 'نار القِرى، يوقدها الكريم ليهتدي إليها الضيف. وكان كُلَيْب «لا توقد نار مع ناره» [@iqd، ج6 ص70].'
+- term: اسْتَبَّ
+  text: تسابّ، أي سبّ بعضهم بعضًا.
+- term: الْمَجْلِسُ
+  text: 'أهل المجلس؛ «قال الأصمعى: المجلس الناس، وأنشد بيت مهلهل» [@qali، ج1 ص95].'
+sources:
+- source: tabrizi-hamasa
+  loc: ج1 ص385
+  url: https://shamela.ws/book/6907/368
+- source: iqd
+  loc: ج6 ص70
+  url: https://shamela.ws/book/23789/1881
+- source: qali
+  loc: ج1 ص95
+  url: https://shamela.ws/book/9160/95
+status: review

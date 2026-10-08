@@ -1,0 +1,23 @@
+explained: false
+first: بَرَهْرَهَةٌ رُودَةٌ رَخْصَةٌ
+second: كَخُرْعُوبَةِ الْبَانَةِ الْمُنْفَطِرْ
+vocabulary:
+- term: بَرَهْرَهَةٌ
+  text: «هي الرقيقة الجلد كأن الماء يجري فيها من النعمة» [@lisan، ج13 ص476].
+- term: رُودَةٌ رَخْصَةٌ
+  text: شابة ناعمة، لينة البدن.
+- term: كَخُرْعُوبَةِ الْبَانَةِ
+  text: 'كغصن البان؛ «والغصن الخرعوب: المنثني» [@lisan، ج1 ص351].'
+- term: الْمُنْفَطِرْ
+  text: الذي تفطّر عن ورقه الجديد.
+sources:
+- source: diwan-imru-al-qais
+  loc: ص106
+  url: https://shamela.ws/book/27112/95
+- source: lisan
+  loc: ج13 ص476
+  url: https://shamela.ws/book/1687/7037
+- source: lisan
+  loc: ج1 ص351
+  url: https://shamela.ws/book/1687/351
+status: review

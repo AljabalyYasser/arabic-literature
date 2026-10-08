@@ -1,0 +1,16 @@
+explained: false
+first: "تَرَى الصَّنْجَ يَبْكِي لَهُ شَجْوَهُ"
+second: "مَخَافَةَ أَنْ سَوْفَ يُدْعَى بِهَا"
+vocabulary:
+  - term: "الصَّنْجَ"
+    text: "«الصَّنْجُ العربُّي: هُوَ الَّذِي يَكُونُ فِي الدُّفُوف وَنَحْوِهِ» [@lisan، ج2 ص311]."
+  - term: "شَجْوَهُ"
+    text: "حزنه."
+sources:
+  - source: "diwan-asha"
+    loc: "ص209"
+    url: "https://archive.org/details/20201023_20201023_0327/page/n203/mode/1up"
+  - source: "lisan"
+    loc: "ج2 ص311"
+    url: "https://shamela.ws/book/1687/1115"
+status: "review"

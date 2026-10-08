@@ -1,0 +1,18 @@
+explained: false
+first: يُغَارُ عَلَيْنَا وَاتِرِينَ فَيُشْتَفَى
+second: بِنَا إِنْ أُصِبْنَا أَوْ نُغِيرُ عَلَى وِتْرِ
+vocabulary:
+- term: وَاتِرِينَ
+  text: 'قد قتلنا منهم ولم يدركوا ثأرهم بعد، فهم يغيرون علينا ليدركوه.'
+- term: فَيُشْتَفَى بِنَا
+  text: 'يشفي أعداؤنا غيظهم بقتلنا.'
+- term: وِتْرِ
+  text: 'ثأر؛ «والوتر والوتر والترة والوتيرة: الظلم في الذحل، وقيل: هو الذحل عامة» [@lisan، ج5 ص274]، والذَّحْل: الثأر.'
+sources:
+- source: tabrizi-hamasa
+  loc: ج1 ص341
+  url: https://shamela.ws/book/6907/324
+- source: lisan
+  loc: ج5 ص274
+  url: https://shamela.ws/book/1687/2858
+status: review

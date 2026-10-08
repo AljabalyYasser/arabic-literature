@@ -1,0 +1,21 @@
+explained: false
+first: "أَمًّا لِصَاحِبِ نِعْمَةٍ طَرَّحْتَهَا"
+second: "وَوِصَالِ رَحْمٍ قَدْ نَضَحْتَ بِلَالَهَا"
+vocabulary:
+  - term: "أَمًّا"
+    text: "قصدًا."
+  - term: "رَحْمٍ"
+    text: "«الرَّحِمُ الْقَرَابَةُ، والرِّحْمُ، بِالْكَسْرِ، مثلُه» [@lisan، ج12 ص232]."
+  - term: "نَضَحْتَ بِلَالَهَا"
+    text: "وصلتها: «بَلَلْت رَحِمي أَبُلُّها بَلًّا وبِلالًا وَصَلْتها ونَدَّيْتُها» [@lisan، ج11 ص64]."
+sources:
+  - source: "diwan-asha"
+    loc: "ص67"
+    url: "https://archive.org/details/20201023_20201023_0327/page/n67/mode/1up"
+  - source: "lisan"
+    loc: "ج12 ص232"
+    url: "https://shamela.ws/book/1687/6147"
+  - source: "lisan"
+    loc: "ج11 ص64"
+    url: "https://shamela.ws/book/1687/5246"
+status: "review"

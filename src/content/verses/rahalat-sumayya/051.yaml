@@ -1,0 +1,21 @@
+explained: false
+first: "وَإِذَا تَجِيءُ كَتِيبَةٌ مَلْمُومَةٌ"
+second: "خَرْسَاءُ تُغْشِي مَنْ يَذُودُ نِهَالَهَا"
+vocabulary:
+  - term: "مَلْمُومَةٌ"
+    text: "«وكَتيبة مَلْمُومَة ومُلَمْلَمَة: مُجْتَمِعَةٌ» [@lisan، ج12 ص550]."
+  - term: "خَرْسَاءُ"
+    text: "«وَكَتِيبَةٌ خَرْساء إِذا صَمَتَتْ مِنْ كَثْرَةِ الدُّرُوعِ أَي لَمْ يَكُنْ لَهَا قَعاقِعُ» [@lisan، ج6 ص62]."
+  - term: "نِهَالَهَا"
+    text: "العطاش من رماحها، أي الرماح التي تطلب الدم."
+sources:
+  - source: "diwan-asha"
+    loc: "ص69"
+    url: "https://archive.org/details/20201023_20201023_0327/page/n69/mode/1up"
+  - source: "lisan"
+    loc: "ج12 ص550"
+    url: "https://shamela.ws/book/1687/6463"
+  - source: "lisan"
+    loc: "ج6 ص62"
+    url: "https://shamela.ws/book/1687/3074"
+status: "review"

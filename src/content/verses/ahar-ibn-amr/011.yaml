@@ -1,0 +1,21 @@
+explained: false
+first: وَإِذْ هِيَ تَمْشِي كَمَشْيِ النَّزِيـ
+second: ـفِ يَصْرَعُهُ بِالْكَثِيبِ الْبُهُرْ
+vocabulary:
+- term: النَّزِيفِ
+  text: 'السكران؛ قال أبو عَمْرو: «النزيف السكران» [@lisan، ج9 ص327].'
+- term: الْبُهُرْ
+  text: '«والبهر بالضم: تتابع النفس من الإعياء» [@lisan، ج4 ص82].'
+- term: الْكَثِيبِ
+  text: التلّ من الرمل.
+sources:
+- source: diwan-imru-al-qais
+  loc: ص106
+  url: https://shamela.ws/book/27112/95
+- source: lisan
+  loc: ج9 ص327
+  url: https://shamela.ws/book/1687/4634
+- source: lisan
+  loc: ج4 ص82
+  url: https://shamela.ws/book/1687/2042
+status: review

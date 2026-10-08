@@ -1,0 +1,21 @@
+explained: false
+first: "وَمِزْهَرُنَا مُعْمَلٌ دَائِمٌ"
+second: "فَأَيُّ الثَّلَاثَةِ أَزْرَى بِهَا"
+vocabulary:
+  - term: "مِزْهَرُنَا"
+    text: "«والمِزْهَرُ: الْعُودِ الَّذِي يُضْرَبِ بِهِ» [@lisan، ج4 ص333]."
+  - term: "مُعْمَلٌ"
+    text: "مستعمل لا يُترك."
+  - term: "أَزْرَى بِهَا"
+    text: "«وأَزْرَى بِهِ، بالأَلف، إِزْرَاءً: قَصَّرَ بِهِ وحَقَّرَه وهَوَّنه» [@lisan، ج14 ص356]. يقول: أيّ هذه الثلاثة يُعاب به العيش؟"
+sources:
+  - source: "diwan-asha"
+    loc: "ص209"
+    url: "https://archive.org/details/20201023_20201023_0327/page/n203/mode/1up"
+  - source: "lisan"
+    loc: "ج4 ص333"
+    url: "https://shamela.ws/book/1687/2293"
+  - source: "lisan"
+    loc: "ج14 ص356"
+    url: "https://shamela.ws/book/1687/7480"
+status: "review"

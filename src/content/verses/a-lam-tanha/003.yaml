@@ -1,0 +1,16 @@
+explained: false
+first: "فَإِنْ تَعْهَدِينِي وَلِي لِمَّةٌ"
+second: "فَإِنَّ الْحَوَادِثَ أَلْوَى بِهَا"
+vocabulary:
+  - term: "تَعْهَدِينِي"
+    text: "تعرفيني من قبل."
+  - term: "أَلْوَى بِهَا"
+    text: "«وأَلْوَى بِالشَّيْءِ: ذهَب بِهِ» [@lisan، ج15 ص263]."
+sources:
+  - source: "diwan-asha"
+    loc: "ص207"
+    url: "https://archive.org/details/20201023_20201023_0327/page/n206/mode/1up"
+  - source: "lisan"
+    loc: "ج15 ص263"
+    url: "https://shamela.ws/book/1687/7874"
+status: "review"

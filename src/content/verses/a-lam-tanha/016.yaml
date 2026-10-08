@@ -1,0 +1,23 @@
+explained: false
+first: "طِوَالَ الْأَخَادِعِ خُوصَ الْعُيُونِ"
+second: "خِمَاصًا مَوَاضِعُ أَحْقَابِهَا"
+vocabulary:
+  - term: "الْأَخَادِعِ"
+    text: "جمع أَخْدَع: «والأَخْدَعانِ: عِرْقان خَفِيّانِ فِي مَوْضِعِ الحِجامة مِنَ العُنق» [@lisan، ج8 ص66]."
+  - term: "خُوصَ الْعُيُونِ"
+    text: "غائرات العيون من طول السفر."
+  - term: "خِمَاصًا"
+    text: "ضامرات البطون."
+  - term: "أَحْقَابِهَا"
+    text: "جمع حَقَب: «الحَقَبُ، بِالتَّحْرِيكِ: الحِزامُ الَّذِي يَلِي حَقْوَ البَعِير» [@lisan، ج1 ص324]."
+sources:
+  - source: "diwan-asha"
+    loc: "ص209"
+    url: "https://archive.org/details/20201023_20201023_0327/page/n203/mode/1up"
+  - source: "lisan"
+    loc: "ج8 ص66"
+    url: "https://shamela.ws/book/1687/3914"
+  - source: "lisan"
+    loc: "ج1 ص324"
+    url: "https://shamela.ws/book/1687/324"
+status: "review"

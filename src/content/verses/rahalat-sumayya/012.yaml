@@ -1,0 +1,16 @@
+explained: false
+first: "يَهْمَاءَ مُوحِشَةٍ رَفَعْتُ لِعَرْضِهَا"
+second: "طَرْفِي لِأَقْدُرَ بَيْنَهَا أَمْيَالَهَا"
+vocabulary:
+  - term: "يَهْمَاءَ"
+    text: "«اليَهْمَاءُ: مفازةٌ لَا مَاءَ فِيهَا وَلَا يُسْمع فِيهَا صوتٌ» [@lisan، ج12 ص648]."
+  - term: "أَمْيَالَهَا"
+    text: "جمع مِيل، وهو منتهى مدّ البصر من الأرض."
+sources:
+  - source: "diwan-asha"
+    loc: "ص63"
+    url: "https://archive.org/details/20201023_20201023_0327/page/n63/mode/1up"
+  - source: "lisan"
+    loc: "ج12 ص648"
+    url: "https://shamela.ws/book/1687/6561"
+status: "review"

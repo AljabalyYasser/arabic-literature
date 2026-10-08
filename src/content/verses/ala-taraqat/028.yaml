@@ -1,0 +1,20 @@
+explained: false
+first: مُعَرَّسُ رَكْبٍ قَافِلِينَ بِصِرَّةٍ
+second: صِرَادٍ إِذَا مَا نَارُهُمْ لَمْ تُحَرَّقِ
+vocabulary:
+- term: مُعَرَّسُ
+  text: مكان التعريس، وهو خبر «كأنّ» في البيت قبله [@asmaiyyat، ص25، الحاشية].
+- term: قَافِلِينَ
+  text: عائدين [@asmaiyyat، ص25، الحاشية].
+- term: صِرَّةٍ
+  text: شدّة البرد [@asmaiyyat، ص25، الحاشية].
+- term: صِرَادٍ
+  text: أصابهم الصَّرَد، وهو البرد [@asmaiyyat، ص25، الحاشية].
+sources:
+- source: asmaiyyat
+  loc: ص25
+  url: https://shamela.ws/book/6905/11
+- source: asmaiyyat
+  loc: ص25، الحاشية
+  url: https://shamela.ws/book/6905/11
+status: review

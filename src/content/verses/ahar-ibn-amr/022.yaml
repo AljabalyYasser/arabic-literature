@@ -1,0 +1,18 @@
+explained: false
+first: أَلَصُّ الضُّرُوسِ حَنِيُّ الضُّلُوعِ
+second: تَبُوعٌ طَلُوبٌ نَشِيطٌ أَشِرْ
+vocabulary:
+- term: أَلَصُّ الضُّرُوسِ
+  text: متلاصق الأضراس.
+- term: حَنِيُّ الضُّلُوعِ
+  text: منحني الضلوع من الضمور.
+- term: أَشِرْ
+  text: 'مَرِح؛ «الأشر: المرح» [@lisan، ج4 ص20].'
+sources:
+- source: diwan-imru-al-qais
+  loc: ص107
+  url: https://shamela.ws/book/27112/96
+- source: lisan
+  loc: ج4 ص20
+  url: https://shamela.ws/book/1687/1980
+status: review

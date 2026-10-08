@@ -1,0 +1,20 @@
+explained: false
+first: وَمَرْقَبَةٍ طَيَّرْتُ عَنْهَا حَمَامَهَا
+second: نَعَامَتُهَا مِنْهَا بِضَاحٍ مُزَلَّقِ
+vocabulary:
+- term: مَرْقَبَةٍ
+  text: الموضع الذي يُرقَب عليه [@asmaiyyat، ص24، الحاشية].
+- term: نَعَامَتُهَا
+  text: كل بناء على الجبل كالظُّلّة والعَلَم [@asmaiyyat، ص24، الحاشية].
+- term: ضَاحٍ
+  text: البارز للشمس [@asmaiyyat، ص24، الحاشية].
+- term: مُزَلَّقِ
+  text: الأملس الذي لا تثبت عليه قدم [@asmaiyyat، ص24، الحاشية].
+sources:
+- source: asmaiyyat
+  loc: ص24
+  url: https://shamela.ws/book/6905/10
+- source: asmaiyyat
+  loc: ص24، الحاشية
+  url: https://shamela.ws/book/6905/10
+status: review

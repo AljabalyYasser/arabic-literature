@@ -1,0 +1,16 @@
+explained: false
+first: "وَغَرِيبَةٍ تَأْتِي الْمُلُوكَ حَكِيمَةٍ"
+second: "قَدْ قُلْتُهَا لِيُقَالَ مَنْ ذَا قَالَهَا"
+vocabulary:
+  - term: "حَكِيمَةٍ"
+    text: "محكمة: «وَقَدْ سَمّى الأَعشى الْقَصِيدَةَ المُحْكمَةَ حَكِيمَةً» [@lisan، ج12 ص141]."
+  - term: "وَغَرِيبَةٍ"
+    text: "قصيدة نادرة تسير في البلاد."
+sources:
+  - source: "diwan-asha"
+    loc: "ص63"
+    url: "https://archive.org/details/20201023_20201023_0327/page/n63/mode/1up"
+  - source: "lisan"
+    loc: "ج12 ص141"
+    url: "https://shamela.ws/book/1687/6057"
+status: "review"

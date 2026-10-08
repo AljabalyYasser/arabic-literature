@@ -1,0 +1,23 @@
+explained: false
+first: وَقَدْ أَغْتَدِي وَمَعِي الْقَانِصَانِ
+second: وَكُلٌّ بِمَرْبَأَةٍ مُقْتَفِرْ
+vocabulary:
+- term: أَغْتَدِي
+  text: أخرج غُدوة، أي في أول الصبح.
+- term: الْقَانِصَانِ
+  text: الصائدان.
+- term: بِمَرْبَأَةٍ
+  text: بموضع مرتفع يرقب منه؛ «ومربأة البازي، الموضع الذي يشرف عليه» [@lisan، ج1 ص82].
+- term: مُقْتَفِرْ
+  text: 'متتبّع الأثر؛ «واقتفره اقتفارا وتقفره، كله: اقتفاه وتتبعه» [@lisan، ج5 ص111].'
+sources:
+- source: diwan-imru-al-qais
+  loc: ص106
+  url: https://shamela.ws/book/27112/95
+- source: lisan
+  loc: ج1 ص82
+  url: https://shamela.ws/book/1687/82
+- source: lisan
+  loc: ج5 ص111
+  url: https://shamela.ws/book/1687/2695
+status: review

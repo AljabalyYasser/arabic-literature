@@ -1,0 +1,18 @@
+explained: false
+first: أَسَالَ شَقًا يَعْلُو الْعِضَاهَ غُثَاؤُهُ
+second: يُصَفِّقُ فِي قِيعَانِهَا كُلَّ مَصْفَقِ
+vocabulary:
+- term: شَقًا
+  text: يبدو للمحققين أنه اسم مكان بعينه، ولعله واد سال فيه الماء [@asmaiyyat، ص26، الحاشية].
+- term: الْعِضَاهَ
+  text: ما عظم من شجر الشوك وطال واشتد شوكه [@asmaiyyat، ص26، الحاشية].
+- term: غُثَاؤُهُ
+  text: ما يحمله السيل من الزبد والوسخ ونحوه [@asmaiyyat، ص26، الحاشية].
+sources:
+- source: asmaiyyat
+  loc: ص26
+  url: https://shamela.ws/book/6905/12
+- source: asmaiyyat
+  loc: ص26، الحاشية
+  url: https://shamela.ws/book/6905/12
+status: review

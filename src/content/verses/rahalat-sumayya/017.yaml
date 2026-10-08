@@ -1,0 +1,19 @@
+explained: false
+first: "فَتَنَاوَلَتْ قَيْسًا بِحُرِّ بِلَادِهِ"
+second: "فَأَتَتْهُ بَعْدَ تَنُوفَةٍ فَأَنَالَهَا"
+vocabulary:
+  - term: "بِحُرِّ بِلَادِهِ"
+    text: "في أطيب بلاده: «وحُرُّ كُلِّ أَرض: وسَطُها وأَطيبها» [@lisan، ج4 ص182]."
+  - term: "تَنُوفَةٍ"
+    text: "«التَّنُوفةُ: القَفْرُ مِنَ الأَرض» [@lisan، ج9 ص18]."
+sources:
+  - source: "diwan-asha"
+    loc: "ص65"
+    url: "https://archive.org/details/20201023_20201023_0327/page/n65/mode/1up"
+  - source: "lisan"
+    loc: "ج4 ص182"
+    url: "https://shamela.ws/book/1687/2142"
+  - source: "lisan"
+    loc: "ج9 ص18"
+    url: "https://shamela.ws/book/1687/4325"
+status: "review"

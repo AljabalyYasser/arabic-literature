@@ -1,0 +1,19 @@
+explained: false
+first: "لِجَارَتِنَا إِذْ رَأَتْ لِمَّتِي"
+second: "تَقُولُ لَكَ الْوَيْلُ أَنَّى بِهَا"
+vocabulary:
+  - term: "لِمَّتِي"
+    text: "«واللِّمَّة: شَعْرُ الرأْس، بِالْكَسْرِ، إِذَا كَانَ فَوْقَ الوَفْرة» [@lisan، ج12 ص551]، والوَفْرة دونها."
+  - term: "أَنَّى بِهَا"
+    text: "«أَنَّى مَعْنَاهَا كَيْفَ ومِنْ أَيْنَ» [@lisan، ج15 ص438]، أي: من أين لك هذا الشيب؟"
+sources:
+  - source: "diwan-asha"
+    loc: "ص207"
+    url: "https://archive.org/details/20201023_20201023_0327/page/n206/mode/1up"
+  - source: "lisan"
+    loc: "ج12 ص551"
+    url: "https://shamela.ws/book/1687/6464"
+  - source: "lisan"
+    loc: "ج15 ص438"
+    url: "https://shamela.ws/book/1687/8045"
+status: "review"

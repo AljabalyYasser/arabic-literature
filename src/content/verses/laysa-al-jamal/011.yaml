@@ -1,0 +1,16 @@
+explained: false
+first: نَازَلْتُ كَبْشَهُمُ وَلَمْ
+second: أَرَ مِنْ نِزَالِ الْكَبْشِ بُدَّا
+vocabulary:
+- term: كَبْشَهُمُ
+  text: 'رئيسهم؛ «وكبش الكتيبة: قائدها» [@lisan، ج6 ص338].'
+- term: بُدًّا
+  text: مَهْربًا ومَخْرجًا.
+sources:
+- source: tabrizi-hamasa
+  loc: ج1 ص51
+  url: https://shamela.ws/book/6907/50
+- source: lisan
+  loc: ج6 ص338
+  url: https://shamela.ws/book/1687/3350
+status: review

@@ -1,0 +1,21 @@
+explained: false
+first: فَيُدْرِكُنَا فَغِمٌ دَاجِنٌ
+second: سَمِيعٌ بَصِيرٌ طَلُوبٌ نَكِرْ
+vocabulary:
+- term: فَغِمٌ
+  text: 'كلب صيد؛ «وكلب فغم: حريص على الصيد» [@lisan، ج12 ص456].'
+- term: دَاجِنٌ
+  text: أليف، أي مدرَّب.
+- term: نَكِرْ
+  text: «داه فطن» [@lisan، ج5 ص232].
+sources:
+- source: diwan-imru-al-qais
+  loc: ص106
+  url: https://shamela.ws/book/27112/95
+- source: lisan
+  loc: ج12 ص456
+  url: https://shamela.ws/book/1687/6369
+- source: lisan
+  loc: ج5 ص232
+  url: https://shamela.ws/book/1687/2816
+status: review

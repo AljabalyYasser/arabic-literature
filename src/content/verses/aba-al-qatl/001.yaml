@@ -1,16 +1,15 @@
 explained: false
-first: أَبَى الْقَتْلُ إِلَّا آلَ صِمَّةَ أَنَّهُمْ
-second: أَبَوْا غَيْرَهُ وَالْقَدْرُ يَجْرِي إِلَى الْقَدْرِ
+first: تَقُولُ أَلَا تَبْكِي أَخَاكَ وَقَدْ أَرَى
+second: مَكَانَ الْبُكَا لَكِنْ بُنِيتُ عَلَى الصَّبْرِ
 vocabulary:
-- term: آلَ صِمَّةَ
-  text: أهل الصِّمّة، أبي دُرَيْد، أي دُرَيْد وإخوته.
-- term: الْقَدْرُ
-  text: القضاء؛ «القَدْر والقَدَر القضاء والحكم» [@lisan، ج5 ص74].
+- term: تَقُولُ
+  text: 'امرأة تلومه، لا يسميها.'
+- term: مَكَانَ الْبُكَا
+  text: 'موضع البكاء، أي أن أخاه أهل لأن يُبكى عليه.'
+- term: بُنِيتُ عَلَى الصَّبْرِ
+  text: 'طُبعت عليه، فهو خُلُقي.'
 sources:
-- source: ibn-qutayba
-  loc: ج2 ص739
-  url: https://shamela.ws/book/23785/730
-- source: lisan
-  loc: ج5 ص74
-  url: https://shamela.ws/book/1687/2658
+- source: tabrizi-hamasa
+  loc: ج1 ص340
+  url: https://shamela.ws/book/6907/323
 status: review

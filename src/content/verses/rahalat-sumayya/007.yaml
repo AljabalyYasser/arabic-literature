@@ -1,0 +1,22 @@
+explained: false
+first: "فَرَمَيْتُ غَفْلَةَ عَيْنِهِ عَنْ شَاتِهِ"
+second: "فَأَصَبْتُ حَبَّةَ قَلْبِهَا وَطِحَالَهَا"
+vocabulary:
+  - term: "شَاتِهِ"
+    text: "امرأته: «وَرُبَّمَا كُنِيَ بِالشَّاةِ عَنِ المرأَة أَيضاً؛ قَالَ الأَعشى» [@lisan، ج13 ص510]، وأنشد هذا البيت. وأنشده المُبَرِّد بعد قوله: «والعرب تكني عن المرأة بالبقرة والنعجة» [@kamil، ج1 ص225]."
+  - term: "حَبَّةَ قَلْبِهَا"
+    text: "«وحَبَّةُ القَلْبِ: ثَمَرتُه وسُوَيْداؤُه» [@lisan، ج1 ص294]، وأنشد صاحب اللسان هذا العجز. فالصورة صورة صياد رمى شاة فأصاب قلبها."
+sources:
+  - source: "diwan-asha"
+    loc: "ص63"
+    url: "https://archive.org/details/20201023_20201023_0327/page/n63/mode/1up"
+  - source: "lisan"
+    loc: "ج13 ص510"
+    url: "https://shamela.ws/book/1687/7071"
+  - source: "kamil"
+    loc: "ج1 ص225"
+    url: "https://shamela.ws/book/8505/324"
+  - source: "lisan"
+    loc: "ج1 ص294"
+    url: "https://shamela.ws/book/1687/294"
+status: "review"

@@ -1,0 +1,22 @@
+explained: false
+first: سَرَتْ كُلَّ وَادٍ دُونَ رَهْوَةَ دَافِعٍ
+second: وَجِلْذَانَ أَوْ كَرْمٍ بِلِيَّةَ مُحْدِقِ
+vocabulary:
+- term: رَهْوَةَ
+  text: جبل أو طريق بالطائف [@asmaiyyat، ص22، الحاشية].
+- term: دَافِعٍ
+  text: يدفع الماء، صفة للوادي [@asmaiyyat، ص22، الحاشية].
+- term: جِلْذَانَ
+  text: موضع قرب الطائف [@asmaiyyat، ص22، الحاشية].
+- term: لِيَّةَ
+  text: موضع بالطائف أيضًا [@asmaiyyat، ص22، الحاشية].
+- term: مُحْدِقِ
+  text: محيط، يريد أن الكرم استدار بهذا الموضع [@asmaiyyat، ص22، الحاشية].
+sources:
+- source: asmaiyyat
+  loc: ص22
+  url: https://shamela.ws/book/6905/8
+- source: asmaiyyat
+  loc: ص22، الحاشية
+  url: https://shamela.ws/book/6905/8
+status: review

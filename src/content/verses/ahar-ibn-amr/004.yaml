@@ -1,0 +1,16 @@
+explained: false
+first: إِذَا رَكِبُوا الْخَيْلَ وَاسْتَلْأَمُوا
+second: تَحَرَّقَتِ الْأَرْضُ وَالْيَوْمُ قَرّْ
+vocabulary:
+- term: اسْتَلْأَمُوا
+  text: لبسوا اللأمة، وهي الدرع.
+- term: قَرّْ
+  text: 'بارد؛ قال ابن الأعرابي: «يوم قر ولا أقول قار»، وأنشد: «تحرقت الأرض واليوم قر» [@lisan، ج5 ص83].'
+sources:
+- source: diwan-imru-al-qais
+  loc: ص105
+  url: https://shamela.ws/book/27112/94
+- source: lisan
+  loc: ج5 ص83
+  url: https://shamela.ws/book/1687/2667
+status: review

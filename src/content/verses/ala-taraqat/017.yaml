@@ -1,0 +1,25 @@
+explained: false
+first: طَوِيلٍ عُظَامٍ غَيْرِ خَافٍ نَمَى بِهِ
+second: سَلِيمُ الشَّظَا فِي مُكْرَبَاتِ الْمُطَبَّقِ
+vocabulary:
+- term: عُظَامٍ
+  text: عظيم [@asmaiyyat، ص23، الحاشية].
+- term: غَيْرِ خَافٍ
+  text: ظاهر بين الخيل [@asmaiyyat، ص23، الحاشية].
+- term: الشَّظَا
+  text: عظم لاصق بالركبة [@asmaiyyat، ص23، الحاشية].
+- term: الْمُطَبَّقِ
+  text: موضع انطباق العظمين، وهو المفصل [@asmaiyyat، ص24، الحاشية].
+- term: مُكْرَبَاتِ
+  text: الشديدة العَقْد، يريد أن هذا الفرس ينتمي إلى أب كريم [@asmaiyyat، ص24، الحاشية].
+sources:
+- source: asmaiyyat
+  loc: ص23
+  url: https://shamela.ws/book/6905/9
+- source: asmaiyyat
+  loc: ص23، الحاشية
+  url: https://shamela.ws/book/6905/9
+- source: asmaiyyat
+  loc: ص24، الحاشية
+  url: https://shamela.ws/book/6905/10
+status: review
