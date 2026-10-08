@@ -1,0 +1,12 @@
+kind: "mathal"
+part: "1"
+order: 3
+text: "أَصْبِحْ لَيْلُ"
+story: "asbih-layl"
+meaning: "يا ليل، صِرْ صبحًا. قالته امرأة امرئ القَيْس تستعجل الصبح لتقوم عنه، «وإنما يقال ذلك في الليلة الشديدة التي يَطُول فيها الشر» [@maydani، ج1 ص403–404]."
+chapter: "1/al-mujun"
+sources:
+  - source: "maydani"
+    loc: "ج1 ص403–404"
+    url: "https://shamela.ws/book/12929/2184"
+status: "review"

@@ -1,0 +1,14 @@
+kind: "bayt"
+title: "وكأسٍ شربتُ على لذّة"
+part: "1"
+order: 1
+person: "al-asha"
+verses:
+  - "a-lam-tanha/017"
+meaning: "رُبّ كأس شربتها للذة، وأخرى شربتها أتداوى بها من أذى الأولى. ويقول ابن قُتَيْبة إن أبا نُواس أخذه في قوله «وداوني بالتي كانت هي الداء»، «فللأعشى فضل السّبق إليه، ولأبى نواس فضل الزيادة فيه» [@ibn-qutayba، ج1 ص74]."
+chapter: "1/al-mujun"
+sources:
+  - source: "ibn-qutayba"
+    loc: "ج1 ص74"
+    url: "https://shamela.ws/book/23785/67"
+status: "review"

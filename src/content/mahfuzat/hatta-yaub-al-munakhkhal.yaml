@@ -1,0 +1,15 @@
+kind: "mathal"
+part: "1"
+order: 4
+text: "حَتَّى يَؤُوبَ الْمُنَخَّلُ"
+story: "hatta-yaub-al-munakhkhal"
+meaning: "أي: أبدًا. هلك المُنَخَّل اليَشْكُرِيّ فلم يُعلم له خبر، فضربت به العرب المثل «ممن هلك ولم يُعلم له خبر» [@aghani-dk، ج21 ص1]، وهو والقول «حتى يرد الضب» «سواء في معنى التأبيد» [@maydani، ج1 ص211]."
+chapter: "1/al-mujun"
+sources:
+  - source: "aghani-dk"
+    loc: "ج21 ص1"
+    url: "https://archive.org/details/aghani2014/21/page/n2/mode/1up"
+  - source: "maydani"
+    loc: "ج1 ص211"
+    url: "https://shamela.ws/book/12929/1146"
+status: "review"
