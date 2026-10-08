@@ -1,0 +1,15 @@
+explained: false
+first: "بَذَلْنَا لَهَا حُكْمَهَا عِنْدَنَا"
+second: "وَجَادَتْ بِحُكْمِي لِأُلْهَى بِهَا"
+vocabulary:
+  - term: "حُكْمَهَا"
+    text: "ما طلبته، يقول المحقق: «حكمها ما حكمت به واشترطته» [@diwan-asha، ص207]."
+  - term: "وَجَادَتْ بِحُكْمِي"
+    text: "أعطتني ما حكمتُ به وطلبته."
+  - term: "لِأُلْهَى بِهَا"
+    text: "لأتلهّى بها وأتمتّع."
+sources:
+  - source: "diwan-asha"
+    loc: "ص207"
+    url: "https://archive.org/details/20201023_20201023_0327/page/n206/mode/1up"
+status: "review"

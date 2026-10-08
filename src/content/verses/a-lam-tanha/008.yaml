@@ -1,0 +1,20 @@
+explained: false
+first: "فَطَوْرًا تَكُونُ مِهَادًا لَنَا"
+second: "وَطَوْرًا أَكُونُ فَيُعْلَى بِهَا"
+vocabulary:
+  - term: "طَوْرًا"
+    text: "مرة وحالًا."
+  - term: "مِهَادًا"
+    text: "فراشًا: «والمهاد: الفراش» [@lisan، ج3 ص410]، أي تكون تحته."
+  - term: "وَطَوْرًا أَكُونُ"
+    text: "يقول المحقق: «اى وطورا اكون مهادا» [@diwan-asha، ص207]، أي يكون هو تحتها."
+  - term: "فَيُعْلَى بِهَا"
+    text: "فتُرفع هي فوقه."
+sources:
+  - source: "diwan-asha"
+    loc: "ص207"
+    url: "https://archive.org/details/20201023_20201023_0327/page/n206/mode/1up"
+  - source: "lisan"
+    loc: "ج3 ص410"
+    url: "https://shamela.ws/book/1687/1852"
+status: "review"

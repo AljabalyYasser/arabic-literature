@@ -1,0 +1,16 @@
+explained: false
+first: "وَإِذَا يَعَضُّ تَشُدُّهُ أَعْضَاؤُهُ"
+second: "عَضَّ الْكَبِيرِ مِنَ الرِّجَالِ الْأَدْرَدِ"
+vocabulary:
+  - term: "يَعَضُّ"
+    text: "يقبض ويضمّ، والضمير للموصوف في الأبيات السابقة."
+  - term: "الْأَدْرَدِ"
+    text: "الذي سقطت أسنانه: «ورجل أدرد: ليس في فمه سن» [@lisan، ج3 ص166]."
+sources:
+  - source: "diwan-nabigha"
+    loc: "ص97"
+    url: "https://archive.org/details/3409pdf_202001/page/n96/mode/1up"
+  - source: "lisan"
+    loc: "ج3 ص166"
+    url: "https://shamela.ws/book/1687/1608"
+status: "review"
