@@ -1,0 +1,19 @@
+explained: false
+first: وَفَرَّقَ عَنْ بَيْتَيْكَ سَعْدَ بْنَ مَالِكٍ
+second: وَعَوْفًا وَعَمْرًا مَا تَشِي وَتَقُولُ
+vocabulary:
+- term: سَعْدَ بْنَ مَالِكٍ
+  text: جدّ طَرَفَة الأعلى، فهو «طرفة بن العبد بن سفيان بن سعد بن مالك» [@ibn-sallam، ج1 ص137]، وجدّ عبد عمرو أيضًا: «عبد عمرو بن بشر بن عمرة بن مرثد بن سعد بن مالك» [@ibn-al-anbari، ص122]. أي: فرّقت نميمتك بين بني سعد بن مالك.
+- term: مَا تَشِي
+  text: ما تنمّ به من حديث.
+sources:
+- source: diwan-tarafa
+  loc: ص67
+  url: https://shamela.ws/book/36422/58
+- source: ibn-sallam
+  loc: ج1 ص137
+  url: https://shamela.ws/book/6738/135
+- source: ibn-al-anbari
+  loc: ص122
+  url: https://shamela.ws/book/124335/120
+status: review

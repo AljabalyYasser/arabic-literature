@@ -1,0 +1,19 @@
+explained: false
+first: أَرَبَّتْ بِهَا نَآجَةٌ تَزْدَهِي الْحَصَى
+second: وَأَسْحَمُ وَكَّافُ الْعَشِيِّ هَطُولُ
+vocabulary:
+- term: أَرَبَّتْ
+  text: أقامت ولزمت.
+- term: نَآجَةٌ
+  text: ريح شديدة لها صوت.
+- term: تَزْدَهِي الْحَصَى
+  text: تستخفّه فتحمله.
+- term: أَسْحَمُ
+  text: سحاب أسود.
+- term: وَكَّافُ
+  text: كثير القطر.
+sources:
+- source: diwan-tarafa
+  loc: ص66
+  url: https://shamela.ws/book/36422/57
+status: review

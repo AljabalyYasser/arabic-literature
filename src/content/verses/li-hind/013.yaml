@@ -1,0 +1,21 @@
+explained: false
+first: فَأَصْبَحْتَ فَقْعًا نَابِتًا بِقَرَارَةٍ
+second: تَصَوَّحُ عَنْهُ وَالذَّلِيلُ ذَلِيلُ
+vocabulary:
+- term: فَقْعًا
+  text: كمأة بيضاء تنبت في الأرض المطمئنة، يُضرب بها المثل في الذلّ.
+- term: بِقَرَارَةٍ
+  text: '«والقرارة والقرار: ما قر فيه الماء» [@lisan، ج5 ص85].'
+- term: تَصَوَّحُ
+  text: 'تتشقق عنه وتيبس؛ «تصوح البقل وصوح: تم يبسه» [@lisan، ج2 ص519].'
+sources:
+- source: diwan-tarafa
+  loc: ص67
+  url: https://shamela.ws/book/36422/58
+- source: lisan
+  loc: ج5 ص85
+  url: https://shamela.ws/book/1687/2669
+- source: lisan
+  loc: ج2 ص519
+  url: https://shamela.ws/book/1687/1323
+status: review

@@ -1,0 +1,19 @@
+explained: false
+first: لَا غَرْوَ إِلَّا جَارَتِي وَسُؤَالُهَا
+second: أَلَا هَلْ لَنَا أَهْلٌ سُئِلْتِ كَذَلِكِ
+vocabulary:
+- term: لَا غَرْوَ
+  text: 'لا عجب؛ «والغرو: العجب. ولا غرو ولا غروى أي لا عجب» [@lisan، ج15 ص123].'
+- term: سُئِلْتِ كَذَلِكِ
+  text: 'قال ابن قُتَيْبة: «دعا عليها بأن تغترب حتى تسأل كما سألته» [@ibn-qutayba، ج1 ص189].'
+sources:
+- source: asmaiyyat
+  loc: ص149
+  url: https://shamela.ws/book/6905/135
+- source: lisan
+  loc: ج15 ص123
+  url: https://shamela.ws/book/1687/7735
+- source: ibn-qutayba
+  loc: ج1 ص189
+  url: https://shamela.ws/book/23785/182
+status: review

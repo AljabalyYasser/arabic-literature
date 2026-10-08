@@ -1,0 +1,22 @@
+explained: false
+first: وَأَنْتَ عَلَى الْأَقْصَى صَبًا غَيْرُ قَرَّةٍ
+second: تَذَاءَبُ مِنْهَا مُرْزِغٌ وَمُسِيلُ
+vocabulary:
+- term: الْأَقْصَى
+  text: البعيد.
+- term: صَبًا
+  text: ريح الصَّبا، وهي ريح لينة.
+- term: قَرَّةٍ
+  text: باردة.
+- term: تَذَاءَبُ
+  text: '«وتذأبت الريح وتذاءبت: اختلفت، وجاءت من هنا وهنا» [@lisan، ج1 ص378].'
+- term: مُرْزِغٌ وَمُسِيلُ
+  text: مطر يُحدث الوحل، ومطر يُسيل الأودية.
+sources:
+- source: diwan-tarafa
+  loc: ص67
+  url: https://shamela.ws/book/36422/58
+- source: lisan
+  loc: ج1 ص378
+  url: https://shamela.ws/book/1687/378
+status: review
