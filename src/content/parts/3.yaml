@@ -88,3 +88,5 @@ plan:
     title: الشعر والسياسة
   - number: "3.5"
     title: ولادة الكتابة الفنية
+
+majun: { id: al-mujun, title: "المجون: قصصه وأشعاره" }

@@ -101,3 +101,5 @@ groups:
   - { id: khayl, title: "وصافو الخيل" }
   - { id: karam, title: "الكرم والوفاء والجوار" }
 route: [al-sahra, ayyam-al-arab, al-muallaqat, imru-al-qais, tarafa, zuhayr, al-nabigha, al-asha, antara, labid, al-khansa]
+
+majun: { id: al-mujun, title: "المجون: قصصه وأشعاره" }

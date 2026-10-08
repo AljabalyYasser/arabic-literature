@@ -32,6 +32,7 @@ const toc = [
   ov && ov.texts.length > 0 && { id: 'texts', title: 'نصوص صنعت العصر' },
   era.route.length > 0 && { id: 'route', title: 'الطريق المقترح' },
   era.topics.length > 0 && { id: 'topics', title: 'القضايا' },
+  era.majun && { id: 'majun', title: 'المجون' },
   (era.formative.length > 0 || era.important.length > 0) && { id: 'alam', title: 'الأعلام' },
   era.groups.length > 0 && { id: 'faces', title: 'الوجوه في مجموعات' },
 ].filter(Boolean) as { id: string; title: string }[];
@@ -170,6 +171,23 @@ const toc = [
             <span class="done-mark" aria-label="أنهيتها">✓</span>
           </li>
         ))}
+      </ol>
+    </section>
+  )}
+
+  {era.majun && (
+    <section class="section" id="majun">
+      <div class="section-head">
+        <span class="kicker">المجون</span>
+        <h2>{era.majun.title}</h2>
+        <p class="measure">الخمريات، وأخبار المجّان ونوادرهم، والسخف، والغزل الإباحي، والأبيات الصريحة بشرحها. وتجده في العصور كلها في <a href="/majun/">المجون عبر العصور</a>.</p>
+      </div>
+      <ol class="station-list card">
+        <li data-station-id={era.majun.entry?.id}>
+          <span class="n">◆</span>
+          {era.majun.entry ? <a href={url.chapter(era.majun.entry.id)}>{era.majun.entry.data.title}</a> : <span class="planned">{era.majun.plan ?? 'يُكتب مع هذا العصر'}</span>}
+          <span class="done-mark" aria-label="أنهيتها">✓</span>
+        </li>
       </ol>
     </section>
   )}

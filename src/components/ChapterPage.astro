@@ -17,7 +17,7 @@ import Ago from './Ago.astro';
 import VerseSet from './VerseSet.astro';
 import MahfuzCard from './MahfuzCard.astro';
 import ChapterToc, { type TocItem } from './ChapterToc.astro';
-import { chapterPlace, nameGen, readingOrder, stagesOf, url, type Chapter } from '../lib/content';
+import { chapterPlace, getEras, nameGen, readingOrder, stagesOf, url, type Chapter } from '../lib/content';
 import { ordinals } from '../lib/labels';
 
 interface Props { chapter: Chapter }
@@ -39,15 +39,19 @@ if (place.kind === 'topic') {
   const eraLabel = `${eraName(e.entry.data.number)}: ${e.entry.data.title}`;
   crumbs = [{ href: '/', label: 'المسار' }, { href: e.hasPage ? url.era(e.entry.id) : '/#journey', label: eraLabel }, { label: d.title }];
   kicker = e.entry.data.number === 0 ? e.entry.data.title : `قضايا ${e.entry.data.title} · ${place.index} من ${place.total}`;
+} else if (place.kind === 'majun') {
+  const e = place.era;
+  crumbs = [{ href: '/', label: 'المسار' }, { href: url.era(e.entry.id), label: `${eraName(e.entry.data.number)}: ${e.entry.data.title}` }, { href: '/majun/', label: 'المجون' }, { label: d.title }];
+  kicker = `المجون في ${e.entry.data.title}`;
 } else {
   const p = place.person;
   crumbs = [{ href: '/people/', label: 'الأعلام' }, { href: url.person(p.id), label: p.data.name }, { label: `المرحلة ${place.index}` }];
   kicker = `مسار ${nameGen(p)} · المرحلة ${place.index} من ${place.total}`;
 }
-const doneLabel = place.kind === 'topic' ? 'أنهيت هذه القراءة' : 'أنهيت هذه المرحلة';
+const doneLabel = place.kind === 'stage' ? 'أنهيت هذه المرحلة' : 'أنهيت هذه القراءة';
 const placeLabel = async (c: Chapter) => {
   const pl = await chapterPlace(c);
-  return pl.kind === 'topic' ? pl.era.entry.data.title : `مسار ${nameGen(pl.person)} · المرحلة ${pl.index}`;
+  return pl.kind === 'topic' ? pl.era.entry.data.title : pl.kind === 'majun' ? `المجون في ${pl.era.entry.data.title}` : `مسار ${nameGen(pl.person)} · المرحلة ${pl.index}`;
 };
 const link = async (c?: Chapter) => c && { href: url.chapter(c.id), label: await placeLabel(c), title: c.data.title };
 const [prevLink, nextLink] = [await link(prev), await link(next)];
@@ -75,12 +79,16 @@ if (place.kind === 'topic') {
       ? { n: k + 1, title: item.slot.title, href: item.slot.entry && url.chapter(item.slot.entry.id), current: item.slot.entry?.id === chapter.id }
       : { n: k + 1, title: `مسار ${nameGen(item.person)}`, href: url.person(item.person.id), current: false })
     : e.topics.map((t, k) => ({ n: k + 1, title: t.title, href: t.entry && url.chapter(t.entry.id), current: t.entry?.id === chapter.id }));
+} else if (place.kind === 'majun') {
+  // قسم المجون يقرأ عبر العصور: طريقه أقسام المجون في الأبواب كلها.
+  routeLabel = 'المجون عبر العصور';
+  route = (await getEras()).filter((e) => e.majun).map((e, k) => ({ n: k + 1, title: e.entry.data.title, href: e.majun!.entry && url.chapter(e.majun!.entry.id), current: e.majun!.entry?.id === chapter.id }));
 } else {
   routeLabel = `مسار ${nameGen(place.person)}`;
   route = (await stagesOf(place.person.id)).map((c, k) => ({ n: k + 1, title: c.data.title, href: url.chapter(c.id), current: c.id === chapter.id }));
 }
 ---
-<Base title={d.title} description={d.subtitle} searchType={place.kind === 'topic' ? 'قضية' : 'مرحلة'}>
+<Base title={d.title} description={d.subtitle} searchType={place.kind === 'topic' ? 'قضية' : place.kind === 'majun' ? 'المجون' : 'مرحلة'}>
   <Crumbs items={crumbs} />
   <header class="station-head" data-reading-title={d.title}>
     <span class="kicker">{kicker}</span>

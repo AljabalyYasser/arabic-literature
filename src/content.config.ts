@@ -59,6 +59,9 @@ const parts = defineCollection({
       notes: z.object({ poets: z.string(), writers: z.string(), books: z.string(), texts: z.string() }).partial().default({}),
     }).optional(),
     topics: z.array(z.object({ id: z.string(), title: z.string() })).default([]),
+    // قسم المجون في العصر (قرار صاحب المشروع 2026-10-08): الخمريات وأخبار المجّان والسخف والغزل الإباحي،
+    // والأبيات الصريحة تُعرض بشرحها. صفحته chapters/<رقم الباب>/<id>.mdx، وتظهر في صفحة العصر وفي فهرس /majun/.
+    majun: z.object({ id: z.string(), title: z.string(), plan: z.string().optional() }).optional(),
     formative: z.array(slot).default([]),
     important: z.array(slot).default([]),
     groups: z.array(z.object({ id: z.string(), title: z.string() })).default([]),

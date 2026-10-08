@@ -96,3 +96,5 @@ plan:
     title: كتب الأخبار الكبرى
   - number: "4.11"
     title: الشعر الصوفي
+
+majun: { id: al-mujun, title: "المجون: قصصه وأشعاره" }

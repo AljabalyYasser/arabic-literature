@@ -77,3 +77,5 @@ plan:
     title: الملوك والمدن
   - number: "5.4"
     title: النثر الأندلسي
+
+majun: { id: al-mujun, title: "المجون: قصصه وأشعاره" }

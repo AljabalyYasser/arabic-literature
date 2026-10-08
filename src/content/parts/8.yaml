@@ -52,3 +52,5 @@ plan:
     title: الرواية
   - number: "8.6"
     title: القصة القصيرة والمسرح
+
+majun: { id: al-mujun, title: "المجون: قصصه وأشعاره" }

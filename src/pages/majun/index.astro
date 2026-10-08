@@ -1,0 +1,27 @@
+---
+import Base from '../../layouts/Base.astro';
+import { getEras, url } from '../../lib/content';
+
+// المجون عبر العصور: قسم المجون في كل باب، بترتيب الأبواب.
+const eras = (await getEras()).filter((e) => e.majun);
+---
+<Base title="المجون عبر العصور" description="قصص المجون وأشعاره في عصور الأدب العربي: الخمريات، وأخبار المجّان، والسخف، والغزل الإباحي.">
+  <header class="station-head">
+    <span class="kicker">قسم في كل عصر</span>
+    <h1>المجون عبر العصور</h1>
+    <p class="lede measure">المجون باب من أبواب الأدب العربي، حفظته كتب الأدب والأخبار كما حفظت الحماسة والرثاء. نقرأ في كل عصر أجمل ما قيل فيه: الخمريات، وأخبار المجّان ونوادرهم، والسخف، والغزل الإباحي. والأبيات الصريحة تُعرض بشرحها، والأخبار بدرجات روايتها، فأكثر أخبار المجّان أدب صُنع بعدهم.</p>
+  </header>
+  <section class="section">
+    <ol class="station-list card">
+      {eras.map((e) => (
+        <li data-station-id={e.majun!.entry?.id}>
+          <span class="n">{e.entry.data.number}</span>
+          {e.majun!.entry
+            ? <a href={url.chapter(e.majun!.entry.id)}>{e.entry.data.title}: {e.majun!.entry.data.title}</a>
+            : <span class="planned">{e.entry.data.title}: {e.majun!.plan ?? 'يُكتب مع هذا العصر'}</span>}
+          <span class="done-mark" aria-label="أنهيتها">✓</span>
+        </li>
+      ))}
+    </ol>
+  </section>
+</Base>

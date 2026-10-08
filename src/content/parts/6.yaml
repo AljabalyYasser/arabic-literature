@@ -76,3 +76,5 @@ plan:
     title: الموسوعات
   - number: "6.4"
     title: الأدب الشعبي
+
+majun: { id: al-mujun, title: "المجون: قصصه وأشعاره" }

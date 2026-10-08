@@ -111,6 +111,8 @@ export type RouteItem =
 export type Era = {
   entry: CollectionEntry<'parts'>;
   topics: TopicSlot[];
+  // قسم المجون في العصر: صفحة واحدة، تظهر مخططة حتى تُكتب.
+  majun?: TopicSlot & { plan?: string };
   formative: Slot[];
   important: Slot[];
   groups: GroupSlot[];
@@ -149,7 +151,8 @@ async function buildEras(): Promise<Era[]> {
     const home = chapterHome(c.id);
     if (isEraId(home)) {
       if (!partIds.has(home)) fail(`الفصل ${c.id} في باب غير موجود`);
-      if (!parts.find((p) => p.id === home)!.data.topics.some((t) => t.id === chapterSlug(c.id))) fail(`القضية ${c.id} ليست في قائمة قضايا بابها`);
+      const part = parts.find((p) => p.id === home)!.data;
+      if (!part.topics.some((t) => t.id === chapterSlug(c.id)) && part.majun?.id !== chapterSlug(c.id)) fail(`القضية ${c.id} ليست في قائمة قضايا بابها ولا هي قسم المجون فيه`);
     } else {
       const person = personById.get(home);
       if (!person) fail(`الفصل ${c.id} في مسار علم غير موجود`);
@@ -198,9 +201,11 @@ async function buildEras(): Promise<Era[]> {
       if (person && person.data.part.id === entry.id) return { kind: 'person', person, stages: stages.get(id) ?? [] };
       return fail(`الطريق المقترح في الباب ${entry.id} يذكر ما ليس فيه: ${id}`);
     });
+    const majun = d.majun && { ...d.majun, entry: chapters.find((c) => c.id === `${entry.id}/${d.majun!.id}`) };
     return {
       entry,
       topics,
+      majun,
       formative: d.formative.map(slot('formative')),
       important: d.important.map(slot('important')),
       groups: d.groups.map((g, i) => {
@@ -236,6 +241,7 @@ export async function chapterPlace(c: Chapter) {
   const home = chapterHome(c.id);
   if (isTopic(c.id)) {
     const era = (await getEras()).find((e) => e.entry.id === home)!;
+    if (era.majun?.id === chapterSlug(c.id)) return { kind: 'majun' as const, era, index: 1, total: 1 };
     const i = era.topics.findIndex((t) => t.id === chapterSlug(c.id));
     return { kind: 'topic' as const, era, index: i + 1, total: era.topics.length };
   }
