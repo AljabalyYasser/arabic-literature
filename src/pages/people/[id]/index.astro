@@ -171,7 +171,7 @@ const textsTitle = p.tier === 'face' ? he('نصه', 'نصها') : he('نصوصه
             {n.data.owner && <span>{ownerOf(n) ? <a href={ownerOf(n)}>{n.data.owner}</a> : n.data.owner}</span>}
           </p>
           <p set:html={fmt(n.data.text, sources)} />
-          <CiteList items={n.data.sources} />
+          <details class="nahl-sources"><summary>المصادر وما وجدنا فيها</summary><CiteList items={n.data.sources} /></details>
         </article>
       ))}
     </section>
