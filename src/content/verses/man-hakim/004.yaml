@@ -1,0 +1,18 @@
+explained: false
+first: "فَلَوَ انَّ مَا يَأْوِي إِلَيْـ"
+second: "ـيَ أَصَابَ مِنْ ثَهْلَانَ هَدَّا"
+vocabulary:
+- term: "مَا يَأْوِي إِلَيَّ"
+  text: "ما ينزل بي من المصائب."
+- term: "ثَهْلَانَ"
+  text: "«جبل معروف» [@lisan، ج11 ص94]."
+- term: "هَدَّا"
+  text: "هدم؛ أي لو نزل بالجبل ما نزل بي لهدمه."
+sources:
+- source: aghani-dk
+  loc: ج11 ص50
+  url: https://archive.org/details/Al-aghani_11/page/n49/mode/1up
+- source: lisan
+  loc: ج11 ص94
+  url: https://shamela.ws/book/1687/5276
+status: review

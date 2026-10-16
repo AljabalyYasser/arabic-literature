@@ -1,0 +1,27 @@
+explained: false
+first: "فَعِشْ بِجَدٍّ لَا يَضِرْ"
+second: "كَ النُّوكُ مَا لَاقَيْتَ جَدَّا"
+vocabulary:
+- term: "بِجَدٍّ"
+  text: "بحظ؛ «والجد: الحظ والرزق» [@lisan، ج3 ص107]."
+- term: "لَا يَضِرْكَ"
+  text: "لا يضرك، من ضاره يضيره."
+- term: "النُّوكُ"
+  text: "«الحمق» [@lisan، ج10 ص501]."
+sources:
+- source: aghani-dk
+  loc: ج11 ص50
+  url: https://archive.org/details/Al-aghani_11/page/n49/mode/1up
+- source: ibn-qutayba
+  loc: ج1 ص194
+  url: https://shamela.ws/book/23785/187
+- source: lisan
+  loc: ج3 ص107
+  url: https://shamela.ws/book/1687/1549
+- source: lisan
+  loc: ج10 ص501
+  url: https://shamela.ws/book/1687/5170
+- source: atiq
+  loc: ص173
+  url: https://shamela.ws/book/11298/176
+status: review

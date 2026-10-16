@@ -1,0 +1,19 @@
+kind: "maqta"
+title: "فعش بجدّ"
+part: "1"
+order: 46
+person: "harith-ibn-hilliza"
+lines:
+  - first: "فَعِشْ بِجَدٍّ لَا يَضِرْ"
+    second: "كَ النُّوكُ مَا لَاقَيْتَ جَدَّا"
+  - first: "وَالْعَيْشُ خَيْرٌ فِي ظِلَا"
+    second: "لِ النُّوكِ مِمَّنْ عَاشَ كَدَّا"
+meaning: "عش بحظك، فلا يضرك الحمق ما دام الحظ معك؛ والعيش الهانئ مع الحمق خير من العيش الشاق مع العقل. والجَدّ: الحظ، والنُّوك: الحمق. يرويهما ابن قُتَيْبة «مما يتمثل به من شعره» [@ibn-qutayba، ج1 ص194]، وهما آخر داليته «من حاكم بيني وبين الدهر» [@aghani-dk، ج11 ص50]."
+sources:
+  - source: "ibn-qutayba"
+    loc: "ج1 ص194"
+    url: "https://shamela.ws/book/23785/187"
+  - source: "aghani-dk"
+    loc: "ج11 ص50"
+    url: "https://archive.org/details/Al-aghani_11/page/n49/mode/1up"
+status: "review"
