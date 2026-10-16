@@ -260,6 +260,27 @@ const mahfuzat = defineCollection({
   }),
 });
 
+// يُنسب إليه وليس له: أبيات يتداولها الناس منسوبة إلى شاعر، ولا تثبت له في ديوانه ولا في المصادر القديمة.
+// تُعرض في صفحة الشاعر، لأن القارئ يلقاها باسمه. lines نص الأبيات كما تُتداول.
+// الحكم: لغيره (تُروى في مصادرنا لشاعر آخر)، أو لا أصل لها في مصادره، أو منسوبة (أقدم ما يرويها متأخر بلا سند).
+const nahl = defineCollection({
+  loader: glob({ base: './src/content/nahl', pattern: '*.yaml' }),
+  schema: z.object({
+    person: reference('people'),
+    order: z.number().default(0),
+    lines: z.array(line).min(1),
+    verdict: z.enum(['ghayruh', 'la-asl', 'mansub']),
+    // صاحبها حين يُعرف من مصادرنا، ويُربط بصفحته إن كانت له.
+    owner: z.string().optional(),
+    ownerPerson: reference('people').optional(),
+    text: z.string(),
+    sources: z.array(citation).min(1, 'الحكم يحتاج إلى مصدر'),
+    status,
+  }).superRefine((n, ctx) => {
+    if (n.verdict === 'ghayruh' && !n.owner) ctx.addIssue({ code: 'custom', path: ['owner'], message: 'الحكم «لغيره» يحتاج إلى اسم صاحبها' });
+  }),
+});
+
 // مجموعة من مجموعات «وجوه من العصر». المجموعة تابعة لبابها، فملفها groups/<رقم الباب>/<المعرّف>.md
 // ومعرّفها «<رقم الباب>/<المعرّف>»، فلا تصطدم مجموعتان متشابهتا الاسم في بابين.
 // عنوانها وترتيبها في ملف الباب، ومتنها مدخل يعرّف ظاهرتها.
@@ -306,4 +327,4 @@ const updates = defineCollection({
   }),
 });
 
-export const collections = { parts, chapters, people, groups, texts, verses, stories, concepts, mahfuzat, sources, updates };
+export const collections = { parts, chapters, people, groups, texts, verses, stories, concepts, mahfuzat, nahl, sources, updates };

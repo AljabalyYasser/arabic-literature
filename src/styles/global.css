@@ -606,6 +606,13 @@ html.js .verse .panel + .panel { margin-top: 0; }
 .quote-verse figcaption { font-family: var(--font-ui); font-size: 0.8rem; color: var(--ink-3); margin-top: 0.5rem; }
 .quote-verse figcaption a { color: inherit; }
 
+/* يُنسب إليه وليس له */
+.nahl-item { margin: 0 0 2.25rem; }
+.nahl-item .quote-verse { margin: 0 0 0.75rem; }
+.nahl-item .quote-verse .bayt + .bayt { margin-top: 0.6rem; }
+.badge.nahl-ghayruh { background: var(--warn-soft); color: var(--warn); }
+.badge.nahl-la-asl, .badge.nahl-mansub { background: var(--accent-soft); color: var(--accent); }
+
 .outcomes { counter-reset: out; list-style: none; padding: 0; margin: 0; display: grid; gap: 0.75rem; }
 .outcomes li {
   counter-increment: out;

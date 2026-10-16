@@ -9,8 +9,9 @@ import StatusBadge from '../../../components/StatusBadge.astro';
 import CiteList from '../../../components/CiteList.astro';
 import Body from '../../../components/Body.astro';
 import Grade from '../../../components/Grade.astro';
+import VerseLines from '../../../components/VerseLines.astro';
 import { chapterHome, countWord, explainedOf, nameGen, dateAgo, fmt, formatDate, getEras, isTopic, must, sourceMap, stagesOf, stripCites, url } from '../../../lib/content';
-import { kindsOf, mahfuzKinds, readingTiers, textKinds, tiers } from '../../../lib/labels';
+import { kindsOf, mahfuzKinds, nahlVerdicts, readingTiers, textKinds, tiers } from '../../../lib/labels';
 
 export async function getStaticPaths() {
   await getEras();
@@ -42,6 +43,10 @@ const mahfuzat = await Promise.all((await getCollection('mahfuzat', (m) => m.dat
     const label = m.data.title ?? verse?.data.first ?? m.data.lines[0]?.first ?? m.data.text ?? story?.data.title ?? m.id;
     return { id: m.id, kind: m.data.kind, label };
   }));
+// يُنسب إليه وليس له: أبيات يلقاها القارئ باسمه ولا تثبت له.
+const nahl = (await getCollection('nahl', (n) => n.data.person.id === person.id))
+  .sort((a, b) => a.data.order - b.data.order || a.id.localeCompare(b.id));
+const ownerOf = (n: CollectionEntry<'nahl'>) => n.data.ownerPerson ? url.person(n.data.ownerPerson.id) : undefined;
 // الضمير بحسب العلم: he('نصوصه', 'نصوصها').
 const he = (m: string, f: string) => (p.female ? f : m);
 const stories = await getCollection('stories', (s) => s.data.people.some((r) => r.id === person.id));
@@ -146,6 +151,29 @@ const textsTitle = p.tier === 'face' ? he('نصه', 'نصها') : he('نصوصه
           </a>
         ))}
       </div>
+    </section>
+  )}
+
+  {nahl.length > 0 && (
+    <section class="section measure" id="nahl">
+      <div class="section-head">
+        <span class="kicker">تصحيح النسبة</span>
+        <h2>{he('يُنسب إليه وليس له', 'يُنسب إليها وليس لها')}</h2>
+        <p>أبيات يتداولها الناس {he('منسوبة إليه', 'منسوبة إليها')}، ولا تثبت {he('له', 'لها')} في {he('ديوانه', 'ديوانها')} ولا في المصادر القديمة التي نعتمدها. نذكرها لأن القارئ يلقاها باسم{he('ه', 'ها')}.</p>
+      </div>
+      {nahl.map((n) => (
+        <article class="nahl-item" id={`nahl-${n.id}`}>
+          <figure class="quote-verse">
+            {n.data.lines.map((l) => <VerseLines first={l.first} second={l.second} />)}
+          </figure>
+          <p class="meta-row">
+            <span class={`badge nahl-${n.data.verdict}`} title={nahlVerdicts[n.data.verdict].hint}>{nahlVerdicts[n.data.verdict].label}</span>
+            {n.data.owner && <span>{ownerOf(n) ? <a href={ownerOf(n)}>{n.data.owner}</a> : n.data.owner}</span>}
+          </p>
+          <p set:html={fmt(n.data.text, sources)} />
+          <CiteList items={n.data.sources} />
+        </article>
+      ))}
     </section>
   )}
 
