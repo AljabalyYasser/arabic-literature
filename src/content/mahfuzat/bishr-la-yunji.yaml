@@ -1,0 +1,19 @@
+kind: "bayt"
+title: "ولا ينجي من الغمرات"
+part: "1"
+order: 121
+person: "bishr-ibn-abi-khazim"
+verses:
+  - "ala-bana-al-khalitu/056"
+meaning: "لا يخلّص من شدائد الحرب إلا الثبات في القتال أو الفرار. خاتمة رائية بِشْر، ويقول المَرْزُوقِيّ فيما ينقله التِّبْرِيزِيّ: «وهذه تجري مجرى الأمثال» [@tabrizi-ikhtiyarat، ج3 ص1442]، واستشهد به صاحب اللسان على معنى البراكاء [@lisan، ج10 ص398]."
+sources:
+  - source: "mufaddaliyyat"
+    loc: "ص345"
+    url: "https://shamela.ws/book/6904/319"
+  - source: "tabrizi-ikhtiyarat"
+    loc: "ج3 ص1442"
+    url: "https://archive.org/details/3820pdf/page/n1450/mode/1up"
+  - source: "lisan"
+    loc: "ج10 ص398"
+    url: "https://shamela.ws/book/1687/5067"
+status: "review"
