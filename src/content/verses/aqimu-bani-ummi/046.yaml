@@ -1,0 +1,18 @@
+explained: false
+first: "تَنَامُ إِذَا مَا نَامَ يَقْظَى عُيُونُهَا"
+second: "حِثَاثًا إِلَى مَكْرُوهِهِ تَتَغَلْغَلُ"
+vocabulary:
+  - term: "تَنَامُ"
+    text: "«يعني الجنايات» [@ukbari-lamiyya، ص117]، وأراد طالبيها."
+  - term: "حِثَاثًا"
+    text: "«سراعاً» [@ukbari-lamiyya، ص117]."
+  - term: "تَتَغَلْغَلُ"
+    text: "تتسرّب إليه؛ يقول: «إذا أقصر الطالبون عني بالأوتار لم تقصر الجنايات» [@ukbari-lamiyya، ص117]."
+sources:
+  - source: "ukbari-lamiyya"
+    loc: "ص116"
+    url: "https://shamela.ws/book/6998/60"
+  - source: "ukbari-lamiyya"
+    loc: "ص117"
+    url: "https://shamela.ws/book/6998/61"
+status: "review"

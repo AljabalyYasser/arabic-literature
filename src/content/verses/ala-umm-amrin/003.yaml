@@ -1,0 +1,16 @@
+explained: false
+first: "بِعَيْنَيَّ مَا أَمْسَتْ فَبَاتَتْ فَأَصْبَحَتْ"
+second: "فَقَضَّتْ أُمُورًا فَاسْتَقَلَّتْ فَوَلَّتِ"
+vocabulary:
+  - term: "بِعَيْنَيَّ"
+    text: "بمرأى مني؛ يقول التِّبْرِيزِيّ: «بعينيّ جرت هذه الخطوب، لأن مُشاهِد الفجائع ليس كمن مُنِيَ بها على بُعد» [@tabrizi-ikhtiyarat، ج1 ص514]."
+  - term: "قَضَّتْ أُمُورًا"
+    text: "أنجزت حاجاتها قبل الرحيل."
+sources:
+  - source: "mufaddaliyyat"
+    loc: "ص108"
+    url: "https://shamela.ws/book/6904/82"
+  - source: "tabrizi-ikhtiyarat"
+    loc: "ج1 ص514"
+    url: "https://archive.org/details/3820pdf/page/n530/mode/1up"
+status: "review"

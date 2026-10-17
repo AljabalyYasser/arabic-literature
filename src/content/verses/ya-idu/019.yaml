@@ -1,0 +1,23 @@
+explained: false
+first: "بِشَرْثَةٍ خَلَقٍ يُوقَى البَنَانُ بِهَا"
+second: "شَدَدْتُ فِيهَا سَرِيحًا بَعْدَ إِطْرَاقِ"
+vocabulary:
+  - term: "بِشَرْثَةٍ"
+    text: "«الشَّرْثة: النعل الخَلَق» [@tabrizi-ikhtiyarat، ج1 ص129]."
+  - term: "البَنَانُ"
+    text: "«أطراف الأصابع» [@tabrizi-ikhtiyarat، ج1 ص129]."
+  - term: "سَرِيحًا"
+    text: "«القِدّ»، أي سير من جلد [@tabrizi-ikhtiyarat، ج1 ص129]."
+  - term: "إِطْرَاقِ"
+    text: "«أن يُجعل تحت النعل مثلها»، وتولّى ذلك بنفسه «دلالةً على تبذّله، وأنه جارٍ على عادة الصعاليك» [@tabrizi-ikhtiyarat، ج1 ص130]."
+sources:
+  - source: "mufaddaliyyat"
+    loc: "ص30"
+    url: "https://shamela.ws/book/6904/4"
+  - source: "tabrizi-ikhtiyarat"
+    loc: "ج1 ص129"
+    url: "https://archive.org/details/3820pdf/page/n145/mode/1up"
+  - source: "tabrizi-ikhtiyarat"
+    loc: "ج1 ص130"
+    url: "https://archive.org/details/3820pdf/page/n146/mode/1up"
+status: "review"

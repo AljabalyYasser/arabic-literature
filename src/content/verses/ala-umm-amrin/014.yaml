@@ -1,0 +1,23 @@
+explained: false
+first: "بِرَيْحَانَةٍ مِنْ بَطْنِ حَلْيَةَ نَوَّرَتْ"
+second: "لَهَا أَرَجٌ مَا حَوْلَهَا غَيْرُ مُسْنِتِ"
+vocabulary:
+  - term: "حَلْيَةَ"
+    text: "موضع، و«بطن حلية» في حَزْن، أي أرض غليظة، «ونبت الحَزْن أطيب ريحاً» [@tabrizi-ikhtiyarat، ج1 ص520]."
+  - term: "نَوَّرَتْ"
+    text: "«خرج نَوْرُها»، أي زهرها [@tabrizi-ikhtiyarat، ج1 ص521]."
+  - term: "أَرَجٌ"
+    text: "«توهّج الريح وتفرّقها كل جانب» [@tabrizi-ikhtiyarat، ج1 ص521]."
+  - term: "غَيْرُ مُسْنِتِ"
+    text: "غير مُجدب، أي ما حولها مُخصب [@tabrizi-ikhtiyarat، ج1 ص521]."
+sources:
+  - source: "mufaddaliyyat"
+    loc: "ص110"
+    url: "https://shamela.ws/book/6904/84"
+  - source: "tabrizi-ikhtiyarat"
+    loc: "ج1 ص520"
+    url: "https://archive.org/details/3820pdf/page/n536/mode/1up"
+  - source: "tabrizi-ikhtiyarat"
+    loc: "ج1 ص521"
+    url: "https://archive.org/details/3820pdf/page/n537/mode/1up"
+status: "review"

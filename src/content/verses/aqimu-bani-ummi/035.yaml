@@ -1,0 +1,17 @@
+explained: false
+first: "وَفَاءَ وَفَاءَتْ بَادِرَاتٍ وَكُلُّهَا"
+second: "عَلَى نَكَظٍ مِمَّا يُكَاتِمُ مُجْمِلُ"
+vocabulary:
+  - term: "فَاءَ"
+    text: "رجع."
+  - term: "بَادِرَاتٍ"
+    text: "مسرعات."
+  - term: "نَكَظٍ"
+    text: "«شدة الجوع» [@ukbari-lamiyya، ص104]."
+  - term: "مُجْمِلُ"
+    text: "يُحسن الصبر ولا يُظهر ما به."
+sources:
+  - source: "ukbari-lamiyya"
+    loc: "ص104"
+    url: "https://shamela.ws/book/6998/48"
+status: "review"

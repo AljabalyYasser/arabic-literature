@@ -1,0 +1,16 @@
+explained: false
+first: "إِذَا مَا أَتَتْنِي مِيتَتِي لَمْ أُبَالِهَا"
+second: "وَلَمْ تُذْرِ خَالَاتِي الدُّمُوعَ وَعَمَّتِي"
+vocabulary:
+  - term: "مِيتَتِي"
+    text: "«الحالة التي يموت عليها الإنسان، وقد يراد بالمِيتة الموت... وهو المراد هنا» [@tabrizi-ikhtiyarat، ج1 ص530]."
+  - term: "لَمْ تُذْرِ"
+    text: "لم تُسِل الدموع؛ يقول: لم يُبكَ عليّ، «إما لانقطاع الإلف بيني وبينهم، أو لكثرة جرائري عليهم» [@tabrizi-ikhtiyarat، ج1 ص530]."
+sources:
+  - source: "mufaddaliyyat"
+    loc: "ص112"
+    url: "https://shamela.ws/book/6904/86"
+  - source: "tabrizi-ikhtiyarat"
+    loc: "ج1 ص530"
+    url: "https://archive.org/details/3820pdf/page/n546/mode/1up"
+status: "review"

@@ -1,0 +1,22 @@
+explained: false
+first: "غَدَا طَاوِيًا يُعَارِضُ الرِّيحَ هَافِيًا"
+second: "يَخُوتُ بِأَذْنَابِ الشِّعَابِ وَيَعْسِلُ"
+vocabulary:
+  - term: "طَاوِيًا"
+    text: "«الجائع» [@ukbari-lamiyya، ص93]."
+  - term: "هَافِيًا"
+    text: "«يذهب يميناً وشمالاً من شدة الجوع» [@ukbari-lamiyya، ص93]."
+  - term: "يَخُوتُ"
+    text: "«يختطف» [@ukbari-lamiyya، ص93]."
+  - term: "أَذْنَابِ الشِّعَابِ"
+    text: "أواخر مسايل الوادي [@ukbari-lamiyya، ص93]."
+  - term: "يَعْسِلُ"
+    text: "يمرّ مرّاً سهلاً [@ukbari-lamiyya، ص94]، وهو عدو الذئب المضطرب."
+sources:
+  - source: "ukbari-lamiyya"
+    loc: "ص93"
+    url: "https://shamela.ws/book/6998/37"
+  - source: "ukbari-lamiyya"
+    loc: "ص94"
+    url: "https://shamela.ws/book/6998/38"
+status: "review"

@@ -1,0 +1,15 @@
+explained: false
+first: "إِذَا وَرَدَتْ أَصْدَرْتُهَا ثُمَّ إِنَّهَا"
+second: "تَثُوبُ فَتَأْتِي مِنْ تُحَيْتُ وَمِنْ عَلُ"
+vocabulary:
+  - term: "أَصْدَرْتُهَا"
+    text: "رددتها عني."
+  - term: "تَثُوبُ"
+    text: "ترجع."
+  - term: "مِنْ تُحَيْتُ وَمِنْ عَلُ"
+    text: "من أسفل ومن أعلى."
+sources:
+  - source: "ukbari-lamiyya"
+    loc: "ص119"
+    url: "https://shamela.ws/book/6998/63"
+status: "review"

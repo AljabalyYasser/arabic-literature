@@ -1,0 +1,16 @@
+explained: false
+first: "تَرَاهَا كَأَذْنَابِ الحَسِيلِ صَوَادِرًا"
+second: "وَقَدْ نَهِلَتْ مِنَ الدِّمَاءِ وَعَلَّتِ"
+vocabulary:
+  - term: "الحَسِيلِ"
+    text: "«جمع حسيلة، وهي: أولاد البقر. شبّه السيوف بأذناب الحسيل، إذا رأت أمّهاتها فجعلت تحرّك أذنابها» [@tabrizi-ikhtiyarat، ج1 ص528]."
+  - term: "نَهِلَتْ... وَعَلَّتِ"
+    text: "شربت الشربة الأولى ثم الثانية، «و«النَّهَل» و«العَلَل» هنا للسيوف» [@tabrizi-ikhtiyarat، ج1 ص528]."
+sources:
+  - source: "mufaddaliyyat"
+    loc: "ص111"
+    url: "https://shamela.ws/book/6904/85"
+  - source: "tabrizi-ikhtiyarat"
+    loc: "ج1 ص528"
+    url: "https://archive.org/details/3820pdf/page/n544/mode/1up"
+status: "review"

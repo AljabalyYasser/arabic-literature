@@ -1,0 +1,18 @@
+explained: false
+first: "فَقَالُوا لَقَدْ هَرَّتْ بِلَيْلٍ كِلَابُنَا"
+second: "فَقُلْنَا أَذِئْبٌ عَسَّ أَمْ عَسَّ فُرْعُلُ"
+vocabulary:
+  - term: "هَرَّتْ"
+    text: "نبحت نباحاً خفيفاً."
+  - term: "عَسَّ"
+    text: "«طاف» [@ukbari-lamiyya، ص133]."
+  - term: "فُرْعُلُ"
+    text: "«ولد الضبع» [@ukbari-lamiyya، ص133]."
+sources:
+  - source: "ukbari-lamiyya"
+    loc: "ص132"
+    url: "https://shamela.ws/book/6998/76"
+  - source: "ukbari-lamiyya"
+    loc: "ص133"
+    url: "https://shamela.ws/book/6998/77"
+status: "review"

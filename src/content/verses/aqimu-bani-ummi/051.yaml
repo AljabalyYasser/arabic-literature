@@ -1,0 +1,15 @@
+explained: false
+first: "وَأُعْدِمُ أَحْيَانًا وَأَغْنَى وَإِنَّمَا"
+second: "يَنَالُ الغِنَى ذُو البُعْدَةِ المُتَبَذِّلُ"
+vocabulary:
+  - term: "أُعْدِمُ"
+    text: "أفتقر."
+  - term: "البُعْدَةِ"
+    text: "«البُعد» [@ukbari-lamiyya، ص123]، أي الذي يضرب في الأرض بعيداً."
+  - term: "المُتَبَذِّلُ"
+    text: "الذي يبذل نفسه ولا يصونها عن المشقة."
+sources:
+  - source: "ukbari-lamiyya"
+    loc: "ص123"
+    url: "https://shamela.ws/book/6998/67"
+status: "review"

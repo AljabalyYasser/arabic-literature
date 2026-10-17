@@ -1,0 +1,16 @@
+explained: false
+first: "أُمَشِّي عَلَى أَيْنِ الغَزَاةِ وَبُعْدِهَا"
+second: "يُقَرِّبُنِي مِنْهَا رَوَاحِي وَغَدْوَتِي"
+vocabulary:
+  - term: "أَيْنِ الغَزَاةِ"
+    text: "تعب الغزو ومشقته؛ يقول: «أمشي على ما يصيبني، ويعرض لأصحابي من شِقّ الأنفس وبُعد المسافة، فيقرّبني من مغازيّ صِلَتي السيرَ بالسُّرى» [@tabrizi-ikhtiyarat، ج1 ص523]."
+  - term: "رَوَاحِي وَغَدْوَتِي"
+    text: "سيري في آخر النهار وفي أوله."
+sources:
+  - source: "mufaddaliyyat"
+    loc: "ص110"
+    url: "https://shamela.ws/book/6904/84"
+  - source: "tabrizi-ikhtiyarat"
+    loc: "ج1 ص523"
+    url: "https://archive.org/details/3820pdf/page/n539/mode/1up"
+status: "review"

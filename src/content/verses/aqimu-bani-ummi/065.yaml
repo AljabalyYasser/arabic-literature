@@ -1,0 +1,17 @@
+explained: false
+first: "وَخَرْقٍ كَظَهْرِ التُّرْسِ قَفْرٍ قَطَعْتُهُ"
+second: "بِعَامِلَتَيْنِ ظَهْرُهُ لَيْسَ يُعْمَلُ"
+vocabulary:
+  - term: "خَرْقٍ"
+    text: "«الواسع» [@ukbari-lamiyya، ص143]، أي فلاة واسعة."
+  - term: "كَظَهْرِ التُّرْسِ"
+    text: "«من استوائه» [@ukbari-lamiyya، ص143]."
+  - term: "بِعَامِلَتَيْنِ"
+    text: "«يعني رجليه» [@ukbari-lamiyya، ص143]."
+  - term: "ظَهْرُهُ لَيْسَ يُعْمَلُ"
+    text: "لا يُسلك ولا يُركب."
+sources:
+  - source: "ukbari-lamiyya"
+    loc: "ص143"
+    url: "https://shamela.ws/book/6998/87"
+status: "review"

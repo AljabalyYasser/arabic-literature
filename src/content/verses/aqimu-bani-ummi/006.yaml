@@ -1,0 +1,18 @@
+explained: false
+first: "هُمُ الأَهْلُ لَا مُسْتَوْدَعُ السِّرِّ ذَائِعٌ"
+second: "لَدَيْهِمْ وَلَا الجَانِي بِمَا جَرَّ يُخْذَلُ"
+vocabulary:
+  - term: "مُسْتَوْدَعُ السِّرِّ"
+    text: "السرّ الذي يُستودع عندهم، أي «السرّ المستودَع عندهم غير ذائع» [@khizana، ج3 ص342]."
+  - term: "ذَائِعٌ"
+    text: "منتشر بين الناس."
+  - term: "بِمَا جَرَّ"
+    text: "بما جنى، يقال: «جرّ عليهم جريرةً، أي: جنى عليهم جناية» [@khizana، ج3 ص342]."
+sources:
+  - source: "ukbari-lamiyya"
+    loc: "ص63"
+    url: "https://shamela.ws/book/6998/7"
+  - source: "khizana"
+    loc: "ج3 ص342"
+    url: "https://shamela.ws/book/12732/1276"
+status: "review"

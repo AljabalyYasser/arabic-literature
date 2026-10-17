@@ -1,0 +1,16 @@
+explained: false
+first: "فَيَا جَارَتِي وَأَنْتِ غَيْرُ مُلِيمَةٍ"
+second: "إِذَا ذُكِرَتْ وَلَا بِذَاتِ تَقَلَّتِ"
+vocabulary:
+  - term: "غَيْرُ مُلِيمَةٍ"
+    text: "لا تأتي ما تُلام عليه."
+  - term: "تَقَلَّتِ"
+    text: "«تفعّلت من القِلى» [@tabrizi-ikhtiyarat، ج1 ص515]، والقِلى: البغض؛ أي ليست ممن تُبغض جارها ويُبغضها."
+sources:
+  - source: "mufaddaliyyat"
+    loc: "ص109"
+    url: "https://shamela.ws/book/6904/83"
+  - source: "tabrizi-ikhtiyarat"
+    loc: "ج1 ص515"
+    url: "https://archive.org/details/3820pdf/page/n531/mode/1up"
+status: "review"

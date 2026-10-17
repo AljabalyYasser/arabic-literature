@@ -1,0 +1,22 @@
+explained: false
+first: "إِذَا زَلَّ عَنْهَا السَّهْمُ حَنَّتْ كَأَنَّهَا"
+second: "مُرَزَّأَةٌ عَجْلَى تُرِنُّ وَتُعْوِلُ"
+vocabulary:
+  - term: "زَلَّ"
+    text: "«خرج» [@ukbari-lamiyya، ص74]."
+  - term: "حَنَّتْ"
+    text: "«حنينها: صوت وترها» [@ukbari-lamiyya، ص74]."
+  - term: "مُرَزَّأَةٌ"
+    text: "«الكثيرة الرزايا» [@ukbari-lamiyya، ص75]."
+  - term: "عَجْلَى"
+    text: "«مسرعة» [@ukbari-lamiyya، ص75]."
+  - term: "تُرِنُّ وَتُعْوِلُ"
+    text: "تصيح وترفع صوتها بالبكاء."
+sources:
+  - source: "ukbari-lamiyya"
+    loc: "ص74"
+    url: "https://shamela.ws/book/6998/18"
+  - source: "ukbari-lamiyya"
+    loc: "ص75"
+    url: "https://shamela.ws/book/6998/19"
+status: "review"

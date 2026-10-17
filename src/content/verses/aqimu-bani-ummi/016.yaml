@@ -1,0 +1,21 @@
+explained: false
+first: "وَلَا خَرِقٍ هَيْقٍ كَأَنَّ فُؤَادَهُ"
+second: "يَظَلُّ بِهِ المُكَّاءُ يَعْلُو وَيَسْفُلُ"
+vocabulary:
+  - term: "خَرِقٍ"
+    text: "متحيّر من الفزع؛ «وخرِق الرجل إذا بقي متحيّراً من همّ أو شدة» [@lisan، ج10 ص76]."
+  - term: "هَيْقٍ"
+    text: "طويل دقيق، «ولذلك سُمّي الظليم هيقاً» [@lisan، ج10 ص370]، والظليم ذكر النعام، وهو كثير النِّفار."
+  - term: "المُكَّاءُ"
+    text: "طائر صغير؛ يقول: كأن طائراً في قلبه يعلو ويسفل من الفزع."
+sources:
+  - source: "ukbari-lamiyya"
+    loc: "ص78"
+    url: "https://shamela.ws/book/6998/22"
+  - source: "lisan"
+    loc: "ج10 ص76"
+    url: "https://shamela.ws/book/1687/4746"
+  - source: "lisan"
+    loc: "ج10 ص370"
+    url: "https://shamela.ws/book/1687/5039"
+status: "review"

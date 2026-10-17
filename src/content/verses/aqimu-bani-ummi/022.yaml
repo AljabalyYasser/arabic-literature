@@ -1,0 +1,16 @@
+explained: false
+first: "وَأَسْتَفُّ تُرْبَ الأَرْضِ كَيْ لَا يَرَى لَهُ"
+second: "عَلَيَّ مِنَ الطَّوْلِ امْرُؤٌ مُتَطَوِّلُ"
+vocabulary:
+  - term: "أَسْتَفُّ"
+    text: "آكل التراب يابساً؛ «سففت الدواء وغيره من كل شيء يابس... هو أكله غير ملتوت» [@khizana، ج9 ص191]."
+  - term: "الطَّوْلِ"
+    text: "«مصدر طال على القوم يطول... إذا أفضل عليهم. وتطوّل: تفضّل» [@khizana، ج9 ص191]."
+sources:
+  - source: "ukbari-lamiyya"
+    loc: "ص86"
+    url: "https://shamela.ws/book/6998/30"
+  - source: "khizana"
+    loc: "ج9 ص191"
+    url: "https://shamela.ws/book/12732/4310"
+status: "review"

@@ -1,0 +1,17 @@
+explained: false
+first: "وَلَا جُبَّأٍ أَكْهَى مُرِبٍّ بِعِرْسِهِ"
+second: "يُطَالِعُهَا فِي شَأْنِهِ كَيْفَ يَفْعَلُ"
+vocabulary:
+  - term: "جُبَّأٍ"
+    text: "«الجبان» [@ukbari-lamiyya، ص76]."
+  - term: "أَكْهَى"
+    text: "«الذي لا خير لديه... البليد» [@ukbari-lamiyya، ص76]."
+  - term: "مُرِبٍّ بِعِرْسِهِ"
+    text: "«المُرِبّ: المقيم» [@ukbari-lamiyya، ص76]، أي ملازم لامرأته."
+  - term: "يُطَالِعُهَا فِي شَأْنِهِ"
+    text: "يستشيرها في أمره."
+sources:
+  - source: "ukbari-lamiyya"
+    loc: "ص76"
+    url: "https://shamela.ws/book/6998/20"
+status: "review"

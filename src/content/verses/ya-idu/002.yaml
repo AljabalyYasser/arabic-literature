@@ -1,0 +1,21 @@
+explained: false
+first: "يَسْرِي عَلَى الأَيْنِ وَالحَيَّاتِ مُحْتَفِيًا"
+second: "نَفْسِي فِدَاؤُكَ مِنْ سَارٍ عَلَى سَاقِ"
+vocabulary:
+  - term: "الأَيْنِ"
+    text: "الإعياء والتعب [@lisan، ج13 ص44]."
+  - term: "مُحْتَفِيًا"
+    text: "حافياً، «وهو الذي لا حذاء عليه»، كأنه يقصد «الحُفاة الرَّجّالة خاصة دون الرُّكبان» [@tabrizi-ikhtiyarat، ج1 ص101]."
+  - term: "سَارٍ عَلَى سَاقِ"
+    text: "ماشٍ على قدمه في الليل، والمعنى: «تفديك نفسي من سارٍ على قدم» [@tabrizi-ikhtiyarat، ج1 ص101]."
+sources:
+  - source: "mufaddaliyyat"
+    loc: "ص27"
+    url: "https://shamela.ws/book/6904/1"
+  - source: "lisan"
+    loc: "ج13 ص44"
+    url: "https://shamela.ws/book/1687/6607"
+  - source: "tabrizi-ikhtiyarat"
+    loc: "ج1 ص101"
+    url: "https://archive.org/details/3820pdf/page/n117/mode/1up"
+status: "review"

@@ -1,0 +1,15 @@
+kind: "bayt"
+part: "1"
+order: 62
+person: "amr-ibn-barraqa"
+verses:
+  - "taqulu-sulayma/011"
+meaning: "إذا اجتمع لك قلب ذكي، وسيف قاطع، ونفس أبيّة لا تقبل الضيم، تجنّبك الظالمون. وتمثّل به الحَجّاج بن يوسف في خطبة توعّد فيها أهل العراق، فقال: «وإن مثلي ومثلكم قول ابن براقة الهمداني» [@kamil، ج1 ص215]."
+sources:
+  - source: "kamil"
+    loc: "ج1 ص215"
+    url: "https://shamela.ws/book/8505/311"
+  - source: "qali"
+    loc: "ج2 ص122"
+    url: "https://shamela.ws/book/9160/406"
+status: "review"

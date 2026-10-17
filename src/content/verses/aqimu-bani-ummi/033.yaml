@@ -1,0 +1,17 @@
+explained: false
+first: "وَأَغْضَى وَأَغْضَتْ وَاتَّسَى وَاتَّسَتْ بِهِ"
+second: "مَرَامِيلُ عَزَّاهَا وَعَزَّتْهُ مُرْمِلُ"
+vocabulary:
+  - term: "أَغْضَى"
+    text: "أطبق جفنيه وسكت."
+  - term: "اتَّسَى"
+    text: "اقتدى وتعزّى."
+  - term: "مَرَامِيلُ"
+    text: "«الذين لا أقوات لهم» [@ukbari-lamiyya، ص101]."
+  - term: "مُرْمِلُ"
+    text: "فقير نفد زاده."
+sources:
+  - source: "ukbari-lamiyya"
+    loc: "ص101"
+    url: "https://shamela.ws/book/6998/45"
+status: "review"

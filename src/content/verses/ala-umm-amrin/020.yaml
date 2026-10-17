@@ -1,0 +1,16 @@
+explained: false
+first: "تَخَافُ عَلَيْنَا العَيْلَ إِنْ هِيَ أَكْثَرَتْ"
+second: "وَنَحْنُ جِيَاعٌ أَيَّ آلٍ تَأَلَّتِ"
+vocabulary:
+  - term: "العَيْلَ"
+    text: "العيل والعيلة: «الفقر» [@tabrizi-ikhtiyarat، ج1 ص524]."
+  - term: "أَيَّ آلٍ تَأَلَّتِ"
+    text: "«أيّ سياسة ساست»، من قولهم: «ألْته أؤوله أَوْلاً وإيالةً وإيالاً، إذا سُسته» [@tabrizi-ikhtiyarat، ج1 ص524]."
+sources:
+  - source: "mufaddaliyyat"
+    loc: "ص110"
+    url: "https://shamela.ws/book/6904/84"
+  - source: "tabrizi-ikhtiyarat"
+    loc: "ج1 ص524"
+    url: "https://archive.org/details/3820pdf/page/n540/mode/1up"
+status: "review"

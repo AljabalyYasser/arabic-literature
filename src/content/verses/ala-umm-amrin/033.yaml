@@ -1,0 +1,21 @@
+explained: false
+first: "وَلَوْ لَمْ أَرِمْ فِي أَهْلِ بَيْتِيَ قَاعِدًا"
+second: "إِذَنْ جَاءَنِي بَيْنَ العَمُودَيْنِ حُمَّتِي"
+vocabulary:
+  - term: "لَمْ أَرِمْ"
+    text: "لم أبرح، «والفعل رام يريم إذا برح» [@lisan، ج12 ص259]."
+  - term: "بَيْنَ العَمُودَيْنِ"
+    text: "بين عمودَي البيت، أي وأنا قاعد في أهلي."
+  - term: "حُمَّتِي"
+    text: "منيّتي [@tabrizi-ikhtiyarat، ج1 ص522]."
+sources:
+  - source: "mufaddaliyyat"
+    loc: "ص112"
+    url: "https://shamela.ws/book/6904/86"
+  - source: "lisan"
+    loc: "ج12 ص259"
+    url: "https://shamela.ws/book/1687/6172"
+  - source: "tabrizi-ikhtiyarat"
+    loc: "ج1 ص522"
+    url: "https://archive.org/details/3820pdf/page/n538/mode/1up"
+status: "review"

@@ -1,0 +1,13 @@
+explained: false
+first: "شَكَا وَشَكَتْ ثُمَّ ارْعَوَى بَعْدُ وَارْعَوَتْ"
+second: "وَلَلصَّبْرُ إِنْ لَمْ يَنْفَعِ الشَّكْوُ أَجْمَلُ"
+vocabulary:
+  - term: "ارْعَوَى"
+    text: "كفّ ورجع."
+  - term: "الشَّكْوُ"
+    text: "الشكوى."
+sources:
+  - source: "ukbari-lamiyya"
+    loc: "ص102"
+    url: "https://shamela.ws/book/6998/46"
+status: "review"

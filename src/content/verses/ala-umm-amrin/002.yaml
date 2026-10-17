@@ -1,0 +1,16 @@
+explained: false
+first: "وَقَدْ سَبَقَتْنَا أُمُّ عَمْرٍو بِأَمْرِهَا"
+second: "وَكَانَتْ بِأَعْنَاقِ المَطِيِّ أَظَلَّتِ"
+vocabulary:
+  - term: "سَبَقَتْنَا أُمُّ عَمْرٍو بِأَمْرِهَا"
+    text: "استبدّت برأيها فلم تشاورنا [@tabrizi-ikhtiyarat، ج1 ص514]."
+  - term: "بِأَعْنَاقِ المَطِيِّ أَظَلَّتِ"
+    text: "فاجأتنا بإبلها حتى أظلّتنا، أي أقبلت رواحلها علينا فجأة [@tabrizi-ikhtiyarat، ج1 ص514]. والمطيّ: الإبل يُركب ظهرها."
+sources:
+  - source: "mufaddaliyyat"
+    loc: "ص108"
+    url: "https://shamela.ws/book/6904/82"
+  - source: "tabrizi-ikhtiyarat"
+    loc: "ج1 ص514"
+    url: "https://archive.org/details/3820pdf/page/n530/mode/1up"
+status: "review"

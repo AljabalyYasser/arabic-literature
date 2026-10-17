@@ -1,0 +1,18 @@
+explained: false
+first: "فَقَدْ حُمَّتِ الحَاجَاتُ وَاللَّيْلُ مُقْمِرٌ"
+second: "وَشُدَّتْ لِطِيَّاتٍ مَطَايَا وَأَرْحُلُ"
+vocabulary:
+  - term: "حُمَّتِ"
+    text: "قُدِّرت [@ukbari-lamiyya، ص59]، و«حُمّ الشيء بالبناء للمفعول: أي قُدِّر وهُيِّئ» [@khizana، ج3 ص341]."
+  - term: "مُقْمِرٌ"
+    text: "مضيء بنور القمر."
+  - term: "لِطِيَّاتٍ"
+    text: "لحاجات [@ukbari-lamiyya، ص59]، و«الطِّيّة: النيّة» كما ينقل البَغْداديّ عن الجوهري [@khizana، ج3 ص341]."
+sources:
+  - source: "ukbari-lamiyya"
+    loc: "ص59"
+    url: "https://shamela.ws/book/6998/3"
+  - source: "khizana"
+    loc: "ج3 ص341"
+    url: "https://shamela.ws/book/12732/1275"
+status: "review"

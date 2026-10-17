@@ -1,0 +1,18 @@
+explained: false
+first: "أُمَيْمَةُ لَا يُخْزِي نَثَاهَا حَلِيلَهَا"
+second: "إِذَا ذُكِرَ النِّسْوَانُ عَفَّتْ وَجَلَّتِ"
+vocabulary:
+  - term: "نَثَاهَا"
+    text: "ما يُخبَر به عنها، و«النثا»: «إخبارك عن الشيء بالحسن أو القبيح» [@tabrizi-ikhtiyarat، ج1 ص518]."
+  - term: "حَلِيلَهَا"
+    text: "زوجها."
+  - term: "عَفَّتْ وَجَلَّتْ"
+    text: "يقول: «إذا ذُكرت أفعالها لم تسؤ حليلها، لحسن مذهبها وعفّتها» [@tabrizi-ikhtiyarat، ج1 ص518]."
+sources:
+  - source: "mufaddaliyyat"
+    loc: "ص109"
+    url: "https://shamela.ws/book/6904/83"
+  - source: "tabrizi-ikhtiyarat"
+    loc: "ج1 ص518"
+    url: "https://archive.org/details/3820pdf/page/n534/mode/1up"
+status: "review"

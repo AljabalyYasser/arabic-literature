@@ -1,0 +1,21 @@
+explained: false
+first: "تَبِيتُ بُعَيْدَ النَّوْمِ تُهْدِي غَبُوقَهَا"
+second: "لِجَارَتِهَا إِذَا الهَدِيَّةُ قَلَّتِ"
+vocabulary:
+  - term: "بُعَيْدَ النَّوْمِ"
+    text: "بعد أن ينام الناس بقليل؛ «يقال: بات يفعل كذا، إذا فعله ليلاً» [@tabrizi-ikhtiyarat، ج1 ص516]."
+  - term: "تُهْدِي غَبُوقَهَا"
+    text: "تعطي جارتها ما تشربه هي في العشيّ من اللبن، «يريد: أنها تؤثر بزادها لكرمها» [@tabrizi-ikhtiyarat، ج1 ص516]."
+  - term: "إِذَا الهَدِيَّةُ قَلَّتِ"
+    text: "في الجدب وبرد الشتاء، «حيث تذهب الإبل وينفد الزاد» [@tabrizi-ikhtiyarat، ج1 ص517]."
+sources:
+  - source: "mufaddaliyyat"
+    loc: "ص109"
+    url: "https://shamela.ws/book/6904/83"
+  - source: "tabrizi-ikhtiyarat"
+    loc: "ج1 ص516"
+    url: "https://archive.org/details/3820pdf/page/n532/mode/1up"
+  - source: "tabrizi-ikhtiyarat"
+    loc: "ج1 ص517"
+    url: "https://archive.org/details/3820pdf/page/n533/mode/1up"
+status: "review"

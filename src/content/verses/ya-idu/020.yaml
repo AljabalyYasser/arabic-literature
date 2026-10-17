@@ -1,0 +1,21 @@
+explained: false
+first: "بَلْ مَنْ لِعَذَّالَةٍ خَذَّالَةٍ أَشِبٍ"
+second: "حَرَّقَ بِاللَّوْمِ جِلْدِي أَيَّ تَحْرَاقِ"
+vocabulary:
+  - term: "عَذَّالَةٍ خَذَّالَةٍ"
+    text: "كثير العذل، كثير الخذلان؛ «و«الخذّالة»: الذي يخذله في إرادته ويخالفه فيها» [@tabrizi-ikhtiyarat، ج1 ص130]."
+  - term: "أَشِبٍ"
+    text: "«المخلَّط عليه المعترض» [@tabrizi-ikhtiyarat، ج1 ص130]."
+  - term: "أَيَّ تَحْرَاقِ"
+    text: "منصوب على المصدر «وفيه معنى التعجّب أيضاً»، «وهو مَثَل لشدّة تأثير اللوم في جسد الملوم» [@tabrizi-ikhtiyarat، ج1 ص131]."
+sources:
+  - source: "mufaddaliyyat"
+    loc: "ص30"
+    url: "https://shamela.ws/book/6904/4"
+  - source: "tabrizi-ikhtiyarat"
+    loc: "ج1 ص130"
+    url: "https://archive.org/details/3820pdf/page/n146/mode/1up"
+  - source: "tabrizi-ikhtiyarat"
+    loc: "ج1 ص131"
+    url: "https://archive.org/details/3820pdf/page/n147/mode/1up"
+status: "review"

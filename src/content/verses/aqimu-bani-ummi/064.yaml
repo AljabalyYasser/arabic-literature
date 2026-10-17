@@ -1,0 +1,19 @@
+explained: false
+first: "بَعِيدٍ بِمَسِّ الدُّهْنِ وَالفَلْيِ عَهْدُهُ"
+second: "لَهُ عَبَسٌ عَافٍ مِنَ الغِسْلِ مُحْوِلُ"
+vocabulary:
+  - term: "الفَلْيِ"
+    text: "تنقية الشعر من القمل."
+  - term: "عَبَسٌ"
+    text: "«ما تعلّق بأذيال الشاء من الأوضار» [@ukbari-lamiyya، ص142]، أي الوسخ."
+  - term: "عَافٍ"
+    text: "«كثير، يعني شعره» [@ukbari-lamiyya، ص142]."
+  - term: "الغِسْلِ"
+    text: "«ما يُغسل به الرأس» [@ukbari-lamiyya، ص142]."
+  - term: "مُحْوِلُ"
+    text: "«أتى عليه حَوْل» [@ukbari-lamiyya، ص142]."
+sources:
+  - source: "ukbari-lamiyya"
+    loc: "ص142"
+    url: "https://shamela.ws/book/6998/86"
+status: "review"

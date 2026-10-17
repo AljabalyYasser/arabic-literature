@@ -1,0 +1,21 @@
+explained: false
+first: "وَقُلَّةٍ كَسِنَانِ الرُّمْحِ بَارِزَةٍ"
+second: "ضَحْيَانَةٍ فِي شُهُورِ الصَّيْفِ مِحْرَاقِ"
+vocabulary:
+  - term: "قُلَّةٍ"
+    text: "«أعلى الجبل»، وجعلها كسنان الرمح «يصف دقّتها لطولها» [@tabrizi-ikhtiyarat، ج1 ص125]."
+  - term: "ضَحْيَانَةٍ"
+    text: "البارزة للشمس [@lisan، ج14 ص479]."
+  - term: "مِحْرَاقِ"
+    text: "شديدة الحرّ [@lisan، ج14 ص479]."
+sources:
+  - source: "mufaddaliyyat"
+    loc: "ص29"
+    url: "https://shamela.ws/book/6904/3"
+  - source: "tabrizi-ikhtiyarat"
+    loc: "ج1 ص125"
+    url: "https://archive.org/details/3820pdf/page/n141/mode/1up"
+  - source: "lisan"
+    loc: "ج14 ص479"
+    url: "https://shamela.ws/book/1687/7603"
+status: "review"

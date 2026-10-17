@@ -1,0 +1,23 @@
+explained: false
+first: "عَارِي الظَّنَابِيبِ مُمْتَدٍّ نَوَاشِرُهُ"
+second: "مِدْلَاجِ أَدْهَمَ وَاهِي المَاءِ غَسَّاقِ"
+vocabulary:
+  - term: "عَارِي الظَّنَابِيبِ"
+    text: "«الظنابيب: جمع ظنبوب. وهي حرف عظم الساق. والعرب تمدح الهزال وتهجو السِّمَن» [@tabrizi-ikhtiyarat، ج1 ص119]."
+  - term: "نَوَاشِرُهُ"
+    text: "«عروق ظاهر الذراع» [@tabrizi-ikhtiyarat، ج1 ص119]."
+  - term: "مِدْلَاجِ أَدْهَمَ"
+    text: "كثير السير في الليل الأسود؛ «الأدهم: الليل» [@tabrizi-ikhtiyarat، ج1 ص119]."
+  - term: "وَاهِي المَاءِ غَسَّاقِ"
+    text: "ليلٌ «لم يرضَ فيه بالظلام حتى جعله مَطيراً كثير الماء» [@tabrizi-ikhtiyarat، ج1 ص121]، و«الغسّاق: الشديد الظلمة» [@tabrizi-ikhtiyarat، ج1 ص119]."
+sources:
+  - source: "mufaddaliyyat"
+    loc: "ص29"
+    url: "https://shamela.ws/book/6904/3"
+  - source: "tabrizi-ikhtiyarat"
+    loc: "ج1 ص119"
+    url: "https://archive.org/details/3820pdf/page/n135/mode/1up"
+  - source: "tabrizi-ikhtiyarat"
+    loc: "ج1 ص121"
+    url: "https://archive.org/details/3820pdf/page/n137/mode/1up"
+status: "review"

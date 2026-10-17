@@ -1,0 +1,16 @@
+explained: false
+first: "خَرَجْنَا مِنَ الوَادِي الَّذِي بَيْنَ مِشْعَلٍ"
+second: "وَبَيْنَ الجَبَا هَيْهَاتَ أَنْشَأْتُ سُرْبَتِي"
+vocabulary:
+  - term: "هَيْهَاتَ"
+    text: "«من أسماء الأفعال، ومعناه: بَعُدَ. وقد يفيد مع البعد معنى التعجّب، كأنه يريد: ما أبعد ما رميت بأصحابي!» [@tabrizi-ikhtiyarat، ج1 ص522]."
+  - term: "أَنْشَأْتُ سُرْبَتِي"
+    text: "«أطلعت أصحابي» [@tabrizi-ikhtiyarat، ج1 ص522]، والسُّرْبة: الجماعة."
+sources:
+  - source: "mufaddaliyyat"
+    loc: "ص110"
+    url: "https://shamela.ws/book/6904/84"
+  - source: "tabrizi-ikhtiyarat"
+    loc: "ج1 ص522"
+    url: "https://archive.org/details/3820pdf/page/n538/mode/1up"
+status: "review"

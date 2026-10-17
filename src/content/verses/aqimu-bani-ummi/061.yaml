@@ -1,0 +1,17 @@
+explained: false
+first: "وَيَوْمٍ مِنَ الشِّعْرَى يَذُوبُ لُوَابُهُ"
+second: "أَفَاعِيهِ فِي رَمْضَائِهِ تَتَمَلْمَلُ"
+vocabulary:
+  - term: "الشِّعْرَى"
+    text: "نجم يطلع في شدة الحرّ."
+  - term: "لُوَابُهُ"
+    text: "«لوابه ولعابه واحد، وهو لعاب الشمس» [@ukbari-lamiyya، ص138]، أي السراب."
+  - term: "رَمْضَائِهِ"
+    text: "الرمل المحمى بالشمس."
+  - term: "تَتَمَلْمَلُ"
+    text: "تتقلّب من شدة الحرّ."
+sources:
+  - source: "ukbari-lamiyya"
+    loc: "ص138"
+    url: "https://shamela.ws/book/6998/82"
+status: "review"

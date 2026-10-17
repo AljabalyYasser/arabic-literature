@@ -1,0 +1,21 @@
+explained: false
+first: "لَيْلَةَ صَاحُوا وَأَغْرَوْا بِي سِرَاعَهُمُ"
+second: "بِالعَيْكَتَيْنِ لَدَى مَعْدَى ابْنِ بَرَّاقِ"
+vocabulary:
+  - term: "أَغْرَوْا بِي سِرَاعَهُمُ"
+    text: "حرّضوا عليّ أسرعهم عدواً، «وكأنّ الإغراء أبلغ من البعث والتحضيض» [@tabrizi-ikhtiyarat، ج1 ص109]."
+  - term: "العَيْكَتَيْنِ"
+    text: "موضع في ديار بَجِيلة [@lisan، ج10 ص472]."
+  - term: "مَعْدَى ابْنِ بَرَّاقِ"
+    text: "«الموضع الذي عدا فيه ابن برّاق» [@tabrizi-ikhtiyarat، ج1 ص109]، وهو صاحبه عَمْرو بن بَرّاق."
+sources:
+  - source: "mufaddaliyyat"
+    loc: "ص28"
+    url: "https://shamela.ws/book/6904/2"
+  - source: "tabrizi-ikhtiyarat"
+    loc: "ج1 ص109"
+    url: "https://archive.org/details/3820pdf/page/n125/mode/1up"
+  - source: "lisan"
+    loc: "ج10 ص472"
+    url: "https://shamela.ws/book/1687/5141"
+status: "review"

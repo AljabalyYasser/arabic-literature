@@ -1,0 +1,20 @@
+explained: false
+first: "أُمَشِّي عَلَى الأَرْضِ الَّتِي لَنْ تَضُرَّنِي"
+second: "لِأَنْكِيَ قَوْمًا أَوْ أُصَادِفَ حُمَّتِي"
+vocabulary:
+  - term: "أُمَشِّي"
+    text: "«كأنه يغزو على رجليه» [@tabrizi-ikhtiyarat، ج1 ص522]."
+  - term: "لَنْ تَضُرَّنِي"
+    text: "«لا أخاف بها أحداً» [@tabrizi-ikhtiyarat، ج1 ص522]."
+  - term: "لِأَنْكِيَ قَوْمًا"
+    text: "لأصيب من العدو وأوقع بهم."
+  - term: "حُمَّتِي"
+    text: "منيّتي [@tabrizi-ikhtiyarat، ج1 ص522]."
+sources:
+  - source: "mufaddaliyyat"
+    loc: "ص110"
+    url: "https://shamela.ws/book/6904/84"
+  - source: "tabrizi-ikhtiyarat"
+    loc: "ج1 ص522"
+    url: "https://archive.org/details/3820pdf/page/n538/mode/1up"
+status: "review"

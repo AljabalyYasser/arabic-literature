@@ -1,0 +1,23 @@
+explained: false
+first: "قَتَلْنَا قَتِيلًا مُهْدِيًا بِمُلَبِّدٍ"
+second: "جِمَارَ مِنًى وَسْطَ الحَجِيجِ المُصَوِّتِ"
+vocabulary:
+  - term: "مُهْدِيًا"
+    text: "قادماً بهديه إلى مكة، أي محرماً في الحج."
+  - term: "بِمُلَبِّدٍ"
+    text: "برجل ملبِّد، وهو المحرم الذي يلبّد شعره بالصمغ ونحوه حتى يتلبد، وكان أهل الجاهلية يفعلونه في الحج [@lisan، ج3 ص386]. ويروي التِّبْرِيزِيّ «قتيلاً مُحْرِماً»، أي «قتلنا محرماً برجل محرم» [@tabrizi-ikhtiyarat، ج1 ص528]."
+  - term: "جِمَارَ مِنًى"
+    text: "عند مواضع رمي الجمار بمنى، في موسم الحج."
+  - term: "المُصَوِّتِ"
+    text: "الذي يرفع صوته بالتلبية."
+sources:
+  - source: "mufaddaliyyat"
+    loc: "ص111"
+    url: "https://shamela.ws/book/6904/85"
+  - source: "lisan"
+    loc: "ج3 ص386"
+    url: "https://shamela.ws/book/1687/1828"
+  - source: "tabrizi-ikhtiyarat"
+    loc: "ج1 ص528"
+    url: "https://archive.org/details/3820pdf/page/n544/mode/1up"
+status: "review"

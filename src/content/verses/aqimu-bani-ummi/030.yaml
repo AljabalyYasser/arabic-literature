@@ -1,0 +1,20 @@
+explained: false
+first: "أَوِ الخَشْرَمُ المَبْعُوثُ حَثْحَثَ دَبْرَهُ"
+second: "مَحَابِيضُ أَرْدَاهُنَّ سَامٍ مُعَسِّلُ"
+vocabulary:
+  - term: "الخَشْرَمُ"
+    text: "«رئيس النحل» [@ukbari-lamiyya، ص98]."
+  - term: "حَثْحَثَ دَبْرَهُ"
+    text: "«حرّك وأزعج»، و«الدَّبْر: النحل» [@ukbari-lamiyya، ص98]."
+  - term: "مَحَابِيضُ"
+    text: "جمع مِحْبَض، «وهو العود مع مُشتار العسل» [@ukbari-lamiyya، ص98]."
+  - term: "سَامٍ مُعَسِّلُ"
+    text: "«الذي يسمو لطلب العسل» [@ukbari-lamiyya، ص98]."
+sources:
+  - source: "ukbari-lamiyya"
+    loc: "ص97"
+    url: "https://shamela.ws/book/6998/41"
+  - source: "ukbari-lamiyya"
+    loc: "ص98"
+    url: "https://shamela.ws/book/6998/42"
+status: "review"

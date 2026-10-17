@@ -1,0 +1,17 @@
+explained: false
+first: "فَلَمْ تَكُ إِلَّا نَبْأَةٌ ثُمَّ هَوَّمَتْ"
+second: "فَقُلْنَا قَطَاةٌ رِيعَ أَمْ رِيعَ أَجْدَلُ"
+vocabulary:
+  - term: "نَبْأَةٌ"
+    text: "«صوت» [@ukbari-lamiyya، ص134]."
+  - term: "هَوَّمَتْ"
+    text: "نامت، «يعني الكلاب» [@ukbari-lamiyya، ص134]."
+  - term: "رِيعَ"
+    text: "فزع."
+  - term: "أَجْدَلُ"
+    text: "«الصقر» [@ukbari-lamiyya، ص134]."
+sources:
+  - source: "ukbari-lamiyya"
+    loc: "ص134"
+    url: "https://shamela.ws/book/6998/78"
+status: "review"

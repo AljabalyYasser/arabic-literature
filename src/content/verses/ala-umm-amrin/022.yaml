@@ -1,0 +1,18 @@
+explained: false
+first: "مُصَعْلِكَةٍ لَا يَقْصُرُ السِّتْرُ دُونَهَا"
+second: "وَلَا تُرْتَجَى لِلْبَيْتِ إِنْ لَمْ تُبَيِّتِ"
+vocabulary:
+  - term: "مُصَعْلِكَةٍ"
+    text: "«صاحبة صعاليك. والصُّعلوك: الفقير» [@tabrizi-ikhtiyarat، ج1 ص525]."
+  - term: "لَا يَقْصُرُ السِّتْرُ دُونَهَا"
+    text: "«لا يُغطّى أمرها... هي مكشوفة الأمر» [@tabrizi-ikhtiyarat، ج1 ص525]."
+  - term: "إِنْ لَمْ تُبَيِّتِ"
+    text: "إن لم تبنِ بيتاً، أو إن لم تقصد البيات، «وهو: الإيقاع بهم ليلاً» [@tabrizi-ikhtiyarat، ج1 ص525]."
+sources:
+  - source: "mufaddaliyyat"
+    loc: "ص111"
+    url: "https://shamela.ws/book/6904/85"
+  - source: "tabrizi-ikhtiyarat"
+    loc: "ج1 ص525"
+    url: "https://archive.org/details/3820pdf/page/n541/mode/1up"
+status: "review"

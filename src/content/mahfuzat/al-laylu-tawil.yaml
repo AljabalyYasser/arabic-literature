@@ -1,0 +1,14 @@
+kind: "mathal"
+part: "1"
+order: 60
+person: "al-sulayk-ibn-al-sulaka"
+text: "إِنَّ اللَّيْلَ طَوِيلٌ وَأَنْتَ مُقْمِرٌ"
+meaning: "قاله السُّلَيْك بن السُّلَكة لرجل جثم عليه وهو نائم في ليلة مقمرة وقال له: استأسر. يريد: أمامك ليل طويل مقمر تجد فيه غيري، فدعني. و«يضرب عند الأمر بالصبر والتأنيّ في طلب الحاجة» [@maydani، ج1 ص30]."
+sources:
+  - source: "maydani"
+    loc: "ج1 ص30"
+    url: "https://shamela.ws/book/12929/125"
+  - source: "ibn-qutayba"
+    loc: "ج1 ص353–354"
+    url: "https://shamela.ws/book/23785/346"
+status: "review"

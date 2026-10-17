@@ -1,0 +1,21 @@
+explained: false
+first: "لَا شَيْءَ فِي رَيْدِهَا إِلَّا نَعَامَتُهَا"
+second: "مِنْهَا هَزِيمٌ وَمِنْهَا قَائِمٌ بَاقِ"
+vocabulary:
+  - term: "رَيْدِهَا"
+    text: "«حرف الجبل المشرف على الهواء» [@tabrizi-ikhtiyarat، ج1 ص128]."
+  - term: "نَعَامَتُهَا"
+    text: "«خشبات يُشدّ بعضها إلى بعض، وتستظلّ بها الطلائع في القِلال إذا اشتدّ الحرّ» [@tabrizi-ikhtiyarat، ج1 ص127]."
+  - term: "هَزِيمٌ"
+    text: "«المتكسّر المتقطّع» [@tabrizi-ikhtiyarat، ج1 ص128]."
+sources:
+  - source: "mufaddaliyyat"
+    loc: "ص30"
+    url: "https://shamela.ws/book/6904/4"
+  - source: "tabrizi-ikhtiyarat"
+    loc: "ج1 ص128"
+    url: "https://archive.org/details/3820pdf/page/n144/mode/1up"
+  - source: "tabrizi-ikhtiyarat"
+    loc: "ج1 ص127"
+    url: "https://archive.org/details/3820pdf/page/n143/mode/1up"
+status: "review"

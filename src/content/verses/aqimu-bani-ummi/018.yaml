@@ -1,0 +1,17 @@
+explained: false
+first: "وَلَسْتُ بِعَلٍّ شَرُّهُ دُونَ خَيْرِهِ"
+second: "أَلَفَّ إِذَا مَا رُعْتَهُ اهْتَاجَ أَعْزَلُ"
+vocabulary:
+  - term: "بِعَلٍّ"
+    text: "«العَلّ: الذي لا خير عنده، والصغير الجسم يشبه القُراد» [@ukbari-lamiyya، ص80]."
+  - term: "أَلَفَّ"
+    text: "«عاجز، لا يقوم بحرب ولا ضيف» [@ukbari-lamiyya، ص80]."
+  - term: "رُعْتَهُ"
+    text: "أفزعته."
+  - term: "أَعْزَلُ"
+    text: "«الذي لا سلاح معه» [@ukbari-lamiyya، ص80]."
+sources:
+  - source: "ukbari-lamiyya"
+    loc: "ص80"
+    url: "https://shamela.ws/book/6998/24"
+status: "review"

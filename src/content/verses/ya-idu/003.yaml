@@ -1,0 +1,16 @@
+explained: false
+first: "إِنِّي إِذَا خُلَّةٌ ضَنَّتْ بِنَائِلِهَا"
+second: "وَأَمْسَكَتْ بِضَعِيفِ الوَصْلِ أَحْذَاقِ"
+vocabulary:
+  - term: "خُلَّةٌ"
+    text: "صديقة، ومعنى البيت: «إني إذا صديقة بخلت بوصلها، وأمسكت بعهد ضعيف ذي وُصَل وأقطاع... زهدت في مُخالّتها، وصرفت نفسي عن هواها» [@tabrizi-ikhtiyarat، ج1 ص103]."
+  - term: "أَحْذَاقِ"
+    text: "جمع وُصف به الواحد، «يقال: حبل أحذاق وأرمام وأرماث، أي: أقطاع» [@tabrizi-ikhtiyarat، ج1 ص103]."
+sources:
+  - source: "mufaddaliyyat"
+    loc: "ص28"
+    url: "https://shamela.ws/book/6904/2"
+  - source: "tabrizi-ikhtiyarat"
+    loc: "ج1 ص103"
+    url: "https://archive.org/details/3820pdf/page/n119/mode/1up"
+status: "review"

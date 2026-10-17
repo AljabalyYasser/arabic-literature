@@ -1,0 +1,19 @@
+explained: false
+first: "هَتُوفٌ مِنَ المُلْسِ المُتُونِ يَزِينُهَا"
+second: "رَصَائِعُ قَدْ نِيطَتْ إِلَيْهَا وَمِحْمَلُ"
+vocabulary:
+  - term: "هَتُوفٌ"
+    text: "«مصوِّت» [@ukbari-lamiyya، ص73]، يعني القوس."
+  - term: "المُلْسِ المُتُونِ"
+    text: "«التي لا عُقد فيها» [@ukbari-lamiyya، ص73]."
+  - term: "رَصَائِعُ"
+    text: "«سيور تُزيَّن بها القوس» [@ukbari-lamiyya، ص73]."
+  - term: "نِيطَتْ"
+    text: "«عُلِّقت» [@ukbari-lamiyya، ص73]."
+  - term: "مِحْمَلُ"
+    text: "حمالة تُعلَّق بها القوس على العاتق."
+sources:
+  - source: "ukbari-lamiyya"
+    loc: "ص73"
+    url: "https://shamela.ws/book/6998/17"
+status: "review"

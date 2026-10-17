@@ -1,0 +1,20 @@
+explained: false
+first: "دَعَسْتُ عَلَى غَطْشٍ وَبَغْشٍ وَصُحْبَتِي"
+second: "سُعَارٌ وَإِرْزِيزٌ وَوَجْرٌ وَأَفْكَلُ"
+vocabulary:
+  - term: "دَعَسْتُ"
+    text: "«دفعت» [@ukbari-lamiyya، ص126]."
+  - term: "غَطْشٍ وَبَغْشٍ"
+    text: "«الغطش: الظلمة. والبغش: المطر الخفيف» [@ukbari-lamiyya، ص126]."
+  - term: "سُعَارٌ"
+    text: "«الحرّ في جوف الإنسان من شدة الجوع والبرد» [@ukbari-lamiyya، ص126]."
+  - term: "إِرْزِيزٌ وَوَجْرٌ وَأَفْكَلُ"
+    text: "الإرزيز: البرد الثابت، «والوجر: الخوف. والأفكل: الرعدة» [@ukbari-lamiyya، ص127]."
+sources:
+  - source: "ukbari-lamiyya"
+    loc: "ص126"
+    url: "https://shamela.ws/book/6998/70"
+  - source: "ukbari-lamiyya"
+    loc: "ص127"
+    url: "https://shamela.ws/book/6998/71"
+status: "review"

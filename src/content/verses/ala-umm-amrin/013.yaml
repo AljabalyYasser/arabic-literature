@@ -1,0 +1,18 @@
+explained: false
+first: "فَبِتْنَا كَأَنَّ البَيْتَ حُجِّرَ فَوْقَنَا"
+second: "بِرَيْحَانَةٍ رِيحَتْ عِشَاءً وَطُلَّتِ"
+vocabulary:
+  - term: "حُجِّرَ فَوْقَنَا بِرَيْحَانَةٍ"
+    text: "أحاط بنا ريح طيب كأن البيت حُجِّر بريحانة، «يريد: طيب ريحها» [@tabrizi-ikhtiyarat، ج1 ص520]."
+  - term: "رِيحَتْ"
+    text: "«أصابتها الريح فجاءت بنسيمها» [@tabrizi-ikhtiyarat، ج1 ص520]."
+  - term: "طُلَّتِ"
+    text: "«أصابها الطَّلّ، وهو النَّدى» [@tabrizi-ikhtiyarat، ج1 ص520]."
+sources:
+  - source: "mufaddaliyyat"
+    loc: "ص110"
+    url: "https://shamela.ws/book/6904/84"
+  - source: "tabrizi-ikhtiyarat"
+    loc: "ج1 ص520"
+    url: "https://archive.org/details/3820pdf/page/n536/mode/1up"
+status: "review"

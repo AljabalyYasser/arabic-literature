@@ -1,0 +1,16 @@
+explained: false
+first: "إِذَا فَزِعُوا طَارَتْ بِأَبْيَضَ صَارِمٍ"
+second: "وَرَامَتْ بِمَا فِي جَفْرِهَا ثُمَّ سَلَّتِ"
+vocabulary:
+  - term: "طَارَتْ"
+    text: "«وثبت بسيف قاطع، أي: متقلّداً سيفه» [@tabrizi-ikhtiyarat، ج1 ص527]."
+  - term: "جَفْرِهَا"
+    text: "الجفر عند التِّبْرِيزِيّ: «الكنانة»، أي جعبة السهام؛ «يقول: يرمي بما في كنانته ثم يجالد بسيفه» [@tabrizi-ikhtiyarat، ج1 ص527]."
+sources:
+  - source: "mufaddaliyyat"
+    loc: "ص111"
+    url: "https://shamela.ws/book/6904/85"
+  - source: "tabrizi-ikhtiyarat"
+    loc: "ج1 ص527"
+    url: "https://archive.org/details/3820pdf/page/n543/mode/1up"
+status: "review"

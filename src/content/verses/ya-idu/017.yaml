@@ -1,0 +1,16 @@
+explained: false
+first: "بَادَرْتُ قُنَّتَهَا صَحْبِي وَمَا كَسِلُوا"
+second: "حَتَّى نَمَيْتُ إِلَيْهَا بَعْدَ إِشْرَاقِ"
+vocabulary:
+  - term: "قُنَّتَهَا"
+    text: "«القُنّة: الجبل المنفرد المستطيل في السماء»، عن الخليل [@tabrizi-ikhtiyarat، ج1 ص127]."
+  - term: "نَمَيْتُ"
+    text: "ارتقيت؛ والمعنى: «بادرتهم لكي أرتقي إليها بعد إضاءة الشمس» [@tabrizi-ikhtiyarat، ج1 ص127]."
+sources:
+  - source: "mufaddaliyyat"
+    loc: "ص30"
+    url: "https://shamela.ws/book/6904/4"
+  - source: "tabrizi-ikhtiyarat"
+    loc: "ج1 ص127"
+    url: "https://archive.org/details/3820pdf/page/n143/mode/1up"
+status: "review"

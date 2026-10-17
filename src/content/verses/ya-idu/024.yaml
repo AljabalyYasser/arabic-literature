@@ -1,0 +1,16 @@
+explained: false
+first: "أَنْ يَسْأَلَ القَوْمُ عَنِّي أَهْلَ مَعْرِفَةٍ"
+second: "فَلَا يُخَبِّرُهُمْ عَنْ ثَابِتٍ لَاقِ"
+vocabulary:
+  - term: "ثَابِتٍ"
+    text: "«اسمه» [@tabrizi-ikhtiyarat، ج1 ص136]، أي اسم الشاعر نفسه."
+  - term: "لَاقِ"
+    text: "لاقٍ، أي من لقيه؛ والمعنى: «فلا تجدي من يأتيك بخبر عن ثابت» [@tabrizi-ikhtiyarat، ج1 ص136]."
+sources:
+  - source: "mufaddaliyyat"
+    loc: "ص30"
+    url: "https://shamela.ws/book/6904/4"
+  - source: "tabrizi-ikhtiyarat"
+    loc: "ج1 ص136"
+    url: "https://archive.org/details/3820pdf/page/n152/mode/1up"
+status: "review"
