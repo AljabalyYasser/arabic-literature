@@ -1,0 +1,15 @@
+explained: false
+first: "لَنَا جَبَلٌ يَحْتَلُّهُ مَنْ نُجِيرُهُ"
+second: "مَنِيعٌ يَرُدُّ الطَّرْفَ وَهْوَ كَلِيلُ"
+vocabulary:
+  - term: "يَحْتَلُّهُ"
+    text: "ينزل فيه ويحلّ."
+  - term: "نُجِيرُهُ"
+    text: "نحميه ونجعله في جوارنا."
+  - term: "يَرُدُّ الطَّرْفَ وَهْوَ كَلِيلُ"
+    text: "يردّ البصر متعبًا من طول النظر إلى أعلاه."
+sources:
+  - source: "tabrizi-hamasa"
+    loc: "ج1 ص29"
+    url: "https://shamela.ws/book/6907/28"
+status: "review"

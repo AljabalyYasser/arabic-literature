@@ -1,0 +1,16 @@
+explained: false
+first: "وَإِنَّ عِرَارًا إِنْ يَكُنْ ذَا شَكِيمَةٍ"
+second: "تُقَاسِينَهَا مِنْهُ فَمَا أَمْلِكُ الشِّيَمْ"
+vocabulary:
+  - term: "شَكِيمَةٍ"
+    text: "«شدة النفس والأنفة والإباء، وأصله من شكيمة اللجام» [@ibn-qutayba، ج1 ص415، الحاشية]."
+  - term: "الشِّيَمْ"
+    text: "الطباع، جمع شِيمة؛ أي لا أقدر على تغيير طبعه."
+sources:
+  - source: "tabrizi-hamasa"
+    loc: "ج1 ص100"
+    url: "https://shamela.ws/book/6907/99"
+  - source: "ibn-qutayba"
+    loc: "ج1 ص415، الحاشية"
+    url: "https://shamela.ws/book/23785/408"
+status: "review"

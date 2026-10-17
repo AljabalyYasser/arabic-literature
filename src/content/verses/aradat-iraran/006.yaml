@@ -1,0 +1,18 @@
+explained: false
+first: "وَإِنَّ عِرَارًا إِنْ يَكُنْ غَيْرَ وَاضِحٍ"
+second: "فَإِنِّي أُحِبُّ الْجَوْنَ ذَا الْمَنْكِبِ الْعَمَمْ"
+vocabulary:
+  - term: "وَاضِحٍ"
+    text: "«الأبيض اللون الحسنه» [@ibn-qutayba، ج1 ص415، الحاشية]."
+  - term: "الْجَوْنَ"
+    text: "الأسود."
+  - term: "الْعَمَمْ"
+    text: "«التام أو الطويل» [@ibn-qutayba، ج1 ص415، الحاشية]."
+sources:
+  - source: "tabrizi-hamasa"
+    loc: "ج1 ص100"
+    url: "https://shamela.ws/book/6907/99"
+  - source: "ibn-qutayba"
+    loc: "ج1 ص415، الحاشية"
+    url: "https://shamela.ws/book/23785/408"
+status: "review"

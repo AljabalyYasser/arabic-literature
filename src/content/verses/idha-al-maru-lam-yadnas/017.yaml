@@ -1,0 +1,17 @@
+explained: false
+first: "وَمَا أُخْمِدَتْ نَارٌ لَنَا دُونَ طَارِقٍ"
+second: "وَلَا ذَمَّنَا فِي النَّازِلِينَ نَزِيلُ"
+vocabulary:
+  - term: "أُخْمِدَتْ"
+    text: "أُطفئت."
+  - term: "نَارٌ"
+    text: "نار الضيافة، توقد ليلًا ليهتدي بها الضيف."
+  - term: "طَارِقٍ"
+    text: "الضيف يأتي ليلًا."
+  - term: "نَزِيلُ"
+    text: "ضيف نازل."
+sources:
+  - source: "tabrizi-hamasa"
+    loc: "ج1 ص30"
+    url: "https://shamela.ws/book/6907/29"
+status: "review"

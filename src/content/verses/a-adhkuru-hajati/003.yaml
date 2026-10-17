@@ -1,0 +1,20 @@
+explained: false
+first: "كَرِيمٌ لَا يُغَيِّرُهُ صَبَاحٌ"
+second: "عَنِ الْخُلُقِ السَّنِيِّ وَلَا مَسَاءُ"
+vocabulary:
+  - term: "السَّنِيِّ"
+    text: "الرفيع، «والسَّنِيُّ: الرَّفيعُ» [@lisan، ج14 ص403]. ويروي ابن سَلّام: «عَنِ الْخُلُقِ الْكَرِيمِ» [@ibn-sallam، ج1 ص265]، وأبو تمّام: «خَلِيلٌ لَا يُغَيِّرُهُ صَبَاحٌ / عَنِ الْخُلُقِ الْجَمِيلِ» [@tabrizi-hamasa، ج2 ص372]."
+sources:
+  - source: "aghani-dk"
+    loc: "ج8 ص328"
+    url: "https://archive.org/details/aghani2014/8/page/n327/mode/1up"
+  - source: "lisan"
+    loc: "ج14 ص403"
+    url: "https://shamela.ws/book/1687/7527"
+  - source: "ibn-sallam"
+    loc: "ج1 ص265"
+    url: "https://shamela.ws/book/6738/258"
+  - source: "tabrizi-hamasa"
+    loc: "ج2 ص372"
+    url: "https://shamela.ws/book/6907/819"
+status: "review"

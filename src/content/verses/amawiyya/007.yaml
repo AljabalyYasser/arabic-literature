@@ -1,0 +1,13 @@
+explained: false
+first: "وَرَاحُوا سِرَاعًا يَنْفُضُونَ أَكُفَّهُمْ"
+second: "يَقُولُونَ: قَدْ دَمَّى أَنَامِلَنَا الْحَفْرُ"
+vocabulary:
+  - term: "يَنْفُضُونَ أَكُفَّهُمْ"
+    text: "ينفضون عنها تراب القبر."
+  - term: "دَمَّى"
+    text: "أسال الدم. وفي الديوان «قد أَدْمَى» كما يقول محققو «الأغاني» [@aghani-dk، ج17 ص385]."
+sources:
+  - source: "aghani-dk"
+    loc: "ج17 ص385"
+    url: "https://archive.org/details/aghani2014/17/page/n389/mode/1up"
+status: "review"

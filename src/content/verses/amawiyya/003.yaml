@@ -1,0 +1,14 @@
+explained: false
+first: "أَمَاوِيَّ إِنِّي لَا أَقُولُ لِسَائِلٍ"
+second: "إِذَا جَاءَ يَوْمًا: حَلَّ فِي مَالِنَا النَّذْرُ"
+vocabulary:
+  - term: "حَلَّ فِي مَالِنَا النَّذْرُ"
+    text: "أي جعلنا مالنا نذرًا فلا نعطي منه، يتعلّل به البخيل. وفي الديوان «النَّزْرُ» كما يقول محققو «الأغاني» [@aghani-dk، ج17 ص385]، وهي رواية «الخزانة»: «حلّ في مالنا النزر أي: القلّة» [@khizana، ج4 ص213]."
+sources:
+  - source: "aghani-dk"
+    loc: "ج17 ص385"
+    url: "https://archive.org/details/aghani2014/17/page/n389/mode/1up"
+  - source: "khizana"
+    loc: "ج4 ص213"
+    url: "https://shamela.ws/book/12732/1615"
+status: "review"

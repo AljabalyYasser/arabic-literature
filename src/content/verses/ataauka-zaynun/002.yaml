@@ -1,0 +1,16 @@
+explained: false
+first: "وَلَيْسَ بِشَيْنٍ لِامْرِئٍ بَذْلُ وَجْهِهِ"
+second: "إِلَيْكَ كَمَا بَعْضُ السُّؤَالِ يَشِينُ"
+vocabulary:
+  - term: "بِشَيْنٍ"
+    text: "بعيب، و«الشَّيْنُ: مَعْرُوفٌ خِلَافُ الزَّيْن» [@lisan، ج13 ص244]."
+  - term: "بَذْلُ وَجْهِهِ"
+    text: "أن يسأل فيبذل ماء وجهه، أي حياءه."
+sources:
+  - source: "aghani-dk"
+    loc: "ج8 ص328"
+    url: "https://archive.org/details/aghani2014/8/page/n327/mode/1up"
+  - source: "lisan"
+    loc: "ج13 ص244"
+    url: "https://shamela.ws/book/1687/6805"
+status: "review"

@@ -1,0 +1,18 @@
+explained: false
+first: "أَلَا نَبِيٌّ لَنَا مِنَّا فَيُخْبِرَنَا"
+second: "مَا بَعْدَ غَايَتِنَا مِنْ رَأْسِ مَحْيَانَا"
+vocabulary:
+  - term: "أَلَا"
+    text: "حرف تمنٍّ هنا، أي: ليت لنا نبيًّا منا."
+  - term: "غَايَتِنَا"
+    text: "منتهانا، وهو الموت."
+  - term: "مَحْيَانَا"
+    text: "حياتنا. وفي رواية البَغْداديّ: «مِنْ رَأْسِ مَجْرَانَا» [@khizana، ج1 ص248]."
+sources:
+  - source: "aghani-dk"
+    loc: "ج4 ص129"
+    url: "https://archive.org/details/aghani2014/4/page/n134/mode/1up"
+  - source: "khizana"
+    loc: "ج1 ص248"
+    url: "https://shamela.ws/book/12732/246"
+status: "review"

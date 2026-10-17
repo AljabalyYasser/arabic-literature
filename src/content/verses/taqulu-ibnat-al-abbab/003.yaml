@@ -1,0 +1,18 @@
+explained: false
+first: "فَقُلْتُ وَلَمْ أَعْيَ الْجَوَابَ تَبَيَّنِي"
+second: "أَكَانَ الْهُزَالُ حَتْفَ زَيْدٍ وَأَرْبَدَا"
+vocabulary:
+  - term: "لَمْ أَعْيَ الْجَوَابَ"
+    text: "«لم أعجز عنه» كما يقول محقق «الحماسة» [@tabrizi-hamasa، ج2 ص342]."
+  - term: "تَبَيَّنِي"
+    text: "«تبصري» [@tabrizi-hamasa، ج2 ص342]."
+  - term: "الْهُزَالُ حَتْفَ زَيْدٍ وَأَرْبَدَا"
+    text: "هل كان الفقر سبب موت زيد وأربد؟ ويفسّره محقق «الحماسة»: «أي هل كان الفقر والهزال سبب موت من مات من عشيرتنا» [@tabrizi-hamasa، ج2 ص343]."
+sources:
+  - source: "tabrizi-hamasa"
+    loc: "ج2 ص342"
+    url: "https://shamela.ws/book/6907/789"
+  - source: "tabrizi-hamasa"
+    loc: "ج2 ص343"
+    url: "https://shamela.ws/book/6907/790"
+status: "review"

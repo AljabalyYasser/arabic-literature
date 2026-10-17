@@ -1,0 +1,20 @@
+explained: false
+first: "لَيْتَ شِعْرِي وَأَشْعُرَنَّ إِذَا مَا"
+second: "قِيلَ إِقْرَأْ عُنْوَانَهَا وَقَرِيتُ"
+vocabulary:
+  - term: "لَيْتَ شِعْرِي"
+    text: "«ليتنى أشعر، أى أعلم» كما يقول المحققان [@asmaiyyat، ص86، الحاشية]."
+  - term: "إِقْرَأْ"
+    text: "اقرأ، «قطع همزة الوصل للشعر» [@asmaiyyat، ص86، الحاشية]."
+  - term: "عُنْوَانَهَا"
+    text: "عنوان صحيفته، يعني كتاب أعماله يوم الحساب."
+  - term: "وَقَرِيتُ"
+    text: "«قرأت بإبدال الهمزة ياء» [@asmaiyyat، ص86، الحاشية]."
+sources:
+  - source: "asmaiyyat"
+    loc: "ص86"
+    url: "https://shamela.ws/book/6905/72"
+  - source: "asmaiyyat"
+    loc: "ص86، الحاشية"
+    url: "https://shamela.ws/book/6905/72"
+status: "review"

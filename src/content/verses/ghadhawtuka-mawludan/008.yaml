@@ -1,0 +1,16 @@
+explained: false
+first: "وَسَمَّيْتَنِي بِاسْمِ الْمُفَنَّدِ رَأْيُهُ"
+second: "وَفِي رَأْيِكَ التَّفْنِيدُ لَوْ كُنْتَ تَعْقِلُ"
+vocabulary:
+  - term: "الْمُفَنَّدِ رَأْيُهُ"
+    text: "الذي يُنسب رأيه إلى الضعف من الكبر. «الفَنَدُ: الخَرَفُ وإِنكار الْعَقْلِ مِنَ الهَرَم أَو المَرضِ» [@lisan، ج3 ص338]."
+  - term: "التَّفْنِيدُ"
+    text: "تضعيف الرأي ونسبته إلى الخرف."
+sources:
+  - source: "tabrizi-hamasa"
+    loc: "ج1 ص315"
+    url: "https://shamela.ws/book/6907/298"
+  - source: "lisan"
+    loc: "ج3 ص338"
+    url: "https://shamela.ws/book/1687/1780"
+status: "review"

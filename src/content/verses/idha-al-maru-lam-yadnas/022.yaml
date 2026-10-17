@@ -1,0 +1,16 @@
+explained: false
+first: "فَإِنَّ بَنِي الدَّيَّانِ قُطْبٌ لِقَوْمِهِمْ"
+second: "تَدُورُ رَحَاهُمْ حَوْلَهُمْ وَتَجُولُ"
+vocabulary:
+  - term: "بَنِي الدَّيَّانِ"
+    text: "سادة بني الحارث بن كعب. قال التِّبْرِيزيّ: «والديان هو يزيد بن قطن بن زياد بن الحارث الأصغر» [@tabrizi-hamasa، نشرة فرايتاغ ص54]."
+  - term: "قُطْبٌ"
+    text: "الحديدة في وسط الرحى يدور عليها حجرها الأعلى؛ يقول: عليهم يدور أمر قومهم."
+sources:
+  - source: "tabrizi-hamasa"
+    loc: "ج1 ص31"
+    url: "https://shamela.ws/book/6907/30"
+  - source: "tabrizi-hamasa"
+    loc: "نشرة فرايتاغ ص54"
+    url: "https://archive.org/details/bub_gb_hxySvlw41jAC/page/n65/mode/1up"
+status: "review"

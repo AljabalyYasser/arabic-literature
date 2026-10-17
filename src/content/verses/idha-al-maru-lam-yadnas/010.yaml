@@ -1,0 +1,13 @@
+explained: false
+first: "وَمَا مَاتَ مِنَّا سَيِّدٌ حَتْفَ أَنْفِهِ"
+second: "وَلَا طُلَّ مِنَّا حَيْثُ كَانَ قَتِيلُ"
+vocabulary:
+  - term: "حَتْفَ أَنْفِهِ"
+    text: "على فراشه من غير قتل."
+  - term: "طُلَّ"
+    text: "أُهدر دمه فلم يُثأر له."
+sources:
+  - source: "tabrizi-hamasa"
+    loc: "ج1 ص29"
+    url: "https://shamela.ws/book/6907/28"
+status: "review"

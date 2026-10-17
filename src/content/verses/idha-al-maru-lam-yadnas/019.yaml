@@ -1,0 +1,15 @@
+explained: false
+first: "وَأَسْيَافُنَا فِي كُلِّ غَرْبٍ وَمَشْرِقٍ"
+second: "بِهَا مِنْ قِرَاعِ الدَّارِعِينَ فُلُولُ"
+vocabulary:
+  - term: "قِرَاعِ"
+    text: "المضاربة."
+  - term: "الدَّارِعِينَ"
+    text: "لابسي الدروع."
+  - term: "فُلُولُ"
+    text: "جمع فَلّ، وهو الثَّلْم في حدّ السيف."
+sources:
+  - source: "tabrizi-hamasa"
+    loc: "ج1 ص30"
+    url: "https://shamela.ws/book/6907/29"
+status: "review"

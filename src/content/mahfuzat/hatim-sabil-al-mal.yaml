@@ -1,0 +1,16 @@
+kind: "bayt"
+title: "إن الجواد يرى في ماله سبلا"
+part: "1"
+order: 153
+person: "hatim"
+verses:
+  - "mahlan-nawar/003"
+meaning: "البخيل لا يرى للمال إلا طريقًا واحدًا، هو الجمع والإمساك، والكريم يرى له طرقًا كثيرة يُنفق فيها. قاله حاتم لامرأته النَّوار حين لامته على فرس نحره لجيرانه في سنة جدب [@ibn-qutayba، ج1 ص238]، ويذكر ابن عَبْد رَبِّه أنه كان يُغنّى «بقول حاتم الطائي» [@iqd، ج7 ص6]."
+sources:
+  - source: "ibn-qutayba"
+    loc: "ج1 ص238"
+    url: "https://shamela.ws/book/23785/231"
+  - source: "iqd"
+    loc: "ج7 ص6"
+    url: "https://shamela.ws/book/23789/2181"
+status: "review"

@@ -1,0 +1,17 @@
+kind: "bayt"
+title: "الكرام قليل"
+part: "1"
+order: 162
+person: "al-samawal"
+lines:
+  - first: "تُعَيِّرُنَا أَنَّا قَلِيلٌ عَدِيدُنَا"
+    second: "فَقُلْتُ لَهَا إِنَّ الْكِرَامَ قَلِيلُ"
+meaning: "عيّرته امرأة بقلة قومه، فجعل القلة نفسها فخرًا: الكرام في الناس قليل. من اللامية المنسوبة إلى السَّمَوْأَل، ويرويه أبو الفَرَج في موضع لابنه شُرَيْح [@aghani-dk، ج6 ص331]."
+sources:
+  - source: "tabrizi-hamasa"
+    loc: "ج1 ص28"
+    url: "https://shamela.ws/book/6907/27"
+  - source: "aghani-dk"
+    loc: "ج6 ص331"
+    url: "https://archive.org/details/aghani2014/6/page/n332/mode/1up"
+status: "review"

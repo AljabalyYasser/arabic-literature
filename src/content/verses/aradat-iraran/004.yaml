@@ -1,0 +1,18 @@
+explained: false
+first: "وَإِلَّا فَسِيرِي مِثْلَ مَا سَارَ رَاكِبٌ"
+second: "تَجَشَّمَ خِمْسًا لَيْسَ فِي سَيْرِهِ أَمَمْ"
+vocabulary:
+  - term: "تَجَشَّمَ"
+    text: "تكلّف على مشقة."
+  - term: "خِمْسًا"
+    text: "«من أظماء الإبل، وهو أن ترد الإبل الماء اليوم الخامس» [@ibn-qutayba، ج1 ص415، الحاشية]."
+  - term: "أَمَمْ"
+    text: "«القرب والقصد» [@ibn-qutayba، ج1 ص415، الحاشية]؛ أي فارقيني فراقًا بعيدًا شاقًّا."
+sources:
+  - source: "tabrizi-hamasa"
+    loc: "ج1 ص100"
+    url: "https://shamela.ws/book/6907/99"
+  - source: "ibn-qutayba"
+    loc: "ج1 ص415، الحاشية"
+    url: "https://shamela.ws/book/23785/408"
+status: "review"

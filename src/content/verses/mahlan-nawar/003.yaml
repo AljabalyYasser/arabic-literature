@@ -1,0 +1,13 @@
+explained: false
+first: "يَرَى الْبَخِيلُ سَبِيلَ الْمَالِ وَاحِدَةً"
+second: "إِنَّ الْجَوَادَ يَرَى فِي مَالِهِ سُبُلَا"
+vocabulary:
+  - term: "سَبِيلَ الْمَالِ وَاحِدَةً"
+    text: "يرى للمال طريقًا واحدًا هو الإمساك والجمع."
+  - term: "سُبُلَا"
+    text: "طرقًا كثيرة يُنفَق فيها."
+sources:
+  - source: "ibn-qutayba"
+    loc: "ج1 ص238"
+    url: "https://shamela.ws/book/23785/231"
+status: "review"

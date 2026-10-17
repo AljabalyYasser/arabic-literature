@@ -1,0 +1,16 @@
+explained: false
+first: "بَيْنَا يُرَبِّبُنَا آبَاؤُنَا هَلَكُوا"
+second: "وَبَيْنَمَا نَقْتَنِي الْأَوْلَادَ أَفْنَانَا"
+vocabulary:
+  - term: "يُرَبِّبُنَا"
+    text: "يربّوننا. ورسمها في طبعة «الأغاني» محتمل، وبهذا يرويها البَغْداديّ [@khizana، ج1 ص248]."
+  - term: "أَفْنَانَا"
+    text: "أفنانا الدهر، أي أهلكنا ونحن نقتني الأولاد. وفي رواية البَغْداديّ: «أَبْلَانَا» [@khizana، ج1 ص248]."
+sources:
+  - source: "aghani-dk"
+    loc: "ج4 ص129"
+    url: "https://archive.org/details/aghani2014/4/page/n134/mode/1up"
+  - source: "khizana"
+    loc: "ج1 ص248"
+    url: "https://shamela.ws/book/12732/246"
+status: "review"

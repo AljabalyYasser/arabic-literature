@@ -1,0 +1,21 @@
+explained: false
+first: "غَنِينَا زَمَانًا بِالتَّصَعْلُكِ وَالْغِنَى"
+second: "وَكُلًّا سَقَانَاهُ بِكَأْسَيْهِمَا الْعَصْرُ"
+vocabulary:
+  - term: "غَنِينَا"
+    text: "عشنا، يقال: «غَنِي كفرح: عاش وغنى بالمكان: أقام به» [@khizana، ج4 ص214]."
+  - term: "بِالتَّصَعْلُكِ"
+    text: "بالفقر، و«الصُّعْلُوك: الْفَقِيرُ الَّذِي لَا مَالَ لَهُ» [@lisan، ج10 ص455]."
+  - term: "الْعَصْرُ"
+    text: "الدهر. وفي «الخزانة» «الدَّهْرُ» [@khizana، ج4 ص213]."
+sources:
+  - source: "aghani-dk"
+    loc: "ج17 ص386"
+    url: "https://archive.org/details/aghani2014/17/page/n390/mode/1up"
+  - source: "khizana"
+    loc: "ج4 ص213–214"
+    url: "https://shamela.ws/book/12732/1615"
+  - source: "lisan"
+    loc: "ج10 ص455"
+    url: "https://shamela.ws/book/1687/5124"
+status: "review"

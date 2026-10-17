@@ -1,0 +1,15 @@
+explained: false
+first: "فَنَحْنُ كَمَاءِ الْمُزْنِ مَا فِي نِصَابِنَا"
+second: "كَهَامٌ وَلَا فِينَا يُعَدُّ بَخِيلُ"
+vocabulary:
+  - term: "الْمُزْنِ"
+    text: "السحاب، وماؤه أصفى الماء."
+  - term: "نِصَابِنَا"
+    text: "أصلنا."
+  - term: "كَهَامٌ"
+    text: "الكليل الذي لا يقطع من السيوف، ويراد به الضعيف."
+sources:
+  - source: "tabrizi-hamasa"
+    loc: "ج1 ص30"
+    url: "https://shamela.ws/book/6907/29"
+status: "review"

@@ -1,0 +1,21 @@
+explained: false
+first: "رَبُّ الْحَنِيفَةِ لَمْ تَنْفَدْ خَزَائِنُهَا"
+second: "مَمْلُوءَةً طَبَّقَ الْآفَاقَ سُلْطَانَا"
+vocabulary:
+  - term: "الْحَنِيفَةِ"
+    text: "الملة الحنيفية، دين إبراهيم."
+  - term: "لَمْ تَنْفَدْ"
+    text: "لم تفنَ."
+  - term: "طَبَّقَ الْآفَاقَ"
+    text: "عمّها وغطّاها، و«طَبَّقَ السَّحابُ الجَوَّ: غَشّاه» [@lisan، ج10 ص210]. وفي رواية البَغْداديّ: «طَبَّقَ الْآفَاقَ أَشْطَانَا» [@khizana، ج1 ص248]."
+sources:
+  - source: "aghani-dk"
+    loc: "ج4 ص129"
+    url: "https://archive.org/details/aghani2014/4/page/n134/mode/1up"
+  - source: "lisan"
+    loc: "ج10 ص210"
+    url: "https://shamela.ws/book/1687/4880"
+  - source: "khizana"
+    loc: "ج1 ص248"
+    url: "https://shamela.ws/book/12732/246"
+status: "review"

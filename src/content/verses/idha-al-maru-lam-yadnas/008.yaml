@@ -1,0 +1,16 @@
+explained: false
+first: "وَإِنَّا لَقَوْمٌ مَا نَرَى الْقَتْلَ سُبَّةً"
+second: "إِذَا مَا رَأَتْهُ عَامِرٌ وَسَلُولُ"
+vocabulary:
+  - term: "سُبَّةً"
+    text: "عارًا يُسبّ به صاحبه."
+  - term: "عَامِرٌ وَسَلُولُ"
+    text: "قبيلتان، «يُرِيدُ عامرَ بْنَ صَعْصَعة، وسَلُول بْنَ مُرَّة بْنِ صَعْصَعَةَ» [@lisan، ج11 ص343]."
+sources:
+  - source: "tabrizi-hamasa"
+    loc: "ج1 ص29"
+    url: "https://shamela.ws/book/6907/28"
+  - source: "lisan"
+    loc: "ج11 ص343"
+    url: "https://shamela.ws/book/1687/5523"
+status: "review"

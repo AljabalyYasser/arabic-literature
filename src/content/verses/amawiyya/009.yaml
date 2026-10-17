@@ -1,0 +1,16 @@
+explained: false
+first: "تَرَيْ أَنَّ مَا أَنْفَقْتُ لَمْ يَكُ ضَرَّنِي"
+second: "وَأَنَّ يَدِي مِمَّا بَخِلْتُ بِهِ صِفْرُ"
+vocabulary:
+  - term: "تَرَيْ"
+    text: "جواب الشرط في البيت قبله، مجزوم بحذف النون، والخطاب لماويّة: إن صرتُ صدى في القفر رأيتِ."
+  - term: "صِفْرُ"
+    text: "خالية، و«الصِّفْر: الخالي» [@aghani-dk، ج17 ص362]."
+sources:
+  - source: "aghani-dk"
+    loc: "ج17 ص385"
+    url: "https://archive.org/details/aghani2014/17/page/n389/mode/1up"
+  - source: "aghani-dk"
+    loc: "ج17 ص362"
+    url: "https://archive.org/details/aghani2014/17/page/n366/mode/1up"
+status: "review"

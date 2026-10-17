@@ -1,0 +1,18 @@
+kind: "bayt"
+title: "وفيت بأدرع الكندي"
+part: "1"
+order: 164
+person: "al-samawal"
+story: "adra-imri-al-qais"
+lines:
+  - first: "وَفَيْتُ بِأَدْرُعِ الْكِنْدِيِّ إِنِّي"
+    second: "إِذَا مَا خَانَ أَقْوَامٌ وَفَيْتُ"
+meaning: "يقوله السَّمَوْأَل بعد أن قُتل ابنه ولم يسلّم أدراع امرئ القَيْس، والكندي امرؤ القَيْس من كِنْدة. يرويه أبو الفَرَج في خبر الأدراع عن ابن الكَلْبيّ [@aghani-dk، ج6 ص332]."
+sources:
+  - source: "aghani-dk"
+    loc: "ج6 ص332"
+    url: "https://archive.org/details/aghani2014/6/page/n333/mode/1up"
+  - source: "maydani"
+    loc: "ج2 ص374"
+    url: "https://shamela.ws/book/12929/4532"
+status: "review"

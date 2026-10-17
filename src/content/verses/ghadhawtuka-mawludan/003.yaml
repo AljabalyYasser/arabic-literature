@@ -1,0 +1,13 @@
+explained: false
+first: "كَأَنِّي أَنَا الْمَطْرُوقُ دُونَكَ بِالَّذِي"
+second: "طُرِقْتَ بِهِ دُونِي وَعَيْنِي تَهَمَّلُ"
+vocabulary:
+  - term: "الْمَطْرُوقُ"
+    text: "الذي نزل به الأمر ليلًا، أي كأن المرض نزل بي لا بك."
+  - term: "تَهَمَّلُ"
+    text: "تسيل دموعها، وأصلها: تتهمّل."
+sources:
+  - source: "tabrizi-hamasa"
+    loc: "ج1 ص315"
+    url: "https://shamela.ws/book/6907/298"
+status: "review"

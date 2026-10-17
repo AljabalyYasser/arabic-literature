@@ -1,0 +1,16 @@
+explained: false
+first: "وَقَدْ عَلِمَ الْأَقْوَامُ لَوْ أَنَّ حَاتِمًا"
+second: "أَرَادَ ثَرَاءَ الْمَالِ كَانَ لَهُ وَفْرُ"
+vocabulary:
+  - term: "ثَرَاءَ الْمَالِ"
+    text: "كثرته، و«الثراء: الكثرة في المال» [@aghani-dk، ج17 ص362]."
+  - term: "وَفْرُ"
+    text: "«والوفر: الغِنَى، ووفور المال» [@aghani-dk، ج17 ص362]. وفي الصوت «أمسى له وفر» [@aghani-dk، ج17 ص362]."
+sources:
+  - source: "aghani-dk"
+    loc: "ج17 ص385"
+    url: "https://archive.org/details/aghani2014/17/page/n389/mode/1up"
+  - source: "aghani-dk"
+    loc: "ج17 ص362"
+    url: "https://archive.org/details/aghani2014/17/page/n366/mode/1up"
+status: "review"

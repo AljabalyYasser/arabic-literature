@@ -1,0 +1,16 @@
+explained: false
+first: "نُطْفَةً مَا مُنِيتُ يَوْمَ مُنِيتُ"
+second: "أُمِرَتْ أَمْرَهَا وَفِيهَا وُبِيتُ"
+vocabulary:
+  - term: "نُطْفَةً مَا مُنِيتُ"
+    text: "ماء الرجل الذي يُخلق منه الولد. يقول المحققان: «أراد منيت نطفة»، أي قُدِّرتُ نطفة، و«ما» زائدة، و«منيت: قدرت» [@asmaiyyat، ص85، الحاشية]."
+  - term: "وُبِيتُ"
+    text: "هُيِّئتُ، وأصلها وُبِئْتُ بالهمز فسُهّلت، كما يقول المحققان [@asmaiyyat، ص85، الحاشية]."
+sources:
+  - source: "asmaiyyat"
+    loc: "ص85"
+    url: "https://shamela.ws/book/6905/71"
+  - source: "asmaiyyat"
+    loc: "ص85، الحاشية"
+    url: "https://shamela.ws/book/6905/71"
+status: "review"

@@ -1,0 +1,13 @@
+explained: false
+first: "إِذَا خَلَّفْتَ عَبْدَ اللَّهِ فَاعْلَمْ"
+second: "بِأَنَّ الْقَوْمَ لَيْسَ لَهُمْ جَزَاءُ"
+vocabulary:
+  - term: "خَلَّفْتَ عَبْدَ اللَّهِ"
+    text: "تركته خلفك وقصدت غيره."
+  - term: "لَيْسَ لَهُمْ جَزَاءُ"
+    text: "لا يجزون من قصدهم ولا يكافئون مادحهم كما يكافئ ابن جُدْعان."
+sources:
+  - source: "aghani-dk"
+    loc: "ج8 ص328"
+    url: "https://archive.org/details/aghani2014/8/page/n327/mode/1up"
+status: "review"

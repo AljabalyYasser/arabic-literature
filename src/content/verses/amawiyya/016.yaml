@@ -1,0 +1,19 @@
+explained: false
+first: "فَمَا زَادَنَا بَغْيًا عَلَى ذِي قَرَابَةٍ"
+second: "غِنَانَا وَلَا أَزْرَى بِأَحْسَابِنَا الْفَقْرُ"
+vocabulary:
+  - term: "بَغْيًا"
+    text: "تعدّيًا وتكبّرًا. وفي «الخزانة» «بَأْوًا»، و«البأو ... الكبر والفخر» [@khizana، ج4 ص214]."
+  - term: "أَزْرَى بِأَحْسَابِنَا"
+    text: "حطّ منها، و«أَزْرَى بِهِ، بالأَلف، إِزْرَاءً: قَصَّرَ بِهِ وحَقَّرَه وهَوَّنه» [@lisan، ج14 ص356]."
+sources:
+  - source: "aghani-dk"
+    loc: "ج17 ص386"
+    url: "https://archive.org/details/aghani2014/17/page/n390/mode/1up"
+  - source: "khizana"
+    loc: "ج4 ص214"
+    url: "https://shamela.ws/book/12732/1616"
+  - source: "lisan"
+    loc: "ج14 ص356"
+    url: "https://shamela.ws/book/1687/7480"
+status: "review"

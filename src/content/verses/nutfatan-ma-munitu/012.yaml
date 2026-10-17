@@ -1,0 +1,18 @@
+explained: false
+first: "هَلْ أَقُولَنْ إِذَا تَدَارَكَ حِلْمِي"
+second: "وَتَدَاكَا عَلَيَّ إِنِّي دُهِيتُ"
+vocabulary:
+  - term: "تَدَارَكَ"
+    text: "«تتابع» [@asmaiyyat، ص86، الحاشية]."
+  - term: "وَتَدَاكَا"
+    text: "تدافع وتزاحم، وأصله تداكأ بالهمز، كما يقول المحققان [@asmaiyyat، ص86، الحاشية]."
+  - term: "دُهِيتُ"
+    text: "أصابتني داهية."
+sources:
+  - source: "asmaiyyat"
+    loc: "ص86"
+    url: "https://shamela.ws/book/6905/72"
+  - source: "asmaiyyat"
+    loc: "ص86، الحاشية"
+    url: "https://shamela.ws/book/6905/72"
+status: "review"

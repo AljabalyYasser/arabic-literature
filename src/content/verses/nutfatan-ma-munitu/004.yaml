@@ -1,0 +1,16 @@
+explained: false
+first: "إِنَّ حِلْمِي إِذَا تَغَيَّبَ عَنِّي"
+second: "فَاعْلَمِي أَنَّنِي كَبِيرٌ رُزِيتُ"
+vocabulary:
+  - term: "حِلْمِي"
+    text: "أناتي وعقلي."
+  - term: "كَبِيرٌ رُزِيتُ"
+    text: "شيخ كبير أُصيب بمصيبة. يقول المحققان إنه «يعتذر من غيبة الحلم عنه لتقدم السن»، و«رزيت: أصبت، وأصلها بالهمزة فسهلت» [@asmaiyyat، ص85، الحاشية]."
+sources:
+  - source: "asmaiyyat"
+    loc: "ص85"
+    url: "https://shamela.ws/book/6905/71"
+  - source: "asmaiyyat"
+    loc: "ص85، الحاشية"
+    url: "https://shamela.ws/book/6905/71"
+status: "review"

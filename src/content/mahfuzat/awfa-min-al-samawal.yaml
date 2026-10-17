@@ -1,0 +1,15 @@
+kind: "mathal"
+part: "1"
+order: 163
+person: "al-samawal"
+text: "أَوْفَى مِنَ السَّمَوْأَلِ"
+story: "adra-imri-al-qais"
+meaning: "يُضرب في الوفاء بالأمانة. وأصله أن السَّمَوْأَل أبى أن يسلّم أدراع امرئ القَيْس التي أودعها عنده حتى قُتل ابنه أمام عينه [@maydani، ج2 ص374]."
+sources:
+  - source: "maydani"
+    loc: "ج2 ص374"
+    url: "https://shamela.ws/book/12929/4532"
+  - source: "askari-amthal"
+    loc: "ج2 ص345"
+    url: "https://shamela.ws/book/6897/928"
+status: "review"

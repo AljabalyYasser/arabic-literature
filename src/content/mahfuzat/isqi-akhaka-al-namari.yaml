@@ -1,0 +1,14 @@
+kind: "mathal"
+part: "1"
+order: 166
+person: "kab-ibn-mama"
+text: "اسْقِ أَخَاكَ النَّمَرِيَّ"
+meaning: "قاله كَعْب بن مامة للساقي حين آثر رفيقه النَّمَريّ بنصيبه من الماء في سفر، حتى مات عطشًا، فقيل: «أجود من كعب بن مامة» [@maydani، ج1 ص183]. و«يضْرب مثلا لكل من طلب الشَّيْء مرَارًا» [@askari-amthal، ج1 ص94]."
+sources:
+  - source: "askari-amthal"
+    loc: "ج1 ص94–95"
+    url: "https://shamela.ws/book/6897/92"
+  - source: "maydani"
+    loc: "ج1 ص183"
+    url: "https://shamela.ws/book/12929/996"
+status: "review"

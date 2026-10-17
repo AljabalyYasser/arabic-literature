@@ -1,0 +1,15 @@
+explained: false
+first: "إِذَا سَيِّدٌ مِنَّا خَلَا قَامَ سَيِّدٌ"
+second: "قَؤُولٌ لِمَا قَالَ الْكِرَامُ فَعُولُ"
+vocabulary:
+  - term: "خَلَا"
+    text: "مضى ومات."
+  - term: "قَؤُولٌ"
+    text: "كثير القول."
+  - term: "فَعُولُ"
+    text: "كثير الفعل."
+sources:
+  - source: "tabrizi-hamasa"
+    loc: "ج1 ص30"
+    url: "https://shamela.ws/book/6907/29"
+status: "review"

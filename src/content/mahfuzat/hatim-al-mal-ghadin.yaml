@@ -1,0 +1,16 @@
+kind: "bayt"
+title: "ويبقى من المال الأحاديث والذكر"
+part: "1"
+order: 151
+person: "hatim"
+verses:
+  - "amawiyya/002"
+meaning: "جواب حاتم لماويّة حين لامته على إنفاقه: المال لا يقيم عند أحد، يغدو ويروح، ولا يبقى منه إلا ما يتحدث به الناس عن صاحبه. وهو أول بيت في «الصوت» الذي غنّاه إسحاق المَوْصِليّ من القصيدة [@aghani-dk، ج17 ص362]."
+sources:
+  - source: "aghani-dk"
+    loc: "ج17 ص362"
+    url: "https://archive.org/details/aghani2014/17/page/n366/mode/1up"
+  - source: "aghani-dk"
+    loc: "ج17 ص384"
+    url: "https://archive.org/details/aghani2014/17/page/n388/mode/1up"
+status: "review"
