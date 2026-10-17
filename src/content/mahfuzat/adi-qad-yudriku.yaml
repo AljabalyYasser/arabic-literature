@@ -1,0 +1,17 @@
+kind: "bayt"
+title: "قد يدرك المبطئ"
+part: "1"
+order: 83
+person: "adi-ibn-zayd"
+lines:
+  - first: "قَدْ يُدْرِكُ الْمُبْطِئُ مِنْ حَظِّهِ"
+    second: "وَالْخَيْرُ قَدْ يَسْبِقُ جَهْدَ الْحَرِيصِ"
+meaning: "قد ينال المتمهّل نصيبه، وقد يفوت الخيرُ الحريصَ الذي يجهد في طلبه. يقول ابن قُتَيْبة: «ويستجاد له قوله» [@ibn-qutayba، ج1 ص225]، ويرويه المَرْزُبانيّ: «والخير قد يسبق حرص الحريص» [@marzubani، ص250]."
+sources:
+  - source: "ibn-qutayba"
+    loc: "ج1 ص225"
+    url: "https://shamela.ws/book/23785/218"
+  - source: "marzubani"
+    loc: "ص250"
+    url: "https://shamela.ws/book/26552/52"
+status: "review"

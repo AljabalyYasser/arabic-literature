@@ -1,0 +1,16 @@
+kind: "bayt"
+title: "أيها الشامت"
+part: "1"
+order: 82
+person: "adi-ibn-zayd"
+verses:
+  - "arwahun-muwaddi/002"
+meaning: "سؤال لمن يشمت بالمصاب: أأنت بريء من نوائب الدهر حتى تعيّره بها؟ قال يونس بن حبيب حين تمثّل به: «لو تمنيت أن أقول شعرًا ما تمنيت إلا هذه» [@ibn-sallam، ج1 ص141]."
+sources:
+  - source: "ibn-qutayba"
+    loc: "ج1 ص219"
+    url: "https://shamela.ws/book/23785/212"
+  - source: "ibn-sallam"
+    loc: "ج1 ص141"
+    url: "https://shamela.ws/book/6738/139"
+status: "review"

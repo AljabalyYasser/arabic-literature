@@ -1,0 +1,16 @@
+kind: "bayt"
+title: "عن المرء لا تسأل"
+part: "1"
+order: 81
+person: "adi-ibn-zayd"
+verses:
+  - "a-tarifu-rasm-al-dar/021"
+meaning: "اعرف الرجل بصاحبه، فكل صاحب يقتدي بمن يصاحبه. والأكثر على أنه لعَدِيّ في مجمهرته [@jamhara، ص394]، ويُروى أيضًا في معلقة طَرَفَة [@jamhara، ص341]."
+sources:
+  - source: "jamhara"
+    loc: "ص394"
+    url: "https://shamela.ws/book/1487/352"
+  - source: "jamhara"
+    loc: "ص341"
+    url: "https://shamela.ws/book/1487/306"
+status: "review"

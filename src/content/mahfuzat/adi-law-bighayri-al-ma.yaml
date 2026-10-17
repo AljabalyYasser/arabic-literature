@@ -1,0 +1,16 @@
+kind: "bayt"
+title: "لو بغير الماء"
+part: "1"
+order: 80
+person: "adi-ibn-zayd"
+verses:
+  - "ablighi-al-numan/002"
+meaning: "لو غصصت بغير الماء لَلَجأت إلى الماء، فإذا غصصت بالماء فلا ملجأ لي: يقوله عَدِيّ من حبسه للنعمان، ملجئه الذي صار ظالمه. قال الأَصْمَعِيّ: «هذا من أشرف أمثال العرب» [@iqd، ج3 ص39]."
+sources:
+  - source: "aghani-dk"
+    loc: "ج2 ص114"
+    url: "https://archive.org/details/aghani2014/2/page/n123/mode/1up"
+  - source: "iqd"
+    loc: "ج3 ص39"
+    url: "https://shamela.ws/book/23789/772"
+status: "review"
