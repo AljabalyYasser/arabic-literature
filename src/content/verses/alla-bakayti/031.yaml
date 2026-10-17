@@ -1,0 +1,15 @@
+explained: false
+first: "بِزُهَاءِ أَلْفٍ ثُمَّ أَلْـ"
+second: "ـفٍ بَيْنَ ذِي بَدَنٍ وَرَامِحْ"
+vocabulary:
+  - term: "بِزُهَاءِ"
+    text: "بنحو، أي بقرابة ألف."
+  - term: "ذِي بَدَنٍ"
+    text: "لابس درع، «الْبدن: الدرْع» [@ibn-hisham، ج2 ص32، الحاشية]."
+  - term: "رَامِحْ"
+    text: "حامل رمح."
+sources:
+  - source: "ibn-hisham"
+    loc: "ج2 ص32"
+    url: "https://shamela.ws/book/23833/769"
+status: "review"

@@ -1,0 +1,17 @@
+explained: false
+first: "شُمْطٍ وَشُبَّانٍ بَهَا"
+second: "لِيلٍ مَغَاوِيرٍ وَحَاوِحْ"
+vocabulary:
+  - term: "شُمْطٍ"
+    text: "«الَّذين خالطهم الشيب» [@ibn-hisham، ج2 ص30، الحاشية]."
+  - term: "بَهَالِيلٍ"
+    text: "«السَّادة، الْوَاحِد: بهْلُول» [@ibn-hisham، ج2 ص30، الحاشية]."
+  - term: "مَغَاوِيرٍ"
+    text: "جمع مغوار، «وَهُوَ الّذي يكثر الْغَارة» [@ibn-hisham، ج2 ص30، الحاشية]."
+  - term: "وَحَاوِحْ"
+    text: "«جمع وحواح، وَهُوَ الْحَدِيد النَّفس» [@ibn-hisham، ج2 ص30، الحاشية]."
+sources:
+  - source: "ibn-hisham"
+    loc: "ج2 ص30"
+    url: "https://shamela.ws/book/23833/767"
+status: "review"

@@ -1,0 +1,15 @@
+explained: false
+first: "يَبْكِينَ حَرَّى مُسْتَكِيـ"
+second: "ـنَاتٍ يَرُحْنَ مَعَ الرَّوَائِحْ"
+vocabulary:
+  - term: "حَرَّى"
+    text: "اللاتي يجدن حرقة الحزن [@ibn-hisham، ج2 ص30، الحاشية]."
+  - term: "مُسْتَكِينَاتٍ"
+    text: "خاضعات [@ibn-hisham، ج2 ص30، الحاشية]."
+  - term: "يَرُحْنَ مَعَ الرَّوَائِحْ"
+    text: "يمضين في الرواح، آخر النهار، مع الذاهبات."
+sources:
+  - source: "ibn-hisham"
+    loc: "ج2 ص30"
+    url: "https://shamela.ws/book/23833/767"
+status: "review"

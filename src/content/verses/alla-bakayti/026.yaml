@@ -1,0 +1,13 @@
+explained: false
+first: "لِلَّهِ دَرُّ بَنِي عَلِيْـ"
+second: "ـيٍ أَيِّمٍ مِنْهُمْ وَنَاكِحْ"
+vocabulary:
+  - term: "لِلَّهِ دَرُّ"
+    text: "كلمة تعجب ومدح."
+  - term: "أَيِّمٍ"
+    text: "«الّذي لم يتَزَوَّج» [@ibn-hisham، ج2 ص32، الحاشية]، والناكح: المتزوج."
+sources:
+  - source: "ibn-hisham"
+    loc: "ج2 ص32"
+    url: "https://shamela.ws/book/23833/769"
+status: "review"

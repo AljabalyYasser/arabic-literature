@@ -1,0 +1,18 @@
+explained: false
+first: "اجْعَلِ الْمَوْتَ نُصْبَ عَيْنَيْكَ وَاحْذَرْ"
+second: "غَوْلَةَ الدَّهْرِ إِنَّ لِلدَّهْرِ غُولَا"
+vocabulary:
+  - term: "نُصْبَ عَيْنَيْكَ"
+    text: "أمامهما لا يغيب عنهما."
+  - term: "غَوْلَةَ الدَّهْرِ"
+    text: "إهلاكه على غرّة، و«الغَوْل أَيضاً مِنَ الشَّيْءِ يَغُولك: يَذْهَبُ بِكَ» [@lisan، ج11 ص510]."
+  - term: "غُولَا"
+    text: "مهالك تغتال الناس، و«الغُول: الْمَنِيَّةُ» [@lisan، ج11 ص507]."
+sources:
+  - source: "aghani-dk"
+    loc: "ج4 ص132"
+    url: "https://archive.org/details/aghani2014/4/page/n137/mode/1up"
+  - source: "lisan"
+    loc: "ج11 ص507، ص510"
+    url: "https://shamela.ws/book/1687/5685"
+status: "review"

@@ -1,0 +1,15 @@
+explained: false
+first: "لَيْسَتْ بِأَصْفَارٍ لِمَنْ"
+second: "يَعْفُو وَلَا رَحٍّ رَحَارِحْ"
+vocabulary:
+  - term: "بِأَصْفَارٍ"
+    text: "«جمع صفر، وَهُوَ الْخَالِي من الْآنِية وَغَيرهَا» [@ibn-hisham، ج2 ص31، الحاشية]."
+  - term: "يَعْفُو"
+    text: "يقصد طالبًا للمعروف [@ibn-hisham، ج2 ص31، الحاشية]."
+  - term: "رَحٍّ رَحَارِحْ"
+    text: "واسعة لا عمق لها [@ibn-hisham، ج2 ص31، الحاشية]، أي ليست جفانهم فارغة ولا ضحلة."
+sources:
+  - source: "ibn-hisham"
+    loc: "ج2 ص31"
+    url: "https://shamela.ws/book/23833/768"
+status: "review"

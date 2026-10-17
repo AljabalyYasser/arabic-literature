@@ -1,0 +1,13 @@
+explained: false
+first: "إِنْ لَمْ يُغِيرُوا غَارَةً"
+second: "شَعْوَاءَ تُجْحِرُ كُلَّ نَابِحْ"
+vocabulary:
+  - term: "شَعْوَاءَ"
+    text: "متفرقة منتشرة."
+  - term: "تُجْحِرُ"
+    text: "«تلجئه إِلَى جُحْره» [@ibn-hisham، ج2 ص32، الحاشية]."
+sources:
+  - source: "ibn-hisham"
+    loc: "ج2 ص32"
+    url: "https://shamela.ws/book/23833/769"
+status: "review"
