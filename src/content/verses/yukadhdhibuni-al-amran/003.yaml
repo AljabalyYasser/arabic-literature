@@ -1,0 +1,18 @@
+explained: false
+first: ثَكِلْتُكُما إِنْ لَمْ أَكُنْ قَدْ رَأَيْتُها
+second: كَرادِيسَ يَهْدِيها إِلَى الحَيِّ مَوْكِبُ
+vocabulary:
+- term: ثَكِلْتُكُما
+  text: 'فقدتُكما، يحلف بها: إن كنت كاذبًا فلا بقيتما لي.'
+- term: كَرادِيسَ
+  text: '«كراديس: جمع كردوسة، وهي القطعة العظيمة من الخيل» [@aghani-dk، ج20 ص382، الحاشية].'
+- term: يَهْدِيها … مَوْكِبُ
+  text: يتقدّمها ركب من الفرسان يدلّها على الطريق.
+sources:
+- source: aghani-dk
+  loc: ج20 ص382
+  url: https://archive.org/details/aghani2014/20/page/n387/mode/1up
+- source: aghani-dk
+  loc: ج20 ص382، الحاشية
+  url: https://archive.org/details/aghani2014/20/page/n387/mode/1up
+status: review

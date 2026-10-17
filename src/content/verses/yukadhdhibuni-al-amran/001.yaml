@@ -1,0 +1,13 @@
+explained: false
+first: يُكَذِّبُنِي العَمْرانِ عَمْرُو بْنُ جُنْدَبٍ
+second: وَعَمْرُو بْنُ سَعْدٍ وَالمُكَذِّبُ أَكْذَبُ
+vocabulary:
+- term: العَمْرانِ
+  text: رجلان من سادة قومه، كلاهما اسمه عَمْرو، فثنّى الاسم، ثم سمّاهما في البيت.
+- term: وَالمُكَذِّبُ أَكْذَبُ
+  text: من يكذّب الصادق أحق بأن يوصف بالكذب.
+sources:
+- source: aghani-dk
+  loc: ج20 ص382
+  url: https://archive.org/details/aghani2014/20/page/n387/mode/1up
+status: review

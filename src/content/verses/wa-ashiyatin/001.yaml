@@ -1,0 +1,23 @@
+explained: false
+first: وَعاشِيَةٍ راحَتْ بِطانًا ذَعَرْتُها
+second: بِسَوْطِ قَتِيلٍ وَسْطَها يُتَسَيَّفُ
+vocabulary:
+- term: وَعاشِيَةٍ
+  text: '«العاشية: الراعية ليلا من الإبل» [@aghani-dk، ج20 ص377، الحاشية].'
+- term: راحَتْ بِطانًا
+  text: عادت إلى مباركها في المساء ممتلئة البطون من المرعى.
+- term: ذَعَرْتُها
+  text: أفزعتُها وطردتها.
+- term: يُتَسَيَّفُ
+  text: «أي يضرب بالسيف» [@maydani، ج2 ص10].
+sources:
+- source: aghani-dk
+  loc: ج20 ص378
+  url: https://archive.org/details/aghani2014/20/page/n383/mode/1up
+- source: aghani-dk
+  loc: ج20 ص377، الحاشية
+  url: https://archive.org/details/aghani2014/20/page/n382/mode/1up
+- source: maydani
+  loc: ج2 ص10
+  url: https://shamela.ws/book/12929/2478
+status: review

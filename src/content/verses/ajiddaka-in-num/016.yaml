@@ -1,0 +1,18 @@
+explained: false
+first: يُطِيفُ بِها حَرّانُ صادٍ وَلا يَرَى
+second: إِلَيْها سَبِيلًا غَيْرَ أَنْ سَيُطالِعُ
+vocabulary:
+- term: يُطِيفُ بِها
+  text: '«أطاف به: ألم به وقاربه» [@aghani-dk، ج14 ص155، الحاشية].'
+- term: حَرّانُ صادٍ
+  text: '«حران صاد: عطشان» [@aghani-dk، ج14 ص155، الحاشية].'
+- term: سَيُطالِعُ
+  text: '«طالعه: اطلع عليه أي أشرف» [@aghani-dk، ج14 ص155، الحاشية]، فهو ينظر إلى الماء ولا يصل إليه.'
+sources:
+- source: aghani-dk
+  loc: ج14 ص155
+  url: https://archive.org/details/aghani2014/14/page/n157/mode/1up
+- source: aghani-dk
+  loc: ج14 ص155، الحاشية
+  url: https://archive.org/details/aghani2014/14/page/n157/mode/1up
+status: review

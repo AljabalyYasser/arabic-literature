@@ -1,0 +1,16 @@
+explained: false
+first: نَزَعْتُ فَما سِرِّي لِأَوَّلِ سائِلٍ
+second: وَذُو السِّرِّ ما لَمْ يَحْفَظِ السِّرَّ ماذِعُ
+vocabulary:
+- term: نَزَعْتُ
+  text: كففت وانتهيت.
+- term: ماذِعُ
+  text: 'مفشٍ للسر. وفي الأصول «وادع» و«وازع»، ورأى المحققون صوابه «ماذع»، و«المذاع كشداد: من لا وفاء له ولا يحفظ أحدا بالغيب ومن لا يكتم السر» [@aghani-dk، ج14 ص156، الحاشية].'
+sources:
+- source: aghani-dk
+  loc: ج14 ص156
+  url: https://archive.org/details/aghani2014/14/page/n158/mode/1up
+- source: aghani-dk
+  loc: ج14 ص156، الحاشية
+  url: https://archive.org/details/aghani2014/14/page/n158/mode/1up
+status: review

@@ -1,0 +1,20 @@
+explained: false
+first: أَفَالْيَوْمَ أُدْعَى لِلْهَوادَةِ بَعْدَما
+second: أُجِيلَ عَلَى الحَيِّ المَذاكِي الصَّلادِمُ
+vocabulary:
+- term: لِلْهَوادَةِ
+  text: للصلح والملاينة.
+- term: أُجِيلَ
+  text: أُديرت في الغارة.
+- term: المَذاكِي
+  text: الخيل التي تمّت أسنانها وقوّتها.
+- term: الصَّلادِمُ
+  text: '«الصِّلْدِمُ والصُّلادِمُ: الشَّدِيدُ الحافرِ» [@lisan، ج12 ص342].'
+sources:
+- source: qali
+  loc: ج2 ص122
+  url: https://shamela.ws/book/9160/406
+- source: lisan
+  loc: ج12 ص342
+  url: https://shamela.ws/book/1687/6255
+status: review

@@ -1,0 +1,16 @@
+explained: false
+first: لَهُمْ مَجْلِسٌ لا يَحْصَرُونَ عَنِ النَّدَى
+second: إِذا مَطْلَبُ المَعْرُوفِ أَجْدَبَ راكِبُهْ
+vocabulary:
+- term: لا يَحْصَرُونَ عَنِ النَّدَى
+  text: '«لا يحصرون عن الندى: لا يبخلون» [@aghani-dk، ج13 ص9، الحاشية].'
+- term: أَجْدَبَ راكِبُهْ
+  text: لم يجد طالب المعروف من يعطيه، كمن نزل أرضًا لا نبات فيها.
+sources:
+- source: aghani-dk
+  loc: ج13 ص9
+  url: https://archive.org/details/aghani2014/13/page/n8/mode/1up
+- source: aghani-dk
+  loc: ج13 ص9، الحاشية
+  url: https://archive.org/details/aghani2014/13/page/n8/mode/1up
+status: review

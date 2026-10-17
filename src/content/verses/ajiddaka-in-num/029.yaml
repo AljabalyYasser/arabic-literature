@@ -1,0 +1,20 @@
+explained: false
+first: وَما راعَنِي إِلّا المُنادِي أَلا اظْعَنُوا
+second: وَإِلّا الرَّواغِي غُدْوَةً وَالقَعاقِعُ
+vocabulary:
+- term: راعَنِي
+  text: أفزعني.
+- term: اظْعَنُوا
+  text: ارحلوا.
+- term: الرَّواغِي
+  text: '«رغت الناقة رغاء: صوتت فهي راغية والجمع الرواغي» [@aghani-dk، ج14 ص157، الحاشية].'
+- term: القَعاقِعُ
+  text: «والمراد هنا أصوات تقويض الأخبية وما إلى ذلك تأهبا للرحيل» [@aghani-dk، ج14 ص157، الحاشية].
+sources:
+- source: aghani-dk
+  loc: ج14 ص157
+  url: https://archive.org/details/aghani2014/14/page/n159/mode/1up
+- source: aghani-dk
+  loc: ج14 ص157، الحاشية
+  url: https://archive.org/details/aghani2014/14/page/n159/mode/1up
+status: review

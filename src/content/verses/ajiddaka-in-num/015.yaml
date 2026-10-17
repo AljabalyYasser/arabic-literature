@@ -1,0 +1,18 @@
+explained: false
+first: فَما نُطْفَةٌ بِالطَّوْدِ أَوْ بِضَرِيَّةٍ
+second: بَقِيَّةُ سَيْلٍ أَحْرَزَتْها الوَقائِعُ
+vocabulary:
+- term: نُطْفَةٌ
+  text: '«النطفة: الماء الصافي قل أو كثر» [@aghani-dk، ج14 ص155، الحاشية].'
+- term: بِالطَّوْدِ أَوْ بِضَرِيَّةٍ
+  text: '«والطود: الجبل. وضرية: بئر» [@aghani-dk، ج14 ص155، الحاشية].'
+- term: الوَقائِعُ
+  text: «والوقائع جمع وقيعة، وهي النقرة في الجبل يستنقع فيها الماء» [@aghani-dk، ج14 ص155، الحاشية].
+sources:
+- source: aghani-dk
+  loc: ج14 ص155
+  url: https://archive.org/details/aghani2014/14/page/n157/mode/1up
+- source: aghani-dk
+  loc: ج14 ص155، الحاشية
+  url: https://archive.org/details/aghani2014/14/page/n157/mode/1up
+status: review

@@ -1,0 +1,20 @@
+explained: false
+first: وَما خِلْتُ بَيْنَ الحَيِّ حَتَّى رَأَيْتُهُمْ
+second: بِبَيْنُونَةَ السُّفْلَى وَهَبَّتْ سَوافِعُ
+vocabulary:
+- term: خِلْتُ
+  text: ظننت.
+- term: بَيْنَ الحَيِّ
+  text: 'فراقهم: «البين: الفراق» [@aghani-dk، ج14 ص157، الحاشية].'
+- term: بِبَيْنُونَةَ
+  text: '«وبينونة: موضع بين عمان والبحرين» [@aghani-dk، ج14 ص157، الحاشية].'
+- term: سَوافِعُ
+  text: '«السوافع: لوافح السموم» [@aghani-dk، ج14 ص157، الحاشية]، وهي الرياح الحارّة.'
+sources:
+- source: aghani-dk
+  loc: ج14 ص157
+  url: https://archive.org/details/aghani2014/14/page/n159/mode/1up
+- source: aghani-dk
+  loc: ج14 ص157، الحاشية
+  url: https://archive.org/details/aghani2014/14/page/n159/mode/1up
+status: review

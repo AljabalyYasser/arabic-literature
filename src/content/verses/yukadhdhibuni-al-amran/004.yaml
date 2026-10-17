@@ -1,0 +1,13 @@
+explained: false
+first: كَرادِيسَ فِيها الحَوْفَزانُ وَقَوْمُهُ
+second: فَوارِسُ هَمّامٍ مَتَى يَدْعُ يَرْكَبُوا
+vocabulary:
+- term: الحَوْفَزانُ
+  text: 'قال أبو الفَرَج: «يعني الحوفزان بن شريك الشيباني» [@aghani-dk، ج20 ص383]، وهو من سادة بَكْر بن وائل.'
+- term: هَمّامٍ
+  text: سيد من القوم، فرسانه يركبون متى دعاهم.
+sources:
+- source: aghani-dk
+  loc: ج20 ص383
+  url: https://archive.org/details/aghani2014/20/page/n388/mode/1up
+status: review

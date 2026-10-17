@@ -1,0 +1,16 @@
+explained: false
+first: إِذا قِيلَ أَيُّ النّاسِ خَيْرٌ قَبِيلَةً
+second: وَأَصْبَرُ يَوْمًا لا تَوارَى كَواكِبُهْ
+vocabulary:
+- term: قَبِيلَةً
+  text: «قبيلة منصوب على التمييز والمراد باليوم أيام الحرب والقتال» [@tabrizi-hamasa، ج2 ص271].
+- term: لا تَوارَى كَواكِبُهْ
+  text: '«ولا توارى أصله لا تتورى فحذف إحدى التاءين وكواكبه كناية عن شدة ذلك اليوم» [@tabrizi-hamasa، ج2 ص271]: يوم أظلم بغبار الحرب حتى ظهرت فيه النجوم.'
+sources:
+- source: aghani-dk
+  loc: ج13 ص9
+  url: https://archive.org/details/aghani2014/13/page/n8/mode/1up
+- source: tabrizi-hamasa
+  loc: ج2 ص271
+  url: https://shamela.ws/book/6907/718
+status: review

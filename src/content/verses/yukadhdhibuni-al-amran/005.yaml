@@ -1,0 +1,21 @@
+explained: false
+first: تَفاقَدْتُمُ هَلْ أُنْكِرَنَّ مُغِيرَةً
+second: مَعَ الصُّبْحِ يَهْدِيهِنَّ أَشْقَرُ مُغْرَبُ
+vocabulary:
+- term: تَفاقَدْتُمُ
+  text: 'قال أبو الفَرَج: «يدعو عليهم بالتفاقد» [@aghani-dk، ج20 ص383]، أي فقد بعضُكم بعضًا.'
+- term: هَلْ أُنْكِرَنَّ مُغِيرَةً
+  text: أتراني أجهل خيلًا مغيرة إذا رأيتها؟
+- term: أَشْقَرُ مُغْرَبُ
+  text: 'فرس أشقر واسع الغرّة. و«المُغْرَبُ مِنَ الخَيل: الَّذِي تَتَّسِعُ غُرَّتُه فِي وجهِه حَتَّى تُجاوِزَ عَيْنَيْه» [@lisan، ج1 ص647]. ويفسّرها محققو «الأغاني» بقولهم: «المغرب: الذي يأتي الغرب، والذي يجري فرسه إلى أن يموت» [@aghani-dk، ج20 ص383، الحاشية].'
+sources:
+- source: aghani-dk
+  loc: ج20 ص383
+  url: https://archive.org/details/aghani2014/20/page/n388/mode/1up
+- source: lisan
+  loc: ج1 ص647
+  url: https://shamela.ws/book/1687/647
+- source: aghani-dk
+  loc: ج20 ص383، الحاشية
+  url: https://archive.org/details/aghani2014/20/page/n388/mode/1up
+status: review

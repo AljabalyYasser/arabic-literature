@@ -1,0 +1,17 @@
+explained: false
+first: أَجِدَّكَ إِنْ نُعْمٌ نَأَتْ أَنْتَ جازِعُ
+second: قَدِ اقْتَرَبَتْ لَوْ أَنَّ ذَلِكَ نافِعُ
+vocabulary:
+- term: أَجِدَّكَ
+  text: أحقًّا؟ استفهام فيه تعجب.
+- term: نُعْمٌ
+  text: 'صاحبته، وهي أم مالك أخت قَبِيصة بن ذُؤَيْب: «واسمها نعم بنت ذؤيب» [@aghani-dk، ج14 ص154].'
+- term: نَأَتْ
+  text: بعُدت.
+- term: جازِعُ
+  text: حزين قليل الصبر.
+sources:
+- source: aghani-dk
+  loc: ج14 ص154
+  url: https://archive.org/details/aghani2014/14/page/n156/mode/1up
+status: review

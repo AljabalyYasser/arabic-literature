@@ -1,0 +1,18 @@
+explained: false
+first: إِذا اللَّيْلُ أَدْجَى وَاكْفَهَرَّ ظَلامُهُ
+second: وَصاحَ مِنَ الأَفْراطِ بُومٌ جَواثِمُ
+vocabulary:
+- term: أَدْجَى وَاكْفَهَرَّ
+  text: أظلم واشتدّت ظلمته.
+- term: الأَفْراطِ
+  text: 'رؤوس الآكام: «والفَرْط: رأْس الأَكَمَة وَشَخْصُهَا، وَجَمْعُهُ أَفْراط» [@lisan، ج7 ص370].'
+- term: جَواثِمُ
+  text: لاطئة بالأرض.
+sources:
+- source: qali
+  loc: ج2 ص122
+  url: https://shamela.ws/book/9160/406
+- source: lisan
+  loc: ج7 ص370
+  url: https://shamela.ws/book/1687/3753
+status: review

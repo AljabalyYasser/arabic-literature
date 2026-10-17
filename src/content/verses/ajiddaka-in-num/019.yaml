@@ -1,0 +1,21 @@
+explained: false
+first: سَعَى بَيْنَهُمْ واشٍ بِأَفْلاقِ بِرْمَةٍ
+second: لِيَفْجَعَ بِالأَظْعانِ مَنْ هُوَ جازِعُ
+vocabulary:
+- term: واشٍ
+  text: نمّام يفسد بين المحبين.
+- term: بِأَفْلاقِ بِرْمَةٍ
+  text: '«برمة: عرض من أعراض المدينة قرب «بلاكث» بين خيبر ووادي القرى، وهي عيون ونخل لقريش. وأفلاق جمع فلق كسبب، وهو المطمئن من الأرض بين ربوتين» [@aghani-dk، ج14 ص156، الحاشية].'
+- term: بِالأَظْعانِ
+  text: 'بالنساء الراحلات في هوادجهن؛ والظعينة عند المحققين: «المرأة ما دامت في الهودج» [@aghani-dk، ج14 ص155، الحاشية].'
+sources:
+- source: aghani-dk
+  loc: ج14 ص156
+  url: https://archive.org/details/aghani2014/14/page/n158/mode/1up
+- source: aghani-dk
+  loc: ج14 ص156، الحاشية
+  url: https://archive.org/details/aghani2014/14/page/n158/mode/1up
+- source: aghani-dk
+  loc: ج14 ص155، الحاشية
+  url: https://archive.org/details/aghani2014/14/page/n157/mode/1up
+status: review

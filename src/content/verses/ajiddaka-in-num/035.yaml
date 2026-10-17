@@ -1,0 +1,16 @@
+explained: false
+first: بَكَى مِنْ فِراقِ الحَيِّ قَيْسُ بْنُ مُنْقِذٍ
+second: وَإِذْراءُ عَيْنَيْ مِثْلِهِ الدَّمْعَ شائِعُ
+vocabulary:
+- term: قَيْسُ بْنُ مُنْقِذٍ
+  text: الشاعر نفسه، ومُنْقِذ أبوه، والحُدادية أمه.
+- term: وَإِذْراءُ
+  text: '«أذرت العين الدمع إذراء: صبته» [@aghani-dk، ج14 ص157، الحاشية].'
+sources:
+- source: aghani-dk
+  loc: ج14 ص157
+  url: https://archive.org/details/aghani2014/14/page/n159/mode/1up
+- source: aghani-dk
+  loc: ج14 ص157، الحاشية
+  url: https://archive.org/details/aghani2014/14/page/n159/mode/1up
+status: review

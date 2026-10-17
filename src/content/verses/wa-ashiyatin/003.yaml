@@ -1,0 +1,16 @@
+explained: false
+first: فَباتَ لَها أَهْلٌ خَلاءٌ فِناؤُهُمْ
+second: وَمَرَّتْ بِهِمْ طَيْرٌ فَلَمْ يَتَعَيَّفُوا
+vocabulary:
+- term: خَلاءٌ فِناؤُهُمْ
+  text: خلت ساحة بيتهم من الإبل.
+- term: فَلَمْ يَتَعَيَّفُوا
+  text: '«أي لم يزجروا الطير فيعلموا من جملتها أيقتل هذا أو يسلم» [@maydani، ج2 ص10]. والعِيافة: التفاؤل والتشاؤم بأسماء الطير وأصواتها ومرّها.'
+sources:
+- source: aghani-dk
+  loc: ج20 ص378
+  url: https://archive.org/details/aghani2014/20/page/n383/mode/1up
+- source: maydani
+  loc: ج2 ص10
+  url: https://shamela.ws/book/12929/2478
+status: review

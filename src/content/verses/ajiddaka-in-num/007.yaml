@@ -1,0 +1,18 @@
+explained: false
+first: فَقالَتْ لِقاءٌ بَعْدَ حَوْلٍ وَحِجَّةٍ
+second: وَشَحْطُ النَّوَى إِلّا لِذِي العَهْدِ قاطِعُ
+vocabulary:
+- term: حَوْلٍ
+  text: عام.
+- term: وَحِجَّةٍ
+  text: '«الحجة: السنة» [@aghani-dk، ج14 ص154، الحاشية]، فاللقاء بعد عامين.'
+- term: وَشَحْطُ النَّوَى
+  text: '«والشحط: البعد» [@aghani-dk، ج14 ص154، الحاشية]، و«النوى: البعد» [@aghani-dk، ج14 ص154، الحاشية].'
+sources:
+- source: aghani-dk
+  loc: ج14 ص154
+  url: https://archive.org/details/aghani2014/14/page/n156/mode/1up
+- source: aghani-dk
+  loc: ج14 ص154، الحاشية
+  url: https://archive.org/details/aghani2014/14/page/n156/mode/1up
+status: review
