@@ -1,0 +1,17 @@
+kind: "maqta"
+title: "الصعلوكان"
+part: "1"
+order: 50
+person: "urwa-ibn-al-ward"
+verses:
+  - "aqilli-allawm/013"
+  - "aqilli-allawm/018"
+meaning: "بيتان من رائية عروة يوازن فيهما بين صعلوكين: خامل يتتبع المجازر في الليل يأكل فضلاتها، وحرّ وجهه مشرق كالشعلة. وبالبيت الأول لُقّب: قال ابن قُتَيْبة: «وكان يلقّب عروة الصّعاليك لقوله» ثم أنشده [@ibn-qutayba، ج2 ص665]. وبينهما في القصيدة أربعة أبيات."
+sources:
+  - source: "ibn-qutayba"
+    loc: "ج2 ص665"
+    url: "https://shamela.ws/book/23785/656"
+  - source: "asmaiyyat"
+    loc: "ص45–46"
+    url: "https://shamela.ws/book/6905/31"
+status: "review"

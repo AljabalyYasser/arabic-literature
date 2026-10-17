@@ -1,0 +1,18 @@
+explained: false
+first: "أَهُزُّ بِهِ فِي نَدْوَةِ الحَيِّ عِطْفَهُ"
+second: "كَمَا هَزَّ عِطْفِي بِالهِجَانِ الأَوَارِكِ"
+vocabulary:
+  - term: "نَدْوَةِ الحَيِّ"
+    text: "«الندوة: المجلس» [@qali، ج2 ص138]."
+  - term: "عِطْفَهُ"
+    text: "جانبه، أي أطربه."
+  - term: "الهِجَانِ الأَوَارِكِ"
+    text: "الإبل البيض الكريمة، «والأوارك: التي ترعى الأراك» [@qali، ج2 ص138]."
+sources:
+  - source: "tabrizi-hamasa"
+    loc: "ج1 ص22"
+    url: "https://shamela.ws/book/6907/21"
+  - source: "qali"
+    loc: "ج2 ص138"
+    url: "https://shamela.ws/book/9160/422"
+status: "review"

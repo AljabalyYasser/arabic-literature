@@ -1,0 +1,16 @@
+explained: false
+first: "فَخَالَطَ سَهْلَ الأَرْضِ لَمْ يَكْدَحِ الصَّفَا"
+second: "بِهِ كَدْحَةً وَالمَوْتُ خَزْيَانُ يَنْظُرُ"
+vocabulary:
+  - term: "لَمْ يَكْدَحِ الصَّفَا"
+    text: "لم يخدش الصخرُ جسده."
+  - term: "خَزْيَانُ"
+    text: "مستحٍ، يقال: «خزي يخزى خزاية من الاستحياء» [@lisan، ج14 ص226]."
+sources:
+  - source: "tabrizi-hamasa"
+    loc: "ج1 ص18"
+    url: "https://shamela.ws/book/6907/17"
+  - source: "lisan"
+    loc: "ج14 ص226"
+    url: "https://shamela.ws/book/1687/7350"
+status: "review"

@@ -1,0 +1,14 @@
+explained: false
+first: "يَرْكَبُ الهَوْلَ وَحِيدًا وَلَا يَصْـ"
+second: "ـحَبُهُ إِلَّا اليَمَانِي الأَفَلُّ"
+vocabulary:
+  - term: "اليَمَانِي الأَفَلُّ"
+    text: "السيف اليمني المثلّم، «وسيف أفلّ بين الفلل: ذو فلول» [@lisan، ج11 ص530]."
+sources:
+  - source: "tabrizi-hamasa"
+    loc: "ج1 ص344"
+    url: "https://shamela.ws/book/6907/327"
+  - source: "lisan"
+    loc: "ج11 ص530"
+    url: "https://shamela.ws/book/1687/5708"
+status: "review"

@@ -1,0 +1,16 @@
+explained: false
+first: لَهُ خَلَّةٌ لَا يَدْخُلُ الحَقُّ دُونَهَا
+second: كَرِيمٌ أَصَابَتْهُ خُطُوبٌ تُجَرِّفُ
+vocabulary:
+- term: لَهُ خَلَّةٌ لَا يَدْخُلُ الحَقُّ دُونَهَا
+  text: 'قال ابن السِّكِّيت: «له خَلّةٌ، أي: له حاجةٌ، يقول: عندَهُ من الفقرِ وسوءِ الحال ما لا يَقدِرُ أن يَدخُلَ عليه في الصِّلةِ عندنا من كان له حقٌّ» [@diwan-urwa، ص50]، أي: حاجته تُقدَّم على كل حق.'
+- term: تُجَرِّفُ
+  text: '«وتجرّف: تُهزِلُهُ وتجرُفُ ماله. والخطوب: الأمور» [@diwan-urwa، ص51].'
+sources:
+- source: diwan-urwa
+  loc: ص50
+  url: https://archive.org/details/4091pdf/page/n55/mode/1up
+- source: diwan-urwa
+  loc: ص51
+  url: https://archive.org/details/4091pdf/page/n56/mode/1up
+status: review

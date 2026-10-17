@@ -1,0 +1,18 @@
+explained: false
+first: "وَعِتَاقُ الطَّيْرِ تَغْدُو بِطَانًا"
+second: "تَتَخَطَّاهُمْ فَمَا تَسْتَقِلُّ"
+vocabulary:
+  - term: "عِتَاقُ الطَّيْرِ"
+    text: "جوارحها، و«عتاق الطير العقبان» عند ابن الأعرابي [@lisan، ج1 ص621]."
+  - term: "بِطَانًا"
+    text: "ممتلئة البطون."
+  - term: "مَا تَسْتَقِلُّ"
+    text: "لا تقدر على الطيران من الشِّبَع."
+sources:
+  - source: "tabrizi-hamasa"
+    loc: "ج1 ص347"
+    url: "https://shamela.ws/book/6907/330"
+  - source: "lisan"
+    loc: "ج1 ص621"
+    url: "https://shamela.ws/book/1687/621"
+status: "review"

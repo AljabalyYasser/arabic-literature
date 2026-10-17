@@ -1,0 +1,16 @@
+explained: false
+first: رَهِينَةَ قَعْرِ البَيْتِ كُلَّ عَشِيَّةٍ
+second: يُلَاعِبُنِي الوِلْدَانُ أَهْدِجُ كَالرَّأْلِ
+vocabulary:
+- term: رَهِينَةَ قَعْرِ البَيْتِ
+  text: 'قال ابن السِّكِّيت: «يقول: أنا مرتهن في البيت لا أبرح قعره» [@diwan-urwa، ص55].'
+- term: أَهْدِجُ كَالرَّأْلِ
+  text: '«يقال: هَدَجَ يَهْدِجُ، وهو تدارك الخطو. والرأل: فرخ النعام، فيقول: أنا منحنٍ كأني فرخ نعامة» [@diwan-urwa، ص55]. وقال الجاحِظ: «شبّه هدجان الشّيخ الضّعيف في مشيته بهدجان الرّأل» [@hayawan، ج4 ص433].'
+sources:
+- source: diwan-urwa
+  loc: ص55
+  url: https://archive.org/details/4091pdf/page/n60/mode/1up
+- source: hayawan
+  loc: ج4 ص433
+  url: https://shamela.ws/book/23775/876
+status: review

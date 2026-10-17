@@ -1,0 +1,20 @@
+explained: false
+first: "فَرَشْتُ لَهَا صَدْرِي فَزَلَّ عَنِ الصَّفَا"
+second: "بِهِ جُؤْجُؤٌ عَبْلٌ وَمَتْنٌ مُخَصَّرُ"
+vocabulary:
+  - term: "فَرَشْتُ لَهَا صَدْرِي"
+    text: "بسطت صدري على الصخر."
+  - term: "جُؤْجُؤٌ"
+    text: "صدر."
+  - term: "عَبْلٌ"
+    text: "«العبل: الضخم» [@lisan، ج11 ص420]."
+  - term: "مُخَصَّرُ"
+    text: "دقيق الوسط."
+sources:
+  - source: "tabrizi-hamasa"
+    loc: "ج1 ص18"
+    url: "https://shamela.ws/book/6907/17"
+  - source: "lisan"
+    loc: "ج11 ص420"
+    url: "https://shamela.ws/book/1687/5598"
+status: "review"

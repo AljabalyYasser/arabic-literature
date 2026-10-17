@@ -1,0 +1,13 @@
+explained: false
+first: "فَلَئِنْ فَلَّتْ هُذَيْلٌ شَبَاهُ"
+second: "لَبِمَا كَانَ هُذَيْلًا يَفُلُّ"
+vocabulary:
+  - term: "فَلَّتْ"
+    text: "ثلمت."
+  - term: "شَبَاهُ"
+    text: "حدّه."
+sources:
+  - source: "tabrizi-hamasa"
+    loc: "ج1 ص345"
+    url: "https://shamela.ws/book/6907/328"
+status: "review"

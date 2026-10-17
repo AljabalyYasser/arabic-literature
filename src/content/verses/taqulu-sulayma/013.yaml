@@ -1,11 +1,19 @@
 explained: false
-first: وَكُنْتُ إِذَا قَوْمٌ غَزَوْنِي غَزَوْتُهُمْ
-second: فَهَلْ أَنَا فِي ذَا يَالَ هَمْدَانَ ظَالِمُ
+first: "عَظَاءَةُ قَفْرٍ لَهَا حُلَّتَا"
+second: "نِ مِنْ وَرَقِ الطَّلْحِ لَمْ تُغْزَلَا"
 vocabulary:
-- term: يَالَ هَمْدَانَ
-  text: يا آلَ هَمْدان، يستشهد قومه.
+  - term: "عَظَاءَةُ قَفْرٍ"
+    text: "دويبة البرية، «العظاية على خلقة سامّ أبرص أعيظم منها شيئاً، والعظاءة لغة فيها» [@lisan، ج15 ص71]."
+  - term: "الطَّلْحِ"
+    text: "«شجرة حجازية» [@lisan، ج2 ص532]."
 sources:
-- source: qali
-  loc: ج2 ص122
-  url: https://shamela.ws/book/9160/406
-status: review
+  - source: "ibn-qutayba"
+    loc: "ج1 ص303"
+    url: "https://shamela.ws/book/23785/296"
+  - source: "lisan"
+    loc: "ج15 ص71"
+    url: "https://shamela.ws/book/1687/7683"
+  - source: "lisan"
+    loc: "ج2 ص532"
+    url: "https://shamela.ws/book/1687/1336"
+status: "review"

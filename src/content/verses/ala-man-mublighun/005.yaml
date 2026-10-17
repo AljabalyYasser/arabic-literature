@@ -1,0 +1,16 @@
+explained: false
+first: "فَأَضْرِبُهَا بِلَا دَهَشٍ فَخَرَّتْ"
+second: "صَرِيعًا لِلْيَدَيْنِ وَلِلْجِرَانِ"
+vocabulary:
+  - term: "بِلَا دَهَشٍ"
+    text: "بلا حيرة ولا فزع."
+  - term: "الجِرَانِ"
+    text: "«باطن العنق» [@lisan، ج13 ص86]."
+sources:
+  - source: "aghani-dk"
+    loc: "ج21 ص129"
+    url: "https://archive.org/details/aghani2014/21/page/n130/mode/1up"
+  - source: "lisan"
+    loc: "ج13 ص86"
+    url: "https://shamela.ws/book/1687/6649"
+status: "review"

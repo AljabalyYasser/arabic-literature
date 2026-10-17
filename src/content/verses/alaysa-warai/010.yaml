@@ -1,0 +1,15 @@
+explained: false
+first: إِذَا مَا هَبَطْنَا مَنْهَلًا فِي مَخُوفَةٍ
+second: بَعَثْنَا رَبِيئًا فِي المَرَابِئِ كَالجِذْلِ
+vocabulary:
+- term: مَنْهَلًا
+  text: موردًا من موارد الماء.
+- term: رَبِيئًا
+  text: العين الذي يرقب الطريق لئلا يفاجئهم عدو.
+- term: كَالجِذْلِ
+  text: 'قال ابن السِّكِّيت: «بعثنا ربيئًا نراه في مربأة منتصبًا كأنه جِذْل، أي: كأنه أصل شجرة لا يبرح موضعه» [@diwan-urwa، ص57].'
+sources:
+- source: diwan-urwa
+  loc: ص57
+  url: https://archive.org/details/4091pdf/page/n62/mode/1up
+status: review

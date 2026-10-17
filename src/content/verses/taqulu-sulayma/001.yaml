@@ -1,18 +1,19 @@
 explained: false
-first: تَقُولُ سُلَيْمَى لَا تَعَرَّضْ لِتَلْفَةٍ
-second: وَلَيْلُكَ عَنْ لَيْلِ الصَّعَالِيكِ نَائِمُ
+first: "تَقُولُ سُلَيْمَى لِجَارَاتِهَا"
+second: "أَرَى ثَابِتًا يَفَنًا حَوْقَلَا"
 vocabulary:
-- term: سُلَيْمَى
-  text: سَلْمى، وكانت «بنت سيدهم وعن رأيها كانوا يصدرون» [@qali، ج2 ص121].
-- term: لَا تَعَرَّضْ لِتَلْفَةٍ
-  text: لا تعرّض نفسك للهلاك.
-- term: الصَّعَالِيكِ
-  text: الفقراء الذين يعيشون بالغارات.
+  - term: "يَفَنًا"
+    text: "شيخاً كبيراً، «اليفن: الشيخ الكبير» [@lisan، ج13 ص457]."
+  - term: "حَوْقَلَا"
+    text: "شيخاً ضعيفاً، و«حوقل الرجل: عجز عن امرأته عند العرس» [@lisan، ج11 ص161]."
 sources:
-- source: qali
-  loc: ج2 ص122
-  url: https://shamela.ws/book/9160/406
-- source: qali
-  loc: ج2 ص121
-  url: https://shamela.ws/book/9160/405
-status: review
+  - source: "ibn-qutayba"
+    loc: "ج1 ص302"
+    url: "https://shamela.ws/book/23785/295"
+  - source: "lisan"
+    loc: "ج13 ص457"
+    url: "https://shamela.ws/book/1687/7018"
+  - source: "lisan"
+    loc: "ج11 ص161"
+    url: "https://shamela.ws/book/1687/5343"
+status: "review"

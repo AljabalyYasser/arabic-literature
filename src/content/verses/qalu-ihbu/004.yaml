@@ -1,0 +1,13 @@
+explained: false
+first: فَكَيْفَ وَقَدْ ذَكَّيْتُ وَاشْتَدَّ جَانِبِي
+second: سُلَيْمَى وَعِنْدِي سَامِعٌ وَمُطِيعُ
+vocabulary:
+- term: ذَكَّيْتُ
+  text: 'قال ابن السِّكِّيت: «يقال ذكّى الفرسُ: إذا قرح»، «وكذلك ذكّى الرجلُ إذا أسنّ» [@diwan-urwa، ص71]، أي كبرت وجرّبت.'
+- term: سُلَيْمَى
+  text: 'منادى: يا سليمى، وهي امرأته.'
+sources:
+- source: diwan-urwa
+  loc: ص71
+  url: https://archive.org/details/4091pdf/page/n76/mode/1up
+status: review

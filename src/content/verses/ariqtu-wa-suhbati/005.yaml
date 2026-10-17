@@ -1,0 +1,19 @@
+explained: false
+first: إِذَا حَلَّتْ بِأَرْضِ بَنِي عَلِيٍّ
+second: وَأَهْلُكَ بَيْنَ إِمَّرَةٍ وَكِيرِ
+vocabulary:
+- term: بَنِي عَلِيٍّ
+  text: 'قال ابن السِّكِّيت: «بنو عليّ: قوم من كنانة» [@diwan-urwa، ص34].'
+- term: إِمَّرَةٍ وَكِيرِ
+  text: 'موضعان؛ يعرّف المحقق إمّرة بأنها منزل في طريق مكة من البصرة، وكِير بأنه «جبل في أرض غطفان» [@diwan-urwa، ص33، الحاشية]. يريد: أهلها في كنانة وأهله في غطفان، والدار بعيدة.'
+sources:
+- source: diwan-urwa
+  loc: ص33
+  url: https://archive.org/details/4091pdf/page/n38/mode/1up
+- source: diwan-urwa
+  loc: ص34
+  url: https://archive.org/details/4091pdf/page/n39/mode/1up
+- source: diwan-urwa
+  loc: ص33، الحاشية
+  url: https://archive.org/details/4091pdf/page/n38/mode/1up
+status: review

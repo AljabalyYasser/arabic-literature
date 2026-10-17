@@ -1,17 +1,16 @@
 explained: false
-first: فَإِنَّ حَرِيمًا إِنْ رَجَا أَنْ أَرُدَّهَا
-second: وَيَذْهَبَ مَالِي يَا ابْنَةَ القَيْلِ حَالِمُ
+first: "فَقُلْتُ لَهَا يَا انْظُرِي كَيْ تَرَيْ"
+second: "فَوَلَّتْ فَكُنْتُ لَهَا أَغْوَلَا"
 vocabulary:
-- term: حَرِيمًا
-  text: حَرِيم المُراديّ الذي أغار على إبله.
-- term: أَرُدَّهَا
-  text: أرد الإبل التي غنمتها منه.
-- term: القَيْلِ
-  text: الملك من ملوك اليمن، يخاطب سَلْمى.
-- term: حَالِمُ
-  text: واهم كمن يرى رؤيا في نومه.
+  - term: "يَا انْظُرِي"
+    text: "يا هذه انظري."
+  - term: "أَغْوَلَا"
+    text: "أشد منها غولاً، أي داهية، «والغوائل: الدواهي» [@lisan، ج11 ص507]."
 sources:
-- source: qali
-  loc: ج2 ص122
-  url: https://shamela.ws/book/9160/406
-status: review
+  - source: "ibn-qutayba"
+    loc: "ج1 ص303"
+    url: "https://shamela.ws/book/23785/296"
+  - source: "lisan"
+    loc: "ج11 ص507"
+    url: "https://shamela.ws/book/1687/5685"
+status: "review"

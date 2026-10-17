@@ -1,0 +1,17 @@
+kind: "bayt"
+title: "ذريني للغنى أسعى"
+part: "1"
+order: 53
+person: "urwa-ibn-al-ward"
+lines:
+  - first: "ذَرِينِي لِلْغِنَى أَسْعَى فَإِنِّي"
+    second: "رَأَيْتُ النَّاسَ شَرُّهُمُ الفَقِيرُ"
+meaning: "يطلب عروة ممن تلومه أن تتركه يسعى في طلب المال، لأن الفقير أهون الناس عندهم. ونهى عبد الله بن جعفر معلّم ولده أن يرويهم إياها، «ويقول: إن هذا يدعوهم إلى الاغتراب عن أوطانهم» [@aghani-dk، ج3 ص75]."
+sources:
+  - source: "bayan"
+    loc: "ج1 ص198"
+    url: "https://shamela.ws/book/10614/193"
+  - source: "aghani-dk"
+    loc: "ج3 ص75"
+    url: "https://archive.org/details/aghani2014/3/page/n78/mode/1up"
+status: "review"

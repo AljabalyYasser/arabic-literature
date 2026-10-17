@@ -1,11 +1,11 @@
 explained: false
-first: تَحَالَفَ أَقْوَامٌ عَلَيَّ لِيَسْلَمُوا
-second: وَجَرُّوا عَلَيَّ الحَرْبَ إِذْ أَنَا سَالِمُ
+first: "فَأَصْبَحْتُ وَالغُولُ لِي جَارَةٌ"
+second: "فَيَا جَارَتَا أَنْتِ مَا أَهْوَلَا"
 vocabulary:
-- term: تَحَالَفَ
-  text: تعاقدوا على النصرة.
+  - term: "مَا أَهْوَلَا"
+    text: "ما أشدّ هولك."
 sources:
-- source: qali
-  loc: ج2 ص122
-  url: https://shamela.ws/book/9160/406
-status: review
+  - source: "ibn-qutayba"
+    loc: "ج1 ص303"
+    url: "https://shamela.ws/book/23785/296"
+status: "review"

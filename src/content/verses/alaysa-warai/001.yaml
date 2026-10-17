@@ -1,0 +1,15 @@
+explained: false
+first: أَلَيْسَ وَرَائِي أَنْ أَدِبَّ عَلَى العَصَا
+second: فَيَأْمَنَ أَعْدَائِي وَيَسْأَمَنِي أَهْلِي
+vocabulary:
+- term: وَرَائِي
+  text: 'أمامي، أي ما ينتظرني؛ قال ابن السِّكِّيت: «أي: أليس ورائي إن سلمت أن أهون وأدبّ على العصا» [@diwan-urwa، ص55].'
+- term: أَدِبَّ
+  text: أمشي مشيًا بطيئًا كالدبيب.
+- term: يَسْأَمَنِي
+  text: يملّني.
+sources:
+- source: diwan-urwa
+  loc: ص55
+  url: https://archive.org/details/4091pdf/page/n60/mode/1up
+status: review

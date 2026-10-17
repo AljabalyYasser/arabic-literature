@@ -1,0 +1,15 @@
+explained: false
+first: قَلِيلٌ تَوَالِيهَا وَطَالِبُ وِتْرِهَا
+second: إِذَا صِحْتُ فِيهَا بِالفَوَارِسِ وَالرَّجْلِ
+vocabulary:
+- term: قَلِيلٌ تَوَالِيهَا
+  text: 'قال ابن السِّكِّيت: «أي: قليل من يتلوها ليُنجيها لأنا نطردها ونسبق بها الناس» [@diwan-urwa، ص57].'
+- term: وِتْرِهَا
+  text: ثأرها.
+- term: الرَّجْلِ
+  text: الرجّالة، أي المشاة.
+sources:
+- source: diwan-urwa
+  loc: ص57
+  url: https://archive.org/details/4091pdf/page/n62/mode/1up
+status: review

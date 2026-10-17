@@ -1,0 +1,16 @@
+explained: false
+first: "يُنْهِلُ الصَّعْدَةَ حَتَّى إِذَا مَا"
+second: "نَهِلَتْ كَانَ لَهَا مِنْهُ عَلُّ"
+vocabulary:
+  - term: "الصَّعْدَةَ"
+    text: "«والصعدة: القناة» [@lisan، ج3 ص255]، أي الرمح."
+  - term: "نَهِلَتْ... عَلُّ"
+    text: "النهل الشرب الأول، والعلّ الشرب الثاني."
+sources:
+  - source: "tabrizi-hamasa"
+    loc: "ج1 ص346"
+    url: "https://shamela.ws/book/6907/329"
+  - source: "lisan"
+    loc: "ج3 ص255"
+    url: "https://shamela.ws/book/1687/1697"
+status: "review"

@@ -1,0 +1,16 @@
+explained: false
+first: "أَلَا مَنْ مُبْلِغٌ فِتْيَانَ فَهْمٍ"
+second: "بِمَا لَاقَيْتُ عِنْدَ رَحَى بِطَانِ"
+vocabulary:
+  - term: "فِتْيَانَ فَهْمٍ"
+    text: "شباب قبيلته فهم."
+  - term: "رَحَى بِطَانِ"
+    text: "موضع «في بلاد هذيل» [@aghani-dk، ج21 ص128]."
+sources:
+  - source: "aghani-dk"
+    loc: "ج21 ص129"
+    url: "https://archive.org/details/aghani2014/21/page/n130/mode/1up"
+  - source: "aghani-dk"
+    loc: "ج21 ص128"
+    url: "https://archive.org/details/aghani2014/21/page/n129/mode/1up"
+status: "review"

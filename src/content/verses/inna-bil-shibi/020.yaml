@@ -1,0 +1,15 @@
+explained: false
+first: "وَبِمَا صَبَّحَهَا فِي ذَرَاهَا"
+second: "مِنْهُ بَعْدَ القَتْلِ نَهْبٌ وَشَلُّ"
+vocabulary:
+  - term: "صَبَّحَهَا"
+    text: "أغار عليها صباحاً."
+  - term: "ذَرَاهَا"
+    text: "ديارها."
+  - term: "نَهْبٌ وَشَلُّ"
+    text: "سلب وطرد للإبل."
+sources:
+  - source: "tabrizi-hamasa"
+    loc: "ج1 ص346"
+    url: "https://shamela.ws/book/6907/329"
+status: "review"

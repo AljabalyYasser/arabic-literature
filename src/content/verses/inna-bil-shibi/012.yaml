@@ -1,0 +1,19 @@
+explained: false
+first: "وَلَهُ طَعْمَانِ أَرْيٌ وَشَرْيٌ"
+second: "وَكِلَا الطَّعْمَيْنِ قَدْ ذَاقَ كُلُّ"
+vocabulary:
+  - term: "أَرْيٌ"
+    text: "«والأري: العسل» [@lisan، ج14 ص28]."
+  - term: "شَرْيٌ"
+    text: "«والشري: شجر الحنظل» [@lisan، ج2 ص23]."
+sources:
+  - source: "tabrizi-hamasa"
+    loc: "ج1 ص344"
+    url: "https://shamela.ws/book/6907/327"
+  - source: "lisan"
+    loc: "ج14 ص28"
+    url: "https://shamela.ws/book/1687/7152"
+  - source: "lisan"
+    loc: "ج2 ص23"
+    url: "https://shamela.ws/book/1687/827"
+status: "review"

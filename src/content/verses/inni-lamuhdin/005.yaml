@@ -1,0 +1,20 @@
+explained: false
+first: "وَيَسْبِقُ وَفْدَ الرِّيحِ مِنْ حَيْثُ يَنْتَحِي"
+second: "بِمُنْخَرِقٍ مِنْ شَدِّهِ المُتَدَارِكِ"
+vocabulary:
+  - term: "وَفْدَ الرِّيحِ"
+    text: "أوائلها."
+  - term: "يَنْتَحِي"
+    text: "يقصد."
+  - term: "بِمُنْخَرِقٍ"
+    text: "بعدو «يريد السريع الواسع» [@qali، ج2 ص138]."
+  - term: "شَدِّهِ"
+    text: "عدوه."
+sources:
+  - source: "tabrizi-hamasa"
+    loc: "ج1 ص22"
+    url: "https://shamela.ws/book/6907/21"
+  - source: "qali"
+    loc: "ج2 ص138"
+    url: "https://shamela.ws/book/9160/422"
+status: "review"

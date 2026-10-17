@@ -1,13 +1,21 @@
 explained: false
-first: وَكَيْفَ يَنَامُ اللَّيْلَ مَنْ جُلُّ مَالِهِ
-second: حُسَامٌ كَلَوْنِ المِلْحِ أَبْيَضُ صَارِمُ
+first: "لَهَا الوَيْلُ مَا وَجَدَتْ ثَابِتًا"
+second: "أَلَفَّ اليَدَيْنِ وَلَا زُمَّلَا"
 vocabulary:
-- term: جُلُّ مَالِهِ
-  text: معظم ماله.
-- term: حُسَامٌ … صَارِمُ
-  text: سيف قاطع.
+  - term: "لَهَا الوَيْلُ"
+    text: "دعاء عليها."
+  - term: "أَلَفَّ اليَدَيْنِ"
+    text: "عاجزاً، و«ألفّ: عاجز، لا يقوم بحرب ولا ضيف» [@ukbari-lamiyya، ص80]."
+  - term: "زُمَّلَا"
+    text: "كسلان، «والزُّمَّل: الكسلان» [@lisan، ج11 ص311]."
 sources:
-- source: qali
-  loc: ج2 ص122
-  url: https://shamela.ws/book/9160/406
-status: review
+  - source: "ibn-qutayba"
+    loc: "ج1 ص302"
+    url: "https://shamela.ws/book/23785/295"
+  - source: "ukbari-lamiyya"
+    loc: "ص80"
+    url: "https://shamela.ws/book/6998/24"
+  - source: "lisan"
+    loc: "ج11 ص311"
+    url: "https://shamela.ws/book/1687/5491"
+status: "review"

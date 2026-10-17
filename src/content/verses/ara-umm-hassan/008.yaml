@@ -1,0 +1,15 @@
+explained: false
+first: أَرَى أُمَّ سِرْيَاحٍ غَدَتْ فِي ظَعَائِنٍ
+second: تَأَمَّلُ مَنْ شَامَ العِرَاقَ تُطَوِّفُ
+vocabulary:
+- term: ظَعَائِنٍ
+  text: جمع ظعينة، وهي المرأة في الهودج على البعير.
+- term: تَأَمَّلُ
+  text: تتأمل.
+- term: مَنْ شَامَ العِرَاقَ
+  text: 'قال ابن السِّكِّيت: «أي: غدت تطوّف من شام العراق، يريد: من شام في العراق» [@diwan-urwa، ص51]. وشام البرق: نظر إليه يرجو مطره.'
+sources:
+- source: diwan-urwa
+  loc: ص51
+  url: https://archive.org/details/4091pdf/page/n56/mode/1up
+status: review

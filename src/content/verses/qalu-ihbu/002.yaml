@@ -1,0 +1,19 @@
+explained: false
+first: لَعَمْرِي لَئِنْ عَشَّرْتُ مِنْ خَشْيَةِ الرَّدَى
+second: نُهَاقَ الحَمِيرِ إِنَّنِي لَجَزُوعُ
+vocabulary:
+- term: عَشَّرْتُ
+  text: 'نهقت عشر مرات. قال المَيْدانيّ: «التعشير: نهيقَ الحمار عشرةَ أصواتٍ في طلقَ واحد»، «وذلك أنهم كانوا إذا خافوا من وَبَاء بلدٍ عَشَّروا تعشير الحمير قبل أن يدخلوه، وكانوا يزعمون أن ذلك ينفعهم» [@maydani، ج2 ص42].'
+- term: الرَّدَى
+  text: الهلاك.
+sources:
+- source: diwan-urwa
+  loc: ص71
+  url: https://archive.org/details/4091pdf/page/n76/mode/1up
+- source: maydani
+  loc: ج2 ص42
+  url: https://shamela.ws/book/12929/2659
+- source: hayawan
+  loc: ج6 ص505
+  url: https://shamela.ws/book/23775/1454
+status: review

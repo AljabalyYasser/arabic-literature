@@ -1,0 +1,16 @@
+explained: false
+first: أَتَهْزَأُ مِنِّي أَنْ سَمِنْتَ وَقَدْ تَرَى
+second: بِجِسْمِيَ مَسَّ الحَقِّ وَالحَقُّ جَاهِدُ
+vocabulary:
+- term: أَتَهْزَأُ مِنِّي أَنْ سَمِنْتَ
+  text: أتسخر من هزالي لأنك سمين؟
+- term: مَسَّ الحَقِّ وَالحَقُّ جَاهِدُ
+  text: 'قال ابن السِّكِّيت: «يقول: يَجْهَدُ الناسَ، وذلك أن الحقَّ يطرقُهُ فيؤثره على نفسه وعلى عياله»، و«الحق الذي ذكره: صِلَةُ الرَّحِمِ، وإعطاء السائل وذوي القربى» [@diwan-urwa، ص69].'
+sources:
+- source: diwan-urwa
+  loc: ص68
+  url: https://archive.org/details/4091pdf/page/n73/mode/1up
+- source: diwan-urwa
+  loc: ص69
+  url: https://archive.org/details/4091pdf/page/n74/mode/1up
+status: review

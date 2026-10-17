@@ -1,0 +1,21 @@
+explained: false
+first: "وَيَجْعَلُ عَيْنَيْهِ رَبِيئَةَ قَلْبِهِ"
+second: "إِلَى سَلَّةٍ مِنْ حَدِّ أَخْلَقَ صَائِكِ"
+vocabulary:
+  - term: "رَبِيئَةَ قَلْبِهِ"
+    text: "طليعته، «والربيئة: الطليعة» [@lisan، ج1 ص82]."
+  - term: "سَلَّةٍ"
+    text: "سلّ السيف من غمده."
+  - term: "أَخْلَقَ صَائِكِ"
+    text: "سيف أملس لزق به الدم، «الصائق والصائك اللازق» [@lisan، ج10 ص208]."
+sources:
+  - source: "tabrizi-hamasa"
+    loc: "ج1 ص23"
+    url: "https://shamela.ws/book/6907/22"
+  - source: "lisan"
+    loc: "ج1 ص82"
+    url: "https://shamela.ws/book/1687/82"
+  - source: "lisan"
+    loc: "ج10 ص208"
+    url: "https://shamela.ws/book/1687/4878"
+status: "review"

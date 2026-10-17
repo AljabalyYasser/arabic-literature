@@ -1,0 +1,11 @@
+explained: false
+first: ذَكَرْتُ مَنَازِلًا مِنْ أُمِّ وَهْبٍ
+second: مَحَلَّ الحَيِّ أَسْفَلَ ذِي النَّقِيرِ
+vocabulary:
+- term: ذِي النَّقِيرِ
+  text: 'قال ابن السِّكِّيت: «ذو النقير: موضع ماء لبني القين ولكلب، وقيل: موضع يقرّ فيه الماء» [@diwan-urwa، ص34].'
+sources:
+- source: diwan-urwa
+  loc: ص34
+  url: https://archive.org/details/4091pdf/page/n39/mode/1up
+status: review

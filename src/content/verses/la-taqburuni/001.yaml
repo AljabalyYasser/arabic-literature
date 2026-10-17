@@ -1,0 +1,16 @@
+explained: false
+first: "لَا تَقْبُرُونِي إِنَّ قَبْرِي مُحَرَّمٌ"
+second: "عَلَيْكُمْ وَلَكِنْ أَبْشِرِي أُمَّ عَامِرِ"
+vocabulary:
+  - term: "لَا تَقْبُرُونِي"
+    text: "لا تدفنوني."
+  - term: "أُمَّ عَامِرِ"
+    text: "الضبع، «وأم عامر كنية الضبع» [@lisan، ج11 ص456]؛ يريد: اتركوا جسدي تأكله الضباع."
+sources:
+  - source: "tabrizi-hamasa"
+    loc: "ج1 ص188"
+    url: "https://shamela.ws/book/6907/187"
+  - source: "lisan"
+    loc: "ج11 ص456"
+    url: "https://shamela.ws/book/1687/5634"
+status: "review"

@@ -1,0 +1,17 @@
+kind: "bayt"
+title: "ومبلغ نفس عذرها مثل منجح"
+part: "1"
+order: 52
+person: "urwa-ibn-al-ward"
+lines:
+  - first: "لِيَبْلُغَ عُذْرًا أَوْ يُصِيبَ رَغِيبَةً"
+    second: "وَمُبْلِغُ نَفْسٍ عُذْرَهَا مِثْلُ مُنْجِحِ"
+meaning: "من خرج يطلب الرزق فإما أن يقيم لنفسه عذرًا وإما أن ينال مالًا، ومن أعذر فلم يقصّر كمن ظفر. والرغيبة: العطاء الكثير، والمنجح: الظافر. قال التِّبْرِيزيّ: «ومن أبلغ نفسا عذرها تخلصا من الكسل والجبن فهو كمن أنجح في سعيه» [@tabrizi-hamasa، ج1 ص178]."
+sources:
+  - source: "diwan-urwa"
+    loc: "ص53"
+    url: "https://archive.org/details/4091pdf/page/n58/mode/1up"
+  - source: "tabrizi-hamasa"
+    loc: "ج1 ص178"
+    url: "https://shamela.ws/book/6907/177"
+status: "review"

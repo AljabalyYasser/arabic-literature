@@ -1,0 +1,19 @@
+explained: false
+first: "فَقُلْتُ لَهَا كِلَانَا نِضْوُ أَيْنٍ"
+second: "أَخُو سَفَرٍ فَخَلِّي لِي مَكَانِي"
+vocabulary:
+  - term: "نِضْوُ أَيْنٍ"
+    text: "هزيل من التعب، «والنضو: البعير المهزول» [@lisan، ج11 ص721]، والأين الإعياء [@lisan، ج13 ص44]."
+  - term: "فَخَلِّي لِي مَكَانِي"
+    text: "دعيني ومكاني."
+sources:
+  - source: "aghani-dk"
+    loc: "ج21 ص129"
+    url: "https://archive.org/details/aghani2014/21/page/n130/mode/1up"
+  - source: "lisan"
+    loc: "ج11 ص721"
+    url: "https://shamela.ws/book/1687/5898"
+  - source: "lisan"
+    loc: "ج13 ص44"
+    url: "https://shamela.ws/book/1687/6607"
+status: "review"

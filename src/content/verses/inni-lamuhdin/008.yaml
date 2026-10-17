@@ -1,0 +1,16 @@
+explained: false
+first: "إِذَا هَزَّهُ فِي عَظْمِ قِرْنٍ تَهَلَّلَتْ"
+second: "نَوَاجِذُ أَفْوَاهِ المَنَايَا الضَّوَاحِكِ"
+vocabulary:
+  - term: "قِرْنٍ"
+    text: "الكفء في القتال."
+  - term: "نَوَاجِذُ"
+    text: "أقصى الأضراس [@lisan، ج1 ص570]، وتبدو عند شدة الضحك."
+sources:
+  - source: "tabrizi-hamasa"
+    loc: "ج1 ص23"
+    url: "https://shamela.ws/book/6907/22"
+  - source: "lisan"
+    loc: "ج1 ص570"
+    url: "https://shamela.ws/book/1687/570"
+status: "review"

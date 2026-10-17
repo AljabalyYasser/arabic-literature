@@ -1,0 +1,18 @@
+explained: false
+first: يَنَامُ عِشَاءً ثُمَّ يُصْبِحُ قَاعِدًا
+second: يَحُتُّ الحَصَى عَنْ جَنْبِهِ المُتَعَفِّرِ
+vocabulary:
+- term: يُصْبِحُ قَاعِدًا
+  text: '«يقول: ليس بصاحب إدلاج ولا غزو. قاله ابن السكيت» [@asmaiyyat، ص46، الحاشية]. والإدلاج: السير بالليل.'
+- term: يَحُتُّ
+  text: يفرك ويُسقط.
+- term: المُتَعَفِّرِ
+  text: المترّب، لأنه نام على الأرض بلا فراش.
+sources:
+- source: asmaiyyat
+  loc: ص46
+  url: https://shamela.ws/book/6905/32
+- source: asmaiyyat
+  loc: ص46، الحاشية
+  url: https://shamela.ws/book/6905/32
+status: review

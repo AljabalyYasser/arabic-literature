@@ -1,0 +1,23 @@
+explained: false
+first: "إِذَا حَاصَ عَيْنَيْهِ كَرَى النَّوْمِ لَمْ يَزَلْ"
+second: "لَهُ كَالِئٌ مِنْ قَلْبِ شَيْحَانَ فَاتِكِ"
+vocabulary:
+  - term: "حَاصَ عَيْنَيْهِ"
+    text: "أطبقهما كأنما خاطهما، وفي رواية القالي «خاط» [@qali، ج2 ص138]."
+  - term: "كَالِئٌ"
+    text: "حارس."
+  - term: "شَيْحَانَ"
+    text: "«والشيحان: الحادّ في كل أمر» [@qali، ج2 ص138]."
+  - term: "فَاتِكِ"
+    text: "الجريء [@lisan، ج10 ص472]."
+sources:
+  - source: "tabrizi-hamasa"
+    loc: "ج1 ص23"
+    url: "https://shamela.ws/book/6907/22"
+  - source: "qali"
+    loc: "ج2 ص138"
+    url: "https://shamela.ws/book/9160/422"
+  - source: "lisan"
+    loc: "ج10 ص472"
+    url: "https://shamela.ws/book/1687/5141"
+status: "review"

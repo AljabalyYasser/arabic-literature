@@ -1,0 +1,15 @@
+explained: false
+first: وَآخِرُ مَعْهَدٍ مِنْ أُمِّ وَهْبٍ
+second: مُعَرَّسُنَا فُوَيْقَ بَنِي النَّضِيرِ
+vocabulary:
+- term: مَعْهَدٍ
+  text: موضع عهد ولقاء.
+- term: مُعَرَّسُنَا
+  text: 'موضع تعريسنا، والتعريس: نزول المسافرين آخر الليل للراحة.'
+- term: فُوَيْقَ بَنِي النَّضِيرِ
+  text: 'قال ابن السِّكِّيت: «يقول: فويق المدينة، وبنو النضير: حي من اليهود ينزلون في طرف المدينة» [@diwan-urwa، ص34].'
+sources:
+- source: diwan-urwa
+  loc: ص34
+  url: https://archive.org/details/4091pdf/page/n39/mode/1up
+status: review

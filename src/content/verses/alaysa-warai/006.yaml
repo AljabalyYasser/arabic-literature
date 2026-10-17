@@ -1,0 +1,13 @@
+explained: false
+first: رَجَعْتُ عَلَى حَرْسَيْنِ إِذْ قَالَ مَالِكٌ
+second: هَلَكْتَ وَهَلْ يُلْحَى عَلَى بُغْيَةٍ مِثْلِي
+vocabulary:
+- term: رَجَعْتُ عَلَى حَرْسَيْنِ
+  text: 'قال ابن السِّكِّيت: «يعني: مالك بن حمار الفزاريّ حين قال له لو رجعت على حرسين فأقمت عند قومي قبل أن تهلك وتضلّ»، و«حَرْسٌ: وادٍ بنجد» [@diwan-urwa، ص56].'
+- term: يُلْحَى
+  text: 'يُلام؛ «أي: وهل يلام على شيء يبغيه» [@diwan-urwa، ص56].'
+sources:
+- source: diwan-urwa
+  loc: ص56
+  url: https://archive.org/details/4091pdf/page/n61/mode/1up
+status: review

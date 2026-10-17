@@ -1,0 +1,16 @@
+explained: false
+first: وَقَالُوا احْبُ وَانْهَقْ لَا تَضِيرُكَ خَيْبَرٌ
+second: وَذَلِكَ مِنْ دِينِ اليَهُودِ وَلُوعُ
+vocabulary:
+- term: احْبُ وَانْهَقْ
+  text: 'قال ابن السِّكِّيت: «احْبُ: من حبا يحبو. وكانوا يقولون: مَن دخل خيبر فحبا ونهق عشر مرات لم تضره الحمى» [@diwan-urwa، ص71]. وكانت خيبر تُعرف بالحمى.'
+- term: وَلُوعُ
+  text: 'لَهَج وتعلّق؛ يقول: هذا من عادة أهلها ومعتقدهم.'
+sources:
+- source: diwan-urwa
+  loc: ص70
+  url: https://archive.org/details/4091pdf/page/n75/mode/1up
+- source: diwan-urwa
+  loc: ص71
+  url: https://archive.org/details/4091pdf/page/n76/mode/1up
+status: review

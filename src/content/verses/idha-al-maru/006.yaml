@@ -1,0 +1,16 @@
+explained: false
+first: "وَأُخْرَى أُصَادِي النَّفْسَ عَنْهَا وَإِنَّهَا"
+second: "لَمَوْرِدُ حَزْمٍ إِنْ فَعَلْتُ وَمَصْدَرُ"
+vocabulary:
+  - term: "أُصَادِي النَّفْسَ"
+    text: "أداريها؛ قال أبو العباس في المصاداة: «قال أهل الكوفة هي المداراة» [@lisan، ج14 ص456]."
+  - term: "لَمَوْرِدُ حَزْمٍ... وَمَصْدَرُ"
+    text: "يرد فيها الحزم ويصدر، أي هي الخطة الحازمة."
+sources:
+  - source: "tabrizi-hamasa"
+    loc: "ج1 ص18"
+    url: "https://shamela.ws/book/6907/17"
+  - source: "lisan"
+    loc: "ج14 ص456"
+    url: "https://shamela.ws/book/1687/7580"
+status: "review"

@@ -1,0 +1,16 @@
+explained: false
+first: "هُمَا خُطَّتَا إِمَّا إِسَارٌ وَمِنَّةٌ"
+second: "وَإِمَّا دَمٌ وَالقَتْلُ بِالحُرِّ أَجْدَرُ"
+vocabulary:
+  - term: "خُطَّتَا"
+    text: "أمران، والخُطّة «الحال والأمر والخطب» [@lisan، ج7 ص290]."
+  - term: "إِسَارٌ وَمِنَّةٌ"
+    text: "أسر ثم إطلاق يمتنّ به الآسر."
+sources:
+  - source: "tabrizi-hamasa"
+    loc: "ج1 ص17"
+    url: "https://shamela.ws/book/6907/16"
+  - source: "lisan"
+    loc: "ج7 ص290"
+    url: "https://shamela.ws/book/1687/3673"
+status: "review"

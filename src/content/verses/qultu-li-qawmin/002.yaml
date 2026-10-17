@@ -1,0 +1,16 @@
+explained: false
+first: تَنَالُوا المُنَى أَوْ تَبْلُغُوا بِنُفُوسِكُمْ
+second: إِلَى مُسْتَرَاحٍ مِنْ عَنَاءٍ مُبَرِّحِ
+vocabulary:
+- term: المُنَى
+  text: ما تتمنّونه من الغنى.
+- term: مُسْتَرَاحٍ مِنْ عَنَاءٍ مُبَرِّحِ
+  text: 'قال ابن السِّكِّيت: «يريد: إلى أن تُصيبوا مستراحًا من عنائكم الذي برّح بكم» [@diwan-urwa، ص53]، أي اشتد بكم، فإما الغنى وإما الموت الذي يريح.'
+sources:
+- source: diwan-urwa
+  loc: ص52
+  url: https://archive.org/details/4091pdf/page/n57/mode/1up
+- source: diwan-urwa
+  loc: ص53
+  url: https://archive.org/details/4091pdf/page/n58/mode/1up
+status: review

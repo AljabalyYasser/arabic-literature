@@ -1,0 +1,19 @@
+explained: false
+first: "هُنَالِكَ لَا أَرْجُو حَيَاةً تَسُرُّنِي"
+second: "سَجِيسَ اللَّيَالِي مُبْسَلًا بِالجَرَائِرِ"
+vocabulary:
+  - term: "سَجِيسَ اللَّيَالِي"
+    text: "طولَ الدهر [@lisan، ج6 ص131]."
+  - term: "مُبْسَلًا بِالجَرَائِرِ"
+    text: "مُسلَماً بجناياتي، يقال: «أبسلته بجريرته أي أسلمته بها» [@lisan، ج11 ص54]."
+sources:
+  - source: "tabrizi-hamasa"
+    loc: "ج1 ص188"
+    url: "https://shamela.ws/book/6907/187"
+  - source: "lisan"
+    loc: "ج6 ص131"
+    url: "https://shamela.ws/book/1687/3143"
+  - source: "lisan"
+    loc: "ج11 ص54"
+    url: "https://shamela.ws/book/1687/5236"
+status: "review"

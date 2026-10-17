@@ -1,0 +1,16 @@
+explained: false
+first: "إِنِّي لَمُهْدٍ مِنْ ثَنَائِي فَقَاصِدٌ"
+second: "بِهِ لِابْنِ عَمِّ الصِّدْقِ شُمْسِ بْنِ مَالِكِ"
+vocabulary:
+  - term: "لَمُهْدٍ مِنْ ثَنَائِي"
+    text: "مهدٍ شيئاً من مدحي."
+  - term: "شُمْسِ بْنِ مَالِكِ"
+    text: "ابن عمه، وضبطه البَغْداديّ بضم الشين، وهو بطن من الأزد [@khizana، ج1 ص201]."
+sources:
+  - source: "tabrizi-hamasa"
+    loc: "ج1 ص22"
+    url: "https://shamela.ws/book/6907/21"
+  - source: "khizana"
+    loc: "ج1 ص201"
+    url: "https://shamela.ws/book/12732/199"
+status: "review"

@@ -1,0 +1,15 @@
+explained: false
+first: "إِذَا احْتَمَلُوا رَأْسِي وَفِي الرَّأْسِ أَكْثَرِي"
+second: "وَغُودِرَ عِنْدَ المُلْتَقَى ثَمَّ سَائِرِي"
+vocabulary:
+  - term: "غُودِرَ"
+    text: "تُرك."
+  - term: "المُلْتَقَى"
+    text: "موضع القتال حيث يلتقي الجمعان."
+  - term: "سَائِرِي"
+    text: "باقيّ، أي بقية جسدي."
+sources:
+  - source: "tabrizi-hamasa"
+    loc: "ج1 ص188"
+    url: "https://shamela.ws/book/6907/187"
+status: "review"

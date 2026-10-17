@@ -1,0 +1,18 @@
+explained: false
+first: "فَاحْتَسَوْا أَنْفَاسَ نَوْمٍ فَلَمَّا"
+second: "هَوَّمُوا رُعْتَهُمُ فَاشْمَعَلُّوا"
+vocabulary:
+  - term: "احْتَسَوْا أَنْفَاسَ نَوْمٍ"
+    text: "ناموا نوماً قليلاً."
+  - term: "هَوَّمُوا"
+    text: "غلبهم النعاس."
+  - term: "اشْمَعَلُّوا"
+    text: "تفرّقوا مسرعين، «واشمعلّوا إذا بادروا فيه وتفرّقوا» [@lisan، ج11 ص372]."
+sources:
+  - source: "tabrizi-hamasa"
+    loc: "ج1 ص345"
+    url: "https://shamela.ws/book/6907/328"
+  - source: "lisan"
+    loc: "ج11 ص372"
+    url: "https://shamela.ws/book/1687/5552"
+status: "review"

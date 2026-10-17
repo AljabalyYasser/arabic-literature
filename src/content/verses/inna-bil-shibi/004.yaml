@@ -1,0 +1,19 @@
+explained: false
+first: "مُطْرِقٌ يَرْشَحُ سُمًّا كَمَا أَطْـ"
+second: "ـرَقَ أَفْعَى يَنْفُثُ السُّمَّ صِلُّ"
+vocabulary:
+  - term: "مُطْرِقٌ"
+    text: "ساكت مرخٍ عينيه، «والمطرق: المسترخي العين خلقة» [@lisan، ج10 ص217]."
+  - term: "صِلُّ"
+    text: "«الحية التي تقتل إذا نهشت من ساعتها» [@lisan، ج11 ص385]."
+sources:
+  - source: "tabrizi-hamasa"
+    loc: "ج1 ص342"
+    url: "https://shamela.ws/book/6907/325"
+  - source: "lisan"
+    loc: "ج10 ص217"
+    url: "https://shamela.ws/book/1687/4887"
+  - source: "lisan"
+    loc: "ج11 ص385"
+    url: "https://shamela.ws/book/1687/5563"
+status: "review"

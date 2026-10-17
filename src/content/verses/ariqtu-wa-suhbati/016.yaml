@@ -1,0 +1,13 @@
+explained: false
+first: أَلَا يَا لَيْتَنِي عَاصَيْتُ طَلْقًا
+second: وَجَبَّارًا وَمَنْ لِي مِنْ أَمِيرِ
+vocabulary:
+- term: طَلْقًا وَجَبَّارًا
+  text: 'قال ابن السِّكِّيت: «طلقٌ وجبّار: أخوه وابن عمه» [@diwan-urwa، ص37]، وهما اللذان أشارا عليه بقبول الفداء.'
+- term: أَمِيرِ
+  text: '«الأمير: هاهنا المستشار» [@diwan-urwa، ص37].'
+sources:
+- source: diwan-urwa
+  loc: ص37
+  url: https://archive.org/details/4091pdf/page/n42/mode/1up
+status: review

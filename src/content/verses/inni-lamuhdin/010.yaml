@@ -1,0 +1,23 @@
+explained: false
+first: "إِذَا طَلَعَتْ أُولَى العَدِيِّ فَنَفْرُهُ"
+second: "إِلَى سَلَّةٍ مِنْ صَارِمِ الغَرْبِ بَاتِكِ"
+vocabulary:
+  - term: "أُولَى العَدِيِّ"
+    text: "أوائل «الجماعة الذين يعدون في الحرب» [@qali، ج2 ص138]."
+  - term: "فَنَفْرُهُ"
+    text: "ففزعه ونهوضه."
+  - term: "صَارِمِ الغَرْبِ"
+    text: "سيف قاطع الحدّ."
+  - term: "بَاتِكِ"
+    text: "قاطع، «البتك: القطع» [@lisan، ج10 ص395]."
+sources:
+  - source: "tabrizi-hamasa"
+    loc: "ج1 ص23"
+    url: "https://shamela.ws/book/6907/22"
+  - source: "qali"
+    loc: "ج2 ص138"
+    url: "https://shamela.ws/book/9160/422"
+  - source: "lisan"
+    loc: "ج10 ص395"
+    url: "https://shamela.ws/book/1687/5064"
+status: "review"

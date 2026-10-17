@@ -1,0 +1,20 @@
+explained: false
+first: ذَرِينِي وَنَفْسِي أُمَّ حَسَّانَ إِنَّنِي
+second: بِهَا قَبْلَ أَنْ لَا أَمْلِكَ البَيْعَ مُشْتَرِي
+vocabulary:
+- term: ذَرِينِي وَنَفْسِي
+  text: دعيني وشأني.
+- term: أُمَّ حَسَّانَ
+  text: «كنية امرأته سلمى» [@asmaiyyat، ص43، الحاشية].
+- term: البَيْعَ
+  text: '«البيع ههنا: بمعنى الشراء» [@asmaiyyat، ص43، الحاشية].'
+- term: مُشْتَرِي
+  text: 'يقول المحققان في معنى البيت: «ذريني أشترى وأبتنى بمالى مجدا وذكرا فى حياتى، فذريني أبادرها قبل أن يحول الموت بيني وبينها فلا أملك شراء» [@asmaiyyat، ص43، الحاشية].'
+sources:
+- source: asmaiyyat
+  loc: ص43
+  url: https://shamela.ws/book/6905/29
+- source: asmaiyyat
+  loc: ص43، الحاشية
+  url: https://shamela.ws/book/6905/29
+status: review

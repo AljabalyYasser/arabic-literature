@@ -1,0 +1,23 @@
+explained: false
+first: "مُسْبِلٌ فِي الحَيِّ أَحْوَى رِفَلٌّ"
+second: "وَإِذَا يَغْزُو فَسِمْعٌ أَزَلُّ"
+vocabulary:
+  - term: "مُسْبِلٌ"
+    text: "مرخٍ ثوبه."
+  - term: "أَحْوَى"
+    text: "في شفتيه سمرة."
+  - term: "رِفَلٌّ"
+    text: "يجرّ ثوبه، «ورفل في ثيابه يرفل إذا أطالها وجرّها متبختراً» [@lisan، ج11 ص292]."
+  - term: "سِمْعٌ أَزَلُّ"
+    text: "«والسِّمْع الأزلّ الذئب الأرسح يتولد بين الذئب والضبع» [@lisan، ج11 ص309]."
+sources:
+  - source: "tabrizi-hamasa"
+    loc: "ج1 ص344"
+    url: "https://shamela.ws/book/6907/327"
+  - source: "lisan"
+    loc: "ج11 ص292"
+    url: "https://shamela.ws/book/1687/5472"
+  - source: "lisan"
+    loc: "ج11 ص309"
+    url: "https://shamela.ws/book/1687/5489"
+status: "review"

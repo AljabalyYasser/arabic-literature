@@ -1,0 +1,16 @@
+explained: false
+first: "فَاسْقِنِيهَا يَا سَوَادَ بْنَ عَمْرٍو"
+second: "إِنَّ جِسْمِي بَعْدَ خَالِي لَخَلُّ"
+vocabulary:
+  - term: "سَوَادَ بْنَ عَمْرٍو"
+    text: "رجل يخاطبه."
+  - term: "لَخَلُّ"
+    text: "لنحيف، و«الخلّ الخفيف الجسم» عند ابن دُرَيْد [@lisan، ج11 ص219]."
+sources:
+  - source: "tabrizi-hamasa"
+    loc: "ج1 ص346"
+    url: "https://shamela.ws/book/6907/329"
+  - source: "lisan"
+    loc: "ج11 ص219"
+    url: "https://shamela.ws/book/1687/5399"
+status: "review"

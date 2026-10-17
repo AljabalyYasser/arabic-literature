@@ -1,0 +1,16 @@
+explained: false
+first: "خَبَرٌ مَا نَابَنَا مُصْمَئِلٌّ"
+second: "جَلَّ حَتَّى دَقَّ فِيهِ الأَجَلُّ"
+vocabulary:
+  - term: "مُصْمَئِلٌّ"
+    text: "شديد، «واصمألّ الشيء... اشتدّ» [@lisan، ج11 ص385]."
+  - term: "جَلَّ حَتَّى دَقَّ فِيهِ الأَجَلُّ"
+    text: "عظُم حتى صغُر إلى جانبه كل عظيم."
+sources:
+  - source: "tabrizi-hamasa"
+    loc: "ج1 ص343"
+    url: "https://shamela.ws/book/6907/326"
+  - source: "lisan"
+    loc: "ج11 ص385"
+    url: "https://shamela.ws/book/1687/5563"
+status: "review"

@@ -1,0 +1,18 @@
+explained: false
+first: "وَبِمَا أَبْرَكَهَا فِي مُنَاخٍ"
+second: "جَعْجَعٍ يَنْقَبُ فِيهِ الأَظَلُّ"
+vocabulary:
+  - term: "أَبْرَكَهَا"
+    text: "أناخ إبله."
+  - term: "جَعْجَعٍ"
+    text: "أرض متطامنة غليظة، «الجعجع والجفجف من الأرض المتطامن» [@lisan، ج9 ص30]."
+  - term: "يَنْقَبُ فِيهِ الأَظَلُّ"
+    text: "يتقرّح فيه باطن خفّ البعير."
+sources:
+  - source: "tabrizi-hamasa"
+    loc: "ج1 ص345"
+    url: "https://shamela.ws/book/6907/328"
+  - source: "lisan"
+    loc: "ج9 ص30"
+    url: "https://shamela.ws/book/1687/4337"
+status: "review"

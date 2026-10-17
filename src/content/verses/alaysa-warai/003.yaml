@@ -1,0 +1,13 @@
+explained: false
+first: أَقِيمُوا بَنِي لُبْنَى صُدُورَ رِكَابِكُمْ
+second: فَإِنَّ مَنَايَا القَوْمِ خَيْرٌ مِنَ الهَزْلِ
+vocabulary:
+- term: أَقِيمُوا صُدُورَ رِكَابِكُمْ
+  text: 'قال ابن السِّكِّيت: «قوله: أقيموا، أي: وجِّهوا في الغزو وانصبوا له» [@diwan-urwa، ص55]. والركاب: الإبل التي يُركب عليها.'
+- term: الهَزْلِ
+  text: '«والهزل: الجوع» [@diwan-urwa، ص55]، أي الهزال من الجوع.'
+sources:
+- source: diwan-urwa
+  loc: ص55
+  url: https://archive.org/details/4091pdf/page/n60/mode/1up
+status: review

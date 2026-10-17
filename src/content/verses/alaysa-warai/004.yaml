@@ -1,0 +1,13 @@
+explained: false
+first: فَإِنَّكُمُ لَنْ تَبْلُغُوا كُلَّ هِمَّتِي
+second: وَلَا إِرْبَتِي حَتَّى تَرَوْا مَنْبِتَ الأَثْلِ
+vocabulary:
+- term: إِرْبَتِي
+  text: حاجتي.
+- term: مَنْبِتَ الأَثْلِ
+  text: 'قال ابن السِّكِّيت: «كأنه كان يغزو الحجاز والجبال لأن الأثل إنما ينبت بالجبل، فيقول: المكان الذي تُطلب فيه الغارة هو منبت الأثل» [@diwan-urwa، ص55]. والأثل: شجر.'
+sources:
+- source: diwan-urwa
+  loc: ص55
+  url: https://archive.org/details/4091pdf/page/n60/mode/1up
+status: review

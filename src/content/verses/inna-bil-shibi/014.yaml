@@ -1,0 +1,20 @@
+explained: false
+first: "وَفُتُوٍّ هَجَّرُوا ثُمَّ أَسْرَوْا"
+second: "لَيْلَهُمْ حَتَّى إِذَا انْجَابَ حَلُّوا"
+vocabulary:
+  - term: "فُتُوٍّ"
+    text: "فتيان."
+  - term: "هَجَّرُوا"
+    text: "«ساروا في الهاجرة» [@lisan، ج5 ص255]، وهي شدة الحر في نصف النهار."
+  - term: "أَسْرَوْا"
+    text: "ساروا ليلاً."
+  - term: "انْجَابَ"
+    text: "انكشف الليل."
+sources:
+  - source: "tabrizi-hamasa"
+    loc: "ج1 ص345"
+    url: "https://shamela.ws/book/6907/328"
+  - source: "lisan"
+    loc: "ج5 ص255"
+    url: "https://shamela.ws/book/1687/2839"
+status: "review"

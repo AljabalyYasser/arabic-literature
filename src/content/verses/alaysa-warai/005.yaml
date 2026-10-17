@@ -1,0 +1,16 @@
+explained: false
+first: فَلَوْ كُنْتُ مَثْلُوجَ الفُؤَادِ إِذَا بَدَتْ
+second: بِلَادُ الأَعَادِي لَا أُمِرُّ وَلَا أُحْلِي
+vocabulary:
+- term: مَثْلُوجَ الفُؤَادِ
+  text: 'قال ابن السِّكِّيت: «يقال: بات مثلوجَ الفؤاد من الهمّ، أي: بارد الفؤاد ليس له حرارة ولا قوة» [@diwan-urwa، ص56].'
+- term: لَا أُمِرُّ وَلَا أُحْلِي
+  text: '«من المرارة والحلاوة، وهو مثل، ومعناه: لا خير عنده ولا شر ولا نفع ولا ضر» [@diwan-urwa، ص56].'
+sources:
+- source: diwan-urwa
+  loc: ص55
+  url: https://archive.org/details/4091pdf/page/n60/mode/1up
+- source: diwan-urwa
+  loc: ص56
+  url: https://archive.org/details/4091pdf/page/n61/mode/1up
+status: review

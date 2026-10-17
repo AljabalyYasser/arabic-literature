@@ -1,0 +1,23 @@
+explained: false
+first: "وَسَاقَا مُخْدَجٍ وَشَوَاةُ كَلْبٍ"
+second: "وَثَوْبٌ مِنْ عَبَاءٍ أَوْ شِنَانِ"
+vocabulary:
+  - term: "مُخْدَجٍ"
+    text: "ناقص الخلق."
+  - term: "شَوَاةُ كَلْبٍ"
+    text: "جلدة رأس كلب، «والشواة: جلدة الرأس» [@lisan، ج14 ص446]."
+  - term: "عَبَاءٍ"
+    text: "أكسية من صوف."
+  - term: "شِنَانِ"
+    text: "جمع شنّ، «والشنّ: القربة الخلق» [@lisan، ج13 ص241]."
+sources:
+  - source: "aghani-dk"
+    loc: "ج21 ص129"
+    url: "https://archive.org/details/aghani2014/21/page/n130/mode/1up"
+  - source: "lisan"
+    loc: "ج14 ص446"
+    url: "https://shamela.ws/book/1687/7570"
+  - source: "lisan"
+    loc: "ج13 ص241"
+    url: "https://shamela.ws/book/1687/6802"
+status: "review"

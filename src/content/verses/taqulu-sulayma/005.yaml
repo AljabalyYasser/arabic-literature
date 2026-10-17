@@ -1,18 +1,23 @@
 explained: false
-first: إِذَا اللَّيْلُ أَدْجَى وَاكْفَهَرَّ ظَلَامُهُ
-second: وَصَاحَ مِنَ الأَفْرَاطِ بُومٌ جَوَاثِمُ
+first: "وَأَدْهَمَ قَدْ جُبْتُ جِلْبَابَهُ"
+second: "كَمَا اجْتَابَتِ الكَاعِبُ الخَيْعَلَا"
 vocabulary:
-- term: أَدْجَى وَاكْفَهَرَّ
-  text: أظلم واشتدّت ظلمته.
-- term: الأَفْرَاطِ
-  text: 'رؤوس الآكام: «والفَرْط: رأْس الأَكَمَة وَشَخْصُهَا، وَجَمْعُهُ أَفْراط» [@lisan، ج7 ص370].'
-- term: جَوَاثِمُ
-  text: لاطئة بالأرض.
+  - term: "أَدْهَمَ"
+    text: "ليل أسود."
+  - term: "جُبْتُ جِلْبَابَهُ"
+    text: "قطعت ظلامه، «وجاب المفازة والظلمة جوباً واجتابها: قطعها» [@lisan، ج1 ص285]."
+  - term: "الكَاعِبُ"
+    text: "الفتاة التي نهد ثديها."
+  - term: "الخَيْعَلَا"
+    text: "«الخيعل قميص لا كُمّي له» [@lisan، ج11 ص210]."
 sources:
-- source: qali
-  loc: ج2 ص122
-  url: https://shamela.ws/book/9160/406
-- source: lisan
-  loc: ج7 ص370
-  url: https://shamela.ws/book/1687/3753
-status: review
+  - source: "ibn-qutayba"
+    loc: "ج1 ص302"
+    url: "https://shamela.ws/book/23785/295"
+  - source: "lisan"
+    loc: "ج1 ص285"
+    url: "https://shamela.ws/book/1687/285"
+  - source: "lisan"
+    loc: "ج11 ص210"
+    url: "https://shamela.ws/book/1687/5390"
+status: "review"

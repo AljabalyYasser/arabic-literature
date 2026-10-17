@@ -1,0 +1,13 @@
+explained: false
+first: لَعَلَّ انْطِلَاقِي فِي البِلَادِ وَرِحْلَتِي
+second: وَشَدِّي حَيَازِيمَ المَطِيَّةِ بِالرَّحْلِ
+vocabulary:
+- term: رِحْلَتِي
+  text: 'قال ابن السِّكِّيت: «يقال: رجلٌ ذو رِحلة، إذا كان قويًا على الارتحال» [@diwan-urwa، ص56].'
+- term: حَيَازِيمَ المَطِيَّةِ
+  text: 'الحيازيم: جمع حيزوم، وهو وسط الصدر حيث يُشد الحزام، والمطية: الدابة التي تُركب.'
+sources:
+- source: diwan-urwa
+  loc: ص56
+  url: https://archive.org/details/4091pdf/page/n61/mode/1up
+status: review
