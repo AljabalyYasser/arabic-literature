@@ -1,0 +1,18 @@
+explained: false
+first: "تُنَاخُ طَلِيحًا مَا تُرَاعُ مِنَ الشَّذَا"
+second: "وَلَوْ ظَلَّ فِي أَوْصَالِهَا الْعَلُّ يَرْتَقِي"
+vocabulary:
+  - term: "طَلِيحًا"
+    text: "معيية من السفر."
+  - term: "الشَّذَا"
+    text: "الأذى، أو ذباب أزرق يقع على الدواب، كما يفسّره محققا الأصمعيات [@asmaiyyat، ص165]."
+  - term: "الْعَلُّ"
+    text: "القُراد، كما ينقل محققا الأصمعيات [@asmaiyyat، ص166]. يريد أنها من الإعياء لا تنفر من الذباب ولو دبّ القراد في مفاصلها."
+sources:
+  - source: "asmaiyyat"
+    loc: "ص165"
+    url: "https://shamela.ws/book/6905/150"
+  - source: "asmaiyyat"
+    loc: "ص166"
+    url: "https://shamela.ws/book/6905/151"
+status: "review"
