@@ -1,0 +1,17 @@
+kind: "bayt"
+title: "أرسل حكيمًا"
+part: "1"
+order: 186
+person: "al-zubayr-ibn-abd-al-muttalib"
+lines:
+  - first: "إِذَا كُنْتَ فِي حَاجَةٍ مُرْسِلًا"
+    second: "فَأَرْسِلْ حَكِيمًا وَلَا تُوصِهِ"
+meaning: "إذا أرسلت أحدًا في حاجة فاختر العاقل الحكيم، فإنه يغنيك عن الوصية. يُنسب إلى الزُّبَيْر بن عبد المطلب، يقول خَلَف الأحمر لابن سَلّام: «يقال للزبير بن عبد المطلب» [@ibn-sallam، ج1 ص246]، ويجعل المَيْدانيّ المثل للقمان الحكيم [@maydani، ج1 ص303]."
+sources:
+  - source: "ibn-sallam"
+    loc: "ج1 ص246"
+    url: "https://shamela.ws/book/6738/240"
+  - source: "maydani"
+    loc: "ج1 ص303"
+    url: "https://shamela.ws/book/12929/1643"
+status: "review"

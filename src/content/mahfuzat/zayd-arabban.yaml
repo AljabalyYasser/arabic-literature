@@ -1,0 +1,16 @@
+kind: "bayt"
+title: "رب واحد أم ألف رب"
+part: "1"
+order: 181
+person: "zayd-ibn-amr"
+verses:
+  - "a-rabban-wahidan/001"
+meaning: "أأعبد ربًّا واحدًا أم ألف رب إذا توزعت الأمور على الأرباب؟ سؤال يلخّص خروج زيد بن عَمْرو بن نُفَيْل على أصنام قريش قبل الإسلام، قاله «في فراق دين قومه، وما كان لقي منهم في ذلك» [@ibn-hisham، ج1 ص226]."
+sources:
+  - source: "ibn-hisham"
+    loc: "ج1 ص226"
+    url: "https://shamela.ws/book/23833/249"
+  - source: "aghani-dk"
+    loc: "ج3 ص125"
+    url: "https://archive.org/details/aghani2014/3/page/n128/mode/1up"
+status: "review"

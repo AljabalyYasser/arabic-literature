@@ -1,0 +1,20 @@
+kind: "maqta"
+title: "كل امرئ في شأنه ساع"
+part: "1"
+order: 184
+person: "abu-qays-ibn-al-aslat"
+verses:
+  - "qalat-wa-lam-taqsid/004"
+  - "qalat-wa-lam-taqsid/005"
+meaning: "أذهبت الخوذة شعر رأسه من طول لبسها في الحرب، فلا ينام إلا قليلًا، لأنه يسعى في أمر قومه، وكل امرئ يسعى في شأنه. والعجز الأخير يقول فيه الأَصْمَعِيّ إنه من أحكم ما قالته العرب [@tabrizi-ikhtiyarat، ج3 ص1237]."
+sources:
+  - source: "mufaddaliyyat"
+    loc: "ص284"
+    url: "https://shamela.ws/book/6904/258"
+  - source: "ibn-sallam"
+    loc: "ج1 ص227"
+    url: "https://shamela.ws/book/6738/222"
+  - source: "tabrizi-ikhtiyarat"
+    loc: "ج3 ص1237"
+    url: "https://archive.org/details/3820pdf/page/n1245/mode/1up"
+status: "review"

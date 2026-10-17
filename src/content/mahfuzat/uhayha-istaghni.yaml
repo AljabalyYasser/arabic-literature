@@ -1,0 +1,14 @@
+kind: "bayt"
+title: "استغن أو مت"
+part: "1"
+order: 187
+person: "uhayha-ibn-al-julah"
+lines:
+  - first: "اسْتَغْنِ أَوْ مُتْ وَلَا يَغْرُرْكَ ذُو نَشَبٍ"
+    second: "مِنِ ابْنِ عَمٍّ وَلَا عَمٍّ وَلَا خَالِ"
+meaning: "كن غنيًّا بمالك أو مت، ولا تتكل على غنى قريب لك، فلا يكرم الإخوانُ إلا صاحب المال. والنَّشَب: المال. من أبيات أُحَيْحة بن الجُلاح في ماله بيثرب، وفيها صوت يُغنّى [@aghani-dk، ج15 ص37–38]."
+sources:
+  - source: "aghani-dk"
+    loc: "ج15 ص37–38"
+    url: "https://archive.org/details/aghani2014/15/page/n38/mode/1up"
+status: "review"

@@ -9,7 +9,7 @@ earliest:
   url: "https://shamela.ws/book/6738/211"
 people:
   - "malik-ibn-al-ajlan"
-  - "amr-ibn-imri-al-qays"
+  - "amr-ibn-imri-al-qais"
   - "uhayha-ibn-al-julah"
   - "qays-ibn-al-khatim"
 sources:
