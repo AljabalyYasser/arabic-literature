@@ -1,0 +1,17 @@
+kind: "maqta"
+title: "أأذكر حاجتي"
+part: "1"
+order: 171
+person: "umayya"
+verses:
+  - "a-adhkuru-hajati/001"
+  - "a-adhkuru-hajati/005"
+meaning: "طلب بلا طلب: يمدح الشاعر حياء الكريم، ويجعل الثناء يغني عن السؤال. يجعلها ابن رَشِيق أول أمثلة «الاقتضاء»، ويقول: «فمن أحسن الاقتضاء على ما تخيرته، ونحوت إليه قول أمية بن أبي الصلت لعبد الله بن جدعان» [@ibn-rashiq، ج2 ص158]."
+sources:
+  - source: "aghani-dk"
+    loc: "ج8 ص328"
+    url: "https://archive.org/details/aghani2014/8/page/n327/mode/1up"
+  - source: "ibn-rashiq"
+    loc: "ج2 ص158"
+    url: "https://shamela.ws/book/10909/474"
+status: "review"

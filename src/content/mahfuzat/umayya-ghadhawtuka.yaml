@@ -1,0 +1,21 @@
+kind: "maqta"
+title: "غذوتك مولودا"
+part: "1"
+order: 172
+person: "umayya"
+verses:
+  - "ghadhawtuka-mawludan/001"
+  - "ghadhawtuka-mawludan/005"
+  - "ghadhawtuka-mawludan/006"
+meaning: "أب يذكّر ابنه العاقّ بما صنع له طفلًا وشابًّا، ثم بما لقيه منه حين كبر. يرويها أبو تمّام وأبو الفَرَج لأمية [@tabrizi-hamasa، ج1 ص314] [@aghani-dk، ج4 ص130]، ويرويها ابن قُتَيْبة ليحيى بن سعيد مولى تَيْم [@uyun-al-akhbar، ج3 ص99]."
+sources:
+  - source: "tabrizi-hamasa"
+    loc: "ج1 ص314–315"
+    url: "https://shamela.ws/book/6907/297"
+  - source: "aghani-dk"
+    loc: "ج4 ص130"
+    url: "https://archive.org/details/aghani2014/4/page/n135/mode/1up"
+  - source: "uyun-al-akhbar"
+    loc: "ج3 ص99"
+    url: "https://shamela.ws/book/23790/961"
+status: "review"
