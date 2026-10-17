@@ -30,7 +30,7 @@ const line = [verse.data.first, verse.data.second].filter(Boolean).join(' ... ')
   <Crumbs items={[{ href: '/texts/', label: 'النصوص' }, { href: url.text(text.id), label: text.data.title }, { label: `البيت ${n}` }]} />
   <header class="station-head">
     <span class="kicker">{author && `${author.data.name} · `}«{text.data.title}» · البيت {n}</span>
-    <h1 class="visually-hidden">{text.data.title}، البيت {n}</h1>
+    <h1 class="visually-hidden" data-bookmark-title={`${text.data.title}، البيت ${n}`}>{text.data.title}، البيت {n}</h1>
     <div class="card" style="padding:1.5rem 1.25rem;margin-top:0.5rem">
       <VerseLines first={verse.data.first} second={verse.data.second} large />
     </div>

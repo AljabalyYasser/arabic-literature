@@ -90,7 +90,7 @@ if (place.kind === 'topic') {
 ---
 <Base title={d.title} description={d.subtitle} searchType={place.kind === 'topic' ? 'قضية' : place.kind === 'majun' ? 'المجون' : 'مرحلة'}>
   <Crumbs items={crumbs} />
-  <header class="station-head" data-reading-title={d.title}>
+  <header class="station-head" data-reading-title={d.title} data-bookmark-title={d.title}>
     <span class="kicker">{kicker}</span>
     <h1>{d.title}</h1>
     {d.subtitle && <p class="lede measure">{d.subtitle}</p>}

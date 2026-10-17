@@ -454,3 +454,96 @@ function showReturn() {
 showReturn();
 // الرجوع بزر المتصفح يعيد الصفحة من ذاكرته دون تشغيل هذا الملف، فيُعاد الفحص هنا.
 addEventListener('pageshow', (e) => { if (e.persisted) showReturn(); });
+
+// ---------- أكمل من حيث وقفت ----------
+// يحفظ المتصفح آخر صفحة قراءة وموضعها فيها (فصل أو نص أو بيت أو حكاية أو مجموعة)، فإذا عاد القارئ بعد أيام
+// وجد في الصفحة الرئيسية رابطًا إليها، وفي أول صفحة يفتحها من زيارته زرًّا يعيده إليها.
+
+const LAST = 'last-reading';
+type LastReading = { href: string; y: number; title: string; sec: string; t: number };
+const lastReading = (): LastReading | null => {
+  try { return JSON.parse(store.get(LAST) ?? 'null'); } catch { return null; }
+};
+const bookmarkTitle = document.querySelector<HTMLElement>('[data-bookmark-title]')?.dataset.bookmarkTitle;
+
+if (bookmarkTitle) {
+  let timer = 0;
+  // لا تُحفظ الصفحة إلا إذا قرأ فيها: بقي فيها ربع دقيقة، أو نزل فيها.
+  let engaged = false;
+  const save = () => {
+    if (!engaged && scrollY > 300) engaged = true;
+    if (!engaged) return;
+    const sec = document.querySelector('[data-toc-current]')?.textContent?.trim() ?? '';
+    store.set(LAST, JSON.stringify({ href: location.pathname + location.hash, y: Math.round(scrollY), title: bookmarkTitle, sec, t: Date.now() }));
+  };
+  addEventListener('scroll', () => { clearTimeout(timer); timer = window.setTimeout(save, 1500); }, { passive: true });
+  addEventListener('hashchange', save);
+  addEventListener('pagehide', save);
+  document.addEventListener('visibilitychange', () => { if (document.visibilityState === 'hidden') save(); });
+  // عاد القارئ من الرابط: يُعاد إلى موضعه.
+  const last = lastReading();
+  let go = false;
+  try { go = sessionStorage.getItem(`${LAST}:go`) === '1'; sessionStorage.removeItem(`${LAST}:go`); } catch { /* التخزين غير متاح */ }
+  if (go && last && last.href.split('#')[0] === location.pathname) {
+    engaged = true;
+    addEventListener('load', () => scrollTo(0, last.y), { once: true });
+  } else {
+    window.setTimeout(() => { engaged = true; save(); }, 15_000);
+  }
+}
+
+function agoText(t: number) {
+  const days = Math.floor((Date.now() - t) / 86_400_000);
+  if (days < 1) return 'اليوم';
+  if (days === 1) return 'أمس';
+  if (days === 2) return 'قبل يومين';
+  if (days <= 10) return `قبل ${days} أيام`;
+  return `قبل ${days} يومًا`;
+}
+
+function resumeLink(r: LastReading, a: HTMLAnchorElement) {
+  a.href = r.href;
+  a.addEventListener('click', () => { try { sessionStorage.setItem(`${LAST}:go`, '1'); } catch { /* التخزين غير متاح */ } });
+}
+
+function showResume() {
+  const r = lastReading();
+  if (!r) return;
+  const label = r.sec ? `${r.title} · ${r.sec}` : r.title;
+  // في الصفحة الرئيسية: رابط ثابت في رأسها.
+  const card = document.querySelector<HTMLAnchorElement>('[data-resume]');
+  if (card) {
+    card.replaceChildren();
+    const k = document.createElement('span');
+    k.className = 'kicker';
+    k.textContent = 'أكمل من حيث وقفت';
+    const b = document.createElement('b');
+    b.textContent = label;
+    const ago = document.createElement('span');
+    ago.className = 'ago';
+    ago.textContent = agoText(r.t);
+    card.append(k, b, ago);
+    resumeLink(r, card);
+    card.hidden = false;
+  }
+  // في أول صفحة من زيارة جديدة: زر في أسفل الصفحة، إلا في صفحة القراءة نفسها، وإلا إذا ظهر زر الرجوع.
+  let first = false;
+  try { first = !sessionStorage.getItem(`${LAST}:seen`); sessionStorage.setItem(`${LAST}:seen`, '1'); } catch { return; }
+  if (!first || card || r.href.split('#')[0] === location.pathname || document.querySelector('.return-chip')) return;
+  const chip = document.createElement('div');
+  chip.className = 'return-chip';
+  const a = document.createElement('a');
+  a.append('📖 أكمل من حيث وقفت: ');
+  const b = document.createElement('b');
+  b.textContent = label;
+  a.append(b);
+  resumeLink(r, a);
+  const x = document.createElement('button');
+  x.type = 'button';
+  x.setAttribute('aria-label', 'إخفاء');
+  x.textContent = '×';
+  x.addEventListener('click', () => chip.remove());
+  chip.append(a, x);
+  document.body.append(chip);
+}
+showResume();

@@ -999,6 +999,26 @@ html.js .verse .panel + .panel { margin-top: 0; }
 /* القفز إلى عنوان لا يختفي تحت الرأس الثابت وشريط الفهرس. */
 .station-body :is(h2, h3), .section[id] { scroll-margin-top: 7.5rem; }
 
+/* أكمل من حيث وقفت: في الصفحة الرئيسية. */
+.resume-card {
+  display: block;
+  margin: 1.25rem 0 0;
+  padding: 0.85rem 1.1rem;
+  border: 1px solid var(--line);
+  border-inline-start: 4px solid var(--accent);
+  border-radius: var(--radius);
+  background: var(--card);
+  color: var(--ink);
+  text-decoration: none;
+  font-family: var(--font-ui);
+  font-size: 0.95rem;
+}
+.resume-card .kicker { display: block; margin-bottom: 0.2rem; }
+.resume-card b { font-weight: 700; }
+.resume-card .ago { color: var(--ink-3); font-size: 0.8rem; margin-inline-start: 0.5rem; }
+.resume-card:hover { border-color: var(--accent); }
+.resume-card[hidden] { display: none; }
+
 /* زر الرجوع إلى موضع القراءة. */
 .return-chip {
   position: fixed;

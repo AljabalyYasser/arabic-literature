@@ -23,7 +23,7 @@ const sources = await sourceMap();
   <Crumbs items={[{ href: '/texts/', label: 'النصوص' }, { href: '/stories/', label: 'الحكايات' }, { label: s.title }]} />
   <header class="station-head">
     <span class="kicker">حكاية</span>
-    <h1>{s.title}</h1>
+    <h1 data-bookmark-title={s.title}>{s.title}</h1>
     <p class="lede measure">{s.summary}</p>
     <div class="meta-row"><Grade of="story" grade={s.grade} tag={s.tag} /><StatusBadge status={s.status} /></div>
   </header>

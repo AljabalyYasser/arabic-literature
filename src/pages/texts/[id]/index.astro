@@ -30,7 +30,7 @@ const mixed = explained.length < verses.length;
   <div class="entity-head with-aside">
     <header>
       <span class="kicker">{textKinds[t.kind]}{author && <> · <a href={url.personOf(author)}>{author.data.name}</a></>}</span>
-      <h1>{t.title}</h1>
+      <h1 data-bookmark-title={t.title}>{t.title}</h1>
       {t.occasion && <p class="lede" set:html={fmt(t.occasion, sources)} />}
       <div class="meta-row">
         {t.attribution && <Grade of="text" grade={t.attribution.grade} note={stripCites(t.attribution.note)} />}

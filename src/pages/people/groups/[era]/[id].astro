@@ -46,7 +46,7 @@ if (rest.length) blocks.push({ id: 'others', title: sections.length ? 'وجوه 
   <Crumbs items={[{ href: '/people/', label: 'الأعلام' }, { href: url.era(era.entry.id), label: era.entry.data.title }, { label: group.title }]} />
   <header class="station-head">
     <span class="kicker">{tiers.face.plural} · {era.entry.data.title} · المجموعة {group.number} من {era.groups.length}</span>
-    <h1>{group.title}</h1>
+    <h1 data-bookmark-title={group.title}>{group.title}</h1>
     <div class="meta-row"><StatusBadge status={group.entry?.data.status ?? 'draft'} /></div>
   </header>
 
