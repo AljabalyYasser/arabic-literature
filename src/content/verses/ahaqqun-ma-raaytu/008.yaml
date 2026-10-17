@@ -1,0 +1,18 @@
+explained: false
+first: "وَصَاحِبُهَا غَضِيضُ الطَّرْفِ أَحْوَى"
+second: "يَضُوعُ فُؤَادَهَا مِنْهُ بُغَامُ"
+vocabulary:
+  - term: "غَضِيضُ الطَّرْفِ أَحْوَى"
+    text: "غزال مغضوض العين لصغره، في لونه حُوّة، وهي إلى السواد [@tabrizi-ikhtiyarat، ج3 ص1397]."
+  - term: "يَضُوعُ"
+    text: "يُفزع ويحرّك، أي كلما صاح تحرّكت أمه وقلقت إشفاقًا عليه [@tabrizi-ikhtiyarat، ج3 ص1397]."
+  - term: "بُغَامُ"
+    text: "صوت الظبي."
+sources:
+  - source: "mufaddaliyyat"
+    loc: "ص334"
+    url: "https://shamela.ws/book/6904/308"
+  - source: "tabrizi-ikhtiyarat"
+    loc: "ج3 ص1397"
+    url: "https://archive.org/details/3820pdf/page/n1405/mode/1up"
+status: "review"

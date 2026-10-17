@@ -1,0 +1,16 @@
+explained: false
+first: "مَهْلًا أَبَيْتَ اللَّعْنَ مَهْـ"
+second: "ـلًا إِنَّ فِيمَا قُلْتَ آمَهْ"
+vocabulary:
+  - term: "أَبَيْتَ اللَّعْنَ"
+    text: "تحية الملوك في الجاهلية: أبيت أن تأتي ما تُلعن عليه."
+  - term: "آمَهْ"
+    text: "«والآمةُ: الْعَيْبُ؛ قَالَ عَبِيد: مَهْلًا، أَبيتَ اللَّعْنَ مَهْلًا» [@lisan، ج12 ص38]."
+sources:
+  - source: "ibn-qutayba"
+    loc: "ج1 ص107"
+    url: "https://shamela.ws/book/23785/100"
+  - source: "lisan"
+    loc: "ج12 ص38"
+    url: "https://shamela.ws/book/1687/5954"
+status: "review"

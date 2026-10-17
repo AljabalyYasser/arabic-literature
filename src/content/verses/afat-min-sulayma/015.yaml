@@ -1,0 +1,18 @@
+explained: false
+first: "لَحَوْنَاهُمُ لَحْوَ العِصِيِّ فَأَصْبَحُوا"
+second: "عَلَى آلَةٍ يَشْكُو الهَوَانَ حَرِيبُهَا"
+vocabulary:
+  - term: "لَحَوْنَاهُمُ لَحْوَ العِصِيِّ"
+    text: "اللَّحْو: قشر العود، أي أخذنا جميع مالهم [@tabrizi-ikhtiyarat، ج3 ص1388]."
+  - term: "آلَةٍ"
+    text: "الحالة [@tabrizi-ikhtiyarat، ج3 ص1388]."
+  - term: "حَرِيبُهَا"
+    text: "الحَرِيب: المسلوب [@tabrizi-ikhtiyarat، ج3 ص1388]."
+sources:
+  - source: "mufaddaliyyat"
+    loc: "ص332"
+    url: "https://shamela.ws/book/6904/306"
+  - source: "tabrizi-ikhtiyarat"
+    loc: "ج3 ص1388"
+    url: "https://archive.org/details/3820pdf/page/n1396/mode/1up"
+status: "review"

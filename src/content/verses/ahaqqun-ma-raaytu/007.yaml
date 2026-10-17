@@ -1,0 +1,23 @@
+explained: false
+first: "تَعَرُّضَ جَأْبَةِ المِدْرَى خَذُولٍ"
+second: "بِصَاحَةَ فِي أَسِرَّتِهَا السَّلَامُ"
+vocabulary:
+  - term: "جَأْبَةِ المِدْرَى"
+    text: "ظبية غليظة القرن، قال الأصمعي: الظبية جأبة المِدْرى ما دام قرنها أملس، وهو أول ما يطلع غليظ، فإذا طال دقّ [@tabrizi-ikhtiyarat، ج3 ص1396–1397]."
+  - term: "خَذُولٍ"
+    text: "التي تخلّفت عن قطيعها [@tabrizi-ikhtiyarat، ج3 ص1397]."
+  - term: "أَسِرَّتِهَا"
+    text: "الأَسِرّة: بطون الأودية [@tabrizi-ikhtiyarat، ج3 ص1397]."
+  - term: "السَّلَامُ"
+    text: "شجر، واحدتها سَلَمة [@tabrizi-ikhtiyarat، ج3 ص1397]."
+sources:
+  - source: "mufaddaliyyat"
+    loc: "ص334"
+    url: "https://shamela.ws/book/6904/308"
+  - source: "tabrizi-ikhtiyarat"
+    loc: "ج3 ص1396–1397"
+    url: "https://archive.org/details/3820pdf/page/n1404/mode/1up"
+  - source: "tabrizi-ikhtiyarat"
+    loc: "ج3 ص1397"
+    url: "https://archive.org/details/3820pdf/page/n1405/mode/1up"
+status: "review"

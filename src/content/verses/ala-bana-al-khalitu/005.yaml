@@ -1,0 +1,21 @@
+explained: false
+first: "فَلَأْيًا مَا قَصَرْتُ الطَّرْفَ عَنْهُمْ"
+second: "بِقَانِيَةٍ وَقَدْ تَلَعَ النَّهَارُ"
+vocabulary:
+  - term: "فَلَأْيًا"
+    text: "أي بعد بطء [@tabrizi-ikhtiyarat، ج3 ص1416]."
+  - term: "بِقَانِيَةٍ"
+    text: "«قانية» لبني سُلَيم، وقال ابن الأعرابي: يعني نفسه، قانيةً للحياء، أي لما تولّوا استحييت أن أتبعهم [@tabrizi-ikhtiyarat، ج3 ص1416–1417]."
+  - term: "تَلَعَ"
+    text: "ارتفع [@tabrizi-ikhtiyarat، ج3 ص1416]."
+sources:
+  - source: "mufaddaliyyat"
+    loc: "ص339"
+    url: "https://shamela.ws/book/6904/313"
+  - source: "tabrizi-ikhtiyarat"
+    loc: "ج3 ص1416"
+    url: "https://archive.org/details/3820pdf/page/n1424/mode/1up"
+  - source: "tabrizi-ikhtiyarat"
+    loc: "ج3 ص1416–1417"
+    url: "https://archive.org/details/3820pdf/page/n1424/mode/1up"
+status: "review"

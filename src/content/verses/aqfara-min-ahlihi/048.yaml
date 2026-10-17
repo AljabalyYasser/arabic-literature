@@ -1,0 +1,17 @@
+explained: false
+first: "يَضْغُو وَمِخْلَبُهَا فِي دَفِّهِ"
+second: "لَا بُدَّ حَيْزُومُهُ مَنْقُوبُ"
+vocabulary:
+  - term: "يَضْغُو"
+    text: "يصيح [@tabrizi-ashr، ص334]."
+  - term: "دَفِّهِ"
+    text: "جنبه [@tabrizi-ashr، ص334]."
+  - term: "حَيْزُومُهُ"
+    text: "صدره [@tabrizi-ashr، ص334]."
+  - term: "لَا بُدَّ ... مَنْقُوبُ"
+    text: "مثقوب، و«لابد: لاشك، عن الفراء» [@tabrizi-ashr، ص334]."
+sources:
+  - source: "tabrizi-ashr"
+    loc: "ص334"
+    url: "https://shamela.ws/book/37488/333"
+status: "review"

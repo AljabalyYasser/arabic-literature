@@ -1,0 +1,21 @@
+explained: false
+first: "كُنَّا إِذَا نَعَرُوا لِحَرْبٍ نَعْرَةً"
+second: "نَشْفِي صُدَاعَهُمُ بِرَأْسٍ مِصْدَمِ"
+vocabulary:
+  - term: "نَعَرُوا"
+    text: "صاحوا بشعارهم، وقيل: هاجوا واجتمعوا [@tabrizi-ikhtiyarat، ج3 ص1447]."
+  - term: "نَشْفِي صُدَاعَهُمُ"
+    text: "كناية عن مداواة دائهم وإزالة الكِبْر عن رؤوسهم [@tabrizi-ikhtiyarat، ج3 ص1448]."
+  - term: "بِرَأْسٍ مِصْدَمِ"
+    text: "الرأس: الرئيس، والمِصْدَم: الذي من عادته أن يصدم ويكسر [@tabrizi-ikhtiyarat، ج3 ص1448]."
+sources:
+  - source: "mufaddaliyyat"
+    loc: "ص347"
+    url: "https://shamela.ws/book/6904/321"
+  - source: "tabrizi-ikhtiyarat"
+    loc: "ج3 ص1447"
+    url: "https://archive.org/details/3820pdf/page/n1455/mode/1up"
+  - source: "tabrizi-ikhtiyarat"
+    loc: "ج3 ص1448"
+    url: "https://archive.org/details/3820pdf/page/n1456/mode/1up"
+status: "review"

@@ -1,0 +1,18 @@
+explained: false
+first: "وَلَمْ نَهْلِكْ لِمُرَّةَ إِذْ تَوَلَّوْا"
+second: "فَسَارُوا سَيْرَ هَارِبَةٍ فَغَارُوا"
+vocabulary:
+  - term: "لِمُرَّةَ"
+    text: "مُرّة بن عوف بن سعد بن ذبيان [@tabrizi-ikhtiyarat، ج3 ص1431]."
+  - term: "هَارِبَةٍ"
+    text: "قال الأصمعي: كانت «هاربة» من بني ذبيان خرجوا عن غطفان ونزلوا في ثعلبة بن سعد فرارًا لحرب وقعت بينهم وبين قومهم [@tabrizi-ikhtiyarat، ج3 ص1431]."
+  - term: "فَغَارُوا"
+    text: "أتوا الغَوْر، أي انتقلوا عن نجد."
+sources:
+  - source: "mufaddaliyyat"
+    loc: "ص342"
+    url: "https://shamela.ws/book/6904/316"
+  - source: "tabrizi-ikhtiyarat"
+    loc: "ج3 ص1431"
+    url: "https://archive.org/details/3820pdf/page/n1439/mode/1up"
+status: "review"

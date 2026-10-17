@@ -1,0 +1,18 @@
+explained: false
+first: "وَأَمَّا أَشْجَعُ الخُنْثَى فَوَلَّتْ"
+second: "تُيُوسًا بِالشَّظِيِّ لَهُمْ يُعَارُ"
+vocabulary:
+  - term: "أَشْجَعُ"
+    text: "ابن الرَّيْث بن غطفان [@tabrizi-ikhtiyarat، ج3 ص1431]."
+  - term: "الخُنْثَى"
+    text: "الذي ليس بذكر ولا أنثى، فيقول: بنو أشجع كذلك [@tabrizi-ikhtiyarat، ج3 ص1431]، يعيّرهم بالجبن ويجعلهم لا رجالًا ولا نساء."
+  - term: "تُيُوسًا ... يُعَارُ"
+    text: "اليُعار: صوت المعزى، يقول: لا غَناء عندهم لجبنهم وخَوَر قلوبهم، و«الشَّظِيّ»: بلد [@tabrizi-ikhtiyarat، ج3 ص1431]."
+sources:
+  - source: "mufaddaliyyat"
+    loc: "ص342"
+    url: "https://shamela.ws/book/6904/316"
+  - source: "tabrizi-ikhtiyarat"
+    loc: "ج3 ص1431"
+    url: "https://archive.org/details/3820pdf/page/n1439/mode/1up"
+status: "review"

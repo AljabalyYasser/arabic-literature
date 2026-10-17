@@ -1,0 +1,15 @@
+explained: false
+first: "أَيَّامَ نَضْرِبُ هَامَهُمْ"
+second: "بِبَوَاتِرٍ حَتَّى انْحَنَيْنَا"
+vocabulary:
+  - term: "هَامَهُمْ"
+    text: "رؤوسهم."
+  - term: "بِبَوَاتِرٍ"
+    text: "بسيوف قواطع."
+  - term: "حَتَّى انْحَنَيْنَا"
+    text: "حتى تعبنا من الضرب فانحنينا."
+sources:
+  - source: "ibn-qutayba"
+    loc: "ج1 ص259"
+    url: "https://shamela.ws/book/23785/252"
+status: "review"

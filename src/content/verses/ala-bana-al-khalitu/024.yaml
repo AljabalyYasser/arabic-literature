@@ -1,0 +1,18 @@
+explained: false
+first: "وَشَبَّتْ طَيِّئُ الجَبَلَيْنِ حَرْبًا"
+second: "تَهِرُّ لِشَجْوِهَا مِنْهَا صُحَارُ"
+vocabulary:
+  - term: "طَيِّئُ الجَبَلَيْنِ"
+    text: "طيئ صاحبة أجأ وسلمى."
+  - term: "تَهِرُّ"
+    text: "تصوّت وتكرّه [@tabrizi-ikhtiyarat، ج3 ص1424]."
+  - term: "صُحَارُ"
+    text: "قال أبو عمرو: صُحار منزل الأمراء بعُمان، وأراد البعد، أي يفزع من هذه الحرب البعيد منها [@tabrizi-ikhtiyarat، ج3 ص1424]."
+sources:
+  - source: "mufaddaliyyat"
+    loc: "ص341"
+    url: "https://shamela.ws/book/6904/315"
+  - source: "tabrizi-ikhtiyarat"
+    loc: "ج3 ص1424"
+    url: "https://archive.org/details/3820pdf/page/n1432/mode/1up"
+status: "review"

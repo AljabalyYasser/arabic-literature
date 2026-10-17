@@ -1,0 +1,18 @@
+explained: false
+first: "بَنِي عَامِرٍ إِنَّا تَرَكْنَا نِسَاءَكُمْ"
+second: "مِنَ الشَّلِّ وَالإِيجَافِ تَدْمَى عُجُوبُهَا"
+vocabulary:
+  - term: "الشَّلِّ"
+    text: "الطرد [@tabrizi-ikhtiyarat، ج3 ص1390]."
+  - term: "الإِيجَافِ"
+    text: "سير شديد [@tabrizi-ikhtiyarat، ج3 ص1390]."
+  - term: "عُجُوبُهَا"
+    text: "العَجْب: آخر العُصْعُص وطرفه، يريد أنهن حُملن على غير وطاء وأُغِذّ بهن في السير فدمين لذلك [@tabrizi-ikhtiyarat، ج3 ص1390]."
+sources:
+  - source: "mufaddaliyyat"
+    loc: "ص332"
+    url: "https://shamela.ws/book/6904/306"
+  - source: "tabrizi-ikhtiyarat"
+    loc: "ج3 ص1390"
+    url: "https://archive.org/details/3820pdf/page/n1398/mode/1up"
+status: "review"

@@ -1,0 +1,15 @@
+explained: false
+first: "أَوْ يَكُ قَدْ أَقْفَرَ مِنْهَا جَوُّهَا"
+second: "وَعَادَهَا المَحْلُ وَالجُدُوبُ"
+vocabulary:
+  - term: "جَوُّهَا"
+    text: "وسطها [@tabrizi-ashr، ص326]."
+  - term: "عَادَهَا"
+    text: "«أصابها وأصله من عيادة المريض» [@tabrizi-ashr، ص326]."
+  - term: "المَحْلُ وَالجُدُوبُ"
+    text: "«المحل والجدب واحد» [@tabrizi-ashr، ص326]، وهو انقطاع المطر ويبس الأرض."
+sources:
+  - source: "tabrizi-ashr"
+    loc: "ص326"
+    url: "https://shamela.ws/book/37488/325"
+status: "review"

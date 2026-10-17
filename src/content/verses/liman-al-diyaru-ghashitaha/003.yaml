@@ -1,0 +1,18 @@
+explained: false
+first: "دَارٌ لِبَيْضَاءِ العَوَارِضِ طَفْلَةٍ"
+second: "مَهْضُومَةِ الكَشْحَيْنِ رَيَّا المِعْصَمِ"
+vocabulary:
+  - term: "العَوَارِضِ"
+    text: "عوارض الأسنان، وقيل: مقدّم الفم، والمراد أنها نقيّة الثغر [@tabrizi-ikhtiyarat، ج3 ص1444]."
+  - term: "طَفْلَةٍ"
+    text: "الرَّخْصة الناعمة [@tabrizi-ikhtiyarat، ج3 ص1444]."
+  - term: "مَهْضُومَةِ الكَشْحَيْنِ"
+    text: "خميصة البطن، و«الرَّيّا»: الممتلئة [@tabrizi-ikhtiyarat، ج3 ص1444]."
+sources:
+  - source: "mufaddaliyyat"
+    loc: "ص346"
+    url: "https://shamela.ws/book/6904/320"
+  - source: "tabrizi-ikhtiyarat"
+    loc: "ج3 ص1444"
+    url: "https://archive.org/details/3820pdf/page/n1452/mode/1up"
+status: "review"

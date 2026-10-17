@@ -1,0 +1,18 @@
+explained: false
+first: "فَدَهَمْنَهُمْ دَهْمًا بِكُلِّ طِمِرَّةٍ"
+second: "وَمُقَطِّعٍ حَلَقَ الرِّحَالَةِ مِرْجَمِ"
+vocabulary:
+  - term: "طِمِرَّةٍ"
+    text: "الفرس المستعدّة للوثب."
+  - term: "الرِّحَالَةِ"
+    text: "سرج من جلود [@tabrizi-ikhtiyarat، ج3 ص1452]."
+  - term: "مِرْجَمِ"
+    text: "الذي يرجم الأرض بقوائمه لصلابة حوافره [@tabrizi-ikhtiyarat، ج3 ص1452]."
+sources:
+  - source: "mufaddaliyyat"
+    loc: "ص348"
+    url: "https://shamela.ws/book/6904/322"
+  - source: "tabrizi-ikhtiyarat"
+    loc: "ج3 ص1452"
+    url: "https://archive.org/details/3820pdf/page/n1460/mode/1up"
+status: "review"

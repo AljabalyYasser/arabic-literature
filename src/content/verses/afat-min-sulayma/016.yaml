@@ -1,0 +1,18 @@
+explained: false
+first: "لَدُنْ غُدْوَةً حَتَّى أَتَى اللَّيْلُ دُونَهُمْ"
+second: "وَأَدْرَكَ جَرْيَ المُبْقِيَاتِ لُغُوبُهَا"
+vocabulary:
+  - term: "لَدُنْ غُدْوَةً"
+    text: "أي قتلناهم من غُدوة إلى الليل [@tabrizi-ikhtiyarat، ج3 ص1389]."
+  - term: "المُبْقِيَاتِ"
+    text: "ذوات الجري، أي الخيل التي تُبقي من جريها [@tabrizi-ikhtiyarat، ج3 ص1389]."
+  - term: "لُغُوبُهَا"
+    text: "تعبها وإعياؤها."
+sources:
+  - source: "mufaddaliyyat"
+    loc: "ص332"
+    url: "https://shamela.ws/book/6904/306"
+  - source: "tabrizi-ikhtiyarat"
+    loc: "ج3 ص1389"
+    url: "https://archive.org/details/3820pdf/page/n1397/mode/1up"
+status: "review"

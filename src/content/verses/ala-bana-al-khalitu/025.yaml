@@ -1,0 +1,16 @@
+explained: false
+first: "يَسُدُّونَ الشِّعَابَ إِذَا رَأَوْنَا"
+second: "وَلَيْسَ يُعِيذُهُمْ مِنْهَا انْجِحَارُ"
+vocabulary:
+  - term: "الشِّعَابَ"
+    text: "جمع شِعْب، وهو الطريق في الجبل [@tabrizi-ikhtiyarat، ج3 ص1425]."
+  - term: "انْجِحَارُ"
+    text: "دخولهم في الجِحَرة، أي الاختباء."
+sources:
+  - source: "mufaddaliyyat"
+    loc: "ص341"
+    url: "https://shamela.ws/book/6904/315"
+  - source: "tabrizi-ikhtiyarat"
+    loc: "ج3 ص1425"
+    url: "https://archive.org/details/3820pdf/page/n1433/mode/1up"
+status: "review"

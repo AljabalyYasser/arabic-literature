@@ -1,0 +1,16 @@
+explained: false
+first: "وَخَذَّلَ قَوْمَهُ عَمْرُو بْنُ عَمْرٍو"
+second: "كَجَادِعِ أَنْفِهِ وَبِهِ انْتِصَارُ"
+vocabulary:
+  - term: "عَمْرُو بْنُ عَمْرٍو"
+    text: "ابن عُدُس بن زيد بن عبد الله بن دارم، من تميم [@tabrizi-ikhtiyarat، ج3 ص1426]."
+  - term: "كَجَادِعِ أَنْفِهِ"
+    text: "نهاهم عن الحرب وبهم قوة، فكان كمن جدع أنفه من غير أن يُقهر [@tabrizi-ikhtiyarat، ج3 ص1426]."
+sources:
+  - source: "mufaddaliyyat"
+    loc: "ص341"
+    url: "https://shamela.ws/book/6904/315"
+  - source: "tabrizi-ikhtiyarat"
+    loc: "ج3 ص1426"
+    url: "https://archive.org/details/3820pdf/page/n1434/mode/1up"
+status: "review"

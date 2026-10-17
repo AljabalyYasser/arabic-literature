@@ -1,0 +1,13 @@
+explained: false
+first: "وَكُلُّ ذِي إِبِلٍ مَوْرُوثٌ"
+second: "وَكُلُّ ذِي سَلَبٍ مَسْلُوبُ"
+vocabulary:
+  - term: "مَوْرُوثٌ"
+    text: "يموت فيرث إبله غيره، ويروى «مُورَثُها»."
+  - term: "وَكُلُّ ذِي سَلَبٍ مَسْلُوبُ"
+    text: "«من كان له شيء سلبه من غيره فهو يُسلب يوما ايضا، ولم يدم ذلك له» [@tabrizi-ashr، ص326]."
+sources:
+  - source: "tabrizi-ashr"
+    loc: "ص326"
+    url: "https://shamela.ws/book/37488/325"
+status: "review"

@@ -1,0 +1,18 @@
+explained: false
+first: "مُعَالِيَةً لَا هَمَّ إِلَّا مُحَجَّرٌ"
+second: "وَحَرَّةُ لَيْلَى السَّهْلُ مِنْهَا وَلُوبُهَا"
+vocabulary:
+  - term: "مُعَالِيَةً"
+    text: "يريد أنها تقصد العالية، يقال: عاليتُ، إذا أتيت العالية [@tabrizi-ikhtiyarat، ج3 ص1383]، والعالية: ما ارتفع من بلاد نجد."
+  - term: "مُحَجَّرٌ"
+    text: "موضع [@tabrizi-ikhtiyarat، ج3 ص1383]."
+  - term: "حَرَّةُ لَيْلَى"
+    text: "الحَرّة: أرض تلبَّس حجارةً سودًا، و«اللُّوب» جمع لُوبة، وهي الحرّة [@tabrizi-ikhtiyarat، ج3 ص1383]."
+sources:
+  - source: "mufaddaliyyat"
+    loc: "ص331"
+    url: "https://shamela.ws/book/6904/305"
+  - source: "tabrizi-ikhtiyarat"
+    loc: "ج3 ص1383"
+    url: "https://archive.org/details/3820pdf/page/n1391/mode/1up"
+status: "review"

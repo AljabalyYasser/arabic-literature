@@ -1,0 +1,16 @@
+explained: false
+first: "يَنْوِي مُحَاوَلَةَ القِيَامِ وَقَدْ مَضَتْ"
+second: "فِيهِ مَخَارِصُ كُلِّ لَدْنٍ لَهْذَمِ"
+vocabulary:
+  - term: "مَخَارِصُ"
+    text: "الأسنّة [@tabrizi-ikhtiyarat، ج3 ص1451]."
+  - term: "لَهْذَمِ"
+    text: "الحديد القاطع، أي ينوي أن يقوم فلا يقدر وقد مضت فيه الأسنة [@tabrizi-ikhtiyarat، ج3 ص1451]."
+sources:
+  - source: "mufaddaliyyat"
+    loc: "ص348"
+    url: "https://shamela.ws/book/6904/322"
+  - source: "tabrizi-ikhtiyarat"
+    loc: "ج3 ص1451"
+    url: "https://archive.org/details/3820pdf/page/n1459/mode/1up"
+status: "review"

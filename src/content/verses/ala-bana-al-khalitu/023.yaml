@@ -1,0 +1,16 @@
+explained: false
+first: "مَضَى سُلَّافُنَا حَتَّى نَزَلْنَا"
+second: "بِأَرْضٍ قَدْ تَحَامَتْهَا نِزَارُ"
+vocabulary:
+  - term: "سُلَّافُنَا"
+    text: "أوائلنا [@tabrizi-ikhtiyarat، ج3 ص1424]."
+  - term: "تَحَامَتْهَا"
+    text: "لم تجترئ عليها فنزلناها نحن [@tabrizi-ikhtiyarat، ج3 ص1424]."
+sources:
+  - source: "mufaddaliyyat"
+    loc: "ص340"
+    url: "https://shamela.ws/book/6904/314"
+  - source: "tabrizi-ikhtiyarat"
+    loc: "ج3 ص1424"
+    url: "https://archive.org/details/3820pdf/page/n1432/mode/1up"
+status: "review"

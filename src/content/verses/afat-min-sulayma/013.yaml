@@ -1,0 +1,21 @@
+explained: false
+first: "قَطَعْنَاهُمُ فَبِاليَمَامَةِ فِرْقَةٌ"
+second: "وَأُخْرَى بِأَوْطَاسٍ تَهِرُّ كَلِيبُهَا"
+vocabulary:
+  - term: "قَطَعْنَاهُمُ"
+    text: "هزمناهم وبدّدنا شملهم فصاروا فِرَقًا [@tabrizi-ikhtiyarat، ج3 ص1387]."
+  - term: "أَوْطَاسٍ"
+    text: "وادٍ بحُنَيْن [@tabrizi-ikhtiyarat، ج3 ص1387]."
+  - term: "تَهِرُّ كَلِيبُهَا"
+    text: "الكَلِيب: الكلاب، وجعلها تهرّ لأنها رأت ما لا عهد لها به [@tabrizi-ikhtiyarat، ج3 ص1387–1388]."
+sources:
+  - source: "mufaddaliyyat"
+    loc: "ص332"
+    url: "https://shamela.ws/book/6904/306"
+  - source: "tabrizi-ikhtiyarat"
+    loc: "ج3 ص1387"
+    url: "https://archive.org/details/3820pdf/page/n1395/mode/1up"
+  - source: "tabrizi-ikhtiyarat"
+    loc: "ج3 ص1387–1388"
+    url: "https://archive.org/details/3820pdf/page/n1395/mode/1up"
+status: "review"

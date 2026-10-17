@@ -1,0 +1,20 @@
+explained: false
+first: "عَطَفْنَا لَهُمْ عَطْفَ الضَّرُوسِ مِنَ المَلَا"
+second: "بِشَهْبَاءَ لَا يَمْشِي الضَّرَاءَ رَقِيبُهَا"
+vocabulary:
+  - term: "الضَّرُوسِ"
+    text: "الناقة السيئة الخلق على من يريد الدنوّ منها في وِلادها [@tabrizi-ikhtiyarat، ج3 ص1386]."
+  - term: "المَلَا"
+    text: "الصحراء [@tabrizi-ikhtiyarat، ج3 ص1386]."
+  - term: "بِشَهْبَاءَ"
+    text: "بكتيبة شهباء [@tabrizi-ikhtiyarat، ج3 ص1386]، يلمع فيها الحديد."
+  - term: "لَا يَمْشِي الضَّرَاءَ رَقِيبُهَا"
+    text: "لا يستخفي رئيسها ولا يتوارى، لعزّها وكثرتها، والضَّراء: ما واراك من شجر [@tabrizi-ikhtiyarat، ج3 ص1386]."
+sources:
+  - source: "mufaddaliyyat"
+    loc: "ص331"
+    url: "https://shamela.ws/book/6904/305"
+  - source: "tabrizi-ikhtiyarat"
+    loc: "ج3 ص1386"
+    url: "https://archive.org/details/3820pdf/page/n1394/mode/1up"
+status: "review"

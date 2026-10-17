@@ -1,0 +1,15 @@
+explained: false
+first: "بَاتَتْ عَلَى إِرَمٍ عَذُوبًا"
+second: "كَأَنَّهَا شَيْخَةٌ رَقُوبُ"
+vocabulary:
+  - term: "إِرَمٍ"
+    text: "الإرم: العلم [@tabrizi-ashr، ص332]، وهو الحجارة المنصوبة علامة في الطريق."
+  - term: "عَذُوبًا"
+    text: "«الذي لا يأكل شيئا» [@tabrizi-ashr، ص332]."
+  - term: "شَيْخَةٌ رَقُوبُ"
+    text: "«التي لا يبقى لها ولد»، «كأنها عجوز ثاكل يمنعها الثكل من الطعام والشراب» [@tabrizi-ashr، ص332]."
+sources:
+  - source: "tabrizi-ashr"
+    loc: "ص332"
+    url: "https://shamela.ws/book/37488/331"
+status: "review"

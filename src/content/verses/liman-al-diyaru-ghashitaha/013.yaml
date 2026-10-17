@@ -1,0 +1,16 @@
+explained: false
+first: "مِنْ كُلِّ مُسْتَرْخِي النِّجَادِ مُنَازِلٍ"
+second: "يَسْمُو إِلَى الأَقْرَانِ غَيْرِ مُقَلَّمِ"
+vocabulary:
+  - term: "مُسْتَرْخِي النِّجَادِ"
+    text: "لامتداد قامته وكمال خلقه، والنِّجاد: حمائل السيف [@tabrizi-ikhtiyarat، ج3 ص1449]."
+  - term: "غَيْرِ مُقَلَّمِ"
+    text: "تامّ السلاح [@tabrizi-ikhtiyarat، ج3 ص1449]."
+sources:
+  - source: "mufaddaliyyat"
+    loc: "ص347"
+    url: "https://shamela.ws/book/6904/321"
+  - source: "tabrizi-ikhtiyarat"
+    loc: "ج3 ص1449"
+    url: "https://archive.org/details/3820pdf/page/n1457/mode/1up"
+status: "review"

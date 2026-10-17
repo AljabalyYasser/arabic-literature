@@ -1,0 +1,16 @@
+explained: false
+first: "أَعَاقِرٌ مِثْلُ ذَاتِ رِحْمٍ"
+second: "أَوْ غَانِمٌ مِثْلُ مَنْ يَخِيبُ"
+vocabulary:
+  - term: "عَاقِرٌ"
+    text: "«العاقر من النساء: التي لا تلد» [@tabrizi-ashr، ص326]."
+  - term: "ذَاتِ رِحْمٍ"
+    text: "الولود، «أي لا تستوي التي تلد والتي لا تلد، ولا يستوي من خرج فغنم ومن خرج فرجع خائبا» [@tabrizi-ashr، ص326–327]."
+sources:
+  - source: "tabrizi-ashr"
+    loc: "ص326"
+    url: "https://shamela.ws/book/37488/325"
+  - source: "tabrizi-ashr"
+    loc: "ص326–327"
+    url: "https://shamela.ws/book/37488/325"
+status: "review"

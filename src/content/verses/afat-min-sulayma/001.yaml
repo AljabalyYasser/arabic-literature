@@ -1,0 +1,20 @@
+explained: false
+first: "عَفَتْ مِنْ سُلَيْمَى رَامَةٌ فَكَثِيبُهَا"
+second: "وَشَطَّتْ بِهَا عَنْكَ النَّوَى وَشُعُوبُهَا"
+vocabulary:
+  - term: "عَفَتْ"
+    text: "درست [@tabrizi-ikhtiyarat، ج3 ص1380]."
+  - term: "رَامَةٌ"
+    text: "قيل: اسم ماء [@tabrizi-ikhtiyarat، ج3 ص1380]، والكثيب: التل من الرمل."
+  - term: "شَطَّتْ"
+    text: "بعُدت [@tabrizi-ikhtiyarat، ج3 ص1380]."
+  - term: "شُعُوبُهَا"
+    text: "جمع شَعْب، ويقال: ما أدري أين شَعَب، أي أين ذهب [@tabrizi-ikhtiyarat، ج3 ص1380]. يريد طرقها التي ذهبت فيها."
+sources:
+  - source: "mufaddaliyyat"
+    loc: "ص330"
+    url: "https://shamela.ws/book/6904/304"
+  - source: "tabrizi-ikhtiyarat"
+    loc: "ج3 ص1380"
+    url: "https://archive.org/details/3820pdf/page/n1388/mode/1up"
+status: "review"

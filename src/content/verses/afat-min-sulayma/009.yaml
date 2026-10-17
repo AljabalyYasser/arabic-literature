@@ -1,0 +1,21 @@
+explained: false
+first: "وَكُنَّا إِذَا قُلْنَا هَوَازِنُ أَقْبِلِي"
+second: "إِلَى الرُّشْدِ لَمْ يَأْتِ السَّدَادَ خَطِيبُهَا"
+vocabulary:
+  - term: "هَوَازِنُ"
+    text: "نصف قيس، لأن قيسًا هم هوازن وغطفان [@tabrizi-ikhtiyarat، ج3 ص1385]."
+  - term: "السَّدَادَ"
+    text: "الصواب من الأمر [@tabrizi-ikhtiyarat، ج3 ص1385]."
+  - term: "خَطِيبُهَا"
+    text: "القيّم بشأنهم والمدبّر لهم، يريد: إذا رُمنا ردّهم إلى القصد أبوا إلا اللجاج [@tabrizi-ikhtiyarat، ج3 ص1386]."
+sources:
+  - source: "mufaddaliyyat"
+    loc: "ص331"
+    url: "https://shamela.ws/book/6904/305"
+  - source: "tabrizi-ikhtiyarat"
+    loc: "ج3 ص1385"
+    url: "https://archive.org/details/3820pdf/page/n1393/mode/1up"
+  - source: "tabrizi-ikhtiyarat"
+    loc: "ج3 ص1386"
+    url: "https://archive.org/details/3820pdf/page/n1394/mode/1up"
+status: "review"

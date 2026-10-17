@@ -1,0 +1,16 @@
+explained: false
+first: "أَبَى لِبَنِي خُزَيْمَةَ أَنَّ فِيهِمْ"
+second: "قَدِيمَ المَجْدِ وَالحَسَبُ النُّضَارُ"
+vocabulary:
+  - term: "النُّضَارُ"
+    text: "الخالص من كل شيء [@tabrizi-ikhtiyarat، ج3 ص1432]."
+  - term: "أَبَى لِبَنِي خُزَيْمَةَ"
+    text: "أي أبى لهم الدنيّة والرضا بالعار قِدَمُ مجدهم وخلوص حسبهم [@tabrizi-ikhtiyarat، ج3 ص1432]."
+sources:
+  - source: "mufaddaliyyat"
+    loc: "ص342"
+    url: "https://shamela.ws/book/6904/316"
+  - source: "tabrizi-ikhtiyarat"
+    loc: "ج3 ص1432"
+    url: "https://archive.org/details/3820pdf/page/n1440/mode/1up"
+status: "review"

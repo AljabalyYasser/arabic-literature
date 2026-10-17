@@ -1,0 +1,16 @@
+explained: false
+first: "إِنْ يَكُ حُوِّلَ مِنْهَا أَهْلُهَا"
+second: "فَلَا بَدِيءٌ وَلَا عَجِيبُ"
+vocabulary:
+  - term: "حُوِّلَ مِنْهَا أَهْلُهَا"
+    text: "نُقلوا عنها [@tabrizi-ashr، ص326]."
+  - term: "فَلَا بَدِيءٌ وَلَا عَجِيبُ"
+    text: "«البدئ: المبتدأ، أي ليس أول ما خلا من الديار، وليس ذلك بعجب» [@tabrizi-ashr، ص326]."
+sources:
+  - source: "tabrizi-ashr"
+    loc: "ص325"
+    url: "https://shamela.ws/book/37488/324"
+  - source: "tabrizi-ashr"
+    loc: "ص326"
+    url: "https://shamela.ws/book/37488/325"
+status: "review"

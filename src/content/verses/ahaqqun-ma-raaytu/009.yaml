@@ -1,0 +1,21 @@
+explained: false
+first: "وَخَرْقٍ تَعْزِفُ الجِنَّانُ فِيهِ"
+second: "فَيَافِيهِ تَحِنُّ بِهَا السَّهَامُ"
+vocabulary:
+  - term: "خَرْقٍ"
+    text: "الأرض الواسعة تنخرق فيها الريح [@tabrizi-ikhtiyarat، ج3 ص1397]."
+  - term: "تَعْزِفُ"
+    text: "تصوّت [@tabrizi-ikhtiyarat، ج3 ص1397]."
+  - term: "السَّهَامُ"
+    text: "شيء أبيض يسقط من السماء إذا حميت الشمس وانتصف النهار، وقالوا: ريح حارّة شديدة [@tabrizi-ikhtiyarat، ج3 ص1398]."
+sources:
+  - source: "mufaddaliyyat"
+    loc: "ص334"
+    url: "https://shamela.ws/book/6904/308"
+  - source: "tabrizi-ikhtiyarat"
+    loc: "ج3 ص1397"
+    url: "https://archive.org/details/3820pdf/page/n1405/mode/1up"
+  - source: "tabrizi-ikhtiyarat"
+    loc: "ج3 ص1398"
+    url: "https://archive.org/details/3820pdf/page/n1406/mode/1up"
+status: "review"

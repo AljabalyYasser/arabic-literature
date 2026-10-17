@@ -1,0 +1,16 @@
+explained: false
+first: "وَغَيْثٍ أَحْجَمَ الرُّوَّادُ عَنْهُ"
+second: "بِهِ نَفَلٌ وَحَوْذَانٌ تُؤَامُ"
+vocabulary:
+  - term: "أَحْجَمَ الرُّوَّادُ عَنْهُ"
+    text: "كفّوا عنه وهابوه لعزّ أهله [@tabrizi-ikhtiyarat، ج3 ص1403]، والرُّوّاد: طلاب الكلأ."
+  - term: "نَفَلٌ وَحَوْذَانٌ"
+    text: "نبتان من نبات الربيع."
+sources:
+  - source: "mufaddaliyyat"
+    loc: "ص336"
+    url: "https://shamela.ws/book/6904/310"
+  - source: "tabrizi-ikhtiyarat"
+    loc: "ج3 ص1403"
+    url: "https://archive.org/details/3820pdf/page/n1411/mode/1up"
+status: "review"

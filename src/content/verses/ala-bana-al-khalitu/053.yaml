@@ -1,0 +1,18 @@
+explained: false
+first: "كَأَنَّ سَرَاتَهُ وَالخَيْلُ شُعْثٌ"
+second: "غَدَاةَ وَجِيفِهَا مَسَدٌ مُغَارُ"
+vocabulary:
+  - term: "سَرَاتَهُ"
+    text: "أعلى ظهره [@tabrizi-ikhtiyarat، ج3 ص1440]."
+  - term: "مَسَدٌ مُغَارُ"
+    text: "حبل محكم الفتل، شبّه ظهره في اندماجه به [@tabrizi-ikhtiyarat، ج3 ص1440]."
+  - term: "وَجِيفِهَا"
+    text: "سيرها السريع."
+sources:
+  - source: "mufaddaliyyat"
+    loc: "ص344"
+    url: "https://shamela.ws/book/6904/318"
+  - source: "tabrizi-ikhtiyarat"
+    loc: "ج3 ص1440"
+    url: "https://archive.org/details/3820pdf/page/n1448/mode/1up"
+status: "review"

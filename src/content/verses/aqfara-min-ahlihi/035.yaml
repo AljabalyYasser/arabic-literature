@@ -1,0 +1,13 @@
+explained: false
+first: "مُضَبَّرٌ خَلْقُهَا تَضْبِيرًا"
+second: "يَنْشَقُّ عَنْ وَجْهِهَا السَّبِيبُ"
+vocabulary:
+  - term: "مُضَبَّرٌ"
+    text: "موثق [@tabrizi-ashr، ص331]، مجتمع الخلق."
+  - term: "يَنْشَقُّ عَنْ وَجْهِهَا السَّبِيبُ"
+    text: "«السبيب ههنا: شعر الناصية، يقول: هي حادة البصر، فناصيتها لا تستر بصرها» [@tabrizi-ashr، ص331]."
+sources:
+  - source: "tabrizi-ashr"
+    loc: "ص331"
+    url: "https://shamela.ws/book/37488/330"
+status: "review"

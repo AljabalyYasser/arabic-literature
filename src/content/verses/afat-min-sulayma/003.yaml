@@ -1,0 +1,16 @@
+explained: false
+first: "أَلَمْ يَأْتِهَا أَنَّ الدُّمُوعَ نِطَافَةٌ"
+second: "لِعَيْنٍ يُوَافِي فِي المَنَامِ حَبِيبُهَا"
+vocabulary:
+  - term: "نِطَافَةٌ"
+    text: "سائلة، بكسر النون في رواية أبي عِكْرِمة الضَّبِّيّ، ورواها الطُّوسِيّ بفتحها، وقال: النَّطافة: مفسدة وقروح [@tabrizi-ikhtiyarat، ج3 ص1381]."
+  - term: "يُوَافِي فِي المَنَامِ حَبِيبُهَا"
+    text: "يأتيه خيالها في النوم فيجدد العهد، فإذا انتبه بكى في أثرها [@tabrizi-ikhtiyarat، ج3 ص1381]."
+sources:
+  - source: "mufaddaliyyat"
+    loc: "ص330"
+    url: "https://shamela.ws/book/6904/304"
+  - source: "tabrizi-ikhtiyarat"
+    loc: "ج3 ص1381"
+    url: "https://archive.org/details/3820pdf/page/n1389/mode/1up"
+status: "review"

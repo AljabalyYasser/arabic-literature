@@ -1,0 +1,16 @@
+explained: false
+first: "تَبِيتُ النِّسَاءُ المُرْضِعَاتُ بِرَهْوَةٍ"
+second: "تَفَزَّعُ مِنْ خَوْفِ الجَنَانِ قُلُوبُهَا"
+vocabulary:
+  - term: "بِرَهْوَةٍ"
+    text: "الرَّهْوة عند أبي عبيدة: ما ارتفع من الأرض وما انخفض، أي فررن فاستترن [@tabrizi-ikhtiyarat، ج3 ص1391]."
+  - term: "الجَنَانِ"
+    text: "الظلمة، وقيل: سواد الشخص. والمراد شمول الخوف لهن على كل حال [@tabrizi-ikhtiyarat، ج3 ص1391]."
+sources:
+  - source: "mufaddaliyyat"
+    loc: "ص333"
+    url: "https://shamela.ws/book/6904/307"
+  - source: "tabrizi-ikhtiyarat"
+    loc: "ج3 ص1391"
+    url: "https://archive.org/details/3820pdf/page/n1399/mode/1up"
+status: "review"

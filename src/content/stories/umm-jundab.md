@@ -10,6 +10,7 @@ earliest:
   url: "https://shamela.ws/book/9427/23"
 people:
   - "imru-al-qais"
+  - "alqama"
 sources:
   - source: "muwashshah"
     loc: "ص23–26"

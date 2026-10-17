@@ -1,0 +1,21 @@
+explained: false
+first: "كَأَنَّ ظِبَاءَ أُسْنُمَةٍ عَلَيْهَا"
+second: "كَوَانِسَ قَالِصًا عَنْهَا المَغَارُ"
+vocabulary:
+  - term: "كَوَانِسَ"
+    text: "شبّه النساء بالظباء التي صغرت عنها كُنُسها فبعض أجسادها خارج، أي هؤلاء النساء جسام عظام صغرت عنهن هوادجهن [@tabrizi-ikhtiyarat، ج3 ص1417–1418]."
+  - term: "المَغَارُ"
+    text: "جمع مغارة، و«قالصًا»: مرتفعًا [@tabrizi-ikhtiyarat، ج3 ص1418]."
+  - term: "أُسْنُمَةٍ"
+    text: "قال الأصمعي: أكمة قريبة من فَلْج [@tabrizi-ikhtiyarat، ج3 ص1418]."
+sources:
+  - source: "mufaddaliyyat"
+    loc: "ص339"
+    url: "https://shamela.ws/book/6904/313"
+  - source: "tabrizi-ikhtiyarat"
+    loc: "ج3 ص1417–1418"
+    url: "https://archive.org/details/3820pdf/page/n1425/mode/1up"
+  - source: "tabrizi-ikhtiyarat"
+    loc: "ج3 ص1418"
+    url: "https://archive.org/details/3820pdf/page/n1426/mode/1up"
+status: "review"

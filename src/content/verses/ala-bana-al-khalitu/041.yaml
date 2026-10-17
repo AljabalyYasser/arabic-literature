@@ -1,0 +1,16 @@
+explained: false
+first: "فَأَبْلِغْ إِنْ عَرَضْتَ بِنَا رَسُولًا"
+second: "كِنَانَةَ قَوْمَنَا فِي حَيْثُ صَارُوا"
+vocabulary:
+  - term: "إِنْ عَرَضْتَ بِنَا"
+    text: "إن ذكرتنا أو أخبرت عنا [@tabrizi-ikhtiyarat، ج3 ص1433]."
+  - term: "رَسُولًا"
+    text: "رسالة [@tabrizi-ikhtiyarat، ج3 ص1433]."
+sources:
+  - source: "mufaddaliyyat"
+    loc: "ص343"
+    url: "https://shamela.ws/book/6904/317"
+  - source: "tabrizi-ikhtiyarat"
+    loc: "ج3 ص1433"
+    url: "https://archive.org/details/3820pdf/page/n1441/mode/1up"
+status: "review"

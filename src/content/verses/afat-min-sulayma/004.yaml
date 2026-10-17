@@ -1,0 +1,22 @@
+explained: false
+first: "تَحَدُّرَ مَاءِ الغَرْبِ عَنْ جُرَشِيَّةٍ"
+second: "عَلَى جِرْبَةٍ تَعْلُو الدِّبَارَ غُرُوبُهَا"
+vocabulary:
+  - term: "تَحَدُّرَ مَاءِ الغَرْبِ"
+    text: "يريد: يتحدر الدمع من عيني تحدر الماء من دلو إذا استُقي بها لزرع على ناقة [@tabrizi-ikhtiyarat، ج3 ص1382]. والغَرْب: الدلو العظيمة."
+  - term: "جُرَشِيَّةٍ"
+    text: "ناقة منسوبة إلى جُرَش، قبيلة، وقيل: أرض باليمن [@tabrizi-ikhtiyarat، ج3 ص1382]."
+  - term: "جِرْبَةٍ"
+    text: "مزرعة [@tabrizi-ikhtiyarat، ج3 ص1382]."
+  - term: "الدِّبَارَ"
+    text: "المَشارات، وهي ما بين الحدّين من المزروع، الواحدة دَبْرة [@tabrizi-ikhtiyarat، ج3 ص1382]."
+  - term: "غُرُوبُهَا"
+    text: "الدِّلاء [@tabrizi-ikhtiyarat، ج3 ص1382]."
+sources:
+  - source: "mufaddaliyyat"
+    loc: "ص330"
+    url: "https://shamela.ws/book/6904/304"
+  - source: "tabrizi-ikhtiyarat"
+    loc: "ج3 ص1382"
+    url: "https://archive.org/details/3820pdf/page/n1390/mode/1up"
+status: "review"

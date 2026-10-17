@@ -1,0 +1,21 @@
+explained: false
+first: "غَذَاهَا قَارِصٌ يَجْرِي عَلَيْهَا"
+second: "وَمَحْضٌ حِينَ تُبْتَعَثُ العِشَارُ"
+vocabulary:
+  - term: "قَارِصٌ"
+    text: "من اللبن: الذي قد أخذ فيه الطعم [@tabrizi-ikhtiyarat، ج3 ص1419]."
+  - term: "مَحْضٌ"
+    text: "اللبن حين حُلب وذهبت رغوته [@tabrizi-ikhtiyarat، ج3 ص1419]."
+  - term: "العِشَارُ"
+    text: "جمع عُشَراء، الناقة أتى عليها عشرة أشهر من حملها [@tabrizi-ikhtiyarat، ج3 ص1419–1420]."
+sources:
+  - source: "mufaddaliyyat"
+    loc: "ص339"
+    url: "https://shamela.ws/book/6904/313"
+  - source: "tabrizi-ikhtiyarat"
+    loc: "ج3 ص1419"
+    url: "https://archive.org/details/3820pdf/page/n1427/mode/1up"
+  - source: "tabrizi-ikhtiyarat"
+    loc: "ج3 ص1419–1420"
+    url: "https://archive.org/details/3820pdf/page/n1427/mode/1up"
+status: "review"

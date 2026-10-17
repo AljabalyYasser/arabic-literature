@@ -1,0 +1,19 @@
+explained: false
+first: "فَبِتُّ مُسَهَّدًا أَرِقًا كَأَنِّي"
+second: "تَمَشَّتْ فِي مَفَاصِلِيَ العُقَارُ"
+vocabulary:
+  - term: "مُسَهَّدًا أَرِقًا"
+    text: "المسهَّد: الممنوع النوم، والأرِق: الذي لا يكاد ينام [@tabrizi-ikhtiyarat، ج3 ص1420]."
+  - term: "العُقَارُ"
+    text: "الخمر، قال الأصمعي: من عاقرت الدنّ إذا لازمته، ويقال: هي التي بقي منها في عُقر الدن شيء [@tabrizi-ikhtiyarat، ج3 ص1421]."
+sources:
+  - source: "mufaddaliyyat"
+    loc: "ص340"
+    url: "https://shamela.ws/book/6904/314"
+  - source: "tabrizi-ikhtiyarat"
+    loc: "ج3 ص1420"
+    url: "https://archive.org/details/3820pdf/page/n1428/mode/1up"
+  - source: "tabrizi-ikhtiyarat"
+    loc: "ج3 ص1421"
+    url: "https://archive.org/details/3820pdf/page/n1429/mode/1up"
+status: "review"

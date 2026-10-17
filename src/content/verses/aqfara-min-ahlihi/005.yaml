@@ -1,0 +1,13 @@
+explained: false
+first: "أَرْضٌ تَوَارَثُهَا شَعُوبُ"
+second: "وَكُلُّ مَنْ حَلَّهَا مَحْرُوبُ"
+vocabulary:
+  - term: "شَعُوبُ"
+    text: "«اسم للمنية» [@tabrizi-ashr، ص324]، أي يرثها الموت قومًا بعد قوم."
+  - term: "مَحْرُوبُ"
+    text: "مسلوب [@tabrizi-ashr، ص324]."
+sources:
+  - source: "tabrizi-ashr"
+    loc: "ص324"
+    url: "https://shamela.ws/book/37488/323"
+status: "review"

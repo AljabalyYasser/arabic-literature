@@ -1,0 +1,18 @@
+explained: false
+first: "عَيْرَانَةٌ مُؤْجَدٌ فَقَارُهَا"
+second: "كَأَنَّ حَارِكَهَا كَثِيبُ"
+vocabulary:
+  - term: "عَيْرَانَةٌ"
+    text: "ناقة تشبه العَيْر، وهو حمار الوحش، في صلابتها ونشاطها."
+  - term: "مُؤْجَدٌ فَقَارُهَا"
+    text: "«قال أبو عمرو: المؤجد: التي يكون عظم فقارها واحدا»، و«الفقار: خرز الظهر» [@tabrizi-ashr، ص330]."
+  - term: "حَارِكَهَا"
+    text: "منسجها، وهو أعلى الكاهل، «وصف حاركها بالإشراف والملاسة» [@tabrizi-ashr، ص330]."
+sources:
+  - source: "tabrizi-ashr"
+    loc: "ص329"
+    url: "https://shamela.ws/book/37488/328"
+  - source: "tabrizi-ashr"
+    loc: "ص330"
+    url: "https://shamela.ws/book/37488/329"
+status: "review"

@@ -1,0 +1,21 @@
+explained: false
+first: "وَأَصْعَدَتِ الرِّبَابُ فَلَيْسَ مِنْهَا"
+second: "بِصَارَاتٍ وَلَا بِالحُبْسِ نَارُ"
+vocabulary:
+  - term: "أَصْعَدَتِ"
+    text: "ارتفعت هاربة إلى نجد [@tabrizi-ikhtiyarat، ج3 ص1426]."
+  - term: "الرِّبَابُ"
+    text: "قال الأصمعي: سُمّوا ربابًا لأنهم تجمّعوا فقالوا: نكون كالرِّبابة، وهي الجلدة التي تُجمع فيها القداح [@tabrizi-ikhtiyarat، ج3 ص1426]."
+  - term: "فَلَيْسَ مِنْهَا ... نَارُ"
+    text: "يقول: أصعدوا فليس منهم نار توقد بهذه الأماكن [@tabrizi-ikhtiyarat، ج3 ص1427]."
+sources:
+  - source: "mufaddaliyyat"
+    loc: "ص341"
+    url: "https://shamela.ws/book/6904/315"
+  - source: "tabrizi-ikhtiyarat"
+    loc: "ج3 ص1426"
+    url: "https://archive.org/details/3820pdf/page/n1434/mode/1up"
+  - source: "tabrizi-ikhtiyarat"
+    loc: "ج3 ص1427"
+    url: "https://archive.org/details/3820pdf/page/n1435/mode/1up"
+status: "review"

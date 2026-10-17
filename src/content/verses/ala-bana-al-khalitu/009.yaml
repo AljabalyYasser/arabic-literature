@@ -1,0 +1,16 @@
+explained: false
+first: "وَفِي الأَظْعَانِ آنِسَةٌ لَعُوبٌ"
+second: "تَيَمَّمَ أَهْلُهَا بَلَدًا فَسَارُوا"
+vocabulary:
+  - term: "آنِسَةٌ"
+    text: "التي تؤنس بحديثها [@tabrizi-ikhtiyarat، ج3 ص1418]."
+  - term: "لَعُوبٌ"
+    text: "المزّاحة الضحّاكة [@tabrizi-ikhtiyarat، ج3 ص1418]."
+sources:
+  - source: "mufaddaliyyat"
+    loc: "ص339"
+    url: "https://shamela.ws/book/6904/313"
+  - source: "tabrizi-ikhtiyarat"
+    loc: "ج3 ص1418"
+    url: "https://archive.org/details/3820pdf/page/n1426/mode/1up"
+status: "review"

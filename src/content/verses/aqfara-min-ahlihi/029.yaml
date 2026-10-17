@@ -1,0 +1,15 @@
+explained: false
+first: "قَطَعْتُهُ غُدْوَةً مُشِيحًا"
+second: "وَصَاحِبِي بَادِنٌ خَبُوبُ"
+vocabulary:
+  - term: "مُشِيحًا"
+    text: "مُجِدًّا [@tabrizi-ashr، ص329]."
+  - term: "بَادِنٌ"
+    text: "«ناقة ذات بدن وجسم» [@tabrizi-ashr، ص329]."
+  - term: "خَبُوبُ"
+    text: "«تخب في سيرها» [@tabrizi-ashr، ص329]، والخَبَب ضرب من العدو."
+sources:
+  - source: "tabrizi-ashr"
+    loc: "ص329"
+    url: "https://shamela.ws/book/37488/328"
+status: "review"

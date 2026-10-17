@@ -1,0 +1,16 @@
+explained: false
+first: "نَسُوفٍ لِلْحِزَامِ بِمِرْفَقَيْهَا"
+second: "يَسُدُّ خَوَاءَ طُبْيَيْهَا الغُبَارُ"
+vocabulary:
+  - term: "نَسُوفٍ لِلْحِزَامِ بِمِرْفَقَيْهَا"
+    text: "تنسف الحزام وتقطعه بمرفقيها لأنهما يموران من سرعة الجري [@tabrizi-ikhtiyarat، ج3 ص1436]."
+  - term: "خَوَاءَ طُبْيَيْهَا"
+    text: "الخواء: ما انفرج منها، والأطباء لذوات الحافر كالأخلاف لذوات الخف، أي يملأ ما بين قوائمها غبارها، كناية عن شدة العدو [@tabrizi-ikhtiyarat، ج3 ص1436]."
+sources:
+  - source: "mufaddaliyyat"
+    loc: "ص343"
+    url: "https://shamela.ws/book/6904/317"
+  - source: "tabrizi-ikhtiyarat"
+    loc: "ج3 ص1436"
+    url: "https://archive.org/details/3820pdf/page/n1444/mode/1up"
+status: "review"

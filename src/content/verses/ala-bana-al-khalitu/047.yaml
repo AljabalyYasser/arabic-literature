@@ -1,0 +1,19 @@
+explained: false
+first: "تَرَاهَا مِنْ يَبِيسِ المَاءِ شُهْبًا"
+second: "مُخَالِطَ دِرَّةٍ مِنْهَا غِرَارُ"
+vocabulary:
+  - term: "يَبِيسِ المَاءِ"
+    text: "العرق، وعرق الخيل أبيض، فجعلها «شُهبًا» لما يبس عليها [@tabrizi-ikhtiyarat، ج3 ص1436]."
+  - term: "دِرَّةٍ ... غِرَارُ"
+    text: "الدِّرّة: انفتاقها بالعرق، والغِرار: القليل، والمعنى أنه لا يجمد عرقها فينقطع ولا يغزر فتنتقص قواها [@tabrizi-ikhtiyarat، ج3 ص1436–1437]."
+sources:
+  - source: "mufaddaliyyat"
+    loc: "ص343"
+    url: "https://shamela.ws/book/6904/317"
+  - source: "tabrizi-ikhtiyarat"
+    loc: "ج3 ص1436"
+    url: "https://archive.org/details/3820pdf/page/n1444/mode/1up"
+  - source: "tabrizi-ikhtiyarat"
+    loc: "ج3 ص1436–1437"
+    url: "https://archive.org/details/3820pdf/page/n1444/mode/1up"
+status: "review"

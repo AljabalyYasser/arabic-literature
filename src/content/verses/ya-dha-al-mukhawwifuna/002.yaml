@@ -1,0 +1,16 @@
+explained: false
+first: "أَزَعَمْتَ أَنَّكَ قَدْ قَتَلْـ"
+second: "ـتَ سَرَاتَنَا كَذِبًا وَمَيْنَا"
+vocabulary:
+  - term: "سَرَاتَنَا"
+    text: "أشرافنا، جمع سَرِيّ."
+  - term: "وَمَيْنَا"
+    text: "«المَيْنُ: الْكَذِبُ» [@lisan، ج13 ص425]."
+sources:
+  - source: "ibn-qutayba"
+    loc: "ج1 ص259"
+    url: "https://shamela.ws/book/23785/252"
+  - source: "lisan"
+    loc: "ج13 ص425"
+    url: "https://shamela.ws/book/1687/6986"
+status: "review"

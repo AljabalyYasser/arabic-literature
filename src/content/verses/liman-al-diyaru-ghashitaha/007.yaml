@@ -1,0 +1,16 @@
+explained: false
+first: "زَيَّافَةٍ بِالرَّحْلِ صَادِقَةِ السُّرَى"
+second: "خَطَّارَةٍ تَهِصُ الحَصَى بِمُثَلَّمِ"
+vocabulary:
+  - term: "زَيَّافَةٍ"
+    text: "تزيف في مشيتها وعليها الرحل [@tabrizi-ikhtiyarat، ج3 ص1446]."
+  - term: "تَهِصُ الحَصَى بِمُثَلَّمِ"
+    text: "لصلابة مناسمها إذا وطئت الأرض تكسر الحصى وتدقّه [@tabrizi-ikhtiyarat، ج3 ص1446]، والمثلّم: الخفّ قد ثلمته الحجارة."
+sources:
+  - source: "mufaddaliyyat"
+    loc: "ص346"
+    url: "https://shamela.ws/book/6904/320"
+  - source: "tabrizi-ikhtiyarat"
+    loc: "ج3 ص1446"
+    url: "https://archive.org/details/3820pdf/page/n1454/mode/1up"
+status: "review"

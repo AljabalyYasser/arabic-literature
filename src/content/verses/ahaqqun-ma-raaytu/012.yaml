@@ -1,0 +1,16 @@
+explained: false
+first: "كَأَخْنَسَ نَاشِطٍ بَاتَتْ عَلَيْهِ"
+second: "بِحَرْبَةَ لَيْلَةٌ فِيهَا جَهَامُ"
+vocabulary:
+  - term: "كَأَخْنَسَ نَاشِطٍ"
+    text: "الأخنس: الثور الوحشي، والناشط: الذي يخرج من بلد إلى بلد [@tabrizi-ikhtiyarat، ج3 ص1399]."
+  - term: "الجَهَامُ"
+    text: "سحاب قد هراق ماءه. شبّه ناقته في أسفارها بثور أصابه البرد والمطر فبادر إلى مقرّه [@tabrizi-ikhtiyarat، ج3 ص1399]."
+sources:
+  - source: "mufaddaliyyat"
+    loc: "ص335"
+    url: "https://shamela.ws/book/6904/309"
+  - source: "tabrizi-ikhtiyarat"
+    loc: "ج3 ص1399"
+    url: "https://archive.org/details/3820pdf/page/n1407/mode/1up"
+status: "review"

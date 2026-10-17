@@ -1,0 +1,16 @@
+explained: false
+first: "يَسُومُونَ الصِّلَاحَ بِذَاتِ كَهْفٍ"
+second: "وَمَا فِيهَا لَهُمْ سَلَعٌ وَقَارُ"
+vocabulary:
+  - term: "يَسُومُونَ الصِّلَاحَ"
+    text: "يعرضون المصالحة [@tabrizi-ikhtiyarat، ج3 ص1427]."
+  - term: "سَلَعٌ وَقَارُ"
+    text: "ضربان من الشجر المرّ، وقال الأصمعي: ما فيها لهم سَلَع، أي مرعى خبيث الطعم [@tabrizi-ikhtiyarat، ج3 ص1427]."
+sources:
+  - source: "mufaddaliyyat"
+    loc: "ص341"
+    url: "https://shamela.ws/book/6904/315"
+  - source: "tabrizi-ikhtiyarat"
+    loc: "ج3 ص1427"
+    url: "https://archive.org/details/3820pdf/page/n1435/mode/1up"
+status: "review"

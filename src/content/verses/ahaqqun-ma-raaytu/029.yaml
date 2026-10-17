@@ -1,0 +1,16 @@
+explained: false
+first: "بِكُلِّ قَرَارَةٍ مِنْ حَيْثُ جَالَتْ"
+second: "رَكِيَّةُ سُنْبُكٍ فِيهَا انْثِلَامُ"
+vocabulary:
+  - term: "قَرَارَةٍ"
+    text: "ما اطمأن من الأرض [@tabrizi-ikhtiyarat، ج3 ص1408]."
+  - term: "رَكِيَّةُ سُنْبُكٍ"
+    text: "يعني حيث أثّرت الخيل في الأرض بسنابكها [@tabrizi-ikhtiyarat، ج3 ص1408]، والرَّكِيّة: البئر، والسُّنْبُك: طرف الحافر."
+sources:
+  - source: "mufaddaliyyat"
+    loc: "ص336"
+    url: "https://shamela.ws/book/6904/310"
+  - source: "tabrizi-ikhtiyarat"
+    loc: "ج3 ص1408"
+    url: "https://archive.org/details/3820pdf/page/n1416/mode/1up"
+status: "review"

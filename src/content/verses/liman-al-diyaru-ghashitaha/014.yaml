@@ -1,0 +1,18 @@
+explained: false
+first: "فَفَضَضْنَ جَمْعَهُمُ وَأَفْلَتَ حَاجِبٌ"
+second: "تَحْتَ العَجَاجَةِ فِي الغُبَارِ الأَقْتَمِ"
+vocabulary:
+  - term: "فَضَضْنَ"
+    text: "كسرن [@tabrizi-ikhtiyarat، ج3 ص1450]."
+  - term: "حَاجِبٌ"
+    text: "رئيسهم حاجب بن زُرارة بن عُدُس، وكان مدبّرهم يوم النسار [@tabrizi-ikhtiyarat، ج3 ص1450]."
+  - term: "الأَقْتَمِ"
+    text: "القَتَمة: حمرة في سواد [@tabrizi-ikhtiyarat، ج3 ص1450]."
+sources:
+  - source: "mufaddaliyyat"
+    loc: "ص347"
+    url: "https://shamela.ws/book/6904/321"
+  - source: "tabrizi-ikhtiyarat"
+    loc: "ج3 ص1450"
+    url: "https://archive.org/details/3820pdf/page/n1458/mode/1up"
+status: "review"

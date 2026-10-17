@@ -1,0 +1,18 @@
+explained: false
+first: "فَبَاتَتْ لَيْلَةً وَأَدِيمَ يَوْمٍ"
+second: "عَلَى المِمْهَى يُجَزُّ لَهَا الثَّغَامُ"
+vocabulary:
+  - term: "أَدِيمَ يَوْمٍ"
+    text: "بياضه، وكذلك أديم ليل: سواده [@tabrizi-ikhtiyarat، ج3 ص1407]."
+  - term: "المِمْهَى"
+    text: "موضع، وقيل: ماء لهم [@tabrizi-ikhtiyarat، ج3 ص1407]."
+  - term: "الثَّغَامُ"
+    text: "نبت."
+sources:
+  - source: "mufaddaliyyat"
+    loc: "ص336"
+    url: "https://shamela.ws/book/6904/310"
+  - source: "tabrizi-ikhtiyarat"
+    loc: "ج3 ص1407"
+    url: "https://archive.org/details/3820pdf/page/n1415/mode/1up"
+status: "review"

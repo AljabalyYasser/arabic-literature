@@ -1,0 +1,19 @@
+explained: false
+first: "رَأَتْنِي كَأُفْحُوصِ القَطَاةِ ذُؤَابَتِي"
+second: "وَمَا مَسَّهَا مِنْ مُنْعِمٍ يَسْتَثِيبُهَا"
+vocabulary:
+  - term: "أُفْحُوصِ القَطَاةِ"
+    text: "الأُفحوص: حيث تجثم القطاة من الأرض فتفحصه بصدرها [@tabrizi-ikhtiyarat، ج3 ص1383]. يريد: رأتني قد صلعتُ وانحسر الشعر عن مفرقي."
+  - term: "مِنْ مُنْعِمٍ يَسْتَثِيبُهَا"
+    text: "كانوا يجزّون نواصي الأسرى إذا أطلقوهم، فيقول: لم أوسَر فتُقصّ ناصيتي في الأسر، ولم يجزّها منعِمٌ يطلب على ذلك ثوابًا [@tabrizi-ikhtiyarat، ج3 ص1384–1385]."
+sources:
+  - source: "mufaddaliyyat"
+    loc: "ص331"
+    url: "https://shamela.ws/book/6904/305"
+  - source: "tabrizi-ikhtiyarat"
+    loc: "ج3 ص1383"
+    url: "https://archive.org/details/3820pdf/page/n1391/mode/1up"
+  - source: "tabrizi-ikhtiyarat"
+    loc: "ج3 ص1384–1385"
+    url: "https://archive.org/details/3820pdf/page/n1392/mode/1up"
+status: "review"

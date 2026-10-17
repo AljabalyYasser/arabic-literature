@@ -1,0 +1,13 @@
+explained: false
+first: "أَوْ جَدْوَلٌ فِي ظِلَالِ نَخْلٍ"
+second: "لِلْمَاءِ مِنْ تَحْتِهِ سُكُوبُ"
+vocabulary:
+  - term: "جَدْوَلٌ"
+    text: "النهر الصغير [@tabrizi-ashr، ص325]."
+  - term: "سُكُوبُ"
+    text: "«أراد انسكاب فلم تمكنه القافية» [@tabrizi-ashr، ص325]."
+sources:
+  - source: "tabrizi-ashr"
+    loc: "ص325"
+    url: "https://shamela.ws/book/37488/324"
+status: "review"

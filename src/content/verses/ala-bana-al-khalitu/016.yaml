@@ -1,0 +1,16 @@
+explained: false
+first: "وَعَانَدَتِ الثُّرَيَّا بَعْدَ هَدْءٍ"
+second: "مُعَانَدَةً لَهَا العَيُّوقُ جَارُ"
+vocabulary:
+  - term: "عَانَدَتِ"
+    text: "سقطت للمغيب، والمعاندة: المعارضة في لجاج [@tabrizi-ikhtiyarat، ج3 ص1422]."
+  - term: "العَيُّوقُ"
+    text: "نجم أحمر يتلو الثريا."
+sources:
+  - source: "mufaddaliyyat"
+    loc: "ص340"
+    url: "https://shamela.ws/book/6904/314"
+  - source: "tabrizi-ikhtiyarat"
+    loc: "ج3 ص1422"
+    url: "https://archive.org/details/3820pdf/page/n1430/mode/1up"
+status: "review"

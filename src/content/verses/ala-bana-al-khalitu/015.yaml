@@ -1,0 +1,16 @@
+explained: false
+first: "أُرَاقِبُ فِي السَّمَاءِ بَنَاتِ نَعْشٍ"
+second: "وَقَدْ دَارَتْ كَمَا عُطِفَ الصُّوَارُ"
+vocabulary:
+  - term: "بَنَاتِ نَعْشٍ"
+    text: "نجوم في الشمال لا تغيب، تدور حتى يذهب الصبح بضوئها [@tabrizi-ikhtiyarat، ج3 ص1421]."
+  - term: "الصُّوَارُ"
+    text: "جماعة البقر، و«عُطف» أنه رأى شيئًا ففزع منه فراغ عنه [@tabrizi-ikhtiyarat، ج3 ص1421]."
+sources:
+  - source: "mufaddaliyyat"
+    loc: "ص340"
+    url: "https://shamela.ws/book/6904/314"
+  - source: "tabrizi-ikhtiyarat"
+    loc: "ج3 ص1421"
+    url: "https://archive.org/details/3820pdf/page/n1429/mode/1up"
+status: "review"

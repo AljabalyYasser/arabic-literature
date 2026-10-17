@@ -1,0 +1,15 @@
+explained: false
+first: "فَرَاكِسٌ فَثُعَالِبَاتٌ"
+second: "فَذَاتُ فِرْقَيْنِ فَالقَلِيبُ"
+vocabulary:
+  - term: "فَرَاكِسٌ فَثُعَالِبَاتٌ"
+    text: "«راكس وثعالبات: موضعان» [@tabrizi-ashr، ص324]، ويروى «فثُعَيْلِبات»."
+  - term: "فَذَاتُ فِرْقَيْنِ"
+    text: "موضع، وكذلك سائر ما في البيتين من الأسماء: منازل قوم الشاعر من بني أسد."
+  - term: "القَلِيبُ"
+    text: "البئر [@tabrizi-ashr، ص324]."
+sources:
+  - source: "tabrizi-ashr"
+    loc: "ص324"
+    url: "https://shamela.ws/book/37488/323"
+status: "review"

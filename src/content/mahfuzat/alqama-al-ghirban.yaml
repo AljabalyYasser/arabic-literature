@@ -1,0 +1,19 @@
+kind: "bayt"
+title: "ومن تعرض للغربان يزجرها"
+part: "1"
+order: 114
+person: "alqama"
+verses:
+  - "hal-ma-alimta/037"
+meaning: "من تطيّر بالغراب فزجره وهو سالم، فهو المشؤوم لا الغراب. يقول المَرْزُوقِيّ: «كأنه ينكر الإيمان بالطيرة» [@tabrizi-ikhtiyarat، ج3 ص1619]. ويضعه الجاحظ فيمن أنكر الطِّيَرة، وينسبه مرة إلى سلامة بن جندل [@hayawan، ج3 ص214] ومرة إلى عَلْقَمة [@hayawan، ج7 ص87]."
+sources:
+  - source: "tabrizi-ikhtiyarat"
+    loc: "ج3 ص1619"
+    url: "https://archive.org/details/3820pdf/page/n1627/mode/1up"
+  - source: "hayawan"
+    loc: "ج3 ص214"
+    url: "https://shamela.ws/book/23775/657"
+  - source: "hayawan"
+    loc: "ج7 ص87"
+    url: "https://shamela.ws/book/23775/1631"
+status: "review"

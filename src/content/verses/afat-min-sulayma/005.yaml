@@ -1,0 +1,23 @@
+explained: false
+first: "بِغَرْبٍ وَمَرْبُوعٍ وَعَوْدٍ تُقِيمُهُ"
+second: "مَحَالَةُ خُطَّافٍ تَصِرُّ ثُقُوبُهَا"
+vocabulary:
+  - term: "مَرْبُوعٍ"
+    text: "حبل فُتل على أربع قُوًى [@tabrizi-ikhtiyarat، ج3 ص1382]."
+  - term: "عَوْدٍ"
+    text: "البعير المسنّ [@tabrizi-ikhtiyarat، ج3 ص1382]."
+  - term: "مَحَالَةُ خُطَّافٍ"
+    text: "المَحالة: البَكْرة، سميت بذلك لأنها تُحيل الماء، أي تصبّه، والخُطّاف: الحديدة التي تدور عليها البكرة [@tabrizi-ikhtiyarat، ج3 ص1382–1383]."
+  - term: "تَصِرُّ"
+    text: "تصوّت، يريد صرير البكرة إذا دارت."
+sources:
+  - source: "mufaddaliyyat"
+    loc: "ص330"
+    url: "https://shamela.ws/book/6904/304"
+  - source: "tabrizi-ikhtiyarat"
+    loc: "ج3 ص1382"
+    url: "https://archive.org/details/3820pdf/page/n1390/mode/1up"
+  - source: "tabrizi-ikhtiyarat"
+    loc: "ج3 ص1382–1383"
+    url: "https://archive.org/details/3820pdf/page/n1390/mode/1up"
+status: "review"

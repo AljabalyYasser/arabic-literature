@@ -1,0 +1,16 @@
+explained: false
+first: "نَسُومُكُمُ الرَّشَادَ وَنَحْنُ قَوْمٌ"
+second: "لِتَارِكِ وُدِّنَا فِي الحَرْبِ ذَامُ"
+vocabulary:
+  - term: "نَسُومُكُمُ الرَّشَادَ"
+    text: "ندعوكم ونعرض عليكم ما فيه صلاح أمركم [@tabrizi-ikhtiyarat، ج3 ص1401]."
+  - term: "ذَامُ"
+    text: "الذّام: العيب، ويريد: نذمّ من ردّ حكمنا عليه [@tabrizi-ikhtiyarat، ج3 ص1401]."
+sources:
+  - source: "mufaddaliyyat"
+    loc: "ص335"
+    url: "https://shamela.ws/book/6904/309"
+  - source: "tabrizi-ikhtiyarat"
+    loc: "ج3 ص1401"
+    url: "https://archive.org/details/3820pdf/page/n1409/mode/1up"
+status: "review"

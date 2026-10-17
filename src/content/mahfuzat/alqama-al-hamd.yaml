@@ -1,0 +1,17 @@
+kind: "maqta"
+title: "والحمد لا يشترى إلا له ثمن"
+part: "1"
+order: 113
+person: "alqama"
+verses:
+  - "hal-ma-alimta/032"
+  - "hal-ma-alimta/033"
+meaning: "الثناء لا يُنال إلا بثمن مما يبخل به الناس، والجود يفني المال، والبخل يبقيه ويبقي معه الذمّ. يرويهما الجاحظ في قطعة من حكمة عَلْقَمة [@hayawan، ج7 ص87]."
+sources:
+  - source: "hayawan"
+    loc: "ج7 ص87"
+    url: "https://shamela.ws/book/23775/1631"
+  - source: "tabrizi-ikhtiyarat"
+    loc: "ج3 ص1616–1617"
+    url: "https://archive.org/details/3820pdf/page/n1624/mode/1up"
+status: "review"

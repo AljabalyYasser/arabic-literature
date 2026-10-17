@@ -1,0 +1,13 @@
+explained: false
+first: "فَأَصْبَحَتْ فِي غَدَاةٍ قِرَّةٍ"
+second: "يَسْقُطُ عَنْ رِيشِهَا الضَّرِيبُ"
+vocabulary:
+  - term: "قِرَّةٍ"
+    text: "باردة."
+  - term: "الضَّرِيبُ"
+    text: "الجليد [@tabrizi-ashr، ص332]."
+sources:
+  - source: "tabrizi-ashr"
+    loc: "ص332"
+    url: "https://shamela.ws/book/37488/331"
+status: "review"

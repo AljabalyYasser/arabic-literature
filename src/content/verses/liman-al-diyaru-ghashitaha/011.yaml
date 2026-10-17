@@ -1,0 +1,18 @@
+explained: false
+first: "نَعْلُو القَوَانِسَ بِالسُّيُوفِ وَنَعْتَزِي"
+second: "وَالخَيْلُ مُشْعَلَةُ النُّحُورِ مِنَ الدَّمِ"
+vocabulary:
+  - term: "القَوَانِسَ"
+    text: "جمع قَوْنَس، وهو أعلى البيضة من الحديد."
+  - term: "نَعْتَزِي"
+    text: "ينتسب كل منا إلى أبيه في القتال."
+  - term: "مُشْعَلَةُ النُّحُورِ"
+    text: "ملطّخة الصدور بالدماء السائلة عليها، وقيل: كأنما أُشعلت فيها نار [@tabrizi-ikhtiyarat، ج3 ص1448]."
+sources:
+  - source: "mufaddaliyyat"
+    loc: "ص347"
+    url: "https://shamela.ws/book/6904/321"
+  - source: "tabrizi-ikhtiyarat"
+    loc: "ج3 ص1448"
+    url: "https://archive.org/details/3820pdf/page/n1456/mode/1up"
+status: "review"

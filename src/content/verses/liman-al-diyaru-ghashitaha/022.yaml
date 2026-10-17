@@ -1,0 +1,16 @@
+explained: false
+first: "حَتَّى سَقَيْنَاهُمْ بِكَأْسٍ مُرَّةٍ"
+second: "مَكْرُوهَةٍ حَسَوَاتُهَا كَالعَلْقَمِ"
+vocabulary:
+  - term: "العَلْقَمِ"
+    text: "شجر مرّ [@tabrizi-ikhtiyarat، ج3 ص1453]."
+  - term: "حَسَوَاتُهَا"
+    text: "جُرَعها."
+sources:
+  - source: "mufaddaliyyat"
+    loc: "ص348"
+    url: "https://shamela.ws/book/6904/322"
+  - source: "tabrizi-ikhtiyarat"
+    loc: "ج3 ص1453"
+    url: "https://archive.org/details/3820pdf/page/n1461/mode/1up"
+status: "review"

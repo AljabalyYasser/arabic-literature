@@ -1,0 +1,15 @@
+explained: false
+first: "بَلْ رُبَّ مَاءٍ وَرَدْتُهُ آجِنٍ"
+second: "سَبِيلُهُ خَائِفٌ جَدِيبُ"
+vocabulary:
+  - term: "آجِنٍ"
+    text: "متغير [@tabrizi-ashr، ص329]."
+  - term: "خَائِفٌ"
+    text: "«أراد إنه مخُوف المسلك، وقد يقوم الفاعل مقام المفعول» [@tabrizi-ashr، ص329]."
+  - term: "جَدِيبُ"
+    text: "لا نبت فيه."
+sources:
+  - source: "tabrizi-ashr"
+    loc: "ص329"
+    url: "https://shamela.ws/book/37488/328"
+status: "review"

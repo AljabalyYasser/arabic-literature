@@ -1,0 +1,13 @@
+explained: false
+first: "أَوْ فَلَجٌ بِبَطْنِ وَادٍ"
+second: "لِلْمَاءِ مِنْ تَحْتِهِ قَسِيبُ"
+vocabulary:
+  - term: "فَلَجٌ"
+    text: "نهر صغير [@tabrizi-ashr، ص325]."
+  - term: "قَسِيبُ"
+    text: "صوت جري الماء [@tabrizi-ashr، ص325]."
+sources:
+  - source: "tabrizi-ashr"
+    loc: "ص325"
+    url: "https://shamela.ws/book/37488/324"
+status: "review"

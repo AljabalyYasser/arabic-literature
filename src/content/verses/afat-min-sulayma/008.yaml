@@ -1,0 +1,16 @@
+explained: false
+first: "أَجَبْنَا بَنِي سَعْدِ بْنِ ضَبَّةَ إِذْ دَعَوْا"
+second: "وَلِلَّهِ مَوْلَى دَعْوَةٍ لَا يُجِيبُهَا"
+vocabulary:
+  - term: "إِذْ دَعَوْا"
+    text: "حين استصرخوا [@tabrizi-ikhtiyarat، ج3 ص1385]."
+  - term: "وَلِلَّهِ مَوْلَى دَعْوَةٍ لَا يُجِيبُهَا"
+    text: "تعجّب وإنكار: لله مدعوٌّ ومستغاث به لا يُغيث ولا يجيب إذا دُعي، وهو هنا ذمّ. قال ابن الأعرابي: كانت ضَبّة دعت فأجابتها أَسَد، وهذا يوم النِّسار [@tabrizi-ikhtiyarat، ج3 ص1385]."
+sources:
+  - source: "mufaddaliyyat"
+    loc: "ص331"
+    url: "https://shamela.ws/book/6904/305"
+  - source: "tabrizi-ikhtiyarat"
+    loc: "ج3 ص1385"
+    url: "https://archive.org/details/3820pdf/page/n1393/mode/1up"
+status: "review"

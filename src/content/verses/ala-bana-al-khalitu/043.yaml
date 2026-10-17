@@ -1,0 +1,18 @@
+explained: false
+first: "بِكُلِّ قِيَادِ مُسْنَفَةٍ عَنُودٍ"
+second: "أَضَرَّ بِهَا المَسَالِحُ وَالغِوَارُ"
+vocabulary:
+  - term: "مُسْنَفَةٍ"
+    text: "روى أبو عبيدة «مُسْنَفة»، وهي التي يُشدّ لها السِّناف، وهو خيط يُشدّ من الحَقَب إلى التصدير إذا ضمرت لئلا يضطرب السرج [@tabrizi-ikhtiyarat، ج3 ص1434]."
+  - term: "عَنُودٍ"
+    text: "التي تعنُد عن الطريق لمرحها [@tabrizi-ikhtiyarat، ج3 ص1434]."
+  - term: "المَسَالِحُ وَالغِوَارُ"
+    text: "المسالح: المراقب والثغور، والغِوار: مصدر غاورت [@tabrizi-ikhtiyarat، ج3 ص1434]، أي المغاورة."
+sources:
+  - source: "mufaddaliyyat"
+    loc: "ص343"
+    url: "https://shamela.ws/book/6904/317"
+  - source: "tabrizi-ikhtiyarat"
+    loc: "ج3 ص1434"
+    url: "https://archive.org/details/3820pdf/page/n1442/mode/1up"
+status: "review"

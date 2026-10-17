@@ -1,0 +1,15 @@
+explained: false
+first: "وَاهِيَةٌ أَوْ مَعِينٌ مُمْعِنٌ"
+second: "مِنْ هَضْبَةٍ دُونَهَا لُهُوبُ"
+vocabulary:
+  - term: "وَاهِيَةٌ"
+    text: "بالية [@tabrizi-ashr، ص325]، يريد مزادة بالية."
+  - term: "مَعِينٌ مُمْعِنٌ"
+    text: "«المعين: الذي يأتي على وجه الأرض من الماء فلا يرده شيء، والممعن: المسرع» [@tabrizi-ashr، ص325]."
+  - term: "لُهُوبُ"
+    text: "«جمع لهب وهو شق في الجبل» [@tabrizi-ashr، ص325]، فالماء ينحدر من الهضبة إلى شقوق أسفلها فيكون أسرع."
+sources:
+  - source: "tabrizi-ashr"
+    loc: "ص325"
+    url: "https://shamela.ws/book/37488/324"
+status: "review"

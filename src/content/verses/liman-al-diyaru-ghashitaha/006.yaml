@@ -1,0 +1,18 @@
+explained: false
+first: "لَوْلَا تُسَلِّي الهَمَّ عَنْكَ بِجَسْرَةٍ"
+second: "عَيْرَانَةٍ مِثْلِ الفَنِيقِ المُكْدَمِ"
+vocabulary:
+  - term: "لَوْلَا"
+    text: "بمعنى هلّا، للحثّ والتحضيض [@tabrizi-ikhtiyarat، ج3 ص1446]."
+  - term: "جَسْرَةٍ"
+    text: "الناقة تجسُر على السير والهول فلا تقف [@tabrizi-ikhtiyarat، ج3 ص1446]."
+  - term: "المُكْدَمِ"
+    text: "الغليظ، وقيل: من الكَدْم، وهو العض [@tabrizi-ikhtiyarat، ج3 ص1446]."
+sources:
+  - source: "mufaddaliyyat"
+    loc: "ص346"
+    url: "https://shamela.ws/book/6904/320"
+  - source: "tabrizi-ikhtiyarat"
+    loc: "ج3 ص1446"
+    url: "https://archive.org/details/3820pdf/page/n1454/mode/1up"
+status: "review"

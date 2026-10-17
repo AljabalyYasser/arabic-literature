@@ -1,0 +1,19 @@
+explained: false
+first: "إِذَا خَرَجَتْ أَوَائِلُهُنَّ شُعْثًا"
+second: "مُجَلِّحَةً نَوَاصِيهَا قِيَامُ"
+vocabulary:
+  - term: "مُجَلِّحَةً"
+    text: "يقال: جلّح إذا حمل على العدو، والتجليح: التصميم في الأمر والذهاب فيه [@tabrizi-ikhtiyarat، ج3 ص1408]."
+  - term: "شُعْثًا"
+    text: "من الشَّعَث، وهو تنفّش الشعر، يريد أنهم لاشتغالهم لا يتفرغون لتفقّد الخيل [@tabrizi-ikhtiyarat، ج3 ص1408–1409]."
+sources:
+  - source: "mufaddaliyyat"
+    loc: "ص337"
+    url: "https://shamela.ws/book/6904/311"
+  - source: "tabrizi-ikhtiyarat"
+    loc: "ج3 ص1408"
+    url: "https://archive.org/details/3820pdf/page/n1416/mode/1up"
+  - source: "tabrizi-ikhtiyarat"
+    loc: "ج3 ص1408–1409"
+    url: "https://archive.org/details/3820pdf/page/n1416/mode/1up"
+status: "review"

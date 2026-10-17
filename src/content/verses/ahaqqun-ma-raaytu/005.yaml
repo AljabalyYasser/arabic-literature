@@ -1,0 +1,18 @@
+explained: false
+first: "لَيَالِيَ تَسْتَبِيكَ بِذِي غُرُوبٍ"
+second: "كَأَنَّ رُضَابَهُ وَهْنًا مُدَامُ"
+vocabulary:
+  - term: "تَسْتَبِيكَ"
+    text: "تذهب بعقلك فتصير كالسَّبْي لها [@tabrizi-ikhtiyarat، ج3 ص1395]."
+  - term: "بِذِي غُرُوبٍ"
+    text: "الغُروب: أُشُر في الأسنان، أي تفتنك بثغر ذي أُشُر [@tabrizi-ikhtiyarat، ج3 ص1395]، والأُشُر: تحزيز في أطراف الأسنان."
+  - term: "رُضَابَهُ وَهْنًا مُدَامُ"
+    text: "الرُّضاب: قطع الريق، والوَهْن: بعد ساعة من الليل، والمُدام: الخمر، شبّه بها فاها عند تغيّر الأفواه [@tabrizi-ikhtiyarat، ج3 ص1395]."
+sources:
+  - source: "mufaddaliyyat"
+    loc: "ص334"
+    url: "https://shamela.ws/book/6904/308"
+  - source: "tabrizi-ikhtiyarat"
+    loc: "ج3 ص1395"
+    url: "https://archive.org/details/3820pdf/page/n1403/mode/1up"
+status: "review"

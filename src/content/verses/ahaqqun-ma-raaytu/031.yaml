@@ -1,0 +1,18 @@
+explained: false
+first: "بِأَحْقِيهَا المُلَاءُ مُحَزَّمَاتٌ"
+second: "كَأَنَّ جِذَاعَهَا أُصُلًا جِلَامُ"
+vocabulary:
+  - term: "بِأَحْقِيهَا المُلَاءُ"
+    text: "الأحقي: جمع حَقْو، وهو معقد الإزار، والمُلاء: الأُزُر، جُعلت حُزُمًا لها لأنها ألقت أولادها [@tabrizi-ikhtiyarat، ج3 ص1409]."
+  - term: "أُصُلًا"
+    text: "عشيًّا، جمع أصيل [@tabrizi-ikhtiyarat، ج3 ص1409]."
+  - term: "جِلَامُ"
+    text: "الجِداء، شبّه أولادها بها لضمرها، وقيل: التيوس [@tabrizi-ikhtiyarat، ج3 ص1409]."
+sources:
+  - source: "mufaddaliyyat"
+    loc: "ص337"
+    url: "https://shamela.ws/book/6904/311"
+  - source: "tabrizi-ikhtiyarat"
+    loc: "ج3 ص1409"
+    url: "https://archive.org/details/3820pdf/page/n1417/mode/1up"
+status: "review"

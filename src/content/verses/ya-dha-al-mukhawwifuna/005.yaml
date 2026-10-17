@@ -1,0 +1,19 @@
+explained: false
+first: "نَحْمِي حَقِيقَتَنَا وَبَعْـ"
+second: "ـضُ القَوْمِ يَسْقُطُ بَيْنَ بَيْنَا"
+vocabulary:
+  - term: "حَقِيقَتَنَا"
+    text: "«مَا يَحِقّ عَلَيْهِ أَنْ يَحْمِيه» [@lisan، ج10 ص52]."
+  - term: "بَيْنَ بَيْنَا"
+    text: "«وَقَالُوا: بَين بَين، يُرِيدُونَ التَّوَسُّط كَمَا قَالَ عَبيد بْنُ الأَبرص» [@lisan، ج13 ص66]: فبعض القوم لا هو مع هؤلاء ولا مع أولئك."
+sources:
+  - source: "ibn-qutayba"
+    loc: "ج1 ص259"
+    url: "https://shamela.ws/book/23785/252"
+  - source: "lisan"
+    loc: "ج10 ص52"
+    url: "https://shamela.ws/book/1687/4722"
+  - source: "lisan"
+    loc: "ج13 ص66"
+    url: "https://shamela.ws/book/1687/6629"
+status: "review"

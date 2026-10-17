@@ -1,0 +1,16 @@
+explained: false
+first: "وَمَا تَسْعَى رِجَالُهُمُ وَلَكِنْ"
+second: "فُضُولُ الخَيْلِ مُلْجَمَةٌ صِيَامُ"
+vocabulary:
+  - term: "وَمَا تَسْعَى رِجَالُهُمُ"
+    text: "الساعي هنا: من يختلف في جمع مال الدية، يقول: إذا لزمتهم دية لم يختلف رجالهم في جمعها، ولكن يغزون فيصرفون إليها ما يغنمون [@tabrizi-ikhtiyarat، ج3 ص1405–1406]."
+  - term: "صِيَامُ"
+    text: "قائمة لا تعتلف، والصائم من الخيل: القائم الساكن."
+sources:
+  - source: "mufaddaliyyat"
+    loc: "ص336"
+    url: "https://shamela.ws/book/6904/310"
+  - source: "tabrizi-ikhtiyarat"
+    loc: "ج3 ص1405–1406"
+    url: "https://archive.org/details/3820pdf/page/n1413/mode/1up"
+status: "review"

@@ -1,0 +1,20 @@
+explained: false
+first: "تَؤُمُّ بِهَا الحُدَاةُ مِيَاهَ نَخْلٍ"
+second: "وَفِيهَا عَنْ أَبَانَيْنِ ازْوِرَارُ"
+vocabulary:
+  - term: "تَؤُمُّ"
+    text: "تقصد."
+  - term: "نَخْلٍ"
+    text: "موضع بنجد."
+  - term: "أَبَانَيْنِ"
+    text: "جبلان، أبان الأسود وأبان الأحمر، وهو معرفة وإن كان مثنى [@tabrizi-ikhtiyarat، ج3 ص1416]."
+  - term: "ازْوِرَارُ"
+    text: "ميل وانحراف."
+sources:
+  - source: "mufaddaliyyat"
+    loc: "ص338"
+    url: "https://shamela.ws/book/6904/312"
+  - source: "tabrizi-ikhtiyarat"
+    loc: "ج3 ص1416"
+    url: "https://archive.org/details/3820pdf/page/n1424/mode/1up"
+status: "review"

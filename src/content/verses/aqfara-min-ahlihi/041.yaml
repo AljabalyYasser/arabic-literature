@@ -1,0 +1,16 @@
+explained: false
+first: "فَنَفَضَتْ رِيشَهَا وَوَلَّتْ"
+second: "فَذَاكَ مِنْ نَهْضَةٍ قَرِيبُ"
+vocabulary:
+  - term: "فَنَفَضَتْ رِيشَهَا"
+    text: "«نفضت الجليد عن ريشها» [@tabrizi-ashr، ص332]."
+  - term: "فَذَاكَ مِنْ نَهْضَةٍ قَرِيبُ"
+    text: "«النهضة: الطيران» [@tabrizi-ashr، ص332]، و«هي قريب أن تنهض إذا ما رأت صيدها» [@tabrizi-ashr، ص333]."
+sources:
+  - source: "tabrizi-ashr"
+    loc: "ص332"
+    url: "https://shamela.ws/book/37488/331"
+  - source: "tabrizi-ashr"
+    loc: "ص333"
+    url: "https://shamela.ws/book/37488/332"
+status: "review"

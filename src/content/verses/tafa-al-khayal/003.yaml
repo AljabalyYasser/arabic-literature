@@ -1,0 +1,15 @@
+explained: false
+first: "يُطَوِّفُونَ الفَلَا فِي كُلِّ هَاجِرَةٍ"
+second: "مِثْلَ الفَنِيقِ إِذَا مَا حَثَّهُ الحَادِي"
+vocabulary:
+  - term: "يُطَوِّفُونَ"
+    text: "من «طوّف: مُبَالغَة طَاف» [@khizana، ج11 ص257]."
+  - term: "هَاجِرَةٍ"
+    text: "نصف النهار عند اشتداد الحر."
+  - term: "الفَنِيقِ"
+    text: "«الْفَحْل المكرم من الْإِبِل» [@khizana، ج11 ص257]."
+sources:
+  - source: "khizana"
+    loc: "ج11 ص257"
+    url: "https://shamela.ws/book/12732/5448"
+status: "review"

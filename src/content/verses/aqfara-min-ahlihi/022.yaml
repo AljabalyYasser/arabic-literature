@@ -1,0 +1,16 @@
+explained: false
+first: "لَا يَعِظُ النَّاسُ مَنْ لَا يَعِظِ الدْـ"
+second: "ـدَهْرُ وَلَا يَنْفَعُ التَّلْبِيبُ"
+vocabulary:
+  - term: "لَا يَعِظُ النَّاسُ مَنْ لَا يَعِظِ الدَّهْرُ"
+    text: "«من لم يتَّعظ بالدهر فإن الناس لا يقدرون على عظته» [@tabrizi-ashr، ص328]."
+  - term: "التَّلْبِيبُ"
+    text: "«تكلف اللُّب من غير طباع ولا غريزة» [@tabrizi-ashr، ص328]."
+sources:
+  - source: "tabrizi-ashr"
+    loc: "ص327"
+    url: "https://shamela.ws/book/37488/326"
+  - source: "tabrizi-ashr"
+    loc: "ص328"
+    url: "https://shamela.ws/book/37488/327"
+status: "review"

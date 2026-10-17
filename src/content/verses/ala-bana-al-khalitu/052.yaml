@@ -1,0 +1,16 @@
+explained: false
+first: "يُضَمَّرُ بِالأَصَائِلِ فَهْوَ نَهْدٌ"
+second: "أَقَبُّ مُقَلِّصٌ فِيهِ اقْوِرَارُ"
+vocabulary:
+  - term: "أَقَبُّ مُقَلِّصٌ"
+    text: "الأقبّ: الضامر، والمقلِّص: المشرف [@tabrizi-ikhtiyarat، ج3 ص1440]."
+  - term: "نَهْدٌ ... اقْوِرَارُ"
+    text: "النَّهد: الضخم، والاقورار: الضُّمر [@tabrizi-ikhtiyarat، ج3 ص1440]."
+sources:
+  - source: "mufaddaliyyat"
+    loc: "ص344"
+    url: "https://shamela.ws/book/6904/318"
+  - source: "tabrizi-ikhtiyarat"
+    loc: "ج3 ص1440"
+    url: "https://archive.org/details/3820pdf/page/n1448/mode/1up"
+status: "review"

@@ -1,0 +1,17 @@
+kind: "maqta"
+title: "بصير بأدواء النساء طبيب"
+part: "1"
+order: 111
+person: "alqama"
+verses:
+  - "taha-bika/008"
+  - "taha-bika/009"
+meaning: "حكمة عَلْقَمة في النساء: هو العارف بهن، ولا نصيب في ودّهن لمن شاب رأسه أو قلّ ماله. اختارها ابن قُتَيْبة فقال: «ومن جيّد قوله» [@ibn-qutayba، ج1 ص213]، وعاد إليها في آخر ترجمته فيما «يستجاد له» [@ibn-qutayba، ج1 ص216]."
+sources:
+  - source: "ibn-qutayba"
+    loc: "ج1 ص213"
+    url: "https://shamela.ws/book/23785/206"
+  - source: "ibn-qutayba"
+    loc: "ج1 ص216"
+    url: "https://shamela.ws/book/23785/209"
+status: "review"

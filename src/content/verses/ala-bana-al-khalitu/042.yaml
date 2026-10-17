@@ -1,0 +1,16 @@
+explained: false
+first: "كَفَيْنَا مَنْ تَغَيَّبَ وَاسْتَبَحْنَا"
+second: "سَنَامَ الأَرْضِ إِذْ قَحِطَ القِطَارُ"
+vocabulary:
+  - term: "سَنَامَ الأَرْضِ"
+    text: "خير بقاعها، حين عمّ الناس الجدب [@tabrizi-ikhtiyarat، ج3 ص1434]."
+  - term: "قَحِطَ القِطَارُ"
+    text: "احتبس المطر."
+sources:
+  - source: "mufaddaliyyat"
+    loc: "ص343"
+    url: "https://shamela.ws/book/6904/317"
+  - source: "tabrizi-ikhtiyarat"
+    loc: "ج3 ص1434"
+    url: "https://archive.org/details/3820pdf/page/n1442/mode/1up"
+status: "review"

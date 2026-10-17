@@ -1,0 +1,16 @@
+explained: false
+first: "تَغَالَى نَبْتُهُ وَاعْتَمَّ حَتَّى"
+second: "كَأَنَّ مَنَابِتَ العَلَجَانِ شَامُ"
+vocabulary:
+  - term: "العَلَجَانِ"
+    text: "نبت يرقّ منبته [@tabrizi-ikhtiyarat، ج3 ص1404]."
+  - term: "شَامُ"
+    text: "جمع شامة، يقول: التفّ نبته حتى اسودت الأرض به واخضرّت، فصارت منابت العلجان على رقّتها كأنها مواضع سُوّدت بالنار والرماد [@tabrizi-ikhtiyarat، ج3 ص1404]."
+sources:
+  - source: "mufaddaliyyat"
+    loc: "ص336"
+    url: "https://shamela.ws/book/6904/310"
+  - source: "tabrizi-ikhtiyarat"
+    loc: "ج3 ص1404"
+    url: "https://archive.org/details/3820pdf/page/n1412/mode/1up"
+status: "review"

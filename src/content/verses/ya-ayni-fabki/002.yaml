@@ -1,0 +1,18 @@
+explained: false
+first: "أَهْلُ القِبَابِ الحُمْرِ وَالنْـ"
+second: "ـنَعَمِ المُؤَبَّلِ وَالمُدَامَهْ"
+vocabulary:
+  - term: "القِبَابِ الحُمْرِ"
+    text: "قباب الأَدَم، وكانت للسادة وأهل الثروة."
+  - term: "المُؤَبَّلِ"
+    text: "الإبل المؤبّلة: «الْمُتَّخَذَةُ للقِنْية» [@lisan، ج11 ص5]."
+  - term: "المُدَامَهْ"
+    text: "الخمر."
+sources:
+  - source: "ibn-qutayba"
+    loc: "ج1 ص107"
+    url: "https://shamela.ws/book/23785/100"
+  - source: "lisan"
+    loc: "ج11 ص5"
+    url: "https://shamela.ws/book/1687/5187"
+status: "review"

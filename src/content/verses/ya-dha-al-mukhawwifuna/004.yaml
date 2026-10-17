@@ -1,0 +1,18 @@
+explained: false
+first: "إِنَّا إِذَا عَضَّ الثِّقَا"
+second: "فُ بِرَأْسِ صَعْدَتِنَا لَوَيْنَا"
+vocabulary:
+  - term: "الثِّقَافُ"
+    text: "«خَشَبَةٌ تسوَّى بِهَا الرِّمَاحُ» [@lisan، ج9 ص20]."
+  - term: "صَعْدَتِنَا"
+    text: "الصَّعْدة: القناة المستوية."
+  - term: "لَوَيْنَا"
+    text: "التوينا على الثقاف فلم نستقم له: إذا أراد أحد أن يقوّمنا بالقهر أبينا."
+sources:
+  - source: "ibn-qutayba"
+    loc: "ج1 ص259"
+    url: "https://shamela.ws/book/23785/252"
+  - source: "lisan"
+    loc: "ج9 ص20"
+    url: "https://shamela.ws/book/1687/4327"
+status: "review"

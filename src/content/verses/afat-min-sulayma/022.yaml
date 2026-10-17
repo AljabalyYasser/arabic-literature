@@ -1,0 +1,16 @@
+explained: false
+first: "دَعُوا مَنْبِتَ السِّيفَيْنِ إِنَّهُمَا لَنَا"
+second: "إِذَا مُضَرُ الحَمْرَاءُ شُبَّتْ حُرُوبُهَا"
+vocabulary:
+  - term: "مَنْبِتَ السِّيفَيْنِ"
+    text: "السِّيف: ساحل البحر [@tabrizi-ikhtiyarat، ج3 ص1392]."
+  - term: "مُضَرُ الحَمْرَاءُ"
+    text: "«الحمراء» لقب لمُضَر، لأنها ورثت عن أبيها القبّة الحمراء، كما قيل لربيعة لما ورثت الخيل: ربيعة الفرس [@tabrizi-ikhtiyarat، ج3 ص1392]."
+sources:
+  - source: "mufaddaliyyat"
+    loc: "ص333"
+    url: "https://shamela.ws/book/6904/307"
+  - source: "tabrizi-ikhtiyarat"
+    loc: "ج3 ص1392"
+    url: "https://archive.org/details/3820pdf/page/n1400/mode/1up"
+status: "review"
