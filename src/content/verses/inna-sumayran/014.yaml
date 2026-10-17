@@ -1,0 +1,16 @@
+explained: false
+first: "يَمْشُونَ مَشْيَ الأُسُودِ فِي رَهَجِ الْـ"
+second: "ـمَوْتِ إِلَيْهِ وَكُلُّهُمْ لَهِفُ"
+vocabulary:
+  - term: "رَهَجِ"
+    text: "يقول محققو «الأغاني»: «الرهج: الغبار» [@aghani-dk، ج3 ص20، الحاشية]."
+  - term: "لَهِفُ"
+    text: "متحرّق إلى القتال."
+sources:
+  - source: "jamhara"
+    loc: "ص505"
+    url: "https://shamela.ws/book/1487/454"
+  - source: "aghani-dk"
+    loc: "ج3 ص20، الحاشية"
+    url: "https://archive.org/details/aghani2014/3/page/n23/mode/1up"
+status: "review"

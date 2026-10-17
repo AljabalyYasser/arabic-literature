@@ -1,0 +1,13 @@
+explained: false
+first: "أَلَا حَيِّ قَبْلَ الْبَيْنِ مَنْ أَنْتَ عَاشِقُهْ"
+second: "وَمَنْ أَنْتَ مُشْتَاقٌ إِلَيْهِ وَشَائِقُهْ"
+vocabulary:
+  - term: "الْبَيْنِ"
+    text: "الفراق والبعد."
+  - term: "شَائِقُهْ"
+    text: "الذي يشوقك ويشتاق إليك."
+sources:
+  - source: "tabrizi-hamasa"
+    loc: "ج2 ص347"
+    url: "https://shamela.ws/book/6907/794"
+status: "review"

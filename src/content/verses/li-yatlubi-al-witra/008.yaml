@@ -1,0 +1,13 @@
+explained: false
+first: "أَرْسَلْتَ أُسْدًا عَلَى سُودِ الْكِلَابِ فَقَدْ"
+second: "أَضْحَى شَرِيدُهُمُ فِي الْأَرْضِ فُلَّالَا"
+vocabulary:
+  - term: "سُودِ الْكِلَابِ"
+    text: "يعني الحبشة."
+  - term: "فُلََّالَا"
+    text: "منهزمين [@ibn-hisham، ج1 ص66]."
+sources:
+  - source: "ibn-hisham"
+    loc: "ج1 ص66"
+    url: "https://shamela.ws/book/23833/89"
+status: "review"

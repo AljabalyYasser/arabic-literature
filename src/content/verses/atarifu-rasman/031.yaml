@@ -1,0 +1,13 @@
+explained: false
+first: "أَتَتْ عُصْبَةٌ لِلْأَوْسِ تَخْطِرُ بِالقَنَا"
+second: "كَمَشْيِ الأُسُودِ فِي رَشَاشِ الأَهَاضِبِ"
+vocabulary:
+  - term: "تَخْطِرُ بِالقَنَا"
+    text: "تهزّ الرماح في مشيها تبخترًا."
+  - term: "الأَهَاضِبِ"
+    text: "دفعات المطر."
+sources:
+  - source: "jamhara"
+    loc: "ص513"
+    url: "https://shamela.ws/book/1487/462"
+status: "review"

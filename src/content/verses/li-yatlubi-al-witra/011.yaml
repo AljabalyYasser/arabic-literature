@@ -1,0 +1,18 @@
+explained: false
+first: "تِلْكَ الْمَكَارِمُ لَا قَعْبَانِ مِنْ لَبَنٍ"
+second: "شِيبَا بِمَاءٍ فَعَادَا بَعْدُ أَبْوَالَا"
+vocabulary:
+  - term: "قَعْبَانِ"
+    text: "تثنية قَعْب، وهو قدح يُحلب فيه [@ibn-hisham، ج1 ص66]."
+  - term: "شِيبَا"
+    text: "خُلطا، «وشيبا: معناه خلطا» [@aghani-dk، ج17 ص302]."
+  - term: "أَبْوَالَا"
+    text: "بولًا. يقول: هذه هي المكارم، لا أن تسقي ضيفك قدحين من لبن ممزوج بالماء."
+sources:
+  - source: "ibn-hisham"
+    loc: "ج1 ص66"
+    url: "https://shamela.ws/book/23833/89"
+  - source: "aghani-dk"
+    loc: "ج17 ص302"
+    url: "https://archive.org/details/aghani2014/17/page/n306/mode/1up"
+status: "review"

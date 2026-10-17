@@ -1,0 +1,18 @@
+explained: false
+first: "حَتَّى تَجَلَّتْ وَلَنَا غَايَةٌ"
+second: "مِنْ بَيْنِ جَمْعٍ غَيْرِ جُمَّاعِ"
+vocabulary:
+  - term: "تَجَلَّتْ"
+    text: "انكشفت المعركة."
+  - term: "غَايَةٌ"
+    text: "«والغاية والراية واحد» [@tabrizi-ikhtiyarat، ج3 ص1241]."
+  - term: "جَمْعٍ غَيْرِ جُمَّاعِ"
+    text: "جمع من قبيلة واحدة لا أخلاط من الناس: «ذلك الجمع كله منا، لم نستعن بأحد غيرنا» [@tabrizi-ikhtiyarat، ج3 ص1241]."
+sources:
+  - source: "mufaddaliyyat"
+    loc: "ص285"
+    url: "https://shamela.ws/book/6904/259"
+  - source: "tabrizi-ikhtiyarat"
+    loc: "ج3 ص1241"
+    url: "https://archive.org/details/3820pdf/page/n1249/mode/1up"
+status: "review"

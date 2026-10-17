@@ -1,0 +1,23 @@
+explained: false
+first: "نَذُودُهُمْ عَنَّا بِمُسْتَنَّةٍ"
+second: "ذَاتِ عَرَانِينَ وَدُفَّاعِ"
+vocabulary:
+  - term: "نَذُودُهُمْ"
+    text: "«ندفعهم ونمنعهم» [@tabrizi-ikhtiyarat، ج3 ص1240]."
+  - term: "بِمُسْتَنَّةٍ"
+    text: "«الكتيبة. وأصل الاستنان: النشاط» [@tabrizi-ikhtiyarat، ج3 ص1240]."
+  - term: "عَرَانِينَ"
+    text: "سادة متقدمون في الفضل والشجاعة."
+  - term: "دُفَّاعِ"
+    text: "جمع دافع، وهم الذين يدفعون الأعداء."
+sources:
+  - source: "mufaddaliyyat"
+    loc: "ص285"
+    url: "https://shamela.ws/book/6904/259"
+  - source: "tabrizi-ikhtiyarat"
+    loc: "ج3 ص1240"
+    url: "https://archive.org/details/3820pdf/page/n1248/mode/1up"
+  - source: "tabrizi-ikhtiyarat"
+    loc: "ج3 ص1241"
+    url: "https://archive.org/details/3820pdf/page/n1249/mode/1up"
+status: "review"

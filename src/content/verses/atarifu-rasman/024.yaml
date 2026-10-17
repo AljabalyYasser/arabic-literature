@@ -1,0 +1,17 @@
+explained: false
+first: "طَرَرْنَاكُمُ بِالبِيضِ حَتَّى لَأَنْتُمُ"
+second: "أَذَلُّ مِنَ السُّقْبَانِ بَيْنَ الحَلَائِبِ"
+vocabulary:
+  - term: "طَرَرْنَاكُمُ"
+    text: "طردناكم."
+  - term: "بِالبِيضِ"
+    text: "بالسيوف."
+  - term: "السُّقْبَانِ"
+    text: "جمع سَقْب، وهو ولد الناقة الذكر."
+  - term: "الحَلَائِبِ"
+    text: "النوق ذوات اللبن."
+sources:
+  - source: "jamhara"
+    loc: "ص512"
+    url: "https://shamela.ws/book/1487/461"
+status: "review"

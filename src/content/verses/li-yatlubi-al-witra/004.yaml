@@ -1,0 +1,18 @@
+explained: false
+first: "حَتََّى أَتَى بِبَنِي الْأَحْرَارِ يَحْمِلُهُمْ"
+second: "إِنَّكَ عَمْرِي لَقَدْ أَسْرَعْتَ قِلْقَالَا"
+vocabulary:
+  - term: "بِبَنِي الْأَحْرَارِ"
+    text: "الفرس، و«بنو الأحرار الذين عناهم أمية في شعره هم الفرس الذين قدموا مع سيف بن ذي يزن» [@aghani-dk، ج17 ص313]."
+  - term: "عَمْرِي"
+    text: "لَعَمري، قسم بالحياة."
+  - term: "قِلْقَالَا"
+    text: "شدة حركة واضطراب، كما يفسّره محققو السيرة [@ibn-hisham، ج1 ص65]."
+sources:
+  - source: "ibn-hisham"
+    loc: "ج1 ص65"
+    url: "https://shamela.ws/book/23833/88"
+  - source: "aghani-dk"
+    loc: "ج17 ص313"
+    url: "https://archive.org/details/aghani2014/17/page/n317/mode/1up"
+status: "review"

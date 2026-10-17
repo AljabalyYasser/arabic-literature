@@ -1,0 +1,18 @@
+explained: false
+first: "بَزُّ امْرِئٍ مُسْتَبْسِلٍ حَاذِرٍ"
+second: "لِلدَّهْرِ جَلْدٍ غَيْرِ مِجْزَاعِ"
+vocabulary:
+  - term: "بَزُّ"
+    text: "سلاح."
+  - term: "مُسْتَبْسِلٍ"
+    text: "«الموطّن نفسه على الهلكة» [@tabrizi-ikhtiyarat، ج3 ص1238]."
+  - term: "مِجْزَاعِ"
+    text: "كثير الجزع."
+sources:
+  - source: "mufaddaliyyat"
+    loc: "ص285"
+    url: "https://shamela.ws/book/6904/259"
+  - source: "tabrizi-ikhtiyarat"
+    loc: "ج3 ص1238"
+    url: "https://archive.org/details/3820pdf/page/n1246/mode/1up"
+status: "review"

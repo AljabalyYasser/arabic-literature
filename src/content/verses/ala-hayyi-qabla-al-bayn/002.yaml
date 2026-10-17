@@ -1,0 +1,16 @@
+explained: false
+first: "وَمَنْ لَا تُوَاتِي دَارُهُ غَيْرَ فَيْنَةٍ"
+second: "وَمَنْ أَنْتَ تَبْكِي كُلَّ يَوْمٍ يُفَارِقُهْ"
+vocabulary:
+  - term: "تُوَاتِي"
+    text: "توافق، أي لا تجتمع داره بدارك."
+  - term: "فَيْنَةٍ"
+    text: "«الفَيْنةُ: الحينُ» [@lisan، ج13 ص329]، أي إلا ساعة بعد ساعة."
+sources:
+  - source: "tabrizi-hamasa"
+    loc: "ج2 ص348"
+    url: "https://shamela.ws/book/6907/795"
+  - source: "lisan"
+    loc: "ج13 ص329"
+    url: "https://shamela.ws/book/1687/6890"
+status: "review"

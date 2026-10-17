@@ -1,0 +1,21 @@
+explained: false
+first: "قَالَتْ وَلَمْ تَقْصِدْ لِقِيلِ الخَنَا"
+second: "مَهْلًا فَقَدْ أَبْلَغْتَ إِسْمَاعِي"
+vocabulary:
+  - term: "الخَنَا"
+    text: "«الكلام الفاسد» [@tabrizi-ikhtiyarat، ج3 ص1234]، أي الفحش."
+  - term: "مَهْلًا"
+    text: "«زجر» [@tabrizi-ikhtiyarat، ج3 ص1234]، أي كفّ."
+  - term: "فَقَدْ أَبْلَغْتَ إِسْمَاعِي"
+    text: "أي: «بالغت في إبلاغي ما أكرهه، فكفّني» [@tabrizi-ikhtiyarat، ج3 ص1235]."
+sources:
+  - source: "mufaddaliyyat"
+    loc: "ص284"
+    url: "https://shamela.ws/book/6904/258"
+  - source: "tabrizi-ikhtiyarat"
+    loc: "ج3 ص1234"
+    url: "https://archive.org/details/3820pdf/page/n1242/mode/1up"
+  - source: "tabrizi-ikhtiyarat"
+    loc: "ج3 ص1235"
+    url: "https://archive.org/details/3820pdf/page/n1243/mode/1up"
+status: "review"

@@ -1,0 +1,18 @@
+explained: false
+first: "كَأَنَّ أَطْرَافَ وَلِيَّاتِهَا"
+second: "فِي شَمْأَلٍ حَصَّاءَ زَعْزَاعِ"
+vocabulary:
+  - term: "وَلِيَّاتِهَا"
+    text: "جمع وَلِيّة، وهي «البرذعة» [@tabrizi-ikhtiyarat، ج3 ص1244]."
+  - term: "شَمْأَلٍ"
+    text: "ريح الشمال."
+  - term: "حَصَّاءَ زَعْزَاعِ"
+    text: "«شديدة الهبوب، كأنها تطيّر ما تمر به» [@tabrizi-ikhtiyarat، ج3 ص1244]، مزعزعة. يريد شدة سير الناقة."
+sources:
+  - source: "mufaddaliyyat"
+    loc: "ص286"
+    url: "https://shamela.ws/book/6904/260"
+  - source: "tabrizi-ikhtiyarat"
+    loc: "ج3 ص1244"
+    url: "https://archive.org/details/3820pdf/page/n1252/mode/1up"
+status: "review"

@@ -1,0 +1,16 @@
+explained: false
+first: "وَدَارِي فِي مَحَلِّهِمُ وَنَصْرِي"
+second: "إِذَا نَزَلَ الأَلَدُّ المُسْتَمِيتُ"
+vocabulary:
+  - term: "الأَلَدُّ"
+    text: "الخصم الشديد الجدل الذي لا يميل إلى الحق، كما يفسّره المحققان [@asmaiyyat، ص84، الحاشية]."
+  - term: "المُسْتَمِيتُ"
+    text: "الذي وطّن نفسه على الموت."
+sources:
+  - source: "asmaiyyat"
+    loc: "ص84"
+    url: "https://shamela.ws/book/6905/70"
+  - source: "asmaiyyat"
+    loc: "ص84، الحاشية"
+    url: "https://shamela.ws/book/6905/70"
+status: "review"

@@ -1,0 +1,16 @@
+explained: false
+first: "وَأَضْرِبُ القَوْنَسَ يَوْمَ الوَغَى"
+second: "بِالسَّيْفِ لَمْ يَقْصُرْ بِهِ بَاعِي"
+vocabulary:
+  - term: "القَوْنَسَ"
+    text: "أعلى بيضة الحديد، أي رأس المقاتل."
+  - term: "لَمْ يَقْصُرْ بِهِ بَاعِي"
+    text: "لم يقصر ذراعي عن بلوغ ما أريد بالسيف. والباع: مدّ الذراعين."
+sources:
+  - source: "mufaddaliyyat"
+    loc: "ص286"
+    url: "https://shamela.ws/book/6904/260"
+  - source: "tabrizi-ikhtiyarat"
+    loc: "ج3 ص1242"
+    url: "https://archive.org/details/3820pdf/page/n1250/mode/1up"
+status: "review"

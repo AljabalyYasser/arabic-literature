@@ -1,0 +1,20 @@
+explained: false
+first: "وَأَقْطَعُ الخَرْقَ يُخَافُ الرَّدَى"
+second: "فِيهِ عَلَى أَدْمَاءَ هِلْوَاعِ"
+vocabulary:
+  - term: "الخَرْقَ"
+    text: "«المتسع من الأرض الذي تتخرق فيه الرياح» [@tabrizi-ikhtiyarat، ج3 ص1243]."
+  - term: "الرَّدَى"
+    text: "الهلاك."
+  - term: "أَدْمَاءَ"
+    text: "«البيضاء. يريد: ناقة» [@tabrizi-ikhtiyarat، ج3 ص1243]."
+  - term: "هِلْوَاعِ"
+    text: "«السريعة الشديدة الحرص على السير» [@tabrizi-ikhtiyarat، ج3 ص1243]."
+sources:
+  - source: "mufaddaliyyat"
+    loc: "ص286"
+    url: "https://shamela.ws/book/6904/260"
+  - source: "tabrizi-ikhtiyarat"
+    loc: "ج3 ص1243"
+    url: "https://archive.org/details/3820pdf/page/n1251/mode/1up"
+status: "review"

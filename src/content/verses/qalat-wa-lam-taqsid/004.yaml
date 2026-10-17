@@ -1,0 +1,21 @@
+explained: false
+first: "قَدْ حَصَّتِ البَيْضَةُ رَأْسِي فَمَا"
+second: "أَطْعَمُ غُمْضًا غَيْرَ تَهْجَاعِ"
+vocabulary:
+  - term: "حَصَّتِ البَيْضَةُ رَأْسِي"
+    text: "يقول محققو «الأغاني»: «حصت: أذهبت الشعر من رأسه. والبيضة هنا: الخوذة» [@aghani-dk، ج17 ص116، الحاشية]."
+  - term: "غُمْضًا"
+    text: "نومًا. وفي «الأغاني» وعند التِّبْرِيزِيّ «نومًا»."
+  - term: "تَهْجَاعِ"
+    text: "نوم خفيف قليل."
+sources:
+  - source: "mufaddaliyyat"
+    loc: "ص284"
+    url: "https://shamela.ws/book/6904/258"
+  - source: "aghani-dk"
+    loc: "ج17 ص116، الحاشية"
+    url: "https://archive.org/details/aghani2014/17/page/n120/mode/1up"
+  - source: "tabrizi-ikhtiyarat"
+    loc: "ج3 ص1236"
+    url: "https://archive.org/details/3820pdf/page/n1244/mode/1up"
+status: "review"

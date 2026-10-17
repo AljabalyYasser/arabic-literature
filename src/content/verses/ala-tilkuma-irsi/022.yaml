@@ -1,0 +1,17 @@
+explained: false
+first: "لَهُ أَلْيَةٌ كَأَنَّهَا شَطُّ نَاقَةٍ"
+second: "أَبَحُّ إِذَا مَا مُسَّ أَبْهَرُهُ نَحَمْ"
+vocabulary:
+  - term: "أَلْيَةٌ"
+    text: "ذَنَب الكبش السمين."
+  - term: "شَطُّ نَاقَةٍ"
+    text: "شطر سنامها [@asmaiyyat، ص160]."
+  - term: "أَبْهَرُهُ"
+    text: "الأبهر عرق إذا انقطع مات صاحبه [@asmaiyyat، ص160]."
+  - term: "نَحَمْ"
+    text: "أخرج صوتًا من جوفه، من النحيم [@asmaiyyat، ص160]."
+sources:
+  - source: "asmaiyyat"
+    loc: "ص160"
+    url: "https://shamela.ws/book/6905/146"
+status: "review"

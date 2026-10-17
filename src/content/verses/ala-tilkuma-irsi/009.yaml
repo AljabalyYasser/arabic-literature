@@ -1,0 +1,13 @@
+explained: false
+first: "أَمِنْ أَجْلِ كَبْشٍ لَمْ يَكُنْ عِنْدَ قَرْيَةٍ"
+second: "وَلَا عِنْدَ أَذْوَادٍ رِتَاعٍ وَلَا غَنَمْ"
+vocabulary:
+  - term: "أَذْوَادٍ"
+    text: "جمع ذَوْد، وهو الجماعة من الإبل نحو العشرة [@asmaiyyat، ص158]."
+  - term: "رِتَاعٍ"
+    text: "ترعى في الخِصب والسعة [@asmaiyyat، ص158]. يقول: كبش سائب لا يرعاه أحد في قرية ولا مع إبل ولا غنم."
+sources:
+  - source: "asmaiyyat"
+    loc: "ص158"
+    url: "https://shamela.ws/book/6905/144"
+status: "review"

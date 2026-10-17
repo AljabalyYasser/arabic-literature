@@ -1,0 +1,17 @@
+explained: false
+first: "وَرُحْنَا عَلَى الْعِبْءِ الْمُعَلَّقِ شِلْوُهُ"
+second: "وَأَكْرُعُهُ وَالرَّأْسُ لِلذِّئْبِ وَالرَّخَمْ"
+vocabulary:
+  - term: "الْعِبْءِ"
+    text: "العِدل يوضع على الدابة [@asmaiyyat، ص160]."
+  - term: "شِلْوُهُ"
+    text: "جسده [@asmaiyyat، ص160]."
+  - term: "أَكْرُعُهُ"
+    text: "قوائمه."
+  - term: "الرَّخَمْ"
+    text: "طير يأكل الجيف."
+sources:
+  - source: "asmaiyyat"
+    loc: "ص160"
+    url: "https://shamela.ws/book/6905/146"
+status: "review"

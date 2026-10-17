@@ -1,0 +1,13 @@
+explained: false
+first: "يُجَرَّدْنَ بِيضًا كُلَّ يَوْمِ كَرِيهَةٍ"
+second: "وَيُغْمَدْنَ حُمْرًا خَاضِبَاتِ المَضَارِبِ"
+vocabulary:
+  - term: "يَوْمِ كَرِيهَةٍ"
+    text: "يوم حرب."
+  - term: "خَاضِبَاتِ المَضَارِبِ"
+    text: "مصبوغة الحدود بالدم."
+sources:
+  - source: "jamhara"
+    loc: "ص512"
+    url: "https://shamela.ws/book/1487/461"
+status: "review"

@@ -1,0 +1,18 @@
+explained: false
+first: "أَعْدَدْتُ لِلْأَعْدَاءِ مَوْضُونَةً"
+second: "فَضْفَاضَةً كَالنِّهْيِ بِالقَاعِ"
+vocabulary:
+  - term: "مَوْضُونَةً"
+    text: "درعًا «نسجت حلقتين حلقتين» [@tabrizi-ikhtiyarat، ج3 ص1237]."
+  - term: "فَضْفَاضَةً"
+    text: "«الواسعة من الدروع» [@tabrizi-ikhtiyarat، ج3 ص1237]."
+  - term: "كَالنِّهْيِ بِالقَاعِ"
+    text: "كالغدير في الأرض المستوية، يلمع ويتموّج."
+sources:
+  - source: "mufaddaliyyat"
+    loc: "ص284"
+    url: "https://shamela.ws/book/6904/258"
+  - source: "tabrizi-ikhtiyarat"
+    loc: "ج3 ص1237"
+    url: "https://archive.org/details/3820pdf/page/n1245/mode/1up"
+status: "review"

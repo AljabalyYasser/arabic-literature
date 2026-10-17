@@ -1,0 +1,14 @@
+explained: false
+first: "لَكِنْ مَوَالِيَّ قَدْ بَدَا لَهُمُ"
+second: "رَأْيٌ سِوَى مَا لَدَيَّ أَوْ ضَعُفُوا"
+vocabulary:
+  - term: "مَوَالِيَّ"
+    text: "بنو عمي، يعني بني الحارِث بن الخزرج الذين خذلوه."
+sources:
+  - source: "jamhara"
+    loc: "ص503"
+    url: "https://shamela.ws/book/1487/452"
+  - source: "aghani-dk"
+    loc: "ج3 ص20"
+    url: "https://archive.org/details/aghani2014/3/page/n23/mode/1up"
+status: "review"

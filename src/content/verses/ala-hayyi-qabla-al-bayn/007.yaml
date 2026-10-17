@@ -1,0 +1,15 @@
+explained: false
+first: "أَكُلُّ خَمِيسٍ أَخْطَأَ الْغُنْمَ مَرَّةً"
+second: "وَصَادَفَ حَيًَّا دَانِيًا هُوَ سَائِقُهْ"
+vocabulary:
+  - term: "خَمِيسٍ"
+    text: "جيش."
+  - term: "الْغُنْمَ"
+    text: "الغنيمة."
+  - term: "هُوَ سَائِقُهْ"
+    text: "يسوقه أسيرًا. والاستفهام للإنكار: أكلّما أخفق جيش في غزوه أخذ أقرب حيّ إليه؟"
+sources:
+  - source: "tabrizi-hamasa"
+    loc: "ج2 ص349"
+    url: "https://shamela.ws/book/6907/796"
+status: "review"

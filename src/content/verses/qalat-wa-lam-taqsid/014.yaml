@@ -1,0 +1,20 @@
+explained: false
+first: "كَأَنَّهُمْ أُسْدٌ لَدَى أَشْبُلٍ"
+second: "يَنْهِتْنَ فِي غِيلٍ وَأَجْزَاعِ"
+vocabulary:
+  - term: "أَشْبُلٍ"
+    text: "جمع شِبْل، ولد الأسد، والأسد عند أشباله أشرس."
+  - term: "يَنْهِتْنَ"
+    text: "يزأرن."
+  - term: "غِيلٍ"
+    text: "«الأجمة» [@tabrizi-ikhtiyarat، ج3 ص1240]، أي الشجر الكثيف."
+  - term: "أَجْزَاعِ"
+    text: "«جمع جزع، وهو: الجانب» [@tabrizi-ikhtiyarat، ج3 ص1240]، أي منعطف الوادي."
+sources:
+  - source: "mufaddaliyyat"
+    loc: "ص285"
+    url: "https://shamela.ws/book/6904/259"
+  - source: "tabrizi-ikhtiyarat"
+    loc: "ج3 ص1240"
+    url: "https://archive.org/details/3820pdf/page/n1248/mode/1up"
+status: "review"

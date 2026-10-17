@@ -1,0 +1,16 @@
+explained: false
+first: "إِنْ يَكُنِ الظَّنُّ صَادِقًا بِبَنِي النْـ"
+second: "ـنَجَّارِ لَا يُطْعِمُوا الَّذِي عَلَفُوا"
+vocabulary:
+  - term: "بَنِي النَّجَّارِ"
+    text: "من الخزرج، يستنصرهم مالك على بني عَمْرو بن عَوْف."
+  - term: "لَا يُطْعِمُوا الَّذِي عَلَفُوا"
+    text: "لا يقبلوا الضيم ولا يقرّوا به. وفي «الأغاني» زيادة في تفسيره: «يقال: علفوا الضيم إذا أقروا به، أى ظنى أنهم لا يقبلون الضيم» [@aghani-dk، ج3 ص20]."
+sources:
+  - source: "jamhara"
+    loc: "ص502"
+    url: "https://shamela.ws/book/1487/451"
+  - source: "aghani-dk"
+    loc: "ج3 ص20"
+    url: "https://archive.org/details/aghani2014/3/page/n23/mode/1up"
+status: "review"

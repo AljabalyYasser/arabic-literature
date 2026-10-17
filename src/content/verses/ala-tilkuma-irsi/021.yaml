@@ -1,0 +1,17 @@
+explained: false
+first: "يُثِيرُ عَلَيَّ التُّرْبَ فَحْصًا بِرِجْلِهِ"
+second: "وَقَدْ بَلَغَ الذَّلْقُ الشَّوَارِبَ أَوْ نَجَمْ"
+vocabulary:
+  - term: "فَحْصًا"
+    text: "نبشًا للتراب."
+  - term: "الذَّلْقُ"
+    text: "حدّ السكين [@asmaiyyat، ص159]."
+  - term: "الشَّوَارِبَ"
+    text: "مجاري النَّفَس في الحلق [@asmaiyyat، ص159]."
+  - term: "نَجَمْ"
+    text: "طلع وظهر [@asmaiyyat، ص159]."
+sources:
+  - source: "asmaiyyat"
+    loc: "ص159"
+    url: "https://shamela.ws/book/6905/145"
+status: "review"

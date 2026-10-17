@@ -1,0 +1,15 @@
+explained: false
+first: "رَمَيْنَا بِهَا الآطَامَ حَوْلَ مُزَاحِمٍ"
+second: "قَوَانِسُ أُولَى بَيْضِهَا كَالكَوَاكِبِ"
+vocabulary:
+  - term: "الآطَامَ"
+    text: "الحصون، واحدها أُطُم."
+  - term: "مُزَاحِمٍ"
+    text: "اسم أُطُم من آطام يثرب."
+  - term: "قَوَانِسُ"
+    text: "أعالي البَيْض، والبَيْض الخُوَذ."
+sources:
+  - source: "jamhara"
+    loc: "ص510"
+    url: "https://shamela.ws/book/1487/459"
+status: "review"

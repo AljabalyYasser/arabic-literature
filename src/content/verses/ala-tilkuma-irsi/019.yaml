@@ -1,0 +1,13 @@
+explained: false
+first: "وَإِنَّ يَدَ النُّعْمَانِ لَيْسَتْ بِكَزَّةٍ"
+second: "وَلَكِنْ سَمَاءٌ تُمْطِرُ الْوَبْلَ وَالدِّيَمْ"
+vocabulary:
+  - term: "بِكَزَّةٍ"
+    text: "منقبضة بخيلة، يقال رجل كزّ اليدين [@asmaiyyat، ص159]."
+  - term: "الدِّيَمْ"
+    text: "جمع دِيمة، وهي المطر الدائم."
+sources:
+  - source: "asmaiyyat"
+    loc: "ص159"
+    url: "https://shamela.ws/book/6905/145"
+status: "review"

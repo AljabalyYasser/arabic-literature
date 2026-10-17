@@ -1,0 +1,19 @@
+explained: false
+first: "فَلَا العُزَّى أَدِينُ وَلَا ابْنَتَيْهَا"
+second: "وَلَا صَنَمَيْ بَنِي عَمْرٍو أَزُورُ"
+vocabulary:
+  - term: "ابْنَتَيْهَا"
+    text: "صنمان يُجعلان ابنتين للعُزّى، ولم نجد في مصادرنا من يسمّيهما."
+  - term: "صَنَمَيْ بَنِي عَمْرٍو"
+    text: "يقول محققو السيرة: «كذا في الأصول: يريد قبيل أبيه»، وإن رواية «كتاب الأصنام» لابن الكَلْبيّ «بني غنم» [@ibn-hisham، ج1 ص226، الحاشية]، وهي رواية «الأغاني» [@aghani-dk، ج3 ص125]."
+sources:
+  - source: "ibn-hisham"
+    loc: "ج1 ص226"
+    url: "https://shamela.ws/book/23833/249"
+  - source: "ibn-hisham"
+    loc: "ج1 ص226، الحاشية"
+    url: "https://shamela.ws/book/23833/249"
+  - source: "aghani-dk"
+    loc: "ج3 ص125"
+    url: "https://archive.org/details/aghani2014/3/page/n128/mode/1up"
+status: "review"

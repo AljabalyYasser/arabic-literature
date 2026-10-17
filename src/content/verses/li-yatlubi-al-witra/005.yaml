@@ -1,0 +1,13 @@
+explained: false
+first: "لِلَّهِ دَرُّهُمُ مِنْ عُصْبَةٍ خَرَجُوا"
+second: "مَا إِنْ رَأَى لَهُمُ فِي النَّاسِ أَمْثَالَا"
+vocabulary:
+  - term: "لِلَّهِ دَرُّهُمُ"
+    text: "كلمة تعجّب ومدح."
+  - term: "عُصْبَةٍ"
+    text: "جماعة."
+sources:
+  - source: "ibn-hisham"
+    loc: "ج1 ص65"
+    url: "https://shamela.ws/book/23833/88"
+status: "review"

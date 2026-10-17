@@ -1,0 +1,15 @@
+explained: false
+first: "نَبِيتُ كَأَنَّا فِي خُصُومٍ عَرَامَةً"
+second: "وَتَسْمَعُ جَارَاتِي التَّأَلِّيَ وَالْقَسَمْ"
+vocabulary:
+  - term: "خُصُومٍ"
+    text: "جماعة يتخاصمون [@asmaiyyat، ص158]."
+  - term: "عَرَامَةً"
+    text: "شراسة وأذى. وهي رواية الخزانة، وفي أصلَي الطبعة «غرامة» بالغين، ولم يجد لها المحققان وجهًا [@asmaiyyat، ص158]."
+  - term: "التَّأَلِّيَ"
+    text: "الحلف [@asmaiyyat، ص158]."
+sources:
+  - source: "asmaiyyat"
+    loc: "ص158"
+    url: "https://shamela.ws/book/6905/144"
+status: "review"

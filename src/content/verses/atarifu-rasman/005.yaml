@@ -1,0 +1,18 @@
+explained: false
+first: "وَمِثْلَكِ قَدْ أَصْبَيْتُ لَيْسَتْ بِكَنَّةٍ"
+second: "وَلَا جَارَةٍ فِينَا حَلِيلَةِ صَاحِبِ"
+vocabulary:
+  - term: "أَصْبَيْتُ"
+    text: "أملت إلى الصِّبا والهوى."
+  - term: "بِكَنَّةٍ"
+    text: "يقول محققو «الأغاني»: «كنة: امرأة الابن أو الأخ» [@aghani-dk، ج3 ص6، الحاشية]."
+  - term: "حَلِيلَةِ صَاحِبِ"
+    text: "زوجة صاحب. يقول: لا أغازل امرأة قريب ولا جارة ولا زوجة صديق."
+sources:
+  - source: "jamhara"
+    loc: "ص508"
+    url: "https://shamela.ws/book/1487/457"
+  - source: "aghani-dk"
+    loc: "ج3 ص6، الحاشية"
+    url: "https://archive.org/details/aghani2014/3/page/n9/mode/1up"
+status: "review"

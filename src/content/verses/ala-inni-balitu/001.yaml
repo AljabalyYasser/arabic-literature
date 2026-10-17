@@ -1,0 +1,16 @@
+explained: false
+first: "أَلَا إِنِّي بَلِيتُ وَقَدْ بَقِيتُ"
+second: "وَإِنِّي لَنْ أَعُودَ كَمَا غَنِيتُ"
+vocabulary:
+  - term: "بَلِيتُ"
+    text: "هرمت وأخلقت كالثوب البالي. ويقول المحققان إنه يريد أنه صار شيخًا فانيًا لن يعود إلى شبابه [@asmaiyyat، ص83، الحاشية]."
+  - term: "غَنِيتُ"
+    text: "كنت وأقمت."
+sources:
+  - source: "asmaiyyat"
+    loc: "ص83"
+    url: "https://shamela.ws/book/6905/69"
+  - source: "asmaiyyat"
+    loc: "ص83، الحاشية"
+    url: "https://shamela.ws/book/6905/69"
+status: "review"

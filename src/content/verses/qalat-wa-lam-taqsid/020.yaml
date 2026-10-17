@@ -1,0 +1,18 @@
+explained: false
+first: "ذَاتِ أَسَاهِيجَ جُمَالِيَّةٍ"
+second: "حُشَّتْ بِحَارِيٍّ وَأَقْطَاعِ"
+vocabulary:
+  - term: "أَسَاهِيجَ"
+    text: "«فنون من السير» [@tabrizi-ikhtiyarat، ج3 ص1243]."
+  - term: "جُمَالِيَّةٍ"
+    text: "ضخمة كأنها جمل."
+  - term: "حُشَّتْ بِحَارِيٍّ وَأَقْطَاعِ"
+    text: "ملئ رحلها بوسائد. و«الحاري: منسوب إلى الحيرة. والأقطاع: جمع قطع، وهي طنفسة تكون على الرحل» [@tabrizi-ikhtiyarat، ج3 ص1243]."
+sources:
+  - source: "mufaddaliyyat"
+    loc: "ص286"
+    url: "https://shamela.ws/book/6904/260"
+  - source: "tabrizi-ikhtiyarat"
+    loc: "ج3 ص1243"
+    url: "https://archive.org/details/3820pdf/page/n1251/mode/1up"
+status: "review"

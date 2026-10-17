@@ -1,0 +1,15 @@
+explained: false
+first: "فَقُلْتُ لَهَا إِنْ لَا تَنَاهَيْ فَإِنَّنِي"
+second: "أَخُو النُّكْرِ حَتََّى تَقْرَعِي السِّنَّ مِنْ نَدَمْ"
+vocabulary:
+  - term: "تَنَاهَيْ"
+    text: "تنتهي وتكفّي."
+  - term: "النُّكْرِ"
+    text: "الدهاء والفطنة [@asmaiyyat، ص158]."
+  - term: "تَقْرَعِي السِّنَّ مِنْ نَدَمْ"
+    text: "تعضّي على سنّك ندمًا."
+sources:
+  - source: "asmaiyyat"
+    loc: "ص158"
+    url: "https://shamela.ws/book/6905/144"
+status: "review"

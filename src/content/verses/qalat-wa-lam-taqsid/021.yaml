@@ -1,0 +1,20 @@
+explained: false
+first: "تُعْطِي عَلَى الأَيْنِ وَتَنْجُو مِنَ الضْـ"
+second: "ـضَرْبِ أَمُونٍ غَيْرِ مِظْلَاعِ"
+vocabulary:
+  - term: "الأَيْنِ"
+    text: "الإعياء. أي: «تعطي سيرا، وهي معيية، لا يكلها الإعياء» [@tabrizi-ikhtiyarat، ج3 ص1244]."
+  - term: "وَتَنْجُو مِنَ الضَّرْبِ"
+    text: "لا تحوج راكبها إلى ضربها."
+  - term: "أَمُونٍ"
+    text: "«التي يؤمن عثارها» [@tabrizi-ikhtiyarat، ج3 ص1244]."
+  - term: "مِظْلَاعِ"
+    text: "من الظَّلَع، وهو العرج في الإبل."
+sources:
+  - source: "mufaddaliyyat"
+    loc: "ص286"
+    url: "https://shamela.ws/book/6904/260"
+  - source: "tabrizi-ikhtiyarat"
+    loc: "ج3 ص1244"
+    url: "https://archive.org/details/3820pdf/page/n1252/mode/1up"
+status: "review"

@@ -1,0 +1,18 @@
+explained: false
+first: "بِيضًا مَرَازِبَةً غُلْبًا أَسَاوِرَةً"
+second: "أُسْدًا تُرَبِّبُ فِي الْغَيْضَاتِ أَشْبَالَا"
+vocabulary:
+  - term: "مَرَازِبَةً"
+    text: "جمع مَرْزُبان، «والمرزبان: الرئيس المقدم» [@lisan، ج4 ص314]."
+  - term: "غُلْبًا أَسَاوِرَةً"
+    text: "الغُلْب: الشداد، والأساورة: رماة الفرس، كما يفسّرهما محققو السيرة [@ibn-hisham، ج1 ص66]."
+  - term: "الْغَيْضَاتِ"
+    text: "جمع غَيْضة، وهي الشجر الكثير الملتف [@ibn-hisham، ج1 ص66]."
+sources:
+  - source: "ibn-hisham"
+    loc: "ج1 ص66"
+    url: "https://shamela.ws/book/23833/89"
+  - source: "lisan"
+    loc: "ج4 ص314"
+    url: "https://shamela.ws/book/1687/2274"
+status: "review"

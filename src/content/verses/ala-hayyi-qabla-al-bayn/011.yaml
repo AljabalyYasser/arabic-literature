@@ -1,0 +1,22 @@
+explained: false
+first: "لَئِنْ لَمْ تُغَيِّرْ بَعْدَ مَا قَدْ صَنَعْتُمُ"
+second: "لَأَنْتَحِيَنْ لِلْعَظْمِ ذُو أَنَا عَارِقُهْ"
+vocabulary:
+  - term: "لَأَنْتَحِيَنْ"
+    text: "لأقصدنّ، و«الانتحاء للشيء: التعرض له والاعتماد والميل» [@khizana، ج7 ص439]."
+  - term: "ذُو أَنَا عَارِقُهْ"
+    text: "ذو بمعنى الذي، «وهو في لغة طيىء بمعنى الذي»، والعارق من عرق العظم: «أكلت ما عليه من اللحم» [@khizana، ج7 ص440]. يقول: إن لم تغيّر ما صنعت لأقصدنّ العظم نفسه بعد أن نزعت عنه اللحم، أي سأنتقل من الشكوى إلى الكسر. و«بهذا البيت سمي عارقاً» [@khizana، ج7 ص438]."
+sources:
+  - source: "tabrizi-hamasa"
+    loc: "ج2 ص350"
+    url: "https://shamela.ws/book/6907/797"
+  - source: "khizana"
+    loc: "ج7 ص438"
+    url: "https://shamela.ws/book/12732/3393"
+  - source: "khizana"
+    loc: "ج7 ص439"
+    url: "https://shamela.ws/book/12732/3394"
+  - source: "khizana"
+    loc: "ج7 ص440"
+    url: "https://shamela.ws/book/12732/3395"
+status: "review"

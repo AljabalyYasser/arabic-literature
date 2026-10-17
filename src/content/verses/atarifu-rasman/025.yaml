@@ -1,0 +1,16 @@
+explained: false
+first: "لَقِيتُكُمُ يَوْمَ الخَنَادِقِ حَاسِرًا"
+second: "كَأَنَّ يَدِي بِالسَّيْفِ مِخْرَاقُ لَاعِبِ"
+vocabulary:
+  - term: "حَاسِرًا"
+    text: "بلا درع ولا مِغْفَر."
+  - term: "مِخْرَاقُ لَاعِبِ"
+    text: "يقول محققو «الأغاني»: «المخراق: خرقة مفتولة يلعب بها الصبيان» [@aghani-dk، ج3 ص7، الحاشية]. يريد خفّة يده بالسيف."
+sources:
+  - source: "jamhara"
+    loc: "ص512"
+    url: "https://shamela.ws/book/1487/461"
+  - source: "aghani-dk"
+    loc: "ج3 ص7، الحاشية"
+    url: "https://archive.org/details/aghani2014/3/page/n10/mode/1up"
+status: "review"

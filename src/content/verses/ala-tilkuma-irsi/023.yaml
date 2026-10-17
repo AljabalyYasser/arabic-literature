@@ -1,0 +1,15 @@
+explained: false
+first: "وَقَطَّعْتُهُ بِاللَّوْمِ حَتََّى أَطَاعَنِي"
+second: "وَأُلْقِيْ عَلَى ظَهْرِ الْحَقِيبَةِ أَوْ وَجَمْ"
+vocabulary:
+  - term: "وَأُلْقِيْ"
+    text: "بالبناء للمجهول، وسُكّنت الياء للوزن [@asmaiyyat، ص160]."
+  - term: "الْحَقِيبَةِ"
+    text: "ما يُشدّ خلف الرحل."
+  - term: "وَجَمْ"
+    text: "سكت [@asmaiyyat، ص160]."
+sources:
+  - source: "asmaiyyat"
+    loc: "ص160"
+    url: "https://shamela.ws/book/6905/146"
+status: "review"

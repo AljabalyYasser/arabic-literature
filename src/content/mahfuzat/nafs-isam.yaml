@@ -1,0 +1,17 @@
+kind: "mathal"
+part: "1"
+order: 191
+person: "isam-ibn-shahbar"
+text: "نَفْسُ عِصَامٍ سَوَّدَتْ عِصَامًا"
+meaning: "يُضرب فيمن شرف بنفسه لا بآبائه، «في نَبَاهة الرجل من غير قديم» [@maydani، ج2 ص331]. وعِصام بن شَهْبَر حاجب النُّعْمان، والمثل أول رجز يقول أبو الفَرَج إنه قيل فيه، ويجعله العَسْكَرِيّ قوله هو، ثم يقول: «والناس يقولون لمن يفتخر بنفسه عصامى ولمن يفتخر بآبائه عظامى» [@askari-amthal، ج2 ص312]. ومنه قولنا اليوم: رجل عِصاميّ."
+sources:
+  - source: "maydani"
+    loc: "ج2 ص331"
+    url: "https://shamela.ws/book/12929/4284"
+  - source: "askari-amthal"
+    loc: "ج2 ص312"
+    url: "https://shamela.ws/book/6897/895"
+  - source: "aghani-dk"
+    loc: "ج11 ص12"
+    url: "https://archive.org/details/Al-aghani_11/page/n11/mode/1up"
+status: "review"

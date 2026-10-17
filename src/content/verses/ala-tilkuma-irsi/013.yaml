@@ -1,0 +1,20 @@
+explained: false
+first: "بِذِي حَطَبٍ جَزْلٍ وَسَهْلٍ لِفَائِدٍ"
+second: "وَمِبْرَاةِ غَزَّاءٍ يُقَالُ لَهَا هُذَمْ"
+vocabulary:
+  - term: "جَزْلٍ"
+    text: "غليظ قوي [@asmaiyyat، ص158]."
+  - term: "لِفَائِدٍ"
+    text: "لمن يشوي اللحم، من فأد اللحم إذا شواه [@asmaiyyat، ص158]."
+  - term: "مِبْرَاةِ غَزََّاءٍ"
+    text: "سكين رجل كثير الغزو، والمِبراة: السكين يُبرى بها [@asmaiyyat، ص159]."
+  - term: "هُذَمْ"
+    text: "قاطعة، من الهَذْم وهو القطع، ويقول المحققان إن هذه الصيغة ليست في المعاجم [@asmaiyyat، ص159]."
+sources:
+  - source: "asmaiyyat"
+    loc: "ص158"
+    url: "https://shamela.ws/book/6905/144"
+  - source: "asmaiyyat"
+    loc: "ص159"
+    url: "https://shamela.ws/book/6905/145"
+status: "review"

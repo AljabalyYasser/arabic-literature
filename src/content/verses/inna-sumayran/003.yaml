@@ -1,0 +1,16 @@
+explained: false
+first: "لَنْ يُسْلِمُونَا لِمَعْشَرٍ أَبَدًا"
+second: "مَا كَانَ مِنْهُمْ بِبَطْنِهَا شَرَفُ"
+vocabulary:
+  - term: "بِبَطْنِهَا"
+    text: "ببطن يثرب."
+  - term: "شَرَفُ"
+    text: "يقول محققو «الأغاني»: «الشرف: الشريف» [@aghani-dk، ج3 ص20، الحاشية]."
+sources:
+  - source: "jamhara"
+    loc: "ص503"
+    url: "https://shamela.ws/book/1487/452"
+  - source: "aghani-dk"
+    loc: "ج3 ص20، الحاشية"
+    url: "https://archive.org/details/aghani2014/3/page/n23/mode/1up"
+status: "review"

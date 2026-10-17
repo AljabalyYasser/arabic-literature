@@ -1,0 +1,18 @@
+explained: false
+first: "أَحْفِزُهَا عَنِّي بِذِي رَوْنَقٍ"
+second: "مُهَنَّدٍ كَالمِلْحِ قَطَّاعِ"
+vocabulary:
+  - term: "أَحْفِزُهَا"
+    text: "«أرفعها» [@tabrizi-ikhtiyarat، ج3 ص1237]، يرفع ذيل الدرع ويعلّقه بالسيف ليخفّ عليه."
+  - term: "بِذِي رَوْنَقٍ"
+    text: "بسيف له بريق."
+  - term: "كَالمِلْحِ"
+    text: "في بياضه ولمعانه."
+sources:
+  - source: "mufaddaliyyat"
+    loc: "ص284"
+    url: "https://shamela.ws/book/6904/258"
+  - source: "tabrizi-ikhtiyarat"
+    loc: "ج3 ص1237"
+    url: "https://archive.org/details/3820pdf/page/n1245/mode/1up"
+status: "review"

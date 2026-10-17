@@ -1,0 +1,18 @@
+explained: false
+first: "صَدْقٍ حُسَامٍ وَادِقٍ حَدُّهُ"
+second: "وَمُجْنَأٍ أَسْمَرَ قَرَّاعِ"
+vocabulary:
+  - term: "صَدْقٍ"
+    text: "صلب: «يعني أنه صلب» [@tabrizi-ikhtiyarat، ج3 ص1238]."
+  - term: "وَادِقٍ"
+    text: "«الداني» [@tabrizi-ikhtiyarat، ج3 ص1238]، كأن حدّه قريب من كل شيء لنفاذه."
+  - term: "وَمُجْنَأٍ"
+    text: "«الترس، وهو من: جنأ إذا انحنى. وجعله أسمر لأنه من جلود الإبل» [@tabrizi-ikhtiyarat، ج3 ص1238]."
+sources:
+  - source: "mufaddaliyyat"
+    loc: "ص285"
+    url: "https://shamela.ws/book/6904/259"
+  - source: "tabrizi-ikhtiyarat"
+    loc: "ج3 ص1238"
+    url: "https://archive.org/details/3820pdf/page/n1246/mode/1up"
+status: "review"

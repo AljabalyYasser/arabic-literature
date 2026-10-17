@@ -1,0 +1,16 @@
+explained: false
+first: "لَوَ انَّكَ تُلْقِي حَنْظَلًا فَوْقَ بَيْضِنَا"
+second: "تَدَحْرَجَ عَنْ ذِي سَامِهِ المُتَقَارِبِ"
+vocabulary:
+  - term: "بَيْضِنَا"
+    text: "خُوَذنا."
+  - term: "ذِي سَامِهِ"
+    text: "البيض المموّه بالذهب: «وقيل: السام عروق الذهب والفضة فى الحجر» [@lisan، ج12 ص313]. يريد أن البيض متلاصق متقارب لا فرجة فيه."
+sources:
+  - source: "jamhara"
+    loc: "ص511"
+    url: "https://shamela.ws/book/1487/460"
+  - source: "lisan"
+    loc: "ج12 ص313"
+    url: "https://shamela.ws/book/1687/6226"
+status: "review"

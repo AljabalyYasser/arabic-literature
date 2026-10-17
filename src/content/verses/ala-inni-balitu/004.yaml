@@ -1,0 +1,16 @@
+explained: false
+first: "وَلَا أَلْحَى عَلَى الحَدَثَانِ قَوْمِي"
+second: "عَلَى الحَدَثَانِ مَا تُبْنَى البُيُوتُ"
+vocabulary:
+  - term: "أَلْحَى"
+    text: "لا ألوم، كما يفسّرها المحققان [@asmaiyyat، ص84، الحاشية]."
+  - term: "الحَدَثَانِ"
+    text: "نوائب الدهر وحوادثه، كما يفسّرها المحققان [@asmaiyyat، ص84، الحاشية]."
+sources:
+  - source: "asmaiyyat"
+    loc: "ص84"
+    url: "https://shamela.ws/book/6905/70"
+  - source: "asmaiyyat"
+    loc: "ص84، الحاشية"
+    url: "https://shamela.ws/book/6905/70"
+status: "review"
