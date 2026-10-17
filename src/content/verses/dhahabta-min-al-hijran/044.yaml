@@ -1,0 +1,18 @@
+explained: false
+first: "وراحَ كَشاةِ الرَّبْلِ يَنْغُضُ رَأْسَهُ"
+second: "أَذاةً بِهِ مِنْ صائِكٍ مُتَحَلِّبِ"
+vocabulary:
+  - term: "شاةِ الرَّبْلِ"
+    text: "«يعني ثورًا وحشيًّا شبّه الفرس به في نشاطه وحدّته» [@diwan-alqama، ص110]، والرَّبْل نبت يخضرّ آخر الصيف."
+  - term: "يَنْغُضُ"
+    text: "«يحرّكه» [@diwan-alqama، ص110]."
+  - term: "صائِكٍ مُتَحَلِّبِ"
+    text: "«العرق اللاصق به. يقول: يتأذّى برائحة عرقه فينغض رأسه لذلك» [@diwan-alqama، ص110]."
+sources:
+  - source: "diwan-alqama"
+    loc: "ص109"
+    url: "https://archive.org/details/AAlexandrina-144694/page/n118/mode/1up"
+  - source: "diwan-alqama"
+    loc: "ص110"
+    url: "https://archive.org/details/AAlexandrina-144694/page/n119/mode/1up"
+status: "review"

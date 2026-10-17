@@ -1,0 +1,20 @@
+explained: false
+first: "وسُمْرٌ يُفَلِّقْنَ الظِّرابَ كَأَنَّها"
+second: "حِجارَةُ غَيْلٍ وارِساتٌ بِطُحْلُبِ"
+vocabulary:
+  - term: "سُمْرٌ"
+    text: "«يعني حوافره، وإذا كانت سمرًا كان أصلب لها» [@diwan-alqama، ص101]."
+  - term: "الظِّرابَ"
+    text: "«ما نتأ من الحجارة وما صغر من الجبال» [@diwan-alqama، ص101]."
+  - term: "غَيْلٍ"
+    text: "«الماء الجاري»، وأضاف الحجارة إليه «لأن الحجر إذا كان في الماء كان أصلب له» [@diwan-alqama، ص101]."
+  - term: "وارِساتٌ"
+    text: "«المصفرّات» [@diwan-alqama، ص101]."
+sources:
+  - source: "diwan-alqama"
+    loc: "ص100"
+    url: "https://archive.org/details/AAlexandrina-144694/page/n109/mode/1up"
+  - source: "diwan-alqama"
+    loc: "ص101"
+    url: "https://archive.org/details/AAlexandrina-144694/page/n110/mode/1up"
+status: "review"

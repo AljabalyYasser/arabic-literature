@@ -1,0 +1,18 @@
+explained: false
+first: "يَظَلُّ فِي الحَنْظَلِ الخُطْبانِ يَنْقُفُهُ"
+second: "وما اسْتَطَفَّ مِنَ التَّنُّومِ مَخْذُومُ"
+vocabulary:
+  - term: "الخُطْبانِ"
+    text: "«المخطّط منه» [@tabrizi-ikhtiyarat، ج3 ص1610]."
+  - term: "يَنْقُفُهُ"
+    text: "«يستخرج حبّه، كما يُنقف الرمّان» [@tabrizi-ikhtiyarat، ج3 ص1610]."
+  - term: "مَخْذُومُ"
+    text: "«المقطوع المأكول» [@tabrizi-ikhtiyarat، ج3 ص1610]."
+sources:
+  - source: "mufaddaliyyat"
+    loc: "ص399"
+    url: "https://shamela.ws/book/6904/373"
+  - source: "tabrizi-ikhtiyarat"
+    loc: "ج3 ص1610"
+    url: "https://archive.org/details/3820pdf/page/n1618/mode/1up"
+status: "review"

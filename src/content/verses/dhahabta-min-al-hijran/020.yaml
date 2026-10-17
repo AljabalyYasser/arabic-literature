@@ -1,0 +1,19 @@
+explained: false
+first: "بِمُنْجَرِدٍ قَيْدِ الأَوابِدِ لاحَهُ"
+second: "طِرادُ الهَوادِي كُلَّ شَأْوٍ مُغَرِّبِ"
+vocabulary:
+  - term: "مُنْجَرِدٍ"
+    text: "«فرسًا قصير الشعر، وبذلك توصف العتاق» [@diwan-alqama، ص95]."
+  - term: "قَيْدِ الأَوابِدِ"
+    text: "«يدركها فيكون لها كالقيد. والأوابد: الوحش» [@diwan-alqama، ص95]."
+  - term: "لاحَهُ"
+    text: "«أضمره وأهزله» [@diwan-alqama، ص95]."
+  - term: "الهَوادِي"
+    text: "«أوائل الوحش» [@diwan-alqama، ص95]."
+  - term: "شَأْوٍ مُغَرِّبِ"
+    text: "الشأو «الطَّلَق»، والمغرّب «البعيد» [@diwan-alqama، ص95]."
+sources:
+  - source: "diwan-alqama"
+    loc: "ص95"
+    url: "https://archive.org/details/AAlexandrina-144694/page/n104/mode/1up"
+status: "review"

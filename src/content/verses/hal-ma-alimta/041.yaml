@@ -1,0 +1,16 @@
+explained: false
+first: "تَشْفِي الصُّداعَ ولا يُؤْذِيكَ صالِبُها"
+second: "ولا يُخالِطُها فِي الرَّأْسِ تَدْوِيمُ"
+vocabulary:
+  - term: "صالِبُها"
+    text: "الحمّى الشديدة؛ «يصفها بطيب الرائحة، وأن سورتها لا تورث الحمّى» [@tabrizi-ikhtiyarat، ج3 ص1621]."
+  - term: "تَدْوِيمُ"
+    text: "الدُّوار، كما يقول محقق شرح التِّبْرِيزِيّ [@tabrizi-ikhtiyarat، ج3 ص1621]."
+sources:
+  - source: "mufaddaliyyat"
+    loc: "ص402"
+    url: "https://shamela.ws/book/6904/376"
+  - source: "tabrizi-ikhtiyarat"
+    loc: "ج3 ص1621"
+    url: "https://archive.org/details/3820pdf/page/n1629/mode/1up"
+status: "review"

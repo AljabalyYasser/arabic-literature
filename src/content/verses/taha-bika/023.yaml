@@ -1,0 +1,20 @@
+explained: false
+first: "تُرادُ عَلَى دِمْنِ الحِياضِ فَإِنْ تَعَفْ"
+second: "فَإِنَّ المُنَدَّى رِحْلَةٌ فَرُكُوبُ"
+vocabulary:
+  - term: "تُرادُ"
+    text: "«أي: تُعرض» على الماء [@tabrizi-ikhtiyarat، ج3 ص1589]."
+  - term: "دِمْنِ الحِياضِ"
+    text: "«ما تدمّن من الماء، بسقوط البعر والقذى فيه» [@tabrizi-ikhtiyarat، ج3 ص1589]."
+  - term: "تَعَفْ"
+    text: "تكره."
+  - term: "المُنَدَّى"
+    text: "من التندية، وهي عند الأَصْمَعِيّ «الرعي بين السقيتين»؛ يقول: مندّاها عندنا إذا عافت الماء الرحلة والركوب [@tabrizi-ikhtiyarat، ج3 ص1589]."
+sources:
+  - source: "mufaddaliyyat"
+    loc: "ص394"
+    url: "https://shamela.ws/book/6904/368"
+  - source: "tabrizi-ikhtiyarat"
+    loc: "ج3 ص1589"
+    url: "https://archive.org/details/3820pdf/page/n1597/mode/1up"
+status: "review"

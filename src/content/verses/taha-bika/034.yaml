@@ -1,0 +1,20 @@
+explained: false
+first: "وقاتَلَ مِنْ غَسّانَ أَهْلُ حِفاظِها"
+second: "وهِنْبٌ وقاسٌ جالَدَتْ وشَبِيبُ"
+vocabulary:
+  - term: "غَسّانَ"
+    text: "قال الأَصْمَعِيّ: ماء نزلوا عليه فسُمّوا به [@tabrizi-ikhtiyarat، ج3 ص1594]."
+  - term: "أَهْلُ حِفاظِها"
+    text: "الذين يحمون حرمها ويغضبون لها."
+  - term: "هِنْبٌ وقاسٌ ... وشَبِيبُ"
+    text: "أحياء من قُضاعة [@tabrizi-ikhtiyarat، ج3 ص1594]."
+  - term: "جالَدَتْ"
+    text: "ضاربت بالسيوف."
+sources:
+  - source: "mufaddaliyyat"
+    loc: "ص395"
+    url: "https://shamela.ws/book/6904/369"
+  - source: "tabrizi-ikhtiyarat"
+    loc: "ج3 ص1594"
+    url: "https://archive.org/details/3820pdf/page/n1602/mode/1up"
+status: "review"

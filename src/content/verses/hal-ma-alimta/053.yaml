@@ -1,0 +1,21 @@
+explained: false
+first: "لا فِي شَظاها ولا أَرْساغِها عَتَبٌ"
+second: "ولا السَّنابِكُ أَفْناهُنَّ تَقْلِيمُ"
+vocabulary:
+  - term: "شَظاها"
+    text: "«الشظى: عظم لاصق بالذراع، رقيق» [@tabrizi-ikhtiyarat، ج3 ص1627]."
+  - term: "عَتَبٌ"
+    text: "عيب؛ «وأصل العتب: ما ينتأ من جانب البئر والجبل» [@tabrizi-ikhtiyarat، ج3 ص1628]."
+  - term: "السَّنابِكُ"
+    text: "أطراف الحوافر، وهي «صلبة لم تأكلها الأرض» [@tabrizi-ikhtiyarat، ج3 ص1628]."
+sources:
+  - source: "mufaddaliyyat"
+    loc: "ص403"
+    url: "https://shamela.ws/book/6904/377"
+  - source: "tabrizi-ikhtiyarat"
+    loc: "ج3 ص1627"
+    url: "https://archive.org/details/3820pdf/page/n1635/mode/1up"
+  - source: "tabrizi-ikhtiyarat"
+    loc: "ج3 ص1628"
+    url: "https://archive.org/details/3820pdf/page/n1636/mode/1up"
+status: "review"

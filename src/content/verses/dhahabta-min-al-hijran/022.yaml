@@ -1,0 +1,20 @@
+explained: false
+first: "كُمَيْتٍ كَلَوْنِ الأُرْجُوانِ نَشَرْتَهُ"
+second: "لِبَيْعِ الرِّداءِ فِي الصِّوانِ المُكَعَّبِ"
+vocabulary:
+  - term: "كُمَيْتٍ"
+    text: "لونه بين السواد والحمرة، كما يقول ابن أبي شَنَب في حاشيته [@diwan-alqama، ص96]."
+  - term: "الأُرْجُوانِ"
+    text: "«صبغ أحمر مشبع، وأراد به هنا ثوبًا» [@diwan-alqama، ص97]."
+  - term: "الصِّوانِ"
+    text: "«التخت» [@diwan-alqama، ص97]."
+  - term: "المُكَعَّبِ"
+    text: "«ضرب من الوشي»؛ «شبّه الفرس بأرجوان نُشر ليباع عليه رداء وشي فازداد حسنًا» [@diwan-alqama، ص97]."
+sources:
+  - source: "diwan-alqama"
+    loc: "ص96"
+    url: "https://archive.org/details/AAlexandrina-144694/page/n105/mode/1up"
+  - source: "diwan-alqama"
+    loc: "ص97"
+    url: "https://archive.org/details/AAlexandrina-144694/page/n106/mode/1up"
+status: "review"

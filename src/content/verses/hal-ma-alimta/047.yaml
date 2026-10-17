@@ -1,0 +1,20 @@
+explained: false
+first: "وقَدْ يَسَرْتُ إِذا ما الجُوعُ كُلِّفَهُ"
+second: "مُعَقَّبٌ مِنْ قِداحِ النَّبْعِ مَقْرُومُ"
+vocabulary:
+  - term: "يَسَرْتُ"
+    text: "«أخذت في الميسر» [@tabrizi-ikhtiyarat، ج3 ص1624]، وهو قمار الجاهلية بالقداح على الجزور."
+  - term: "مُعَقَّبٌ"
+    text: "«قدحًا مشدودًا بالعقب» [@tabrizi-ikhtiyarat، ج3 ص1624]، والعقب العصب تُعمل منه الأوتار."
+  - term: "النَّبْعِ"
+    text: "شجر تُتّخذ منه القسيّ والقداح، كما يقول محقق شرح التِّبْرِيزِيّ [@tabrizi-ikhtiyarat، ج3 ص1624]."
+  - term: "مَقْرُومُ"
+    text: "حُزّ عليه بالأسنان ليكون علامة يُعرف بها، كما يقول محقق شرح التِّبْرِيزِيّ [@tabrizi-ikhtiyarat، ج3 ص1624]."
+sources:
+  - source: "mufaddaliyyat"
+    loc: "ص403"
+    url: "https://shamela.ws/book/6904/377"
+  - source: "tabrizi-ikhtiyarat"
+    loc: "ج3 ص1624"
+    url: "https://archive.org/details/3820pdf/page/n1632/mode/1up"
+status: "review"

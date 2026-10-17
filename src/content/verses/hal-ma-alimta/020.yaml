@@ -1,0 +1,23 @@
+explained: false
+first: "فُوهُ كَشَقِّ العَصا لَأْيًا تَبَيَّنُهُ"
+second: "أَسَكُّ ما يَسْمَعُ الأَصْواتَ مَصْلُومُ"
+vocabulary:
+  - term: "فُوهُ كَشَقِّ العَصا"
+    text: "«أي: فوه متلاصق، ليس بمفتوح» [@tabrizi-ikhtiyarat، ج3 ص1610]."
+  - term: "لَأْيًا"
+    text: "«أي: بعد جهد» [@tabrizi-ikhtiyarat، ج3 ص1610]."
+  - term: "أَسَكُّ"
+    text: "الصغير الأذنين، كما يقول محقق شرح التِّبْرِيزِيّ [@tabrizi-ikhtiyarat، ج3 ص1610]."
+  - term: "مَصْلُومُ"
+    text: "«المقطوع الأذنين. والصلم خلقة في النعام» [@tabrizi-ikhtiyarat، ج3 ص1611]."
+sources:
+  - source: "mufaddaliyyat"
+    loc: "ص399"
+    url: "https://shamela.ws/book/6904/373"
+  - source: "tabrizi-ikhtiyarat"
+    loc: "ج3 ص1610"
+    url: "https://archive.org/details/3820pdf/page/n1618/mode/1up"
+  - source: "tabrizi-ikhtiyarat"
+    loc: "ج3 ص1611"
+    url: "https://archive.org/details/3820pdf/page/n1619/mode/1up"
+status: "review"

@@ -1,0 +1,18 @@
+explained: false
+first: "بِعَيْنٍ كَمِرْآةِ الصَّناعِ تُدِيرُها"
+second: "لِمَحْجِرِها مِنَ النَّصِيفِ المُنَقَّبِ"
+vocabulary:
+  - term: "الصَّناعِ"
+    text: "«المرأة الرقيقة الكفّ الحاذقة بالعمل»، تُديم جلاء مرآتها «لحاجتها إليها» [@diwan-alqama، ص93]."
+  - term: "مَحْجِرِها"
+    text: "«ما حول العين» [@diwan-alqama، ص93]."
+  - term: "النَّصِيفِ المُنَقَّبِ"
+    text: "النصيف «الخمار»، والمنقّب «الذي جُعل نقابًا على الوجه» [@diwan-alqama، ص93]."
+sources:
+  - source: "diwan-alqama"
+    loc: "ص92"
+    url: "https://archive.org/details/AAlexandrina-144694/page/n101/mode/1up"
+  - source: "diwan-alqama"
+    loc: "ص93"
+    url: "https://archive.org/details/AAlexandrina-144694/page/n102/mode/1up"
+status: "review"

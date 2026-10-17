@@ -1,0 +1,18 @@
+explained: false
+first: "فَقُلْنا أَلا قَدْ كانَ صَيْدٌ لِقانِصٍ"
+second: "فَخَبَّوْا عَلَيْنا فَضْلَ بُرْدٍ مُطَنَّبِ"
+vocabulary:
+  - term: "قانِصٍ"
+    text: "«الصائد» [@diwan-alqama، ص108]."
+  - term: "خَبَّوْا"
+    text: "«ضربوا علينا خباء» [@diwan-alqama، ص108]."
+  - term: "بُرْدٍ مُطَنَّبِ"
+    text: "البرد «كلّ ثوب موشّى»، والمطنَّب «المشدود بالأطناب» [@diwan-alqama، ص108]."
+sources:
+  - source: "diwan-alqama"
+    loc: "ص107"
+    url: "https://archive.org/details/AAlexandrina-144694/page/n116/mode/1up"
+  - source: "diwan-alqama"
+    loc: "ص108"
+    url: "https://archive.org/details/AAlexandrina-144694/page/n117/mode/1up"
+status: "review"

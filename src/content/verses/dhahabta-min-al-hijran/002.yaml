@@ -1,0 +1,13 @@
+explained: false
+first: "لَيالِيَ لا تَبْلَى نَصِيحَةُ بَيْنِنا"
+second: "لَيالِيَ حَلُّوا بِالسِّتارِ فَغُرَّبِ"
+vocabulary:
+  - term: "لا تَبْلَى نَصِيحَةُ بَيْنِنا"
+    text: "زمن كان حيّها وحيّه متجاورين، «فكنّا نجدّد النصائح ونقرّب الوسائل» [@diwan-alqama، ص83]، والنصيحة هنا الودّ الخالص."
+  - term: "السِّتارِ فَغُرَّبِ"
+    text: "«موضعان» [@diwan-alqama، ص83]."
+sources:
+  - source: "diwan-alqama"
+    loc: "ص83"
+    url: "https://archive.org/details/AAlexandrina-144694/page/n92/mode/1up"
+status: "review"

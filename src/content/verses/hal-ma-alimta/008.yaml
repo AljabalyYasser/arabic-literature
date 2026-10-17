@@ -1,0 +1,20 @@
+explained: false
+first: "فالعَيْنُ مِنِّي كَأَنْ غَرْبٌ تَحُطُّ بِهِ"
+second: "دَهْماءُ حارِكُها بِالقِتْبِ مَحْزُومُ"
+vocabulary:
+  - term: "غَرْبٌ"
+    text: "«الدلو العظيمة تكون للسانية»، شبّه سيلان دمعه بسيلان الماء منه [@tabrizi-ikhtiyarat، ج3 ص1604]."
+  - term: "تَحُطُّ بِهِ"
+    text: "«أي: تنزل به» [@tabrizi-ikhtiyarat، ج3 ص1604]."
+  - term: "دَهْماءُ"
+    text: "ناقة سوداء، «لأن الدهم أقوى الإبل» [@tabrizi-ikhtiyarat، ج3 ص1604]."
+  - term: "حارِكُها بِالقِتْبِ مَحْزُومُ"
+    text: "«أي: مقدّم ظهرها محزوم بالقتب، أي: مشدود» [@tabrizi-ikhtiyarat، ج3 ص1604]."
+sources:
+  - source: "mufaddaliyyat"
+    loc: "ص398"
+    url: "https://shamela.ws/book/6904/372"
+  - source: "tabrizi-ikhtiyarat"
+    loc: "ج3 ص1604"
+    url: "https://archive.org/details/3820pdf/page/n1612/mode/1up"
+status: "review"

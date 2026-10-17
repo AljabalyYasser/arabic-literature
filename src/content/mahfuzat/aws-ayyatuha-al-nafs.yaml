@@ -1,0 +1,15 @@
+kind: "bayt"
+title: "أيتها النفس أجملي جزعا"
+part: "1"
+order: 131
+person: "aws-ibn-hajar"
+verses: ["ayyatuha-al-nafs/001"]
+meaning: "يا نفسُ اصبري صبرًا جميلًا، فما كنت تخافينه قد وقع. مطلع مرثية أوس في فَضَالة بن كَلَدة، قال فيه الأَصْمَعِيّ: «ولم أسمع قطّ ابتداء مرثية أحسن من ابتداء مرثيته» [@ibn-qutayba، ج1 ص202]."
+sources:
+  - source: "ibn-qutayba"
+    loc: "ج1 ص202"
+    url: "https://shamela.ws/book/23785/195"
+  - source: "kamil"
+    loc: "ج4 ص32"
+    url: "https://shamela.ws/book/8505/1197"
+status: "review"

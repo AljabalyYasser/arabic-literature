@@ -1,0 +1,19 @@
+explained: false
+first: "فُوَيْقَ جُبَيْلٍ شَامِخِ الرَّأْسِ لَمْ يَكُنْ"
+second: "لِيَبْلُغَهُ حَتَّى يَكِلَّ وَيَعْمَلَا"
+vocabulary:
+  - term: "فُوَيْقَ جُبَيْلٍ"
+    text: "قال البَكْريّ: «قوله: فويق جبيل صغّره لأنه قلّ عرضه ودقّ وذهب في السماء صاعداً وهو أشدّ لتوقله» [@simt، ج1 ص493]. والتوقّل: الصعود في الجبل."
+  - term: "يَعْمَلَا"
+    text: "يجهد نفسه في العمل. وفي اللسان: «لِيُدْرِكَهُ» [@lisan، ج12 ص492]."
+sources:
+  - source: "simt"
+    loc: "ج1 ص492"
+    url: "https://shamela.ws/book/1586/490"
+  - source: "simt"
+    loc: "ج1 ص493"
+    url: "https://shamela.ws/book/1586/491"
+  - source: "lisan"
+    loc: "ج12 ص492"
+    url: "https://shamela.ws/book/1687/6405"
+status: "review"

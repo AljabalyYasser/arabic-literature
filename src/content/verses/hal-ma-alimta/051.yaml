@@ -1,0 +1,18 @@
+explained: false
+first: "حامٍ كَأَنَّ أُوارَ النّارِ شامِلُهُ"
+second: "دُونَ الثِّيابِ ورَأْسُ المَرْءِ مَعْمُومُ"
+vocabulary:
+  - term: "أُوارَ النّارِ"
+    text: "«لهبها وتوهّجها» [@tabrizi-ikhtiyarat، ج3 ص1627]."
+  - term: "دُونَ الثِّيابِ"
+    text: "«يريد: أن الثياب لا يقي من الحرّ، ولا يغني» [@tabrizi-ikhtiyarat، ج3 ص1627]."
+  - term: "مَعْمُومُ"
+    text: "«أي: يوقّى بالعمامة» [@tabrizi-ikhtiyarat، ج3 ص1627]."
+sources:
+  - source: "mufaddaliyyat"
+    loc: "ص403"
+    url: "https://shamela.ws/book/6904/377"
+  - source: "tabrizi-ikhtiyarat"
+    loc: "ج3 ص1627"
+    url: "https://archive.org/details/3820pdf/page/n1635/mode/1up"
+status: "review"

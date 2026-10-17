@@ -1,0 +1,20 @@
+explained: false
+first: "يَهْدِي بِها أَكْلَفُ الخَدَّيْنِ مُخْتَبَرٌ"
+second: "مِنَ الجِمالِ كَثِيرُ اللَّحْمِ عَيْثُومُ"
+vocabulary:
+  - term: "يَهْدِي بِها"
+    text: "«يعني فحلها» [@tabrizi-ikhtiyarat، ج3 ص1630]."
+  - term: "أَكْلَفُ"
+    text: "من «الكُلفة: حمرة فيها سواد، وهو مستحب» [@tabrizi-ikhtiyarat، ج3 ص1630]."
+  - term: "مُخْتَبَرٌ"
+    text: "«مجرَّب» [@tabrizi-ikhtiyarat، ج3 ص1630]."
+  - term: "عَيْثُومُ"
+    text: "«الضخم الجرم، الكثير اللحم» [@tabrizi-ikhtiyarat، ج3 ص1630]."
+sources:
+  - source: "mufaddaliyyat"
+    loc: "ص404"
+    url: "https://shamela.ws/book/6904/378"
+  - source: "tabrizi-ikhtiyarat"
+    loc: "ج3 ص1630"
+    url: "https://archive.org/details/3820pdf/page/n1638/mode/1up"
+status: "review"

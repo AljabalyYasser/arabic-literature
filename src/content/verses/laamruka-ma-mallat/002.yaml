@@ -1,0 +1,20 @@
+explained: false
+first: "وَلَكِنْ تَلَقَّتْ بِاليَدَيْنِ ضَمَانَتِي"
+second: "وَحَلَّ بِشَرْجٍ مِ القَبَائِلِ عُوَّدِي"
+vocabulary:
+  - term: "ضَمَانَتِي"
+    text: "«الضمانة: الداء فى الجسد من كبر أو بلاء أو غير ذلك» [@aghani-dk، ج11 ص73، الحاشية]."
+  - term: "بِشَرْجٍ"
+    text: "شَرْج موضع في أرض بني أسد، وفيه صُرع أوس [@aghani-dk، ج11 ص72]."
+  - term: "مِ القَبَائِلِ"
+    text: "«أى من القبائل» [@aghani-dk، ج11 ص73، الحاشية]، حُذفت نون «من» في النطق."
+  - term: "عُوَّدِي"
+    text: "الذين يعودونني في مرضي، جمع عائد."
+sources:
+  - source: "aghani-dk"
+    loc: "ج11 ص72"
+    url: "https://archive.org/details/Al-aghani_11/page/n71/mode/1up"
+  - source: "aghani-dk"
+    loc: "ج11 ص73"
+    url: "https://archive.org/details/Al-aghani_11/page/n72/mode/1up"
+status: "review"

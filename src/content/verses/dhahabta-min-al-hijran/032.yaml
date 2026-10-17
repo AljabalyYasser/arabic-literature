@@ -1,0 +1,18 @@
+explained: false
+first: "رَأَيْنا شِياهًا يَرْتَعِينَ خَمِيلَةً"
+second: "كَمَشْيِ العَذارَى فِي المُلاءِ المُهَدَّبِ"
+vocabulary:
+  - term: "شِياهًا"
+    text: "«يعني بقرًا من الوحش» [@diwan-alqama، ص103]."
+  - term: "خَمِيلَةً"
+    text: "«رملة فيها شجر» [@diwan-alqama، ص103]."
+  - term: "المُلاءِ المُهَدَّبِ"
+    text: "الملاحف ذات الهُدب، «شبّه البقر بالعذارى... لحسن مشيتهنّ وسبوغ أذيالهنّ» [@diwan-alqama، ص103]."
+sources:
+  - source: "diwan-alqama"
+    loc: "ص102"
+    url: "https://archive.org/details/AAlexandrina-144694/page/n111/mode/1up"
+  - source: "diwan-alqama"
+    loc: "ص103"
+    url: "https://archive.org/details/AAlexandrina-144694/page/n112/mode/1up"
+status: "review"

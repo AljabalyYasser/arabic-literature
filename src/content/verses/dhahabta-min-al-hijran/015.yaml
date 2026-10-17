@@ -1,0 +1,15 @@
+explained: false
+first: "إِذا ما ضَرَبْتُ الدَّفَّ أَوْ صُلْتُ صَوْلَةً"
+second: "تَرَقَّبُ مِنِّي غَيْرَ أَدْنَى تَرَقُّبِ"
+vocabulary:
+  - term: "الدَّفَّ"
+    text: "«الجنب» [@diwan-alqama، ص92]."
+  - term: "صُلْتُ صَوْلَةً"
+    text: "صِحتُ، كما يقول ابن أبي شَنَب في حاشيته [@diwan-alqama، ص92]."
+  - term: "تَرَقَّبُ ... غَيْرَ أَدْنَى تَرَقُّبِ"
+    text: "«تخاف السوط فتلحظه بمؤخر عينها... ترقّبًا شديدًا لحدّة نفسها وذكاء قلبها» [@diwan-alqama، ص92]."
+sources:
+  - source: "diwan-alqama"
+    loc: "ص92"
+    url: "https://archive.org/details/AAlexandrina-144694/page/n101/mode/1up"
+status: "review"

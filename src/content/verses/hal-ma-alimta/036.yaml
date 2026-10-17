@@ -1,0 +1,18 @@
+explained: false
+first: "والجَهْلُ ذُو عَرَضٍ لا يُسْتَرادُ لَهُ"
+second: "والحِلْمُ آوِنَةً فِي النّاسِ مَعْدُومُ"
+vocabulary:
+  - term: "لا يُسْتَرادُ"
+    text: "«لا يراد ولا يطلب» [@tabrizi-ikhtiyarat، ج3 ص1618]."
+  - term: "ذُو عَرَضٍ"
+    text: "«يعرض لك، وأنت لا تريده، ولا تطلبه» [@tabrizi-ikhtiyarat، ج3 ص1618]."
+  - term: "آوِنَةً"
+    text: "«أحيانًا» [@tabrizi-ikhtiyarat، ج3 ص1618]."
+sources:
+  - source: "mufaddaliyyat"
+    loc: "ص401"
+    url: "https://shamela.ws/book/6904/375"
+  - source: "tabrizi-ikhtiyarat"
+    loc: "ج3 ص1618"
+    url: "https://archive.org/details/3820pdf/page/n1626/mode/1up"
+status: "review"

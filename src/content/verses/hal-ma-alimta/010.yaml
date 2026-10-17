@@ -1,0 +1,18 @@
+explained: false
+first: "قَدْ أَدْبَرَ العَرُّ عَنْها وهْيَ شامِلُها"
+second: "مِنْ ناصِعِ القَطِرانِ الصِّرْفِ تَدْسِيمُ"
+vocabulary:
+  - term: "العَرُّ"
+    text: "«الجرب» [@tabrizi-ikhtiyarat، ج3 ص1605]."
+  - term: "ناصِعِ"
+    text: "«خالص اللون» [@tabrizi-ikhtiyarat، ج3 ص1605]."
+  - term: "تَدْسِيمُ"
+    text: "أثر القطران، طُليت به فذهب جربها [@tabrizi-ikhtiyarat، ج3 ص1605]."
+sources:
+  - source: "mufaddaliyyat"
+    loc: "ص398"
+    url: "https://shamela.ws/book/6904/372"
+  - source: "tabrizi-ikhtiyarat"
+    loc: "ج3 ص1605"
+    url: "https://archive.org/details/3820pdf/page/n1613/mode/1up"
+status: "review"

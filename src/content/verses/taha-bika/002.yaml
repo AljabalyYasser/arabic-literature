@@ -1,0 +1,23 @@
+explained: false
+first: "يُكَلِّفُنِي لَيْلَى وقَدْ شَطَّ وَلْيُها"
+second: "وعادَتْ عَوادٍ بَيْنَنا وخُطُوبُ"
+vocabulary:
+  - term: "يُكَلِّفُنِي"
+    text: "الفاعل القلب، أي يكلّفني قلبي حبّ ليلى [@tabrizi-ikhtiyarat، ج3 ص1578]."
+  - term: "شَطَّ وَلْيُها"
+    text: "بَعُد قربها، والوَلْي: «عهدها» [@tabrizi-ikhtiyarat، ج3 ص1578]."
+  - term: "عادَتْ عَوادٍ"
+    text: "حالت بيننا الشواغل والموانع، كما يفسّرها محقق شرح التِّبْرِيزِيّ [@tabrizi-ikhtiyarat، ج3 ص1577]."
+  - term: "خُطُوبُ"
+    text: "أمور عظام."
+sources:
+  - source: "mufaddaliyyat"
+    loc: "ص391"
+    url: "https://shamela.ws/book/6904/365"
+  - source: "tabrizi-ikhtiyarat"
+    loc: "ج3 ص1578"
+    url: "https://archive.org/details/3820pdf/page/n1586/mode/1up"
+  - source: "tabrizi-ikhtiyarat"
+    loc: "ج3 ص1577"
+    url: "https://archive.org/details/3820pdf/page/n1585/mode/1up"
+status: "review"

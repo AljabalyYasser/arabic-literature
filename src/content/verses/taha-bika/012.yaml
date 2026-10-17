@@ -1,0 +1,18 @@
+explained: false
+first: "وعِيسٍ بَرَيْناها كَأَنَّ عُيُونَها"
+second: "قَوارِيرُ فِي أَدْهانِهِنَّ نُضُوبُ"
+vocabulary:
+  - term: "عِيسٍ"
+    text: "«إبل تعلو بياضها حمرة» [@tabrizi-ikhtiyarat، ج3 ص1583]."
+  - term: "بَرَيْناها"
+    text: "أهزلناها بطول السير، كما يُبرى العود."
+  - term: "قَوارِيرُ فِي أَدْهانِهِنَّ نُضُوبُ"
+    text: "غارت عيونها من التعب حتى صارت كأنها قوارير «فني الأكثر من أدهانها»، والنضوب: القلة [@tabrizi-ikhtiyarat، ج3 ص1583]."
+sources:
+  - source: "mufaddaliyyat"
+    loc: "ص392"
+    url: "https://shamela.ws/book/6904/366"
+  - source: "tabrizi-ikhtiyarat"
+    loc: "ج3 ص1583"
+    url: "https://archive.org/details/3820pdf/page/n1591/mode/1up"
+status: "review"

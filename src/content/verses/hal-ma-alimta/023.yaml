@@ -1,0 +1,20 @@
+explained: false
+first: "يَكادُ مَنْسِمُهُ يَخْتَلُّ مُقْلَتَهُ"
+second: "كَأَنَّهُ حاذِرٌ لِلنَّخْسِ مَشْهُومُ"
+vocabulary:
+  - term: "مَنْسِمُهُ"
+    text: "«ظفره» [@tabrizi-ikhtiyarat، ج3 ص1612]."
+  - term: "يَخْتَلُّ مُقْلَتَهُ"
+    text: "يشكّها؛ يقول: «يزجّ برجليه زجًّا شديدًا، ويخفض عنقه، فيكاد منسمه يشكّ عينه» [@tabrizi-ikhtiyarat، ج3 ص1612]."
+  - term: "النَّخْسِ"
+    text: "أن يُغرز جنب الدابة أو مؤخرها بعود، كما يقول محقق شرح التِّبْرِيزِيّ [@tabrizi-ikhtiyarat، ج3 ص1612]."
+  - term: "مَشْهُومُ"
+    text: "«الفزع المروّع» [@tabrizi-ikhtiyarat، ج3 ص1612]."
+sources:
+  - source: "mufaddaliyyat"
+    loc: "ص400"
+    url: "https://shamela.ws/book/6904/374"
+  - source: "tabrizi-ikhtiyarat"
+    loc: "ج3 ص1612"
+    url: "https://archive.org/details/3820pdf/page/n1620/mode/1up"
+status: "review"

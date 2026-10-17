@@ -1,0 +1,18 @@
+explained: false
+first: "وإِلّا كَمِيٌّ ذُو حِفاظٍ كَأَنَّهُ"
+second: "بِما ابْتَلَّ مِنْ حَدِّ الظُّباتِ خَضِيبُ"
+vocabulary:
+  - term: "كَمِيٌّ"
+    text: "الشجاع، «يكمي شجاعته لوقت الحاجة، أي: يسترها» [@tabrizi-ikhtiyarat، ج3 ص1597]."
+  - term: "الظُّباتِ"
+    text: "حدود السيوف."
+  - term: "خَضِيبُ"
+    text: "«قد خُضب بالدم» [@tabrizi-ikhtiyarat، ج3 ص1597]."
+sources:
+  - source: "mufaddaliyyat"
+    loc: "ص396"
+    url: "https://shamela.ws/book/6904/370"
+  - source: "tabrizi-ikhtiyarat"
+    loc: "ج3 ص1597"
+    url: "https://archive.org/details/3820pdf/page/n1605/mode/1up"
+status: "review"

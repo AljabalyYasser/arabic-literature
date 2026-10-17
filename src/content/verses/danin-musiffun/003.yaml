@@ -1,0 +1,18 @@
+explained: false
+first: "فَمَنْ بِمَحْفِلِهِ كَمَنْ بِنَجْوَتِهِ"
+second: "وَالمُسْتَكِنُّ كَمَنْ يَمْشِي بِقِرْوَاحِ"
+vocabulary:
+  - term: "فَمَنْ بِمَحْفِلِهِ كَمَنْ بِنَجْوَتِهِ"
+    text: "قال أبو الفَرَج: «يعنى من هو بحيث احتفل السيل - واحتفال كل شىء معظمه - كمن فى نجوته»، و«يقول: فمن هو فى هذا الموضع منه كمن بنجوته (أى ناحية عنه) سواء لكثرة المطر» [@aghani-dk، ج11 ص71]. والنجوة: ما ارتفع من الأرض."
+  - term: "المُسْتَكِنُّ"
+    text: "المستتر في بيته."
+  - term: "بِقِرْوَاحِ"
+    text: "«والقرواح: الفضاء» [@aghani-dk، ج11 ص71–72]."
+sources:
+  - source: "aghani-dk"
+    loc: "ج11 ص71"
+    url: "https://archive.org/details/Al-aghani_11/page/n70/mode/1up"
+  - source: "aghani-dk"
+    loc: "ج11 ص72"
+    url: "https://archive.org/details/Al-aghani_11/page/n71/mode/1up"
+status: "review"

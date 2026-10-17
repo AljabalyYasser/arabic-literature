@@ -1,0 +1,23 @@
+explained: false
+first: "وناجِيَةٍ أَفْنَى رَكِيبَ ضُلُوعِها"
+second: "وحارِكَها تَهَجُّرٌ فَدُؤُوبُ"
+vocabulary:
+  - term: "ناجِيَةٍ"
+    text: "الناقة السريعة، كما يقول محقق شرح التِّبْرِيزِيّ [@tabrizi-ikhtiyarat، ج3 ص1585]."
+  - term: "رَكِيبَ ضُلُوعِها"
+    text: "«ما ركب ضلوعها من الشحم واللحم» [@tabrizi-ikhtiyarat، ج3 ص1584]."
+  - term: "حارِكَها"
+    text: "«ملتقى الكتفين في مقدم السنام» [@tabrizi-ikhtiyarat، ج3 ص1584]."
+  - term: "تَهَجُّرٌ فَدُؤُوبُ"
+    text: "التهجّر: السير في الهاجرة، والدؤوب: الإلحاح في السير، كما يقول المحقق [@tabrizi-ikhtiyarat، ج3 ص1585]."
+sources:
+  - source: "mufaddaliyyat"
+    loc: "ص393"
+    url: "https://shamela.ws/book/6904/367"
+  - source: "tabrizi-ikhtiyarat"
+    loc: "ج3 ص1585"
+    url: "https://archive.org/details/3820pdf/page/n1593/mode/1up"
+  - source: "tabrizi-ikhtiyarat"
+    loc: "ج3 ص1584"
+    url: "https://archive.org/details/3820pdf/page/n1592/mode/1up"
+status: "review"

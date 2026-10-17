@@ -1,0 +1,20 @@
+explained: false
+first: "وجَوْفٌ هَواءٌ تَحْتَ مَتْنٍ كَأَنَّهُ"
+second: "مِنَ الهَضْبَةِ الخَلْقاءِ زُحْلُوقُ مَلْعَبِ"
+vocabulary:
+  - term: "جَوْفٌ هَواءٌ"
+    text: "«واسع كأنه فارغ لسعته» [@diwan-alqama، ص98]."
+  - term: "مَتْنٍ"
+    text: "الظهر، كما يقول ابن أبي شَنَب في حاشيته [@diwan-alqama، ص99]."
+  - term: "الخَلْقاءِ"
+    text: "«الملساء» [@diwan-alqama، ص99]."
+  - term: "زُحْلُوقُ مَلْعَبِ"
+    text: "«موضع أملس يلعب عليه الصبيان ويزحلقونه»؛ يقول: «متن هذا الفرس أملس كزحلوق في صخرة ملساء» [@diwan-alqama، ص99]."
+sources:
+  - source: "diwan-alqama"
+    loc: "ص98"
+    url: "https://archive.org/details/AAlexandrina-144694/page/n107/mode/1up"
+  - source: "diwan-alqama"
+    loc: "ص99"
+    url: "https://archive.org/details/AAlexandrina-144694/page/n108/mode/1up"
+status: "review"

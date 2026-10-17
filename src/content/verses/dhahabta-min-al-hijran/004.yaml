@@ -1,0 +1,18 @@
+explained: false
+first: "مَحالٌ كَأَجْوازِ الجَرادِ ولُؤْلُؤٌ"
+second: "مِنَ القَلَقِيِّ والكَبِيسِ المُلَوَّبِ"
+vocabulary:
+  - term: "مَحالٌ كَأَجْوازِ الجَرادِ"
+    text: "«المحال: الشَّذْر من الذهب، وهو مثل صدور الجراد، يُحشى مسكًا» [@diwan-alqama، ص85]."
+  - term: "القَلَقِيِّ"
+    text: "«جنس من اللؤلؤ مدحرج لا يستقرّ» [@diwan-alqama، ص85]."
+  - term: "الكَبِيسِ المُلَوَّبِ"
+    text: "الكبيس «ما حُشي وطُلي بالمَلاب، وهو ضرب من الطيب» [@diwan-alqama، ص85]."
+sources:
+  - source: "diwan-alqama"
+    loc: "ص84"
+    url: "https://archive.org/details/AAlexandrina-144694/page/n93/mode/1up"
+  - source: "diwan-alqama"
+    loc: "ص85"
+    url: "https://archive.org/details/AAlexandrina-144694/page/n94/mode/1up"
+status: "review"

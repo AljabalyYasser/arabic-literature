@@ -1,0 +1,21 @@
+explained: false
+first: "حَتَّى تَلافَى وقَرْنُ الشَّمْسِ مُرْتَفِعٌ"
+second: "أُدْحِيَّ عِرْسَيْنِ فِيهِ البَيْضُ مَرْكُومُ"
+vocabulary:
+  - term: "تَلافَى"
+    text: "«تدارك» [@tabrizi-ikhtiyarat، ج3 ص1615]."
+  - term: "عِرْسَيْنِ"
+    text: "«هو والنعامة. هو عرس لها، وهي عرس له» [@tabrizi-ikhtiyarat، ج3 ص1615]."
+  - term: "مَرْكُومُ"
+    text: "ركب بعضه بعضًا لكثرته، كما يقول محقق شرح التِّبْرِيزِيّ [@tabrizi-ikhtiyarat، ج3 ص1614]."
+sources:
+  - source: "mufaddaliyyat"
+    loc: "ص400"
+    url: "https://shamela.ws/book/6904/374"
+  - source: "tabrizi-ikhtiyarat"
+    loc: "ج3 ص1615"
+    url: "https://archive.org/details/3820pdf/page/n1623/mode/1up"
+  - source: "tabrizi-ikhtiyarat"
+    loc: "ج3 ص1614"
+    url: "https://archive.org/details/3820pdf/page/n1622/mode/1up"
+status: "review"

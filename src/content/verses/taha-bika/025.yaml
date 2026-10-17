@@ -1,0 +1,16 @@
+explained: false
+first: "وأَنْتَ امْرُؤٌ أَفْضَتْ إِلَيْكَ أَمانَتِي"
+second: "وقَبْلَكَ رَبَّتْنِي فَضِعْتُ رُبُوبُ"
+vocabulary:
+  - term: "أَفْضَتْ إِلَيْكَ أَمانَتِي"
+    text: "«صار إليك، من أمري، ما أمنت معه الضياع» [@tabrizi-ikhtiyarat، ج3 ص1590]."
+  - term: "رَبَّتْنِي ... رُبُوبُ"
+    text: "«أي: ملكتني قبلك ملوك وأرباب، فضعت، حتى صرت إليك» [@tabrizi-ikhtiyarat، ج3 ص1590]."
+sources:
+  - source: "mufaddaliyyat"
+    loc: "ص394"
+    url: "https://shamela.ws/book/6904/368"
+  - source: "tabrizi-ikhtiyarat"
+    loc: "ج3 ص1590"
+    url: "https://archive.org/details/3820pdf/page/n1598/mode/1up"
+status: "review"

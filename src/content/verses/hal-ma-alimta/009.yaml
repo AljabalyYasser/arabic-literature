@@ -1,0 +1,22 @@
+explained: false
+first: "قَدْ عُرِّيَتْ زَمَنًا حَتَّى اسْتَطَفَّ لَها"
+second: "كِتْرٌ كَحافَةِ كِيرِ القَيْنِ مَلْمُومُ"
+vocabulary:
+  - term: "عُرِّيَتْ"
+    text: "«يريد: أُجِمّت، وأُهملت في المرعى، وأُعفيت من العمل مدة، فسمنت» [@tabrizi-ikhtiyarat، ج3 ص1605]."
+  - term: "اسْتَطَفَّ"
+    text: "«أي: ارتفع» [@tabrizi-ikhtiyarat، ج3 ص1605]."
+  - term: "كِتْرٌ"
+    text: "قال الخليل: «الكتر: السنام» [@tabrizi-ikhtiyarat، ج3 ص1605]."
+  - term: "كِيرِ القَيْنِ"
+    text: "كير الحدّاد، «وهو الذي ينفخ فيه» [@tabrizi-ikhtiyarat، ج3 ص1605]."
+  - term: "مَلْمُومُ"
+    text: "«مجموع» [@tabrizi-ikhtiyarat، ج3 ص1605]."
+sources:
+  - source: "mufaddaliyyat"
+    loc: "ص398"
+    url: "https://shamela.ws/book/6904/372"
+  - source: "tabrizi-ikhtiyarat"
+    loc: "ج3 ص1605"
+    url: "https://archive.org/details/3820pdf/page/n1613/mode/1up"
+status: "review"

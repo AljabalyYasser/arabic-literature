@@ -1,0 +1,18 @@
+explained: false
+first: "لَهُ حُرَّتانِ تَعْرِفُ العِتْقَ فِيهِما"
+second: "كَسامِعَتَيْ مَذْعُورَةٍ وَسْطَ رَبْرَبِ"
+vocabulary:
+  - term: "حُرَّتانِ"
+    text: "«أذنيه، جعلهما حرّتين للطافتهما وانتصابهما وعتقهما» [@diwan-alqama، ص98]."
+  - term: "مَذْعُورَةٍ"
+    text: "«المفزَّعة، يعني بقرة ذُعرت فنصبت أذنيها» [@diwan-alqama، ص98]."
+  - term: "رَبْرَبِ"
+    text: "«جماعة بقر الوحش» [@diwan-alqama، ص98]."
+sources:
+  - source: "diwan-alqama"
+    loc: "ص97"
+    url: "https://archive.org/details/AAlexandrina-144694/page/n106/mode/1up"
+  - source: "diwan-alqama"
+    loc: "ص98"
+    url: "https://archive.org/details/AAlexandrina-144694/page/n107/mode/1up"
+status: "review"

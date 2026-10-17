@@ -1,0 +1,16 @@
+explained: false
+first: "إِذا أَنْفَدُوا زادًا فَإِنَّ عِنانَهُ"
+second: "وأَكْرُعَهُ مُسْتَعْمَلًا خَيْرُ مَكْسَبِ"
+vocabulary:
+  - term: "أَكْرُعَهُ"
+    text: "قوائمه."
+  - term: "خَيْرُ مَكْسَبِ"
+    text: "«إذا أنفد القوم زادهم فاستعملوا هذا الفرس في الصيد كان ذلك من خير ما اكتسبوا به لكثرة ما يصيد لهم» [@diwan-alqama، ص103]."
+sources:
+  - source: "diwan-alqama"
+    loc: "ص102"
+    url: "https://archive.org/details/AAlexandrina-144694/page/n111/mode/1up"
+  - source: "diwan-alqama"
+    loc: "ص103"
+    url: "https://archive.org/details/AAlexandrina-144694/page/n112/mode/1up"
+status: "review"

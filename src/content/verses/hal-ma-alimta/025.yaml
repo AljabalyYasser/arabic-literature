@@ -1,0 +1,16 @@
+explained: false
+first: "يَأْوِي إِلَى حِسْكِلٍ زُعْرٍ حَواصِلُهُ"
+second: "كَأَنَّهُنَّ إِذا بَرَّكْنَ جُرْثُومُ"
+vocabulary:
+  - term: "حِسْكِلٍ"
+    text: "«الفراخ الصغار» [@tabrizi-ikhtiyarat، ج3 ص1614]."
+  - term: "جُرْثُومُ"
+    text: "أصول الشجر «تجمع إليها الرياح السفى وحطام النبت»، شبّه بها الفراخ «لاجتماعها» [@tabrizi-ikhtiyarat، ج3 ص1614]."
+sources:
+  - source: "mufaddaliyyat"
+    loc: "ص400"
+    url: "https://shamela.ws/book/6904/374"
+  - source: "tabrizi-ikhtiyarat"
+    loc: "ج3 ص1614"
+    url: "https://archive.org/details/3820pdf/page/n1622/mode/1up"
+status: "review"

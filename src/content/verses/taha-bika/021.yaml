@@ -1,0 +1,22 @@
+explained: false
+first: "هَدانِي إِلَيْكَ الفَرْقَدانِ ولاحِبٌ"
+second: "لَهُ فَوْقَ أَصْواءِ المِتانِ عُلُوبُ"
+vocabulary:
+  - term: "الفَرْقَدانِ"
+    text: "نجمان قريبان من القطب يُهتدى بهما."
+  - term: "لاحِبٌ"
+    text: "«الطريق الواضح» [@tabrizi-ikhtiyarat، ج3 ص1588]."
+  - term: "أَصْواءِ"
+    text: "«جمع صُوّة، وهي حجارة تُجمع» علامةً للطريق [@tabrizi-ikhtiyarat، ج3 ص1588]."
+  - term: "المِتانِ"
+    text: "«ما غلظ من الأرض» [@tabrizi-ikhtiyarat، ج3 ص1588]."
+  - term: "عُلُوبُ"
+    text: "«الآثار» [@tabrizi-ikhtiyarat، ج3 ص1588]."
+sources:
+  - source: "mufaddaliyyat"
+    loc: "ص393"
+    url: "https://shamela.ws/book/6904/367"
+  - source: "tabrizi-ikhtiyarat"
+    loc: "ج3 ص1588"
+    url: "https://archive.org/details/3820pdf/page/n1596/mode/1up"
+status: "review"

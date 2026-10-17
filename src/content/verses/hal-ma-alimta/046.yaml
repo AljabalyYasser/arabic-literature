@@ -1,0 +1,20 @@
+explained: false
+first: "وقَدْ غَدَوْتُ عَلَى قِرْنِي يُشَيِّعُنِي"
+second: "ماضٍ أَخُو ثِقَةٍ بِالخَيْرِ مَوْسُومُ"
+vocabulary:
+  - term: "قِرْنِي"
+    text: "«الذي يقاومك في بطش، أو علم، أو غيره» [@tabrizi-ikhtiyarat، ج3 ص1624]."
+  - term: "يُشَيِّعُنِي"
+    text: "«يجرّئني» [@tabrizi-ikhtiyarat، ج3 ص1624]."
+  - term: "ماضٍ"
+    text: "«أراد بـ«الماضي» قلبه» [@tabrizi-ikhtiyarat، ج3 ص1624]."
+  - term: "مَوْسُومُ"
+    text: "«معروف، عليه ميسم» [@tabrizi-ikhtiyarat، ج3 ص1624]."
+sources:
+  - source: "mufaddaliyyat"
+    loc: "ص403"
+    url: "https://shamela.ws/book/6904/377"
+  - source: "tabrizi-ikhtiyarat"
+    loc: "ج3 ص1624"
+    url: "https://archive.org/details/3820pdf/page/n1632/mode/1up"
+status: "review"

@@ -1,0 +1,23 @@
+explained: false
+first: "إِذا تَزَغَّمَ مِنْ حافاتِها رُبَعٌ"
+second: "حَنَّتْ شَغامِيمُ فِي حافاتِها كُومُ"
+vocabulary:
+  - term: "تَزَغَّمَ"
+    text: "«حنّ حنينًا خفيًّا، أي: تزغّم لأمّه لترضعه» [@tabrizi-ikhtiyarat، ج3 ص1630]."
+  - term: "رُبَعٌ"
+    text: "الفصيل المولود في أول الربيع، كما يقول محقق شرح التِّبْرِيزِيّ [@tabrizi-ikhtiyarat، ج3 ص1629]."
+  - term: "شَغامِيمُ"
+    text: "«المسانّ التوام» [@tabrizi-ikhtiyarat، ج3 ص1630]."
+  - term: "كُومُ"
+    text: "«العظام الأسنمة» [@tabrizi-ikhtiyarat، ج3 ص1630]."
+sources:
+  - source: "mufaddaliyyat"
+    loc: "ص404"
+    url: "https://shamela.ws/book/6904/378"
+  - source: "tabrizi-ikhtiyarat"
+    loc: "ج3 ص1630"
+    url: "https://archive.org/details/3820pdf/page/n1638/mode/1up"
+  - source: "tabrizi-ikhtiyarat"
+    loc: "ج3 ص1629"
+    url: "https://archive.org/details/3820pdf/page/n1637/mode/1up"
+status: "review"

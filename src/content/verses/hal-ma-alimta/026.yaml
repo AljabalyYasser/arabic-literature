@@ -1,0 +1,16 @@
+explained: false
+first: "فَطافَ طَوْفَيْنِ بِالأُدْحِيِّ يَقْفُرُهُ"
+second: "كَأَنَّهُ حاذِرٌ لِلنَّخْسِ مَشْهُومُ"
+vocabulary:
+  - term: "الأُدْحِيِّ"
+    text: "مبيض النعام، كما يقول محقق شرح التِّبْرِيزِيّ [@tabrizi-ikhtiyarat، ج3 ص1614]."
+  - term: "يَقْفُرُهُ"
+    text: "«القفر: تتبّع الأثر»، وكرّر التطواف «ليستأنس بالأدحي، ولينظر: هل تغيّر عما عهد له؟» [@tabrizi-ikhtiyarat، ج3 ص1614]."
+sources:
+  - source: "mufaddaliyyat"
+    loc: "ص400"
+    url: "https://shamela.ws/book/6904/374"
+  - source: "tabrizi-ikhtiyarat"
+    loc: "ج3 ص1614"
+    url: "https://archive.org/details/3820pdf/page/n1622/mode/1up"
+status: "review"

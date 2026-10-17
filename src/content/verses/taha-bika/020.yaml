@@ -1,0 +1,16 @@
+explained: false
+first: "لِتُبْلِغَنِي دارَ امْرِئٍ كانَ نائِيًا"
+second: "فَقَدْ قَرَّبَتْنِي مِنْ نَداكَ قَرُوبُ"
+vocabulary:
+  - term: "نَداكَ"
+    text: "عطاؤك."
+  - term: "قَرُوبُ"
+    text: "من قولهم: قربتُ الماء إذا طلبته، أي ناقة «جادّة في الطلب» [@tabrizi-ikhtiyarat، ج3 ص1587]، ويروي محقق شرح التِّبْرِيزِيّ عن الأَعْلَم أنه اسم ناقته [@tabrizi-ikhtiyarat، ج3 ص1587]."
+sources:
+  - source: "mufaddaliyyat"
+    loc: "ص393"
+    url: "https://shamela.ws/book/6904/367"
+  - source: "tabrizi-ikhtiyarat"
+    loc: "ج3 ص1587"
+    url: "https://archive.org/details/3820pdf/page/n1595/mode/1up"
+status: "review"

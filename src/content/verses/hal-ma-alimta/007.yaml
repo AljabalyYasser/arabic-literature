@@ -1,0 +1,21 @@
+explained: false
+first: "كَأَنَّ فارَةَ مِسْكٍ فِي مَفارِقِها"
+second: "لِلْباسِطِ المُتَعاطِي وهْوَ مَزْكُومُ"
+vocabulary:
+  - term: "فارَةَ مِسْكٍ"
+    text: "«وعاء المسك، وهو النافجة» [@tabrizi-ikhtiyarat، ج3 ص1603]."
+  - term: "مَفارِقِها"
+    text: "«جمع مَفْرِق الرأس» [@tabrizi-ikhtiyarat، ج3 ص1603]."
+  - term: "البَاسِطِ المُتَعاطِي"
+    text: "الذي يبسط يده إليها ليتناول [@tabrizi-ikhtiyarat، ج3 ص1603]، و«خصّ المزكوم، لأنه أضعف إدراكًا للرائحة» [@tabrizi-ikhtiyarat، ج3 ص1604]."
+sources:
+  - source: "mufaddaliyyat"
+    loc: "ص397"
+    url: "https://shamela.ws/book/6904/371"
+  - source: "tabrizi-ikhtiyarat"
+    loc: "ج3 ص1603"
+    url: "https://archive.org/details/3820pdf/page/n1611/mode/1up"
+  - source: "tabrizi-ikhtiyarat"
+    loc: "ج3 ص1604"
+    url: "https://archive.org/details/3820pdf/page/n1612/mode/1up"
+status: "review"

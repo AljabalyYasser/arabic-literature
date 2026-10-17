@@ -1,0 +1,18 @@
+explained: false
+first: "فَقُلْتُ لَها فِيئِي فَما يَسْتَفِزُّنِي"
+second: "ذَواتُ العُيُونِ والبَنانِ المُخَضَّبِ"
+vocabulary:
+  - term: "فِيئِي"
+    text: "«ارجعي إلى أهلك فلا حاجة لنا إليك» [@diwan-alqama، ص89]."
+  - term: "يَسْتَفِزُّنِي"
+    text: "«يستخفّني ويحملني على الطرب والشوق» [@diwan-alqama، ص89]."
+  - term: "البَنانِ المُخَضَّبِ"
+    text: "أطراف الأصابع المصبوغة بالحنّاء."
+sources:
+  - source: "diwan-alqama"
+    loc: "ص88"
+    url: "https://archive.org/details/AAlexandrina-144694/page/n97/mode/1up"
+  - source: "diwan-alqama"
+    loc: "ص89"
+    url: "https://archive.org/details/AAlexandrina-144694/page/n98/mode/1up"
+status: "review"

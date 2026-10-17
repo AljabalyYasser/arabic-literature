@@ -1,0 +1,18 @@
+explained: false
+first: "بَلْ كُلُّ قَوْمٍ وإِنْ عَزُّوا وإِنْ كَثُرُوا"
+second: "عَرِيفُهُمْ بِأَثافِي الشَّرِّ مَرْجُومُ"
+vocabulary:
+  - term: "عَرِيفُهُمْ"
+    text: "«السيد» [@tabrizi-ikhtiyarat، ج3 ص1616]."
+  - term: "أَثافِي الشَّرِّ"
+    text: "عظائمه، وهي الدواهي، كما يقول محقق شرح التِّبْرِيزِيّ [@tabrizi-ikhtiyarat، ج3 ص1616]."
+  - term: "مَرْجُومُ"
+    text: "مرميّ."
+sources:
+  - source: "mufaddaliyyat"
+    loc: "ص401"
+    url: "https://shamela.ws/book/6904/375"
+  - source: "tabrizi-ikhtiyarat"
+    loc: "ج3 ص1616"
+    url: "https://archive.org/details/3820pdf/page/n1624/mode/1up"
+status: "review"

@@ -1,0 +1,22 @@
+explained: false
+first: "وَضّاعَةٌ كَعِصِيِّ الشِّرْعِ جُؤْجُؤُهُ"
+second: "كَأَنَّهُ بِتَناهِي الرَّوْضِ عُلْجُومُ"
+vocabulary:
+  - term: "وَضّاعَةٌ"
+    text: "من «الوضع: السير السريع»، والهاء للمبالغة [@tabrizi-ikhtiyarat، ج3 ص1613]."
+  - term: "عِصِيِّ الشِّرْعِ"
+    text: "«العود الذي يُضرب به»، والشرع: الأوتار، «شبّه صدر الظليم، في نتوئه، بصدر البربط» [@tabrizi-ikhtiyarat، ج3 ص1613]."
+  - term: "جُؤْجُؤُهُ"
+    text: "صدره."
+  - term: "تَناهِي الرَّوْضِ"
+    text: "حيث ينتهي السيل ويستقر من الرياض، كما يقول محقق شرح التِّبْرِيزِيّ [@tabrizi-ikhtiyarat، ج3 ص1613]."
+  - term: "عُلْجُومُ"
+    text: "قال المَرْزُوقِيّ: «وهو طير الماء، وقد يكون ذكر الضفادع» [@tabrizi-ikhtiyarat، ج3 ص1613]."
+sources:
+  - source: "mufaddaliyyat"
+    loc: "ص400"
+    url: "https://shamela.ws/book/6904/374"
+  - source: "tabrizi-ikhtiyarat"
+    loc: "ج3 ص1613"
+    url: "https://archive.org/details/3820pdf/page/n1621/mode/1up"
+status: "review"

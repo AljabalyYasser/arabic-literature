@@ -1,0 +1,21 @@
+explained: false
+first: "رَغا فَوْقَهُمْ سَقْبُ السَّماءِ فَداحِضٌ"
+second: "بِشِكَّتِهِ لَمْ يُسْتَلَبْ وسَلِيبُ"
+vocabulary:
+  - term: "رَغا فَوْقَهُمْ سَقْبُ السَّماءِ"
+    text: "شبّههم «بثمود حين عقروا الناقة، ورغا البكر فيهم، فأهلكهم الله»، والسَّقْب ولد الناقة [@tabrizi-ikhtiyarat، ج3 ص1595]."
+  - term: "داحِضٌ"
+    text: "«زَلِق» [@tabrizi-ikhtiyarat، ج3 ص1596]."
+  - term: "شِكَّتِهِ"
+    text: "سلاحه، كما يقول محقق شرح التِّبْرِيزِيّ [@tabrizi-ikhtiyarat، ج3 ص1595]."
+sources:
+  - source: "mufaddaliyyat"
+    loc: "ص395"
+    url: "https://shamela.ws/book/6904/369"
+  - source: "tabrizi-ikhtiyarat"
+    loc: "ج3 ص1595"
+    url: "https://archive.org/details/3820pdf/page/n1603/mode/1up"
+  - source: "tabrizi-ikhtiyarat"
+    loc: "ج3 ص1596"
+    url: "https://archive.org/details/3820pdf/page/n1604/mode/1up"
+status: "review"

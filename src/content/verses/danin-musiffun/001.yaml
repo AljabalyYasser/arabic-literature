@@ -1,0 +1,18 @@
+explained: false
+first: "دَانٍ مُسِفٌّ فُوَيْقَ الأَرْضِ هَيْدَبُهُ"
+second: "يَكَادُ يَدْفَعُهُ مَنْ قَامَ بِالرَّاحِ"
+vocabulary:
+  - term: "دَانٍ مُسِفٌّ"
+    text: "قريب، أسفّ من الأرض أي دنا منها. يصف سحابًا."
+  - term: "هَيْدَبُهُ"
+    text: "«هَيْدَبِ السَّحابِ، وَهُوَ مَا تَدَلى مِنْ أَسافله إِلى الأَرض» [@lisan، ج1 ص781]."
+  - term: "بِالرَّاحِ"
+    text: "بالكفّ، جمع راحة."
+sources:
+  - source: "aghani-dk"
+    loc: "ج11 ص71"
+    url: "https://archive.org/details/Al-aghani_11/page/n70/mode/1up"
+  - source: "lisan"
+    loc: "ج1 ص781"
+    url: "https://shamela.ws/book/1687/781"
+status: "review"

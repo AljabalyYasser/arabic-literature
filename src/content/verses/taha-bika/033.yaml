@@ -1,0 +1,21 @@
+explained: false
+first: "تَخَشْخَشُ أَبْدانُ الحَدِيدِ عَلَيْهِمُ"
+second: "كَما خَشْخَشَتْ يُبْسَ الحَصادِ جَنُوبُ"
+vocabulary:
+  - term: "تَخَشْخَشُ"
+    text: "تتصوّت [@tabrizi-ikhtiyarat، ج3 ص1594]."
+  - term: "أَبْدانُ الحَدِيدِ"
+    text: "«الدروع والجواشن، وما يجري مجراها» [@tabrizi-ikhtiyarat، ج3 ص1594]."
+  - term: "يُبْسَ الحَصادِ"
+    text: "اليابس من النبت؛ شبّه قعقعة السلاح «بصوت يبيس الكلأ، وقد هبّت الريح عليه» [@tabrizi-ikhtiyarat، ج3 ص1595]."
+sources:
+  - source: "mufaddaliyyat"
+    loc: "ص395"
+    url: "https://shamela.ws/book/6904/369"
+  - source: "tabrizi-ikhtiyarat"
+    loc: "ج3 ص1594"
+    url: "https://archive.org/details/3820pdf/page/n1602/mode/1up"
+  - source: "tabrizi-ikhtiyarat"
+    loc: "ج3 ص1595"
+    url: "https://archive.org/details/3820pdf/page/n1603/mode/1up"
+status: "review"

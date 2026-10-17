@@ -1,0 +1,16 @@
+explained: false
+first: "كَأَنَّ رِجالَ الأَوْسِ تَحْتَ لَبانِهِ"
+second: "وما جَمَعَتْ جَلٌّ مَعًا وعَتِيبُ"
+vocabulary:
+  - term: "لَبانِهِ"
+    text: "صدره؛ ويقول محقق شرح التِّبْرِيزِيّ: تحت وطأة الجيش، وقيل تحت صدر فرس الحارث [@tabrizi-ikhtiyarat، ج3 ص1595]."
+  - term: "جَلٌّ ... وعَتِيبُ"
+    text: "قبيلتان، و«عتيب من جذام» [@tabrizi-ikhtiyarat، ج3 ص1595]."
+sources:
+  - source: "mufaddaliyyat"
+    loc: "ص395"
+    url: "https://shamela.ws/book/6904/369"
+  - source: "tabrizi-ikhtiyarat"
+    loc: "ج3 ص1595"
+    url: "https://archive.org/details/3820pdf/page/n1603/mode/1up"
+status: "review"

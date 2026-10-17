@@ -1,0 +1,16 @@
+explained: false
+first: "إِذا ما اقْتَنَصْنا لَمْ نُخاتِلْ بِجُنَّةٍ"
+second: "ولَكِنْ نُنادِي مِنْ بَعِيدٍ أَلا ارْكَبِ"
+vocabulary:
+  - term: "اقْتَنَصْنا"
+    text: "اصطدنا."
+  - term: "لَمْ نُخاتِلْ بِجُنَّةٍ"
+    text: "«لم نخاتل الصيد بأن نستتر عنه ونخفي أصواتنا، ولكن نجاهره» [@diwan-alqama، ص102]، والجُنّة ما استترت به."
+sources:
+  - source: "diwan-alqama"
+    loc: "ص101"
+    url: "https://archive.org/details/AAlexandrina-144694/page/n110/mode/1up"
+  - source: "diwan-alqama"
+    loc: "ص102"
+    url: "https://archive.org/details/AAlexandrina-144694/page/n111/mode/1up"
+status: "review"

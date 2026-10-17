@@ -1,0 +1,18 @@
+explained: false
+first: "بِها جِيَفُ الحَسْرَى فَأَمّا عِظامُها"
+second: "فَبِيضٌ وأَمّا جِلْدُها فَصَلِيبُ"
+vocabulary:
+  - term: "الحَسْرَى"
+    text: "النوق المُعْيِيَة التي هلكت في الطريق، كما يقول محقق شرح التِّبْرِيزِيّ [@tabrizi-ikhtiyarat، ج3 ص1588]."
+  - term: "جِلْدُها"
+    text: "«يريد: جلودها» [@tabrizi-ikhtiyarat، ج3 ص1588]."
+  - term: "صَلِيبُ"
+    text: "«الجلد الذي لم يُدبغ، ولم يُستعمل» [@tabrizi-ikhtiyarat، ج3 ص1588]."
+sources:
+  - source: "mufaddaliyyat"
+    loc: "ص394"
+    url: "https://shamela.ws/book/6904/368"
+  - source: "tabrizi-ikhtiyarat"
+    loc: "ج3 ص1588"
+    url: "https://archive.org/details/3820pdf/page/n1596/mode/1up"
+status: "review"

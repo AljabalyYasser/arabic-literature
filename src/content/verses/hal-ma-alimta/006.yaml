@@ -1,0 +1,18 @@
+explained: false
+first: "يَحْمِلْنَ أُتْرُجَّةً نَضْخُ العَبِيرِ بِها"
+second: "كَأَنَّ تَطْيابَها فِي الأَنْفِ مَشْمُومُ"
+vocabulary:
+  - term: "أُتْرُجَّةً"
+    text: "كنى بها عن المرأة «لطيب رائحتها» [@tabrizi-ikhtiyarat، ج3 ص1603]."
+  - term: "نَضْخُ العَبِيرِ"
+    text: "أثره الكثيف، والنضخ بالخاء «يكون اسمًا للخاثر» [@tabrizi-ikhtiyarat، ج3 ص1603]، والعبير أخلاط من الطيب تُجمع بالزعفران، كما يقول محقق شرح التِّبْرِيزِيّ [@tabrizi-ikhtiyarat، ج3 ص1603]."
+  - term: "تَطْيابَها"
+    text: "طيبها، «مصدر كالترداد والتذراف» [@tabrizi-ikhtiyarat، ج3 ص1603]."
+sources:
+  - source: "mufaddaliyyat"
+    loc: "ص397"
+    url: "https://shamela.ws/book/6904/371"
+  - source: "tabrizi-ikhtiyarat"
+    loc: "ج3 ص1603"
+    url: "https://archive.org/details/3820pdf/page/n1611/mode/1up"
+status: "review"

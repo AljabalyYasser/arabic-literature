@@ -1,0 +1,20 @@
+explained: false
+first: "فَبَيْنا تَمارِينا وعَقْدُ عِذارِهِ"
+second: "خَرَجْنَ عَلَيْنا كالجُمانِ المُثَقَّبِ"
+vocabulary:
+  - term: "تَمارِينا"
+    text: "«يماري بعضنا بعضًا في أمر الوحش» [@diwan-alqama، ص104]."
+  - term: "عَقْدُ عِذارِهِ"
+    text: "إلجامه، كما يقول ابن أبي شَنَب في حاشيته [@diwan-alqama، ص104]."
+  - term: "الجُمانِ"
+    text: "«حبّ يُصنع من فضة على هيئة الدرّ» [@diwan-alqama، ص104]."
+  - term: "المُثَقَّبِ"
+    text: "«أراد أن يخبر أنه منظوم فدلّ على ذلك بذكره التثقيب» [@diwan-alqama، ص104]."
+sources:
+  - source: "diwan-alqama"
+    loc: "ص103"
+    url: "https://archive.org/details/AAlexandrina-144694/page/n112/mode/1up"
+  - source: "diwan-alqama"
+    loc: "ص104"
+    url: "https://archive.org/details/AAlexandrina-144694/page/n113/mode/1up"
+status: "review"

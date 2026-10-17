@@ -1,0 +1,18 @@
+explained: false
+first: "مِنْ ذِكْرِ سَلْمَى وما ذِكْرِي الأَوانَ بِها"
+second: "إِلّا السَّفاهُ وظَنُّ الغَيْبِ تَرْجِيمُ"
+vocabulary:
+  - term: "مِنْ ذِكْرِ سَلْمَى"
+    text: "متعلق بما في البيت الثامن، «كأنه قال: بكيت من تذكري لسلمى» [@tabrizi-ikhtiyarat، ج3 ص1607]."
+  - term: "الأَوانَ"
+    text: "الحين، «جعله لحاضر الوقت» [@tabrizi-ikhtiyarat، ج3 ص1607]."
+  - term: "تَرْجِيمُ"
+    text: "ظنّ بلا يقين؛ يريد «أن مراجعتي الهوى، بعد البعاد وتغيّر الأحوال، سفاه، والحكم على الغائب ظنّ مرجوم» [@tabrizi-ikhtiyarat، ج3 ص1607]."
+sources:
+  - source: "mufaddaliyyat"
+    loc: "ص398"
+    url: "https://shamela.ws/book/6904/372"
+  - source: "tabrizi-ikhtiyarat"
+    loc: "ج3 ص1607"
+    url: "https://archive.org/details/3820pdf/page/n1615/mode/1up"
+status: "review"

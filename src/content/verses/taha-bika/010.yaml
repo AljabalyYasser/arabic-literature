@@ -1,0 +1,18 @@
+explained: false
+first: "يُرِدْنَ ثَراءَ المالِ حَيْثُ عَلِمْنَهُ"
+second: "وشَرْخُ الشَّبابِ عِنْدَهُنَّ عَجِيبُ"
+vocabulary:
+  - term: "ثَراءَ المالِ"
+    text: "كثرته."
+  - term: "شَرْخُ الشَّبابِ"
+    text: "أوله، كما يقول محقق شرح التِّبْرِيزِيّ [@tabrizi-ikhtiyarat، ج3 ص1582]."
+  - term: "عَجِيبُ"
+    text: "معجِب محبوب."
+sources:
+  - source: "mufaddaliyyat"
+    loc: "ص392"
+    url: "https://shamela.ws/book/6904/366"
+  - source: "tabrizi-ikhtiyarat"
+    loc: "ج3 ص1582"
+    url: "https://archive.org/details/3820pdf/page/n1590/mode/1up"
+status: "review"

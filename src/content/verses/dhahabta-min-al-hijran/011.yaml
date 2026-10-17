@@ -1,0 +1,20 @@
+explained: false
+first: "فَفاءَتْ كَما فاءَتْ مِنَ الأُدْمِ مُغْزِلٌ"
+second: "بِبِيشَةَ تَرْعَى فِي أَراكٍ وحُلَّبِ"
+vocabulary:
+  - term: "الأُدْمِ"
+    text: "ظباء طوال الأعناق بيض البطون سمر الظهور، كما يقول ابن أبي شَنَب في حاشيته [@diwan-alqama، ص89]."
+  - term: "مُغْزِلٌ"
+    text: "«الظبية ذات الغزال» [@diwan-alqama، ص89]، شبّهها بها في حسن العينين [@diwan-alqama، ص90]."
+  - term: "بِيشَةَ"
+    text: "وادٍ، كما يقول ابن أبي شَنَب في حاشيته [@diwan-alqama، ص89]."
+  - term: "أَراكٍ وحُلَّبِ"
+    text: "«شجر» [@diwan-alqama، ص89]."
+sources:
+  - source: "diwan-alqama"
+    loc: "ص89"
+    url: "https://archive.org/details/AAlexandrina-144694/page/n98/mode/1up"
+  - source: "diwan-alqama"
+    loc: "ص90"
+    url: "https://archive.org/details/AAlexandrina-144694/page/n99/mode/1up"
+status: "review"

@@ -1,0 +1,23 @@
+explained: false
+first: "والمالُ صُوفُ قَرارٍ يَلْعَبُونَ بِهِ"
+second: "عَلَى نِقادَتِهِ وافٍ ومَجْلُومُ"
+vocabulary:
+  - term: "قَرارٍ"
+    text: "«صغار الغنم» [@tabrizi-ikhtiyarat، ج3 ص1617]."
+  - term: "يَلْعَبُونَ بِهِ"
+    text: "«يتداولونه، ويعبثون به» [@tabrizi-ikhtiyarat، ج3 ص1617]."
+  - term: "نِقادَتِهِ"
+    text: "صغار الغنم، و«على نقادته» «أي: صغر أجسامه» [@tabrizi-ikhtiyarat، ج3 ص1618]."
+  - term: "وافٍ ومَجْلُومُ"
+    text: "الوافي «كثير»، والمجلوم «مجزوز بالجَلَم»، «وهذا مثل» [@tabrizi-ikhtiyarat، ج3 ص1617]: «منهم من يُعطى القليل، ومنهم من يُعطى الكثير» [@tabrizi-ikhtiyarat، ج3 ص1618]."
+sources:
+  - source: "mufaddaliyyat"
+    loc: "ص401"
+    url: "https://shamela.ws/book/6904/375"
+  - source: "tabrizi-ikhtiyarat"
+    loc: "ج3 ص1617"
+    url: "https://archive.org/details/3820pdf/page/n1625/mode/1up"
+  - source: "tabrizi-ikhtiyarat"
+    loc: "ج3 ص1618"
+    url: "https://archive.org/details/3820pdf/page/n1626/mode/1up"
+status: "review"

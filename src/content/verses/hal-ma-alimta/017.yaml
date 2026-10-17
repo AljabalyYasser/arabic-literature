@@ -1,0 +1,20 @@
+explained: false
+first: "تُلاحِظُ السَّوْطَ شَزْرًا وهْيَ ضامِزَةٌ"
+second: "كَما تَوَجَّسَ طاوِي الكَشْحِ مَوْشُومُ"
+vocabulary:
+  - term: "شَزْرًا"
+    text: "«النظر بمؤخر العين» [@tabrizi-ikhtiyarat، ج3 ص1609]."
+  - term: "ضامِزَةٌ"
+    text: "«التي لا ترغو من ضجر، ولا تجترّ» [@tabrizi-ikhtiyarat، ج3 ص1609]."
+  - term: "تَوَجَّسَ"
+    text: "تسمّع خائفًا."
+  - term: "طاوِي الكَشْحِ مَوْشُومُ"
+    text: "الثور الوحشي، «ضامر الجنبين والبطن»، و«لقوائمه خطط سود» [@tabrizi-ikhtiyarat، ج3 ص1609]."
+sources:
+  - source: "mufaddaliyyat"
+    loc: "ص399"
+    url: "https://shamela.ws/book/6904/373"
+  - source: "tabrizi-ikhtiyarat"
+    loc: "ج3 ص1609"
+    url: "https://archive.org/details/3820pdf/page/n1617/mode/1up"
+status: "review"

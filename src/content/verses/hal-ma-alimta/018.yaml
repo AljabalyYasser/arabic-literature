@@ -1,0 +1,23 @@
+explained: false
+first: "كَأَنَّها خاضِبٌ زُعْرٌ قَوادِمُهُ"
+second: "أَجْنَى لَهُ بِاللِّوَى شَرْيٌ وتَنُّومُ"
+vocabulary:
+  - term: "خاضِبٌ"
+    text: "ذكر النعام، «الظليم رعى الربيع، فعلته خضرة» [@tabrizi-ikhtiyarat، ج3 ص1609]."
+  - term: "زُعْرٌ قَوادِمُهُ"
+    text: "الزُّعر جمع أزعر، «وهو القليل الريش»، والقوادم «من كبار الريش» [@tabrizi-ikhtiyarat، ج3 ص1609]."
+  - term: "أَجْنَى لَهُ"
+    text: "أدرك ثمره فصار جنًى يُجنى."
+  - term: "شَرْيٌ وتَنُّومُ"
+    text: "الشَّرْي «شجر الحنظل»، والتَّنّوم «شجرة لها حبّ... ترعاه النعام» [@tabrizi-ikhtiyarat، ج3 ص1610]."
+sources:
+  - source: "mufaddaliyyat"
+    loc: "ص399"
+    url: "https://shamela.ws/book/6904/373"
+  - source: "tabrizi-ikhtiyarat"
+    loc: "ج3 ص1609"
+    url: "https://archive.org/details/3820pdf/page/n1617/mode/1up"
+  - source: "tabrizi-ikhtiyarat"
+    loc: "ج3 ص1610"
+    url: "https://archive.org/details/3820pdf/page/n1618/mode/1up"
+status: "review"

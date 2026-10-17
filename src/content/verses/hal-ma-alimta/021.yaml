@@ -1,0 +1,16 @@
+explained: false
+first: "حَتَّى تَذَكَّرَ بَيْضاتٍ وهَيَّجَهُ"
+second: "يَوْمُ رَذاذٍ عَلَيْهِ الرِّيحُ مَغْيُومُ"
+vocabulary:
+  - term: "رَذاذٍ"
+    text: "«مطر ضعيف القطر» [@tabrizi-ikhtiyarat، ج3 ص1611]."
+  - term: "مَغْيُومُ"
+    text: "«ذو غيم» [@tabrizi-ikhtiyarat، ج3 ص1611]."
+sources:
+  - source: "mufaddaliyyat"
+    loc: "ص399"
+    url: "https://shamela.ws/book/6904/373"
+  - source: "tabrizi-ikhtiyarat"
+    loc: "ج3 ص1611"
+    url: "https://archive.org/details/3820pdf/page/n1619/mode/1up"
+status: "review"

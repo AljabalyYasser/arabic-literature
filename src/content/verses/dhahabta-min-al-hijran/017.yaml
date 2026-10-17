@@ -1,0 +1,20 @@
+explained: false
+first: "كَأَنَّ بِحاذَيْها إِذا ما تَشَذَّرَتْ"
+second: "عَثاكِيلَ قِنْوٍ مِنْ سُمَيْحَةَ مُرْطِبِ"
+vocabulary:
+  - term: "حاذَيْها"
+    text: "«ما استقبلك من الفخذين إذا استدبرت الدابة» [@diwan-alqama، ص93]."
+  - term: "تَشَذَّرَتْ"
+    text: "«تصعّبت وتلوّت وضربت بذنبها نشاطًا» [@diwan-alqama، ص93]."
+  - term: "عَثاكِيلَ قِنْوٍ"
+    text: "العثاكيل جمع عِثكال «وهو القِنو»، أي العِذق؛ «وشبّه ذنب الناقة في كثرة فروعه وغزارة شعره بعناقيد النخل المرطبة» [@diwan-alqama، ص94]."
+  - term: "سُمَيْحَةَ"
+    text: "«اسم بئر»، أراد نخلها [@diwan-alqama، ص94]."
+sources:
+  - source: "diwan-alqama"
+    loc: "ص93"
+    url: "https://archive.org/details/AAlexandrina-144694/page/n102/mode/1up"
+  - source: "diwan-alqama"
+    loc: "ص94"
+    url: "https://archive.org/details/AAlexandrina-144694/page/n103/mode/1up"
+status: "review"

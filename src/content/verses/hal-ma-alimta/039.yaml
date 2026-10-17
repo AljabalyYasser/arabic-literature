@@ -1,0 +1,18 @@
+explained: false
+first: "قَدْ أَشْهَدُ الشَّرْبَ فِيهِمْ مِزْهَرٌ رَنِمٌ"
+second: "والقَوْمُ تَصْرَعُهُمْ صَهْباءُ خُرْطُومُ"
+vocabulary:
+  - term: "الشَّرْبَ"
+    text: "جماعة الشاربين."
+  - term: "مِزْهَرٌ رَنِمٌ"
+    text: "«يعني به: عودًا له رنيم، أي: صوت طيّب» [@tabrizi-ikhtiyarat، ج3 ص1619]."
+  - term: "صَهْباءُ خُرْطُومُ"
+    text: "خمر، والخرطوم أول ما ينزل منها من الدنّ، «وذلك أصفى لها»، كما يقول محقق شرح التِّبْرِيزِيّ [@tabrizi-ikhtiyarat، ج3 ص1619]."
+sources:
+  - source: "mufaddaliyyat"
+    loc: "ص402"
+    url: "https://shamela.ws/book/6904/376"
+  - source: "tabrizi-ikhtiyarat"
+    loc: "ج3 ص1619"
+    url: "https://archive.org/details/3820pdf/page/n1627/mode/1up"
+status: "review"

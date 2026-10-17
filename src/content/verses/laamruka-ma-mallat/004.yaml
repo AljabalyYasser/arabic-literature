@@ -1,0 +1,16 @@
+explained: false
+first: "سَأَجْزِيكِ أَوْ يَجْزِيكِ عَنِّي مُثَوِّبٌ"
+second: "وَقَصْرُكِ أَنْ يُثْنَى عَلَيْكِ وَتُحْمَدِي"
+vocabulary:
+  - term: "مُثَوِّبٌ"
+    text: "«الذى يعطى المحسن ثواب ما عمل» [@aghani-dk، ج11 ص73، الحاشية]."
+  - term: "وَقَصْرُكِ"
+    text: "«قصرك: غايتك وكفايتك» [@aghani-dk، ج11 ص73، الحاشية]. وفي «عيون الأخبار»: «وقصدك» [@uyun-al-akhbar، ج3 ص186]."
+sources:
+  - source: "aghani-dk"
+    loc: "ج11 ص73"
+    url: "https://archive.org/details/Al-aghani_11/page/n72/mode/1up"
+  - source: "uyun-al-akhbar"
+    loc: "ج3 ص186"
+    url: "https://shamela.ws/book/23790/1048"
+status: "review"

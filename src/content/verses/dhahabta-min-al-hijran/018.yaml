@@ -1,0 +1,18 @@
+explained: false
+first: "تَذُبُّ بِهِ طَوْرًا وطَوْرًا تُمِرُّهُ"
+second: "كَذَبِّ البَشِيرِ بِالرِّداءِ المُهَدَّبِ"
+vocabulary:
+  - term: "تَذُبُّ بِهِ ... تُمِرُّهُ"
+    text: "تحرّكه حينًا وتفتله حينًا، كما يقول ابن أبي شَنَب في حاشيته [@diwan-alqama، ص94]."
+  - term: "كَذَبِّ البَشِيرِ"
+    text: "«لأن البشير يلمع للقوم بالرداء إذا جاء مبشّرًا ليُعلم أنه أتى بخبر خير» [@diwan-alqama، ص94]."
+  - term: "المُهَدَّبِ"
+    text: "«ذو الهُدْب» [@diwan-alqama، ص94]."
+sources:
+  - source: "diwan-alqama"
+    loc: "ص93"
+    url: "https://archive.org/details/AAlexandrina-144694/page/n102/mode/1up"
+  - source: "diwan-alqama"
+    loc: "ص94"
+    url: "https://archive.org/details/AAlexandrina-144694/page/n103/mode/1up"
+status: "review"

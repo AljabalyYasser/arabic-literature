@@ -1,0 +1,15 @@
+explained: false
+first: "يَا عَيْنُ لَا بُدَّ مِنْ سَكْبٍ وَتَهْمَالِ"
+second: "عَلَى فَضَالَةَ جَلَّ الرُّزْءُ وَالعَالِي"
+vocabulary:
+  - term: "سَكْبٍ وَتَهْمَالِ"
+    text: "صبّ الدمع وسيلانه."
+  - term: "الرُّزْءُ"
+    text: "المصيبة."
+  - term: "العَالِي"
+    text: "«الأمر العظيم الغالب» [@aghani-dk، ج11 ص73]."
+sources:
+  - source: "aghani-dk"
+    loc: "ج11 ص73"
+    url: "https://archive.org/details/Al-aghani_11/page/n72/mode/1up"
+status: "review"

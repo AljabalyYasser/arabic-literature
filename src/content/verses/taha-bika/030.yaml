@@ -1,0 +1,18 @@
+explained: false
+first: "مُظاهِرُ سِرْبالَيْ حَدِيدٍ عَلَيْهِما"
+second: "عَقِيلا سُيُوفٍ مِخْذَمٌ ورَسُوبُ"
+vocabulary:
+  - term: "مُظاهِرُ سِرْبالَيْ حَدِيدٍ"
+    text: "لابس درعين إحداهما فوق الأخرى؛ قال المُفَضَّل: «لبس الحارث يوم عين أباغ درعين، وتقلد سيفيه: مخذما ورسوبا» [@tabrizi-ikhtiyarat، ج3 ص1592]."
+  - term: "عَقِيلا"
+    text: "«وعقيلة كل شيء: خياره» [@tabrizi-ikhtiyarat، ج3 ص1592]."
+  - term: "مِخْذَمٌ ورَسُوبُ"
+    text: "اسما سيفيه: «المخذم»: القاطع، و«الرسوب»: الذي يرسب في الضريبة [@tabrizi-ikhtiyarat، ج3 ص1592]."
+sources:
+  - source: "mufaddaliyyat"
+    loc: "ص394"
+    url: "https://shamela.ws/book/6904/368"
+  - source: "tabrizi-ikhtiyarat"
+    loc: "ج3 ص1592"
+    url: "https://archive.org/details/3820pdf/page/n1600/mode/1up"
+status: "review"

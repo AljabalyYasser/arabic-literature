@@ -1,0 +1,23 @@
+explained: false
+first: "وتُصْبِحُ عَنْ غِبِّ السُّرَى وكَأَنَّها"
+second: "مُوَلَّعَةٌ تَخْشَى القَنِيصَ شَبُوبُ"
+vocabulary:
+  - term: "عَنْ غِبِّ السُّرَى"
+    text: "«يريد: بعد غِبّ السُّرى»، والسُّرى سير الليل [@tabrizi-ikhtiyarat، ج3 ص1585]."
+  - term: "مُوَلَّعَةٌ"
+    text: "بقرة وحشية في قوائمها خطوط، و«المعنى: أن السير لا يكلّها، ولا يذهب بنشاطها» [@tabrizi-ikhtiyarat، ج3 ص1585]."
+  - term: "القَنِيصَ"
+    text: "«هنا: الصائد» [@tabrizi-ikhtiyarat، ج3 ص1586]."
+  - term: "شَبُوبُ"
+    text: "«مُسنّ» [@tabrizi-ikhtiyarat، ج3 ص1586]."
+sources:
+  - source: "mufaddaliyyat"
+    loc: "ص393"
+    url: "https://shamela.ws/book/6904/367"
+  - source: "tabrizi-ikhtiyarat"
+    loc: "ج3 ص1585"
+    url: "https://archive.org/details/3820pdf/page/n1593/mode/1up"
+  - source: "tabrizi-ikhtiyarat"
+    loc: "ج3 ص1586"
+    url: "https://archive.org/details/3820pdf/page/n1594/mode/1up"
+status: "review"

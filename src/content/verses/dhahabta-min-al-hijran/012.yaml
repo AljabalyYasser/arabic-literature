@@ -1,0 +1,21 @@
+explained: false
+first: "فَعِشْنا بِها مِنَ الشَّبابِ مُلاوَةً"
+second: "فَأَنْجَحَ آياتُ الرَّسُولِ المُخَبِّبِ"
+vocabulary:
+  - term: "مُلاوَةً"
+    text: "«الدهر الطويل» [@diwan-alqama، ص90]."
+  - term: "فَأَنْجَحَ آياتُ الرَّسُولِ"
+    text: "يقول: كان رسول عدوّه لا يُطاع فيما يريد من هجرها له، «ثم أُطيع بعد ذلك وأُجيب» [@diwan-alqama، ص90]؛ والآيات: «العلامات، وأراد بها ما كان ينمّ به ويجعله علامة لصدقه فيما يشي به» [@diwan-alqama، ص91]."
+  - term: "المُخَبِّبِ"
+    text: "«الذي يعلّمها الخِبّ، والمكر» [@diwan-alqama، ص91]."
+sources:
+  - source: "diwan-alqama"
+    loc: "ص89"
+    url: "https://archive.org/details/AAlexandrina-144694/page/n98/mode/1up"
+  - source: "diwan-alqama"
+    loc: "ص90"
+    url: "https://archive.org/details/AAlexandrina-144694/page/n99/mode/1up"
+  - source: "diwan-alqama"
+    loc: "ص91"
+    url: "https://archive.org/details/AAlexandrina-144694/page/n100/mode/1up"
+status: "review"

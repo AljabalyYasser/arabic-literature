@@ -1,0 +1,18 @@
+explained: false
+first: "فَلا تَحْرِمَنِّي نائِلًا عَنْ جَنابَةٍ"
+second: "فَإِنِّي امْرُؤٌ وَسْطَ القِبابِ غَرِيبُ"
+vocabulary:
+  - term: "نائِلًا"
+    text: "عطاءً، «وأراد بالنائل إطلاق أخيه شأس من سجنه» [@lisan، ج1 ص277]."
+  - term: "عَنْ جَنابَةٍ"
+    text: "«أي بُعْد وغُربة» [@lisan، ج1 ص277]."
+  - term: "القِبابِ"
+    text: "قباب الملك وخيامه."
+sources:
+  - source: "mufaddaliyyat"
+    loc: "ص394"
+    url: "https://shamela.ws/book/6904/368"
+  - source: "lisan"
+    loc: "ج1 ص277"
+    url: "https://shamela.ws/book/1687/277"
+status: "review"

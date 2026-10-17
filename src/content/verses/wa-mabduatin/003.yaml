@@ -1,0 +1,19 @@
+explained: false
+first: "وَأَبْصَرَ أَلْهَابًا مِنَ الطَّوْدِ دُونَهَا"
+second: "تَرَى بَيْنَ رَأْسَيْ كُلِّ نِيقَيْنِ مَهْبِلَا"
+vocabulary:
+  - term: "أَلْهَابًا"
+    text: "«واللِّهْبُ، بِالْكَسْرِ: الفُرْجَة والهوَاء بَيْنَ الجبَلين، وَفِي الْمُحْكَمِ: مَهْواةُ مَا بَيْنَ كُلِّ جَبَلَيْنِ» [@lisan، ج1 ص744]."
+  - term: "مَهْبِلَا"
+    text: "«والمهبل المهواة» [@simt، ج1 ص493]."
+sources:
+  - source: "simt"
+    loc: "ج1 ص492"
+    url: "https://shamela.ws/book/1586/490"
+  - source: "simt"
+    loc: "ج1 ص493"
+    url: "https://shamela.ws/book/1586/491"
+  - source: "lisan"
+    loc: "ج1 ص744"
+    url: "https://shamela.ws/book/1687/744"
+status: "review"

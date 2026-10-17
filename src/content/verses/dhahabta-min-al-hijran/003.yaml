@@ -1,0 +1,19 @@
+explained: false
+first: "مُبَتَّلَةٌ كَأَنَّ أَنْضاءَ حَلْيِها"
+second: "عَلَى شادِنٍ مِنْ صاحَةٍ مُتَرَبِّبِ"
+vocabulary:
+  - term: "مُبَتَّلَةٌ"
+    text: "«الضامرة الكشح» [@diwan-alqama، ص84]."
+  - term: "أَنْضاءَ حَلْيِها"
+    text: "«ما دقّ منه ولطف، يعني قرطيها وقلائدها» [@diwan-alqama، ص84]."
+  - term: "شادِنٍ"
+    text: "ولد الظبية إذا قوي واستغنى عن أمّه، كما يقول ابن أبي شَنَب في حاشيته [@diwan-alqama، ص84]."
+  - term: "صاحَةٍ"
+    text: "«موضع» [@diwan-alqama، ص84]."
+  - term: "مُتَرَبِّبِ"
+    text: "شادن «تربّيه تربية الجواري وتزيّنه بالحلي» [@diwan-alqama، ص84]."
+sources:
+  - source: "diwan-alqama"
+    loc: "ص84"
+    url: "https://archive.org/details/AAlexandrina-144694/page/n93/mode/1up"
+status: "review"

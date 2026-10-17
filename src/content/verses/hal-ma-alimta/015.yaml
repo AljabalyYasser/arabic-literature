@@ -1,0 +1,18 @@
+explained: false
+first: "كَأَنَّ غِسْلَةَ خِطْمِيٍّ بِمِشْفَرِها"
+second: "فِي الخَدِّ مِنْها وفِي اللَّحْيَيْنِ تَلْغِيمُ"
+vocabulary:
+  - term: "غِسْلَةَ خِطْمِيٍّ"
+    text: "«ما غُسل به الرأس» [@tabrizi-ikhtiyarat، ج3 ص1608]، والخِطْمِيّ نبات يُغسل به الرأس."
+  - term: "مِشْفَرِها"
+    text: "شفتها."
+  - term: "تَلْغِيمُ"
+    text: "من اللُّغام، «وهو زبد تخلطه خضرة مما رعت» [@tabrizi-ikhtiyarat، ج3 ص1608]."
+sources:
+  - source: "mufaddaliyyat"
+    loc: "ص399"
+    url: "https://shamela.ws/book/6904/373"
+  - source: "tabrizi-ikhtiyarat"
+    loc: "ج3 ص1608"
+    url: "https://archive.org/details/3820pdf/page/n1616/mode/1up"
+status: "review"

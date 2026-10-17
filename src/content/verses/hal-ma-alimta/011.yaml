@@ -1,0 +1,22 @@
+explained: false
+first: "تَسْقِي مَذانِبَ قَدْ زالَتْ عَصِيفَتُها"
+second: "حَدُورُها مِنْ أَتِيِّ الماءِ مَطْمُومُ"
+vocabulary:
+  - term: "مَذانِبَ"
+    text: "«مجاري الماء إلى المزارع» [@tabrizi-ikhtiyarat، ج3 ص1606]."
+  - term: "عَصِيفَتُها"
+    text: "«قشور الزرع وسوقه» [@tabrizi-ikhtiyarat، ج3 ص1606]."
+  - term: "حَدُورُها"
+    text: "«ما تطامن من الأرض» [@tabrizi-ikhtiyarat، ج3 ص1606]."
+  - term: "أَتِيِّ الماءِ"
+    text: "«السيل الذي لم يصبك مطره» [@tabrizi-ikhtiyarat، ج3 ص1606]."
+  - term: "مَطْمُومُ"
+    text: "«المملوء» [@tabrizi-ikhtiyarat، ج3 ص1606]."
+sources:
+  - source: "mufaddaliyyat"
+    loc: "ص398"
+    url: "https://shamela.ws/book/6904/372"
+  - source: "tabrizi-ikhtiyarat"
+    loc: "ج3 ص1606"
+    url: "https://archive.org/details/3820pdf/page/n1614/mode/1up"
+status: "review"

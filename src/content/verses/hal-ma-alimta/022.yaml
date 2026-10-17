@@ -1,0 +1,23 @@
+explained: false
+first: "فَلا تَزَيُّدُهُ فِي مَشْيِهِ نَفِقٌ"
+second: "ولا الزَّفِيفُ دُوَيْنَ الشَّدِّ مَسْؤُومُ"
+vocabulary:
+  - term: "تَزَيُّدُهُ"
+    text: "«التزيّد: المشي فوق العنق» [@tabrizi-ikhtiyarat، ج3 ص1611]."
+  - term: "نَفِقٌ"
+    text: "«السريع الذهاب» [@tabrizi-ikhtiyarat، ج3 ص1611]."
+  - term: "الزَّفِيفُ"
+    text: "عَدْوٌ «دون الشدّ قليلًا» [@tabrizi-ikhtiyarat، ج3 ص1612]، والشدّ: العدو."
+  - term: "مَسْؤُومُ"
+    text: "«المملول» [@tabrizi-ikhtiyarat، ج3 ص1612]."
+sources:
+  - source: "mufaddaliyyat"
+    loc: "ص400"
+    url: "https://shamela.ws/book/6904/374"
+  - source: "tabrizi-ikhtiyarat"
+    loc: "ج3 ص1611"
+    url: "https://archive.org/details/3820pdf/page/n1619/mode/1up"
+  - source: "tabrizi-ikhtiyarat"
+    loc: "ج3 ص1612"
+    url: "https://archive.org/details/3820pdf/page/n1620/mode/1up"
+status: "review"

@@ -1,0 +1,20 @@
+explained: false
+first: "لِيَبْكِكَ الشَّرْبُ وَالمُدَامَةُ وَالْـ"
+second: "ـفِتْيَانُ طُرًّا وَطَامِعٌ طَمِعَا"
+vocabulary:
+  - term: "الشَّرْبُ"
+    text: "الجماعة يشربون معًا، أي ندماؤه."
+  - term: "المُدَامَةُ"
+    text: "الخمر."
+  - term: "طُرًّا"
+    text: "جميعًا."
+  - term: "وَطَامِعٌ طَمِعَا"
+    text: "ومن كان يطمع في عطائه. والبيت قبل «وذات هدم» في روايته، كما يقول ابن بَرِّيّ [@lisan، ج12 ص604]."
+sources:
+  - source: "kamil"
+    loc: "ج4 ص32"
+    url: "https://shamela.ws/book/8505/1197"
+  - source: "lisan"
+    loc: "ج12 ص604"
+    url: "https://shamela.ws/book/1687/6517"
+status: "review"

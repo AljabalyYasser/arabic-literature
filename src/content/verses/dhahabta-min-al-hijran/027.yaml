@@ -1,0 +1,20 @@
+explained: false
+first: "وغُلْبٌ كَأَعْناقِ الضِّباعِ مَضِيغُها"
+second: "سِلامُ الشَّظَى يَغْشَى بِها كُلَّ مَرْكَبِ"
+vocabulary:
+  - term: "غُلْبٌ"
+    text: "«الغلاظ الشداد، يعني قوائمه» [@diwan-alqama، ص100]."
+  - term: "مَضِيغُها"
+    text: "«عصبها ولحم الساقين منها» [@diwan-alqama، ص100]."
+  - term: "سِلامُ الشَّظَى"
+    text: "«سَلِم من أن يعتلّ شظاه»، والشظى «عظم لازق بالذراع» [@diwan-alqama، ص101]."
+  - term: "مَرْكَبِ"
+    text: "«الطريق» [@diwan-alqama، ص101]."
+sources:
+  - source: "diwan-alqama"
+    loc: "ص100"
+    url: "https://archive.org/details/AAlexandrina-144694/page/n109/mode/1up"
+  - source: "diwan-alqama"
+    loc: "ص101"
+    url: "https://archive.org/details/AAlexandrina-144694/page/n110/mode/1up"
+status: "review"

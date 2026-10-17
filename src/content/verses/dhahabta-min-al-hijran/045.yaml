@@ -1,0 +1,16 @@
+explained: false
+first: "وراحَ يُبارِي فِي الجِنابِ قَلُوصَنا"
+second: "عَزِيزًا عَلَيْنا كالحُبابِ المُسَيَّبِ"
+vocabulary:
+  - term: "يُبارِي فِي الجِنابِ قَلُوصَنا"
+    text: "يُقاد إلى جنب الناقة فيعارضها في السير «على أنه قد جهد نهاره بمطاردة الصيد» [@diwan-alqama، ص111]، والقلوص الناقة الشابة."
+  - term: "الحُبابِ"
+    text: "«الحيّة، شبّه الفرس بها في ضُمره ولين معاطفه» [@diwan-alqama، ص111]."
+sources:
+  - source: "diwan-alqama"
+    loc: "ص109"
+    url: "https://archive.org/details/AAlexandrina-144694/page/n118/mode/1up"
+  - source: "diwan-alqama"
+    loc: "ص111"
+    url: "https://archive.org/details/AAlexandrina-144694/page/n120/mode/1up"
+status: "review"

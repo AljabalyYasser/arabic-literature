@@ -1,0 +1,18 @@
+explained: false
+first: "عانِيَّةٌ قَرْقَفٌ لَمْ تُطَّلَعْ سَنَةً"
+second: "يَجُنُّها مُدْمَجٌ بِالطِّينِ مَخْتُومُ"
+vocabulary:
+  - term: "عانِيَّةٌ"
+    text: "منسوبة إلى عانة، قرية من قرى الجزيرة الفراتية، كما يقول محقق شرح التِّبْرِيزِيّ [@tabrizi-ikhtiyarat، ج3 ص1622]."
+  - term: "قَرْقَفٌ"
+    text: "«التي يأخذ شاربها مثل الرعدة» [@tabrizi-ikhtiyarat، ج3 ص1622]."
+  - term: "لَمْ تُطَّلَعْ سَنَةً"
+    text: "«لم يُنظر إليها سنة، بل كان يجنّها دنّ، أُدمج رأسه بالطين، وخُتم عليه» [@tabrizi-ikhtiyarat، ج3 ص1622]."
+sources:
+  - source: "mufaddaliyyat"
+    loc: "ص402"
+    url: "https://shamela.ws/book/6904/376"
+  - source: "tabrizi-ikhtiyarat"
+    loc: "ج3 ص1622"
+    url: "https://archive.org/details/3820pdf/page/n1630/mode/1up"
+status: "review"

@@ -1,0 +1,21 @@
+explained: false
+first: "عَقْلًا ورَقْمًا تَظَلُّ الطَّيْرُ تَخْطَفُهُ"
+second: "كَأَنَّهُ مِنْ دَمِ الأَجْوافِ مَدْمُومُ"
+vocabulary:
+  - term: "عَقْلًا ورَقْمًا"
+    text: "«ضربان من الوشي» [@tabrizi-ikhtiyarat، ج3 ص1602]."
+  - term: "تَخْطَفُهُ"
+    text: "«تضربه، تحسبه من حمرته لحمًا» [@tabrizi-ikhtiyarat، ج3 ص1603]."
+  - term: "مَدْمُومُ"
+    text: "«المطليّ بالدم» [@tabrizi-ikhtiyarat، ج3 ص1603]."
+sources:
+  - source: "mufaddaliyyat"
+    loc: "ص397"
+    url: "https://shamela.ws/book/6904/371"
+  - source: "tabrizi-ikhtiyarat"
+    loc: "ج3 ص1602"
+    url: "https://archive.org/details/3820pdf/page/n1610/mode/1up"
+  - source: "tabrizi-ikhtiyarat"
+    loc: "ج3 ص1603"
+    url: "https://archive.org/details/3820pdf/page/n1611/mode/1up"
+status: "review"

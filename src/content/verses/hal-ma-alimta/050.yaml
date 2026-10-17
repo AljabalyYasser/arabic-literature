@@ -1,0 +1,20 @@
+explained: false
+first: "وقَدْ عَلَوْتُ قُتُودَ الرَّحْلِ يَسْفَعُنِي"
+second: "يَوْمٌ تَجِيءُ بِهِ الجَوْزاءُ مَسْمُومُ"
+vocabulary:
+  - term: "قُتُودَ الرَّحْلِ"
+    text: "عيدانه، كما يقول محقق شرح التِّبْرِيزِيّ [@tabrizi-ikhtiyarat، ج3 ص1626]."
+  - term: "يَسْفَعُنِي"
+    text: "«يغيّر لوني، ويحرقني» [@tabrizi-ikhtiyarat، ج3 ص1626]."
+  - term: "الجَوْزاءُ"
+    text: "نجم تطلع في شدة الحر [@tabrizi-ikhtiyarat، ج3 ص1626]."
+  - term: "مَسْمُومُ"
+    text: "«تهبّ فيه السَّموم» [@tabrizi-ikhtiyarat، ج3 ص1626]، وهي الريح الحارة."
+sources:
+  - source: "mufaddaliyyat"
+    loc: "ص403"
+    url: "https://shamela.ws/book/6904/377"
+  - source: "tabrizi-ikhtiyarat"
+    loc: "ج3 ص1626"
+    url: "https://archive.org/details/3820pdf/page/n1634/mode/1up"
+status: "review"

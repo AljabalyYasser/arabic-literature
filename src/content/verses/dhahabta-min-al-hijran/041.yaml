@@ -1,0 +1,18 @@
+explained: false
+first: "فَظَلَّ الأَكُفُّ يَخْتَلِفْنَ بِحانِذٍ"
+second: "إِلَى جُؤْجُؤٍ مِثْلِ المَداكِ المُخَضَّبِ"
+vocabulary:
+  - term: "حانِذٍ"
+    text: "«المشويّ النضيج» [@diwan-alqama، ص108]."
+  - term: "جُؤْجُؤٍ"
+    text: "الصدر [@diwan-alqama، ص108]."
+  - term: "المَداكِ المُخَضَّبِ"
+    text: "«الصخرة يُسحق عليها الطيب، شبّه الصدر مع ما عليه من الودك به إذا خُضب بالطيب» [@diwan-alqama، ص109]."
+sources:
+  - source: "diwan-alqama"
+    loc: "ص108"
+    url: "https://archive.org/details/AAlexandrina-144694/page/n117/mode/1up"
+  - source: "diwan-alqama"
+    loc: "ص109"
+    url: "https://archive.org/details/AAlexandrina-144694/page/n118/mode/1up"
+status: "review"

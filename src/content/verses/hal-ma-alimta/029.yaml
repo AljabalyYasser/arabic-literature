@@ -1,0 +1,21 @@
+explained: false
+first: "صَعْلٌ كَأَنَّ جَناحَيْهِ وجُؤْجُؤَهُ"
+second: "بَيْتٌ أَطافَتْ بِهِ خَرْقاءُ مَهْجُومُ"
+vocabulary:
+  - term: "صَعْلٌ"
+    text: "«الخفيف الرأس والعنق» [@tabrizi-ikhtiyarat، ج3 ص1615]."
+  - term: "خَرْقاءُ"
+    text: "امرأة «غير صَناع»؛ يقول: يرفع جناحيه في عدوه ويحطّهما، فكأنه بيت شعر أو صوف ترفعه هذه المرأة فيسقط [@tabrizi-ikhtiyarat، ج3 ص1615]."
+  - term: "مَهْجُومُ"
+    text: "«مصروع» [@tabrizi-ikhtiyarat، ج3 ص1616]."
+sources:
+  - source: "mufaddaliyyat"
+    loc: "ص400"
+    url: "https://shamela.ws/book/6904/374"
+  - source: "tabrizi-ikhtiyarat"
+    loc: "ج3 ص1615"
+    url: "https://archive.org/details/3820pdf/page/n1623/mode/1up"
+  - source: "tabrizi-ikhtiyarat"
+    loc: "ج3 ص1616"
+    url: "https://archive.org/details/3820pdf/page/n1624/mode/1up"
+status: "review"

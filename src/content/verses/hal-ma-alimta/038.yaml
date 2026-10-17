@@ -1,0 +1,16 @@
+explained: false
+first: "وكُلُّ حِصْنٍ وإِنْ طالَتْ سَلامَتُهُ"
+second: "عَلَى دَعائِمِهِ لا بُدَّ مَهْدُومُ"
+vocabulary:
+  - term: "دَعائِمِهِ"
+    text: "أعمدته التي يقوم عليها."
+  - term: "مَهْدُومُ"
+    text: "منقوض؛ يريد «أن مباني أمور الدنيا على الزوال» [@tabrizi-ikhtiyarat، ج3 ص1619]."
+sources:
+  - source: "mufaddaliyyat"
+    loc: "ص401"
+    url: "https://shamela.ws/book/6904/375"
+  - source: "tabrizi-ikhtiyarat"
+    loc: "ج3 ص1619"
+    url: "https://archive.org/details/3820pdf/page/n1627/mode/1up"
+status: "review"

@@ -1,0 +1,20 @@
+explained: false
+first: "فَلا تَعْدِلِي بَيْنِي وبَيْنَ مُغَمَّرٍ"
+second: "سَقَتْكِ رَوايا المُزْنِ حِينَ تَصُوبُ"
+vocabulary:
+  - term: "لا تَعْدِلِي بَيْنِي وبَيْنَ"
+    text: "لا تسوّي بيني وبينه، من قولهم: هذا يعدل كذا، «أي: يقوم مقامه» [@tabrizi-ikhtiyarat، ج3 ص1579]."
+  - term: "مُغَمَّرٍ"
+    text: "«المقهور المغلوب»، وقال المُفَضَّل: «هو الذي غمرته الرجال» [@tabrizi-ikhtiyarat، ج3 ص1579]."
+  - term: "رَوايا المُزْنِ"
+    text: "الروايا جمع راوية، وهي المزادة يُحمل فيها الماء، والمزن السحاب الأبيض، كما يقول محقق شرح التِّبْرِيزِيّ؛ وجعل للمزن روايا «على التمثيل والاستعارة» [@tabrizi-ikhtiyarat، ج3 ص1579]."
+  - term: "تَصُوبُ"
+    text: "«أي: تقع» [@tabrizi-ikhtiyarat، ج3 ص1579]."
+sources:
+  - source: "mufaddaliyyat"
+    loc: "ص392"
+    url: "https://shamela.ws/book/6904/366"
+  - source: "tabrizi-ikhtiyarat"
+    loc: "ج3 ص1579"
+    url: "https://archive.org/details/3820pdf/page/n1587/mode/1up"
+status: "review"

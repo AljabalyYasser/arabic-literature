@@ -1,0 +1,18 @@
+explained: false
+first: "وقَدْ أَقُودُ أَمامَ الحَيِّ سَلْهَبَةً"
+second: "يَهْدِي بِها نَسَبٌ فِي الحَيِّ مَعْلُومُ"
+vocabulary:
+  - term: "سَلْهَبَةً"
+    text: "«الطويلة» [@tabrizi-ikhtiyarat، ج3 ص1627]."
+  - term: "يَهْدِي بِها"
+    text: "«يقدّمها» [@tabrizi-ikhtiyarat، ج3 ص1627]."
+  - term: "نَسَبٌ ... مَعْلُومُ"
+    text: "«أي: أنها ذات عرق كريم» [@tabrizi-ikhtiyarat، ج3 ص1627]."
+sources:
+  - source: "mufaddaliyyat"
+    loc: "ص403"
+    url: "https://shamela.ws/book/6904/377"
+  - source: "tabrizi-ikhtiyarat"
+    loc: "ج3 ص1627"
+    url: "https://archive.org/details/3820pdf/page/n1635/mode/1up"
+status: "review"

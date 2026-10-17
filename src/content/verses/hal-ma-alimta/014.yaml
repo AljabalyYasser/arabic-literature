@@ -1,0 +1,20 @@
+explained: false
+first: "هَلْ تُلْحِقَنِّي بِأُخْرَى الحَيِّ إِذْ شَحَطُوا"
+second: "جُلْذِيَّةٌ كَأَتانِ الضَّحْلِ عُلْكُومُ"
+vocabulary:
+  - term: "شَحَطُوا"
+    text: "«بعدوا» [@tabrizi-ikhtiyarat، ج3 ص1608]."
+  - term: "جُلْذِيَّةٌ"
+    text: "«الناقة الصلبة» [@tabrizi-ikhtiyarat، ج3 ص1608]."
+  - term: "أَتانِ الضَّحْلِ"
+    text: "«صخرة تكون في مسيل الماء، فتتشرب الماء، وتملاسّ»، والضحل: الماء القليل [@tabrizi-ikhtiyarat، ج3 ص1608]."
+  - term: "عُلْكُومُ"
+    text: "«الناقة الغليظة» [@tabrizi-ikhtiyarat، ج3 ص1608]."
+sources:
+  - source: "mufaddaliyyat"
+    loc: "ص398"
+    url: "https://shamela.ws/book/6904/372"
+  - source: "tabrizi-ikhtiyarat"
+    loc: "ج3 ص1608"
+    url: "https://archive.org/details/3820pdf/page/n1616/mode/1up"
+status: "review"

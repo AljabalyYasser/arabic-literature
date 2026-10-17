@@ -1,0 +1,20 @@
+explained: false
+first: "مُمَرٍّ كَعَقْدِ الأَنْدَرِيِّ يَزِينُهُ"
+second: "مَعَ العِتْقِ خَلْقٌ مُفْعَمٌ غَيْرُ جانِبِ"
+vocabulary:
+  - term: "مُمَرٍّ"
+    text: "«الشديد الفتل، يعني أنه صُلب اللحم شديد الأسر» [@diwan-alqama، ص97]."
+  - term: "الأَنْدَرِيِّ"
+    text: "«حبل مضفور من جلود، منسوب إلى قرية بالشام» [@diwan-alqama، ص98]."
+  - term: "العِتْقِ"
+    text: "«الكرم» [@diwan-alqama، ص98]."
+  - term: "مُفْعَمٌ غَيْرُ جانِبِ"
+    text: "المفعم «الممتلئ التامّ»، والجانب «القصير» [@diwan-alqama، ص98]."
+sources:
+  - source: "diwan-alqama"
+    loc: "ص97"
+    url: "https://archive.org/details/AAlexandrina-144694/page/n106/mode/1up"
+  - source: "diwan-alqama"
+    loc: "ص98"
+    url: "https://archive.org/details/AAlexandrina-144694/page/n107/mode/1up"
+status: "review"

@@ -1,0 +1,18 @@
+explained: false
+first: "أَمْ هَلْ كَبِيرٌ بَكَى لَمْ يَقْضِ عَبْرَتَهُ"
+second: "إِثْرَ الأَحِبَّةِ يَوْمَ البَيْنِ مَشْكُومُ"
+vocabulary:
+  - term: "كَبِيرٌ"
+    text: "يعني نفسه، كما يقول محقق شرح التِّبْرِيزِيّ [@tabrizi-ikhtiyarat، ج3 ص1601]."
+  - term: "لَمْ يَقْضِ عَبْرَتَهُ"
+    text: "«لم يستشف بها»، و«العبرة»: الدمعة [@tabrizi-ikhtiyarat، ج3 ص1601]."
+  - term: "مَشْكُومُ"
+    text: "«المجزيّ، وقيل: هو من العطية» [@tabrizi-ikhtiyarat، ج3 ص1601]، أي: هل يُجزى الباكي على بكائه بوصل؟"
+sources:
+  - source: "mufaddaliyyat"
+    loc: "ص397"
+    url: "https://shamela.ws/book/6904/371"
+  - source: "tabrizi-ikhtiyarat"
+    loc: "ج3 ص1601"
+    url: "https://archive.org/details/3820pdf/page/n1609/mode/1up"
+status: "review"

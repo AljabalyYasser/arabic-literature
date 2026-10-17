@@ -1,0 +1,18 @@
+explained: false
+first: "فَهاوٍ عَلَى حُرِّ الجَبِينِ ومُتَّقٍ"
+second: "بِمِدْراتِهِ كَأَنَّها ذَلْقُ مِشْعَبِ"
+vocabulary:
+  - term: "فَهاوٍ ... ومُتَّقٍ"
+    text: "«منها ما هوى على حرّ وجهه، ومنها ما هوى على قرنيه متّقيًا بهما الأرض» [@diwan-alqama، ص107]."
+  - term: "مِدْراتِهِ"
+    text: "«القرن» [@diwan-alqama، ص107]."
+  - term: "ذَلْقُ مِشْعَبِ"
+    text: "الذلق «الحدّ والطرف»، والمشعب «الإشفى» [@diwan-alqama، ص107]."
+sources:
+  - source: "diwan-alqama"
+    loc: "ص106"
+    url: "https://archive.org/details/AAlexandrina-144694/page/n115/mode/1up"
+  - source: "diwan-alqama"
+    loc: "ص107"
+    url: "https://archive.org/details/AAlexandrina-144694/page/n116/mode/1up"
+status: "review"

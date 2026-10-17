@@ -1,0 +1,19 @@
+explained: false
+first: "بِغَوْجٍ لَبانُهُ يُتَمُّ بَرِيمُهُ"
+second: "عَلَى نَفْثِ راقٍ خَشْيَةَ العَيْنِ مُجْلَبِ"
+vocabulary:
+  - term: "غَوْجٍ"
+    text: "«الواسع جلد الصدر» [@diwan-alqama، ص96]."
+  - term: "لَبانُهُ"
+    text: "«الصدر» [@diwan-alqama، ص96]."
+  - term: "بَرِيمُهُ"
+    text: "«الخيط الذي ينظم فيه التمائم ليتعوّذ به خشية العين» [@diwan-alqama، ص96]."
+  - term: "نَفْثِ راقٍ"
+    text: "النفث شبيه بالنفخ، والراقي الذي يعوّذ، كما يقول ابن أبي شَنَب في حاشيته [@diwan-alqama، ص96]."
+  - term: "مُجْلَبِ"
+    text: "«الكثير النفث والرقى» [@diwan-alqama، ص96]."
+sources:
+  - source: "diwan-alqama"
+    loc: "ص96"
+    url: "https://archive.org/details/AAlexandrina-144694/page/n105/mode/1up"
+status: "review"

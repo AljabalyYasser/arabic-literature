@@ -1,0 +1,18 @@
+explained: false
+first: "وقَدْ وَعَدَتْكَ مَوْعِدًا لَوْ وَفَتْ بِهِ"
+second: "كَمَوْعُودِ عُرْقُوبٍ أَخاهُ بِيَثْرِبِ"
+vocabulary:
+  - term: "عُرْقُوبٍ"
+    text: "«رجل من الأوس أو الخزرج» وعد أخاه ثمر نخلة ثم جدّها ليلًا وأخلفه، «فضربته العرب مثلًا في الخُلف» [@diwan-alqama، ص87]."
+  - term: "لَوْ وَفَتْ بِهِ"
+    text: "«في معنى التمنّي، فلذلك لم يأت بجواب لو» [@diwan-alqama، ص88]."
+  - term: "يَثْرِبِ"
+    text: "المدينة؛ وقال أبو عُبَيْدة: «إنما هو يترب، بالتاء وفتح الراء، وهو موضع بناحية اليمامة» [@diwan-alqama، ص87]."
+sources:
+  - source: "diwan-alqama"
+    loc: "ص87"
+    url: "https://archive.org/details/AAlexandrina-144694/page/n96/mode/1up"
+  - source: "diwan-alqama"
+    loc: "ص88"
+    url: "https://archive.org/details/AAlexandrina-144694/page/n97/mode/1up"
+status: "review"

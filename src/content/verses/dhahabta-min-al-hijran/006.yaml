@@ -1,0 +1,18 @@
+explained: false
+first: "وما أَنْتَ أَمْ ما ذِكْرُها رَبَعِيَّةً"
+second: "تَحُلُّ بِإِيرٍ أَوْ بِأَكْنافِ شُرْبُبِ"
+vocabulary:
+  - term: "وما أَنْتَ أَمْ ما ذِكْرُها"
+    text: "«يوبّخ نفسه ويُنكر عليها تتبّع هذه المرأة مع بُعد دارها» [@diwan-alqama، ص86]."
+  - term: "رَبَعِيَّةً"
+    text: "من ربيعة بن مالك من تَمِيم، كما يقول ابن أبي شَنَب في حاشيته [@diwan-alqama، ص86]."
+  - term: "إِيرٍ ... شُرْبُبِ"
+    text: "«موضعان» [@diwan-alqama، ص86]، والأكناف: النواحي."
+sources:
+  - source: "diwan-alqama"
+    loc: "ص85"
+    url: "https://archive.org/details/AAlexandrina-144694/page/n94/mode/1up"
+  - source: "diwan-alqama"
+    loc: "ص86"
+    url: "https://archive.org/details/AAlexandrina-144694/page/n95/mode/1up"
+status: "review"

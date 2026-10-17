@@ -1,0 +1,23 @@
+explained: false
+first: "رَدَّ الإِماءُ جِمالَ الحَيِّ فاحْتَمَلُوا"
+second: "فَكُلُّها بِالتَّزِيدِيّاتِ مَعْكُومُ"
+vocabulary:
+  - term: "الإِماءُ"
+    text: "الجواري المملوكات."
+  - term: "احْتَمَلُوا"
+    text: "رحلوا بأحمالهم."
+  - term: "التَّزِيدِيّاتِ"
+    text: "«ضرب من البرود، نُسبت إلى قبيلة يقال لها: تَزِيد» من قُضاعة [@tabrizi-ikhtiyarat، ج3 ص1601]."
+  - term: "مَعْكُومُ"
+    text: "المشدود عليه حمله [@tabrizi-ikhtiyarat، ج3 ص1601]، والعِكْم: العِدْل [@tabrizi-ikhtiyarat، ج3 ص1602]."
+sources:
+  - source: "mufaddaliyyat"
+    loc: "ص397"
+    url: "https://shamela.ws/book/6904/371"
+  - source: "tabrizi-ikhtiyarat"
+    loc: "ج3 ص1601"
+    url: "https://archive.org/details/3820pdf/page/n1609/mode/1up"
+  - source: "tabrizi-ikhtiyarat"
+    loc: "ج3 ص1602"
+    url: "https://archive.org/details/3820pdf/page/n1610/mode/1up"
+status: "review"

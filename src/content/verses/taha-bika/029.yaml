@@ -1,0 +1,18 @@
+explained: false
+first: "تُقَدِّمُهُ حَتَّى تَغِيبَ حُجُولُهُ"
+second: "وأَنْتَ لِبَيْضِ الدّارِعِينَ ضَرُوبُ"
+vocabulary:
+  - term: "حُجُولُهُ"
+    text: "البياض في قوائم الفرس، كما يقول محقق شرح التِّبْرِيزِيّ؛ و«تغيب في الدماء» [@tabrizi-ikhtiyarat، ج3 ص1592]."
+  - term: "بَيْضِ الدّارِعِينَ"
+    text: "خُوَذ لابسي الدروع."
+  - term: "ضَرُوبُ"
+    text: "«الكثير الضرب» [@tabrizi-ikhtiyarat، ج3 ص1592]."
+sources:
+  - source: "mufaddaliyyat"
+    loc: "ص394"
+    url: "https://shamela.ws/book/6904/368"
+  - source: "tabrizi-ikhtiyarat"
+    loc: "ج3 ص1592"
+    url: "https://archive.org/details/3820pdf/page/n1600/mode/1up"
+status: "review"

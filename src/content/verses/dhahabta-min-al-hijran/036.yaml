@@ -1,0 +1,20 @@
+explained: false
+first: "خَفَى الفارَ مِنْ أَنْفاقِهِ فَكَأَنَّما"
+second: "تَخَلَّلَهُ شُؤْبُوبُ غَيْثٍ مُنَقِّبِ"
+vocabulary:
+  - term: "خَفَى"
+    text: "«أخرجه وأظهره» [@diwan-alqama، ص106]."
+  - term: "أَنْفاقِهِ"
+    text: "«جِحَرته» [@diwan-alqama، ص106]."
+  - term: "شُؤْبُوبُ"
+    text: "الدفعة من المطر."
+  - term: "مُنَقِّبِ"
+    text: "«الذي ينقّب الأرض ويستخرج ما فيها لشدّته» [@diwan-alqama، ص106]."
+sources:
+  - source: "diwan-alqama"
+    loc: "ص105"
+    url: "https://archive.org/details/AAlexandrina-144694/page/n114/mode/1up"
+  - source: "diwan-alqama"
+    loc: "ص106"
+    url: "https://archive.org/details/AAlexandrina-144694/page/n115/mode/1up"
+status: "review"

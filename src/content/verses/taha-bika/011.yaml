@@ -1,0 +1,23 @@
+explained: false
+first: "فَدَعْها وسَلِّ الهَمَّ عَنْكَ بِجَسْرَةٍ"
+second: "كَهَمِّكَ فِيها بِالرِّدافِ خَبِيبُ"
+vocabulary:
+  - term: "سَلِّ الهَمَّ"
+    text: "انزعه عنك."
+  - term: "جَسْرَةٍ"
+    text: "الناقة الطويلة الجسور، كما يقول محقق شرح التِّبْرِيزِيّ [@tabrizi-ikhtiyarat، ج3 ص1582]."
+  - term: "كَهَمِّكَ"
+    text: "«أي: كما تريده وتهمّ به» [@tabrizi-ikhtiyarat، ج3 ص1583]."
+  - term: "بِالرِّدافِ خَبِيبُ"
+    text: "الرِّداف جمع رديف، وهو الراكب خلف الراكب، والخبيب ضرب من السير؛ يريد: «فيها قوة على الخبب بالرداف» [@tabrizi-ikhtiyarat، ج3 ص1583]."
+sources:
+  - source: "mufaddaliyyat"
+    loc: "ص392"
+    url: "https://shamela.ws/book/6904/366"
+  - source: "tabrizi-ikhtiyarat"
+    loc: "ج3 ص1582"
+    url: "https://archive.org/details/3820pdf/page/n1590/mode/1up"
+  - source: "tabrizi-ikhtiyarat"
+    loc: "ج3 ص1583"
+    url: "https://archive.org/details/3820pdf/page/n1591/mode/1up"
+status: "review"

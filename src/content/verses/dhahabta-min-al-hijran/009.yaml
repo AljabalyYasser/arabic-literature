@@ -1,0 +1,15 @@
+explained: false
+first: "وقالَتْ مَتَى يُبْخَلْ عَلَيْكَ ويُعْتَلَلْ"
+second: "يَسُؤْكَ وإِنْ يُكْشَفْ غَرامُكَ تَدْرَبِ"
+vocabulary:
+  - term: "يُعْتَلَلْ"
+    text: "يُتعلَّل عليك بالأعذار."
+  - term: "غَرامُكَ"
+    text: "«عذابه بها» [@diwan-alqama، ص88]."
+  - term: "تَدْرَبِ"
+    text: "من «الدُّربة: العادة»، أي: «إن صرنا إلى ما تريد من الوصال اعتدت ودربت، وإن هجرناك واعتللنا عليك شكوت ذلك» [@diwan-alqama، ص88]."
+sources:
+  - source: "diwan-alqama"
+    loc: "ص88"
+    url: "https://archive.org/details/AAlexandrina-144694/page/n97/mode/1up"
+status: "review"

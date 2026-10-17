@@ -1,0 +1,21 @@
+explained: false
+first: "وقَدْ أُصاحِبُ فِتْيانًا طَعامُهُمُ"
+second: "خُضْرُ المَزادِ ولَحْمٌ فِيهِ تَنْشِيمُ"
+vocabulary:
+  - term: "فِتْيانًا"
+    text: "«غزاة، طالت مدتهم في الغزو» [@tabrizi-ikhtiyarat، ج3 ص1625]."
+  - term: "خُضْرُ المَزادِ"
+    text: "«المطحلبة، التي قد اخضرّت مما يُحمل فيها الماء» [@tabrizi-ikhtiyarat، ج3 ص1626]."
+  - term: "تَنْشِيمُ"
+    text: "«ابتداء ظهور التغيّر والنتن في اللحم» [@tabrizi-ikhtiyarat، ج3 ص1625]."
+sources:
+  - source: "mufaddaliyyat"
+    loc: "ص403"
+    url: "https://shamela.ws/book/6904/377"
+  - source: "tabrizi-ikhtiyarat"
+    loc: "ج3 ص1625"
+    url: "https://archive.org/details/3820pdf/page/n1633/mode/1up"
+  - source: "tabrizi-ikhtiyarat"
+    loc: "ج3 ص1626"
+    url: "https://archive.org/details/3820pdf/page/n1634/mode/1up"
+status: "review"

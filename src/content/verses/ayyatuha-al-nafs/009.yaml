@@ -1,0 +1,21 @@
+explained: false
+first: "وَكَانَتِ الكَاعِبُ المُمَنَّعَةُ الْـ"
+second: "ـحَسْنَاءُ فِي زَادِ أَهْلِهَا سَبُعَا"
+vocabulary:
+  - term: "الكَاعِبُ"
+    text: "«التي كعب ثديها» [@kamil، ج4 ص34]، أي الفتاة التي نهد ثديها."
+  - term: "المُمَنَّعَةُ"
+    text: "المصونة المدلّلة في بيت أهلها."
+  - term: "فِي زَادِ أَهْلِهَا سَبُعَا"
+    text: "قال المُبَرِّد: «يقول: تصير كالسبع في زاد أهلها بعد أن كانت تعاف طيب الطعام» [@kamil، ج4 ص34]."
+sources:
+  - source: "kamil"
+    loc: "ج4 ص32"
+    url: "https://shamela.ws/book/8505/1197"
+  - source: "kamil"
+    loc: "ج4 ص34"
+    url: "https://shamela.ws/book/8505/1199"
+  - source: "kamil"
+    loc: "ج3 ص50–51"
+    url: "https://shamela.ws/book/8505/844"
+status: "review"

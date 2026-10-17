@@ -1,0 +1,20 @@
+explained: false
+first: "إِذا أَلْحَمَ الواشُونَ لِلشَّرِّ بَيْنَنا"
+second: "تَبَلَّغَ رَسُّ الحُبِّ غَيْرُ المُكَذَّبِ"
+vocabulary:
+  - term: "أَلْحَمَ"
+    text: "أدخل، كما يقول ابن أبي شَنَب في حاشيته [@diwan-alqama، ص86]."
+  - term: "الواشُونَ"
+    text: "«الذين يمشون بالنميمة ويزيّنون الكذب» [@diwan-alqama، ص86]."
+  - term: "رَسُّ الحُبِّ"
+    text: "«الثابت الراسخ» منه [@diwan-alqama، ص86]."
+  - term: "المُكَذَّبِ"
+    text: "«الزائل المنقطع» [@diwan-alqama، ص86]."
+sources:
+  - source: "diwan-alqama"
+    loc: "ص85"
+    url: "https://archive.org/details/AAlexandrina-144694/page/n94/mode/1up"
+  - source: "diwan-alqama"
+    loc: "ص86"
+    url: "https://archive.org/details/AAlexandrina-144694/page/n95/mode/1up"
+status: "review"

@@ -1,0 +1,18 @@
+explained: false
+first: "إِنَّ الَّذِي جَمَّعَ السَّمَاحَةَ وَالـ"
+second: "ـنَّجْدَةَ وَالحَزْمَ وَالقُوَى جُمَعَا"
+vocabulary:
+  - term: "السَّمَاحَةَ"
+    text: "الجود والكرم."
+  - term: "النَّجْدَةَ"
+    text: "الشجاعة وإغاثة من يستغيث."
+  - term: "وَالقُوَى جُمَعَا"
+    text: "والقوى كلها؛ «جُمَع» توكيد بمعنى «جميعًا»، والألف للإطلاق."
+sources:
+  - source: "kamil"
+    loc: "ج4 ص32"
+    url: "https://shamela.ws/book/8505/1197"
+  - source: "aghani-dk"
+    loc: "ج11 ص74"
+    url: "https://archive.org/details/Al-aghani_11/page/n73/mode/1up"
+status: "review"
