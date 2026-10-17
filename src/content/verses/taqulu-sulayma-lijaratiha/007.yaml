@@ -1,0 +1,18 @@
+explained: false
+first: "عَلَى شَيْمِ نَارٍ تَنَوَّرْتُهَا"
+second: "فَبِتُّ لَهَا مُدْبِرًا مُقْبِلَا"
+vocabulary:
+  - term: "شَيْمِ نَارٍ"
+    text: "النظر إلى نار من بعيد، يقال: «شمت البرق» إذا نظرت إليه [@lisan، ج12 ص330]."
+  - term: "تَنَوَّرْتُهَا"
+    text: "نظرت إليها من بعيد."
+  - term: "مُدْبِرًا مُقْبِلَا"
+    text: "أذهب وأجيء متحيّراً."
+sources:
+  - source: "ibn-qutayba"
+    loc: "ج1 ص303"
+    url: "https://shamela.ws/book/23785/296"
+  - source: "lisan"
+    loc: "ج12 ص330"
+    url: "https://shamela.ws/book/1687/6243"
+status: "review"

@@ -1,0 +1,13 @@
+kind: "mathal"
+title: "إنما النشيد على المسرة"
+part: "1"
+order: 63
+person: "al-shanfara"
+text: "إِنَّمَا النَّشِيدُ عَلَى المَسَرَّةِ"
+meaning: "قالها الشَّنْفَرَى وهو أسير في أيدي بني سَلامان قبل أن يقتلوه، يقول: لا يُنشد الشعر إلا من كان مسرورًا. يروي أبو الفَرَج: «فقال: إنما النشيد على المسرة، فذهبت مثلا» [@aghani-dk، ج21 ص182]. والخبر في [مقتل الشَّنْفَرَى](/stories/maqtal-al-shanfara/)."
+story: "maqtal-al-shanfara"
+sources:
+  - source: "aghani-dk"
+    loc: "ج21 ص182"
+    url: "https://archive.org/details/aghani2014/21/page/n183/mode/1up"
+status: "review"

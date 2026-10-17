@@ -1,0 +1,13 @@
+kind: "bayt"
+title: "كأن لها في الأرض نسيًا تقصه"
+part: "1"
+order: 62
+person: "al-shanfara"
+verses:
+  - "ala-umm-amrin/009"
+meaning: "يصف أُمَيْمة بالحياء: إذا مشت أطرقت كأنها تبحث في الأرض عن شيء ضاع منها، وإذا كلّمتك أوجزت. يقول التِّبْرِيزِيّ: «كأنها، من شدة حيائها، إذا مشت تطلب شيئًا ضاع منها، لا ترفع رأسها ولا تلتفت» [@tabrizi-ikhtiyarat، ج1 ص518]."
+sources:
+  - source: "tabrizi-ikhtiyarat"
+    loc: "ج1 ص518"
+    url: "https://archive.org/details/3820pdf/page/n534/mode/1up"
+status: "review"

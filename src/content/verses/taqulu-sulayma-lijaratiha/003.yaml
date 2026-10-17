@@ -1,0 +1,20 @@
+explained: false
+first: "وَلَا رَعِشَ السَّاقِ عِنْدَ الجِرَاءِ"
+second: "إِذَا بَادَرَ الحَمْلَةَ الهَيْضَلَا"
+vocabulary:
+  - term: "رَعِشَ السَّاقِ"
+    text: "مرتعش الساق."
+  - term: "الجِرَاءِ"
+    text: "المجاراة في العدو."
+  - term: "الحَمْلَةَ"
+    text: "الكرّة في القتال."
+  - term: "الهَيْضَلَا"
+    text: "الجيش، «قال الليث: الهيضل جماعة» [@lisan، ج11 ص698]."
+sources:
+  - source: "ibn-qutayba"
+    loc: "ج1 ص302"
+    url: "https://shamela.ws/book/23785/295"
+  - source: "lisan"
+    loc: "ج11 ص698"
+    url: "https://shamela.ws/book/1687/5876"
+status: "review"

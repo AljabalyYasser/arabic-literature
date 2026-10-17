@@ -1,16 +1,13 @@
 explained: false
-first: "إِلَى أَنْ حَدَا الصُّبْحُ أَثْنَاءَهُ"
-second: "وَمَزَّقَ جِلْبَابَهُ الأَلْيَلَا"
+first: وَمَالَ بِأَصْحَابِ الكَرَى غَالِبَاتُهُ
+second: فَإِنِّي عَلَى أَمْرِ الغَوَايَةِ حَازِمُ
 vocabulary:
-  - term: "حَدَا الصُّبْحُ أَثْنَاءَهُ"
-    text: "ساق الصبح أطراف الليل وطواها."
-  - term: "الأَلْيَلَا"
-    text: "الشديد الظلمة، و«أليل: ثابت الظلمة» [@ukbari-lamiyya، ص128]."
+- term: الكَرَى
+  text: النعاس.
+- term: الغَوَايَةِ
+  text: ما يلومه عليه الناس من الغزو والمخاطرة.
 sources:
-  - source: "ibn-qutayba"
-    loc: "ج1 ص302"
-    url: "https://shamela.ws/book/23785/295"
-  - source: "ukbari-lamiyya"
-    loc: "ص128"
-    url: "https://shamela.ws/book/6998/72"
-status: "review"
+- source: qali
+  loc: ج2 ص122
+  url: https://shamela.ws/book/9160/406
+status: review

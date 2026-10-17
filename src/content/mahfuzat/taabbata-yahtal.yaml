@@ -1,0 +1,17 @@
+kind: "bayt"
+title: "إذا المرء لم يحتل"
+part: "1"
+order: 71
+person: "taabbata-sharran"
+lines:
+  - first: "إِذَا المَرْءُ لَمْ يَحْتَلْ وَقَدْ جَدَّ جِدُّهُ"
+    second: "أَضَاعَ وَقَاسَى أَمْرَهُ وَهْوَ مُدْبِرُ"
+meaning: "من لم يجد حيلة حين يشتد عليه الأمر ضاع، ولم يلق الأمر إلا وقد فات. وهو أول [أبيات الحيلة](/texts/idha-al-maru/) في «الحماسة» [@tabrizi-hamasa، ج1 ص16]، قالها تأبّط شرًّا، كما يروي أبو الفَرَج، بعد أن نجا من غار حاصرته فيه هُذَيْل بأن انزلق على العسل [@aghani-dk، ج21 ص140–141]."
+sources:
+  - source: "tabrizi-hamasa"
+    loc: "ج1 ص16"
+    url: "https://shamela.ws/book/6907/15"
+  - source: "aghani-dk"
+    loc: "ج21 ص140–141"
+    url: "https://archive.org/details/aghani2014/21/page/n141/mode/1up"
+status: "review"

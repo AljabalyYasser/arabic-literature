@@ -1,20 +1,13 @@
 explained: false
-first: "إِذَا كَلَّ أَمْهَيْتُهُ بِالصَّفَا"
-second: "فَحَدَّ وَلَمْ أَرَهُ صَيْقَلَا"
+first: مَتَى تَطْلُبِ المَالَ المُمَنَّعَ بِالقَنَا
+second: تَعِشْ مَاجِدًا أَوْ تَخْتَرِمْكَ المَخَارِمُ
 vocabulary:
-  - term: "كَلَّ"
-    text: "نبا وضعف حدّه."
-  - term: "أَمْهَيْتُهُ"
-    text: "أحددته، «الممهى المحدّد، من أمهيت الحديدة» [@lisan، ج12 ص565]."
-  - term: "فَحَدَّ"
-    text: "صار حادّاً."
-  - term: "صَيْقَلَا"
-    text: "صانعاً يجلو السيوف."
+- term: المُمَنَّعَ بِالقَنَا
+  text: المال الذي يحميه أهله بالرماح.
+- term: تَخْتَرِمْكَ المَخَارِمُ
+  text: تهلكك المهالك.
 sources:
-  - source: "ibn-qutayba"
-    loc: "ج1 ص303"
-    url: "https://shamela.ws/book/23785/296"
-  - source: "lisan"
-    loc: "ج12 ص565"
-    url: "https://shamela.ws/book/1687/6478"
-status: "review"
+- source: qali
+  loc: ج2 ص122
+  url: https://shamela.ws/book/9160/406
+status: review

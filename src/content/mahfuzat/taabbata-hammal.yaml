@@ -1,0 +1,13 @@
+kind: "bayt"
+title: "حمّال ألوية شهّاد أندية"
+part: "1"
+order: 70
+person: "taabbata-sharran"
+verses:
+  - "ya-idu/013"
+meaning: "صفة الرجل الكامل في أربع كلمات: يحمل رايات الجيش، ويحضر مجالس القوم، ويقول الكلمة الفاصلة، ويجوب نواحي الأرض. يقول التِّبْرِيزِيّ: «يريد أنه رئيس» [@tabrizi-ikhtiyarat، ج1 ص122]. وهو من المفضلية الأولى."
+sources:
+  - source: "tabrizi-ikhtiyarat"
+    loc: "ج1 ص122"
+    url: "https://archive.org/details/3820pdf/page/n138/mode/1up"
+status: "review"

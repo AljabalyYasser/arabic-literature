@@ -1,0 +1,23 @@
+explained: false
+first: "وَأَدْهَمَ قَدْ جُبْتُ جِلْبَابَهُ"
+second: "كَمَا اجْتَابَتِ الكَاعِبُ الخَيْعَلَا"
+vocabulary:
+  - term: "أَدْهَمَ"
+    text: "ليل أسود."
+  - term: "جُبْتُ جِلْبَابَهُ"
+    text: "قطعت ظلامه، «وجاب المفازة والظلمة جوباً واجتابها: قطعها» [@lisan، ج1 ص285]."
+  - term: "الكَاعِبُ"
+    text: "الفتاة التي نهد ثديها."
+  - term: "الخَيْعَلَا"
+    text: "«الخيعل قميص لا كُمّي له» [@lisan، ج11 ص210]."
+sources:
+  - source: "ibn-qutayba"
+    loc: "ج1 ص302"
+    url: "https://shamela.ws/book/23785/295"
+  - source: "lisan"
+    loc: "ج1 ص285"
+    url: "https://shamela.ws/book/1687/285"
+  - source: "lisan"
+    loc: "ج11 ص210"
+    url: "https://shamela.ws/book/1687/5390"
+status: "review"
