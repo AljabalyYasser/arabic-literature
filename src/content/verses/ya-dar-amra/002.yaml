@@ -1,0 +1,15 @@
+explained: false
+first: "يَا قَوْمِ لَا تَأْمَنُوا إِنْ كُنْتُمُ غُيُرًا"
+second: "عَلَى نِسَائِكُمُ كِسْرَى وَمَا جَمَعَا"
+vocabulary:
+  - term: "غُيُرًا"
+    text: "جمع «غَيُور»، وهو الذي يغار على أهله."
+  - term: "كِسْرَى"
+    text: "لقب ملوك الفرس."
+  - term: "وَمَا جَمَعَا"
+    text: "وما حشد من جيوش."
+sources:
+  - source: "aghani-dk"
+    loc: "ج22 ص356"
+    url: "https://archive.org/details/aghani2014/22/page/n358/mode/1up"
+status: "review"

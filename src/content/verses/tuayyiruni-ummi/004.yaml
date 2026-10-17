@@ -1,0 +1,19 @@
+explained: false
+first: "أَحَارِثُ إِنَّا لَوْ تُسَاطُ دِمَاؤُنَا"
+second: "تَزَايَلْنَ حَتَّى لَا يَمَسَّ دَمٌ دَمَا"
+vocabulary:
+  - term: "أَحَارِثُ"
+    text: "يا حارث، يخاطب خاله الحارث بن التوءم."
+  - term: "تُسَاطُ"
+    text: "تُخلط."
+  - term: "تَزَايَلْنَ"
+    text: "تفرقن وانفصل بعضها عن بعض."
+sources:
+  - source: "asmaiyyat"
+    loc: "ص245"
+    url: "https://shamela.ws/book/6905/229"
+  - source: "ibn-qutayba"
+    loc: "ج1 ص178–179"
+    url: "https://shamela.ws/book/23785/171"
+    note: "البيت فيما عابه ابن قُتَيْبة من إفراطه."
+status: "review"

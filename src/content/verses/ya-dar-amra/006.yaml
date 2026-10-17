@@ -1,0 +1,15 @@
+explained: false
+first: "لَا مُتْرَفًا إِنْ رَخَاءُ العَيْشِ سَاعَدَهُ"
+second: "وَلَا إِذَا حَلَّ مَكْرُوهٌ بِهِ خَشَعَا"
+vocabulary:
+  - term: "مُتْرَفًا"
+    text: "منعّمًا أبطرته النعمة."
+  - term: "سَاعَدَهُ"
+    text: "واتاه وأقبل عليه."
+  - term: "خَشَعَا"
+    text: "ذلّ وخضع."
+sources:
+  - source: "aghani-dk"
+    loc: "ج22 ص357"
+    url: "https://archive.org/details/aghani2014/22/page/n359/mode/1up"
+status: "review"

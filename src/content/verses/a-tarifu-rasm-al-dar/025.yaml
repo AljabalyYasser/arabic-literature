@@ -1,0 +1,15 @@
+explained: false
+first: "وَسَائِسُ أَمْرٍ لَمْ يَسُسْهُ أَبٌ لَهُ"
+second: "وَرَائِمُ أَسْبَابِ الَّذِي لَمْ يُعَوَّدِ"
+vocabulary:
+  - term: "سَائِسُ أَمْرٍ"
+    text: "من يتولّى أمرًا ويدبّره."
+  - term: "رَائِمُ"
+    text: "طالب."
+  - term: "أَسْبَابِ"
+    text: "طرق ووسائل."
+sources:
+  - source: "jamhara"
+    loc: "ص395"
+    url: "https://shamela.ws/book/1487/353"
+status: "review"

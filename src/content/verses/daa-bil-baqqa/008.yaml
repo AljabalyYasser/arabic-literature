@@ -1,0 +1,18 @@
+explained: false
+first: "أَطَفَّ لِأَنْفِهِ الْمُوسَى قَصِيرٌ"
+second: "لِيَجْدَعَهُ وَكَانَ بِهِ ضَنِينَا"
+vocabulary:
+  - term: "أَطَفَّ"
+    text: "قرّب. وفي اللسان: «أَطَفَّ لأَنْفِه المُوسَى قَصِيرٌ، ... وَكَانَ بأَنْفِه حَجِئاً ضَنِينا» [@lisan، ج14 ص166]."
+  - term: "يَجْدَعَهُ"
+    text: "يقطعه."
+  - term: "ضَنِينَا"
+    text: "بخيلًا به حريصًا عليه."
+sources:
+  - source: "ibn-qutayba"
+    loc: "ج1 ص221"
+    url: "https://shamela.ws/book/23785/214"
+  - source: "lisan"
+    loc: "ج14 ص166"
+    url: "https://shamela.ws/book/1687/7290"
+status: "review"

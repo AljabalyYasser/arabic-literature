@@ -1,0 +1,18 @@
+explained: false
+first: "وَحُمَّتْ لِمِيقَاتِي إِلَيَّ مَنِيَّتِي"
+second: "وَغُودِرْتُ إِنْ وُسِّدْتُ أَوْ لَمْ أُوَسَّدِ"
+vocabulary:
+  - term: "حُمَّتْ"
+    text: "قُدِّرت وحان وقتها."
+  - term: "غُودِرْتُ"
+    text: "تُركت."
+  - term: "وُسِّدْتُ"
+    text: "جُعلت لي وسادة في القبر."
+sources:
+  - source: "jamhara"
+    loc: "ص392"
+    url: "https://shamela.ws/book/1487/350"
+  - source: "ibn-qutayba"
+    loc: "ج1 ص220"
+    url: "https://shamela.ws/book/23785/213"
+status: "review"

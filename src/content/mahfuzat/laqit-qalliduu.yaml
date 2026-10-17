@@ -1,0 +1,21 @@
+kind: "maqta"
+title: "صفة القائد"
+part: "1"
+order: 95
+person: "laqit-ibn-yamur"
+verses:
+  - "ya-dar-amra/005"
+  - "ya-dar-amra/006"
+  - "ya-dar-amra/009"
+meaning: "ينذر لَقِيط قومه جيش كسرى، ويطلب منهم أن يولّوا أمرهم رجلًا قويًّا لا يبطره الرخاء ولا تذله الشدة، جرّب الدهر بخيره وشره. وقد تمثل بهذه الأبيات الحَجّاج في المُهَلَّب بن أبي صُفْرة [@kamil، ج2 ص113]، وصار «حلب الدهر أشطره» مثلًا للرجل المجرّب [@askari-amthal، ج1 ص346]."
+sources:
+  - source: "aghani-dk"
+    loc: "ج22 ص357"
+    url: "https://archive.org/details/aghani2014/22/page/n359/mode/1up"
+  - source: "kamil"
+    loc: "ج2 ص113"
+    url: "https://shamela.ws/book/8505/607"
+  - source: "askari-amthal"
+    loc: "ج1 ص346"
+    url: "https://shamela.ws/book/6897/344"
+status: "review"

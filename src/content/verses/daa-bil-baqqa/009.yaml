@@ -1,0 +1,20 @@
+explained: false
+first: "فَأَهْوَاهُ لِمَارِنِهِ فَأَضْحَى"
+second: "طِلَابَ الْوِتْرِ مَجْدُوعًا مَشِينَا"
+vocabulary:
+  - term: "أَهْوَاهُ"
+    text: "أماله وأنزله."
+  - term: "مَارِنِهِ"
+    text: "«والمارِن: الأَنف، وَقِيلَ: طَرفه» [@lisan، ج13 ص404]."
+  - term: "طِلَابَ الْوِتْرِ"
+    text: "طلبًا للثأر."
+  - term: "مَشِينَا"
+    text: "مُشوَّهًا."
+sources:
+  - source: "ibn-qutayba"
+    loc: "ج1 ص221"
+    url: "https://shamela.ws/book/23785/214"
+  - source: "lisan"
+    loc: "ج13 ص404"
+    url: "https://shamela.ws/book/1687/6965"
+status: "review"

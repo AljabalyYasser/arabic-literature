@@ -1,0 +1,21 @@
+explained: false
+first: "لَا يَطْعَمُ النَّوْمَ إِلَّا رَيْثَ يَبْعَثُهُ"
+second: "هَمٌّ يَكَادُ حَشَاهُ يَقْصِمُ الضِّلَعَا"
+vocabulary:
+  - term: "لا يَطْعَمُ النَّوْمَ"
+    text: "لا يذوقه."
+  - term: "رَيْثَ"
+    text: "قدرَ ما، أي لا ينام إلا ريثما يوقظه همّه."
+  - term: "حَشَاهُ"
+    text: "ما في جوفه."
+  - term: "يَقْصِمُ الضِّلَعَا"
+    text: "يكسر الأضلاع."
+sources:
+  - source: "aghani-dk"
+    loc: "ج22 ص357"
+    url: "https://archive.org/details/aghani2014/22/page/n359/mode/1up"
+  - source: "kamil"
+    loc: "ج3 ص287"
+    url: "https://shamela.ws/book/8505/1148"
+    note: "البيت في رواية المُبَرِّد."
+status: "review"

@@ -1,0 +1,15 @@
+explained: false
+first: "وَاذْهَبِي يَا أُمَيْمَ إِنْ يَشَأِ اللَّـ"
+second: "ـهُ يُنَفِّسْ مِنْ أَزْمِ هَذَا الْخِنَاقِ"
+vocabulary:
+  - term: "يُنَفِّسْ"
+    text: "يُفرّج."
+  - term: "أَزْمِ"
+    text: "«الأزم: الشدة» [@aghani-dk، ج2 ص117، الحاشية]."
+  - term: "الْخِنَاقِ"
+    text: "الحبل يُخنق به، يريد ضيق الحبس."
+sources:
+  - source: "aghani-dk"
+    loc: "ج2 ص117"
+    url: "https://archive.org/details/aghani2014/2/page/n126/mode/1up"
+status: "review"

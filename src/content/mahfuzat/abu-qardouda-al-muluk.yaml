@@ -1,0 +1,16 @@
+kind: "bayt"
+title: "نار الملوك"
+part: "1"
+order: 98
+person: "abu-qardouda"
+verses:
+  - "nahaytu-ibn-ammar/002"
+meaning: "من نزل بالملوك أصابه شرر من نارهم، فالقرب منهم خطر وإن كان نعمة. قاله أبو قُرْدُودة في رثاء صاحبه ابن عَمّار، وكان قد نهاه عن منادمة النعمان فقتله النعمان [@bayan، ج1 ص281]."
+sources:
+  - source: "wahshiyyat"
+    loc: "ص146"
+    url: "https://shamela.ws/book/36082/141"
+  - source: "bayan"
+    loc: "ج1 ص281"
+    url: "https://shamela.ws/book/10614/274"
+status: "review"

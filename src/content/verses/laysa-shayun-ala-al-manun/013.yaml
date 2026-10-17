@@ -1,0 +1,15 @@
+explained: false
+first: "فِي حَدِيدٍ مُضَاعَفٍ وَغُلُولٍ"
+second: "وَثِيَابٍ مُنَضَّحَاتٍ خَلَاقِ"
+vocabulary:
+  - term: "غُلُولٍ"
+    text: "أغلال، جمع غُلّ."
+  - term: "خَلَاقِ"
+    text: "بالية، جمع خَلَق."
+  - term: "مُنَضَّحَاتٍ"
+    text: "كذا في الأصول، ويقول المحققون إنهم لم يروا لها معنى واضحًا، «ولعلها «منصحات» بالصاد المهملة من نصح الثوب اذا خاطه» [@aghani-dk، ج2 ص117، الحاشية]."
+sources:
+  - source: "aghani-dk"
+    loc: "ج2 ص117"
+    url: "https://archive.org/details/aghani2014/2/page/n126/mode/1up"
+status: "review"

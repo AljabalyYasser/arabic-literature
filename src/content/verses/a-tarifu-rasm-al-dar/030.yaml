@@ -1,0 +1,15 @@
+explained: false
+first: "وَلَا تَلْحِ إِلَّا مَنْ أَلَامَ وَلَا تَلُمْ"
+second: "وَبِالْبَذْلِ مِنْ شَكْوَى صَدِيقِكَ فَافْتَدِ"
+vocabulary:
+  - term: "لَا تَلْحِ"
+    text: "لا تَلُم."
+  - term: "أَلَامَ"
+    text: "أتى ما يُلام عليه."
+  - term: "فَافْتَدِ"
+    text: "فادفع شكواه ببذلك."
+sources:
+  - source: "jamhara"
+    loc: "ص396"
+    url: "https://shamela.ws/book/1487/354"
+status: "review"

@@ -1,0 +1,21 @@
+explained: false
+first: "فَأَطْرَقَ إِطْرَاقَ الشُّجَاعِ وَلَوْ يَرَى"
+second: "مَسَاغًا لِنَابَيْهِ الشُّجَاعُ لَصَمَّمَا"
+vocabulary:
+  - term: "أَطْرَقَ"
+    text: "سكت وأرخى عينيه إلى الأرض."
+  - term: "الشُّجَاعِ"
+    text: "الحية الذكر."
+  - term: "مَسَاغًا"
+    text: "مدخلًا."
+  - term: "لَصَمَّمَا"
+    text: "لعضّ ولم يرسل ما عضّ."
+sources:
+  - source: "asmaiyyat"
+    loc: "ص246"
+    url: "https://shamela.ws/book/6905/230"
+  - source: "ibn-qutayba"
+    loc: "ج1 ص178"
+    url: "https://shamela.ws/book/23785/171"
+    note: "البيت فيما استجاده ابن قُتَيْبة من شعره."
+status: "review"

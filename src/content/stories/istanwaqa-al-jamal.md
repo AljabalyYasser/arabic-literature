@@ -10,6 +10,7 @@ earliest:
   url: "https://shamela.ws/book/23785/173"
 people:
   - "tarafa"
+  - "al-mutalammis"
 sources:
   - source: "ibn-qutayba"
     loc: "ج1 ص180–181"

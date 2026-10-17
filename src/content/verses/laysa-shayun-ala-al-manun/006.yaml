@@ -1,0 +1,15 @@
+explained: false
+first: "فَاذْهَبِي يَا أُمَيْمَ غَيْرَ بَعِيدٍ"
+second: "لَا يُؤَاتِي الْعِنَاقُ مَنْ فِي الْوَثَاقِ"
+vocabulary:
+  - term: "أُمَيْمَ"
+    text: "منادى مرخّم من «أُمَيْمَة»، امرأة يخاطبها."
+  - term: "لَا يُؤَاتِي"
+    text: "لا يتهيّأ."
+  - term: "الْوَثَاقِ"
+    text: "القيد. ويقول المحققون إن البيت «سيأتى» في قصيدة منسوبة للمهلهل بن ربيعة [@aghani-dk، ج2 ص116، الحاشية]."
+sources:
+  - source: "aghani-dk"
+    loc: "ج2 ص116"
+    url: "https://archive.org/details/aghani2014/2/page/n125/mode/1up"
+status: "review"

@@ -1,0 +1,13 @@
+explained: false
+first: "وَتَقُولُ الْعُدَاةُ أَوْدَى عَدِيٌّ"
+second: "وَبَنُوهُ قَدْ أَيْقَنُوا بِغَلَاقِ"
+vocabulary:
+  - term: "أَوْدَى"
+    text: "هلك."
+  - term: "بِغَلَاقِ"
+    text: "بأن يُسلَّم إلى من يريد قتله، ويقول المحققون إنه «اسم من إغلاق القاتل وهو إسلامه الى ولى المقتول فيحكم فى دمه ما شاء» [@aghani-dk، ج2 ص117، الحاشية]."
+sources:
+  - source: "aghani-dk"
+    loc: "ج2 ص117"
+    url: "https://archive.org/details/aghani2014/2/page/n126/mode/1up"
+status: "review"

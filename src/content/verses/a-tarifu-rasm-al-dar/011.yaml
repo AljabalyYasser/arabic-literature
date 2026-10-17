@@ -1,0 +1,16 @@
+explained: false
+first: "ذَرِينِي فَإِنِّي إِنَّمَا لِيَ مَا مَضَى"
+second: "أَمَامِيَ مِنْ مَالِي إِذَا خَفَّ عُوَّدِي"
+vocabulary:
+  - term: "مَا مَضَى أَمَامِيَ مِنْ مَالِي"
+    text: "ما أنفقته وقدّمته قبل موتي."
+  - term: "خَفَّ عُوَّدِي"
+    text: "انصرف عني زوّاري في مرضي، أي متُّ. والعُوَّد: جمع عائد، وهو زائر المريض."
+sources:
+  - source: "jamhara"
+    loc: "ص392"
+    url: "https://shamela.ws/book/1487/350"
+  - source: "ibn-qutayba"
+    loc: "ج1 ص220"
+    url: "https://shamela.ws/book/23785/213"
+status: "review"

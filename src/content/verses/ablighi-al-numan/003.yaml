@@ -1,0 +1,15 @@
+explained: false
+first: "لَيْتَ شِعْرِي عَنْ دَخِيلٍ يَفْتَرِي"
+second: "حَيْثُمَا أَدْرَكَ لَيْلِي وَنَهَارِي"
+vocabulary:
+  - term: "لَيْتَ شِعْرِي"
+    text: "ليتني أعلم."
+  - term: "دَخِيلٍ"
+    text: "رجل يدخل على الملك ويُسرّ إليه."
+  - term: "يَفْتَرِي"
+    text: "يختلق الكذب عليّ."
+sources:
+  - source: "aghani-dk"
+    loc: "ج2 ص114"
+    url: "https://archive.org/details/aghani2014/2/page/n123/mode/1up"
+status: "review"

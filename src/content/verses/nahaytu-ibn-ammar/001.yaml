@@ -1,0 +1,16 @@
+explained: false
+first: "إِنِّي نَهَيْتُ ابْنَ عَمَّارٍ وَقُلْتُ لَهُ"
+second: "لَا تَأْمَنَنْ أَحْمَرَ العَيْنَيْنِ وَالشَّعَرَهْ"
+vocabulary:
+  - term: "ابْنَ عَمَّارٍ"
+    text: "نديم النعمان بن المنذر وقتيله."
+  - term: "أَحْمَرَ العَيْنَيْنِ وَالشَّعَرَهْ"
+    text: "يعني النعمان، وكان أحمر العينين والجلد والشعر كما يقول الجاحظ [@bayan، ج1 ص281]."
+sources:
+  - source: "wahshiyyat"
+    loc: "ص146"
+    url: "https://shamela.ws/book/36082/141"
+  - source: "bayan"
+    loc: "ج1 ص281"
+    url: "https://shamela.ws/book/10614/274"
+status: "review"

@@ -1,0 +1,19 @@
+explained: false
+first: "أَمْ لَدَيْكَ الْعَهْدُ الْوَثِيقُ مِنَ الْأَيْـ"
+second: "ـيَامِ أَمْ أَنْتَ جَاهِلٌ مَغْرُورُ"
+vocabulary:
+  - term: "الْعَهْدُ الْوَثِيقُ"
+    text: "الميثاق المحكم، أي: أأعطتك الأيام عهدًا ألا تصيبك؟"
+  - term: "مَغْرُورُ"
+    text: "مخدوع بسلامته. وفي رواية ابن سَلّام و«الأغاني»: «بَلْ أَنْتَ جَاهِلٌ مَغْرُورُ» [@ibn-sallam، ج1 ص141] [@aghani-dk، ج2 ص138]."
+sources:
+  - source: "ibn-qutayba"
+    loc: "ج1 ص219"
+    url: "https://shamela.ws/book/23785/212"
+  - source: "ibn-sallam"
+    loc: "ج1 ص141"
+    url: "https://shamela.ws/book/6738/139"
+  - source: "aghani-dk"
+    loc: "ج2 ص138"
+    url: "https://archive.org/details/aghani2014/2/page/n147/mode/1up"
+status: "review"

@@ -1,0 +1,22 @@
+explained: false
+first: "شَادَهُ مَرْمَرًا وَجَلَّلَهُ كِلْـ"
+second: "ـسًا فَلِلطَّيْرِ فِي ذُرَاهُ وُكُورُ"
+vocabulary:
+  - term: "شَادَهُ"
+    text: "رفع بناءه وأحكمه."
+  - term: "مَرْمَرًا"
+    text: "رخامًا."
+  - term: "جَلَّلَهُ كِلْسًا"
+    text: "غطّاه بالكلس، وهو عند محققي «الأغاني»: «الصاروج وهي النورة وأخلاطها» [@aghani-dk، ج2 ص139، الحاشية]."
+  - term: "ذُرَاهُ"
+    text: "أعاليه."
+  - term: "وُكُورُ"
+    text: "أعشاش، جمع وَكْر: صار الحصن خاليًا تسكنه الطير."
+sources:
+  - source: "ibn-qutayba"
+    loc: "ج1 ص220"
+    url: "https://shamela.ws/book/23785/213"
+  - source: "aghani-dk"
+    loc: "ج2 ص139"
+    url: "https://archive.org/details/aghani2014/2/page/n148/mode/1up"
+status: "review"

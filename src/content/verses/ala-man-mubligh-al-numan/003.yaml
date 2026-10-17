@@ -1,0 +1,22 @@
+explained: false
+first: "وَلَكِنْ كَالشِّهَابِ سَنَاهُ يَخْبُو"
+second: "وَحَادِي الْمَوْتِ عَنْهُ مَا يَحَارُ"
+vocabulary:
+  - term: "الشِّهَابِ"
+    text: "«السراج» [@aghani-dk، ج2 ص151]."
+  - term: "سَنَاهُ"
+    text: "ضوؤه."
+  - term: "يَخْبُو"
+    text: "«يَطْفَأ» [@aghani-dk، ج2 ص151]."
+  - term: "حَادِي الْمَوْتِ"
+    text: "سائقه، كحادي الإبل الذي يسوقها بالغناء."
+  - term: "مَا يَحَارُ"
+    text: "لا يتردد ولا يرجع."
+sources:
+  - source: "ibn-qutayba"
+    loc: "ج1 ص223"
+    url: "https://shamela.ws/book/23785/216"
+  - source: "aghani-dk"
+    loc: "ج2 ص151"
+    url: "https://archive.org/details/aghani2014/2/page/n160/mode/1up"
+status: "review"

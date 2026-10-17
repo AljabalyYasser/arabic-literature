@@ -1,0 +1,13 @@
+explained: false
+first: "فَارْكَبُوا فِي الْحَرَامِ فُكُّوا أَخَاكُمْ"
+second: "إِنَّ عِيرًا قَدْ جُهِّزَتْ لِانْطِلَاقِ"
+vocabulary:
+  - term: "فِي الْحَرَامِ"
+    text: "«يعنى الشهر الحرام» [@aghani-dk، ج2 ص117]، إذ يأمن الناس السفر."
+  - term: "عِيرًا"
+    text: "قافلة."
+sources:
+  - source: "aghani-dk"
+    loc: "ج2 ص117"
+    url: "https://archive.org/details/aghani2014/2/page/n126/mode/1up"
+status: "review"

@@ -1,0 +1,15 @@
+explained: false
+first: "لَحِفْظُ المَالِ أَيْسَرُ مِنْ بُغَاهُ"
+second: "وَضَرْبٍ فِي البِلَادِ بِغَيْرِ زَادِ"
+vocabulary:
+  - term: "لَحِفْظُ المَالِ"
+    text: "اللام لام الابتداء، أي أعلم أن حفظ المال..."
+  - term: "بُغَاهُ"
+    text: "طلبه."
+  - term: "وَضَرْبٍ فِي البِلَادِ"
+    text: "سفر في الأرض لطلب الرزق."
+sources:
+  - source: "ibn-qutayba"
+    loc: "ج1 ص181"
+    url: "https://shamela.ws/book/23785/174"
+status: "review"

@@ -1,0 +1,18 @@
+explained: false
+first: "أَعَاذِلُ إِنَّ اللَّوْمَ فِي غَيْرِ كُنْهِهِ"
+second: "عَلَيَّ ثِنًى مِنْ غَيِّكِ الْمُتَرَدِّدِ"
+vocabulary:
+  - term: "فِي غَيْرِ كُنْهِهِ"
+    text: "في غير موضعه وحقيقته."
+  - term: "ثِنًى"
+    text: "«والثِّنَى، بِالْكَسْرِ وَالْقَصْرِ: الأَمر يُعَادُ مَرَّتَيْنِ» [@lisan، ج14 ص120]: لومك أمر تعيدينه."
+  - term: "غَيِّكِ"
+    text: "ضلالك."
+sources:
+  - source: "jamhara"
+    loc: "ص391"
+    url: "https://shamela.ws/book/1487/349"
+  - source: "lisan"
+    loc: "ج14 ص120"
+    url: "https://shamela.ws/book/1687/7244"
+status: "review"

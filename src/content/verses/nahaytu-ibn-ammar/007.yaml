@@ -1,0 +1,15 @@
+explained: false
+first: "مَا قَتَلُوهُ عَلَى ذَنْبٍ أَلَمَّ بِهِ"
+second: "إِلَّا تَوَاصَوْا وَقَالُوا قَوْمُهُ خَسَرَهْ"
+vocabulary:
+  - term: "أَلَمَّ بِهِ"
+    text: "ارتكبه."
+  - term: "تَوَاصَوْا"
+    text: "أوصى بعضهم بعضًا بقتله."
+  - term: "خَسَرَهْ"
+    text: "جمع خاسر، أي قومه ضعفاء لا يُخشى ثأرهم."
+sources:
+  - source: "wahshiyyat"
+    loc: "ص146"
+    url: "https://shamela.ws/book/36082/141"
+status: "review"

@@ -1,0 +1,18 @@
+explained: false
+first: "وَالْأَبَارِيقُ عَلَيْهَا فُدُمٌ"
+second: "وَجِيَادُ الْخَيْلِ تَرْدِي فِي الْجِلَالِ"
+vocabulary:
+  - term: "فُدُمٌ"
+    text: "جمع فِدام، و«أَمَّا الفِدام فَإِنَّهُ مِصْفاة الْكُوزِ والإِبريق» [@lisan، ج12 ص450]."
+  - term: "تَرْدِي"
+    text: "تعدو وتضرب الأرض بحوافرها."
+  - term: "الْجِلَالِ"
+    text: "جمع جُلّ، وهو ما تُلبسه الدابة لتُصان به."
+sources:
+  - source: "aghani-dk"
+    loc: "ج2 ص135"
+    url: "https://archive.org/details/aghani2014/2/page/n144/mode/1up"
+  - source: "lisan"
+    loc: "ج12 ص450"
+    url: "https://shamela.ws/book/1687/6363"
+status: "review"

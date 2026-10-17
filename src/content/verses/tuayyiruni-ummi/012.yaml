@@ -1,0 +1,21 @@
+explained: false
+first: "فَلَمَّا اسْتَقَادَ الكَفَّ بِالكَفِّ لَمْ يَجِدْ"
+second: "لَهُ دَرَكًا فِي أَنْ تَبِينَا فَأَحْجَمَا"
+vocabulary:
+  - term: "اسْتَقَادَ"
+    text: "طلب القَوَد، أي القصاص."
+  - term: "دَرَكًا"
+    text: "إدراكًا لثأر أو نفعًا."
+  - term: "تَبِينَا"
+    text: "تنفصل، أي تُقطع."
+  - term: "فَأَحْجَمَا"
+    text: "كفّ وتأخر."
+sources:
+  - source: "asmaiyyat"
+    loc: "ص246"
+    url: "https://shamela.ws/book/6905/230"
+  - source: "ibn-qutayba"
+    loc: "ج1 ص178"
+    url: "https://shamela.ws/book/23785/171"
+    note: "البيت فيما استجاده ابن قُتَيْبة من شعره."
+status: "review"

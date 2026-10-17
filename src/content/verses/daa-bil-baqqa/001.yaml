@@ -1,0 +1,18 @@
+explained: false
+first: "دَعَا بِالْبَقَّةِ الْأُمَرَاءَ يَوْمًا"
+second: "جَذِيمَةُ عَصْرَ يَنْجُوهُمْ ثُبِينَا"
+vocabulary:
+  - term: "الْبَقَّةِ"
+    text: "موضع قرب الحِيرة «كَانَ بِهِ جَذِيمة الأَبرش» [@lisan، ج10 ص24]."
+  - term: "يَنْجُوهُمْ"
+    text: "يُسارّهم ويستشيرهم."
+  - term: "ثُبِينَا"
+    text: "جماعات، جمع ثُبَة."
+sources:
+  - source: "ibn-qutayba"
+    loc: "ج1 ص221"
+    url: "https://shamela.ws/book/23785/214"
+  - source: "lisan"
+    loc: "ج10 ص24"
+    url: "https://shamela.ws/book/1687/4694"
+status: "review"

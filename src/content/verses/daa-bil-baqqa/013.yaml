@@ -1,0 +1,15 @@
+explained: false
+first: "وَدَسَّ لَهَا عَلَى الْأَنْفَاقِ عَمْرًا"
+second: "بِشِكَّتِهِ وَمَا خَشِيَتْ كَمِينَا"
+vocabulary:
+  - term: "الْأَنْفَاقِ"
+    text: "الطرق تحت الأرض."
+  - term: "عَمْرًا"
+    text: "عمرو بن عدي، ابن أخت جذيمة."
+  - term: "شِكَّتِهِ"
+    text: "سلاحه."
+sources:
+  - source: "ibn-qutayba"
+    loc: "ج1 ص222"
+    url: "https://shamela.ws/book/23785/215"
+status: "review"

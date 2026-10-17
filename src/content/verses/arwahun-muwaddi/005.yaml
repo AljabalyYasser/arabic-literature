@@ -1,0 +1,19 @@
+explained: false
+first: "أَيْنَ كِسْرَى كِسْرَى الْمُلُوكِ أَبُو سَا"
+second: "سَانَ أَمْ أَيْنَ قَبْلَهُ سَابُورُ"
+vocabulary:
+  - term: "كِسْرَى الْمُلُوكِ"
+    text: "أعظم ملوك الفرس، وفي «الأغاني» و«عيون الأخبار»: «أَنُوشِرْوَانُ» مكان «أبو ساسان» [@aghani-dk، ج2 ص139] [@uyun-al-akhbar، ج3 ص132]."
+  - term: "سَابُورُ"
+    text: "من ملوك الفرس قبله، ويقول محققو «الأغاني» إنه سابور الجنود بن أردشير أو سابور ذو الأكتاف، «وكلاهما من ملوك العجم قبل كسرى أنوشروان» [@aghani-dk، ج2 ص139، الحاشية]."
+sources:
+  - source: "ibn-qutayba"
+    loc: "ج1 ص219"
+    url: "https://shamela.ws/book/23785/212"
+  - source: "aghani-dk"
+    loc: "ج2 ص139"
+    url: "https://archive.org/details/aghani2014/2/page/n148/mode/1up"
+  - source: "uyun-al-akhbar"
+    loc: "ج3 ص132"
+    url: "https://shamela.ws/book/23790/994"
+status: "review"

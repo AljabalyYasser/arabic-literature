@@ -10,6 +10,7 @@ earliest:
 people:
   - "tarafa"
   - "al-asha"
+  - "al-mutalammis"
 sources:
   - source: "ibn-qutayba"
     loc: "ج1 ص179–180"

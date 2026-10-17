@@ -1,0 +1,17 @@
+explained: false
+first: "إِذَا أَنْتَ طَالَبْتَ الرِّجَالَ نَوَالَهُمْ"
+second: "فَعِفَّ وَلَا تَأْتِي بِجَهْدٍ فَتُنْكَدِ"
+vocabulary:
+  - term: "نَوَالَهُمْ"
+    text: "عطاءهم."
+  - term: "فَعِفَّ"
+    text: "تعفّف ولا تُلحّ."
+  - term: "بِجَهْدٍ"
+    text: "بإلحاح ومشقّة."
+  - term: "فَتُنْكَدِ"
+    text: "فتُمنع ويقلّ عطاؤك."
+sources:
+  - source: "jamhara"
+    loc: "ص395"
+    url: "https://shamela.ws/book/1487/353"
+status: "review"

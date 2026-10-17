@@ -1,0 +1,15 @@
+explained: false
+first: "أَوْ تَكُنْ وِجْهَةٌ فَتِلْكَ سَبِيلُ النْـ"
+second: "ـنَاسِ لَا تَمْنَعُ الْحُتُوفَ الرَّوَاقِي"
+vocabulary:
+  - term: "وِجْهَةٌ"
+    text: "وجهة أخرى، يريد الموت."
+  - term: "الْحُتُوفَ"
+    text: "المنايا."
+  - term: "الرَّوَاقِي"
+    text: "جمع راقية، وهي التي تَرقي المريض بالتعاويذ."
+sources:
+  - source: "aghani-dk"
+    loc: "ج2 ص117"
+    url: "https://archive.org/details/aghani2014/2/page/n126/mode/1up"
+status: "review"

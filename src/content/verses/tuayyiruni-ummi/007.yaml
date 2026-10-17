@@ -1,0 +1,19 @@
+explained: false
+first: "لِذِي الحِلْمِ قَبْلَ اليَوْمِ مَا تُقْرَعُ العَصَا"
+second: "وَمَا عُلِّمَ الإِنْسَانُ إِلَّا لِيَعْلَمَا"
+vocabulary:
+  - term: "لِذِي الحِلْمِ ... مَا تُقْرَعُ العَصَا"
+    text: "ذو الحلم حكيم من العرب أسنّ، فكانت تُقرع له العصا إذا سها فيتنبه. يقول: العاقل يكفيه التنبيه."
+sources:
+  - source: "asmaiyyat"
+    loc: "ص245"
+    url: "https://shamela.ws/book/6905/229"
+  - source: "ibn-qutayba"
+    loc: "ج1 ص178"
+    url: "https://shamela.ws/book/23785/171"
+    note: "البيت فيما استجاده ابن قُتَيْبة من شعره."
+  - source: "askari-amthal"
+    loc: "ج1 ص406"
+    url: "https://shamela.ws/book/6897/404"
+    note: "ذو الحلم وقرع العصا."
+status: "review"

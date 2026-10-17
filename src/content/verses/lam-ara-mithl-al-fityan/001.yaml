@@ -1,0 +1,13 @@
+explained: false
+first: "لَمْ أَرَ مِثْلَ الْفِتْيَانِ فِي غَبَنِ الْـ"
+second: "ـأَيَّامِ يَنْسَوْنَ مَا عَوَاقِبُهَا"
+vocabulary:
+  - term: "غَبَنِ الْأَيَّامِ"
+    text: "يقول أبو الفَرَج: «الأيامُ تَغْبِنُ الناسَ فتخدَعُهم وتختِلُهم مثلَ الغبنِ في البيع» [@aghani-dk، ج2 ص147]."
+  - term: "عَوَاقِبُهَا"
+    text: "ما تنتهي إليه."
+sources:
+  - source: "aghani-dk"
+    loc: "ج2 ص147"
+    url: "https://archive.org/details/aghani2014/2/page/n156/mode/1up"
+status: "review"

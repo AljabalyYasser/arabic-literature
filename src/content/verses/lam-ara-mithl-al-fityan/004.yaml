@@ -1,0 +1,15 @@
+explained: false
+first: "تَظُنُّ أَنْ لَنْ يُصِيبَهَا عَنَتُ الدْ"
+second: "دَهْرِ وَرَيْبُ الْمَنُونِ صَائِبُهَا"
+vocabulary:
+  - term: "عَنَتُ الدَّهْرِ"
+    text: "مشقّته وشدّته. ويُروى: «عُقَبُ الدهر» [@aghani-dk، ج2 ص147]."
+  - term: "رَيْبُ الْمَنُونِ"
+    text: "حوادث الموت."
+  - term: "صَائِبُهَا"
+    text: "مصيبها لا محالة."
+sources:
+  - source: "aghani-dk"
+    loc: "ج2 ص147"
+    url: "https://archive.org/details/aghani2014/2/page/n156/mode/1up"
+status: "review"

@@ -1,0 +1,18 @@
+explained: false
+first: "ثُمَّ بَعْدَ الْفَلَاحِ وَالْمُلْكِ وَالْإِمْـ"
+second: "ـمَةِ وَارَتْهُمُ هُنَاكَ الْقُبُورُ"
+vocabulary:
+  - term: "الْفَلَاحِ"
+    text: "البقاء والفوز."
+  - term: "الْإِمَّةِ"
+    text: "«والإِمَّة: النِّعْمة» [@lisan، ج12 ص24]."
+  - term: "وَارَتْهُمُ"
+    text: "سترتهم وغيّبتهم."
+sources:
+  - source: "ibn-qutayba"
+    loc: "ج1 ص220"
+    url: "https://shamela.ws/book/23785/213"
+  - source: "lisan"
+    loc: "ج12 ص24"
+    url: "https://shamela.ws/book/1687/5940"
+status: "review"

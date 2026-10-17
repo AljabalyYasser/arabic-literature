@@ -1,0 +1,15 @@
+explained: false
+first: "رُبَّ رَكْبٍ قَدْ أَنَاخُوا عِنْدَنَا"
+second: "يَشْرَبُونَ الْخَمْرَ بِالْمَاءِ الزُّلَالِ"
+vocabulary:
+  - term: "رَكْبٍ"
+    text: "جماعة مسافرين."
+  - term: "أَنَاخُوا"
+    text: "أبركوا إبلهم ونزلوا."
+  - term: "الزُّلَالِ"
+    text: "العذب الصافي."
+sources:
+  - source: "aghani-dk"
+    loc: "ج2 ص134"
+    url: "https://archive.org/details/aghani2014/2/page/n143/mode/1up"
+status: "review"
