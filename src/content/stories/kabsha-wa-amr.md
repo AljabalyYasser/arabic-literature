@@ -9,6 +9,7 @@ earliest:
   url: "https://shamela.ws/book/23785/355"
 people:
   - "amr-ibn-madikarib"
+  - "kabsha-bint-madikarib"
 sources:
   - source: "ibn-qutayba"
     loc: "ج1 ص362–363"
