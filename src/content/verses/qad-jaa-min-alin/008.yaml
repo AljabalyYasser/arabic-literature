@@ -1,0 +1,20 @@
+explained: false
+first: "وَأَجْحَرَ الكَلْبَ مَوْضُوعُ الصَّقِيعِ بِهِ"
+second: "وَأَلْجَأَ الحَيَّ مِنْ تَنْفَاحِهِ الحُجَرُ"
+vocabulary:
+  - term: "أَجْحَرَ"
+    text: "أدخله جحره، «يقال أجحرته أي ألجأته إلى أن دخل جحره» [@khizana، ج1 ص194]."
+  - term: "الصَّقِيعِ"
+    text: "«الجليد» [@khizana، ج1 ص194]."
+  - term: "تَنْفَاحِهِ"
+    text: "هبوبه البارد، وهو عند البغدادي «مصدر نفحت الريح إذا هبت باردة» [@khizana، ج1 ص194]."
+  - term: "الحُجَرُ"
+    text: "جمع حُجْرة، وهي الغرفة وحظيرة الإبل [@khizana، ج1 ص194]."
+sources:
+  - source: "asmaiyyat"
+    loc: "ص89"
+    url: "https://shamela.ws/book/6905/75"
+  - source: "khizana"
+    loc: "ج1 ص194"
+    url: "https://shamela.ws/book/12732/192"
+status: "review"

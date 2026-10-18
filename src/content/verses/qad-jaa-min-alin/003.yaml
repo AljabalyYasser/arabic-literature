@@ -1,0 +1,23 @@
+explained: false
+first: "وَجَاشَتِ النَّفْسُ لَمَّا جَاءَ جَمْعُهُمُ"
+second: "وَرَاكِبٌ جَاءَ مِنْ تَثْلِيثَ مُعْتَمِرُ"
+vocabulary:
+  - term: "جَاشَتِ النَّفْسُ"
+    text: "اضطربت وغثت، قال المُبَرِّد: «خبثت، يكون ذلك من تذكرها للتهوع» [@kamil، ج4 ص57]، والتهوّع: التقيؤ."
+  - term: "جَمْعُهُمُ"
+    text: "القوم الذين شهدوا مقتله، ويروى «فَلُّهم»، أي منهزموهم [@khizana، ج1 ص192]."
+  - term: "تَثْلِيثَ"
+    text: "«اسم موضع» [@khizana، ج1 ص192]."
+  - term: "مُعْتَمِرُ"
+    text: "«صفة راكب بمعنى زائر» [@khizana، ج1 ص192]."
+sources:
+  - source: "asmaiyyat"
+    loc: "ص88"
+    url: "https://shamela.ws/book/6905/74"
+  - source: "kamil"
+    loc: "ج4 ص57"
+    url: "https://shamela.ws/book/8505/1225"
+  - source: "khizana"
+    loc: "ج1 ص192"
+    url: "https://shamela.ws/book/12732/190"
+status: "review"

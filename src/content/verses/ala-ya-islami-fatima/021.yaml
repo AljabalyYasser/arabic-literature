@@ -1,0 +1,17 @@
+explained: false
+first: "كَأَنَّ عَلَيْهِ تَاجَ آلِ مُحَرِّقٍ"
+second: "بِأَنْ ضَرَّ مَوْلَاهُ وَأَصْبَحَ سَالِمَا"
+vocabulary:
+  - term: "آلِ مُحَرِّقٍ"
+    text: "«وكان عمرو بن هند يلقَّب بالمُحَرِّق» [@lisan، ج10 ص42]، فتاجهم تاج الملك. ويقول الشارح: «هذا الجاني عليه كأنه نال رئاسة عمرو بن هند، بأن ضرّ مولاه» [@tabrizi-ikhtiyarat، ج2 ص1106]، أي ابن عمه."
+sources:
+  - source: "mufaddaliyyat"
+    loc: "ص246"
+    url: "https://shamela.ws/book/6904/220"
+  - source: "tabrizi-ikhtiyarat"
+    loc: "ج2 ص1106"
+    url: "https://archive.org/details/3820pdf/page/n1118/mode/1up"
+  - source: "lisan"
+    loc: "ج10 ص42"
+    url: "https://shamela.ws/book/1687/4712"
+status: "review"

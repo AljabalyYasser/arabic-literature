@@ -1,0 +1,18 @@
+explained: false
+first: "فَمَا ثَأْرُهُ فِيكُمْ وَلَكِنَّ ثَأْرَهُ"
+second: "شُرَيْحٌ وَأَرْدَتْهُ الأَسِنَّةُ إِذْ هَوَى"
+vocabulary:
+  - term: "شُرَيْحٌ"
+    text: "شُرَيْح بن الأحوص من بني عامر، وفي رواية أبي عُبَيْدة: «وأما العلماء فلا يشكون أن شريحا قتله» [@aghani-dk، ج11 ص144]."
+  - term: "أَرْدَتْهُ"
+    text: "أهلكته."
+  - term: "هَوَى"
+    text: "سقط."
+sources:
+  - source: "aghani-dk"
+    loc: "ج11 ص145"
+    url: "https://archive.org/details/Al-aghani_11/page/n144/mode/1up"
+  - source: "aghani-dk"
+    loc: "ج11 ص144"
+    url: "https://archive.org/details/Al-aghani_11/page/n143/mode/1up"
+status: "review"

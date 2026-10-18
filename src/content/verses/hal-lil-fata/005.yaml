@@ -1,0 +1,19 @@
+explained: false
+first: "هَوِّنْ عَلَيْكَ وَلَا تَوْلَعْ بِإِشْفَاقِ"
+second: "فَإِنَّمَا مَالُنَا لِلْوَارِثِ البَاقِي"
+vocabulary:
+  - term: "تَوْلَعْ"
+    text: "تلجّ وتلازم، يقول محققا «المفضليات»: «ولع بالشيء: لزمه ولج فيه» [@mufaddaliyyat، ص300، الحاشية]."
+  - term: "بِإِشْفَاقِ"
+    text: "بخوف، و«الشفق والإشفاق: الخوف» [@lisan، ج10 ص180]."
+sources:
+  - source: "mufaddaliyyat"
+    loc: "ص300"
+    url: "https://shamela.ws/book/6904/274"
+  - source: "tabrizi-ikhtiyarat"
+    loc: "ج3 ص1291"
+    url: "https://archive.org/details/3820pdf/page/n1299/mode/1up"
+  - source: "lisan"
+    loc: "ج10 ص180"
+    url: "https://shamela.ws/book/1687/4850"
+status: "review"

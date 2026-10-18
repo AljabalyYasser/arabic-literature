@@ -1,0 +1,13 @@
+explained: false
+first: "أَلَا يَا لَهَا الوَيْلَاتُ وَيْلَاتُ مَنْ بَكَى"
+second: "لِضَرْبِ بَنِي عَبْسٍ لَقِيطًا وَقَدْ قَضَى"
+vocabulary:
+  - term: "يَا لَهَا الوَيْلَاتُ"
+    text: "صيحة توجّع، والويلات جمع ويلة، وهي الهلاك والشر."
+  - term: "قَضَى"
+    text: "مات."
+sources:
+  - source: "aghani-dk"
+    loc: "ج11 ص145"
+    url: "https://archive.org/details/Al-aghani_11/page/n144/mode/1up"
+status: "review"

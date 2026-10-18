@@ -1,0 +1,16 @@
+explained: false
+first: "هَذَا ثَنَائِي مَا بَقِيتُ عَلَيْهِمُ"
+second: "فَإِذَا هَلَكْتُ أَجَنَّنِي قَبْرِي"
+vocabulary:
+  - term: "ثَنَائِي"
+    text: "مدحي."
+  - term: "أَجَنَّنِي"
+    text: "«سترني» [@khizana، ج5 ص53]."
+sources:
+  - source: "qali"
+    loc: "ج2 ص158"
+    url: "https://shamela.ws/book/9160/442"
+  - source: "khizana"
+    loc: "ج5 ص53"
+    url: "https://shamela.ws/book/12732/1949"
+status: "review"

@@ -1,0 +1,19 @@
+explained: false
+first: "أَلَا حَبَّذَا وَجْهٌ تُرِينَا بَيَاضَهُ"
+second: "وَمُنْسَدِلَاتٍ كَالْمَثَانِي فَوَاحِمَا"
+vocabulary:
+  - term: "وَمُنْسَدِلَاتٍ كَالْمَثَانِي"
+    text: "«\"المثاني\": الحبال، واحدها: مَثْناة. و\"المنسدلات\": الطِّوال. شبّه شعرها بالحبال» [@tabrizi-ikhtiyarat، ج2 ص1100]."
+  - term: "فَوَاحِمَا"
+    text: "«وشَعَرٌ فاحم ... وهو الأسود الحسن» [@lisan، ج12 ص449]."
+sources:
+  - source: "mufaddaliyyat"
+    loc: "ص245"
+    url: "https://shamela.ws/book/6904/219"
+  - source: "tabrizi-ikhtiyarat"
+    loc: "ج2 ص1100"
+    url: "https://archive.org/details/3820pdf/page/n1112/mode/1up"
+  - source: "lisan"
+    loc: "ج12 ص449"
+    url: "https://shamela.ws/book/1687/6362"
+status: "review"

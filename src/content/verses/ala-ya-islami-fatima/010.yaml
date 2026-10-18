@@ -1,0 +1,23 @@
+explained: false
+first: "سَلَكْنَ الْقُرَى وَالْجِزْعَ تُحْدَى جِمَالُهُمْ"
+second: "وَوَرَّكْنَ قَوًّا وَاجْتَزَعْنَ الْمَخَارِمَا"
+vocabulary:
+  - term: "سَلَكْنَ الْقُرَى"
+    text: "«يريد: انصرافهن من المَبْدَى إلى المَحْضَر» [@tabrizi-ikhtiyarat، ج2 ص1099]، أي من منازل البادية في الربيع إلى منازلهن على المياه."
+  - term: "وَالْجِزْعَ"
+    text: "«منعطف الوادي» [@tabrizi-ikhtiyarat، ج2 ص1099]."
+  - term: "وَوَرَّكْنَ قَوًّا"
+    text: "«\"ورّكن\": تركن خلفهن، وعدلن عنه» [@tabrizi-ikhtiyarat، ج2 ص1099]، و«قَوٌّ: موضع» [@lisan، ج4 ص115]."
+  - term: "الْمَخَارِمَا"
+    text: "«جمع مَخْرِم، وهو: مُنقطَع أنف الجبل» [@tabrizi-ikhtiyarat، ج2 ص1099]."
+sources:
+  - source: "mufaddaliyyat"
+    loc: "ص245"
+    url: "https://shamela.ws/book/6904/219"
+  - source: "tabrizi-ikhtiyarat"
+    loc: "ج2 ص1099"
+    url: "https://archive.org/details/3820pdf/page/n1111/mode/1up"
+  - source: "lisan"
+    loc: "ج4 ص115"
+    url: "https://shamela.ws/book/1687/2075"
+status: "review"

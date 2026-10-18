@@ -1,0 +1,16 @@
+explained: false
+first: "وَدَاعٍ دَعَا يَا مَنْ يُجِيبُ إِلَى النَّدَى"
+second: "فَلَمْ يَسْتَجِبْهُ عِنْدَ ذَاكَ مُجِيبُ"
+vocabulary:
+  - term: "دَاعٍ"
+    text: "سائل يطلب العطاء."
+  - term: "يَسْتَجِبْهُ"
+    text: "يقول محققا «الأصمعيات»: «يجبه، والإجابة والاستجابة بمعنى» [@asmaiyyat، ص96، الحاشية]."
+sources:
+  - source: "asmaiyyat"
+    loc: "ص96"
+    url: "https://shamela.ws/book/6905/82"
+  - source: "asmaiyyat"
+    loc: "ص96، الحاشية"
+    url: "https://shamela.ws/book/6905/82"
+status: "review"

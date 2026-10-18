@@ -1,0 +1,16 @@
+explained: false
+first: "أَرَى أُمَّ صَخْرٍ مَا تَجِفُّ دُمُوعُهَا"
+second: "وَمَلَّتْ سُلَيْمَى مَضْجَعِي وَمَكَانِي"
+vocabulary:
+  - term: "أُمَّ صَخْرٍ"
+    text: "أمه، وهي التي كانت تقول إذا سُئلت عنه: «أصبح صالحا بنعمة الله» [@ibn-qutayba، ج1 ص333]."
+  - term: "سُلَيْمَى"
+    text: "امرأته، ويسميها ابن قُتَيْبة «امرأته سلمى» [@ibn-qutayba، ج1 ص332]."
+sources:
+  - source: "asmaiyyat"
+    loc: "ص146"
+    url: "https://shamela.ws/book/6905/132"
+  - source: "ibn-qutayba"
+    loc: "ج1 ص332–333"
+    url: "https://shamela.ws/book/23785/325"
+status: "review"

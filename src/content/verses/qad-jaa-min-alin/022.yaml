@@ -1,0 +1,18 @@
+explained: false
+first: "لَا يُصْعِبُ الأَمْرَ إِلَّا رَيْثَ يَرْكَبُهُ"
+second: "وَكُلَّ أَمْرٍ سِوَى الفَحْشَاءِ يَأْتَمِرُ"
+vocabulary:
+  - term: "يُصْعِبُ"
+    text: "«أصعب الأمر وجده صعبا» [@khizana، ج1 ص196]."
+  - term: "رَيْثَ"
+    text: "قَدْر ما، أي لا يجد الأمر صعبًا إلا ريثما يركبه."
+  - term: "يَأْتَمِرُ"
+    text: "يفعل، أي «يفعل كل خير ولا يدنو من الفاحشة» [@khizana، ج1 ص196]."
+sources:
+  - source: "asmaiyyat"
+    loc: "ص91"
+    url: "https://shamela.ws/book/6905/77"
+  - source: "khizana"
+    loc: "ج1 ص196"
+    url: "https://shamela.ws/book/12732/194"
+status: "review"

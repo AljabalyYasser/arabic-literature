@@ -1,0 +1,19 @@
+explained: false
+first: "فَلَوْ أَنَّ حَيًّا فَائِتُ المَوْتِ فَاتَهُ"
+second: "أَخُو الحَرْبِ فَوْقَ القَارِحِ العَدَوَانِ"
+vocabulary:
+  - term: "القَارِحِ"
+    text: "الفرس التام السن، و«القارح من ذي الحافر: بمنزلة البازل من الإبل» [@lisan، ج2 ص559]."
+  - term: "العَدَوَانِ"
+    text: "الكثير العدو، و«فرس عدوان إذا كان كثير العدو» [@lisan، ج15 ص32]."
+sources:
+  - source: "asmaiyyat"
+    loc: "ص147"
+    url: "https://shamela.ws/book/6905/133"
+  - source: "lisan"
+    loc: "ج2 ص559"
+    url: "https://shamela.ws/book/1687/1363"
+  - source: "lisan"
+    loc: "ج15 ص32"
+    url: "https://shamela.ws/book/1687/7644"
+status: "review"

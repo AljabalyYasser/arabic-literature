@@ -1,0 +1,18 @@
+explained: false
+first: "وَخَرَّ عَلَى الأَلَاءَةِ لَمْ يُوَسَّدْ"
+second: "كَأَنَّ جَبِينَهُ سَيْفٌ صَقِيلُ"
+vocabulary:
+  - term: "الأَلَاءَةِ"
+    text: "يقول محققا «الأصمعيات»: «شجرة من شجر الرمل» [@asmaiyyat، ص37، الحاشية]."
+  - term: "لَمْ يُوَسَّدْ"
+    text: "لم توضع تحت رأسه وسادة، أي مات في العراء."
+  - term: "صَقِيلُ"
+    text: "مجلوّ لامع."
+sources:
+  - source: "asmaiyyat"
+    loc: "ص37"
+    url: "https://shamela.ws/book/6905/23"
+  - source: "asmaiyyat"
+    loc: "ص37، الحاشية"
+    url: "https://shamela.ws/book/6905/23"
+status: "review"

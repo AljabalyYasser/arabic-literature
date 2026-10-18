@@ -1,0 +1,18 @@
+explained: false
+first: "أَصَبْتَ فِي حَرَمٍ مِنَّا أَخَا ثِقَةٍ"
+second: "هِنْدَ بْنَ أَسْمَاءَ لَا يَهْنِئْ لَكَ الظَّفَرُ"
+vocabulary:
+  - term: "حَرَمٍ"
+    text: "«وأراد بالحرم ذا الخلصة» [@khizana، ج1 ص199]، وهو البيت الذي كان يحجّه حين قُتل."
+  - term: "هِنْدَ بْنَ أَسْمَاءَ"
+    text: "قاتل المنتشر، يخاطبه [@khizana، ج1 ص199]."
+  - term: "لَا يَهْنِئْ لَكَ الظَّفَرُ"
+    text: "دعاء عليه ألا يهنأ بما ظفر به."
+sources:
+  - source: "asmaiyyat"
+    loc: "ص92"
+    url: "https://shamela.ws/book/6905/78"
+  - source: "khizana"
+    loc: "ج1 ص199"
+    url: "https://shamela.ws/book/12732/197"
+status: "review"

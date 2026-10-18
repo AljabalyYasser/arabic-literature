@@ -1,0 +1,20 @@
+explained: false
+first: "يَبِيتُ النَّدَى يَا أُمَّ عَمْرٍو ضَجِيعَهُ"
+second: "إِذَا لَمْ يَكُنْ فِي المُنْقِيَاتِ حَلُوبُ"
+vocabulary:
+  - term: "النَّدَى"
+    text: "الكرم."
+  - term: "ضَجِيعَهُ"
+    text: "ملازمًا له كمن ينام إلى جنبه."
+  - term: "المُنْقِيَاتِ"
+    text: "يقول محققا «الأصمعيات»: «ذوات النقي وهو الشحم» [@asmaiyyat، ص96، الحاشية]."
+  - term: "حَلُوبُ"
+    text: "«التي تحلب، يريد الناقة» [@asmaiyyat، ص96، الحاشية]. أي إذا جفّت ألبان الإبل في الجدب."
+sources:
+  - source: "asmaiyyat"
+    loc: "ص96"
+    url: "https://shamela.ws/book/6905/82"
+  - source: "asmaiyyat"
+    loc: "ص96، الحاشية"
+    url: "https://shamela.ws/book/6905/82"
+status: "review"

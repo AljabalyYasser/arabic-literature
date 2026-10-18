@@ -1,0 +1,21 @@
+explained: false
+first: "طَاوِي المَصِيرِ عَلَى العَزَّاءِ مُنْصَلِتٌ"
+second: "بِالقَوْمِ لَيْلَةَ لَا مَاءٌ وَلَا شَجَرُ"
+vocabulary:
+  - term: "طَاوِي المَصِيرِ"
+    text: "ضامر البطن، والمصير المِعى، و«أراد طاوي البطن» [@khizana، ج1 ص196]."
+  - term: "العَزَّاءِ"
+    text: "قال المُبَرِّد: «العزاء: الأمر الشديد» [@kamil، ج4 ص58]."
+  - term: "مُنْصَلِتٌ"
+    text: "ماضٍ كالسيف المسلول، قال المُبَرِّد: «يقال: سيف منصلت، وصلت: إذا جرد من غمده» [@kamil، ج4 ص58]."
+sources:
+  - source: "asmaiyyat"
+    loc: "ص90"
+    url: "https://shamela.ws/book/6905/76"
+  - source: "khizana"
+    loc: "ج1 ص196"
+    url: "https://shamela.ws/book/12732/194"
+  - source: "kamil"
+    loc: "ج4 ص58"
+    url: "https://shamela.ws/book/8505/1226"
+status: "review"

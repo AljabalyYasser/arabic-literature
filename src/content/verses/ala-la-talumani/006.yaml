@@ -1,0 +1,21 @@
+explained: false
+first: "وَلَوْ شِئْتُ نَجَّتْنِي مِنَ الخَيْلِ نَهْدَةٌ"
+second: "تَرَى خَلْفَهَا الحُوَّ الجِيَادَ تَوَالِيَا"
+vocabulary:
+  - term: "نَهْدَةٌ"
+    text: "فرس «المرتفعة الخلق» [@tabrizi-ikhtiyarat، ج2 ص768]."
+  - term: "الحُوَّ"
+    text: "جمع أحوى وحوّاء، و«الحوّاء من الخيل: التي تضرب إلى الخضرة» [@tabrizi-ikhtiyarat، ج2 ص769]."
+  - term: "تَوَالِيَا"
+    text: "«أي: تتلوها، لأن فرسه خفيفة قد تقدّمت الخيل» [@tabrizi-ikhtiyarat، ج2 ص769]."
+sources:
+  - source: "mufaddaliyyat"
+    loc: "ص157"
+    url: "https://shamela.ws/book/6904/131"
+  - source: "tabrizi-ikhtiyarat"
+    loc: "ج2 ص768"
+    url: "https://archive.org/details/3820pdf/page/n780/mode/1up"
+  - source: "tabrizi-ikhtiyarat"
+    loc: "ج2 ص769"
+    url: "https://archive.org/details/3820pdf/page/n781/mode/1up"
+status: "review"

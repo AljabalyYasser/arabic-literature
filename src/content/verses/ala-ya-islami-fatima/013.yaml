@@ -1,0 +1,19 @@
+explained: false
+first: "وَإِنِّي لَأَسْتَحْيِيكِ وَالْخَرْقُ بَيْنَنَا"
+second: "مَخَافَةَ أَنْ تَلْقَيْ أَخًا لِيَ صَارِمَا"
+vocabulary:
+  - term: "وَالْخَرْقُ"
+    text: "«والخَرْقُ: الأرض البعيدة، مستوية كانت أو غير مستوية» [@lisan، ج10 ص74]."
+  - term: "أَخًا لِيَ صَارِمَا"
+    text: "«أي: أخاف أن تلقَيْ مُصارِمًا لي، يَسْبَعُني عندك» [@tabrizi-ikhtiyarat، ج2 ص1101]، أي قاطعًا لي يذمّني عندك."
+sources:
+  - source: "mufaddaliyyat"
+    loc: "ص246"
+    url: "https://shamela.ws/book/6904/220"
+  - source: "tabrizi-ikhtiyarat"
+    loc: "ج2 ص1101"
+    url: "https://archive.org/details/3820pdf/page/n1113/mode/1up"
+  - source: "lisan"
+    loc: "ج10 ص74"
+    url: "https://shamela.ws/book/1687/4744"
+status: "review"

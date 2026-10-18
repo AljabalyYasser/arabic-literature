@@ -1,0 +1,19 @@
+explained: false
+first: "أَرَتْكَ بِذَاتِ الضَّالِ مِنْهَا مَعَاصِمًا"
+second: "وَخَدًّا أَسِيلًا كَالْوَذِيلَةِ نَاعِمَا"
+vocabulary:
+  - term: "مَعَاصِمًا"
+    text: "جمع مِعْصَم، «والمِعْصَم: موضع السِّوار من اليد» [@lisan، ج12 ص408]."
+  - term: "كَالْوَذِيلَةِ"
+    text: "«\"الوَذِيلة\": سبيكة الفضة، وقيل: مرآة الفضة، وقيل: الصفيحة منها» [@tabrizi-ikhtiyarat، ج2 ص1097]."
+sources:
+  - source: "mufaddaliyyat"
+    loc: "ص245"
+    url: "https://shamela.ws/book/6904/219"
+  - source: "tabrizi-ikhtiyarat"
+    loc: "ج2 ص1097"
+    url: "https://archive.org/details/3820pdf/page/n1109/mode/1up"
+  - source: "lisan"
+    loc: "ج12 ص408"
+    url: "https://shamela.ws/book/1687/6321"
+status: "review"

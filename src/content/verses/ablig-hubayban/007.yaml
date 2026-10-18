@@ -1,0 +1,21 @@
+explained: false
+first: "إِذْ قَرَّبُوا لِابْنِ سَوَّارٍ أَبَاعِرَهُمْ"
+second: "لِلَّهِ دَرُّ عَطَاءٍ كَانَ ذَا غَبَنِ"
+vocabulary:
+  - term: "قَرَّبُوا لِابْنِ سَوَّارٍ"
+    text: "«يريد: راجعت قومي فيما كانوا همّوا به، من جمع الإبل حتى امتلأت منها الرّحاب، وسوقها نحو ابن سوّار» [@tabrizi-ikhtiyarat، ج3 ص1163]."
+  - term: "لِلَّهِ دَرُّ عَطَاءٍ"
+    text: "قالها «على وجه التعجب والسخرية» [@tabrizi-ikhtiyarat، ج3 ص1163]."
+  - term: "غَبَنِ"
+    text: "«والغبن: ضعف الرأي» [@lisan، ج13 ص309]."
+sources:
+  - source: "mufaddaliyyat"
+    loc: "ص262"
+    url: "https://shamela.ws/book/6904/236"
+  - source: "tabrizi-ikhtiyarat"
+    loc: "ج3 ص1163"
+    url: "https://archive.org/details/3820pdf/page/n1171/mode/1up"
+  - source: "lisan"
+    loc: "ج13 ص309"
+    url: "https://shamela.ws/book/1687/6870"
+status: "review"

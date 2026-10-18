@@ -1,0 +1,19 @@
+explained: false
+first: "فَلَا خَيْرَ فِيمَا يَكْذِبُ المَرْءُ نَفْسَهُ"
+second: "وَتَقْوَالِهِ لِلشَّيْءِ يَا لَيْتَ ذَا لِيَا"
+vocabulary:
+  - term: "وَتَقْوَالِهِ"
+    text: "قوله، يقول محققا «المفضليات»: «تقوال: مصدر بمعنى القول، بفتح التاء» [@mufaddaliyyat، ص261، الحاشية]."
+  - term: "يَا لَيْتَ ذَا لِيَا"
+    text: "«المنادى محذوف. كأنه قال متمنيا: يا قوم ليت ذا لي» [@tabrizi-ikhtiyarat، ج3 ص1158]. والمعنى: «أن حديث النفس، إذا حقت الحقائق، لا يغني» [@tabrizi-ikhtiyarat، ج3 ص1157]."
+sources:
+  - source: "mufaddaliyyat"
+    loc: "ص261"
+    url: "https://shamela.ws/book/6904/235"
+  - source: "tabrizi-ikhtiyarat"
+    loc: "ج3 ص1157"
+    url: "https://archive.org/details/3820pdf/page/n1165/mode/1up"
+  - source: "tabrizi-ikhtiyarat"
+    loc: "ج3 ص1158"
+    url: "https://archive.org/details/3820pdf/page/n1166/mode/1up"
+status: "review"

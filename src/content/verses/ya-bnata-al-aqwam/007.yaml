@@ -1,0 +1,16 @@
+explained: false
+first: "تَحْمِلُ العَيْنُ قَذَى العَيْنِ كَمَا"
+second: "تَحْمِلُ الأُمُّ أَذَى مَا تَفْتَلِي"
+vocabulary:
+  - term: "قَذَى"
+    text: "ما يقع في العين فيؤذيها."
+  - term: "تَفْتَلِي"
+    text: "من فَلْي الرأس، وهو تنقيته من القمل: «وفليت رأسه من القمل» [@lisan، ج15 ص163]. فالأم تحتمل أذى الصغير الذي تفلي رأسه وتقوم عليه، وجَلِيلة تحتمل أذى أخيها كذلك."
+sources:
+  - source: "aghani"
+    loc: "ج5 ص68"
+    url: "https://ketabonline.com/ar/books/10786/read?page=1671"
+  - source: "lisan"
+    loc: "ج15 ص163"
+    url: "https://shamela.ws/book/1687/7774"
+status: "review"

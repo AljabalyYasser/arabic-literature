@@ -1,0 +1,19 @@
+explained: false
+first: "فَلَعَلَّ بُطْأَكُمَا يُفَرِّطُ سَيِّئًا"
+second: "أَوْ يَسْبِقُ الْإِسْرَاعُ سَيْبًا مُقْبِلَا"
+vocabulary:
+  - term: "يُفَرِّطُ"
+    text: "«يقدّم. مأخوذ من الفارط، وهو المتقدّم قبل الماشية، يُصلح الدِّلاء والأرشية» [@tabrizi-ikhtiyarat، ج2 ص988]. ويقول الشارح في معنى البيت: «لعل انتظاركما يقدّم عنكما مكروهًا، ولعل سيبًا مقبلًا يكون بعد عجلتكما. فانتظاركما أوفق» [@tabrizi-ikhtiyarat، ج2 ص988]."
+  - term: "سَيْبًا"
+    text: "«والسَّيْب: العطاء» [@lisan، ج4 ص529]، أي: الخير."
+sources:
+  - source: "mufaddaliyyat"
+    loc: "ص222"
+    url: "https://shamela.ws/book/6904/196"
+  - source: "tabrizi-ikhtiyarat"
+    loc: "ج2 ص988"
+    url: "https://archive.org/details/3820pdf/page/n1000/mode/1up"
+  - source: "lisan"
+    loc: "ج4 ص529"
+    url: "https://shamela.ws/book/1687/2489"
+status: "review"

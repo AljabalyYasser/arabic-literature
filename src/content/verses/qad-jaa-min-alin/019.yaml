@@ -1,0 +1,19 @@
+explained: false
+first: "لَا يَتَأَرَّى لِمَا فِي القِدْرِ يَرْقُبُهُ"
+second: "وَلَا يَزَالُ أَمَامَ القَوْمِ يَقْتَفِرُ"
+vocabulary:
+  - term: "لَا يَتَأَرَّى"
+    text: "قال المُبَرِّد: «لا يتحبس له» [@kamil، ج4 ص60]، أي لا يقعد ينتظر نضج القدر."
+  - term: "يَقْتَفِرُ"
+    text: "يتبع الأثر، و«الاقتفار بتقديم القاف على الفاء اتباع الآثار» [@khizana، ج1 ص197]."
+sources:
+  - source: "asmaiyyat"
+    loc: "ص90"
+    url: "https://shamela.ws/book/6905/76"
+  - source: "kamil"
+    loc: "ج4 ص60"
+    url: "https://shamela.ws/book/8505/1228"
+  - source: "khizana"
+    loc: "ج1 ص197"
+    url: "https://shamela.ws/book/12732/195"
+status: "review"

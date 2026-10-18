@@ -1,0 +1,18 @@
+explained: false
+first: "وَرَمَانِي قَتْلُهُ مِنْ كَثَبٍ"
+second: "رَمْيَةَ المُصْمِي بِهِ المُسْتَأْصِلِ"
+vocabulary:
+  - term: "مِنْ كَثَبٍ"
+    text: "من قُرب."
+  - term: "المُصْمِي"
+    text: "الذي يقتل رميته في مكانها: «وأصميت الصيد إذا رميته فقتلته وأنت تراه» [@lisan، ج14 ص469]."
+  - term: "المُسْتَأْصِلِ"
+    text: "الذي يقتلع الشيء من أصله."
+sources:
+  - source: "aghani"
+    loc: "ج5 ص68"
+    url: "https://ketabonline.com/ar/books/10786/read?page=1671"
+  - source: "lisan"
+    loc: "ج14 ص469"
+    url: "https://shamela.ws/book/1687/7593"
+status: "review"

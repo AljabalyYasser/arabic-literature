@@ -1,0 +1,16 @@
+explained: false
+first: "لَوْ لَمْ تَخُنْهُ نُفَيْلٌ وَهْيَ خَائِنَةٌ"
+second: "أَلَمَّ بِالقَوْمِ وِرْدٌ مِنْهُ أَوْ صَدَرُ"
+vocabulary:
+  - term: "نُفَيْلٌ"
+    text: "بنو نُفَيْل بن عمرو بن كلاب، دلّوا عليه، وكانوا «أعداء له» [@khizana، ج1 ص189]."
+  - term: "وِرْدٌ مِنْهُ أَوْ صَدَرُ"
+    text: "الوِرْد: إتيان الماء، والصَّدَر: الرجوع عنه. أي لأتاهم غازيًا ثم رجع عنهم بما يريد."
+sources:
+  - source: "asmaiyyat"
+    loc: "ص92"
+    url: "https://shamela.ws/book/6905/78"
+  - source: "khizana"
+    loc: "ج1 ص189"
+    url: "https://shamela.ws/book/12732/187"
+status: "review"

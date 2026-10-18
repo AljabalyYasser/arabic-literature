@@ -1,0 +1,23 @@
+explained: false
+first: "لَا تَأْمَنُ البَازِلُ الكَوْمَاءُ ضَرْبَتَهُ"
+second: "بِالمَشْرَفِيِّ إِذَا مَا اخْرَوَّطَ السَّفَرُ"
+vocabulary:
+  - term: "البَازِلُ"
+    text: "«البعير الذي فطر نابه بدخوله في السنة التاسعة» [@khizana، ج1 ص198]."
+  - term: "الكَوْمَاءُ"
+    text: "«الناقة العظيمة السنام» [@khizana، ج1 ص198]."
+  - term: "المَشْرَفِيِّ"
+    text: "قال المُبَرِّد: «والمشرفي: السيف. وهو منسوب إلى المشارف» [@kamil، ج4 ص59]."
+  - term: "اخْرَوَّطَ السَّفَرُ"
+    text: "«امتد وطال» [@khizana، ج1 ص198]. يعقر الناقة للقوم إذا طال سفرهم."
+sources:
+  - source: "asmaiyyat"
+    loc: "ص89"
+    url: "https://shamela.ws/book/6905/75"
+  - source: "khizana"
+    loc: "ج1 ص198"
+    url: "https://shamela.ws/book/12732/196"
+  - source: "kamil"
+    loc: "ج4 ص59"
+    url: "https://shamela.ws/book/8505/1227"
+status: "review"

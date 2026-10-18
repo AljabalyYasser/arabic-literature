@@ -9,6 +9,7 @@ earliest:
   url: "https://shamela.ws/book/8505/1215"
 people:
   - "al-khansa"
+  - "sakhr-ibn-amr"
 sources:
   - source: "aghani-dk"
     loc: "ج15 ص98–102"

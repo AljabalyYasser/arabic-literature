@@ -1,0 +1,19 @@
+explained: false
+first: "إِنَّ الَّذِي جِئْتَ مِنْ تَثْلِيثَ تَنْدُبُهُ"
+second: "مِنْهُ السَّمَاحُ وَمِنْهُ النَّهْيُ وَالغِيَرُ"
+vocabulary:
+  - term: "تَنْدُبُهُ"
+    text: "تبكيه وتعدّد محاسنه [@khizana، ج1 ص192–193]."
+  - term: "النَّهْيُ وَالغِيَرُ"
+    text: "النهي خلاف الأمر، والغِيَر عند البغدادي «اسم من غيرت الشيء فتغير، أقامه مقام الأمر» [@khizana، ج1 ص193]. أي إليه كان أمر القوم ونهيهم."
+sources:
+  - source: "asmaiyyat"
+    loc: "ص89"
+    url: "https://shamela.ws/book/6905/75"
+  - source: "khizana"
+    loc: "ج1 ص192–193"
+    url: "https://shamela.ws/book/12732/190"
+  - source: "khizana"
+    loc: "ج1 ص193"
+    url: "https://shamela.ws/book/12732/191"
+status: "review"

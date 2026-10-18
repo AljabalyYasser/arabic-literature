@@ -1,0 +1,21 @@
+explained: false
+first: "وَإِنِّي وَإِنْ كَلَّتْ قَلُوصِي لَرَاجِمٌ"
+second: "بِهَا وَبِنَفْسِي يَا فُطَيْمَ الْمَرَاجِمَا"
+vocabulary:
+  - term: "كَلَّتْ"
+    text: "«أعيت وقصرت» [@tabrizi-ikhtiyarat، ج2 ص1101]."
+  - term: "قَلُوصِي"
+    text: "«والقَلُوص: الفَتِيّة من الإبل، بمنزلة الجارية الفتاة من النساء» [@lisan، ج7 ص81]."
+  - term: "لَرَاجِمٌ ... الْمَرَاجِمَا"
+    text: "«و\"الرَّجْم\" هنا مثل، وهو أسرع السير» [@tabrizi-ikhtiyarat، ج2 ص1101]."
+sources:
+  - source: "mufaddaliyyat"
+    loc: "ص246"
+    url: "https://shamela.ws/book/6904/220"
+  - source: "tabrizi-ikhtiyarat"
+    loc: "ج2 ص1101"
+    url: "https://archive.org/details/3820pdf/page/n1113/mode/1up"
+  - source: "lisan"
+    loc: "ج7 ص81"
+    url: "https://shamela.ws/book/1687/3464"
+status: "review"

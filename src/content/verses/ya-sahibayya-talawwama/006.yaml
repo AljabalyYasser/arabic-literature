@@ -1,0 +1,16 @@
+explained: false
+first: "ذَهَبَ السِّبَاعُ بِأَنْفِهِ فَتَرَكْنَهُ"
+second: "أَعْثَى عَلَيْهِ بِالْجِبَالِ وَجَيْئَلَا"
+vocabulary:
+  - term: "أَعْثَى"
+    text: "«هو من الضِّباع: الذَّكَر العظيم»، والأعثى أيضًا: الكثير الشعر [@tabrizi-ikhtiyarat، ج2 ص990]."
+  - term: "وَجَيْئَلَا"
+    text: "«الجَيْئَل: الضَّبُع»، «وانتصب \"جيئلا\" على أنه مفعول معه، يريد: اجتمع عليه أعثى مع جيئل فأكلاه» [@tabrizi-ikhtiyarat، ج2 ص990]."
+sources:
+  - source: "mufaddaliyyat"
+    loc: "ص222"
+    url: "https://shamela.ws/book/6904/196"
+  - source: "tabrizi-ikhtiyarat"
+    loc: "ج2 ص990"
+    url: "https://archive.org/details/3820pdf/page/n1002/mode/1up"
+status: "review"

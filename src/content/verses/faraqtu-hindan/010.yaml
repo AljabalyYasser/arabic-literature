@@ -1,0 +1,19 @@
+explained: false
+first: "حَتَّى تَرَى قِصَدَ الْقَنَا"
+second: "وَالْبِيضَ فِي أَعْنَاقِهَا"
+vocabulary:
+  - term: "قِصَدَ الْقَنَا"
+    text: "قِطَع الرماح المكسّرة، يقال: «القنا قِصَدٌ، ورُمْحٌ قَصِدٌ وقَصِيد: مكسور» [@lisan، ج3 ص355]."
+  - term: "وَالْبِيضَ"
+    text: "«والبِيضُ: السيوف» [@lisan، ج9 ص250]."
+sources:
+  - source: "aghani-dk"
+    loc: "ج22 ص238"
+    url: "https://archive.org/details/aghani2014/22/page/n240/mode/1up"
+  - source: "lisan"
+    loc: "ج3 ص355"
+    url: "https://shamela.ws/book/1687/1797"
+  - source: "lisan"
+    loc: "ج9 ص250"
+    url: "https://shamela.ws/book/1687/4557"
+status: "review"

@@ -1,0 +1,21 @@
+explained: false
+first: "وَأَنْحَرُ لِلشَّرْبِ الكِرَامِ مَطِيَّتِي"
+second: "وَأَصْدَعُ بَيْنَ القَيْنَتَيْنِ رِدَائِيَا"
+vocabulary:
+  - term: "لِلشَّرْبِ"
+    text: "للقوم يشربون معه، و«قوم شرب وشرب» [@lisan، ج1 ص490]."
+  - term: "وَأَصْدَعُ"
+    text: "«أشق» [@tabrizi-ikhtiyarat، ج2 ص772]."
+  - term: "القَيْنَتَيْنِ"
+    text: "«القينة: الأمة مغنية كانت أو غير مغنية. وهي ههنا مغنية» [@tabrizi-ikhtiyarat، ج2 ص772]. أي يشق رداءه بين المغنيتين، فيعطي كلًّا منهما شطره."
+sources:
+  - source: "mufaddaliyyat"
+    loc: "ص158"
+    url: "https://shamela.ws/book/6904/132"
+  - source: "tabrizi-ikhtiyarat"
+    loc: "ج2 ص772"
+    url: "https://archive.org/details/3820pdf/page/n784/mode/1up"
+  - source: "lisan"
+    loc: "ج1 ص490"
+    url: "https://shamela.ws/book/1687/490"
+status: "review"

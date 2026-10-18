@@ -1,0 +1,19 @@
+explained: false
+first: "أَهُمُّ بِأَمْرِ الحَزْمِ لَوْ أَسْتَطِيعُهُ"
+second: "وَقَدْ حِيلَ بَيْنَ العَيْرِ وَالنَّزَوَانِ"
+vocabulary:
+  - term: "العَيْرِ"
+    text: "«العير: الحمار، أيا كان أهليا أو وحشيا» [@lisan، ج4 ص620]."
+  - term: "وَالنَّزَوَانِ"
+    text: "الوثب، و«النزاء الوثب، وقيل: هو النزوان في الوثب» [@lisan، ج15 ص319]. والعجز مثل، قال ابن بَرِّيّ: «وأول من قاله صخر بن عمرو السلمي أخو الخنساء» [@lisan، ج15 ص319]."
+sources:
+  - source: "asmaiyyat"
+    loc: "ص146"
+    url: "https://shamela.ws/book/6905/132"
+  - source: "lisan"
+    loc: "ج4 ص620"
+    url: "https://shamela.ws/book/1687/2580"
+  - source: "lisan"
+    loc: "ج15 ص319"
+    url: "https://shamela.ws/book/1687/7928"
+status: "review"

@@ -1,0 +1,23 @@
+explained: false
+first: "لَمَا فَدَوْا بِأَخِيهِمْ مِنْ مُهَوَّلَةٍ"
+second: "أَخَا السَّكُونِ وَلَا جَارُوا عَلَى السُّنَنِ"
+vocabulary:
+  - term: "بِأَخِيهِمْ"
+    text: "«عنى بأخيهم نفسه» [@tabrizi-ikhtiyarat، ج3 ص1163]، أي ما جعلوني فداءً لغيري."
+  - term: "مُهَوَّلَةٍ"
+    text: "«من خصلة كريهة هائلة» [@tabrizi-ikhtiyarat، ج3 ص1163]."
+  - term: "أَخَا السَّكُونِ"
+    text: "رجلًا من السَّكون، و«السكون: قبيلة من كندة. وكانوا آثروا السكوني على من كان قريبا منهم، مع كونه غريبا» [@tabrizi-ikhtiyarat، ج3 ص1163]."
+  - term: "جَارُوا عَلَى السُّنَنِ"
+    text: "عدلوا عن الطريقة المألوفة، و«لا عدلوا بأخيهم عن السنن المأخوذ به» [@tabrizi-ikhtiyarat، ج3 ص1163]."
+sources:
+  - source: "mufaddaliyyat"
+    loc: "ص262"
+    url: "https://shamela.ws/book/6904/236"
+  - source: "tabrizi-ikhtiyarat"
+    loc: "ج3 ص1162"
+    url: "https://archive.org/details/3820pdf/page/n1170/mode/1up"
+  - source: "tabrizi-ikhtiyarat"
+    loc: "ج3 ص1163"
+    url: "https://archive.org/details/3820pdf/page/n1171/mode/1up"
+status: "review"

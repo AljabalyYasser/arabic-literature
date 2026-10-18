@@ -1,0 +1,19 @@
+explained: false
+first: "أَمِنْ حُلُمٍ أَصْبَحْتَ تَنْكُتُ وَاجِمًا"
+second: "وَقَدْ تَعْتَرِي الْأَحْلَامُ مَنْ كَانَ نَائِمَا"
+vocabulary:
+  - term: "أَمِنْ حُلُمٍ"
+    text: "«كلام مستعظِم لأمرٍ مُنِيَ به، وخطبٍ اتّفق عليه، حتى صار كأنه يرى في المنام ما جرى عليه» [@tabrizi-ikhtiyarat، ج2 ص1105–1106]."
+  - term: "تَنْكُتُ وَاجِمًا"
+    text: "«ومعنى \"تنكت\": تضرب وتقرع. و\"الواجم\": الحزين» [@tabrizi-ikhtiyarat، ج2 ص1106]، أي تضرب الأرض بإصبعك أو بعود كما يفعل المهموم."
+sources:
+  - source: "mufaddaliyyat"
+    loc: "ص247"
+    url: "https://shamela.ws/book/6904/221"
+  - source: "tabrizi-ikhtiyarat"
+    loc: "ج2 ص1105"
+    url: "https://archive.org/details/3820pdf/page/n1117/mode/1up"
+  - source: "tabrizi-ikhtiyarat"
+    loc: "ج2 ص1106"
+    url: "https://archive.org/details/3820pdf/page/n1118/mode/1up"
+status: "review"

@@ -1,0 +1,21 @@
+explained: false
+first: "هَلْ لِلْفَتَى مِنْ بَنَاتِ الدَّهْرِ مِنْ وَاقِ"
+second: "أَمْ هَلْ لَهُ مِنْ حِمَامِ المَوْتِ مِنْ رَاقِ"
+vocabulary:
+  - term: "بَنَاتِ الدَّهْرِ"
+    text: "مصائبه، فيما يقول محقق التِّبْرِيزِيّ: «بنات الدهر: مصائبه» [@tabrizi-ikhtiyarat، ج3 ص1289، الحاشية]."
+  - term: "حِمَامِ المَوْتِ"
+    text: "«والحمام، بالكسر: قضاء الموت وقدره» [@lisan، ج12 ص151]."
+  - term: "رَاقِ"
+    text: "صاحب الرُّقية، يقول محقق التِّبْرِيزِيّ: «والراقي: من قولك: رقاه إذا عوّذه ونفث في عوذته» [@tabrizi-ikhtiyarat، ج3 ص1289، الحاشية]."
+sources:
+  - source: "mufaddaliyyat"
+    loc: "ص300"
+    url: "https://shamela.ws/book/6904/274"
+  - source: "tabrizi-ikhtiyarat"
+    loc: "ج3 ص1289"
+    url: "https://archive.org/details/3820pdf/page/n1297/mode/1up"
+  - source: "lisan"
+    loc: "ج12 ص151"
+    url: "https://shamela.ws/book/1687/6067"
+status: "review"

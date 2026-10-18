@@ -1,0 +1,23 @@
+explained: false
+first: "سَقَاهُ حَبِيُّ الْمُزْنِ فِي مُتَهَلِّلٍ"
+second: "مِنَ الشَّمْسِ رَوَّاهُ رَبَابًا سَوَاجِمَا"
+vocabulary:
+  - term: "حَبِيُّ الْمُزْنِ"
+    text: "«\"الحَبِيّ\" من السحاب: ما حبا، أي: ارتفع» [@tabrizi-ikhtiyarat، ج2 ص1096]."
+  - term: "مُتَهَلِّلٍ"
+    text: "«أي متبسّم من البرق» [@tabrizi-ikhtiyarat، ج2 ص1096]."
+  - term: "رَبَابًا"
+    text: "«والرَّباب، بالفتح: سحاب أبيض» [@lisan، ج1 ص402]."
+  - term: "سَوَاجِمَا"
+    text: "«السوائل». ويقول الشارح: «ذِكْرُ \"السقي والمُزْن\" إشارة إلى الظَّلْم، وهو: ماء الأسنان» [@tabrizi-ikhtiyarat، ج2 ص1096]."
+sources:
+  - source: "mufaddaliyyat"
+    loc: "ص245"
+    url: "https://shamela.ws/book/6904/219"
+  - source: "tabrizi-ikhtiyarat"
+    loc: "ج2 ص1096"
+    url: "https://archive.org/details/3820pdf/page/n1108/mode/1up"
+  - source: "lisan"
+    loc: "ج1 ص402"
+    url: "https://shamela.ws/book/1687/402"
+status: "review"

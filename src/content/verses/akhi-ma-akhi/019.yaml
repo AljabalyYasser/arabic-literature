@@ -1,0 +1,20 @@
+explained: false
+first: "وَحَدَّثْتُمَانِي أَنَّمَا المَوْتُ فِي القُرَى"
+second: "فَكَيْفَ وَهَاتَا هَضْبَةٌ وَقَلِيبُ"
+vocabulary:
+  - term: "القُرَى"
+    text: "يقول محققا «الأصمعيات»: «من المساكن والأبنية والضياع، وقد تطلق على المدن» [@asmaiyyat، ص97، الحاشية]."
+  - term: "هَاتَا"
+    text: "هذه."
+  - term: "هَضْبَةٌ"
+    text: "جبل منبسط."
+  - term: "قَلِيبُ"
+    text: "«البئر» [@asmaiyyat، ص97، الحاشية]. يقول: زعمتما أن الموت يكون في القرى، فكيف مات أخي في هذه البادية؟"
+sources:
+  - source: "asmaiyyat"
+    loc: "ص97"
+    url: "https://shamela.ws/book/6905/83"
+  - source: "asmaiyyat"
+    loc: "ص97، الحاشية"
+    url: "https://shamela.ws/book/6905/83"
+status: "review"

@@ -1,0 +1,20 @@
+explained: false
+first: "إِلَى مِيعَادِ أَرْعَنَ مُكْفَهِرٍّ"
+second: "تُضَمَّرُ فِي طَوَابِقِهِ الخُيُولُ"
+vocabulary:
+  - term: "أَرْعَنَ"
+    text: "يقول محققا «الأصمعيات»: «يعني جيشا كأنه رعن جبل، وهو أنفه المقدم» [@asmaiyyat، ص37، الحاشية]."
+  - term: "مُكْفَهِرٍّ"
+    text: "عالٍ كريه المنظر."
+  - term: "تُضَمَّرُ"
+    text: "تُعلف قليلًا بعد السِّمن لتشتد للسباق والغزو."
+  - term: "طَوَابِقِهِ"
+    text: "أجزائه ونواحيه."
+sources:
+  - source: "asmaiyyat"
+    loc: "ص37"
+    url: "https://shamela.ws/book/6905/23"
+  - source: "asmaiyyat"
+    loc: "ص37، الحاشية"
+    url: "https://shamela.ws/book/6905/23"
+status: "review"

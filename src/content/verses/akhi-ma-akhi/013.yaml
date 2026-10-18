@@ -1,0 +1,16 @@
+explained: false
+first: "فَقُلْتُ ادْعُ أُخْرَى وَارْفَعِ الصَّوْتَ دَعْوَةً"
+second: "لَعَلَّ أَبَا المِغْوَارِ مِنْكَ قَرِيبُ"
+vocabulary:
+  - term: "ادْعُ أُخْرَى"
+    text: "ادعُ دعوة أخرى."
+  - term: "لَعَلَّ أَبَا المِغْوَارِ مِنْكَ قَرِيبُ"
+    text: "يرجو أن يجيب أخوه الميت، يقول البغدادي: «هذا الترجي من شدة ذهوله من عظم مصابه بأخيه» [@khizana، ج10 ص437]."
+sources:
+  - source: "asmaiyyat"
+    loc: "ص96"
+    url: "https://shamela.ws/book/6905/82"
+  - source: "khizana"
+    loc: "ج10 ص437"
+    url: "https://shamela.ws/book/12732/5145"
+status: "review"

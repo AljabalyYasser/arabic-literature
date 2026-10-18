@@ -1,0 +1,20 @@
+explained: false
+first: "أَخِي مَا أَخِي لَا فَاحِشٌ عِنْدَ بَيْتِهِ"
+second: "وَلَا وَرَعٌ عِنْدَ اللِّقَاءِ هَيُوبُ"
+vocabulary:
+  - term: "أَخِي مَا أَخِي"
+    text: "تعظيم وتعجيب: أيّ أخ كان أخي!"
+  - term: "فَاحِشٌ"
+    text: "بذيء القول والفعل."
+  - term: "وَرَعٌ"
+    text: "يقول محققا «الأصمعيات»: «الورع، بفتحتين: الجبان» [@asmaiyyat، ص95، الحاشية]."
+  - term: "هَيُوبُ"
+    text: "كثير الهيبة والخوف."
+sources:
+  - source: "asmaiyyat"
+    loc: "ص95"
+    url: "https://shamela.ws/book/6905/81"
+  - source: "asmaiyyat"
+    loc: "ص95، الحاشية"
+    url: "https://shamela.ws/book/6905/81"
+status: "review"

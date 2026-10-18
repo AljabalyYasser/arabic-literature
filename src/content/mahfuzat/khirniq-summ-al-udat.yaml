@@ -1,0 +1,17 @@
+kind: "maqta"
+title: "سمّ العداة"
+part: "1"
+order: 221
+person: "al-khirniq"
+verses:
+  - "la-yabadanna-qawmi/001"
+  - "la-yabadanna-qawmi/002"
+meaning: "تدعو الخِرْنِق لقومها القتلى ألا يُنسوا: هم سمّ يقتل أعداءهم، ويفنون إبلهم نحرًا للضيفان، ينزلون عن الخيل في ضيق المعركة فيقاتلون على أقدامهم، وهم أعفّاء. والبيتان من شواهد النحاة على قطع النعت [@khizana، ج5 ص41]."
+sources:
+  - source: "qali"
+    loc: "ج2 ص158"
+    url: "https://shamela.ws/book/9160/442"
+  - source: "khizana"
+    loc: "ج5 ص41"
+    url: "https://shamela.ws/book/12732/1937"
+status: "review"

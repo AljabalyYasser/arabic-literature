@@ -1,0 +1,19 @@
+explained: false
+first: "لَقَدْ صَبَرَتْ لِلْمَوْتِ كَعْبٌ وَحَافَظَتْ"
+second: "كِلَابٌ وَمَا أَنْتُمْ هُنَاكَ لِمَنْ رَأَى"
+vocabulary:
+  - term: "كَعْبٌ ... كِلَابٌ"
+    text: "بطنان من بني عامر بن صَعْصَعة، خصوم أبيها يوم جَبَلة: كعب بن ربيعة [@lisan، ج1 ص720]، وكلاب بن ربيعة [@lisan، ج4 ص608]. تشهد لهما بالثبات، وتنفي أن تكون عَبْس قد قاتلت."
+  - term: "حَافَظَتْ"
+    text: "حمت ما يجب عليها أن تحميه."
+sources:
+  - source: "aghani-dk"
+    loc: "ج11 ص145"
+    url: "https://archive.org/details/Al-aghani_11/page/n144/mode/1up"
+  - source: "lisan"
+    loc: "ج1 ص720"
+    url: "https://shamela.ws/book/1687/720"
+  - source: "lisan"
+    loc: "ج4 ص608"
+    url: "https://shamela.ws/book/1687/2568"
+status: "review"

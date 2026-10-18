@@ -1,0 +1,21 @@
+explained: false
+first: "وَأَرْسَلُوا فِتْيَةً مِنْ خَيْرِهِمْ حَسَبًا"
+second: "لِيُسْنِدُوا فِي ضَرِيحِ التُّرْبِ أَطْبَاقِي"
+vocabulary:
+  - term: "لِيُسْنِدُوا"
+    text: "«أي: أرسلوهم، ليحفروا قبرا» [@tabrizi-ikhtiyarat، ج3 ص1291]، فيضعوه فيه."
+  - term: "ضَرِيحِ"
+    text: "الشقّ في القبر، و«الضريح والضريحة: ما كان في وسطه» [@lisan، ج3 ص388]."
+  - term: "أَطْبَاقِي"
+    text: "يقول محققا «المفضليات»: «الأطباق: المفاصل، واحدها طبق» [@mufaddaliyyat، ص300، الحاشية]، يريد جسده."
+sources:
+  - source: "mufaddaliyyat"
+    loc: "ص300"
+    url: "https://shamela.ws/book/6904/274"
+  - source: "tabrizi-ikhtiyarat"
+    loc: "ج3 ص1291"
+    url: "https://archive.org/details/3820pdf/page/n1299/mode/1up"
+  - source: "lisan"
+    loc: "ج3 ص388"
+    url: "https://shamela.ws/book/1687/1830"
+status: "review"

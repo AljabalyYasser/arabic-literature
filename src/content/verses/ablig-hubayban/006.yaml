@@ -1,0 +1,19 @@
+explained: false
+first: "سَأَلْتُ قَوْمِي وَقَدْ سَدَّتْ أَبَاعِرُهُمْ"
+second: "مَا بَيْنَ رُحْبَةَ ذَاتِ العِيصِ وَالعَدَنِ"
+vocabulary:
+  - term: "أَبَاعِرُهُمْ"
+    text: "إبلهم، ويقول محقق التِّبْرِيزِيّ: «والأباعر: الإبل البزل. ورحبة والعدن: موضعان» [@tabrizi-ikhtiyarat، ج3 ص1163، الحاشية]. والبُزْل: الإبل المسنّة القوية."
+  - term: "العِيصِ"
+    text: "«العيص: منبت خيار الشجر» [@lisan، ج7 ص59]."
+sources:
+  - source: "mufaddaliyyat"
+    loc: "ص262"
+    url: "https://shamela.ws/book/6904/236"
+  - source: "tabrizi-ikhtiyarat"
+    loc: "ج3 ص1163"
+    url: "https://archive.org/details/3820pdf/page/n1171/mode/1up"
+  - source: "lisan"
+    loc: "ج7 ص59"
+    url: "https://shamela.ws/book/1687/3442"
+status: "review"

@@ -1,0 +1,21 @@
+explained: false
+first: "فَطَأْ مُعْرِضًا إِنَّ الحُتُوفَ كَثِيرَةٌ"
+second: "وَإِنَّكَ لَا تُبْقِي بِمَالِكَ بَاقِيَا"
+vocabulary:
+  - term: "فَطَأْ مُعْرِضًا"
+    text: "«يخاطب صاحبه أو نفسه. يقول: أقدم على ما يعرض لك، واركب ما يعطيك ظهره، عالما أن أنواع المكاره كثيرة» [@tabrizi-ikhtiyarat، ج3 ص1158]."
+  - term: "الحُتُوفَ"
+    text: "«الحتف: الموت، وجمعه حتوف» [@lisan، ج9 ص38]."
+  - term: "لَا تُبْقِي بِمَالِكَ بَاقِيَا"
+    text: "«يريد: أن المال لا يحرسك، ولا يدفع مكروها عنك» [@tabrizi-ikhtiyarat، ج3 ص1158]."
+sources:
+  - source: "mufaddaliyyat"
+    loc: "ص261"
+    url: "https://shamela.ws/book/6904/235"
+  - source: "tabrizi-ikhtiyarat"
+    loc: "ج3 ص1158"
+    url: "https://archive.org/details/3820pdf/page/n1166/mode/1up"
+  - source: "lisan"
+    loc: "ج9 ص38"
+    url: "https://shamela.ws/book/1687/4345"
+status: "review"

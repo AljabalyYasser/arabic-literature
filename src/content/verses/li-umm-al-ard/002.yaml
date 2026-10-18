@@ -1,0 +1,19 @@
+explained: false
+first: "نُقَسِّمُ مَالَهُ فِينَا وَنَدْعُو"
+second: "أَبَا الصَّهْبَاءِ إِذْ جَنَحَ الأَصِيلُ"
+vocabulary:
+  - term: "أَبَا الصَّهْبَاءِ"
+    text: "كنية بِسْطام [@naqaid، ج2 ص410]."
+  - term: "جَنَحَ الأَصِيلُ"
+    text: "مال العشيّ. يقول محققا «الأصمعيات»: «أراد أنهم يدعونه في ذلك الوقت، لأنه وقت مجيء الضيفان» [@asmaiyyat، ص37، الحاشية]."
+sources:
+  - source: "asmaiyyat"
+    loc: "ص37"
+    url: "https://shamela.ws/book/6905/23"
+  - source: "naqaid"
+    loc: "ج2 ص410"
+    url: "https://shamela.ws/book/13609/252"
+  - source: "asmaiyyat"
+    loc: "ص37، الحاشية"
+    url: "https://shamela.ws/book/6905/23"
+status: "review"

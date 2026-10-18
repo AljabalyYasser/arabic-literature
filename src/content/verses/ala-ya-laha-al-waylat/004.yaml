@@ -1,0 +1,18 @@
+explained: false
+first: "غَدَرْتُمْ وَلَكِنْ كُنْتُمُ مِثْلَ خُضَّبٍ"
+second: "أَصَابَ لَهَا القَنَّاصُ مِنْ جَانِبِ الشَّرَى"
+vocabulary:
+  - term: "خُضَّبٍ"
+    text: "يقول محققو «الأغاني»: «الخضب: النعام. والظليم الخاضب: الذي احمرت ساقاه من أكل الربيع» [@aghani-dk، ج11 ص145، الحاشية]. فهم في فرارهم كالنعام إذا رأت الصائد."
+  - term: "أَصَابَ"
+    text: "«سقط ونزل ضد أصعد» [@aghani-dk، ج11 ص145، الحاشية]."
+  - term: "الشَّرَى"
+    text: "«موضع» [@aghani-dk، ج11 ص145، الحاشية]."
+sources:
+  - source: "aghani-dk"
+    loc: "ج11 ص145"
+    url: "https://archive.org/details/Al-aghani_11/page/n144/mode/1up"
+  - source: "aghani-dk"
+    loc: "ج11 ص145، الحاشية"
+    url: "https://archive.org/details/Al-aghani_11/page/n144/mode/1up"
+status: "review"

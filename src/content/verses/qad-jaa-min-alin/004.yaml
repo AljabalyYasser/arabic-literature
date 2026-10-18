@@ -1,0 +1,16 @@
+explained: false
+first: "يَأْتِي عَلَى النَّاسِ لَا يَلْوِي عَلَى أَحَدٍ"
+second: "حَتَّى الْتَقَيْنَا وَكَانَتْ دُونَنَا مُضَرُ"
+vocabulary:
+  - term: "لَا يَلْوِي عَلَى أَحَدٍ"
+    text: "لا يقف ولا يعرّج على أحد [@khizana، ج1 ص192]، فهو مسرع بالخبر."
+  - term: "دُونَنَا"
+    text: "أمامنا [@khizana، ج1 ص192]."
+sources:
+  - source: "asmaiyyat"
+    loc: "ص89"
+    url: "https://shamela.ws/book/6905/75"
+  - source: "khizana"
+    loc: "ج1 ص192"
+    url: "https://shamela.ws/book/12732/190"
+status: "review"

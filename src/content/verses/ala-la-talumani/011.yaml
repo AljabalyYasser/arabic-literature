@@ -1,0 +1,21 @@
+explained: false
+first: "أَحَقًّا عِبَادَ اللهِ أَنْ لَسْتُ سَامِعًا"
+second: "نَشِيدَ الرِّعَاءِ المُعْزِبِينَ المَتَالِيَا"
+vocabulary:
+  - term: "نَشِيدَ"
+    text: "«والنشيد: رفع الصوت» [@lisan، ج3 ص422]، أي أصوات الرعاة يتنادون."
+  - term: "المُعْزِبِينَ"
+    text: "الذين يبعدون بإبلهم في المرعى، و«المعزب: المتنحّي» [@tabrizi-ikhtiyarat، ج2 ص771]."
+  - term: "المَتَالِيَا"
+    text: "الإبل «التي قد نتج بعضها وبقي بعض. الواحدة: متلية» [@tabrizi-ikhtiyarat، ج2 ص771]."
+sources:
+  - source: "mufaddaliyyat"
+    loc: "ص157"
+    url: "https://shamela.ws/book/6904/131"
+  - source: "tabrizi-ikhtiyarat"
+    loc: "ج2 ص771"
+    url: "https://archive.org/details/3820pdf/page/n783/mode/1up"
+  - source: "lisan"
+    loc: "ج3 ص422"
+    url: "https://shamela.ws/book/1687/1864"
+status: "review"

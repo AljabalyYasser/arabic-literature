@@ -1,0 +1,21 @@
+explained: false
+first: "رَمَتْكَ ابْنَةُ الْبَكْرِيِّ عَنْ فَرْعِ ضَالَةٍ"
+second: "وَهُنَّ بِنَا خُوصٌ يُخَلْنَ نَعَائِمَا"
+vocabulary:
+  - term: "رَمَتْكَ"
+    text: "«أي: نظرت إليك، كأنها رمتك بسهم»، و«المعنى: أنها رمتني عن عُرُض بنافذة من سهام الوُدّ» [@tabrizi-ikhtiyarat، ج2 ص1095]."
+  - term: "ضَالَةٍ"
+    text: "واحدة الضال، و«الضّالُ: السِّدْر البرّي» [@lisan، ج11 ص397]."
+  - term: "خُوصٌ يُخَلْنَ نَعَائِمَا"
+    text: "«والإبل \"الخوص\" أي: الغائرة العيون، تسير بنا، فيُحسَبْن لإسراعها نعائم» [@tabrizi-ikhtiyarat، ج2 ص1095]."
+sources:
+  - source: "mufaddaliyyat"
+    loc: "ص244"
+    url: "https://shamela.ws/book/6904/218"
+  - source: "tabrizi-ikhtiyarat"
+    loc: "ج2 ص1095"
+    url: "https://archive.org/details/3820pdf/page/n1107/mode/1up"
+  - source: "lisan"
+    loc: "ج11 ص397"
+    url: "https://shamela.ws/book/1687/5575"
+status: "review"

@@ -1,0 +1,19 @@
+explained: false
+first: "مُتَحَلِّيًا فَوْقَ الرِّدَا"
+second: "ءِ يَجُولُ مِنْ رَقْرَاقِهَا"
+vocabulary:
+  - term: "مُتَحَلِّيًا"
+    text: "من تحلّى، و«تَحَلَّى بالحَلْي أي تزيّن» [@lisan، ج14 ص195]: يصير الدمع، وهو كالدرّ، حَلْيًا على ردائه."
+  - term: "رَقْرَاقِهَا"
+    text: "«وكلّ شيء له بَصِيص وتلألؤ فهو رَقْراق» [@lisan، ج10 ص124]، أي من دمعها المتلألئ."
+sources:
+  - source: "aghani-dk"
+    loc: "ج22 ص238"
+    url: "https://archive.org/details/aghani2014/22/page/n240/mode/1up"
+  - source: "lisan"
+    loc: "ج14 ص195"
+    url: "https://shamela.ws/book/1687/7319"
+  - source: "lisan"
+    loc: "ج10 ص124"
+    url: "https://shamela.ws/book/1687/4794"
+status: "review"

@@ -1,0 +1,19 @@
+explained: false
+first: "تَبَصَّرْ خَلِيلِي هَلْ تَرَى مِنْ ظَعَائِنٍ"
+second: "خَرَجْنَ سِرَاعًا وَاقْتَعَدْنَ الْمَفَائِمَا"
+vocabulary:
+  - term: "تَبَصَّرْ ... ظَعَائِنٍ"
+    text: "«أراد: تأمّل يا خليلي، هل ترى من نساء في هوادج» [@tabrizi-ikhtiyarat، ج2 ص1098]. «والظَّعِينة: المرأة في الهودج» [@lisan، ج13 ص271]."
+  - term: "وَاقْتَعَدْنَ الْمَفَائِمَا"
+    text: "«اقتعدتُ قَعُودًا، أي: ركبت بعيرًا». و«المفائم»: «المُوسَّعة من المراكب وغيرها ... والمفائم: الإبل العظام، الواحد مُفْأَم» [@tabrizi-ikhtiyarat، ج2 ص1098]."
+sources:
+  - source: "mufaddaliyyat"
+    loc: "ص245"
+    url: "https://shamela.ws/book/6904/219"
+  - source: "tabrizi-ikhtiyarat"
+    loc: "ج2 ص1098"
+    url: "https://archive.org/details/3820pdf/page/n1110/mode/1up"
+  - source: "lisan"
+    loc: "ج13 ص271"
+    url: "https://shamela.ws/book/1687/6832"
+status: "review"

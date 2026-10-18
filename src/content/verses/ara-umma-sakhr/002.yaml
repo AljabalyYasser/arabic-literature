@@ -1,0 +1,19 @@
+explained: false
+first: "وَمَا كُنْتُ أَخْشَى أَنْ أَكُونَ جِنَازَةً"
+second: "عَلَيْكِ وَمَنْ يَغْتَرُّ بِالحَدَثَانِ"
+vocabulary:
+  - term: "جِنَازَةً"
+    text: "ثِقْلًا، و«إذا ثقل على القوم أمر أو اغتموا به، فهو جنازة» [@lisan، ج5 ص324]."
+  - term: "بِالحَدَثَانِ"
+    text: "بنوائب الدهر، كما في قولهم: «هل أبقى حدثان الدهر واحدا» [@lisan، ج7 ص358]."
+sources:
+  - source: "asmaiyyat"
+    loc: "ص146"
+    url: "https://shamela.ws/book/6905/132"
+  - source: "lisan"
+    loc: "ج5 ص324"
+    url: "https://shamela.ws/book/1687/2908"
+  - source: "lisan"
+    loc: "ج7 ص358"
+    url: "https://shamela.ws/book/1687/3741"
+status: "review"

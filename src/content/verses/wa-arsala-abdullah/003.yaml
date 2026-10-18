@@ -1,0 +1,13 @@
+explained: false
+first: "وَدَعْ عَنْكَ عَمْرًا إِنَّ عَمْرًا مُسَالِمٌ"
+second: "وَهَلْ بَطْنُ عَمْرٍو غَيْرُ شِبْرٍ لِمَطْعَمِ"
+vocabulary:
+  - term: "مُسَالِمٌ"
+    text: "يريد الصلح ويقبل الدية."
+  - term: "شِبْرٍ لِمَطْعَمِ"
+    text: "بطنه شبر يملؤه قليل الطعام، فما حاجته إلى إبل الدية؟"
+sources:
+  - source: "tabrizi-hamasa"
+    loc: "ج1 ص71"
+    url: "https://shamela.ws/book/6907/70"
+status: "review"

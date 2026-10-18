@@ -1,0 +1,16 @@
+explained: false
+first: "وَالخَالِطِينَ نَحِيتَهُمْ بِنُضَارِهِمْ"
+second: "وَذَوِي الغِنَى مِنْهُمْ بِذِي الفَقْرِ"
+vocabulary:
+  - term: "نَحِيتَهُمْ"
+    text: "«الخامل الساقط الذكر» [@khizana، ج5 ص53]."
+  - term: "بِنُضَارِهِمْ"
+    text: "النُّضار: «الخالص النسب العزيز الشهير» [@khizana، ج5 ص53]. يقول البغدادي: «إنهم خلطوا خاملهم برفيعهم وفقيرهم بغنيهم» [@khizana، ج5 ص53]."
+sources:
+  - source: "qali"
+    loc: "ج2 ص158"
+    url: "https://shamela.ws/book/9160/442"
+  - source: "khizana"
+    loc: "ج5 ص53"
+    url: "https://shamela.ws/book/12732/1949"
+status: "review"

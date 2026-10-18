@@ -1,0 +1,16 @@
+kind: "bayt"
+title: "فيا راكبا إما عرضت فبلغن"
+part: "1"
+order: 202
+person: "abd-yaghuth"
+verses:
+  - "ala-la-talumani/003"
+meaning: "يوصي أي راكب يمرّ بأن يبلّغ ندماءه في نَجْران أنه لا لقاء بعد اليوم، أي إنه مقتول. وهو من شواهد سيبويه على نداء النكرة غير المقصودة [@sibawayh، ج2 ص200]."
+sources:
+  - source: "mufaddaliyyat"
+    loc: "ص156"
+    url: "https://shamela.ws/book/6904/130"
+  - source: "sibawayh"
+    loc: "ج2 ص200"
+    url: "https://shamela.ws/book/23018/635"
+status: "review"

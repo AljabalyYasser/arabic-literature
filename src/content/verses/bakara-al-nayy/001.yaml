@@ -1,0 +1,18 @@
+explained: false
+first: "بَكَرَ النَّعِيُّ بِخَيْرِ خِنْ"
+second: "دِفَ كَهْلِهَا وَشَبَابِهَا"
+vocabulary:
+  - term: "بَكَرَ"
+    text: "جاء في البُكرة، أول النهار."
+  - term: "النَّعِيُّ"
+    text: "خبر الموت."
+  - term: "خِنْدِفَ"
+    text: "«امرأة إلياس بن مضر بن نزار واسمها ليلى، نسب ولد إلياس إليها وهي أمهم» [@lisan، ج9 ص98]. فخير خندف: خير أبنائها شيوخًا وشبانًا، تعني أباها."
+sources:
+  - source: "aghani-dk"
+    loc: "ج11 ص146"
+    url: "https://archive.org/details/Al-aghani_11/page/n145/mode/1up"
+  - source: "lisan"
+    loc: "ج9 ص98"
+    url: "https://shamela.ws/book/1687/4405"
+status: "review"

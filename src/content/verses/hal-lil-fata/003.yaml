@@ -1,0 +1,19 @@
+explained: false
+first: "وَرَفَّعُونِي وَقَالُوا أَيُّمَا رَجُلٍ"
+second: "وَأَدْرَجُونِي كَأَنِّي طَيُّ مِخْرَاقِ"
+vocabulary:
+  - term: "وَأَدْرَجُونِي"
+    text: "لفّوني في الكفن، و«أدرج الميت في الكفن والقبر: أدخله» [@lisan، ج2 ص269]."
+  - term: "طَيُّ مِخْرَاقِ"
+    text: "«يعني بطيّ المخراق: المئزر الذي يلويه الصبيان، يضرب بعضهم به بعضا» [@tabrizi-ikhtiyarat، ج3 ص1291]."
+sources:
+  - source: "mufaddaliyyat"
+    loc: "ص300"
+    url: "https://shamela.ws/book/6904/274"
+  - source: "tabrizi-ikhtiyarat"
+    loc: "ج3 ص1291"
+    url: "https://archive.org/details/3820pdf/page/n1299/mode/1up"
+  - source: "lisan"
+    loc: "ج2 ص269"
+    url: "https://shamela.ws/book/1687/1073"
+status: "review"

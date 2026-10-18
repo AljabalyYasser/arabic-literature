@@ -1,0 +1,16 @@
+explained: false
+first: "فَرَّتْ بَنُو أَسَدٍ خُرُو"
+second: "دَ الطَّيْرِ عَنْ أَرْبَابِهَا"
+vocabulary:
+  - term: "خُرُودَ الطَّيْرِ"
+    text: "يقول محققو «الأغاني»: «والخرود: التنحي» [@aghani-dk، ج11 ص146، الحاشية]، أي تنحّوا كما تنفر الطير. تعيّرهم بالفرار يوم جَبَلة."
+  - term: "أَرْبَابِهَا"
+    text: "سادتها، أي تركوا من كانوا معه في المعركة."
+sources:
+  - source: "aghani-dk"
+    loc: "ج11 ص146"
+    url: "https://archive.org/details/Al-aghani_11/page/n145/mode/1up"
+  - source: "aghani-dk"
+    loc: "ج11 ص146، الحاشية"
+    url: "https://archive.org/details/Al-aghani_11/page/n145/mode/1up"
+status: "review"

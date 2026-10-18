@@ -1,0 +1,16 @@
+explained: false
+first: "تَرَى عَرَصَاتِ الحَيِّ تُمْسِي كَأَنَّهَا"
+second: "إِذَا غَابَ لَمْ يَحْلُلْ بِهِنَّ عَرِيبُ"
+vocabulary:
+  - term: "عَرَصَاتِ"
+    text: "يقول محققا «الأصمعيات»: «جمع عرصة، البقعة الواسعة بين الدور ليس فيها بناء» [@asmaiyyat، ص97، الحاشية]."
+  - term: "عَرِيبُ"
+    text: "«أحد، ولا تستعمل في غير النفي» [@asmaiyyat، ص97، الحاشية]."
+sources:
+  - source: "asmaiyyat"
+    loc: "ص97"
+    url: "https://shamela.ws/book/6905/83"
+  - source: "asmaiyyat"
+    loc: "ص97، الحاشية"
+    url: "https://shamela.ws/book/6905/83"
+status: "review"

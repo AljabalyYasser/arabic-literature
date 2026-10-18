@@ -1,0 +1,20 @@
+explained: false
+first: "وَعَادِيَةٍ سَوْمَ الجَرَادِ وَزَعْتُهَا"
+second: "بِكَفِّي وَقَدْ أَنْحَوْا إِلَيَّ العَوَالِيَا"
+vocabulary:
+  - term: "وَعَادِيَةٍ"
+    text: "«القوم يعدون» [@tabrizi-ikhtiyarat، ج2 ص773]، أي خيل مغيرة."
+  - term: "سَوْمَ الجَرَادِ"
+    text: "«أي: انتشاره في المرعى» [@tabrizi-ikhtiyarat، ج2 ص773]، يريد كثرتها."
+  - term: "وَزَعْتُهَا"
+    text: "«كففتها» [@tabrizi-ikhtiyarat، ج2 ص773]."
+  - term: "أَنْحَوْا إِلَيَّ العَوَالِيَا"
+    text: "أنحوا الرماح: «أمالوها وقصدوا بها» [@tabrizi-ikhtiyarat، ج2 ص773]، والعوالي: أعالي الرماح."
+sources:
+  - source: "mufaddaliyyat"
+    loc: "ص158"
+    url: "https://shamela.ws/book/6904/132"
+  - source: "tabrizi-ikhtiyarat"
+    loc: "ج2 ص773"
+    url: "https://archive.org/details/3820pdf/page/n785/mode/1up"
+status: "review"

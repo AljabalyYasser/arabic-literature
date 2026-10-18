@@ -1,0 +1,18 @@
+explained: false
+first: "أَمَعْشَرَ تَيْمٍ قَدْ مَلَكْتُمْ فَأَسْجِحُوا"
+second: "فَإِنَّ أَخَاكُمْ لَمْ يَكُنْ مِنْ بَوَائِيَا"
+vocabulary:
+  - term: "فَأَسْجِحُوا"
+    text: "«سهّلوا ويسّروا في أمري» [@tabrizi-ikhtiyarat، ج2 ص770]. ومنه المثل «ملكتَ فأسجح»."
+  - term: "أَخَاكُمْ"
+    text: "يقول محققا «المفضليات»: «هو النعمان بن جساس» [@mufaddaliyyat، ص157، الحاشية]."
+  - term: "بَوَائِيَا"
+    text: "البَواء: الكفء في الدم، يقول التِّبْرِيزِيّ: «لم أقتل صاحبكم، ولست له بواء. يقال: بؤ بفلان، أي: اذهب به. يقال ذلك للمقتول بمن قتل» [@tabrizi-ikhtiyarat، ج2 ص770]."
+sources:
+  - source: "mufaddaliyyat"
+    loc: "ص157"
+    url: "https://shamela.ws/book/6904/131"
+  - source: "tabrizi-ikhtiyarat"
+    loc: "ج2 ص770"
+    url: "https://archive.org/details/3820pdf/page/n782/mode/1up"
+status: "review"

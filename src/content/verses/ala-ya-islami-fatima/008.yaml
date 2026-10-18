@@ -1,0 +1,21 @@
+explained: false
+first: "تَحَمَّلْنَ مِنْ جَوِّ الْوَرِيعَةِ بَعْدَمَا"
+second: "تَعَالَى النَّهَارُ وَاجْتَزَعْنَ الصَّرَائِمَا"
+vocabulary:
+  - term: "الْوَرِيعَةِ"
+    text: "«موضع» [@tabrizi-ikhtiyarat، ج2 ص1099]."
+  - term: "وَاجْتَزَعْنَ"
+    text: "«قطعن» [@tabrizi-ikhtiyarat، ج2 ص1099]."
+  - term: "الصَّرَائِمَا"
+    text: "جمع صريمة، «والصَّريم والصَّريمة: القطعة المنقطعة من معظم الرمل» [@lisan، ج12 ص336]."
+sources:
+  - source: "mufaddaliyyat"
+    loc: "ص245"
+    url: "https://shamela.ws/book/6904/219"
+  - source: "tabrizi-ikhtiyarat"
+    loc: "ج2 ص1099"
+    url: "https://archive.org/details/3820pdf/page/n1111/mode/1up"
+  - source: "lisan"
+    loc: "ج12 ص336"
+    url: "https://shamela.ws/book/1687/6249"
+status: "review"

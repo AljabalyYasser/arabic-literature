@@ -1,0 +1,21 @@
+explained: false
+first: "لِلَّهِ دَرُّكُمَا وَدَرُّ أَبِيكُمَا"
+second: "إِنْ أَفْلَتَ الْغُفَلِيُّ حَتَّى يُقْتَلَا"
+vocabulary:
+  - term: "لِلَّهِ دَرُّكُمَا"
+    text: "«فُسِّر على أن المعنى: لله خيرُكما»، و«مراد المرقّش بهذا الكلام التحضيض والبعث والاستعطاف في الدعاء لهما» [@tabrizi-ikhtiyarat، ج2 ص989]: يستحثّ أخويه على الثأر."
+  - term: "الْغُفَلِيُّ"
+    text: "أجير المرقّش، رجل من غُفَيْلة «كان عسيفًا لمرقّش» [@aghani-dk، ج6 ص130]، أي أجيرًا، وهو الذي تركه في الكهف."
+  - term: "حَتَّى يُقْتَلَا"
+    text: "«إلى أن يُقتل» [@tabrizi-ikhtiyarat، ج2 ص989]."
+sources:
+  - source: "mufaddaliyyat"
+    loc: "ص222"
+    url: "https://shamela.ws/book/6904/196"
+  - source: "tabrizi-ikhtiyarat"
+    loc: "ج2 ص989"
+    url: "https://archive.org/details/3820pdf/page/n1001/mode/1up"
+  - source: "aghani-dk"
+    loc: "ج6 ص130"
+    url: "https://archive.org/details/aghani2014/6/page/n131/mode/1up"
+status: "review"

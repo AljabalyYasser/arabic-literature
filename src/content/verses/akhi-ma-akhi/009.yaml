@@ -1,0 +1,15 @@
+explained: false
+first: "حَبِيبٌ إِلَى الخُلَّانِ غِشْيَانُ بَيْتِهِ"
+second: "جَمِيلُ المُحَيَّا شَبَّ وَهْوَ أَدِيبُ"
+vocabulary:
+  - term: "غِشْيَانُ بَيْتِهِ"
+    text: "إتيانه وزيارته."
+  - term: "المُحَيَّا"
+    text: "الوجه."
+  - term: "أَدِيبُ"
+    text: "حسن الخلق والسيرة."
+sources:
+  - source: "asmaiyyat"
+    loc: "ص96"
+    url: "https://shamela.ws/book/6905/82"
+status: "review"

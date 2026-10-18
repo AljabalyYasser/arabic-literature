@@ -1,0 +1,17 @@
+kind: "bayt"
+title: "آذان النعام"
+part: "1"
+order: 227
+person: "kabsha-bint-madikarib"
+verses:
+  - "wa-arsala-abdullah/004"
+story: "kabsha-wa-amr"
+meaning: "تقول كبشة لقومها: إن قبلتم الدية في أخي ولم تثأروا فامشوا أذلّاء كأن آذانكم مجدوعة كآذان النعام. ويروي ابن قُتَيْبة البيت «فإن أنتم لم تثأروا بأخيكم» [@ibn-qutayba، ج1 ص362]."
+sources:
+  - source: "tabrizi-hamasa"
+    loc: "ج1 ص72"
+    url: "https://shamela.ws/book/6907/71"
+  - source: "ibn-qutayba"
+    loc: "ج1 ص362"
+    url: "https://shamela.ws/book/23785/355"
+status: "review"

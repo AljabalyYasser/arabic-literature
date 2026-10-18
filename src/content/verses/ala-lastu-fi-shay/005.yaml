@@ -1,0 +1,22 @@
+explained: false
+first: "كَفَى حَزَنًا أَنْ يَرْحَلَ الحَيُّ غُدْوَةً"
+second: "وَأُصْبِحَ فِي أَعْلَى إِلَاهَةَ ثَاوِيَا"
+vocabulary:
+  - term: "إِلَاهَةَ"
+    text: "«وهي قارة بالسماوة» [@tabrizi-ikhtiyarat، ج3 ص1154]. ويروي ابن بَرِّيّ «ألاهة» بضم الهمزة، ويقول: «وهي مغارة سماوة كلب» [@lisan، ج13 ص471]."
+  - term: "ثَاوِيَا"
+    text: "«مقيما» [@tabrizi-ikhtiyarat، ج3 ص1159]، يعني مدفونًا."
+sources:
+  - source: "mufaddaliyyat"
+    loc: "ص261"
+    url: "https://shamela.ws/book/6904/235"
+  - source: "tabrizi-ikhtiyarat"
+    loc: "ج3 ص1154"
+    url: "https://archive.org/details/3820pdf/page/n1162/mode/1up"
+  - source: "tabrizi-ikhtiyarat"
+    loc: "ج3 ص1159"
+    url: "https://archive.org/details/3820pdf/page/n1167/mode/1up"
+  - source: "lisan"
+    loc: "ج13 ص471"
+    url: "https://shamela.ws/book/1687/7032"
+status: "review"

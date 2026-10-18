@@ -1,0 +1,18 @@
+explained: false
+first: "لَقَدْ ضَرَبُوا وَجْهًا عَلَيْهِ مَهَابَةٌ"
+second: "وَمَا تَحْفِلُ الصُّمُّ الجَنَادِلُ مَنْ رَدَى"
+vocabulary:
+  - term: "تَحْفِلُ"
+    text: "تبالي."
+  - term: "الصُّمُّ الجَنَادِلُ"
+    text: "الصخور الصلبة."
+  - term: "رَدَى"
+    text: "يقول محققو «الأغاني»: «وردى هنا: رمى» [@aghani-dk، ج11 ص145، الحاشية]. أي لا تبالي الحجارة الصمّ بمن رمى بها، وكذلك الميت لا يحس بضربهم، فلا فخر لهم فيه."
+sources:
+  - source: "aghani-dk"
+    loc: "ج11 ص145"
+    url: "https://archive.org/details/Al-aghani_11/page/n144/mode/1up"
+  - source: "aghani-dk"
+    loc: "ج11 ص145، الحاشية"
+    url: "https://archive.org/details/Al-aghani_11/page/n144/mode/1up"
+status: "review"

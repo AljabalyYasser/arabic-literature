@@ -1,0 +1,19 @@
+explained: false
+first: "وَتَفْزَعُ الشَّوْلُ مِنْهُ حِينَ يَفْجَؤُهَا"
+second: "حَتَّى تَقَطَّعَ فِي أَعْنَاقِهَا الجِرَرُ"
+vocabulary:
+  - term: "يَفْجَؤُهَا"
+    text: "يأتيها بغتة."
+  - term: "الجِرَرُ"
+    text: "جمع جِرّة، «وهي ما يخرجه البعير للاجترار» [@khizana، ج1 ص194]. يقول المُبَرِّد: «حتى اعتادت أن ينحرها، فهي تفزع منه» [@kamil، ج4 ص59]."
+sources:
+  - source: "asmaiyyat"
+    loc: "ص89"
+    url: "https://shamela.ws/book/6905/75"
+  - source: "khizana"
+    loc: "ج1 ص194"
+    url: "https://shamela.ws/book/12732/192"
+  - source: "kamil"
+    loc: "ج4 ص59"
+    url: "https://shamela.ws/book/8505/1227"
+status: "review"

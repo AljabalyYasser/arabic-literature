@@ -1,0 +1,16 @@
+explained: false
+first: "هُوَ العَسَلُ المَاذِيُّ حِلْمًا وَنَائِلًا"
+second: "وَلَيْثٌ إِذَا يَلْقَى العَدُوَّ غَضُوبُ"
+vocabulary:
+  - term: "المَاذِيُّ"
+    text: "يقول محققا «الأصمعيات»: «العسل الأبيض اللين» [@asmaiyyat، ص95، الحاشية]."
+  - term: "نَائِلًا"
+    text: "عطاءً."
+sources:
+  - source: "asmaiyyat"
+    loc: "ص95"
+    url: "https://shamela.ws/book/6905/81"
+  - source: "asmaiyyat"
+    loc: "ص95، الحاشية"
+    url: "https://shamela.ws/book/6905/81"
+status: "review"

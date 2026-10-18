@@ -1,0 +1,16 @@
+explained: false
+first: "تَرَاءَتْ لَنَا يَوْمَ الرَّحِيلِ بِوَارِدٍ"
+second: "وَعَذْبِ الثَّنَايَا لَمْ يَكُنْ مُتَرَاكِمَا"
+vocabulary:
+  - term: "بِوَارِدٍ"
+    text: "«الوارد: شَعَرها» [@tabrizi-ikhtiyarat، ج2 ص1095]، أي شعر طويل يَرِد على متنيها."
+  - term: "مُتَرَاكِمَا"
+    text: "يقول محقق شرح التِّبْرِيزِيّ: «الثغر المتراكم هو الذي تقاربت أسنانه، فركب بعضها بعضًا» [@tabrizi-ikhtiyarat، ج2 ص1095، الحاشية]."
+sources:
+  - source: "mufaddaliyyat"
+    loc: "ص244"
+    url: "https://shamela.ws/book/6904/218"
+  - source: "tabrizi-ikhtiyarat"
+    loc: "ج2 ص1095"
+    url: "https://archive.org/details/3820pdf/page/n1107/mode/1up"
+status: "review"

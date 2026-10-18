@@ -1,0 +1,19 @@
+explained: false
+first: "فَالْعَيْنُ تُذْرِي دَمْعَةً"
+second: "كَالدُّرِّ مِنْ آمَاقِهَا"
+vocabulary:
+  - term: "تُذْرِي"
+    text: "«أَذْرَتِ العينُ الدمعَ تُذْرِيه إِذْراءً وذَرًى، أي: صبّته» [@lisan، ج14 ص284]."
+  - term: "آمَاقِهَا"
+    text: "جمع مُؤْق، و«مُؤق العين: طرفها مما يلي الأنف ... والجمع آماق» [@lisan، ج10 ص337]، ومنه يجري الدمع."
+sources:
+  - source: "aghani-dk"
+    loc: "ج22 ص238"
+    url: "https://archive.org/details/aghani2014/22/page/n240/mode/1up"
+  - source: "lisan"
+    loc: "ج14 ص284"
+    url: "https://shamela.ws/book/1687/7408"
+  - source: "lisan"
+    loc: "ج10 ص337"
+    url: "https://shamela.ws/book/1687/5006"
+status: "review"

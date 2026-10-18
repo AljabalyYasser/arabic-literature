@@ -1,0 +1,15 @@
+kind: "mathal"
+part: "1"
+order: 223
+person: "dakhtanus"
+text: "الصَّيْفَ ضَيَّعْتِ اللَّبَنَ"
+story: "al-sayf-dayyati-al-laban"
+meaning: "يُضرب «لمن يطلب شيئا قد فوته على نفسه»، والتاء مكسورة دائمًا «لأن المثل في الأصل خوطبت به امرأة» [@maydani، ج2 ص68]، هي دَخْتَنُوس حين طلبت اللبن من زوجها الذي طلّقته."
+sources:
+  - source: "maydani"
+    loc: "ج2 ص68"
+    url: "https://shamela.ws/book/12929/2801"
+  - source: "askari-amthal"
+    loc: "ج1 ص576"
+    url: "https://shamela.ws/book/6897/574"
+status: "review"

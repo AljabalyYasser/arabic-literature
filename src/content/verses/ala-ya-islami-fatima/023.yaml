@@ -1,0 +1,16 @@
+explained: false
+first: "أَلَمْ تَرَ أَنَّ الْمَرْءَ يَجْذِمُ كَفَّهُ"
+second: "وَيَجْشَمُ مِنْ لَوْمِ الصَّدِيقِ الْمَجَاشِمَا"
+vocabulary:
+  - term: "يَجْذِمُ كَفَّهُ"
+    text: "«\"الجَذْم\": القطع. وهذا هو ما فعله بنفسه، لمّا وقفت صاحبته على إفشاء سرّه» [@tabrizi-ikhtiyarat، ج2 ص1105]."
+  - term: "وَيَجْشَمُ ... الْمَجَاشِمَا"
+    text: "«أي: من مخافة لوم الصديق يتجشّم العظائم» [@tabrizi-ikhtiyarat، ج2 ص1105]."
+sources:
+  - source: "mufaddaliyyat"
+    loc: "ص247"
+    url: "https://shamela.ws/book/6904/221"
+  - source: "tabrizi-ikhtiyarat"
+    loc: "ج2 ص1105"
+    url: "https://archive.org/details/3820pdf/page/n1117/mode/1up"
+status: "review"

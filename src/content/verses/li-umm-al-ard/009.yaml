@@ -1,0 +1,16 @@
+explained: false
+first: "فَإِنْ تَجْزَعْ عَلَيْهِ بَنُو أَبِيهِ"
+second: "لَقَدْ فُجِعُوا وَفَاتَهُمُ خَلِيلُ"
+vocabulary:
+  - term: "فُجِعُوا"
+    text: "أصيبوا بمصيبة موجعة."
+  - term: "خَلِيلُ"
+    text: "صديق مصافٍ، وفي «النَّقائِض»: «جليل» [@naqaid، ج2 ص410]."
+sources:
+  - source: "asmaiyyat"
+    loc: "ص37"
+    url: "https://shamela.ws/book/6905/23"
+  - source: "naqaid"
+    loc: "ج2 ص410"
+    url: "https://shamela.ws/book/13609/252"
+status: "review"

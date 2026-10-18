@@ -1,0 +1,15 @@
+explained: false
+first: "إِنْ يَشْرَبُوا يَهَبُوا وَإِنْ يَذَرُوا"
+second: "يَتَوَاعَظُوا عَنْ مَنْطِقِ الهُجْرِ"
+vocabulary:
+  - term: "يَذَرُوا"
+    text: "يتركوا الشراب."
+  - term: "يَتَوَاعَظُوا"
+    text: "يعظ بعضهم بعضًا وينهاه."
+  - term: "الهُجْرِ"
+    text: "«الفحش» [@qali، ج2 ص158]، أي الكلام القبيح."
+sources:
+  - source: "qali"
+    loc: "ج2 ص158"
+    url: "https://shamela.ws/book/9160/442"
+status: "review"

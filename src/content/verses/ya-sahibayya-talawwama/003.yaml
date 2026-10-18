@@ -1,0 +1,19 @@
+explained: false
+first: "يَا رَاكِبًا إِمَّا عَرَضْتَ فَبَلِّغَنْ"
+second: "أَنَسَ بْنَ سَعْدٍ إِنْ لَقِيتَ وَحَرْمَلَا"
+vocabulary:
+  - term: "عَرَضْتَ"
+    text: "«عَرَضَ الرجلُ إذا أتى العَرُوض، وهي مكة والمدينة وما حولهما» [@lisan، ج7 ص173]."
+  - term: "أَنَسَ بْنَ سَعْدٍ ... وَحَرْمَلَا"
+    text: "أنس وحرملة: «أخوا مرقّش». وقوله «وحرملا»: «أراد: حرملة، فرخّم في غير النداء» [@tabrizi-ikhtiyarat، ج2 ص988]، أي حذف آخر الاسم، والترخيم يكون في النداء غالبًا."
+sources:
+  - source: "mufaddaliyyat"
+    loc: "ص222"
+    url: "https://shamela.ws/book/6904/196"
+  - source: "tabrizi-ikhtiyarat"
+    loc: "ج2 ص988"
+    url: "https://archive.org/details/3820pdf/page/n1000/mode/1up"
+  - source: "lisan"
+    loc: "ج7 ص173"
+    url: "https://shamela.ws/book/1687/3556"
+status: "review"

@@ -1,0 +1,16 @@
+kind: "bayt"
+title: "قاتلة مقتولة"
+part: "1"
+order: 222
+person: "jalila"
+verses:
+  - "ya-bnata-al-aqwam/016"
+meaning: "خاتمة قصيدة جَلِيلة في زوجها كُلَيْب: هي قاتلة لأن القاتل أخوها جَسّاس، ومقتولة لأن القتيل زوجها، وترجو أن يرحمها الله. ونسبة القصيدة إليها «منسوب»، لأن خبرها وشعرها من رواية الشَّرْقِيّ بن القُطامِيّ وحده [@aghani، ج5 ص67]."
+sources:
+  - source: "aghani"
+    loc: "ج5 ص67"
+    url: "https://ketabonline.com/ar/books/10786/read?page=1670"
+  - source: "aghani"
+    loc: "ج5 ص69"
+    url: "https://ketabonline.com/ar/books/10786/read?page=1672"
+status: "review"

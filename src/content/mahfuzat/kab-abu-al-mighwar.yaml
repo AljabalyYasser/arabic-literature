@@ -1,0 +1,17 @@
+kind: "maqta"
+title: "لعل أبا المغوار منك قريب"
+part: "1"
+order: 229
+person: "kab-ibn-sad-al-ghanawi"
+verses:
+  - "akhi-ma-akhi/012"
+  - "akhi-ma-akhi/013"
+meaning: "سائل ينادي من يجيب إلى الكرم فلا يجيبه أحد، فيقول له كعب: ادعُ مرة أخرى وارفع صوتك، لعل أخي يسمعك. يقول البغدادي: «هذا الترجي من شدة ذهوله من عظم مصابه بأخيه» [@khizana، ج10 ص437]."
+sources:
+  - source: "asmaiyyat"
+    loc: "ص96"
+    url: "https://shamela.ws/book/6905/82"
+  - source: "khizana"
+    loc: "ج10 ص437"
+    url: "https://shamela.ws/book/12732/5145"
+status: "review"

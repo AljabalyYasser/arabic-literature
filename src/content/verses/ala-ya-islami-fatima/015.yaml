@@ -1,0 +1,19 @@
+explained: false
+first: "أَفَاطِمَ إِنَّ الْحُبَّ يَعْفُو عَنِ الْقِلَى"
+second: "وَيُجْشِمُ ذَا الْعِرْضِ الْكَرِيمَ الْمَجَاشِمَا"
+vocabulary:
+  - term: "يَعْفُو عَنِ الْقِلَى"
+    text: "«\"يعفو\" أي: يكثر. و\"القِلَى\": البُغْض. والمعنى: إن الحب، مع مَنْع المحبوب وجفائه، يزداد ويستحكم» [@tabrizi-ikhtiyarat، ج2 ص1102]."
+  - term: "وَيُجْشِمُ ... الْمَجَاشِمَا"
+    text: "من تجشّم الأمر، «وتجشّمته إذا تكلّفته» [@lisan، ج12 ص100]: يحمل الكريمَ على الأمور الشاقة."
+sources:
+  - source: "mufaddaliyyat"
+    loc: "ص246"
+    url: "https://shamela.ws/book/6904/220"
+  - source: "tabrizi-ikhtiyarat"
+    loc: "ج2 ص1102"
+    url: "https://archive.org/details/3820pdf/page/n1114/mode/1up"
+  - source: "lisan"
+    loc: "ج12 ص100"
+    url: "https://shamela.ws/book/1687/6016"
+status: "review"

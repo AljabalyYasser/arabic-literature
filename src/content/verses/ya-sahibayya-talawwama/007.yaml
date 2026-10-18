@@ -1,0 +1,19 @@
+explained: false
+first: "وَكَأَنَّمَا تَرِدُ السِّبَاعُ بِشِلْوِهِ"
+second: "إِذْ غَابَ جَمْعُ بَنِي ضُبَيْعَةَ مَنْهَلَا"
+vocabulary:
+  - term: "شِلْوِهِ"
+    text: "«بقايا لحمه وعظامه». والمعنى: «كأنما ترد السباع منهلًا، بورودها شِلْوَه» [@tabrizi-ikhtiyarat، ج2 ص990]، والمنهل: الماء الذي تَرِده."
+  - term: "بَنِي ضُبَيْعَةَ"
+    text: "قوم المرقّش، فهو «عمرو بن سعد بن مالك بن ضُبَيْعة» [@tabrizi-ikhtiyarat، ج2 ص986]."
+sources:
+  - source: "mufaddaliyyat"
+    loc: "ص222"
+    url: "https://shamela.ws/book/6904/196"
+  - source: "tabrizi-ikhtiyarat"
+    loc: "ج2 ص990"
+    url: "https://archive.org/details/3820pdf/page/n1002/mode/1up"
+  - source: "tabrizi-ikhtiyarat"
+    loc: "ج2 ص986"
+    url: "https://archive.org/details/3820pdf/page/n998/mode/1up"
+status: "review"

@@ -1,0 +1,19 @@
+explained: false
+first: "وَقَدْ كُنْتُ نَحَّارَ الجَزُورِ وَمُعْمِلَ الْـ"
+second: "ـمَطِيِّ وَأَمْضِي حَيْثُ لَا حَيَّ مَاضِيَا"
+vocabulary:
+  - term: "الجَزُورِ"
+    text: "«الناقة المجزورة» [@lisan، ج4 ص134]، أي المنحورة."
+  - term: "وَمُعْمِلَ المَطِيِّ"
+    text: "الذي يحثّها في السير، ومنه الحديث: «لا تعمل المطي إلا إلى ثلاثة مساجد أي لا تحث ولا تساق» [@lisan، ج11 ص477]."
+sources:
+  - source: "mufaddaliyyat"
+    loc: "ص158"
+    url: "https://shamela.ws/book/6904/132"
+  - source: "lisan"
+    loc: "ج4 ص134"
+    url: "https://shamela.ws/book/1687/2094"
+  - source: "lisan"
+    loc: "ج11 ص477"
+    url: "https://shamela.ws/book/1687/5655"
+status: "review"

@@ -1,0 +1,23 @@
+explained: false
+first: "لَمْ يَحْفِلُوا نَسَبًا وَلَمْ"
+second: "يَلْوُوا لِفَيْءِ عُقَابِهَا"
+vocabulary:
+  - term: "لَمْ يَحْفِلُوا"
+    text: "لم يبالوا."
+  - term: "يَلْوُوا"
+    text: "يعطفوا ويرجعوا."
+  - term: "فَيْءِ"
+    text: "ظلّ."
+  - term: "عُقَابِهَا"
+    text: "في اللسان: «والعقاب: الراية» [@lisan، ج1 ص621]، ويقول محققو «الأغاني»: «ولعل المراد بالعقاب هنا: الراية» [@aghani-dk، ج11 ص146، الحاشية]. أي لم يرجعوا ليقاتلوا تحت رايتهم."
+sources:
+  - source: "aghani-dk"
+    loc: "ج11 ص146"
+    url: "https://archive.org/details/Al-aghani_11/page/n145/mode/1up"
+  - source: "lisan"
+    loc: "ج1 ص621"
+    url: "https://shamela.ws/book/1687/621"
+  - source: "aghani-dk"
+    loc: "ج11 ص146، الحاشية"
+    url: "https://archive.org/details/Al-aghani_11/page/n145/mode/1up"
+status: "review"

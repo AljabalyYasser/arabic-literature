@@ -1,0 +1,20 @@
+explained: false
+first: "أَخُو رَغَائِبَ يُعْطِيهَا وَيُسْأَلُهَا"
+second: "يَأْبَى الظُّلَامَةَ مِنْهُ النَّوْفَلُ الزُّفَرُ"
+vocabulary:
+  - term: "رَغَائِبَ"
+    text: "«جمع رغيبة وهي العطايا الكثيرة» [@khizana، ج1 ص187]."
+  - term: "الظُّلَامَةَ"
+    text: "الظلم، وهي عند البغدادي «ما تطلبه عند الظالم» [@khizana، ج1 ص187]."
+  - term: "النَّوْفَلُ"
+    text: "«البحر والكثير العطاء» [@khizana، ج1 ص187]."
+  - term: "الزُّفَرُ"
+    text: "«الكثير الناصر والأهل والعدة» [@khizana، ج1 ص187]."
+sources:
+  - source: "asmaiyyat"
+    loc: "ص90"
+    url: "https://shamela.ws/book/6905/76"
+  - source: "khizana"
+    loc: "ج1 ص187"
+    url: "https://shamela.ws/book/12732/185"
+status: "review"

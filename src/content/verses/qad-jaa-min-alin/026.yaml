@@ -1,0 +1,18 @@
+explained: false
+first: "لَا يُعْجِلُ القَوْمَ أَنْ تَغْلِي مَرَاجِلُهُمْ"
+second: "وَيُدْلِجُ اللَّيْلَ حَتَّى يَفْسَحَ البَصَرُ"
+vocabulary:
+  - term: "مَرَاجِلُهُمْ"
+    text: "«والمراجل القدور جمع مرجل» [@khizana، ج1 ص199]."
+  - term: "يُدْلِجُ"
+    text: "يسير الليل كله."
+  - term: "يَفْسَحَ البَصَرُ"
+    text: "«أي يجد متسعا من الصبح» [@khizana، ج1 ص199]."
+sources:
+  - source: "asmaiyyat"
+    loc: "ص91"
+    url: "https://shamela.ws/book/6905/77"
+  - source: "khizana"
+    loc: "ج1 ص199"
+    url: "https://shamela.ws/book/12732/197"
+status: "review"

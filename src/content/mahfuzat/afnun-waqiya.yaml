@@ -1,0 +1,17 @@
+kind: "maqta"
+title: "لعمرك ما يدري امرؤ كيف يتقي"
+part: "1"
+order: 205
+person: "afnun"
+verses:
+  - "ala-lastu-fi-shay/004"
+  - "ala-lastu-fi-shay/005"
+meaning: "لا يدري المرء كيف يحترس إن لم يحرسه الله، وكفى حزنًا أن يرحل أصحابه ويبقى هو مدفونًا في موضعه. قالهما أُفْنُون التغلبي وقد لدغته أفعى بالموضع الذي أنذره كاهن أنه يموت فيه [@ibn-qutayba، ج1 ص408]."
+sources:
+  - source: "mufaddaliyyat"
+    loc: "ص261"
+    url: "https://shamela.ws/book/6904/235"
+  - source: "ibn-qutayba"
+    loc: "ج1 ص408"
+    url: "https://shamela.ws/book/23785/401"
+status: "review"

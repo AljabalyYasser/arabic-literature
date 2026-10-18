@@ -1,0 +1,16 @@
+kind: "bayt"
+title: "هوت أمه"
+part: "1"
+order: 228
+person: "kab-ibn-sad-al-ghanawi"
+verses:
+  - "akhi-ma-akhi/005"
+meaning: "«هوت أمه» دعاء في الظاهر، والمراد به «التعجب والمدح كقولهم: قاتله الله ما أفصحه» [@khizana، ج10 ص436]: ما أعظم ما يأتي به الصبح منه إذا غدا إلى الحرب، وما يأتي به الليل إذا رجع."
+sources:
+  - source: "asmaiyyat"
+    loc: "ص95"
+    url: "https://shamela.ws/book/6905/81"
+  - source: "khizana"
+    loc: "ج10 ص436"
+    url: "https://shamela.ws/book/12732/5144"
+status: "review"

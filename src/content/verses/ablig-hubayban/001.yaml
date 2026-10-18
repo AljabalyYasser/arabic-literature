@@ -1,0 +1,23 @@
+explained: false
+first: "أَبْلِغْ حُبَيْبًا وَخَلِّلْ فِي سَرَاتِهِمُ"
+second: "أَنَّ الفُؤَادَ انْطَوَى مِنْهُمْ عَلَى حَزَنِ"
+vocabulary:
+  - term: "حُبَيْبًا"
+    text: "«قبيلة» [@tabrizi-ikhtiyarat، ج3 ص1160]، وهم قوم الشاعر بنو حُبَيْب من تَغْلِب."
+  - term: "سَرَاتِهِمُ"
+    text: "«خيارهم. الواحد سريّ» [@tabrizi-ikhtiyarat، ج3 ص1160]."
+  - term: "وَخَلِّلْ"
+    text: "«أي: خصّهم بالبلاغ، أي: اجعل بلاغك يتخللهم» [@tabrizi-ikhtiyarat، ج3 ص1160]."
+  - term: "انْطَوَى مِنْهُمْ عَلَى حَزَنِ"
+    text: "«يريد: عرّفهم أن القلب انطوى، من أجلهم، على ضغن وحزن» [@tabrizi-ikhtiyarat، ج3 ص1161]."
+sources:
+  - source: "mufaddaliyyat"
+    loc: "ص262"
+    url: "https://shamela.ws/book/6904/236"
+  - source: "tabrizi-ikhtiyarat"
+    loc: "ج3 ص1160"
+    url: "https://archive.org/details/3820pdf/page/n1168/mode/1up"
+  - source: "tabrizi-ikhtiyarat"
+    loc: "ج3 ص1161"
+    url: "https://archive.org/details/3820pdf/page/n1169/mode/1up"
+status: "review"

@@ -1,0 +1,18 @@
+explained: false
+first: "يَا قَتِيلًا قَوَّضَ الدَّهْرُ بِهِ"
+second: "سَقْفَ بَيْتَيَّ جَمِيعًا مِنْ عَلِ"
+vocabulary:
+  - term: "قَوَّضَ"
+    text: "«قوض البناء: نقضه من غير هدم» [@lisan، ج7 ص224]."
+  - term: "بَيْتَيَّ"
+    text: "مثنى بيت مضاف إلى المتكلمة: بيت زوجها وبيت أبيها."
+  - term: "مِنْ عَلِ"
+    text: "من فوق."
+sources:
+  - source: "aghani"
+    loc: "ج5 ص68"
+    url: "https://ketabonline.com/ar/books/10786/read?page=1671"
+  - source: "lisan"
+    loc: "ج7 ص224"
+    url: "https://shamela.ws/book/1687/3607"
+status: "review"
