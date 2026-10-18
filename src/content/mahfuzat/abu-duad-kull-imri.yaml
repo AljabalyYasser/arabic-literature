@@ -1,0 +1,19 @@
+kind: "bayt"
+title: "أكل امرئ تحسبين امرأ"
+part: "1"
+order: 253
+person: "abu-duad"
+verses:
+  - "wa-darin-yaqulu/015"
+meaning: "ما كل من تظنينه رجلًا رجلٌ، ولا كل نار توقد في الليل نار كرم. يقول ابن قُتَيْبة: «ومما يتمثّل به من شعره» [@ibn-qutayba، ج1 ص233]، وهو شاهد سيبويه على حذف «كل» من المعطوف استغناءً بذكرها أول الكلام [@sibawayh، ج1 ص66]."
+sources:
+  - source: "asmaiyyat"
+    loc: "ص191"
+    url: "https://shamela.ws/book/6905/175"
+  - source: "ibn-qutayba"
+    loc: "ج1 ص233"
+    url: "https://shamela.ws/book/23785/226"
+  - source: "sibawayh"
+    loc: "ج1 ص66"
+    url: "https://shamela.ws/book/23018/64"
+status: "review"

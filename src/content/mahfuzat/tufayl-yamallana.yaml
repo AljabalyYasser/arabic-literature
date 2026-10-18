@@ -1,0 +1,16 @@
+kind: "bayt"
+title: "أبوا أن يملونا"
+part: "1"
+order: 255
+person: "tufayl-al-ghanawi"
+verses:
+  - "jaza-allahu-jafaran/002"
+meaning: "شكر لقوم آووا قوم الشاعر في شدة: لم يملّوهم، ولو لقيت أمهم منهم ما لقي هؤلاء لملّت. ويروي العسكري أن أبا بكر الصديق تمثّل بالأبيات للأنصار [@askari-amthal، ج1 ص152]، والخبر منسوب."
+sources:
+  - source: "wahshiyyat"
+    loc: "ص251"
+    url: "https://shamela.ws/book/36082/239"
+  - source: "askari-amthal"
+    loc: "ج1 ص152"
+    url: "https://shamela.ws/book/6897/150"
+status: "review"

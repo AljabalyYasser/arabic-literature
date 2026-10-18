@@ -1,0 +1,17 @@
+kind: "bayt"
+title: "بحي إذا قيل اركبوا"
+part: "1"
+order: 256
+person: "tufayl-al-ghanawi"
+lines:
+  - first: "بِحَيٍّ إِذَا قِيلَ ارْكَبُوا لَمْ يَقُلْ لَهُمْ"
+    second: "عَوَاوِيرُ يَخْشَوْنَ الرَّدَى أَيْنَ نَرْكَبُ"
+meaning: "في قوم إذا دُعوا إلى ركوب الخيل للحرب لم يسأل جبناؤهم: إلى أين؟ والعواوير الجبناء. سأل قُتَيْبة بن مسلم أعرابيًّا من غَنِيّ عن أجود بيت قالته العرب في الحرب، فأنشده هذا البيت [@aghani-dk، ج15 ص350–351]."
+sources:
+  - source: "aghani-dk"
+    loc: "ج15 ص350–351"
+    url: "https://archive.org/details/aghani2014/15/page/n351/mode/1up"
+  - source: "ibn-qutayba"
+    loc: "ج1 ص445"
+    url: "https://shamela.ws/book/23785/438"
+status: "review"
