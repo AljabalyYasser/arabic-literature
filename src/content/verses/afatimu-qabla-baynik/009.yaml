@@ -1,0 +1,18 @@
+explained: false
+first: "وَهُنَّ عَلَى الرَّجَائِزِ وَاكِنَاتٌ"
+second: "قَوَاتِلُ كُلِّ أَشْجَعَ مُسْتَكِينِ"
+vocabulary:
+  - term: "الرَّجَائِزِ"
+    text: "مراكب النساء، واحدتها رِجازة [@mufaddaliyyat، ص288، الحاشية]."
+  - term: "وَاكِنَاتٌ"
+    text: "مطمئنات [@mufaddaliyyat، ص288، الحاشية]."
+  - term: "أَشْجَعَ مُسْتَكِينِ"
+    text: "الأشجع في حاشية المحققين الطويل، والمعنى: يقتلن كل رجل طويل، ولكنه يستكين لهن، أي يخضع [@mufaddaliyyat، ص288، الحاشية]."
+sources:
+  - source: "mufaddaliyyat"
+    loc: "ص288"
+    url: "https://shamela.ws/book/6904/262"
+  - source: "mufaddaliyyat"
+    loc: "ص288، الحاشية"
+    url: "https://archive.org/details/20240818_20240818_1710/page/n287/mode/1up"
+status: "review"

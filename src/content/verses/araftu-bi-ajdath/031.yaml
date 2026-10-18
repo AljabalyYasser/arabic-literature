@@ -1,0 +1,17 @@
+explained: false
+first: "كَلَوْنِ الْمِلْحِ ضَرْبَتُهُ هَبِيرٌ"
+second: "يُتِرُّ الْعَظْمَ سَقَّاطٌ سُرَاطِي"
+vocabulary:
+  - term: "هَبِيرٌ"
+    text: "يهبر اللحم، أي يقطعه [@sukkari-hudhaliyyin، ص1273]."
+  - term: "يُتِرُّ الْعَظْمَ"
+    text: "يطيّره [@sukkari-hudhaliyyin، ص1273]."
+  - term: "سَقَّاطٌ"
+    text: "يقطع الضريبة حتى يسقط خلفها [@sukkari-hudhaliyyin، ص1273]."
+  - term: "سُرَاطِي"
+    text: "يسترط ما ضرب، أي يلتهمه [@sukkari-hudhaliyyin، ص1273]."
+sources:
+  - source: "sukkari-hudhaliyyin"
+    loc: "ص1273"
+    url: "https://archive.org/details/3816pdf/page/n1290/mode/1up"
+status: "review"

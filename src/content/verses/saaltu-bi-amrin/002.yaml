@@ -1,0 +1,16 @@
+explained: false
+first: "فَقَالُوا أُتِيحَ لَهُ نَائِمًا"
+second: "أَعَزُّ السِّبَاعِ عَلَيْهِ أَحَالَا"
+vocabulary:
+  - term: "أُتِيحَ لَهُ"
+    text: "قُضي له، قُدّر له [@sukkari-hudhaliyyin، ص584]."
+  - term: "أَحَالَا"
+    text: "حمل عليه فقتله وأكله [@sukkari-hudhaliyyin، ص584]."
+sources:
+  - source: "sukkari-hudhaliyyin"
+    loc: "ص583"
+    url: "https://archive.org/details/3816pdf/page/n600/mode/1up"
+  - source: "sukkari-hudhaliyyin"
+    loc: "ص584"
+    url: "https://archive.org/details/3816pdf/page/n601/mode/1up"
+status: "review"

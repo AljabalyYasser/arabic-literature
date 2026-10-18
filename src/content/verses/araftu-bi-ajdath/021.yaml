@@ -1,0 +1,17 @@
+explained: false
+first: "وَعَادِيَةٍ وَزَعْتُ لَهَا حَفِيفٌ"
+second: "حَفِيفَ مُزَبِّدِ الْأَعْرَافِ غَاطِي"
+vocabulary:
+  - term: "عَادِيَةٍ"
+    text: "حاملة، قوم يحملون في الحرب [@sukkari-hudhaliyyin، ص1271]."
+  - term: "وَزَعْتُ"
+    text: "كففت [@sukkari-hudhaliyyin، ص1271]."
+  - term: "الْأَعْرَافِ"
+    text: "السيل إذا أزبد يُرى له مثل العُرف [@sukkari-hudhaliyyin، ص1271]."
+  - term: "غَاطِي"
+    text: "مرتفع [@sukkari-hudhaliyyin، ص1271]."
+sources:
+  - source: "sukkari-hudhaliyyin"
+    loc: "ص1271"
+    url: "https://archive.org/details/3816pdf/page/n1288/mode/1up"
+status: "review"

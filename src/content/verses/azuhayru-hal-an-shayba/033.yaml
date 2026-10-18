@@ -1,0 +1,15 @@
+explained: false
+first: "وَعَلَوْتُ مُرْتَبِئًا عَلَى مَرْهُوبَةٍ"
+second: "حَصَّاءَ لَيْسَ رَقِيبُهَا فِي مَثْمِلِ"
+vocabulary:
+  - term: "مَرْهُوبَةٍ"
+    text: "يُرهب أن يُرقى فيها [@sukkari-hudhaliyyin، ص1077]."
+  - term: "حَصَّاءَ"
+    text: "ليس فيها نبات [@sukkari-hudhaliyyin، ص1077]."
+  - term: "مَثْمِلِ"
+    text: "حفظ [@sukkari-hudhaliyyin، ص1077]."
+sources:
+  - source: "sukkari-hudhaliyyin"
+    loc: "ص1077"
+    url: "https://archive.org/details/3816pdf/page/n1094/mode/1up"
+status: "review"

@@ -1,0 +1,17 @@
+explained: false
+first: "حُلْوٌ وَمُرٌّ كَعَطْفِ الْقِدْحِ مِرَّتُهُ"
+second: "بِكُلِّ إِنْيٍ حَذَاهُ اللَّيْلُ يَنْتَعِلُ"
+vocabulary:
+  - term: "كَعَطْفِ الْقِدْحِ"
+    text: "يريد طويًّا كما يُطوى القدح [@sukkari-hudhaliyyin، ص1283]."
+  - term: "مِرَّتُهُ"
+    text: "فتلته [@sukkari-hudhaliyyin، ص1283]."
+  - term: "يَنْتَعِلُ"
+    text: "يسري في كل ساعة من الليل من هدايته [@sukkari-hudhaliyyin، ص1283]."
+  - term: "إِنْيٍ"
+    text: "واحد الآناء، وهي الساعات [@sukkari-hudhaliyyin، ص1283]."
+sources:
+  - source: "sukkari-hudhaliyyin"
+    loc: "ص1283"
+    url: "https://archive.org/details/3816pdf/page/n1300/mode/1up"
+status: "review"

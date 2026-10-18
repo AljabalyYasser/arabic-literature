@@ -1,0 +1,20 @@
+explained: false
+first: "يَجُذُّ تَنَفُّسُ الصُّعَدَاءِ مِنْهَا"
+second: "قُوَى النِّسْعِ الْمُحَرَّمِ ذِي الْمُتُونِ"
+vocabulary:
+  - term: "يَجُذُّ"
+    text: "يقطع [@mufaddaliyyat، ص290، الحاشية]."
+  - term: "الصُّعَدَاءِ"
+    text: "النفَس المردود إلى الجوف [@mufaddaliyyat، ص290، الحاشية]."
+  - term: "قُوَى النِّسْعِ"
+    text: "النِّسع سير يُضفر من الجلد، وقواه طاقاته التي ضُفر منها [@mufaddaliyyat، ص290، الحاشية]."
+  - term: "الْمُحَرَّمِ ذِي الْمُتُونِ"
+    text: "المحرّم الذي دُبغ ولم يُليَّن، وذو المتون ذو القوى. يقول: إذا زفرت فامتلأ جوفها قطعت النسع بنفَسها [@mufaddaliyyat، ص290، الحاشية]."
+sources:
+  - source: "mufaddaliyyat"
+    loc: "ص290"
+    url: "https://shamela.ws/book/6904/264"
+  - source: "mufaddaliyyat"
+    loc: "ص290، الحاشية"
+    url: "https://archive.org/details/20240818_20240818_1710/page/n289/mode/1up"
+status: "review"

@@ -1,0 +1,13 @@
+explained: false
+first: "بَلَى إِنَّهَا تَعْفُو الْكُلُومُ وَإِنَّمَا"
+second: "نُوَكَّلُ بِالْأَدْنَى وَإِنْ جَلَّ مَا يَمْضِي"
+vocabulary:
+  - term: "تَعْفُو الْكُلُومُ"
+    text: "تبرأ الجراح وتستوي [@sukkari-hudhaliyyin، ص1230]."
+  - term: "نُوَكَّلُ بِالْأَدْنَى"
+    text: "أي إنما نحزن على الأقرب فالأقرب، ومن مضى ننساه وإن عظم [@sukkari-hudhaliyyin، ص1230]."
+sources:
+  - source: "sukkari-hudhaliyyin"
+    loc: "ص1230"
+    url: "https://archive.org/details/3816pdf/page/n1247/mode/1up"
+status: "review"

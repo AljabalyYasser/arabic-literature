@@ -1,0 +1,15 @@
+explained: false
+first: "رُمْحٌ لَنَا كَانَ لَمْ يُفْلَلْ تَنُوءُ بِهِ"
+second: "تُوفَى بِهِ الْحَرْبُ وَالْعَزَّاءُ وَالْجُلَلُ"
+vocabulary:
+  - term: "تُوفَى بِهِ"
+    text: "رجع إلى الرجل فقال: كان سلاحًا لنا تُعلى به، أي تُقهر به الحرب [@sukkari-hudhaliyyin، ص1285]."
+  - term: "الْعَزَّاءُ"
+    text: "الشدة [@sukkari-hudhaliyyin، ص1285]."
+  - term: "الْجُلَلُ"
+    text: "جمع جُلّى، وهي العظيم من الأمر [@sukkari-hudhaliyyin، ص1285]."
+sources:
+  - source: "sukkari-hudhaliyyin"
+    loc: "ص1285"
+    url: "https://archive.org/details/3816pdf/page/n1302/mode/1up"
+status: "review"

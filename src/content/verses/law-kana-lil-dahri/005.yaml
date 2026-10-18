@@ -1,0 +1,17 @@
+explained: false
+first: "هَبَّاطُ أَوْدِيَةٍ حَمَّالُ أَلْوِيَةٍ"
+second: "شَهَّادُ أَنْدِيَةٍ سِرْحَانُ فِتْيَانِ"
+vocabulary:
+  - term: "هَبَّاطُ أَوْدِيَةٍ"
+    text: "يهبطها في الغزو [@sukkari-hudhaliyyin، ص285–286]."
+  - term: "حَمَّالُ أَلْوِيَةٍ"
+    text: "يقود الجيش [@sukkari-hudhaliyyin، ص285–286]."
+  - term: "شَهَّادُ أَنْدِيَةٍ"
+    text: "يشهدها للصلح والأمور الجسام، والأندية المجالس [@sukkari-hudhaliyyin، ص285–286]."
+  - term: "سِرْحَانُ"
+    text: "في كلام هذيل الأسد [@sukkari-hudhaliyyin، ص285–286]."
+sources:
+  - source: "sukkari-hudhaliyyin"
+    loc: "ص285–286"
+    url: "https://archive.org/details/3816pdf/page/n302/mode/1up"
+status: "review"

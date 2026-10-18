@@ -1,0 +1,15 @@
+explained: false
+first: "كَأَوْبِ الدَّبْرِ غَامِضَةٍ وَلَيْسَتْ"
+second: "بِمُرْهَفَةِ النِّصَالِ وَلَا سِلَاطِ"
+vocabulary:
+  - term: "أَوْبِ الدَّبْرِ"
+    text: "رجوع النحل في خفته [@sukkari-hudhaliyyin، ص1274]."
+  - term: "سِلَاطِ"
+    text: "الطوال [@sukkari-hudhaliyyin، ص1274]."
+  - term: "بِمُرْهَفَةِ النِّصَالِ"
+    text: "أي ليست برقاق تتكسر [@sukkari-hudhaliyyin، ص1274]."
+sources:
+  - source: "sukkari-hudhaliyyin"
+    loc: "ص1274"
+    url: "https://archive.org/details/3816pdf/page/n1291/mode/1up"
+status: "review"

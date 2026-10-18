@@ -1,0 +1,15 @@
+explained: false
+first: "يَحْمِي الصِّحَابَ إِذَا كَانَ الضِّرَابُ وَيَكْـ"
+second: "ـفِي الْقَائِلِينَ إِذَا مَا كُبِّلَ الْعَانِي"
+vocabulary:
+  - term: "الضِّرَابُ"
+    text: "المضاربة [@sukkari-hudhaliyyin، ص286]."
+  - term: "الْعَانِي"
+    text: "الأسير [@sukkari-hudhaliyyin، ص286]."
+  - term: "يَكْفِي الْقَائِلِينَ"
+    text: "يكون خطيب القوم، فيما يقول الباهلي [@sukkari-hudhaliyyin، ص286]."
+sources:
+  - source: "sukkari-hudhaliyyin"
+    loc: "ص286"
+    url: "https://archive.org/details/3816pdf/page/n303/mode/1up"
+status: "review"

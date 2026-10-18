@@ -1,0 +1,16 @@
+explained: false
+first: "إِذَا مَا قُمْتُ أَرْحَلُهَا بِلَيْلٍ"
+second: "تَأَوَّهُ آهَةَ الرَّجُلِ الْحَزِينِ"
+vocabulary:
+  - term: "أَرْحَلُهَا"
+    text: "أضع عليها الرحل [@mufaddaliyyat، ص291، الحاشية]."
+  - term: "تَأَوَّهُ"
+    text: "تتأوّه: تقول «آه» شكوى وتوجّعًا."
+sources:
+  - source: "mufaddaliyyat"
+    loc: "ص291"
+    url: "https://shamela.ws/book/6904/265"
+  - source: "mufaddaliyyat"
+    loc: "ص291، الحاشية"
+    url: "https://archive.org/details/20240818_20240818_1710/page/n290/mode/1up"
+status: "review"

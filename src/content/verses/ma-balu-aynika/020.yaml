@@ -1,0 +1,17 @@
+explained: false
+first: "رَبَّاءُ شَمَّاءَ لَا يَأْوِي لِقُلَّتِهَا"
+second: "إِلَّا السَّحَابُ وَإِلَّا الْأَوْبُ وَالسَّبَلُ"
+vocabulary:
+  - term: "رَبَّاءُ"
+    text: "يربأ فوقها، أي يكون طليعة لقومه على رأسها [@sukkari-hudhaliyyin، ص1285]."
+  - term: "قُلَّتِهَا"
+    text: "رأسها [@sukkari-hudhaliyyin، ص1285]."
+  - term: "الْأَوْبُ"
+    text: "رجوع النحل [@sukkari-hudhaliyyin، ص1285]."
+  - term: "السَّبَلُ"
+    text: "القطر حين يسيل [@sukkari-hudhaliyyin، ص1285]."
+sources:
+  - source: "sukkari-hudhaliyyin"
+    loc: "ص1285"
+    url: "https://archive.org/details/3816pdf/page/n1302/mode/1up"
+status: "review"

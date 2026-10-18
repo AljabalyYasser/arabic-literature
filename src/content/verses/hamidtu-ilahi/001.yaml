@@ -1,0 +1,13 @@
+explained: false
+first: "حَمِدْتُ إِلٰهِي بَعْدَ عُرْوَةَ إِذْ نَجَا"
+second: "خِرَاشٌ وَبَعْضُ الشَّرِّ أَهْوَنُ مِنْ بَعْضِ"
+vocabulary:
+  - term: "عُرْوَةَ ... خِرَاشٌ"
+    text: "عروة أخوه، وخراش ابنه [@sukkari-hudhaliyyin، ص1230]."
+  - term: "وَبَعْضُ الشَّرِّ أَهْوَنُ مِنْ بَعْضِ"
+    text: "أي إذ لم يُقتلا جميعًا [@sukkari-hudhaliyyin، ص1230]."
+sources:
+  - source: "sukkari-hudhaliyyin"
+    loc: "ص1230"
+    url: "https://archive.org/details/3816pdf/page/n1247/mode/1up"
+status: "review"

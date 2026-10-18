@@ -1,0 +1,16 @@
+explained: false
+first: "وَمُبَرَّأً مِنْ كُلِّ غُبَّرِ حَيْضَةٍ"
+second: "وَفَسَادِ مُرْضِعَةٍ وَدَاءٍ مُغْيِلِ"
+vocabulary:
+  - term: "غُبَّرِ حَيْضَةٍ"
+    text: "الغُبَّر البقية، والحيضة المرة من الحيض [@sukkari-hudhaliyyin، ص1073]. أي لم تحمل به أمه وفي رحمها بقية من دم حيضها."
+  - term: "مُغْيِلِ"
+    text: "يقول الشارح: لم تحمل عليه أمه فتسقيه الغَيْل، وليس به داء شديد قد أعضل [@sukkari-hudhaliyyin، ص1073]. والغيل في «لسان العرب»: «أن يجامع الرجل المرأة وهي مرضع» [@lisan، ج11 ص511]. فالرضيع يشرب لبن أمٍّ يجامعها زوجها أو حبلت وهي ترضعه، وكانوا يرونه يضعف الولد."
+sources:
+  - source: "sukkari-hudhaliyyin"
+    loc: "ص1073"
+    url: "https://archive.org/details/3816pdf/page/n1090/mode/1up"
+  - source: "lisan"
+    loc: "ج11 ص511"
+    url: "https://shamela.ws/book/1687/5689"
+status: "review"

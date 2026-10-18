@@ -1,0 +1,19 @@
+explained: false
+first: "آبِي الْهَضِيمَةِ نَابٍ بِالْعَظِيمَةِ مِتْـ"
+second: "ـلَافُ الْكَرِيمَةِ لَا سِقْطٌ وَلَا وَانِي"
+vocabulary:
+  - term: "آبِي الْهَضِيمَةِ"
+    text: "يأبى أن يُهتضم حقه، أي يأبى النقصان [@sukkari-hudhaliyyin، ص284]."
+  - term: "نَابٍ بِالْعَظِيمَةِ"
+    text: "ينبو بالخصلة العظيمة إذا نزلت به، لا يطمئن لها، أي لم يضعف عنها [@sukkari-hudhaliyyin، ص284]."
+  - term: "مِتْلَافُ الْكَرِيمَةِ"
+    text: "الناقة الكريمة ينحرها ويطعمها [@sukkari-hudhaliyyin، ص284]."
+  - term: "سِقْطٌ"
+    text: "ساقط [@sukkari-hudhaliyyin، ص284]."
+  - term: "وَانِي"
+    text: "فاتر ضعيف [@sukkari-hudhaliyyin، ص284]."
+sources:
+  - source: "sukkari-hudhaliyyin"
+    loc: "ص284"
+    url: "https://archive.org/details/3816pdf/page/n301/mode/1up"
+status: "review"

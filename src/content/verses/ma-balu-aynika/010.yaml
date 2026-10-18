@@ -1,0 +1,17 @@
+explained: false
+first: "يُجِيبُ بَعْدَ الْكَرَى لَبَّيْكَ دَاعِيَهُ"
+second: "مِجْذَامَةٌ لِهَوَاهُ قُلْقُلٌ وَقِلُ"
+vocabulary:
+  - term: "يُجِيبُ بَعْدَ الْكَرَى"
+    text: "إذا دعاه داعٍ بعد نومه قال له: لبيك [@sukkari-hudhaliyyin، ص1283]."
+  - term: "مِجْذَامَةٌ"
+    text: "الذي يقطع هواه، والجذم القطع، أي يقطع هواه إذا كان فيه غيّ [@sukkari-hudhaliyyin، ص1283]."
+  - term: "قُلْقُلٌ"
+    text: "الخفيف [@sukkari-hudhaliyyin، ص1283]."
+  - term: "وَقِلُ"
+    text: "الجيّد التوقّل، أي الصعود في الجبال [@sukkari-hudhaliyyin، ص1283]."
+sources:
+  - source: "sukkari-hudhaliyyin"
+    loc: "ص1283"
+    url: "https://archive.org/details/3816pdf/page/n1300/mode/1up"
+status: "review"

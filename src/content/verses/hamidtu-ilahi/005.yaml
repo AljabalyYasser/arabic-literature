@@ -1,0 +1,17 @@
+explained: false
+first: "وَلَمْ يَكُ مَثْلُوجَ الْفُؤَادِ مُهَبَّجًا"
+second: "أَضَاعَ الشَّبَابَ فِي الرَّبِيلَةِ وَالْخَفْضِ"
+vocabulary:
+  - term: "مَثْلُوجَ الْفُؤَادِ"
+    text: "ضعيف الفؤاد بارده [@sukkari-hudhaliyyin، ص1230]."
+  - term: "مُهَبَّجًا"
+    text: "مثقَّلًا [@sukkari-hudhaliyyin، ص1230]."
+  - term: "الرَّبِيلَةِ"
+    text: "كثرة اللحم وتمامه [@sukkari-hudhaliyyin، ص1230]."
+  - term: "الْخَفْضِ"
+    text: "الدَّعة، أي أضاع شبابه في المقام في الخفض والدعة [@sukkari-hudhaliyyin، ص1230]."
+sources:
+  - source: "sukkari-hudhaliyyin"
+    loc: "ص1230"
+    url: "https://archive.org/details/3816pdf/page/n1247/mode/1up"
+status: "review"

@@ -1,0 +1,15 @@
+explained: false
+first: "صَدْيَانَ أَخْذَى الطَّرْفِ فِي مَلْمُومَةٍ"
+second: "لَوْنُ السَّحَابِ بِهَا كَلَوْنِ الْأَعْبَلِ"
+vocabulary:
+  - term: "أَخْذَى الطَّرْفِ"
+    text: "الذي في طرفه استرخاء من عطش [@sukkari-hudhaliyyin، ص1078]."
+  - term: "مَلْمُومَةٍ"
+    text: "هضبة مدوّرة [@sukkari-hudhaliyyin، ص1078]."
+  - term: "الْأَعْبَلِ"
+    text: "مكان فيه حجارة بيض [@sukkari-hudhaliyyin، ص1078]."
+sources:
+  - source: "sukkari-hudhaliyyin"
+    loc: "ص1078"
+    url: "https://archive.org/details/3816pdf/page/n1095/mode/1up"
+status: "review"

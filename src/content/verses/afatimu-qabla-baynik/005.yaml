@@ -1,0 +1,18 @@
+explained: false
+first: "لِمَنْ ظُعُنٌ تُطَالِعُ مِنْ ضُبَيْبٍ"
+second: "فَمَا خَرَجَتْ مِنَ الْوَادِي لِحِينِ"
+vocabulary:
+  - term: "ظُعُنٌ"
+    text: "جمع ظعينة، وهي المرأة في الهودج [@mufaddaliyyat، ص288، الحاشية]."
+  - term: "ضُبَيْبٍ"
+    text: "موضع، ويروى بالضاد المعجمة وبالصاد المهملة [@mufaddaliyyat، ص288، الحاشية]."
+  - term: "لِحِينِ"
+    text: "بعد حين وإبطاء [@mufaddaliyyat، ص288، الحاشية]."
+sources:
+  - source: "mufaddaliyyat"
+    loc: "ص288"
+    url: "https://shamela.ws/book/6904/262"
+  - source: "mufaddaliyyat"
+    loc: "ص288، الحاشية"
+    url: "https://archive.org/details/20240818_20240818_1710/page/n287/mode/1up"
+status: "review"

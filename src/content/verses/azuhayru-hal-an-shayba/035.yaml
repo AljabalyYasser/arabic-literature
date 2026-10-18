@@ -1,0 +1,16 @@
+explained: false
+first: "وَضَعَ النَّعَامَاتِ الرِّجَالُ بِرَيْدِهَا"
+second: "مِنْ بَيْنِ شَعْشَاعٍ وَبَيْنِ مُظَلَّلِ"
+vocabulary:
+  - term: "النَّعَامَاتِ"
+    text: "النعامة خشبتان تُنصبان ويُلقى عليهما ثُمام يستظل بها الربيئة [@sukkari-hudhaliyyin، ص1077]."
+  - term: "رَيْدِهَا"
+    text: "الرَّيد حرف ناتئ من الجبل [@sukkari-hudhaliyyin، ص1232]."
+sources:
+  - source: "sukkari-hudhaliyyin"
+    loc: "ص1077"
+    url: "https://archive.org/details/3816pdf/page/n1094/mode/1up"
+  - source: "sukkari-hudhaliyyin"
+    loc: "ص1232"
+    url: "https://archive.org/details/3816pdf/page/n1249/mode/1up"
+status: "review"

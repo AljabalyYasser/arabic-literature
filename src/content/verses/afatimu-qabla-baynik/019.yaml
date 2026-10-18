@@ -1,0 +1,18 @@
+explained: false
+first: "لَعَلَّكِ إِنْ صَرَمْتِ الْحَبْلَ مِنِّي"
+second: "كَذَاكِ أَكُونُ مُصْحِبَتِي قَرُونِي"
+vocabulary:
+  - term: "صَرَمْتِ الْحَبْلَ"
+    text: "قطعت الوصل [@mufaddaliyyat، ص290، الحاشية]."
+  - term: "مُصْحِبَتِي"
+    text: "تابعتي [@mufaddaliyyat، ص290، الحاشية]."
+  - term: "قَرُونِي"
+    text: "نفسي: إن قطعتِ الوصل أطعتُ نفسي وقطعت وصلك [@mufaddaliyyat، ص290، الحاشية]."
+sources:
+  - source: "mufaddaliyyat"
+    loc: "ص290"
+    url: "https://shamela.ws/book/6904/264"
+  - source: "mufaddaliyyat"
+    loc: "ص290، الحاشية"
+    url: "https://archive.org/details/20240818_20240818_1710/page/n289/mode/1up"
+status: "review"

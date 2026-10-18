@@ -1,0 +1,17 @@
+explained: false
+first: "وَإِذَا رَمَيْتَ بِهِ الْفِجَاجَ رَأَيْتَهُ"
+second: "يَنْضُو مَخَارِمَهَا هُوِيَّ الْأَجْدَلِ"
+vocabulary:
+  - term: "الْفِجَاجَ"
+    text: "الطرق [@sukkari-hudhaliyyin، ص1074]."
+  - term: "يَنْضُو"
+    text: "يقطع ويجوز [@sukkari-hudhaliyyin، ص1074]."
+  - term: "مَخَارِمَهَا"
+    text: "المخارم أنوف الجبال [@sukkari-hudhaliyyin، ص1074]."
+  - term: "الْأَجْدَلِ"
+    text: "الصقر [@sukkari-hudhaliyyin، ص1074]."
+sources:
+  - source: "sukkari-hudhaliyyin"
+    loc: "ص1074"
+    url: "https://archive.org/details/3816pdf/page/n1091/mode/1up"
+status: "review"

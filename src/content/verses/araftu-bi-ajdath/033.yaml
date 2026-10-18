@@ -1,0 +1,15 @@
+explained: false
+first: "وَصَفْرَاءِ الْبُرَايَةِ فَرْعِ نَبْعٍ"
+second: "كَوَقْفِ الْعَاجِ عَاتِكَةِ اللِّيَاطِ"
+vocabulary:
+  - term: "صَفْرَاءِ الْبُرَايَةِ"
+    text: "يعني القوس، والبُراية النُّحاتة [@sukkari-hudhaliyyin، ص1274]."
+  - term: "عَاتِكَةِ"
+    text: "التي قدمت فاحمرّت [@sukkari-hudhaliyyin، ص1274]."
+  - term: "اللِّيَاطِ"
+    text: "القشر الأعلى [@sukkari-hudhaliyyin، ص1274]."
+sources:
+  - source: "sukkari-hudhaliyyin"
+    loc: "ص1274"
+    url: "https://archive.org/details/3816pdf/page/n1291/mode/1up"
+status: "review"

@@ -1,0 +1,18 @@
+explained: false
+first: "تَصُكُّ الْحَالِبَيْنِ بِمُشْفَتِرٍّ"
+second: "لَهُ صَوْتٌ أَبَحُّ مِنَ الرَّنِينِ"
+vocabulary:
+  - term: "الْحَالِبَيْنِ"
+    text: "عرقان يكتنفان السُّرّة [@mufaddaliyyat، ص290، الحاشية]."
+  - term: "بِمُشْفَتِرٍّ"
+    text: "المتفرّق، يعني الحصى: تقذف بالحصى في سيرها فتضرب به حالبيها [@mufaddaliyyat، ص290، الحاشية]."
+  - term: "أَبَحُّ"
+    text: "فيه بُحّة، وهي غلظ في الصوت [@mufaddaliyyat، ص290، الحاشية]."
+sources:
+  - source: "mufaddaliyyat"
+    loc: "ص290"
+    url: "https://shamela.ws/book/6904/264"
+  - source: "mufaddaliyyat"
+    loc: "ص290، الحاشية"
+    url: "https://archive.org/details/20240818_20240818_1710/page/n289/mode/1up"
+status: "review"

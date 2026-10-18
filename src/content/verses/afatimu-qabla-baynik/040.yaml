@@ -1,0 +1,20 @@
+explained: false
+first: "فَرُحْتُ بِهَا تُعَارِضُ مُسْبَطِرًّا"
+second: "عَلَى صَحْصَاحِهِ وَعَلَى الْمُتُونِ"
+vocabulary:
+  - term: "مُسْبَطِرًّا"
+    text: "الطريق الممتد [@mufaddaliyyat، ص292، الحاشية]."
+  - term: "تُعَارِضُ"
+    text: "تأخذ في عرضه، أي تسير بإزائه [@mufaddaliyyat، ص292، الحاشية]."
+  - term: "صَحْصَاحِهِ"
+    text: "ما استوى من الأرض [@mufaddaliyyat، ص292، الحاشية]."
+  - term: "الْمُتُونِ"
+    text: "جمع متن، وهو ما صلب من الأرض وغلظ [@mufaddaliyyat، ص292، الحاشية]."
+sources:
+  - source: "mufaddaliyyat"
+    loc: "ص292"
+    url: "https://shamela.ws/book/6904/266"
+  - source: "mufaddaliyyat"
+    loc: "ص292، الحاشية"
+    url: "https://archive.org/details/20240818_20240818_1710/page/n291/mode/1up"
+status: "review"

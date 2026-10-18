@@ -1,0 +1,13 @@
+explained: false
+first: "إِذًا لَأَعْمَلْتُ نَفْسِي فِي غَزَاتِهِمُ"
+second: "أَوْ لَابْتَعَثْتُ بِهِ نَوْحًا لَهُ زَجَلُ"
+vocabulary:
+  - term: "زَجَلُ"
+    text: "شدة الصوت [@sukkari-hudhaliyyin، ص1284]."
+  - term: "نَوْحًا"
+    text: "الجماعة من النساء ينحن [@sukkari-hudhaliyyin، ص1284]."
+sources:
+  - source: "sukkari-hudhaliyyin"
+    loc: "ص1284"
+    url: "https://archive.org/details/3816pdf/page/n1301/mode/1up"
+status: "review"

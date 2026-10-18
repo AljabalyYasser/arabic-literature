@@ -1,0 +1,19 @@
+explained: false
+first: "شَنَقْتُ بِهَا مَعَابِلَ مُرْهَفَاتٍ"
+second: "مُسَالَاتِ الْأَغِرَّةِ كَالْقِرَاطِ"
+vocabulary:
+  - term: "شَنَقْتُ"
+    text: "جعلت النبل في الوتر [@sukkari-hudhaliyyin، ص1274]."
+  - term: "مُرْهَفَاتٍ"
+    text: "مرقّقات [@sukkari-hudhaliyyin، ص1274]."
+  - term: "مُسَالَاتِ"
+    text: "مسنونات، من التحديد [@sukkari-hudhaliyyin، ص1274]."
+  - term: "الْأَغِرَّةِ"
+    text: "جمع غِرار، وهو الحد [@sukkari-hudhaliyyin، ص1274]."
+  - term: "كَالْقِرَاطِ"
+    text: "جمع قُرْط، أراد أنها تبرق كما يبرق القرط [@sukkari-hudhaliyyin، ص1274]."
+sources:
+  - source: "sukkari-hudhaliyyin"
+    loc: "ص1274"
+    url: "https://archive.org/details/3816pdf/page/n1291/mode/1up"
+status: "review"

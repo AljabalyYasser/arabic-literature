@@ -1,0 +1,17 @@
+explained: false
+first: "رَبَّاءُ مَرْقَبَةٍ مَنَّاعُ مَغْلَبَةٍ"
+second: "رَكَّابُ سَلْهَبَةٍ قَطَّاعُ أَقْرَانِ"
+vocabulary:
+  - term: "رَبَّاءُ مَرْقَبَةٍ"
+    text: "المرقبة موضع يُرتقب فيه، وهو يربأ فيها لأصحابه، ينظر لهم ويحفظ [@sukkari-hudhaliyyin، ص285]."
+  - term: "مَنَّاعُ مَغْلَبَةٍ"
+    text: "يمنع أن يُغلب [@sukkari-hudhaliyyin، ص285]."
+  - term: "سَلْهَبَةٍ"
+    text: "الفرس الطويلة [@sukkari-hudhaliyyin، ص285]."
+  - term: "قَطَّاعُ أَقْرَانِ"
+    text: "لا يثبت على ما لا ينبغي عليه الثبات، يصل ويقطع [@sukkari-hudhaliyyin، ص285]."
+sources:
+  - source: "sukkari-hudhaliyyin"
+    loc: "ص285"
+    url: "https://archive.org/details/3816pdf/page/n302/mode/1up"
+status: "review"

@@ -1,0 +1,19 @@
+kind: "bayt"
+title: "فإني لو تخالفني شمالي"
+part: "1"
+order: 276
+person: "al-muthaqqib"
+verses:
+  - "afatimu-qabla-baynik/003"
+meaning: "لو خالفته يده اليسرى كما تخالفه صاحبته لفصلها عن يمينه: يقطع من يقطعه ولو كان أقرب الأشياء إليه. ويرى ابن قتيبة أنه أخذه من بيت للنابغة [@ibn-qutayba، ج1 ص158–159]، ويقول محققا «المفضليات» إن المثقّب أقدم من النابغة [@mufaddaliyyat، ص288، الحاشية]."
+sources:
+  - source: "mufaddaliyyat"
+    loc: "ص288"
+    url: "https://shamela.ws/book/6904/262"
+  - source: "ibn-qutayba"
+    loc: "ج1 ص158–159"
+    url: "https://shamela.ws/book/23785/151"
+  - source: "mufaddaliyyat"
+    loc: "ص288، الحاشية"
+    url: "https://archive.org/details/20240818_20240818_1710/page/n287/mode/1up"
+status: "review"

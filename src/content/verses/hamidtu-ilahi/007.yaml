@@ -1,0 +1,15 @@
+explained: false
+first: "كَأَنَّهُمُ يَشَّبَّثُونَ بِطَائِرٍ"
+second: "خَفِيفِ الْمُشَاشِ عَظْمُهُ غَيْرُ ذِي نَحْضِ"
+vocabulary:
+  - term: "يَشَّبَّثُونَ"
+    text: "يتعلقون [@sukkari-hudhaliyyin، ص1231]."
+  - term: "خَفِيفِ الْمُشَاشِ"
+    text: "ليس بكثير اللحم [@sukkari-hudhaliyyin، ص1231]."
+  - term: "نَحْضِ"
+    text: "النحض اللحم [@sukkari-hudhaliyyin، ص1231]."
+sources:
+  - source: "sukkari-hudhaliyyin"
+    loc: "ص1231"
+    url: "https://archive.org/details/3816pdf/page/n1248/mode/1up"
+status: "review"

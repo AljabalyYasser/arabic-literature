@@ -1,0 +1,21 @@
+explained: false
+first: "كَأَنَّ مَوَاقِعَ الثَّفِنَاتِ مِنْهَا"
+second: "مُعَرَّسُ بَاكِرَاتِ الْوِرْدِ جُونِ"
+vocabulary:
+  - term: "الثَّفِنَاتِ"
+    text: "ما يمسّ الأرض من قوائمها إذا بركت."
+  - term: "مُعَرَّسُ"
+    text: "مكان التعريس، وهو النزول آخر الليل [@mufaddaliyyat، ص290، الحاشية]."
+  - term: "بَاكِرَاتِ الْوِرْدِ جُونِ"
+    text: "القطا السود يبكّرن بالورود إلى الماء: شبّه آثار ثفناتها بمواضع قطا فحصن الأرض، ومعرّس القطا خفيّ [@mufaddaliyyat، ص290، الحاشية]. ويعدّه ابن قتيبة مما «سبق إليه فأخذ منه» [@ibn-qutayba، ج1 ص384]."
+sources:
+  - source: "mufaddaliyyat"
+    loc: "ص290"
+    url: "https://shamela.ws/book/6904/264"
+  - source: "mufaddaliyyat"
+    loc: "ص290، الحاشية"
+    url: "https://archive.org/details/20240818_20240818_1710/page/n289/mode/1up"
+  - source: "ibn-qutayba"
+    loc: "ج1 ص384"
+    url: "https://shamela.ws/book/23785/377"
+status: "review"

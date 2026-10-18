@@ -1,0 +1,15 @@
+explained: false
+first: "فَلَوْ قُتِلْتَ وَرِجْلِي غَيْرُ كَارِهَةِ الْـ"
+second: "ـإِدْلَاجِ فِيهَا قَبِيضُ الشَّدِّ وَالنَّسَلُ"
+vocabulary:
+  - term: "قَبِيضُ"
+    text: "يقال: عدو قبيض، أي شديد [@sukkari-hudhaliyyin، ص1284]."
+  - term: "النَّسَلُ"
+    text: "من نسلان الذئب، وهو ضرب من المشي نحو الهَدَج [@sukkari-hudhaliyyin، ص1284]."
+  - term: "وَرِجْلِي غَيْرُ كَارِهَةِ"
+    text: "يقول: لو قُتلت ورجلي صحيحة فيها ما أنقبض به في حاجتي لفعلت [@sukkari-hudhaliyyin، ص1284]."
+sources:
+  - source: "sukkari-hudhaliyyin"
+    loc: "ص1284"
+    url: "https://archive.org/details/3816pdf/page/n1301/mode/1up"
+status: "review"

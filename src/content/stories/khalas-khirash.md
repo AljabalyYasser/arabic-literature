@@ -12,7 +12,7 @@ people:
 sources:
   - source: "aghani-dk"
     loc: "ج21 ص217–218"
-    url: "https://archive.org/details/aghani2014/21/page/n217/mode/1up"
+    url: "https://archive.org/details/aghani2014/21/page/n218/mode/1up"
     note: "الخبر مفصلًا، والأبيات، وحاشية المحققين على اضطراب الرواية."
   - source: "ibn-qutayba"
     loc: "ج2 ص650–651"

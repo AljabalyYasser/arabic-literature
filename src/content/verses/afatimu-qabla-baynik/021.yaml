@@ -1,0 +1,18 @@
+explained: false
+first: "بِصَادِقَةِ الْوَجِيفِ كَأَنَّ هِرًّا"
+second: "يُبَارِيهَا وَيَأْخُذُ بِالْوَضِينِ"
+vocabulary:
+  - term: "الْوَجِيفِ"
+    text: "سير سريع [@mufaddaliyyat، ص290، الحاشية]."
+  - term: "يُبَارِيهَا"
+    text: "يسير معها [@mufaddaliyyat، ص290، الحاشية]."
+  - term: "وَيَأْخُذُ بِالْوَضِينِ"
+    text: "الوضين للرحل كالحزام للسرج: كأن بجانبها هِرًّا يناوشها فهي تطلب النجاة منه [@mufaddaliyyat، ص290، الحاشية]."
+sources:
+  - source: "mufaddaliyyat"
+    loc: "ص290"
+    url: "https://shamela.ws/book/6904/264"
+  - source: "mufaddaliyyat"
+    loc: "ص290، الحاشية"
+    url: "https://archive.org/details/20240818_20240818_1710/page/n289/mode/1up"
+status: "review"

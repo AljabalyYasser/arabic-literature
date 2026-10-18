@@ -1,0 +1,21 @@
+kind: "maqta"
+title: "أودى الشباب حميدا"
+part: "1"
+order: 273
+person: "salama-ibn-jandal"
+verses:
+  - "awda-al-shabab/001"
+  - "awda-al-shabab/002"
+  - "awda-al-shabab/003"
+meaning: "رثاء الشباب: ذهب سريعًا والشيب يطلبه، ولو كان ركض الطير يدركه لطلبه. يقول الأصمعي في البيت الثاني: «لَمْ يَقُلْ أَحد فِي هَذَا الْمَعْنَى مِثْلَ هَذَا الْبَيْتِ» [@lisan، ج7 ص159]، ويقول ابن قتيبة إنها أجود شعره [@ibn-qutayba، ج1 ص264]."
+sources:
+  - source: "mufaddaliyyat"
+    loc: "ص119–120"
+    url: "https://shamela.ws/book/6904/93"
+  - source: "lisan"
+    loc: "ج7 ص159"
+    url: "https://shamela.ws/book/1687/3542"
+  - source: "ibn-qutayba"
+    loc: "ج1 ص264"
+    url: "https://shamela.ws/book/23785/257"
+status: "review"

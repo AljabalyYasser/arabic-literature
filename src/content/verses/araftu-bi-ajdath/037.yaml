@@ -1,0 +1,15 @@
+explained: false
+first: "وَمَرْقَبَةٍ نَمَيْتُ إِلَى ذُرَاهَا"
+second: "تُزِلُّ دَوَارِجَ الْحَجَلِ الْقَوَاطِي"
+vocabulary:
+  - term: "مَرْقَبَةٍ"
+    text: "موضع يُربأ فيه ويُرقب [@sukkari-hudhaliyyin، ص1275]."
+  - term: "نَمَيْتُ"
+    text: "علوت وارتفعت إلى أعاليها [@sukkari-hudhaliyyin، ص1275]."
+  - term: "الْقَوَاطِي"
+    text: "اللواتي يقاربن الخطو [@sukkari-hudhaliyyin، ص1275]."
+sources:
+  - source: "sukkari-hudhaliyyin"
+    loc: "ص1275"
+    url: "https://archive.org/details/3816pdf/page/n1292/mode/1up"
+status: "review"

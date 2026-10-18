@@ -1,0 +1,18 @@
+explained: false
+first: "كَغِزْلَانٍ خَذَلْنَ بِذَاتِ ضَالٍ"
+second: "تَنُوشُ الدَّانِيَاتِ مِنَ الْغُصُونِ"
+vocabulary:
+  - term: "خَذَلْنَ"
+    text: "تخلّفن عن صواحبهن وأقمن على أولادهن [@mufaddaliyyat، ص288، الحاشية]."
+  - term: "ضَالٍ"
+    text: "السِّدْر البرّي [@mufaddaliyyat، ص288، الحاشية]."
+  - term: "تَنُوشُ"
+    text: "تتناول [@mufaddaliyyat، ص288، الحاشية]."
+sources:
+  - source: "mufaddaliyyat"
+    loc: "ص288"
+    url: "https://shamela.ws/book/6904/262"
+  - source: "mufaddaliyyat"
+    loc: "ص288، الحاشية"
+    url: "https://archive.org/details/20240818_20240818_1710/page/n287/mode/1up"
+status: "review"

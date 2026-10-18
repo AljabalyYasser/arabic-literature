@@ -1,0 +1,15 @@
+explained: false
+first: "مَا بَالُ عَيْنِكَ تَبْكِي دَمْعُهَا خَضِلُ"
+second: "كَمَا وَهَى سَرِبُ الْأَخْرَاتِ مُنْبَزِلُ"
+vocabulary:
+  - term: "سَرِبُ"
+    text: "السائل [@sukkari-hudhaliyyin، ص1280]."
+  - term: "الْأَخْرَاتِ"
+    text: "جمع خُرْت، وهو الثقب، يعني خروق القربة [@sukkari-hudhaliyyin، ص1280]."
+  - term: "خَضِلُ"
+    text: "مبتلّ؛ يقول الشارح: مبتلّة تبلّ كل شيء من كثرة دموعها [@sukkari-hudhaliyyin، ص1280]."
+sources:
+  - source: "sukkari-hudhaliyyin"
+    loc: "ص1280"
+    url: "https://archive.org/details/3816pdf/page/n1297/mode/1up"
+status: "review"

@@ -1,0 +1,16 @@
+explained: false
+first: "مَرَرْنَ عَلَى شَرَافِ فَذَاتِ رَجْلٍ"
+second: "وَنَكَّبْنَ الذَّرَانِحَ بِالْيَمِينِ"
+vocabulary:
+  - term: "شَرَافِ، ذَاتِ رَجْلٍ، الذَّرَانِحَ"
+    text: "مواضع [@mufaddaliyyat، ص288، الحاشية]."
+  - term: "نَكَّبْنَ"
+    text: "عدلن عنه [@mufaddaliyyat، ص288، الحاشية]، أي تركن الذرانح عن أيمانهن."
+sources:
+  - source: "mufaddaliyyat"
+    loc: "ص288"
+    url: "https://shamela.ws/book/6904/262"
+  - source: "mufaddaliyyat"
+    loc: "ص288، الحاشية"
+    url: "https://archive.org/details/20240818_20240818_1710/page/n287/mode/1up"
+status: "review"

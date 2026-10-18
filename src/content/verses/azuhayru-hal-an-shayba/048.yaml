@@ -1,0 +1,13 @@
+explained: false
+first: "فَإِذَا وَذَلِكَ لَيْسَ إِلَّا حِينَهُ"
+second: "وَإِذَا مَضَى شَيْءٌ كَأَنْ لَمْ يُفْعَلِ"
+vocabulary:
+  - term: "لَيْسَ إِلَّا حِينَهُ"
+    text: "قال أبو سعيد السكري: كذا أنشدنيه الأصمعي، بفتح النون، أي ليس ذلك إلا حينه ووقته [@sukkari-hudhaliyyin، ص1080]."
+  - term: "وَذَلِكَ"
+    text: "الواو زائدة [@sukkari-hudhaliyyin، ص1080]."
+sources:
+  - source: "sukkari-hudhaliyyin"
+    loc: "ص1080"
+    url: "https://archive.org/details/3816pdf/page/n1097/mode/1up"
+status: "review"

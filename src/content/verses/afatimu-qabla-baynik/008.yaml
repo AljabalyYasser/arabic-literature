@@ -1,0 +1,18 @@
+explained: false
+first: "يُشَبَّهْنَ السَّفِينَ وَهُنَّ بُخْتٌ"
+second: "عُرَاضَاتُ الْأَبَاهِرِ وَالشُّؤُونِ"
+vocabulary:
+  - term: "بُخْتٌ"
+    text: "إبل طوال الأعناق [@mufaddaliyyat، ص288، الحاشية]."
+  - term: "عُرَاضَاتُ الْأَبَاهِرِ"
+    text: "عريضات الظهور، والأبهر في الأصل عرق في الظهر [@mufaddaliyyat، ص288، الحاشية]."
+  - term: "الشُّؤُونِ"
+    text: "جمع شأن، وهي شُعَب عظام الرأس التي تجري منها الدموع إلى العينين [@mufaddaliyyat، ص288، الحاشية]."
+sources:
+  - source: "mufaddaliyyat"
+    loc: "ص288"
+    url: "https://shamela.ws/book/6904/262"
+  - source: "mufaddaliyyat"
+    loc: "ص288، الحاشية"
+    url: "https://archive.org/details/20240818_20240818_1710/page/n287/mode/1up"
+status: "review"

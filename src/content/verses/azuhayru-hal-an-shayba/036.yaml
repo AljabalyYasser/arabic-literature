@@ -1,0 +1,15 @@
+explained: false
+first: "أَخْرَجْتُ مِنْهَا سِلْقَةً مَهْزُولَةً"
+second: "عَجْفَاءَ يَبْرُقُ نَابُهَا كَالْمِعْوَلِ"
+vocabulary:
+  - term: "سِلْقَةً"
+    text: "ذئبة [@sukkari-hudhaliyyin، ص1077]."
+  - term: "عَجْفَاءَ"
+    text: "مهزولة [@sukkari-hudhaliyyin، ص1077]."
+  - term: "كَالْمِعْوَلِ"
+    text: "يريد حديدة نابها [@sukkari-hudhaliyyin، ص1077]."
+sources:
+  - source: "sukkari-hudhaliyyin"
+    loc: "ص1077"
+    url: "https://archive.org/details/3816pdf/page/n1094/mode/1up"
+status: "review"

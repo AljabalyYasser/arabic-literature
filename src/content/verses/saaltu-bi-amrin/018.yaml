@@ -1,0 +1,20 @@
+explained: false
+first: "وَخَرْقٍ تَجَاوَزْتَ مَجْهُولَهُ"
+second: "بِوَجْنَاءَ حَرْفٍ تَشَكَّى الْكَلَالَا"
+vocabulary:
+  - term: "خَرْقٍ"
+    text: "الموضع ينخرق فيمضي في الفلاة [@sukkari-hudhaliyyin، ص586]."
+  - term: "وَجْنَاءَ"
+    text: "الغليظة، مشتقة من الوجين، وهو الموضع الغليظ [@sukkari-hudhaliyyin، ص586]."
+  - term: "حَرْفٍ"
+    text: "ضامر [@sukkari-hudhaliyyin، ص586]."
+  - term: "الْكَلَالَا"
+    text: "الإعياء [@sukkari-hudhaliyyin، ص586]."
+sources:
+  - source: "sukkari-hudhaliyyin"
+    loc: "ص585"
+    url: "https://archive.org/details/3816pdf/page/n602/mode/1up"
+  - source: "sukkari-hudhaliyyin"
+    loc: "ص586"
+    url: "https://archive.org/details/3816pdf/page/n603/mode/1up"
+status: "review"

@@ -1,0 +1,17 @@
+explained: false
+first: "نُجُفًا بَذَلْتُ لَهَا خَوَافِيَ نَاهِضٍ"
+second: "حَشْرِ الْقَوَادِمِ كَاللِّفَاعِ الْأَطْحَلِ"
+vocabulary:
+  - term: "نُجُفًا"
+    text: "العراض النصال [@sukkari-hudhaliyyin، ص1079]."
+  - term: "حَشْرِ"
+    text: "اللطاف القُذَذ [@sukkari-hudhaliyyin، ص1079]."
+  - term: "اللِّفَاعِ"
+    text: "الكساء [@sukkari-hudhaliyyin، ص1079]."
+  - term: "الْأَطْحَلِ"
+    text: "على لون الطحال [@sukkari-hudhaliyyin، ص1079]."
+sources:
+  - source: "sukkari-hudhaliyyin"
+    loc: "ص1079"
+    url: "https://archive.org/details/3816pdf/page/n1096/mode/1up"
+status: "review"

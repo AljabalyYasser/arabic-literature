@@ -1,0 +1,21 @@
+explained: false
+first: "إِلَى عَمْرٍو وَمِنْ عَمْرٍو أَتَتْنِي"
+second: "أَخِي النَّجَدَاتِ وَالْحِلْمِ الرَّصِينِ"
+vocabulary:
+  - term: "عَمْرٍو"
+    text: "عمرو بن هند الملك، كما يقول المحققان، وينقلان عن الأصمعي: «أراه غير الملك لأنه لم يكن ليخاطبه بمثل هذا الكلام»، ثم يقولان: «وليس بشيء» [@mufaddaliyyat، ص292، الحاشية]. والتبريزي يقول إنه «يمدح عمرو بن المنذر، وهو عمرو بن هند» [@tabrizi-ikhtiyarat، ج3 ص1246]."
+  - term: "النَّجَدَاتِ"
+    text: "جمع نَجْدة، وهي الشجاعة والإغاثة في الشدة."
+  - term: "الرَّصِينِ"
+    text: "المحكم الثابت."
+sources:
+  - source: "mufaddaliyyat"
+    loc: "ص292"
+    url: "https://shamela.ws/book/6904/266"
+  - source: "mufaddaliyyat"
+    loc: "ص292، الحاشية"
+    url: "https://archive.org/details/20240818_20240818_1710/page/n291/mode/1up"
+  - source: "tabrizi-ikhtiyarat"
+    loc: "ج3 ص1246"
+    url: "https://archive.org/details/3820pdf/page/n1254/mode/1up"
+status: "review"

@@ -1,0 +1,13 @@
+explained: false
+first: "شَرِبْتُ بِجَمِّهِ وَصَدَرْتُ عَنْهُ"
+second: "وَأَبْيَضُ صَارِمٌ ذَكَرٌ إِبَاطِي"
+vocabulary:
+  - term: "جَمِّهِ"
+    text: "ما اجتمع في البئر من الماء [@sukkari-hudhaliyyin، ص1273]."
+  - term: "إِبَاطِي"
+    text: "قد تأبّط هذا السيف [@sukkari-hudhaliyyin، ص1273]."
+sources:
+  - source: "sukkari-hudhaliyyin"
+    loc: "ص1273"
+    url: "https://archive.org/details/3816pdf/page/n1290/mode/1up"
+status: "review"

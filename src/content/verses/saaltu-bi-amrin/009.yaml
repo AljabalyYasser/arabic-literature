@@ -1,0 +1,18 @@
+explained: false
+first: "هُمَا يَوْمَ حُمَّ لَهُ يَوْمُهُ"
+second: "وَفَالَ أَخُو فَهْمَ بُطْلًا وَفَالَا"
+vocabulary:
+  - term: "حُمَّ"
+    text: "قُضي وقُدّر [@sukkari-hudhaliyyin، ص585]."
+  - term: "فَالَ"
+    text: "أخطأ، ويقال: رجل فائل الرأي وفِيل [@sukkari-hudhaliyyin، ص585]."
+  - term: "هُمَا"
+    text: "تعني النمرين [@sukkari-hudhaliyyin، ص585]."
+sources:
+  - source: "sukkari-hudhaliyyin"
+    loc: "ص584"
+    url: "https://archive.org/details/3816pdf/page/n601/mode/1up"
+  - source: "sukkari-hudhaliyyin"
+    loc: "ص585"
+    url: "https://archive.org/details/3816pdf/page/n602/mode/1up"
+status: "review"

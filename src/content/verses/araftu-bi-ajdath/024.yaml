@@ -1,0 +1,13 @@
+explained: false
+first: "بِضَرْبٍ فِي الْجَمَاجِمِ ذِي فُرُوغٍ"
+second: "وَطَعْنٍ مِثْلِ تَعْطِيطِ الرِّهَاطِ"
+vocabulary:
+  - term: "فُرُوغٍ"
+    text: "الفَرْغ ما بين عرقوتي الدلو، شبّه الضرب حين يسيل دمه بفرغ الدلو إذا انصبّ [@sukkari-hudhaliyyin، ص1271–1272]."
+  - term: "الرِّهَاطِ"
+    text: "أُزُر تُشقَّق وتُجعل للصبيان، واحدها رَهْط [@sukkari-hudhaliyyin، ص1271–1272]."
+sources:
+  - source: "sukkari-hudhaliyyin"
+    loc: "ص1271–1272"
+    url: "https://archive.org/details/3816pdf/page/n1288/mode/1up"
+status: "review"

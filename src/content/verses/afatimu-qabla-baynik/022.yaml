@@ -1,0 +1,18 @@
+explained: false
+first: "كَسَاهَا تَامِكًا قَرِدًا عَلَيْهَا"
+second: "سَوَادِيُّ الرَّضِيحِ مَعَ اللَّجِينِ"
+vocabulary:
+  - term: "تَامِكًا قَرِدًا"
+    text: "سنامًا مشرفًا طويلًا متلبّدًا [@mufaddaliyyat، ص290، الحاشية]."
+  - term: "سَوَادِيُّ الرَّضِيحِ"
+    text: "نوًى مدقوق من سواد العراق، يعني العلف الذي نمّى سنامها [@mufaddaliyyat، ص290، الحاشية]."
+  - term: "اللَّجِينِ"
+    text: "ما تلجّن، أي تلزّج، من ورق أو علف [@mufaddaliyyat، ص290، الحاشية]."
+sources:
+  - source: "mufaddaliyyat"
+    loc: "ص290"
+    url: "https://shamela.ws/book/6904/264"
+  - source: "mufaddaliyyat"
+    loc: "ص290، الحاشية"
+    url: "https://archive.org/details/20240818_20240818_1710/page/n289/mode/1up"
+status: "review"

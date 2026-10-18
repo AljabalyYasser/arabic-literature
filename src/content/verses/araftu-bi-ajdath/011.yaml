@@ -1,0 +1,15 @@
+explained: false
+first: "رَكُودٍ فِي الْإِنَاءِ لَهَا حُمَيَّا"
+second: "تَلَذُّ بِأَخْذِهَا الْأَيْدِي السَّوَاطِي"
+vocabulary:
+  - term: "رَكُودٍ"
+    text: "صافية ساكنة [@sukkari-hudhaliyyin، ص1268–1269]."
+  - term: "حُمَيَّا"
+    text: "سَوْرتها [@sukkari-hudhaliyyin، ص1268–1269]."
+  - term: "السَّوَاطِي"
+    text: "المتناولة [@sukkari-hudhaliyyin، ص1268–1269]."
+sources:
+  - source: "sukkari-hudhaliyyin"
+    loc: "ص1268–1269"
+    url: "https://archive.org/details/3816pdf/page/n1285/mode/1up"
+status: "review"

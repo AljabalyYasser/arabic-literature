@@ -1,0 +1,17 @@
+explained: false
+first: "وَمَعَابِلًا صُلْعَ الظُّبَاتِ كَأَنَّهَا"
+second: "جَمْرٌ بِمَسْهَكَةٍ تُشَبُّ لِمُصْطَلِي"
+vocabulary:
+  - term: "مَعَابِلًا"
+    text: "سهام عراض النصال [@sukkari-hudhaliyyin، ص1078–1079]."
+  - term: "صُلْعَ الظُّبَاتِ"
+    text: "تبرق، ليس عليها صدأ [@sukkari-hudhaliyyin، ص1078–1079]."
+  - term: "مَسْهَكَةٍ"
+    text: "موضع شديد الريح [@sukkari-hudhaliyyin، ص1078–1079]."
+  - term: "تُشَبُّ"
+    text: "تُوقد [@sukkari-hudhaliyyin، ص1078–1079]."
+sources:
+  - source: "sukkari-hudhaliyyin"
+    loc: "ص1078–1079"
+    url: "https://archive.org/details/3816pdf/page/n1095/mode/1up"
+status: "review"

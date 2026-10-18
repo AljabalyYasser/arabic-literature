@@ -1,0 +1,15 @@
+explained: false
+first: "هِزَبْرًا فَرُوسًا لِأَعْدَائِهِ"
+second: "هَصُورًا إِذَا لَقِيَ الْقِرْنَ صَالَا"
+vocabulary:
+  - term: "هِزَبْرًا"
+    text: "الضخم الشديد [@sukkari-hudhaliyyin، ص584]."
+  - term: "فَرُوسًا"
+    text: "يفرس، والفرس دقّ العنق، ثم صار كل قتل فرسًا [@sukkari-hudhaliyyin، ص584]."
+  - term: "هَصُورًا"
+    text: "كسور، والهصر الجذب والغمز [@sukkari-hudhaliyyin، ص584]."
+sources:
+  - source: "sukkari-hudhaliyyin"
+    loc: "ص584"
+    url: "https://archive.org/details/3816pdf/page/n601/mode/1up"
+status: "review"

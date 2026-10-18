@@ -1,0 +1,17 @@
+explained: false
+first: "فَأَتَتْ بِهِ حُوشَ الْجَنَانِ مُبَطَّنًا"
+second: "سُهُدًا إِذَا مَا نَامَ لَيْلُ الْهَوْجَلِ"
+vocabulary:
+  - term: "حُوشَ الْجَنَانِ"
+    text: "فؤاده وحشيّ [@sukkari-hudhaliyyin، ص1073]."
+  - term: "مُبَطَّنًا"
+    text: "خميص البطن [@sukkari-hudhaliyyin، ص1073]."
+  - term: "سُهُدًا"
+    text: "لا ينام [@sukkari-hudhaliyyin، ص1073]."
+  - term: "الْهَوْجَلِ"
+    text: "الثقيل [@sukkari-hudhaliyyin، ص1073]."
+sources:
+  - source: "sukkari-hudhaliyyin"
+    loc: "ص1073"
+    url: "https://archive.org/details/3816pdf/page/n1090/mode/1up"
+status: "review"

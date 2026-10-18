@@ -1,0 +1,18 @@
+explained: false
+first: "وَهُنَّ كَذَاكَ حِينَ قَطَعْنَ فَلْجًا"
+second: "كَأَنَّ حُمُولَهُنَّ عَلَى سَفِينِ"
+vocabulary:
+  - term: "فَلْجًا"
+    text: "طريق أو وادٍ [@mufaddaliyyat، ص288، الحاشية]."
+  - term: "حُمُولَهُنَّ"
+    text: "الهوادج، كان فيها النساء أو لم يكن [@mufaddaliyyat، ص288، الحاشية]."
+  - term: "سَفِينِ"
+    text: "جمع سفينة [@mufaddaliyyat، ص288، الحاشية]."
+sources:
+  - source: "mufaddaliyyat"
+    loc: "ص288"
+    url: "https://shamela.ws/book/6904/262"
+  - source: "mufaddaliyyat"
+    loc: "ص288، الحاشية"
+    url: "https://archive.org/details/20240818_20240818_1710/page/n287/mode/1up"
+status: "review"

@@ -1,0 +1,18 @@
+explained: false
+first: "أَكُلَّ الدَّهْرِ حَلٌّ وَارْتِحَالٌ"
+second: "أَمَا يُبْقِي عَلَيَّ وَمَا يَقِينِي"
+vocabulary:
+  - term: "حَلٌّ وَارْتِحَالٌ"
+    text: "نزول ورحيل."
+  - term: "يُبْقِي عَلَيَّ"
+    text: "يرفق بي ويرحمني."
+  - term: "يَقِينِي"
+    text: "يحفظني ويصونني. والبيت من تمام شكوى الناقة، ويرويه المرزباني معه [@muwashshah، ص121]."
+sources:
+  - source: "mufaddaliyyat"
+    loc: "ص292"
+    url: "https://shamela.ws/book/6904/266"
+  - source: "muwashshah"
+    loc: "ص121"
+    url: "https://shamela.ws/book/9427/121"
+status: "review"

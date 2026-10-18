@@ -1,0 +1,20 @@
+explained: false
+first: "غَدَتْ قَوْدَاءَ مُنْشَقًّا نَسَاهَا"
+second: "تَجَاسَرُ بِالنُّخَاعِ وَبِالْوَتِينِ"
+vocabulary:
+  - term: "قَوْدَاءَ"
+    text: "طويلة العنق [@mufaddaliyyat، ص291، الحاشية]."
+  - term: "مُنْشَقًّا نَسَاهَا"
+    text: "إذا سمنت انفلقت اللحمتان اللتان في الفخذين فظهر بينهما عرق النَّسا [@mufaddaliyyat، ص291، الحاشية]."
+  - term: "تَجَاسَرُ"
+    text: "تمضي [@mufaddaliyyat، ص291، الحاشية]."
+  - term: "بِالنُّخَاعِ وَبِالْوَتِينِ"
+    text: "النُّخاع الخيط الأبيض في فقار الظهر، والوتين عرق في القلب [@mufaddaliyyat، ص291، الحاشية]: تمضي بنفسها كلها."
+sources:
+  - source: "mufaddaliyyat"
+    loc: "ص291"
+    url: "https://shamela.ws/book/6904/265"
+  - source: "mufaddaliyyat"
+    loc: "ص291، الحاشية"
+    url: "https://archive.org/details/20240818_20240818_1710/page/n290/mode/1up"
+status: "review"

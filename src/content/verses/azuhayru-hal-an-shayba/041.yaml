@@ -1,0 +1,15 @@
+explained: false
+first: "مُسْتَشْعِرًا تَحْتَ الرِّدَاءِ وِشَاحَةً"
+second: "عَضْبًا غَمُوضَ الْحَدِّ غَيْرَ مُفَلَّلِ"
+vocabulary:
+  - term: "وِشَاحَةً"
+    text: "يريد أن وشاحه سيف [@sukkari-hudhaliyyin، ص1078]."
+  - term: "عَضْبًا"
+    text: "القاطع [@sukkari-hudhaliyyin، ص1078]."
+  - term: "غَمُوضَ الْحَدِّ"
+    text: "الغموض الرسوب، أي يغيب في الضريبة [@sukkari-hudhaliyyin، ص1078]."
+sources:
+  - source: "sukkari-hudhaliyyin"
+    loc: "ص1078"
+    url: "https://archive.org/details/3816pdf/page/n1095/mode/1up"
+status: "review"

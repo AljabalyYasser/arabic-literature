@@ -1,0 +1,15 @@
+explained: false
+first: "يُمَشِّي بَيْنَنَا حَانُوتُ خَمْرٍ"
+second: "مِنَ الْخُرْسِ الصَّرَاصِرَةِ الْقِطَاطِ"
+vocabulary:
+  - term: "حَانُوتُ خَمْرٍ"
+    text: "يريد صاحب حانوت من خمر [@sukkari-hudhaliyyin، ص1268]."
+  - term: "الْخُرْسِ الصَّرَاصِرَةِ"
+    text: "أعاجم من نَبَط الشام يقال لهم الصراصرة [@sukkari-hudhaliyyin، ص1268]."
+  - term: "الْقِطَاطِ"
+    text: "الجِعاد الشعر [@sukkari-hudhaliyyin، ص1268]."
+sources:
+  - source: "sukkari-hudhaliyyin"
+    loc: "ص1268"
+    url: "https://archive.org/details/3816pdf/page/n1285/mode/1up"
+status: "review"

@@ -1,0 +1,16 @@
+explained: false
+first: "أَأَلْخَيْرُ الَّذِي أَنَا أَبْتَغِيهِ"
+second: "أَمِ الشَّرُّ الَّذِي هُوَ يَبْتَغِينِي"
+vocabulary:
+  - term: "أَأَلْخَيْرُ"
+    text: "همزة الاستفهام دخلت على «الخير»، وهمزة «ال» تُسهَّل بعدها أو تُمدّ."
+  - term: "أَبْتَغِيهِ، يَبْتَغِينِي"
+    text: "أطلبه، ويطلبني: هذا البيت يفسّر الضمير في «أيّهما» من البيت السابق [@tabrizi-ikhtiyarat، ج3 ص1267]."
+sources:
+  - source: "mufaddaliyyat"
+    loc: "ص292"
+    url: "https://shamela.ws/book/6904/266"
+  - source: "tabrizi-ikhtiyarat"
+    loc: "ج3 ص1267"
+    url: "https://archive.org/details/3820pdf/page/n1275/mode/1up"
+status: "review"

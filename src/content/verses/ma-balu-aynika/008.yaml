@@ -1,0 +1,15 @@
+explained: false
+first: "مُجَدَّلًا يَتَسَقَّى جِلْدُهُ دَمَهُ"
+second: "كَمَا يُقَطَّرُ جِذْعُ النَّخْلَةِ الْقَطِلُ"
+vocabulary:
+  - term: "يَتَسَقَّى جِلْدُهُ دَمَهُ"
+    text: "يسيل دمه على جلده [@sukkari-hudhaliyyin، ص1282]."
+  - term: "يُقَطَّرُ"
+    text: "يُصرع [@sukkari-hudhaliyyin، ص1282]."
+  - term: "الْقَطِلُ"
+    text: "المقطوع [@sukkari-hudhaliyyin، ص1282]."
+sources:
+  - source: "sukkari-hudhaliyyin"
+    loc: "ص1282"
+    url: "https://archive.org/details/3816pdf/page/n1299/mode/1up"
+status: "review"

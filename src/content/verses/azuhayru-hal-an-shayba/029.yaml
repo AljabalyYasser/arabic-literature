@@ -1,0 +1,16 @@
+explained: false
+first: "مُتَكَوِّرِينَ عَلَى الْمَعَارِي بَيْنَهُمْ"
+second: "ضَرْبٌ كَتَعْطَاطِ الْمَزَادِ الْأَنْجَلِ"
+vocabulary:
+  - term: "الْمَعَارِي"
+    text: "يقول الشارح: السوءات [@sukkari-hudhaliyyin، ص1076]. أي العورات: سقط القتلى منكبّين على عوراتهم. وفي «لسان العرب» أن معاري المرأة ما لا بد لها من إظهاره: الوجه واليدان والرجلان [@lisan، ج15 ص47]."
+  - term: "الْأَنْجَلِ"
+    text: "الواسع [@sukkari-hudhaliyyin، ص1076]."
+sources:
+  - source: "sukkari-hudhaliyyin"
+    loc: "ص1076"
+    url: "https://archive.org/details/3816pdf/page/n1093/mode/1up"
+  - source: "lisan"
+    loc: "ج15 ص47"
+    url: "https://shamela.ws/book/1687/7659"
+status: "review"

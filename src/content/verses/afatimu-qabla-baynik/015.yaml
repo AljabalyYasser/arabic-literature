@@ -1,0 +1,16 @@
+explained: false
+first: "إِذَا مَا فُتْنَهُ يَوْمًا بِرَهْنٍ"
+second: "يَعِزُّ عَلَيْهِ لَمْ يَرْجِعْ بِحِينِ"
+vocabulary:
+  - term: "فُتْنَهُ"
+    text: "تركنه وخلّفنه [@mufaddaliyyat، ص289، الحاشية]."
+  - term: "بِرَهْنٍ يَعِزُّ عَلَيْهِ"
+    text: "الرهن هنا هواه وقلبه: إذا ملكنه لم يرجع إليه ولم يتخلّص منهن [@mufaddaliyyat، ص289، الحاشية]."
+sources:
+  - source: "mufaddaliyyat"
+    loc: "ص289"
+    url: "https://shamela.ws/book/6904/263"
+  - source: "mufaddaliyyat"
+    loc: "ص289، الحاشية"
+    url: "https://archive.org/details/20240818_20240818_1710/page/n288/mode/1up"
+status: "review"

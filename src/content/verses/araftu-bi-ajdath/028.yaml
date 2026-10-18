@@ -1,0 +1,15 @@
+explained: false
+first: "كَأَنَّ وَغَى الْخَمُوشِ بِجَانِبَيْهِ"
+second: "وَغَى رَكْبٍ أُمَيْمَ ذَوِي هِيَاطِ"
+vocabulary:
+  - term: "وَغَى"
+    text: "الصوت [@sukkari-hudhaliyyin، ص1272–1273]."
+  - term: "الْخَمُوشِ"
+    text: "البعوض [@sukkari-hudhaliyyin، ص1272–1273]."
+  - term: "هِيَاطِ"
+    text: "الصياح والجلبة [@sukkari-hudhaliyyin، ص1272–1273]."
+sources:
+  - source: "sukkari-hudhaliyyin"
+    loc: "ص1272–1273"
+    url: "https://archive.org/details/3816pdf/page/n1289/mode/1up"
+status: "review"

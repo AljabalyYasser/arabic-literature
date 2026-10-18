@@ -1,0 +1,16 @@
+explained: false
+first: "إِذَا قَلِقَتْ أَشُدُّ لَهَا سِنَافًا"
+second: "أَمَامَ الزَّوْرِ مِنْ قَلَقِ الْوَضِينِ"
+vocabulary:
+  - term: "سِنَافًا"
+    text: "خيط أو حبل دقيق من المنحر إلى الحزام [@mufaddaliyyat، ص290، الحاشية]."
+  - term: "الزَّوْرِ"
+    text: "الصدر."
+sources:
+  - source: "mufaddaliyyat"
+    loc: "ص290"
+    url: "https://shamela.ws/book/6904/264"
+  - source: "mufaddaliyyat"
+    loc: "ص290، الحاشية"
+    url: "https://archive.org/details/20240818_20240818_1710/page/n289/mode/1up"
+status: "review"

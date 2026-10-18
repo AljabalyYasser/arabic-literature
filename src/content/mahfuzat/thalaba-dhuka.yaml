@@ -1,0 +1,16 @@
+kind: "bayt"
+title: "ألقت ذكاء يمينها في كافر"
+part: "1"
+order: 279
+person: "thalaba-ibn-suayr"
+verses:
+  - "hal-inda-amrata/011"
+meaning: "تذكّرت النعامة بيضها حين بدأت الشمس تغيب في الليل، وذُكاء اسم للشمس والكافر الليل. ومنه أخذ لبيد «حتى إذا ألقت يدًا في كافر»، كما يقول الأصمعي فيما يرويه التبريزي [@tabrizi-ikhtiyarat، ج1 ص620]."
+sources:
+  - source: "mufaddaliyyat"
+    loc: "ص130"
+    url: "https://shamela.ws/book/6904/104"
+  - source: "tabrizi-ikhtiyarat"
+    loc: "ج1 ص620"
+    url: "https://archive.org/details/3820pdf/page/n632/mode/1up"
+status: "review"

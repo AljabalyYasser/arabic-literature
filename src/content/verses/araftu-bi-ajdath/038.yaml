@@ -1,0 +1,17 @@
+explained: false
+first: "وَخَرْقٍ تَحْسِرُ الرُّكْبَانُ فِيهِ"
+second: "بَعِيدِ الْغَوْلِ أَغْبَرَ ذِي نِيَاطِ"
+vocabulary:
+  - term: "خَرْقٍ"
+    text: "فلاة بعيدة واسعة [@sukkari-hudhaliyyin، ص1275]."
+  - term: "الْغَوْلِ"
+    text: "البُعد [@sukkari-hudhaliyyin، ص1275]."
+  - term: "تَحْسِرُ"
+    text: "تكلّ ركابهم وتسقط من الإعياء [@sukkari-hudhaliyyin، ص1275]."
+  - term: "ذِي نِيَاطِ"
+    text: "بعيد، كأنه من بعده قد عُلّق ببلد آخر [@sukkari-hudhaliyyin، ص1275]."
+sources:
+  - source: "sukkari-hudhaliyyin"
+    loc: "ص1275"
+    url: "https://archive.org/details/3816pdf/page/n1292/mode/1up"
+status: "review"

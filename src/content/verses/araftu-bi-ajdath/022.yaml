@@ -1,0 +1,17 @@
+explained: false
+first: "تَمُدُّ لَهُ حَوَالِبُ مُشْعَلَاتٌ"
+second: "يُجَلِّلُهُنَّ أَقْمَرُ ذُو انْعِطَاطِ"
+vocabulary:
+  - term: "حَوَالِبُ"
+    text: "دوافع السيل [@sukkari-hudhaliyyin، ص1271]."
+  - term: "مُشْعَلَاتٌ"
+    text: "متفرقات [@sukkari-hudhaliyyin، ص1271]."
+  - term: "أَقْمَرُ"
+    text: "سحاب أبيض [@sukkari-hudhaliyyin، ص1271]."
+  - term: "ذُو انْعِطَاطِ"
+    text: "ذو انشقاق، ينعطّ بالماء [@sukkari-hudhaliyyin، ص1271]."
+sources:
+  - source: "sukkari-hudhaliyyin"
+    loc: "ص1271"
+    url: "https://archive.org/details/3816pdf/page/n1288/mode/1up"
+status: "review"

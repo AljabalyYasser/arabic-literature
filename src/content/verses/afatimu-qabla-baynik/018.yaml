@@ -1,0 +1,16 @@
+explained: false
+first: "فَقُلْتُ لِبَعْضِهِنَّ وَشُدَّ رَحْلِي"
+second: "لِهَاجِرَةٍ نَصَبْتُ لَهَا جَبِينِي"
+vocabulary:
+  - term: "لِهَاجِرَةٍ"
+    text: "عند هاجرة، والهاجرة نصف النهار عند اشتداد الشمس [@mufaddaliyyat، ص289، الحاشية]."
+  - term: "نَصَبْتُ لَهَا جَبِينِي"
+    text: "استقبلت حرّها بوجهي."
+sources:
+  - source: "mufaddaliyyat"
+    loc: "ص289"
+    url: "https://shamela.ws/book/6904/263"
+  - source: "mufaddaliyyat"
+    loc: "ص289، الحاشية"
+    url: "https://archive.org/details/20240818_20240818_1710/page/n288/mode/1up"
+status: "review"

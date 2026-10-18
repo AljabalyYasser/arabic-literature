@@ -1,0 +1,18 @@
+kind: "maqta"
+title: "أهذا دينه أبدا وديني"
+part: "1"
+order: 277
+person: "al-muthaqqib"
+verses:
+  - "afatimu-qabla-baynik/035"
+  - "afatimu-qabla-baynik/036"
+  - "afatimu-qabla-baynik/037"
+meaning: "شكوى الناقة على لسانها: إذا قام يرحلها بليل تأوّهت، وقالت: أهذه عادته أبدًا وعادتي؟ أكلّ الدهر حلّ وارتحال؟ ويجعلها المرزباني «من المجاز المباعد للحقيقة» [@muwashshah، ص121]."
+sources:
+  - source: "mufaddaliyyat"
+    loc: "ص291–292"
+    url: "https://shamela.ws/book/6904/265"
+  - source: "muwashshah"
+    loc: "ص121"
+    url: "https://shamela.ws/book/9427/121"
+status: "review"

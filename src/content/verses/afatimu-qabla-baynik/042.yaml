@@ -1,0 +1,19 @@
+explained: false
+first: "فَإِمَّا أَنْ تَكُونَ أَخِي بِحَقٍّ"
+second: "فَأَعْرِفَ مِنْكَ غَثِّي أَوْ سَمِينِي"
+vocabulary:
+  - term: "غَثِّي أَوْ سَمِينِي"
+    text: "الغثّ الهزيل والسمين ضدّه، والمعنى: فأعرف نصحك من غشّك [@mufaddaliyyat، ص292، الحاشية]."
+  - term: "فَإِمَّا"
+    text: "«إمّا» للتفصيل، وجاء مقابلها في البيت التالي «وإلّا»، وهو شاهد عند البغدادي على أن «إمّا» الثانية قد تخلفها «إلّا» [@khizana، ج11 ص80]."
+sources:
+  - source: "mufaddaliyyat"
+    loc: "ص292"
+    url: "https://shamela.ws/book/6904/266"
+  - source: "mufaddaliyyat"
+    loc: "ص292، الحاشية"
+    url: "https://archive.org/details/20240818_20240818_1710/page/n291/mode/1up"
+  - source: "khizana"
+    loc: "ج11 ص80"
+    url: "https://shamela.ws/book/12732/5271"
+status: "review"

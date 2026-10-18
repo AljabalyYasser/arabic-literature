@@ -1,0 +1,18 @@
+explained: false
+first: "فَسَلِّ الْهَمَّ عَنْكَ بِذَاتِ لَوْثٍ"
+second: "عُذَافِرَةٍ كَمِطْرَقَةِ الْقُيُونِ"
+vocabulary:
+  - term: "لَوْثٍ"
+    text: "شدّة [@mufaddaliyyat، ص290، الحاشية]."
+  - term: "عُذَافِرَةٍ"
+    text: "الشديدة القوية [@mufaddaliyyat، ص290، الحاشية]."
+  - term: "الْقُيُونِ"
+    text: "الحدّادون: يصف ناقته التي يتسلّى بها عنها إن قطعت وصله [@mufaddaliyyat، ص290، الحاشية]."
+sources:
+  - source: "mufaddaliyyat"
+    loc: "ص290"
+    url: "https://shamela.ws/book/6904/264"
+  - source: "mufaddaliyyat"
+    loc: "ص290، الحاشية"
+    url: "https://archive.org/details/20240818_20240818_1710/page/n289/mode/1up"
+status: "review"

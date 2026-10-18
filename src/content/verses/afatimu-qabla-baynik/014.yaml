@@ -1,0 +1,16 @@
+explained: false
+first: "وَمِنْ ذَهَبٍ يَلُوحُ عَلَى تَرِيبٍ"
+second: "كَلَوْنِ الْعَاجِ لَيْسَ بِذِي غُضُونِ"
+vocabulary:
+  - term: "تَرِيبٍ"
+    text: "عظام الصدر موضع القلادة، ويقول المحققان إن هذا الجمع لم يُذكر في المعاجم، والمعروف «ترائب» [@mufaddaliyyat، ص289، الحاشية]."
+  - term: "غُضُونِ"
+    text: "تثنّي الجلد [@mufaddaliyyat، ص289، الحاشية]."
+sources:
+  - source: "mufaddaliyyat"
+    loc: "ص289"
+    url: "https://shamela.ws/book/6904/263"
+  - source: "mufaddaliyyat"
+    loc: "ص289، الحاشية"
+    url: "https://archive.org/details/20240818_20240818_1710/page/n288/mode/1up"
+status: "review"

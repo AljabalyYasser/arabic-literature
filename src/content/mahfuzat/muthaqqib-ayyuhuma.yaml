@@ -1,0 +1,19 @@
+kind: "maqta"
+title: "فإما أن تكون أخي بحق"
+part: "1"
+order: 278
+person: "al-muthaqqib"
+verses:
+  - "afatimu-qabla-baynik/042"
+  - "afatimu-qabla-baynik/043"
+  - "afatimu-qabla-baynik/044"
+  - "afatimu-qabla-baynik/045"
+meaning: "خاتمة القصيدة: كن أخي بحق فأعرف نصحك من غشك، أو اتخذني عدوًّا يحذر كل منا صاحبه. ثم الحيرة أمام القدر: لا يدري أيلقاه الخير الذي يطلبه أم الشر الذي يطلبه. والبيتان الأولان شاهد عند البغدادي [@khizana، ج11 ص80]."
+sources:
+  - source: "mufaddaliyyat"
+    loc: "ص292"
+    url: "https://shamela.ws/book/6904/266"
+  - source: "khizana"
+    loc: "ج11 ص80"
+    url: "https://shamela.ws/book/12732/5271"
+status: "review"

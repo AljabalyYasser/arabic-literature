@@ -1,0 +1,18 @@
+kind: "maqta"
+title: "إنا نعف فلا نريب حليفنا"
+part: "1"
+order: 272
+person: "al-hadira"
+verses:
+  - "bakarat-sumayya/009"
+  - "bakarat-sumayya/010"
+  - "bakarat-sumayya/011"
+meaning: "فخر بالوفاء والعفّة والجود: لم يُرفع لقومه لواء غدر في مجمع، ولا يرتاب بهم حليف، ويقون أعراضهم بأنفس أموالهم. وكانوا في الجاهلية يرفعون للغادر لواء في سوق عكاظ ليعرفه الناس، كما يقول محققا «المفضليات» [@mufaddaliyyat، ص45، الحاشية]."
+sources:
+  - source: "mufaddaliyyat"
+    loc: "ص45"
+    url: "https://shamela.ws/book/6904/19"
+  - source: "mufaddaliyyat"
+    loc: "ص45، الحاشية"
+    url: "https://archive.org/details/20240818_20240818_1710/page/n44/mode/1up"
+status: "review"

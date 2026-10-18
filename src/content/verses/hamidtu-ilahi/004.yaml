@@ -1,0 +1,16 @@
+explained: false
+first: "وَلَمْ أَدْرِ مَنْ أَلْقَى عَلَيْهِ رِدَاءَهُ"
+second: "وَلَكِنَّهُ قَدْ سُلَّ مِنْ مَاجِدٍ مَحْضِ"
+vocabulary:
+  - term: "أَلْقَى عَلَيْهِ رِدَاءَهُ"
+    text: "كناية عن إجارته وحمايته، فيما يقول محققو «الأغاني» [@aghani-dk، ج21 ص204، الحاشية]."
+  - term: "مَحْضِ"
+    text: "الخالص النسب [@aghani-dk، ج21 ص204، الحاشية]."
+sources:
+  - source: "sukkari-hudhaliyyin"
+    loc: "ص1230"
+    url: "https://archive.org/details/3816pdf/page/n1247/mode/1up"
+  - source: "aghani-dk"
+    loc: "ج21 ص204، الحاشية"
+    url: "https://archive.org/details/aghani2014/21/page/n205/mode/1up"
+status: "review"

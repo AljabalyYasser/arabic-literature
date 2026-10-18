@@ -1,0 +1,18 @@
+explained: false
+first: "كَأَنَّ الْكُورَ وَالْأَنْسَاعَ مِنْهَا"
+second: "عَلَى قَرْوَاءَ مَاهِرَةٍ دَهِينِ"
+vocabulary:
+  - term: "الْكُورَ"
+    text: "خشب الرحل وأداته [@mufaddaliyyat، ص291، الحاشية]."
+  - term: "الْأَنْسَاعَ"
+    text: "جمع نِسْع، وهو سير من جلد [@mufaddaliyyat، ص291، الحاشية]."
+  - term: "قَرْوَاءَ مَاهِرَةٍ دَهِينِ"
+    text: "سفينة طويلة القَرا، أي الظهر، سابحة، مدهونة [@mufaddaliyyat، ص291، الحاشية]."
+sources:
+  - source: "mufaddaliyyat"
+    loc: "ص291"
+    url: "https://shamela.ws/book/6904/265"
+  - source: "mufaddaliyyat"
+    loc: "ص291، الحاشية"
+    url: "https://archive.org/details/20240818_20240818_1710/page/n290/mode/1up"
+status: "review"
