@@ -1,0 +1,14 @@
+kind: "mathal"
+part: "1"
+order: 219
+text: "حَتَّى يَؤُوبَ الْقَارِظَانِ"
+story: "al-qarizan"
+meaning: "أي: أبدًا. والقارظان رجلان من عَنَزة خرجا يجنيان القَرَظ فلم يرجعا، أحدهما يَذْكُر بن عَنَزة، يُروى أن خُزَيْمة بن نَهْد قتله، والآخر أبو رُهْم [@aghani-dk، ج13 ص80]. وهو والمثل «حتى يؤوب المنخّل» سواء، «كل ذلك سواء فى معنى التأبيد» [@maydani، ج1 ص211]."
+sources:
+  - source: "aghani-dk"
+    loc: "ج13 ص80"
+    url: "https://archive.org/details/aghani2014/13/page/n79/mode/1up"
+  - source: "maydani"
+    loc: "ج1 ص211؛ ج2 ص212"
+    url: "https://shamela.ws/book/12929/1146"
+status: "review"

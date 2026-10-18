@@ -1,0 +1,15 @@
+kind: "mathal"
+part: "1"
+order: 217
+person: "musafir-ibn-abi-amr"
+text: "قَدْ يَضْرَطُ الْعَيْرُ وَالْمِكْوَاةُ فِي النَّارِ"
+story: "musafir-wa-hind"
+meaning: "العَيْر: الحمار، يفزع فيُخرج ريحه والمكواة ما زالت في النار لم تمسّه. «يضرب للرجل يخاف الأمر فيجزع قبل وقوعه فيه» [@maydani، ج2 ص95]. ويروي أبو الفَرَج أن مسافر بن أبي عَمْرو قاله حين فزع الطبيب وهو يكويه [@aghani-dk، ج9 ص51]، ويجعله المَيْدانيّ أولًا لعُرْفُطة بن عَرْفَجة الهَزّانيّ، ثم يقول: «ويقال: إن أول من قاله مسافر» [@maydani، ج2 ص95]."
+sources:
+  - source: "aghani-dk"
+    loc: "ج9 ص51"
+    url: "https://archive.org/details/aghani2014/9/page/n50/mode/1up"
+  - source: "maydani"
+    loc: "ج2 ص95–96"
+    url: "https://shamela.ws/book/12929/2930"
+status: "review"

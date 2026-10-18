@@ -1,0 +1,15 @@
+kind: "maqta"
+title: "رسالة على الرحل"
+part: "1"
+order: 213
+person: "al-muraqqish-al-akbar"
+verses:
+  - "ya-sahibayya-talawwama/003"
+  - "ya-sahibayya-talawwama/004"
+story: "asma-wal-muraqqish"
+meaning: "كتبهما المُرَقِّش الأكبر، فيما يروي المُفَضَّل، على رحل أجيره الذي تركه مريضًا في كهف: يحمّل كل راكب أن يبلغ أخويه أنسًا وحرملة، ويستحثّهما ألّا يُفلت الأجير حتى يُقتل. فقرأهما حَرْمَلة فقتل الأجير [@tabrizi-ikhtiyarat، ج2 ص993]."
+sources:
+  - source: "tabrizi-ikhtiyarat"
+    loc: "ج2 ص988–993"
+    url: "https://archive.org/details/3820pdf/page/n1000/mode/1up"
+status: "review"

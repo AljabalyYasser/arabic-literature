@@ -1,0 +1,22 @@
+kind: "maqta"
+title: "ليس على طول الحياة ندم"
+part: "1"
+order: 212
+person: "al-muraqqish-al-akbar"
+lines:
+  - first: "النَّشْرُ مِسْكٌ وَالْوُجُوهُ دَنَا"
+    second: "نِيرُ وَأَطْرَافُ الْبَنَانِ عَنَمْ"
+  - first: "لَيْسَ عَلَى طُولِ الْحَيَاةِ نَدَمْ"
+    second: "وَمِنْ وَرَاءِ الْمَرْءِ مَا يَعْلَمْ"
+meaning: "بيتان من المفضلية 54 [@mufaddaliyyat، ص238–239] يقول فيهما ابن قُتَيْبة: «ويستحسن له قوله» [@ibn-qutayba، ج1 ص208]. في الأول نساء ريح أفواههن مسك، ووجوههن دنانير، وأصابعهن عَنَم، و«العَنَم: شجر ليّن الأغصان لطيفها يُشبَّه به البَنان» [@lisan، ج12 ص429]. وفي الثاني حكمة: لا يندم المرء على طول عمره، وأمامه من حوادث الدهر ما سيعلمه."
+sources:
+  - source: "mufaddaliyyat"
+    loc: "ص238–239"
+    url: "https://shamela.ws/book/6904/212"
+  - source: "ibn-qutayba"
+    loc: "ج1 ص208"
+    url: "https://shamela.ws/book/23785/201"
+  - source: "lisan"
+    loc: "ج12 ص429"
+    url: "https://shamela.ws/book/1687/6342"
+status: "review"

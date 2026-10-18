@@ -1,0 +1,23 @@
+kind: "bayt"
+title: "البيت الذي لُقّب به المرقّش"
+part: "1"
+order: 211
+person: "al-muraqqish-al-akbar"
+lines:
+  - first: "الدَّارُ قَفْرٌ وَالرُّسُومُ كَمَا"
+    second: "رَقَّشَ فِي ظَهْرِ الْأَدِيمِ قَلَمْ"
+meaning: "الديار خالية، وآثارها كأنها خطوط زيّن بها قلمٌ ظهرَ جلد. ورَقَّش: زيّن وخطّط، والأديم: الجلد. وبهذا البيت سُمّي «المرقّش»، كما يقول ابن قُتَيْبة [@ibn-qutayba، ج1 ص205]، وهو من المفضلية 54 [@mufaddaliyyat، ص237]، وروايته في «الأغاني»: «الدارُ وَحْشٌ» [@aghani-dk، ج6 ص127]. ويستشهد به شوقي ضيف على شيوع تشبيه الأطلال بالكتابة عند الجاهليين [@deif، ج1 ص138]."
+sources:
+  - source: "mufaddaliyyat"
+    loc: "ص237"
+    url: "https://shamela.ws/book/6904/211"
+  - source: "ibn-qutayba"
+    loc: "ج1 ص205"
+    url: "https://shamela.ws/book/23785/198"
+  - source: "aghani-dk"
+    loc: "ج6 ص127"
+    url: "https://archive.org/details/aghani2014/6/page/n128/mode/1up"
+  - source: "deif"
+    loc: "ج1 ص138"
+    url: "https://shamela.ws/book/11996/134"
+status: "review"
