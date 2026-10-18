@@ -1,0 +1,16 @@
+explained: false
+first: "فَدَعَانِي حُبُّ سَلْمَى بَعْدَ مَا"
+second: "ذَهَبَ الجِدَّةُ مِنِّي وَالرَّيَعْ"
+vocabulary:
+  - term: "الجِدَّةُ"
+    text: "يقول محققا «المفضليات»: «أراد بها جدة الشباب» [@mufaddaliyyat، ص192، الحاشية]."
+  - term: "وَالرَّيَعْ"
+    text: "يقول محققا «المفضليات»: «الريع، بسكون الياء: أول الشباب، ولكنه حركه ضرورة» [@mufaddaliyyat، ص192، الحاشية]."
+sources:
+  - source: "mufaddaliyyat"
+    loc: "ص192"
+    url: "https://shamela.ws/book/6904/166"
+  - source: "mufaddaliyyat"
+    loc: "ص192، الحاشية"
+    url: "https://shamela.ws/book/6904/166"
+status: "review"

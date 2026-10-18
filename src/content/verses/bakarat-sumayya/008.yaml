@@ -1,0 +1,18 @@
+explained: false
+first: "لَعِبَ السُّيُولُ بِهِ فَأَصْبَحَ مَاؤُهُ"
+second: "غَلَلًا تَقَطَّعَ فِي أُصُولِ الْخِرْوَعِ"
+vocabulary:
+  - term: "لَعِبَ السُّيُولُ بِهِ"
+    text: "جاءته السيول من كل ناحية، فكأنها لاعبة [@mufaddaliyyat، ص45، الحاشية]."
+  - term: "غَلَلًا"
+    text: "الماء يجري في أصول الشجر [@mufaddaliyyat، ص45، الحاشية]."
+  - term: "الْخِرْوَعِ"
+    text: "نبت لين ضعيف [@mufaddaliyyat، ص45، الحاشية]."
+sources:
+  - source: "mufaddaliyyat"
+    loc: "ص45"
+    url: "https://shamela.ws/book/6904/19"
+  - source: "mufaddaliyyat"
+    loc: "ص45، الحاشية"
+    url: "https://archive.org/details/20240818_20240818_1710/page/n44/mode/1up"
+status: "review"

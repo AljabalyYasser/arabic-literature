@@ -1,0 +1,14 @@
+kind: "mathal"
+part: "1"
+order: 263
+text: "وَعِنْدَ جُهَيْنَةَ الخَبَرُ اليَقِينُ"
+meaning: "يُضرب لمن يعرف حقيقة الأمر دون غيره. وهو عجز بيت يجعله أبو عُبَيْدة لغُصَين اليهودي، جار بني سهم، يعني بجهينة نفسه، في أول الحرب التي انتهت بيوم دارة موضوع [@aghani-dk، ج14 ص3]، ويروي له هشام بن الكَلْبيّ خبرًا آخر، ويقول الميداني: «يضرب في معرفة الشيء حقيقة» [@maydani، ج2 ص3–5]."
+story: "darat-mawdu"
+sources:
+  - source: "aghani-dk"
+    loc: "ج14 ص3"
+    url: "https://archive.org/details/aghani2014/14/page/n5/mode/1up"
+  - source: "maydani"
+    loc: "ج2 ص3–5"
+    url: "https://shamela.ws/book/12929/2452"
+status: "review"

@@ -1,0 +1,18 @@
+explained: false
+first: "أَمَا تَعْلَمُونَ اليَوْمَ حِلْفَ عُرَيْنَةٍ"
+second: "وَحِلْفًا بِصَحْرَاءِ الشَّطُونِ وَمُقْسَمَا"
+vocabulary:
+  - term: "عُرَيْنَةٍ"
+    text: "يقول محققا «المفضليات»: «هم بنو عرينة بن نذير بن قسر» [@mufaddaliyyat، ص68، الحاشية]."
+  - term: "الشَّطُونِ"
+    text: "يقول محققا «المفضليات»: «موضع» [@mufaddaliyyat، ص68، الحاشية]."
+  - term: "وَمُقْسَمَا"
+    text: "يقول محققا «المفضليات»: «مكان القسم، أو مصدر ميمي منه. أراد الشاعر بذلك تحذير قومه عاقبة الفرقة» [@mufaddaliyyat، ص68، الحاشية]."
+sources:
+  - source: "mufaddaliyyat"
+    loc: "ص68"
+    url: "https://shamela.ws/book/6904/42"
+  - source: "mufaddaliyyat"
+    loc: "ص68، الحاشية"
+    url: "https://shamela.ws/book/6904/42"
+status: "review"

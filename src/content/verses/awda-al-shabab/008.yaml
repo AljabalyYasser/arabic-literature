@@ -1,0 +1,18 @@
+explained: false
+first: "تُجْرِي السِّوَاكَ عَلَى غُرٍّ مُفَلَّجَةٍ"
+second: "لَمْ يَغْرُهَا دَنَسٌ تَحْتَ الْجَلَابِيبِ"
+vocabulary:
+  - term: "غُرٍّ مُفَلَّجَةٍ"
+    text: "ثنايا بيض متباعدة ما بينها، والفَلَج تباعد ما بين الأسنان [@mufaddaliyyat، ص120، الحاشية]."
+  - term: "لَمْ يَغْرُهَا دَنَسٌ"
+    text: "لم يلصق بها، وأراد أنها عفيفة [@mufaddaliyyat، ص120، الحاشية]."
+  - term: "الْجَلَابِيبِ"
+    text: "جمع جِلْباب، وهو الثوب الواسع تلبسه المرأة فوق ثيابها."
+sources:
+  - source: "mufaddaliyyat"
+    loc: "ص120"
+    url: "https://shamela.ws/book/6904/94"
+  - source: "mufaddaliyyat"
+    loc: "ص120، الحاشية"
+    url: "https://archive.org/details/20240818_20240818_1710/page/n119/mode/1up"
+status: "review"

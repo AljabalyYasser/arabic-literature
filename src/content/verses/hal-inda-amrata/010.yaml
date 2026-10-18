@@ -1,0 +1,23 @@
+explained: false
+first: "يَبْرِي لِرَائِحَةٍ يُسَاقِطُ رِيشَهَا"
+second: "مَرُّ النَّجَاءِ سِقَاطَ لِيفِ الْآبِرِ"
+vocabulary:
+  - term: "يَبْرِي"
+    text: "يعارض ويباري [@mufaddaliyyat، ص129، الحاشية]."
+  - term: "لِرَائِحَةٍ"
+    text: "«و\"الرائحة\": النعامة تروح إلى بيضها، فلا تألو في العدو» [@tabrizi-ikhtiyarat، ج1 ص619]."
+  - term: "مَرُّ النَّجَاءِ"
+    text: "النجاء السرعة، و«مرّ النجاء» فاعل «يساقط» [@mufaddaliyyat، ص129، الحاشية]."
+  - term: "سِقَاطَ لِيفِ الْآبِرِ"
+    text: "«و\"الآبر\": المصلح للنخلة، الملقّح لها، فإذا صعدها رمى بالليف. فشبّه الريش، إذا سقط عن النعامة، بهذا الليف» [@tabrizi-ikhtiyarat، ج1 ص619]."
+sources:
+  - source: "mufaddaliyyat"
+    loc: "ص129"
+    url: "https://shamela.ws/book/6904/103"
+  - source: "mufaddaliyyat"
+    loc: "ص129، الحاشية"
+    url: "https://archive.org/details/20240818_20240818_1710/page/n128/mode/1up"
+  - source: "tabrizi-ikhtiyarat"
+    loc: "ج1 ص619"
+    url: "https://archive.org/details/3820pdf/page/n631/mode/1up"
+status: "review"

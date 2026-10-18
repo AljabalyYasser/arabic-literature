@@ -1,0 +1,20 @@
+explained: false
+first: "تَعْضِبُ القَرْنَ إِذَا نَاطَحَهَا"
+second: "وَإِذَا صَابَ بِهَا المِرْدَى انْجَزَعْ"
+vocabulary:
+  - term: "تَعْضِبُ"
+    text: "يقول محققا «المفضليات»: «تكسر» [@mufaddaliyyat، ص200، الحاشية]."
+  - term: "صَابَ"
+    text: "يقول محققا «المفضليات»: «وقع» [@mufaddaliyyat، ص200، الحاشية]."
+  - term: "المِرْدَى"
+    text: "يقول محققا «المفضليات»: «الحجر الذي يرمى به» [@mufaddaliyyat، ص200، الحاشية]."
+  - term: "انْجَزَعْ"
+    text: "يقول محققا «المفضليات»: «انقطع وانكسر» [@mufaddaliyyat، ص200، الحاشية]."
+sources:
+  - source: "mufaddaliyyat"
+    loc: "ص200"
+    url: "https://shamela.ws/book/6904/174"
+  - source: "mufaddaliyyat"
+    loc: "ص200، الحاشية"
+    url: "https://shamela.ws/book/6904/174"
+status: "review"

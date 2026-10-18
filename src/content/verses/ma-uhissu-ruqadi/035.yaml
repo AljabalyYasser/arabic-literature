@@ -1,0 +1,18 @@
+explained: false
+first: "عَيْرَانَةٍ سَدَّ الرَّبِيعُ خَصَاصَهَا"
+second: "مَا يَسْتَبِينُ بِهَا مَقِيلُ قُرَادِ"
+vocabulary:
+  - term: "عَيْرَانَةٍ"
+    text: "يقول محققا «المفضليات»: «التي تشبه العير في صلابتها» [@mufaddaliyyat، ص220، الحاشية]."
+  - term: "خَصَاصَهَا"
+    text: "يقول محققا «المفضليات»: «الفرج بين الأشياء، أي أسمنها الربيع» [@mufaddaliyyat، ص220، الحاشية]."
+  - term: "قُرَادِ"
+    text: "يقول محققا «المفضليات»: «دويبة تلزق بالإبل وغيرها» [@mufaddaliyyat، ص220، الحاشية]."
+sources:
+  - source: "mufaddaliyyat"
+    loc: "ص220"
+    url: "https://shamela.ws/book/6904/194"
+  - source: "mufaddaliyyat"
+    loc: "ص220، الحاشية"
+    url: "https://shamela.ws/book/6904/194"
+status: "review"

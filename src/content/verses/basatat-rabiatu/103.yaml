@@ -1,0 +1,16 @@
+explained: false
+first: "وَلِسَانًا صَيْرَفِيًّا صَارِمًا"
+second: "كَحُسَامِ السَّيْفِ مَا مَسَّ قَطَعْ"
+vocabulary:
+  - term: "صَيْرَفِيًّا"
+    text: "يقول محققا «المفضليات»: «المتصرف في الأمور المجرب لها، يتصرف كيفما شاء» [@mufaddaliyyat، ص201، الحاشية]."
+  - term: "كَحُسَامِ السَّيْفِ"
+    text: "يقول محققا «المفضليات»: «حسام السيف: حده وطرفه القاطع» [@mufaddaliyyat، ص201، الحاشية]."
+sources:
+  - source: "mufaddaliyyat"
+    loc: "ص201"
+    url: "https://shamela.ws/book/6904/175"
+  - source: "mufaddaliyyat"
+    loc: "ص201، الحاشية"
+    url: "https://shamela.ws/book/6904/175"
+status: "review"

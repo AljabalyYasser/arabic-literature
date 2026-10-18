@@ -1,0 +1,18 @@
+explained: false
+first: "يَطَأْنَ مِنَ القَتْلَى وَمِنْ قِصَدِ القَنَا"
+second: "خَبَارًا فَمَا يَجْرِينَ إِلَّا تَجَشُّمَا"
+vocabulary:
+  - term: "قِصَدِ القَنَا"
+    text: "يقول محققا «المفضليات»: «القطع المكسرة من الرماح» [@mufaddaliyyat، ص66، الحاشية]."
+  - term: "خَبَارًا"
+    text: "يقول محققا «المفضليات»: «الأرض اللينة فيها جحور» [@mufaddaliyyat، ص66، الحاشية]."
+  - term: "تَجَشُّمَا"
+    text: "يقول محققا «المفضليات»: «حمل النفس على المشقة وما تكره» [@mufaddaliyyat، ص66، الحاشية]."
+sources:
+  - source: "mufaddaliyyat"
+    loc: "ص66"
+    url: "https://shamela.ws/book/6904/40"
+  - source: "mufaddaliyyat"
+    loc: "ص66، الحاشية"
+    url: "https://shamela.ws/book/6904/40"
+status: "review"

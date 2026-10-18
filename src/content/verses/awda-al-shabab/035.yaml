@@ -1,0 +1,22 @@
+explained: false
+first: "شِيبِ الْمَبَارِكِ مَدْرُوسٍ مَدَافِعُهُ"
+second: "هَابِي الْمَرَاغِ قَلِيلِ الْوَدْقِ مَوْظُوبِ"
+vocabulary:
+  - term: "شِيبِ الْمَبَارِكِ"
+    text: "المبارك هنا الوادي كله، وجعلها شيبًا لبياضها من الجدب والصقيع [@mufaddaliyyat، ص124، الحاشية]."
+  - term: "مَدْرُوسٍ مَدَافِعُهُ"
+    text: "المدافع مجاري الماء، دَرَست آثارها وغطاها التراب لبعد عهدها بالماء [@mufaddaliyyat، ص124، الحاشية]."
+  - term: "هَابِي الْمَرَاغِ"
+    text: "منتفخ التراب، لم يتمرّغ عليه بعير منذ مدة [@mufaddaliyyat، ص124، الحاشية]."
+  - term: "الْوَدْقِ"
+    text: "المطر [@mufaddaliyyat، ص124، الحاشية]."
+  - term: "مَوْظُوبِ"
+    text: "لازمته السنون والجدب [@mufaddaliyyat، ص124، الحاشية]."
+sources:
+  - source: "mufaddaliyyat"
+    loc: "ص124"
+    url: "https://shamela.ws/book/6904/98"
+  - source: "mufaddaliyyat"
+    loc: "ص124، الحاشية"
+    url: "https://archive.org/details/20240818_20240818_1710/page/n123/mode/1up"
+status: "review"

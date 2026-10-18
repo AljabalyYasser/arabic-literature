@@ -1,0 +1,22 @@
+explained: false
+first: "وَجْنَاءَ مُجْفَرَةِ الضُّلُوعِ رَجِيلَةٍ"
+second: "وَلَقَى الْهَوَاجِرِ ذَاتِ خَلْقٍ حَادِرِ"
+vocabulary:
+  - term: "وَجْنَاءَ"
+    text: "الصلبة [@mufaddaliyyat، ص129، الحاشية]."
+  - term: "مُجْفَرَةِ الضُّلُوعِ"
+    text: "عظيمة الجُفْرة، وهي الوسط، وذلك مستحبّ في خلقها [@mufaddaliyyat، ص129، الحاشية]."
+  - term: "رَجِيلَةٍ"
+    text: "قوية على المشي [@mufaddaliyyat، ص129، الحاشية]."
+  - term: "وَلَقَى الْهَوَاجِرِ"
+    text: "الوَلَقى السريعة، من الوَلْق وهو المرّ السريع، وأضافها إلى الهواجر لأن سير الهاجرة أشدّ السير [@mufaddaliyyat، ص129، الحاشية]."
+  - term: "حَادِرِ"
+    text: "ممتلئ [@mufaddaliyyat، ص129، الحاشية]."
+sources:
+  - source: "mufaddaliyyat"
+    loc: "ص129"
+    url: "https://shamela.ws/book/6904/103"
+  - source: "mufaddaliyyat"
+    loc: "ص129، الحاشية"
+    url: "https://archive.org/details/20240818_20240818_1710/page/n128/mode/1up"
+status: "review"

@@ -1,0 +1,16 @@
+explained: false
+first: "وُجُوهُ عَدُوٍّ وَالصُّدُورُ حَدِيثَةٌ"
+second: "بِوُدٍّ فَأَوْدَى كُلُّ وُدٍّ فَأَنْعَمَا"
+vocabulary:
+  - term: "فَأَوْدَى"
+    text: "يقول محققا «المفضليات»: «ذهب» [@mufaddaliyyat، ص65، الحاشية]."
+  - term: "فَأَنْعَمَا"
+    text: "يقول محققا «المفضليات»: «بالغ، أي بالغ الود في الذهاب» [@mufaddaliyyat، ص65، الحاشية]."
+sources:
+  - source: "mufaddaliyyat"
+    loc: "ص65"
+    url: "https://shamela.ws/book/6904/39"
+  - source: "mufaddaliyyat"
+    loc: "ص65، الحاشية"
+    url: "https://shamela.ws/book/6904/39"
+status: "review"

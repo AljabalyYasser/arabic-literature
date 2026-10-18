@@ -1,0 +1,18 @@
+explained: false
+first: "لَأَقْسَمْتُ لَا تَنْفَكُّ مِنِّي مُحَارِبٌ"
+second: "عَلَى آلَةٍ حَدْبَاءَ حَتَّى تَنَدَّمَا"
+vocabulary:
+  - term: "مُحَارِبٌ"
+    text: "يقول محققا «المفضليات»: «هم بنو محارب بن خصفة بن قيس بن عيلان» [@mufaddaliyyat، ص67، الحاشية]."
+  - term: "آلَةٍ"
+    text: "يقول محققا «المفضليات»: «الحالة» [@mufaddaliyyat، ص67، الحاشية]."
+  - term: "حَدْبَاءَ"
+    text: "يقول محققا «المفضليات»: «الصعبة» [@mufaddaliyyat، ص67، الحاشية]."
+sources:
+  - source: "mufaddaliyyat"
+    loc: "ص67"
+    url: "https://shamela.ws/book/6904/41"
+  - source: "mufaddaliyyat"
+    loc: "ص67، الحاشية"
+    url: "https://shamela.ws/book/6904/41"
+status: "review"

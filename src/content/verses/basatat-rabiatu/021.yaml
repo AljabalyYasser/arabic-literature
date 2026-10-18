@@ -1,0 +1,16 @@
+explained: false
+first: "فِي حَرُورٍ يَنْضَجُ اللَّحْمُ بِهَا"
+second: "يَأْخُذُ السَّائِرَ فِيهَا كَالصَّقَعْ"
+vocabulary:
+  - term: "حَرُورٍ"
+    text: "يقول محققا «المفضليات»: «ريح حارة تكون بالنهار» [@mufaddaliyyat، ص193، الحاشية]."
+  - term: "كَالصَّقَعْ"
+    text: "يقول محققا «المفضليات»: «حرارة تصيب الرأس» [@mufaddaliyyat، ص193، الحاشية]."
+sources:
+  - source: "mufaddaliyyat"
+    loc: "ص193"
+    url: "https://shamela.ws/book/6904/167"
+  - source: "mufaddaliyyat"
+    loc: "ص193، الحاشية"
+    url: "https://shamela.ws/book/6904/167"
+status: "review"

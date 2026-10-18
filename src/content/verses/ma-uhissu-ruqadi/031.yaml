@@ -1,0 +1,16 @@
+explained: false
+first: "بِالجَوِّ فَالأَمَرَاتِ حَوْلَ مُغَامِرٍ"
+second: "فَبِضَارِجٍ فَقَصِيمَةِ الطُّرَّادِ"
+vocabulary:
+  - term: "بِالجَوِّ ... فَقَصِيمَةِ"
+    text: "يقول محققا «المفضليات»: «كلها مواضع كان فيها الكلأ الذي قصدوه» [@mufaddaliyyat، ص219، الحاشية]."
+  - term: "الطُّرَّادِ"
+    text: "يقول محققا «المفضليات»: «الصائدون» [@mufaddaliyyat، ص219، الحاشية]."
+sources:
+  - source: "mufaddaliyyat"
+    loc: "ص219"
+    url: "https://shamela.ws/book/6904/193"
+  - source: "mufaddaliyyat"
+    loc: "ص219، الحاشية"
+    url: "https://shamela.ws/book/6904/193"
+status: "review"

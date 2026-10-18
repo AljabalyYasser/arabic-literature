@@ -1,0 +1,16 @@
+explained: false
+first: "كُنَّا إِذَا مَا أَتَانَا صَارِخٌ فَزِعٌ"
+second: "كَانَ الصُّرَاخُ لَهُ قَرْعَ الظَّنَابِيبِ"
+vocabulary:
+  - term: "صَارِخٌ"
+    text: "مستغيث، والصُّراخ هنا الإغاثة [@mufaddaliyyat، ص124، الحاشية]."
+  - term: "قَرْعَ الظَّنَابِيبِ"
+    text: "الظُّنبوب حرف عظم الساق، ويقال: قرع ظنبوبه لهذا الأمر، أي عزم عليه [@mufaddaliyyat، ص124، الحاشية]."
+sources:
+  - source: "mufaddaliyyat"
+    loc: "ص124"
+    url: "https://shamela.ws/book/6904/98"
+  - source: "mufaddaliyyat"
+    loc: "ص124، الحاشية"
+    url: "https://archive.org/details/20240818_20240818_1710/page/n123/mode/1up"
+status: "review"

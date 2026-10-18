@@ -1,0 +1,16 @@
+explained: false
+first: "حَلَّ أَهْلِي حَيْثُ لَا أَطْلُبُهَا"
+second: "جَانِبَ الحِصْنِ وَحَلَّتْ بِالفَرَعْ"
+vocabulary:
+  - term: "الحِصْنِ"
+    text: "يقول محققا «المفضليات»: «قال الأنباري: «كذا رواه أبو عكرمة. والرواية «جانب الحضر» وهي مدينة بالموصل»» [@mufaddaliyyat، ص195، الحاشية]."
+  - term: "بِالفَرَعْ"
+    text: "يقول محققا «المفضليات»: «بفتحتين: موضع بين الكوفة والبصرة» [@mufaddaliyyat، ص195، الحاشية]."
+sources:
+  - source: "mufaddaliyyat"
+    loc: "ص195"
+    url: "https://shamela.ws/book/6904/169"
+  - source: "mufaddaliyyat"
+    loc: "ص195، الحاشية"
+    url: "https://shamela.ws/book/6904/169"
+status: "review"

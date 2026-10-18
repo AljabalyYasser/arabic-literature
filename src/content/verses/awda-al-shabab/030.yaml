@@ -1,0 +1,16 @@
+explained: false
+first: "إِنِّي وَجَدْتُ بَنِي سَعْدٍ يُفَضِّلُهُمْ"
+second: "كُلُّ شِهَابٍ عَلَى الْأَعْدَاءِ مَشْبُوبِ"
+vocabulary:
+  - term: "شِهَابٍ"
+    text: "أصله الشعلة الساطعة من النار، وأراد الرجل الماضي في أمره [@mufaddaliyyat، ص123، الحاشية]."
+  - term: "مَشْبُوبِ"
+    text: "مُقوًّى، من قولهم: شببت النار إذا قوّيتها [@mufaddaliyyat، ص123، الحاشية]."
+sources:
+  - source: "mufaddaliyyat"
+    loc: "ص123"
+    url: "https://shamela.ws/book/6904/97"
+  - source: "mufaddaliyyat"
+    loc: "ص123، الحاشية"
+    url: "https://archive.org/details/20240818_20240818_1710/page/n122/mode/1up"
+status: "review"

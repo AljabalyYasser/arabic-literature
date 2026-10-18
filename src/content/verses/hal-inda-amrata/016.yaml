@@ -1,0 +1,18 @@
+explained: false
+first: "حَسَنِي الْفُكَاهَةِ لَا تُذَمُّ لِحَامُهُمْ"
+second: "سَبِطِي الْأَكُفِّ وَفِي الْحُرُوبِ مَسَاعِرِ"
+vocabulary:
+  - term: "لَا تُذَمُّ لِحَامُهُمْ"
+    text: "اللِّحام جمع لحم: لا يُذمّ قِراهم، فهو حاضر طيّب [@mufaddaliyyat، ص130، الحاشية]."
+  - term: "سَبِطِي الْأَكُفِّ"
+    text: "السبط المسترسل، والمراد أنهم كرام [@mufaddaliyyat، ص130، الحاشية]."
+  - term: "مَسَاعِرِ"
+    text: "جمع مِسْعَر، وهو الذي يوقد الحرب كأنه يسعّرها [@mufaddaliyyat، ص130، الحاشية]."
+sources:
+  - source: "mufaddaliyyat"
+    loc: "ص130"
+    url: "https://shamela.ws/book/6904/104"
+  - source: "mufaddaliyyat"
+    loc: "ص130، الحاشية"
+    url: "https://archive.org/details/20240818_20240818_1710/page/n129/mode/1up"
+status: "review"

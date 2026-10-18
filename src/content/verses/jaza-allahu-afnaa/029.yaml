@@ -1,0 +1,16 @@
+explained: false
+first: "وَأَبْلِغْ تَلِيدًا إِنْ عَرَضْتَ ابْنَ مَالِكٍ"
+second: "وَهَلْ يَنْفَعَنَّ العِلْمُ إِلَّا المُعَلَّمَا"
+vocabulary:
+  - term: "إِنْ عَرَضْتَ"
+    text: "يقول محققا «المفضليات»: «جملة اعتراضية» [@mufaddaliyyat، ص68، الحاشية]."
+  - term: "إِلَّا المُعَلَّمَا"
+    text: "يقول محققا «المفضليات»: «أي لا ينفع العلم إلا من تعلم وتمكن» [@mufaddaliyyat، ص68، الحاشية]."
+sources:
+  - source: "mufaddaliyyat"
+    loc: "ص68"
+    url: "https://shamela.ws/book/6904/42"
+  - source: "mufaddaliyyat"
+    loc: "ص68، الحاشية"
+    url: "https://shamela.ws/book/6904/42"
+status: "review"

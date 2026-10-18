@@ -1,0 +1,19 @@
+explained: false
+first: "هَلْ عِنْدَ عَمْرَةَ مِنْ بَتَاتِ مُسَافِرِ"
+second: "ذِي حَاجَةٍ مُتَرَوِّحٍ أَوْ بَاكِرِ"
+vocabulary:
+  - term: "بَتَاتِ مُسَافِرِ"
+    text: "«و\"البَتات\": الزاد»، «يقال: قد تبتّت الرجل لسفره، إذا اشترى ما يصلحه» [@tabrizi-ikhtiyarat، ج1 ص613]. وأراد في حاشية المحققين: هل عندها ما تودّعه به عند رحلته [@mufaddaliyyat، ص128، الحاشية]."
+  - term: "مُتَرَوِّحٍ أَوْ بَاكِرِ"
+    text: "راحل في الرواح، وهو آخر النهار، أو في البُكرة، وهي أوله."
+sources:
+  - source: "mufaddaliyyat"
+    loc: "ص128"
+    url: "https://shamela.ws/book/6904/102"
+  - source: "tabrizi-ikhtiyarat"
+    loc: "ج1 ص613"
+    url: "https://archive.org/details/3820pdf/page/n625/mode/1up"
+  - source: "mufaddaliyyat"
+    loc: "ص128، الحاشية"
+    url: "https://archive.org/details/20240818_20240818_1710/page/n127/mode/1up"
+status: "review"

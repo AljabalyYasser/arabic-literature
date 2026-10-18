@@ -1,0 +1,20 @@
+explained: false
+first: "تُضْحِي إِذَا دَقَّ الْمَطِيُّ كَأَنَّهَا"
+second: "فَدَنُ ابْنِ حَيَّةَ شَادَهُ بِالْآجُرِ"
+vocabulary:
+  - term: "دَقَّ الْمَطِيُّ"
+    text: "ضمرت الإبل لطول السفر [@mufaddaliyyat، ص129، الحاشية]."
+  - term: "فَدَنُ"
+    text: "القصر [@mufaddaliyyat، ص129، الحاشية]."
+  - term: "شَادَهُ"
+    text: "بناه بالشِّيد، وهو الجِصّ، أو رفع بناءه [@mufaddaliyyat، ص129، الحاشية]."
+  - term: "بِالْآجُرِ"
+    text: "الآجُرّ: الطين المشويّ يُبنى به، وخُفّفت راؤه للقافية."
+sources:
+  - source: "mufaddaliyyat"
+    loc: "ص129"
+    url: "https://shamela.ws/book/6904/103"
+  - source: "mufaddaliyyat"
+    loc: "ص129، الحاشية"
+    url: "https://archive.org/details/20240818_20240818_1710/page/n128/mode/1up"
+status: "review"

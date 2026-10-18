@@ -1,0 +1,16 @@
+explained: false
+first: "كِلَا الْفَرِيقَيْنِ أَعْلَاهُمْ وَأَسْفَلُهُمْ"
+second: "يَشْقَى بِأَرْمَاحِنَا غَيْرَ التَّكَاذِيبِ"
+vocabulary:
+  - term: "كِلَا الْفَرِيقَيْنِ"
+    text: "فريقا مَعَدّ: عُليا معدّ من كان منهم بنجد، وسُفلاها من نزل الأرض المنخفضة [@mufaddaliyyat، ص123، الحاشية]."
+  - term: "غَيْرَ التَّكَاذِيبِ"
+    text: "شقاءً صادقًا، لا كذب فيه."
+sources:
+  - source: "mufaddaliyyat"
+    loc: "ص123"
+    url: "https://shamela.ws/book/6904/97"
+  - source: "mufaddaliyyat"
+    loc: "ص123، الحاشية"
+    url: "https://archive.org/details/20240818_20240818_1710/page/n122/mode/1up"
+status: "review"

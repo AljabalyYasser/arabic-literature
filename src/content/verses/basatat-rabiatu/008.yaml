@@ -1,0 +1,16 @@
+explained: false
+first: "هَيَّجَ الشَّوْقَ خَيَالٌ زَائِرٌ"
+second: "مِنْ حَبِيبٍ خَفِرٍ فِيهِ قَدَعْ"
+vocabulary:
+  - term: "خَفِرٍ"
+    text: "يقول محققا «المفضليات»: «الخفر: الحياء» [@mufaddaliyyat، ص191، الحاشية]."
+  - term: "قَدَعْ"
+    text: "يقول محققا «المفضليات»: «القدع: الرد والكف، والمراد أنها تكف نفسها عما يشينها» [@mufaddaliyyat، ص191، الحاشية]."
+sources:
+  - source: "mufaddaliyyat"
+    loc: "ص191"
+    url: "https://shamela.ws/book/6904/165"
+  - source: "mufaddaliyyat"
+    loc: "ص191، الحاشية"
+    url: "https://shamela.ws/book/6904/165"
+status: "review"

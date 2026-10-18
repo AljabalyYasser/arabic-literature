@@ -1,0 +1,18 @@
+explained: false
+first: "خَبَّلَتْنِي ثُمَّ لَمَّا تُشْفِنِي"
+second: "فَفُؤَادِي كُلَّ أَوْبٍ مَا اجْتَمَعْ"
+vocabulary:
+  - term: "خَبَّلَتْنِي"
+    text: "يقول محققا «المفضليات»: «من قولهم خبله وخبله، بالتشديد والتخفيف، واختبله: إذا أفسد عقله» [@mufaddaliyyat، ص192، الحاشية]."
+  - term: "كُلَّ أَوْبٍ"
+    text: "يقول محققا «المفضليات»: «كل وجه» [@mufaddaliyyat، ص192، الحاشية]."
+  - term: "مَا اجْتَمَعْ"
+    text: "يقول محققا «المفضليات»: «متفرق لم يجتمع» [@mufaddaliyyat، ص192، الحاشية]."
+sources:
+  - source: "mufaddaliyyat"
+    loc: "ص192"
+    url: "https://shamela.ws/book/6904/166"
+  - source: "mufaddaliyyat"
+    loc: "ص192، الحاشية"
+    url: "https://shamela.ws/book/6904/166"
+status: "review"

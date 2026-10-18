@@ -1,0 +1,16 @@
+explained: false
+first: "قَالَ لَبَّيْكَ وَمَا اسْتَصْرَخْتُهُ"
+second: "حَاقِرًا لِلنَّاسِ قَوَّالَ القَذَعْ"
+vocabulary:
+  - term: "قَالَ لَبَّيْكَ"
+    text: "يقول محققا «المفضليات»: «يعني شيطانه. ومن عادة الشعراء أن يذكروا أن لهم صاحبا من الجن يوحي إليهم الشعر» [@mufaddaliyyat، ص201، الحاشية]."
+  - term: "القَذَعْ"
+    text: "يقول محققا «المفضليات»: «الكلام السيئ القبيح» [@mufaddaliyyat، ص201، الحاشية]."
+sources:
+  - source: "mufaddaliyyat"
+    loc: "ص201"
+    url: "https://shamela.ws/book/6904/175"
+  - source: "mufaddaliyyat"
+    loc: "ص201، الحاشية"
+    url: "https://shamela.ws/book/6904/175"
+status: "review"

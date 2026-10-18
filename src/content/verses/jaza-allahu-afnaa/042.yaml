@@ -1,0 +1,18 @@
+explained: false
+first: "بِآيَةِ أَنِّي قَدْ فَجَعْتُ بِفَارِسٍ"
+second: "إِذَا عَرَّدَ الأَقْوَامُ أَقْدَمَ مُعْلِمَا"
+vocabulary:
+  - term: "بِآيَةِ"
+    text: "يقول محققا «المفضليات»: «العلامة» [@mufaddaliyyat، ص69، الحاشية]."
+  - term: "عَرَّدَ"
+    text: "يقول محققا «المفضليات»: «هرب» [@mufaddaliyyat، ص69، الحاشية]."
+  - term: "مُعْلِمَا"
+    text: "يقول محققا «المفضليات»: «الذي يجعل لنفسه علامة في الحرب يعرف بها» [@mufaddaliyyat، ص69، الحاشية]."
+sources:
+  - source: "mufaddaliyyat"
+    loc: "ص69"
+    url: "https://shamela.ws/book/6904/43"
+  - source: "mufaddaliyyat"
+    loc: "ص69، الحاشية"
+    url: "https://shamela.ws/book/6904/43"
+status: "review"

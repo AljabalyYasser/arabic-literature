@@ -1,0 +1,20 @@
+explained: false
+first: "وَتَصَدَّفَتْ حَتَّى اسْتَبَتْكَ بِوَاضِحٍ"
+second: "صَلْتٍ كَمُنْتَصِبِ الْغَزَالِ الْأَتْلَعِ"
+vocabulary:
+  - term: "تَصَدَّفَتْ"
+    text: "أعرضت وانحرفت، فبدا جانب وجهها [@mufaddaliyyat، ص44، الحاشية]."
+  - term: "اسْتَبَتْكَ"
+    text: "غلبتك وجعلتك سبيًا لها [@mufaddaliyyat، ص44، الحاشية]."
+  - term: "بِوَاضِحٍ صَلْتٍ"
+    text: "في حاشية المحققين: الواضح الناصع الخالص، يعني عنقها، والصلت المشرق الجميل [@mufaddaliyyat، ص44، الحاشية]."
+  - term: "الْأَتْلَعِ"
+    text: "الطويل العنق، شبّه عنقها بجيد الغزال إذا انتصب [@mufaddaliyyat، ص44، الحاشية]."
+sources:
+  - source: "mufaddaliyyat"
+    loc: "ص44"
+    url: "https://shamela.ws/book/6904/18"
+  - source: "mufaddaliyyat"
+    loc: "ص44، الحاشية"
+    url: "https://archive.org/details/20240818_20240818_1710/page/n43/mode/1up"
+status: "review"

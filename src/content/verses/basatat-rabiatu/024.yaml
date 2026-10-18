@@ -1,0 +1,18 @@
+explained: false
+first: "يَسْبَحُ الآلُ عَلَى أَعْلَامِهَا"
+second: "وَعَلَى البِيدِ إِذَا اليَوْمُ مَتَعْ"
+vocabulary:
+  - term: "أَعْلَامِهَا"
+    text: "يقول محققا «المفضليات»: «الجبال» [@mufaddaliyyat، ص193، الحاشية]."
+  - term: "البِيدِ"
+    text: "يقول محققا «المفضليات»: «جمع بيداء، وهي القفر» [@mufaddaliyyat، ص193، الحاشية]."
+  - term: "مَتَعْ"
+    text: "يقول محققا «المفضليات»: «متع اليوم: ارتفعت شمسه» [@mufaddaliyyat، ص193، الحاشية]."
+sources:
+  - source: "mufaddaliyyat"
+    loc: "ص193"
+    url: "https://shamela.ws/book/6904/167"
+  - source: "mufaddaliyyat"
+    loc: "ص193، الحاشية"
+    url: "https://shamela.ws/book/6904/167"
+status: "review"

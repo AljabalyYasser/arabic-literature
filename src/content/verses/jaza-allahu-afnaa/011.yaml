@@ -1,0 +1,16 @@
+explained: false
+first: "لَدُنْ غُدْوَةٍ حَتَّى أَتَى اللَّيْلُ مَا تَرَى"
+second: "مِنَ الخَيْلِ إِلَّا خَارِجِيًّا مُسَوَّمَا"
+vocabulary:
+  - term: "خَارِجِيًّا"
+    text: "يقول محققا «المفضليات»: «الجواد في غير نسب تقدم له، كأنه نبغ بالجودة» [@mufaddaliyyat، ص65، الحاشية]."
+  - term: "مُسَوَّمَا"
+    text: "يقول محققا «المفضليات»: «المعلم بعلامة في الحرب، ولا يفعل ذلك إلا الفارس الشجاع» [@mufaddaliyyat، ص65، الحاشية]."
+sources:
+  - source: "mufaddaliyyat"
+    loc: "ص65"
+    url: "https://shamela.ws/book/6904/39"
+  - source: "mufaddaliyyat"
+    loc: "ص65، الحاشية"
+    url: "https://shamela.ws/book/6904/39"
+status: "review"

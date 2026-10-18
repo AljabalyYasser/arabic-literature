@@ -1,0 +1,16 @@
+explained: false
+first: "لَا يُرِيدُ الدَّهْرَ عَنْهَا حِوَلًا"
+second: "جُرَعَ المَوْتِ وَلِلْمَوْتِ جُرَعْ"
+vocabulary:
+  - term: "حِوَلًا"
+    text: "يقول محققا «المفضليات»: «تحولا» [@mufaddaliyyat، ص198، الحاشية]."
+  - term: "لَا يُرِيدُ الدَّهْرَ عَنْهَا حِوَلًا"
+    text: "يقول محققا «المفضليات» إن أبا عكرمة رواه بعد البيت 63، ونصّ على أن موضعه الصحيح «في الرواية والمعنى بعد بيت «كيف باستقرار» فرجعناه إلى موضعه الصحيح» [@mufaddaliyyat، ص198، الحاشية]."
+sources:
+  - source: "mufaddaliyyat"
+    loc: "ص198"
+    url: "https://shamela.ws/book/6904/172"
+  - source: "mufaddaliyyat"
+    loc: "ص198، الحاشية"
+    url: "https://shamela.ws/book/6904/172"
+status: "review"

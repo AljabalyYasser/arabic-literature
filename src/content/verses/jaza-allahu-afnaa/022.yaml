@@ -1,0 +1,16 @@
+explained: false
+first: "وَجَاءَتْ جِحَاشٌ قَضَّهَا بِقَضِيضِهَا"
+second: "وَجَمْعُ عُوَالٍ مَا أَدَقَّ وَأَلْأَمَا"
+vocabulary:
+  - term: "قَضَّهَا بِقَضِيضِهَا"
+    text: "يقول محققا «المفضليات»: «صغيرها بكبيرها» [@mufaddaliyyat، ص67، الحاشية]."
+  - term: "جِحَاشٌ ... عُوَالٍ"
+    text: "قبيلتان من ذُبْيان: بنو جِحاش بن بَجالة، وبنو عُوال بن الحارث، كما يقول محققا «المفضليات» [@mufaddaliyyat، ص67، الحاشية]."
+sources:
+  - source: "mufaddaliyyat"
+    loc: "ص67"
+    url: "https://shamela.ws/book/6904/41"
+  - source: "mufaddaliyyat"
+    loc: "ص67، الحاشية"
+    url: "https://shamela.ws/book/6904/41"
+status: "review"

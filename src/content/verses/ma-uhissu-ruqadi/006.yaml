@@ -1,0 +1,20 @@
+explained: false
+first: "إِنَّ المَنِيَّةَ وَالحُتُوفَ كِلَاهُمَا"
+second: "يُوفِي المَخَارِمَ يَرْقُبَانِ سَوَادِي"
+vocabulary:
+  - term: "الحُتُوفَ"
+    text: "يقول محققا «المفضليات»: «جمع حتف، وهو الموت» [@mufaddaliyyat، ص216، الحاشية]."
+  - term: "يُوفِي"
+    text: "يقول محققا «المفضليات»: «يعلو» [@mufaddaliyyat، ص216، الحاشية]."
+  - term: "المَخَارِمَ"
+    text: "يقول محققا «المفضليات»: «جمع مخرم، وهو منقطع أنف الجبل» [@mufaddaliyyat، ص216، الحاشية]."
+  - term: "سَوَادِي"
+    text: "يقول محققا «المفضليات»: «شخصي» [@mufaddaliyyat، ص216، الحاشية]."
+sources:
+  - source: "mufaddaliyyat"
+    loc: "ص216"
+    url: "https://shamela.ws/book/6904/190"
+  - source: "mufaddaliyyat"
+    loc: "ص216، الحاشية"
+    url: "https://shamela.ws/book/6904/190"
+status: "review"

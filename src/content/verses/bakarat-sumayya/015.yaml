@@ -1,0 +1,18 @@
+explained: false
+first: "بِسَبِيلِ ثَغْرٍ لَا يُسَرِّحُ أَهْلُهُ"
+second: "سَقِمٍ يُشَارُ لِقَاؤُهُ بِالْإِصْبَعِ"
+vocabulary:
+  - term: "ثَغْرٍ"
+    text: "موضع المخافة، ومنه يأتي العدو [@mufaddaliyyat، ص46، الحاشية]."
+  - term: "سَقِمٍ"
+    text: "مخوف، ويروى بفتح القاف وكسرها [@mufaddaliyyat، ص46، الحاشية]."
+  - term: "يُشَارُ لِقَاؤُهُ بِالْإِصْبَعِ"
+    text: "يُشار إليه عند لقائه ويقال: هذا مخوف فاحذروه، كما نقل المحققان عن ابن الأَنْبارِيّ [@mufaddaliyyat، ص46، الحاشية]."
+sources:
+  - source: "mufaddaliyyat"
+    loc: "ص46"
+    url: "https://shamela.ws/book/6904/20"
+  - source: "mufaddaliyyat"
+    loc: "ص46، الحاشية"
+    url: "https://archive.org/details/20240818_20240818_1710/page/n45/mode/1up"
+status: "review"

@@ -1,0 +1,18 @@
+explained: false
+first: "فَتَنَاوَلْنَ غِشَاشًا مَنْهَلًا"
+second: "ثُمَّ وَجَّهْنَ لِأَرْضٍ تُنْتَجَعْ"
+vocabulary:
+  - term: "غِشَاشًا"
+    text: "يقول محققا «المفضليات»: «قليلا، أو بمعنى على عجل» [@mufaddaliyyat، ص194، الحاشية]."
+  - term: "مَنْهَلًا"
+    text: "يقول محققا «المفضليات»: «المشرب» [@mufaddaliyyat، ص194، الحاشية]."
+  - term: "تُنْتَجَعْ"
+    text: "يقول محققا «المفضليات»: «تقصد للكلأ» [@mufaddaliyyat، ص194، الحاشية]."
+sources:
+  - source: "mufaddaliyyat"
+    loc: "ص194"
+    url: "https://shamela.ws/book/6904/168"
+  - source: "mufaddaliyyat"
+    loc: "ص194، الحاشية"
+    url: "https://shamela.ws/book/6904/168"
+status: "review"

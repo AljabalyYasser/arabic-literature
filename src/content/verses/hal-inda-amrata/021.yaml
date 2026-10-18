@@ -1,0 +1,20 @@
+explained: false
+first: "تَئِقٍ كَجُلْمُودِ الْقِذَافِ وَنَثْرَةٍ"
+second: "ثَقْفٍ وَعَرَّاصِ الْمَهَزَّةِ عَاتِرِ"
+vocabulary:
+  - term: "تَئِقٍ"
+    text: "ممتلئ نشاطًا [@mufaddaliyyat، ص131، الحاشية]."
+  - term: "كَجُلْمُودِ الْقِذَافِ"
+    text: "الجلمود الصخر، وجلمود القِذاف الصخرة تطيق حملها بيدك وتقذف بها [@mufaddaliyyat، ص131، الحاشية]."
+  - term: "وَنَثْرَةٍ ثَقْفٍ"
+    text: "النثرة الدرع السابغة، وثَقْف يريد أن السهام لا تعلق بها [@mufaddaliyyat، ص131، الحاشية]."
+  - term: "وَعَرَّاصِ الْمَهَزَّةِ عَاتِرِ"
+    text: "العرّاص الكثير الاضطراب، يعني رمحًا، والعاتر الصلب الشديد [@mufaddaliyyat، ص131، الحاشية]."
+sources:
+  - source: "mufaddaliyyat"
+    loc: "ص131"
+    url: "https://shamela.ws/book/6904/105"
+  - source: "mufaddaliyyat"
+    loc: "ص131، الحاشية"
+    url: "https://archive.org/details/20240818_20240818_1710/page/n130/mode/1up"
+status: "review"

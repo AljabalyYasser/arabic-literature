@@ -1,0 +1,16 @@
+explained: false
+first: "وَتَزَوَّدَتْ عَيْنِي غَدَاةَ لَقِيتُهَا"
+second: "بِلِوَى الْبُنَيْنَةِ نَظْرَةً لَمْ تُقْلِعِ"
+vocabulary:
+  - term: "بِلِوَى الْبُنَيْنَةِ"
+    text: "اللِّوى منعطف الرمل، والبُنَيْنة موضع، كما في حاشية المحققين [@mufaddaliyyat، ص44، الحاشية]."
+  - term: "لَمْ تُقْلِعِ"
+    text: "لم تكفّ، أي نظرة لم ينقطع أثرها [@mufaddaliyyat، ص44، الحاشية]."
+sources:
+  - source: "mufaddaliyyat"
+    loc: "ص44"
+    url: "https://shamela.ws/book/6904/18"
+  - source: "mufaddaliyyat"
+    loc: "ص44، الحاشية"
+    url: "https://archive.org/details/20240818_20240818_1710/page/n43/mode/1up"
+status: "review"

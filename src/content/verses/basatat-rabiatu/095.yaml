@@ -1,0 +1,16 @@
+explained: false
+first: "بِنِبَالٍ كُلُّهَا مَذْرُوبَةٌ"
+second: "لَمْ يُطِقْ صَنْعَتَهَا إِلَّا صَنَعْ"
+vocabulary:
+  - term: "مَذْرُوبَةٌ"
+    text: "يقول محققا «المفضليات»: «محددة» [@mufaddaliyyat، ص201، الحاشية]."
+  - term: "صَنَعْ"
+    text: "يقول محققا «المفضليات»: «الحاذق الرفيق» [@mufaddaliyyat، ص201، الحاشية]."
+sources:
+  - source: "mufaddaliyyat"
+    loc: "ص201"
+    url: "https://shamela.ws/book/6904/175"
+  - source: "mufaddaliyyat"
+    loc: "ص201، الحاشية"
+    url: "https://shamela.ws/book/6904/175"
+status: "review"

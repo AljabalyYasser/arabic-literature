@@ -1,0 +1,18 @@
+explained: false
+first: "بَكَرَتْ مُزْمِعَةً نِيَّتَهَا"
+second: "وَحَدَا الحَادِي بِهَا ثُمَّ انْدَفَعْ"
+vocabulary:
+  - term: "مُزْمِعَةً"
+    text: "يقول محققا «المفضليات»: «المزمع: المجمع على الأمر الجاد فيه» [@mufaddaliyyat، ص196، الحاشية]."
+  - term: "نِيَّتَهَا"
+    text: "يقول محققا «المفضليات»: «حيث تنوي» [@mufaddaliyyat، ص196، الحاشية]."
+  - term: "وَحَدَا"
+    text: "يقول محققا «المفضليات»: «ساق» [@mufaddaliyyat، ص196، الحاشية]."
+sources:
+  - source: "mufaddaliyyat"
+    loc: "ص196"
+    url: "https://shamela.ws/book/6904/170"
+  - source: "mufaddaliyyat"
+    loc: "ص196، الحاشية"
+    url: "https://shamela.ws/book/6904/170"
+status: "review"

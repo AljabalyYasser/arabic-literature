@@ -1,0 +1,20 @@
+explained: false
+first: "مُسْتَسِرُّ الشَّنْءِ لَوْ يَفْقِدُنِي"
+second: "لَبَدَا مِنْهُ ذُبَابٌ فَنَبَعْ"
+vocabulary:
+  - term: "الشَّنْءِ"
+    text: "يقول محققا «المفضليات»: «مثلث الشين: البغض» [@mufaddaliyyat، ص198، الحاشية]."
+  - term: "ذُبَابٌ"
+    text: "يقول محققا «المفضليات»: «الشر والأذى» [@mufaddaliyyat، ص198، الحاشية]."
+  - term: "فَنَبَعْ"
+    text: "يقول محققا «المفضليات»: «ظهر» [@mufaddaliyyat، ص198، الحاشية]."
+  - term: "مُسْتَسِرُّ الشَّنْءِ"
+    text: "يقول محققا «المفضليات»: «يريد أنه يضمر بغضه، فإذا غاب عنه أظهره» [@mufaddaliyyat، ص198، الحاشية]."
+sources:
+  - source: "mufaddaliyyat"
+    loc: "ص198"
+    url: "https://shamela.ws/book/6904/172"
+  - source: "mufaddaliyyat"
+    loc: "ص198، الحاشية"
+    url: "https://shamela.ws/book/6904/172"
+status: "review"

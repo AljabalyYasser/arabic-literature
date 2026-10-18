@@ -1,0 +1,20 @@
+explained: false
+first: "مِنْ كُلِّ حَتٍّ إِذَا مَا ابْتَلَّ مُلْبَدُهُ"
+second: "صَافِي الْأَدِيمِ أَسِيلِ الْخَدِّ يَعْبُوبِ"
+vocabulary:
+  - term: "حَتٍّ"
+    text: "سريع [@mufaddaliyyat، ص121، الحاشية]."
+  - term: "مُلْبَدُهُ"
+    text: "موضع اللِّبد من ظهر الفرس، وابتلاله بالعرق [@mufaddaliyyat، ص121، الحاشية]."
+  - term: "صَافِي الْأَدِيمِ"
+    text: "صفا جلده لحسن القيام عليه وقصر شعره [@mufaddaliyyat، ص121، الحاشية]."
+  - term: "يَعْبُوبِ"
+    text: "كثير الجري، وهو في حاشية المحققين مشتق من عُباب البحر، وهو ارتفاع موجه [@mufaddaliyyat، ص121، الحاشية]."
+sources:
+  - source: "mufaddaliyyat"
+    loc: "ص121"
+    url: "https://shamela.ws/book/6904/95"
+  - source: "mufaddaliyyat"
+    loc: "ص121، الحاشية"
+    url: "https://archive.org/details/20240818_20240818_1710/page/n120/mode/1up"
+status: "review"

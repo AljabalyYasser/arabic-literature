@@ -1,0 +1,16 @@
+explained: false
+first: "يَسْحَبُ اللَّيْلُ نُجُومًا ظُلَّعًا"
+second: "فَتَوَالِيهَا بَطِيئَاتُ التَّبَعْ"
+vocabulary:
+  - term: "ظُلَّعًا"
+    text: "يقول محققا «المفضليات»: «من الظلع والظلوع، وهو العرج والغمز في المشي، كنى بذلك عن شدة بطئها، فكأن الليل يجرها جرا» [@mufaddaliyyat، ص192، الحاشية]."
+  - term: "فَتَوَالِيهَا"
+    text: "يقول محققا «المفضليات»: «التوالي: الأواخر، واحدها تالية» [@mufaddaliyyat، ص192، الحاشية]."
+sources:
+  - source: "mufaddaliyyat"
+    loc: "ص192"
+    url: "https://shamela.ws/book/6904/166"
+  - source: "mufaddaliyyat"
+    loc: "ص192، الحاشية"
+    url: "https://shamela.ws/book/6904/166"
+status: "review"

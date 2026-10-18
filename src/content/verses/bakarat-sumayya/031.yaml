@@ -1,0 +1,21 @@
+explained: false
+first: "وَمَتَاعِ ذِعْلِبَةٍ تَخُبُّ بِرَاكِبٍ"
+second: "مَاضٍ بِشِيعَتِهِ وَغَيْرِ مُشَيَّعِ"
+vocabulary:
+  - term: "ذِعْلِبَةٍ"
+    text: "الناقة السريعة [@mufaddaliyyat، ص48، الحاشية]."
+  - term: "تَخُبُّ"
+    text: "من الخَبَب، وهو ضرب من العَدْو [@mufaddaliyyat، ص48، الحاشية]."
+  - term: "وَغَيْرِ مُشَيَّعِ"
+    text: "ماضٍ مع أصحابه وحده، لا يحتاج إلى من يشجّعه. «والمُشَيَّعُ: الشُّجاعُ»، سُمّي بذلك «لأَنَّ قَلْبَه لَا يَخْذُلُه فكأَنَّه يُشَيِّعُه» [@lisan، ج8 ص189]."
+sources:
+  - source: "mufaddaliyyat"
+    loc: "ص48"
+    url: "https://shamela.ws/book/6904/22"
+  - source: "mufaddaliyyat"
+    loc: "ص48، الحاشية"
+    url: "https://archive.org/details/20240818_20240818_1710/page/n47/mode/1up"
+  - source: "lisan"
+    loc: "ج8 ص189"
+    url: "https://shamela.ws/book/1687/4037"
+status: "review"

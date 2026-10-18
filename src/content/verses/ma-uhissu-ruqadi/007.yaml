@@ -1,0 +1,18 @@
+explained: false
+first: "لَنْ يَرْضَيَا مِنِّي وَفَاءَ رَهِينَةٍ"
+second: "مِنْ دُونِ نَفْسِي طَارِفِي وَتِلَادِي"
+vocabulary:
+  - term: "رَهِينَةٍ"
+    text: "يقول محققا «المفضليات»: «الرهن» [@mufaddaliyyat، ص216، الحاشية]."
+  - term: "طَارِفِي"
+    text: "يقول محققا «المفضليات»: «ما استحدث من المال» [@mufaddaliyyat، ص216، الحاشية]."
+  - term: "لَنْ يَرْضَيَا مِنِّي وَفَاءَ رَهِينَةٍ"
+    text: "يقول محققا «المفضليات»: «يريد أن المنية لا تقبل منه فدية، إنما تطلب نفسه» [@mufaddaliyyat، ص216، الحاشية]."
+sources:
+  - source: "mufaddaliyyat"
+    loc: "ص216"
+    url: "https://shamela.ws/book/6904/190"
+  - source: "mufaddaliyyat"
+    loc: "ص216، الحاشية"
+    url: "https://shamela.ws/book/6904/190"
+status: "review"

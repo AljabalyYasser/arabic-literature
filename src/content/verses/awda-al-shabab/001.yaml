@@ -1,0 +1,18 @@
+explained: false
+first: "أَوْدَى الشَّبَابُ حَمِيدًا ذُو التَّعَاجِيبِ"
+second: "أَوْدَى وَذَلِكَ شَأْوٌ غَيْرُ مَطْلُوبِ"
+vocabulary:
+  - term: "أَوْدَى"
+    text: "هلك، وأراد: ذهب، وكرّرها تفجّعًا وتوكيدًا [@mufaddaliyyat، ص119، الحاشية]."
+  - term: "ذُو التَّعَاجِيبِ"
+    text: "كثير العجب، يعجب الناظرين ويروقهم، والتعاجيب جمع لا واحد له [@mufaddaliyyat، ص119، الحاشية]."
+  - term: "شَأْوٌ غَيْرُ مَطْلُوبِ"
+    text: "الشأو السَّبْق: ذهاب الشباب سبقٌ لا يُدرك ولا يُطلب [@mufaddaliyyat، ص119، الحاشية]."
+sources:
+  - source: "mufaddaliyyat"
+    loc: "ص119"
+    url: "https://shamela.ws/book/6904/93"
+  - source: "mufaddaliyyat"
+    loc: "ص119، الحاشية"
+    url: "https://archive.org/details/20240818_20240818_1710/page/n118/mode/1up"
+status: "review"

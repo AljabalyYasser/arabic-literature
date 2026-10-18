@@ -1,0 +1,20 @@
+explained: false
+first: "وَمُغِيرَةٍ سَوْمَ الْجَرَادِ وَزَعْتُهَا"
+second: "قَبْلَ الصَّبَاحِ بِشَيِّئَانٍ ضَامِرِ"
+vocabulary:
+  - term: "وَمُغِيرَةٍ"
+    text: "قوم يُغيرون [@mufaddaliyyat، ص131، الحاشية]."
+  - term: "سَوْمَ الْجَرَادِ"
+    text: "مضيّ الجراد، يصف كثرتهم واندفاعهم [@mufaddaliyyat، ص131، الحاشية]."
+  - term: "وَزَعْتُهَا"
+    text: "كففتها ورددتها [@mufaddaliyyat، ص131، الحاشية]."
+  - term: "بِشَيِّئَانٍ"
+    text: "الشديد النظر الكثير الاستشراف، وأراد به الفرس [@mufaddaliyyat، ص131، الحاشية]."
+sources:
+  - source: "mufaddaliyyat"
+    loc: "ص131"
+    url: "https://shamela.ws/book/6904/105"
+  - source: "mufaddaliyyat"
+    loc: "ص131، الحاشية"
+    url: "https://archive.org/details/20240818_20240818_1710/page/n130/mode/1up"
+status: "review"

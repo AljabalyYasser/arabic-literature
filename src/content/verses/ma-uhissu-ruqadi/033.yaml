@@ -1,0 +1,22 @@
+explained: false
+first: "يَشْوِي لَنَا الوَحَدَ المُدِلَّ بِحُضْرِهِ"
+second: "بِشَرِيجِ بَيْنِ الشَّدِّ وَالإِيرَادِ"
+vocabulary:
+  - term: "الوَحَدَ"
+    text: "يقول محققا «المفضليات»: «بفتحتين: الثور أو الحمار الذي ليس مثله شيء من حسنه» [@mufaddaliyyat، ص220، الحاشية]."
+  - term: "المُدِلَّ"
+    text: "يقول محققا «المفضليات»: «المفتخر المباهي» [@mufaddaliyyat، ص220، الحاشية]."
+  - term: "بِحُضْرِهِ"
+    text: "يقول محققا «المفضليات»: «بعدوه» [@mufaddaliyyat، ص220، الحاشية]."
+  - term: "بِشَرِيجِ"
+    text: "يقول محققا «المفضليات»: «الخلط» [@mufaddaliyyat، ص220، الحاشية]."
+  - term: "وَالإِيرَادِ"
+    text: "يقول محققا «المفضليات»: «أشد الشد، يعني العدو» [@mufaddaliyyat، ص220، الحاشية]."
+sources:
+  - source: "mufaddaliyyat"
+    loc: "ص220"
+    url: "https://shamela.ws/book/6904/194"
+  - source: "mufaddaliyyat"
+    loc: "ص220، الحاشية"
+    url: "https://shamela.ws/book/6904/194"
+status: "review"

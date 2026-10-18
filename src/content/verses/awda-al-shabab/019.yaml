@@ -1,0 +1,20 @@
+explained: false
+first: "تَظَاهَرَ النِّيُّ فِيهِ فَهْوَ مُحْتَفِلٌ"
+second: "يُعْطِي أَسَاهِيَّ مِنْ جَرْيٍ وَتَقْرِيبِ"
+vocabulary:
+  - term: "تَظَاهَرَ النِّيُّ"
+    text: "النِّيّ الشحم، وتظاهره ركوب بعضه بعضًا [@mufaddaliyyat، ص122، الحاشية]."
+  - term: "مُحْتَفِلٌ"
+    text: "كثير مجتمع [@mufaddaliyyat، ص122، الحاشية]."
+  - term: "أَسَاهِيَّ"
+    text: "ضروب وفنون من العدو، لا واحد لها [@mufaddaliyyat، ص122، الحاشية]."
+  - term: "تَقْرِيبِ"
+    text: "ضرب من العدو دون الجري [@mufaddaliyyat، ص122، الحاشية]."
+sources:
+  - source: "mufaddaliyyat"
+    loc: "ص122"
+    url: "https://shamela.ws/book/6904/96"
+  - source: "mufaddaliyyat"
+    loc: "ص122، الحاشية"
+    url: "https://archive.org/details/20240818_20240818_1710/page/n121/mode/1up"
+status: "review"

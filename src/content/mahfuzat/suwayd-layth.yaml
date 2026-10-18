@@ -1,0 +1,16 @@
+kind: "bayt"
+title: "هل سويد غير ليث خادر"
+part: "1"
+order: 268
+person: "suwayd-ibn-abi-kahil"
+verses:
+  - "basatat-rabiatu/108"
+meaning: "ما سويد إلا أسد في عرينه، إذا ساءت عليه أرض تركها إلى غيرها. وهو آخر «اليتيمة» في رواية المفضليات، ومما تمثّل به الحجّاج [@ibn-qutayba، ج1 ص411]."
+sources:
+  - source: "mufaddaliyyat"
+    loc: "ص202"
+    url: "https://shamela.ws/book/6904/176"
+  - source: "ibn-qutayba"
+    loc: "ج1 ص411"
+    url: "https://shamela.ws/book/23785/404"
+status: "review"

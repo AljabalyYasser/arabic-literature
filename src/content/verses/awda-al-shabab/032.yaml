@@ -1,0 +1,16 @@
+explained: false
+first: "قَوْمٌ إِذَا صَرَّحَتْ كَحْلُ بُيُوتُهُمُ"
+second: "عِزُّ الذَّلِيلِ وَمَأْوَى كُلِّ قُرْضُوبِ"
+vocabulary:
+  - term: "صَرَّحَتْ كَحْلُ"
+    text: "كَحْل اسم للسنة الشديدة المجدبة، وصرّحت: خلصت فليس فيها شيء من الخصب [@mufaddaliyyat، ص123، الحاشية]."
+  - term: "قُرْضُوبِ"
+    text: "الفقير [@mufaddaliyyat، ص123، الحاشية]."
+sources:
+  - source: "mufaddaliyyat"
+    loc: "ص123"
+    url: "https://shamela.ws/book/6904/97"
+  - source: "mufaddaliyyat"
+    loc: "ص123، الحاشية"
+    url: "https://archive.org/details/20240818_20240818_1710/page/n122/mode/1up"
+status: "review"

@@ -1,0 +1,16 @@
+explained: false
+first: "حُرَّةٌ تَجْلُو شَتِيتًا وَاضِحًا"
+second: "كَشُعَاعِ الشَّمْسِ فِي الغَيْمِ سَطَعْ"
+vocabulary:
+  - term: "شَتِيتًا"
+    text: "يقول محققا «المفضليات»: «المتفرق، أراد أسنانها المتفلجة» [@mufaddaliyyat، ص191، الحاشية]."
+  - term: "وَاضِحًا"
+    text: "يقول محققا «المفضليات»: «الأبيض» [@mufaddaliyyat، ص191، الحاشية]."
+sources:
+  - source: "mufaddaliyyat"
+    loc: "ص191"
+    url: "https://shamela.ws/book/6904/165"
+  - source: "mufaddaliyyat"
+    loc: "ص191، الحاشية"
+    url: "https://shamela.ws/book/6904/165"
+status: "review"

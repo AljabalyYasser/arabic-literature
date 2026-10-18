@@ -1,0 +1,16 @@
+explained: false
+first: "يُنْجِيهِمُ مِنْ دَوَاهِي الشَّرِّ إِنْ أَزَمَتْ"
+second: "صَبْرٌ عَلَيْهَا وَقِبْصٌ غَيْرُ مَحْسُوبِ"
+vocabulary:
+  - term: "أَزَمَتْ"
+    text: "عضّت [@mufaddaliyyat، ص123، الحاشية]."
+  - term: "وَقِبْصٌ غَيْرُ مَحْسُوبِ"
+    text: "القِبص العدد الكثير، لا يُعدّ من كثرته [@mufaddaliyyat، ص123، الحاشية]."
+sources:
+  - source: "mufaddaliyyat"
+    loc: "ص123"
+    url: "https://shamela.ws/book/6904/97"
+  - source: "mufaddaliyyat"
+    loc: "ص123، الحاشية"
+    url: "https://archive.org/details/20240818_20240818_1710/page/n122/mode/1up"
+status: "review"

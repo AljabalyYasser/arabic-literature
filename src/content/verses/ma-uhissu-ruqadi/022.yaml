@@ -1,0 +1,16 @@
+explained: false
+first: "وَلَقَدْ لَهَوْتُ وَلِلشَّبَابِ لَذَاذَةٌ"
+second: "بِسُلَافَةٍ مُزِجَتْ بِمَاءِ غَوَادِي"
+vocabulary:
+  - term: "بِسُلَافَةٍ"
+    text: "يقول محققا «المفضليات»: «خالص الشراب وأوله» [@mufaddaliyyat، ص218، الحاشية]."
+  - term: "غَوَادِي"
+    text: "يقول محققا «المفضليات»: «السحاب ينشأ غدوة» [@mufaddaliyyat، ص218، الحاشية]."
+sources:
+  - source: "mufaddaliyyat"
+    loc: "ص218"
+    url: "https://shamela.ws/book/6904/192"
+  - source: "mufaddaliyyat"
+    loc: "ص218، الحاشية"
+    url: "https://shamela.ws/book/6904/192"
+status: "review"

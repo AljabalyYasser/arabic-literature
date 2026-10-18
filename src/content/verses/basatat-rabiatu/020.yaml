@@ -1,0 +1,20 @@
+explained: false
+first: "كَمْ قَطَعْنَا دُونَ سَلْمَى مَهْمَهًا"
+second: "نَازِحَ الغَوْرِ إِذَا الآلُ لَمَعْ"
+vocabulary:
+  - term: "مَهْمَهًا"
+    text: "يقول محققا «المفضليات»: «القفر» [@mufaddaliyyat، ص193، الحاشية]."
+  - term: "نَازِحَ"
+    text: "يقول محققا «المفضليات»: «البعيد» [@mufaddaliyyat، ص193، الحاشية]."
+  - term: "الغَوْرِ"
+    text: "يقول محققا «المفضليات»: «معظم بعده» [@mufaddaliyyat، ص193، الحاشية]."
+  - term: "الآلُ"
+    text: "يقول محققا «المفضليات»: «السراب» [@mufaddaliyyat، ص193، الحاشية]."
+sources:
+  - source: "mufaddaliyyat"
+    loc: "ص193"
+    url: "https://shamela.ws/book/6904/167"
+  - source: "mufaddaliyyat"
+    loc: "ص193، الحاشية"
+    url: "https://shamela.ws/book/6904/167"
+status: "review"

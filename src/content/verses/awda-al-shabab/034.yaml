@@ -1,0 +1,16 @@
+explained: false
+first: "كُنَّا نَحُلُّ إِذَا هَبَّتْ شَآمِيَةً"
+second: "بِكُلِّ وَادٍ حَطِيبِ الْجَوْفِ مَجْدُوبِ"
+vocabulary:
+  - term: "شَآمِيَةً"
+    text: "ريح الشمال، تهبّ من ناحية الشام [@mufaddaliyyat، ص124، الحاشية]."
+  - term: "حَطِيبِ الْجَوْفِ مَجْدُوبِ"
+    text: "وادٍ كثير الحطب، والمجدوب هنا المعيب المذموم: ننزل في الجدب بالأودية الكثيرة الحطب لنعقر ونطبخ، ولا نبالي أن يكون المنزل مذمومًا [@mufaddaliyyat، ص124، الحاشية]."
+sources:
+  - source: "mufaddaliyyat"
+    loc: "ص124"
+    url: "https://shamela.ws/book/6904/98"
+  - source: "mufaddaliyyat"
+    loc: "ص124، الحاشية"
+    url: "https://archive.org/details/20240818_20240818_1710/page/n123/mode/1up"
+status: "review"

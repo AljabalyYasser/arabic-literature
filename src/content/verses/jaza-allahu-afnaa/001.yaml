@@ -1,0 +1,18 @@
+explained: false
+first: "جَزَى اللَّهُ أَفْنَاءَ العَشِيرَةِ كُلِّهَا"
+second: "بِدَارَةِ مَوْضُوعٍ عُقُوقًا وَمَأْثَمَا"
+vocabulary:
+  - term: "أَفْنَاءَ العَشِيرَةِ"
+    text: "يقول محققا «المفضليات»: «القوم النزاع من ههنا وههنا لا يدرى من أي قبيل هم» [@mufaddaliyyat، ص64، الحاشية]."
+  - term: "بِدَارَةِ مَوْضُوعٍ"
+    text: "يقول محققا «المفضليات»: «مكان كانت فيه الوقعة» [@mufaddaliyyat، ص64، الحاشية]."
+  - term: "عُقُوقًا وَمَأْثَمَا"
+    text: "يقول محققا «المفضليات»: «جزاء عقوقهم وإثمهم» [@mufaddaliyyat، ص64، الحاشية]."
+sources:
+  - source: "mufaddaliyyat"
+    loc: "ص64"
+    url: "https://shamela.ws/book/6904/38"
+  - source: "mufaddaliyyat"
+    loc: "ص64، الحاشية"
+    url: "https://shamela.ws/book/6904/38"
+status: "review"

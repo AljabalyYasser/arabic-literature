@@ -1,0 +1,16 @@
+explained: false
+first: "فَتَرَاهَا عُصُفًا مُنْعَلَةً"
+second: "بِنِعَالِ القَيْنِ يَكْفِيهَا الوَقَعْ"
+vocabulary:
+  - term: "عُصُفًا"
+    text: "يقول محققا «المفضليات»: «السريعة في السير، من عصفت الريح» [@mufaddaliyyat، ص193، الحاشية]."
+  - term: "الوَقَعْ"
+    text: "يقول محققا «المفضليات»: «بفتحتين: الحفا من المشي على الحجارة» [@mufaddaliyyat، ص193، الحاشية]."
+sources:
+  - source: "mufaddaliyyat"
+    loc: "ص193"
+    url: "https://shamela.ws/book/6904/167"
+  - source: "mufaddaliyyat"
+    loc: "ص193، الحاشية"
+    url: "https://shamela.ws/book/6904/167"
+status: "review"

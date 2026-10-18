@@ -1,0 +1,16 @@
+explained: false
+first: "أَرْضًا تَخَيَّرَهَا لِدَارِ أَبِيهِمُ"
+second: "كَعْبُ بْنُ مَامَةَ وَابْنُ أُمِّ دُؤَادِ"
+vocabulary:
+  - term: "كَعْبُ بْنُ مَامَةَ"
+    text: "يقول محققا «المفضليات»: «هو الإيادي، أحد أجواد العرب في الجاهلية» [@mufaddaliyyat، ص217، الحاشية]."
+  - term: "وَابْنُ أُمِّ دُؤَادِ"
+    text: "يقول محققا «المفضليات»: «نقل الأنباري عن أحمد بن عبيد أنه يعني به أبا دؤاد الإيادي، وهو الشاعر المعروف» [@mufaddaliyyat، ص217، الحاشية]."
+sources:
+  - source: "mufaddaliyyat"
+    loc: "ص217"
+    url: "https://shamela.ws/book/6904/191"
+  - source: "mufaddaliyyat"
+    loc: "ص217، الحاشية"
+    url: "https://shamela.ws/book/6904/191"
+status: "review"

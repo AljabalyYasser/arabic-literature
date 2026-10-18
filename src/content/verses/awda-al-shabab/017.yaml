@@ -1,0 +1,16 @@
+explained: false
+first: "كَأَنَّهُ يَرْفَئِيٌّ نَامَ عَنْ غَنَمٍ"
+second: "مُسْتَنْفِرٌ فِي سَوَادِ اللَّيْلِ مَذْؤُوبُ"
+vocabulary:
+  - term: "يَرْفَئِيٌّ"
+    text: "راعي الغنم [@mufaddaliyyat، ص121، الحاشية]."
+  - term: "مَذْؤُوبُ"
+    text: "جاءه الذئب. شبّه فرسه في حدّته وطموح بصره براعٍ نام عن غنمه حتى وقعت فيها الذئاب، فقام مذعورًا [@mufaddaliyyat، ص121، الحاشية]."
+sources:
+  - source: "mufaddaliyyat"
+    loc: "ص121"
+    url: "https://shamela.ws/book/6904/95"
+  - source: "mufaddaliyyat"
+    loc: "ص121، الحاشية"
+    url: "https://archive.org/details/20240818_20240818_1710/page/n120/mode/1up"
+status: "review"

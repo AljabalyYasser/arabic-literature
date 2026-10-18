@@ -1,0 +1,16 @@
+explained: false
+first: "لَا أَهْتَدِي فِيهَا لِمَوْضِعِ تَلْعَةٍ"
+second: "بَيْنَ العِرَاقِ وَبَيْنَ أَرْضِ مُرَادِ"
+vocabulary:
+  - term: "تَلْعَةٍ"
+    text: "يقول محققا «المفضليات»: «ما ارتفع من الأرض وما انخفض» [@mufaddaliyyat، ص216، الحاشية]."
+  - term: "مُرَادِ"
+    text: "يقول محققا «المفضليات»: «قبيلة باليمن» [@mufaddaliyyat، ص216، الحاشية]."
+sources:
+  - source: "mufaddaliyyat"
+    loc: "ص216"
+    url: "https://shamela.ws/book/6904/190"
+  - source: "mufaddaliyyat"
+    loc: "ص216، الحاشية"
+    url: "https://shamela.ws/book/6904/190"
+status: "review"

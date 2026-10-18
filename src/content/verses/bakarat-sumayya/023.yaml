@@ -1,0 +1,18 @@
+explained: false
+first: "أَوْدَى السِّفَارُ بِرِمِّهَا فَتَخَالُهَا"
+second: "هِيمًا مُقَطَّعَةً حِبَالُ الْأَذْرُعِ"
+vocabulary:
+  - term: "أَوْدَى السِّفَارُ بِرِمِّهَا"
+    text: "ذهب السفر بمخّ عظامها، أي بلحومها وشحومها [@mufaddaliyyat، ص47، الحاشية]."
+  - term: "هِيمًا"
+    text: "جمع هيماء، من الهُيام، وهو داء يأخذ الإبل تشرب فلا تروى [@mufaddaliyyat، ص47، الحاشية]."
+  - term: "مُقَطَّعَةً حِبَالُ الْأَذْرُعِ"
+    text: "كأنها مقطّعة العروق، ما تقدر على المشي [@mufaddaliyyat، ص47، الحاشية]."
+sources:
+  - source: "mufaddaliyyat"
+    loc: "ص47"
+    url: "https://shamela.ws/book/6904/21"
+  - source: "mufaddaliyyat"
+    loc: "ص47، الحاشية"
+    url: "https://archive.org/details/20240818_20240818_1710/page/n46/mode/1up"
+status: "review"

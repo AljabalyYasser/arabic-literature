@@ -1,0 +1,21 @@
+explained: false
+first: "وَنَقِي بِآمِنِ مَالِنَا أَحْسَابَنَا"
+second: "وَنُجِرُّ فِي الْهَيْجَا الرِّمَاحَ وَنَدَّعِي"
+vocabulary:
+  - term: "بِآمِنِ مَالِنَا"
+    text: "بأوثق أموالنا وأنفسها، أي نجود بأفضل ما نملك لنقي به أعراضنا [@mufaddaliyyat، ص45، الحاشية]."
+  - term: "وَنُجِرُّ الرِّمَاحَ"
+    text: "نطعن ونترك الرمح في المطعون. «وَيُقَالُ: أَجَرَّ الرمحَ إِذا طَعَنَهُ وَتَرَكَ الرُّمْحَ فِيهِ» [@lisan، ج4 ص128]، وأنشد البيت."
+  - term: "وَنَدَّعِي"
+    text: "ننتسب: كان العربي إذا ضرب أو طعن قال «خذها وأنا ابن فلان»، فيذكر أباه أو قبيلته ليُعرف [@mufaddaliyyat، ص45، الحاشية]."
+sources:
+  - source: "mufaddaliyyat"
+    loc: "ص45"
+    url: "https://shamela.ws/book/6904/19"
+  - source: "mufaddaliyyat"
+    loc: "ص45، الحاشية"
+    url: "https://archive.org/details/20240818_20240818_1710/page/n44/mode/1up"
+  - source: "lisan"
+    loc: "ج4 ص128"
+    url: "https://shamela.ws/book/1687/2088"
+status: "review"

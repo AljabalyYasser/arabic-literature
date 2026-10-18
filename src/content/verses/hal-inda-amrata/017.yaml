@@ -1,0 +1,18 @@
+explained: false
+first: "بَاكَرْتُهُمْ بِسِبَاءِ جَوْنٍ ذَارِعٍ"
+second: "قَبْلَ الصَّبَاحِ وَقَبْلَ لَغْوِ الطَّائِرِ"
+vocabulary:
+  - term: "بِسِبَاءِ"
+    text: "السِّباء اشتراء الخمر [@mufaddaliyyat، ص130، الحاشية]."
+  - term: "جَوْنٍ ذَارِعٍ"
+    text: "الجَوْن الأسود، وأراد زِقّ الخمر، والذارع الكثير الأخذ من الماء ونحوه [@mufaddaliyyat، ص130، الحاشية]."
+  - term: "لَغْوِ الطَّائِرِ"
+    text: "صياح الطير في أول الصبح."
+sources:
+  - source: "mufaddaliyyat"
+    loc: "ص130"
+    url: "https://shamela.ws/book/6904/104"
+  - source: "mufaddaliyyat"
+    loc: "ص130، الحاشية"
+    url: "https://archive.org/details/20240818_20240818_1710/page/n129/mode/1up"
+status: "review"

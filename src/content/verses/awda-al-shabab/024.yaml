@@ -1,0 +1,18 @@
+explained: false
+first: "بِالْمَشْرَفِيِّ وَمَصْقُولٍ أَسِنَّتُهَا"
+second: "صُمِّ الْعَوَامِلِ صَدْقَاتِ الْأَنَابِيبِ"
+vocabulary:
+  - term: "بِالْمَشْرَفِيِّ"
+    text: "السيف، منسوب إلى المشارف، قرى من أرض العرب."
+  - term: "صُمِّ الْعَوَامِلِ"
+    text: "العوامل أعالي الرماح، وصُمّ: غير مجوّفة [@mufaddaliyyat، ص122، الحاشية]."
+  - term: "صَدْقَاتِ الْأَنَابِيبِ"
+    text: "صلبة ما بين عُقَد الرمح [@mufaddaliyyat، ص122، الحاشية]."
+sources:
+  - source: "mufaddaliyyat"
+    loc: "ص122"
+    url: "https://shamela.ws/book/6904/96"
+  - source: "mufaddaliyyat"
+    loc: "ص122، الحاشية"
+    url: "https://archive.org/details/20240818_20240818_1710/page/n121/mode/1up"
+status: "review"

@@ -1,0 +1,18 @@
+explained: false
+first: "وَبِمُقْلَتَيْ حَوْرَاءَ تَحْسِبُ طَرْفَهَا"
+second: "وَسْنَانَ حُرَّةِ مُسْتَهَلِّ الْأَدْمُعِ"
+vocabulary:
+  - term: "حَوْرَاءَ"
+    text: "من الحَوَر، وهو في حاشية المحققين شدة سواد العين مع شدة بياضها [@mufaddaliyyat، ص44، الحاشية]."
+  - term: "وَسْنَانَ"
+    text: "به سِنة، وهي النعاس: تظن في عينها نعاسًا، والفتور في النظر مما يوصف به النساء [@mufaddaliyyat، ص44، الحاشية]."
+  - term: "حُرَّةِ مُسْتَهَلِّ الْأَدْمُعِ"
+    text: "المستهلّ مجرى الدمع، والمعنى عند المحققين أنها حرّة الوجه كريمته [@mufaddaliyyat، ص44، الحاشية]."
+sources:
+  - source: "mufaddaliyyat"
+    loc: "ص44"
+    url: "https://shamela.ws/book/6904/18"
+  - source: "mufaddaliyyat"
+    loc: "ص44، الحاشية"
+    url: "https://archive.org/details/20240818_20240818_1710/page/n43/mode/1up"
+status: "review"

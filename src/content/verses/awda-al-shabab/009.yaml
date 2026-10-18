@@ -1,0 +1,16 @@
+explained: false
+first: "دَعْ ذَا وَقُلْ لِبَنِي سَعْدٍ لِفَضْلِهِمُ"
+second: "مَدْحًا يَسِيرُ بِهِ غَادِي الْأَرَاكِيبِ"
+vocabulary:
+  - term: "بَنِي سَعْدٍ"
+    text: "قوم الشاعر، بنو سعد بن زيد مناة من تميم."
+  - term: "غَادِي الْأَرَاكِيبِ"
+    text: "الغادي الذاهب في الغداة، والأراكيب جمع أُرْكوب، وهو أكثر عددًا من الرَّكْب [@mufaddaliyyat، ص120، الحاشية]."
+sources:
+  - source: "mufaddaliyyat"
+    loc: "ص120"
+    url: "https://shamela.ws/book/6904/94"
+  - source: "mufaddaliyyat"
+    loc: "ص120، الحاشية"
+    url: "https://archive.org/details/20240818_20240818_1710/page/n119/mode/1up"
+status: "review"

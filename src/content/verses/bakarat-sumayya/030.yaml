@@ -1,0 +1,18 @@
+explained: false
+first: "فَتَرَى بِحَيْثُ تَوَكَّأَتْ ثَفِنَاتُهَا"
+second: "أَثَرًا كَمُفْتَحَصِ الْقَطَا لِلْمَهْجَعِ"
+vocabulary:
+  - term: "ثَفِنَاتُهَا"
+    text: "ما يلي الأرض من قوائم الناقة إذا بركت، وهي مواصل الذراعين والعضدين من باطن [@mufaddaliyyat، ص48، الحاشية]."
+  - term: "كَمُفْتَحَصِ الْقَطَا"
+    text: "الموضع الذي يفحص فيه القطا الأرض لبيضه. شبّه آثار ثفناتها به لصغرها، لأن نجائب الإبل تصغر ثفناتها [@mufaddaliyyat، ص48، الحاشية]."
+  - term: "لِلْمَهْجَعِ"
+    text: "موضع الهجوع، وهو النوم ليلًا [@mufaddaliyyat، ص48، الحاشية]."
+sources:
+  - source: "mufaddaliyyat"
+    loc: "ص48"
+    url: "https://shamela.ws/book/6904/22"
+  - source: "mufaddaliyyat"
+    loc: "ص48، الحاشية"
+    url: "https://archive.org/details/20240818_20240818_1710/page/n47/mode/1up"
+status: "review"

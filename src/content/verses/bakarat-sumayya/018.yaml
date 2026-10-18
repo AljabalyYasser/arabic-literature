@@ -1,0 +1,19 @@
+explained: false
+first: "مُتَبَطِّحِينَ عَلَى الْكَنِيفِ كَأَنَّهُمْ"
+second: "يَبْكُونَ حَوْلَ جِنَازَةٍ لَمْ تُرْفَعِ"
+vocabulary:
+  - term: "مُتَبَطِّحِينَ"
+    text: "مستلقين على وجوههم من السكر [@mufaddaliyyat، ص46، الحاشية]."
+  - term: "الْكَنِيفِ"
+    text: "«حَظيرة مِنْ خَشَبٍ أَو شَجَرٍ تُتَّخَذُ للإِبل لتقِيَها الرِّيحَ وَالْبَرْدَ» [@lisan، ج9 ص309]."
+sources:
+  - source: "mufaddaliyyat"
+    loc: "ص46"
+    url: "https://shamela.ws/book/6904/20"
+  - source: "mufaddaliyyat"
+    loc: "ص46، الحاشية"
+    url: "https://archive.org/details/20240818_20240818_1710/page/n45/mode/1up"
+  - source: "lisan"
+    loc: "ج9 ص309"
+    url: "https://shamela.ws/book/1687/4616"
+status: "review"

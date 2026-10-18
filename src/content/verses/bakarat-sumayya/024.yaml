@@ -1,0 +1,18 @@
+explained: false
+first: "تَخِدُ الْفَيَافِيَ بِالرِّحَالِ وَكُلُّهَا"
+second: "يَعْدُو بِمُنْخَرِقِ الْقَمِيصِ سَمَيْدَعِ"
+vocabulary:
+  - term: "تَخِدُ"
+    text: "من الوَخْد، وهو أن يرمي البعير بقوائمه كمشي النعام [@mufaddaliyyat، ص47، الحاشية]."
+  - term: "الْفَيَافِيَ"
+    text: "القفار [@mufaddaliyyat، ص47، الحاشية]."
+  - term: "بِمُنْخَرِقِ الْقَمِيصِ سَمَيْدَعِ"
+    text: "السميدع الجميل الشجاع، وجعل قميصه ممزقًا لطول معاناته السفر [@mufaddaliyyat، ص47، الحاشية]."
+sources:
+  - source: "mufaddaliyyat"
+    loc: "ص47"
+    url: "https://shamela.ws/book/6904/21"
+  - source: "mufaddaliyyat"
+    loc: "ص47، الحاشية"
+    url: "https://archive.org/details/20240818_20240818_1710/page/n46/mode/1up"
+status: "review"

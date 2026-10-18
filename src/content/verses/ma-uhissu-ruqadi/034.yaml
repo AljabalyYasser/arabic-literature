@@ -1,0 +1,22 @@
+explained: false
+first: "وَلَقَدْ تَلَوْتُ الظَّاعِنِينَ بِجَسْرَةٍ"
+second: "أُجُدٍ مُهَاجِرَةِ السِّقَابِ جَمَادِ"
+vocabulary:
+  - term: "تَلَوْتُ"
+    text: "يقول محققا «المفضليات»: «تبعت» [@mufaddaliyyat، ص220، الحاشية]."
+  - term: "بِجَسْرَةٍ"
+    text: "يقول محققا «المفضليات»: «الناقة الشديدة التي تجسر على السير» [@mufaddaliyyat، ص220، الحاشية]."
+  - term: "أُجُدٍ"
+    text: "يقول محققا «المفضليات»: «بضمتين: الموثقة الخلق» [@mufaddaliyyat، ص220، الحاشية]."
+  - term: "مُهَاجِرَةِ السِّقَابِ"
+    text: "يقول محققا «المفضليات»: «المراد أنها عاقر لا تلقح، فهو أصلب لها» [@mufaddaliyyat، ص220، الحاشية]."
+  - term: "جَمَادِ"
+    text: "يقول محققا «المفضليات»: «القوية الوثيقة» [@mufaddaliyyat، ص220، الحاشية]."
+sources:
+  - source: "mufaddaliyyat"
+    loc: "ص220"
+    url: "https://shamela.ws/book/6904/194"
+  - source: "mufaddaliyyat"
+    loc: "ص220، الحاشية"
+    url: "https://shamela.ws/book/6904/194"
+status: "review"

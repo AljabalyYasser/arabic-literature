@@ -1,0 +1,18 @@
+explained: false
+first: "يَسْعَى بِهَا ذُو تُومَتَيْنِ مُشَمِّرٌ"
+second: "قَنَأَتْ أَنَامِلُهُ مِنَ الفِرْصَادِ"
+vocabulary:
+  - term: "ذُو تُومَتَيْنِ"
+    text: "يقول محققا «المفضليات»: «التومتان: اللؤلؤتان» [@mufaddaliyyat، ص218، الحاشية]."
+  - term: "قَنَأَتْ"
+    text: "يقول محققا «المفضليات»: «اشتدت حمرتها حتى ضربت إلى السواد» [@mufaddaliyyat، ص218، الحاشية]."
+  - term: "الفِرْصَادِ"
+    text: "يقول محققا «المفضليات»: «التوت» [@mufaddaliyyat، ص218، الحاشية]."
+sources:
+  - source: "mufaddaliyyat"
+    loc: "ص218"
+    url: "https://shamela.ws/book/6904/192"
+  - source: "mufaddaliyyat"
+    loc: "ص218، الحاشية"
+    url: "https://shamela.ws/book/6904/192"
+status: "review"

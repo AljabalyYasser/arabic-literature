@@ -1,0 +1,16 @@
+explained: false
+first: "مَوَالِي مَوَالِينَا الوِلَادَةُ مِنْهُمُ"
+second: "وَمَوْلَى اليَمِينِ حَابِسًا مُتَقَسَّمَا"
+vocabulary:
+  - term: "مَوَالِي مَوَالِينَا ... وَمَوْلَى اليَمِينِ"
+    text: "يقول محققا «المفضليات»: «قسم مواليه قسمين، موالي القرابة وهم بنو عمه، وموالي اليمين وهم حلفاؤه» [@mufaddaliyyat، ص65، الحاشية]."
+  - term: "حَابِسًا مُتَقَسَّمَا"
+    text: "يقول محققا «المفضليات»: «حالان من اليمين» [@mufaddaliyyat، ص65، الحاشية]."
+sources:
+  - source: "mufaddaliyyat"
+    loc: "ص65"
+    url: "https://shamela.ws/book/6904/39"
+  - source: "mufaddaliyyat"
+    loc: "ص65، الحاشية"
+    url: "https://shamela.ws/book/6904/39"
+status: "review"

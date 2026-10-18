@@ -1,0 +1,18 @@
+explained: false
+first: "وَلَا غَرْوَ إِلَّا الخُضْرُ خُضْرُ مُحَارِبٍ"
+second: "يُمَشُّونَ حَوْلِي حَاسِرًا وَمُلَأَّمَا"
+vocabulary:
+  - term: "لَا غَرْوَ"
+    text: "يقول محققا «المفضليات»: «لا عجب» [@mufaddaliyyat، ص67، الحاشية]."
+  - term: "حَاسِرًا"
+    text: "يقول محققا «المفضليات»: «الذي لا مغفر عليه ولا درع» [@mufaddaliyyat، ص67، الحاشية]."
+  - term: "وَمُلَأَّمَا"
+    text: "يقول محققا «المفضليات»: «ذو اللأمة، بفتح اللام وسكون الهمزة، وهي الدرع والمغفر، أو أحدهما» [@mufaddaliyyat، ص67، الحاشية]."
+sources:
+  - source: "mufaddaliyyat"
+    loc: "ص67"
+    url: "https://shamela.ws/book/6904/41"
+  - source: "mufaddaliyyat"
+    loc: "ص67، الحاشية"
+    url: "https://shamela.ws/book/6904/41"
+status: "review"

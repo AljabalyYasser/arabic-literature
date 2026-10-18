@@ -1,0 +1,19 @@
+explained: false
+first: "بَكَرَتْ سُمَيَّةُ بُكْرَةً فَتَمَتَّعِ"
+second: "وَغَدَتْ غُدُوَّ مُفَارِقٍ لَمْ يَرْبَعِ"
+vocabulary:
+  - term: "فَتَمَتَّعِ"
+    text: "يخاطب نفسه. وفي حاشية المحققين: اعتزمت سمية الرحيل مبكرة، وغدت مفارقة، فأصِبْ متعة من وداع [@mufaddaliyyat، ص43، الحاشية]."
+  - term: "لَمْ يَرْبَعِ"
+    text: "لم يُقِم. وفي اللسان: «ورَبَعَ بِالْمَكَانِ رَبْعاً: أَقام» [@lisan، ج8 ص102]."
+sources:
+  - source: "mufaddaliyyat"
+    loc: "ص43"
+    url: "https://shamela.ws/book/6904/17"
+  - source: "mufaddaliyyat"
+    loc: "ص43، الحاشية"
+    url: "https://archive.org/details/20240818_20240818_1710/page/n42/mode/1up"
+  - source: "lisan"
+    loc: "ج8 ص102"
+    url: "https://shamela.ws/book/1687/3950"
+status: "review"

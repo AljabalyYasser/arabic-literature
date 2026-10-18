@@ -1,0 +1,20 @@
+explained: false
+first: "فَتَرَوَّحَا أُصُلًا بِشَدٍّ مُهْذِبٍ"
+second: "ثَرٍّ كَشُؤْبُوبِ الْعَشِيِّ الْمَاطِرِ"
+vocabulary:
+  - term: "فَتَرَوَّحَا"
+    text: "راح الظليم والنعامة إلى بيضهما في آخر النهار."
+  - term: "أُصُلًا"
+    text: "العشيّ [@mufaddaliyyat، ص130، الحاشية]."
+  - term: "بِشَدٍّ مُهْذِبٍ ثَرٍّ"
+    text: "بجري سريع شديد [@mufaddaliyyat، ص130، الحاشية]."
+  - term: "كَشُؤْبُوبِ"
+    text: "الشؤبوب الدفعة من المطر [@mufaddaliyyat، ص130، الحاشية]."
+sources:
+  - source: "mufaddaliyyat"
+    loc: "ص130"
+    url: "https://shamela.ws/book/6904/104"
+  - source: "mufaddaliyyat"
+    loc: "ص130، الحاشية"
+    url: "https://archive.org/details/20240818_20240818_1710/page/n129/mode/1up"
+status: "review"

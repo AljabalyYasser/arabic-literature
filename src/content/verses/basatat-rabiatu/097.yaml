@@ -1,0 +1,18 @@
+explained: false
+first: "وَتَحَارَضْنَا وَقَالُوا إِنَّمَا"
+second: "يَنْصُرُ الأَقْوَامُ مَنْ كَانَ ضَرَعْ"
+vocabulary:
+  - term: "وَتَحَارَضْنَا"
+    text: "يقول محققا «المفضليات»: «تفاعلنا من الحرض، بفتح الراء، وهو الهلاك» [@mufaddaliyyat، ص201، الحاشية]."
+  - term: "ضَرَعْ"
+    text: "يقول محققا «المفضليات»: «الضعيف من الرجال» [@mufaddaliyyat، ص201، الحاشية]."
+  - term: "إِنَّمَا يَنْصُرُ الأَقْوَامُ مَنْ كَانَ ضَرَعْ"
+    text: "يقول محققا «المفضليات»: «أي: إنما ينصر الأقوام من ضعف عن حجته» [@mufaddaliyyat، ص201، الحاشية]."
+sources:
+  - source: "mufaddaliyyat"
+    loc: "ص201"
+    url: "https://shamela.ws/book/6904/175"
+  - source: "mufaddaliyyat"
+    loc: "ص201، الحاشية"
+    url: "https://shamela.ws/book/6904/175"
+status: "review"

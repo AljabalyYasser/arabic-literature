@@ -1,0 +1,18 @@
+explained: false
+first: "وَنُقِيمُ فِي دَارِ الْحِفَاظِ بُيُوتَنَا"
+second: "زَمَنًا وَيَظْعَنُ غَيْرُنَا لِلْأَمْرُعِ"
+vocabulary:
+  - term: "دَارِ الْحِفَاظِ"
+    text: "الدار التي لا يقيم فيها إلا من حافظ على حسبه وصبر على ما لا يُصبر عليه، كما في حاشية المحققين [@mufaddaliyyat، ص45، الحاشية]."
+  - term: "يَظْعَنُ"
+    text: "يرحل [@mufaddaliyyat، ص45، الحاشية]."
+  - term: "لِلْأَمْرُعِ"
+    text: "جمع مَرْع، وهو الكلأ والخصب، ويروى «للأمرَع» بفتح الراء: الموضع الأكثر خصبًا [@mufaddaliyyat، ص45، الحاشية]."
+sources:
+  - source: "mufaddaliyyat"
+    loc: "ص45"
+    url: "https://shamela.ws/book/6904/19"
+  - source: "mufaddaliyyat"
+    loc: "ص45، الحاشية"
+    url: "https://archive.org/details/20240818_20240818_1710/page/n44/mode/1up"
+status: "review"

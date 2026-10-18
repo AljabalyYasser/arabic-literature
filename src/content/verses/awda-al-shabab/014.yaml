@@ -1,0 +1,16 @@
+explained: false
+first: "يَهْوِي إِذَا الْخَيْلُ جَازَتْهُ وَثَارَ لَهَا"
+second: "هُوِيَّ سَجْلٍ مِنَ الْعَلْيَاءِ مَصْبُوبِ"
+vocabulary:
+  - term: "جَازَتْهُ"
+    text: "فاتته وتقدّمته [@mufaddaliyyat، ص121، الحاشية]."
+  - term: "هُوِيَّ سَجْلٍ"
+    text: "السَّجْل الدلو العظيمة: ينقضّ في جريه كما تهوي الدلو المملوءة من أعلى البئر [@mufaddaliyyat، ص121، الحاشية]."
+sources:
+  - source: "mufaddaliyyat"
+    loc: "ص121"
+    url: "https://shamela.ws/book/6904/95"
+  - source: "mufaddaliyyat"
+    loc: "ص121، الحاشية"
+    url: "https://archive.org/details/20240818_20240818_1710/page/n120/mode/1up"
+status: "review"

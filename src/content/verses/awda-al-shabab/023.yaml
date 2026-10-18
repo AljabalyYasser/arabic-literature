@@ -1,0 +1,18 @@
+explained: false
+first: "هَمَّتْ مَعَدٌّ بِنَا هَمًّا فَنَهْنَهَهَا"
+second: "عَنَّا طِعَانٌ وَضَرْبٌ غَيْرُ تَذْبِيبِ"
+vocabulary:
+  - term: "مَعَدٌّ"
+    text: "قبائل العرب العدنانية."
+  - term: "فَنَهْنَهَهَا"
+    text: "كفّها [@mufaddaliyyat، ص122، الحاشية]."
+  - term: "غَيْرُ تَذْبِيبِ"
+    text: "التذبيب مبالغة في الذّبّ، وهو الدفع: ضرب صادق، لا دفع ضعيف [@mufaddaliyyat، ص122، الحاشية]."
+sources:
+  - source: "mufaddaliyyat"
+    loc: "ص122"
+    url: "https://shamela.ws/book/6904/96"
+  - source: "mufaddaliyyat"
+    loc: "ص122، الحاشية"
+    url: "https://archive.org/details/20240818_20240818_1710/page/n121/mode/1up"
+status: "review"

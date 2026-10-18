@@ -1,0 +1,16 @@
+explained: false
+first: "مُحْمَرَّةٍ عَقِبَ الصَّبُوحِ عُيُونُهُمْ"
+second: "بِمَرًى هُنَاكَ مِنَ الْحَيَاةِ وَمَسْمَعِ"
+vocabulary:
+  - term: "الصَّبُوحِ"
+    text: "شرب الغداة [@mufaddaliyyat، ص46، الحاشية]."
+  - term: "بِمَرًى"
+    text: "أراد «بمرأى» فترك الهمز، أي بمنظر ومسمع من الحياة: يرون ما يشتهون ويسمعونه [@mufaddaliyyat، ص46، الحاشية]."
+sources:
+  - source: "mufaddaliyyat"
+    loc: "ص46"
+    url: "https://shamela.ws/book/6904/20"
+  - source: "mufaddaliyyat"
+    loc: "ص46، الحاشية"
+    url: "https://archive.org/details/20240818_20240818_1710/page/n45/mode/1up"
+status: "review"

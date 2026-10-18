@@ -1,0 +1,22 @@
+explained: false
+first: "صَفَائِحَ بُصْرَى أَخْلَصَتْهَا قُيُونُهَا"
+second: "وَمُطَّرِدًا مِنْ نَسْجِ دَاوُدَ مُبْهَمَا"
+vocabulary:
+  - term: "صَفَائِحَ"
+    text: "يقول محققا «المفضليات»: «سيوف عريضة» [@mufaddaliyyat، ص66، الحاشية]."
+  - term: "بُصْرَى"
+    text: "يقول محققا «المفضليات»: «بلد تنسب إليه جياد السيوف» [@mufaddaliyyat، ص66، الحاشية]."
+  - term: "قُيُونُهَا"
+    text: "يقول محققا «المفضليات»: «القين: الحداد والصيقل» [@mufaddaliyyat، ص66، الحاشية]."
+  - term: "وَمُطَّرِدًا"
+    text: "يقول محققا «المفضليات»: «المتتابع الذي ليس فيه اختلاف» [@mufaddaliyyat، ص66، الحاشية]."
+  - term: "مُبْهَمَا"
+    text: "يقول محققا «المفضليات»: «الذي لا ثلم فيه ولا خرق» [@mufaddaliyyat، ص66، الحاشية]."
+sources:
+  - source: "mufaddaliyyat"
+    loc: "ص66"
+    url: "https://shamela.ws/book/6904/40"
+  - source: "mufaddaliyyat"
+    loc: "ص66، الحاشية"
+    url: "https://shamela.ws/book/6904/40"
+status: "review"

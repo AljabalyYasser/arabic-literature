@@ -1,0 +1,20 @@
+explained: false
+first: "بَكَرُوا عَلَيَّ بِسُحْرَةٍ فَصَبَحْتُهُمْ"
+second: "مِنْ عَاتِقٍ كَدَمِ الْغَزَالِ مُشَعْشَعِ"
+vocabulary:
+  - term: "بِسُحْرَةٍ"
+    text: "بالسَّحَر، وهو الوقت قبل الفجر [@mufaddaliyyat، ص46، الحاشية]."
+  - term: "فَصَبَحْتُهُمْ"
+    text: "سقيتهم الصَّبوح، وهو شرب الغداة [@mufaddaliyyat، ص46، الحاشية]."
+  - term: "عَاتِقٍ"
+    text: "الخمر العتيقة القديمة [@mufaddaliyyat، ص46، الحاشية]."
+  - term: "مُشَعْشَعِ"
+    text: "الممزوج بالماء، لا كثيرًا ولا قليلًا [@mufaddaliyyat، ص46، الحاشية]."
+sources:
+  - source: "mufaddaliyyat"
+    loc: "ص46"
+    url: "https://shamela.ws/book/6904/20"
+  - source: "mufaddaliyyat"
+    loc: "ص46، الحاشية"
+    url: "https://archive.org/details/20240818_20240818_1710/page/n45/mode/1up"
+status: "review"

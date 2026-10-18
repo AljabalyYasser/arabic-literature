@@ -1,0 +1,20 @@
+explained: false
+first: "سَئِمَ الْإِقَامَةَ بَعْدَ طُولِ ثَوَائِهِ"
+second: "وَقَضَى لُبَانَتَهُ فَلَيْسَ بِنَاظِرِ"
+vocabulary:
+  - term: "سَئِمَ الْإِقَامَةَ"
+    text: "«أي: ملّ إقامته» [@tabrizi-ikhtiyarat، ج1 ص613]."
+  - term: "ثَوَائِهِ"
+    text: "«و\"الثواء\": الإقامة» [@tabrizi-ikhtiyarat، ج1 ص613]."
+  - term: "لُبَانَتَهُ"
+    text: "«و\"اللبانة\": الحاجة» [@tabrizi-ikhtiyarat، ج1 ص613]."
+  - term: "بِنَاظِرِ"
+    text: "«و\"الناظر\": المنتظر» [@tabrizi-ikhtiyarat، ج1 ص613]."
+sources:
+  - source: "mufaddaliyyat"
+    loc: "ص128"
+    url: "https://shamela.ws/book/6904/102"
+  - source: "tabrizi-ikhtiyarat"
+    loc: "ج1 ص613"
+    url: "https://archive.org/details/3820pdf/page/n625/mode/1up"
+status: "review"

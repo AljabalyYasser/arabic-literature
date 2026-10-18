@@ -1,0 +1,22 @@
+explained: false
+first: "وَمُنَاخِ غَيْرِ تَئِيَّةٍ عَرَّسْتُهُ"
+second: "قَمِنٍ مِنَ الْحِدْثَانِ نَابِي الْمَضْجَعِ"
+vocabulary:
+  - term: "مُنَاخِ"
+    text: "موضع إناخة الإبل [@mufaddaliyyat، ص47، الحاشية]."
+  - term: "غَيْرِ تَئِيَّةٍ"
+    text: "التئيّة التمكّث والانتظار، أي منزل لا يُقام فيه [@mufaddaliyyat، ص47، الحاشية]."
+  - term: "عَرَّسْتُهُ"
+    text: "نزلت فيه ليلًا، والتعريس نزول المسافرين آخر الليل [@mufaddaliyyat، ص47، الحاشية]."
+  - term: "قَمِنٍ مِنَ الْحِدْثَانِ"
+    text: "خليق أن تقع فيه نُوَب الدهر [@mufaddaliyyat، ص47، الحاشية]."
+  - term: "نَابِي الْمَضْجَعِ"
+    text: "لا يُطمأنّ فيه لخوفه [@mufaddaliyyat، ص47، الحاشية]."
+sources:
+  - source: "mufaddaliyyat"
+    loc: "ص47"
+    url: "https://shamela.ws/book/6904/21"
+  - source: "mufaddaliyyat"
+    loc: "ص47، الحاشية"
+    url: "https://archive.org/details/20240818_20240818_1710/page/n46/mode/1up"
+status: "review"

@@ -1,0 +1,20 @@
+explained: false
+first: "يَجْلُو أَسِنَّتَهَا فِتْيَانُ عَادِيَةٍ"
+second: "لَا مُقْرِفِينَ وَلَا سُودٍ جَعَابِيبِ"
+vocabulary:
+  - term: "يَجْلُو أَسِنَّتَهَا"
+    text: "يصلحونها ويتعاهدونها [@mufaddaliyyat، ص123، الحاشية]."
+  - term: "عَادِيَةٍ"
+    text: "الحرب [@mufaddaliyyat، ص123، الحاشية]."
+  - term: "مُقْرِفِينَ"
+    text: "المُقْرِف الذي داني الهُجنة، والهجين من ولدته أمة [@mufaddaliyyat، ص123، الحاشية]."
+  - term: "جَعَابِيبِ"
+    text: "القصار الضعاف، واحدهم جُعْبوب [@mufaddaliyyat، ص123، الحاشية]."
+sources:
+  - source: "mufaddaliyyat"
+    loc: "ص123"
+    url: "https://shamela.ws/book/6904/97"
+  - source: "mufaddaliyyat"
+    loc: "ص123، الحاشية"
+    url: "https://archive.org/details/20240818_20240818_1710/page/n122/mode/1up"
+status: "review"

@@ -1,0 +1,18 @@
+explained: false
+first: "أَسُمَيَّ مَا يُدْرِيكِ أَنْ رُبَ فِتْيَةٍ"
+second: "بِيضِ الْوُجُوهِ ذَوِي نَدًى وَمَآثِرِ"
+vocabulary:
+  - term: "أَسُمَيَّ"
+    text: "يا سُمَيّة، مرخّمًا، وفي بعض الروايات «أعمير» [@mufaddaliyyat، ص130، الحاشية]."
+  - term: "رُبَ"
+    text: "«رُبَّ» خُفّفت باؤها [@mufaddaliyyat، ص130، الحاشية]."
+  - term: "نَدًى وَمَآثِرِ"
+    text: "الندى الكرم، والمآثر المكارم التي تُؤثر وتُروى."
+sources:
+  - source: "mufaddaliyyat"
+    loc: "ص130"
+    url: "https://shamela.ws/book/6904/104"
+  - source: "mufaddaliyyat"
+    loc: "ص130، الحاشية"
+    url: "https://archive.org/details/20240818_20240818_1710/page/n129/mode/1up"
+status: "review"

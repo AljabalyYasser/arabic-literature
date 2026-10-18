@@ -1,0 +1,20 @@
+explained: false
+first: "صَقَلَتْهُ بِقَضِيبٍ نَاضِرٍ"
+second: "مِنْ أَرَاكٍ طَيِّبٍ حَتَّى نَصَعْ"
+vocabulary:
+  - term: "صَقَلَتْهُ"
+    text: "يقول محققا «المفضليات»: «الصقل: الجلاء» [@mufaddaliyyat، ص191، الحاشية]."
+  - term: "نَاضِرٍ"
+    text: "يقول محققا «المفضليات»: «ناعم أخضر ريان» [@mufaddaliyyat، ص191، الحاشية]."
+  - term: "أَرَاكٍ"
+    text: "يقول محققا «المفضليات»: «شجر يتخذ منه السواك المعروف، وهو أجود سواك» [@mufaddaliyyat، ص191، الحاشية]."
+  - term: "نَصَعْ"
+    text: "يقول محققا «المفضليات»: «خلص لونه» [@mufaddaliyyat، ص191، الحاشية]."
+sources:
+  - source: "mufaddaliyyat"
+    loc: "ص191"
+    url: "https://shamela.ws/book/6904/165"
+  - source: "mufaddaliyyat"
+    loc: "ص191، الحاشية"
+    url: "https://shamela.ws/book/6904/165"
+status: "review"

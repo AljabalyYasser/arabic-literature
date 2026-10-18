@@ -1,0 +1,16 @@
+kind: "bayt"
+title: "مطلع اليتيمة"
+part: "1"
+order: 266
+person: "suwayd-ibn-abi-kahil"
+verses:
+  - "basatat-rabiatu/001"
+meaning: "مدّت رابعة حبل الوصل، فوصله الشاعر ما دام ممدودًا. وهو مطلع القصيدة التي قال فيها الأصمعي: «كانت العرب تفضّلها وتقدّمها وتعدّها من حكمها»، وروى عن عيسى بن عمر أنها كانت في الجاهلية تسمّى «اليتيمة» [@aghani-dk، ج13 ص102]."
+sources:
+  - source: "mufaddaliyyat"
+    loc: "ص191"
+    url: "https://shamela.ws/book/6904/165"
+  - source: "aghani-dk"
+    loc: "ج13 ص102"
+    url: "https://archive.org/details/aghani2014/13/page/n101/mode/1up"
+status: "review"

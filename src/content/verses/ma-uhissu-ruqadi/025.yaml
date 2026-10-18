@@ -1,0 +1,16 @@
+explained: false
+first: "وَالبِيضُ تَمْشِي كَالبُدُورِ وَكَالدُّمَى"
+second: "وَنَوَاعِمٌ يَمْشِينَ بِالأَرْفَادِ"
+vocabulary:
+  - term: "وَكَالدُّمَى"
+    text: "يقول محققا «المفضليات»: «جمع دمية، وهي الصورة المنقشة من الرخام» [@mufaddaliyyat، ص218، الحاشية]."
+  - term: "بِالأَرْفَادِ"
+    text: "يقول محققا «المفضليات»: «جمع رفد، بفتح الراء وكسرها، وهو القدح الضخم» [@mufaddaliyyat، ص218، الحاشية]."
+sources:
+  - source: "mufaddaliyyat"
+    loc: "ص218"
+    url: "https://shamela.ws/book/6904/192"
+  - source: "mufaddaliyyat"
+    loc: "ص218، الحاشية"
+    url: "https://shamela.ws/book/6904/192"
+status: "review"

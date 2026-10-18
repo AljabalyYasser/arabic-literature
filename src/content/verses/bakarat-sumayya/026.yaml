@@ -1,0 +1,18 @@
+explained: false
+first: "وَتَقِي إِذَا مَسَّتْ مَنَاسِمُهَا الْحَصَى"
+second: "وَجَعًا وَإِنْ تُزْجَرْ بِهِ تَتَرَفَّعِ"
+vocabulary:
+  - term: "وَتَقِي"
+    text: "من الوَقْي، وهو الحَفا: يشتكي خفّها من غلظ الأرض [@mufaddaliyyat، ص47، الحاشية]."
+  - term: "مَنَاسِمُهَا"
+    text: "أخفافها، واحدها مَنْسِم [@mufaddaliyyat، ص47، الحاشية]."
+  - term: "تُزْجَرْ بِهِ تَتَرَفَّعِ"
+    text: "إذا زُجرت بقولهم «دعدع» ارتفعت في سيرها وأسرعت [@mufaddaliyyat، ص47، الحاشية]."
+sources:
+  - source: "mufaddaliyyat"
+    loc: "ص47"
+    url: "https://shamela.ws/book/6904/21"
+  - source: "mufaddaliyyat"
+    loc: "ص47، الحاشية"
+    url: "https://archive.org/details/20240818_20240818_1710/page/n46/mode/1up"
+status: "review"

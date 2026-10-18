@@ -1,0 +1,18 @@
+explained: false
+first: "وَشَدَّ كُورٍ عَلَى وَجْنَاءَ نَاجِيَةٍ"
+second: "وَشَدَّ سَرْجٍ عَلَى جَرْدَاءَ سُرْحُوبِ"
+vocabulary:
+  - term: "كُورٍ"
+    text: "رحل الناقة بأداته [@mufaddaliyyat، ص124، الحاشية]."
+  - term: "وَجْنَاءَ نَاجِيَةٍ"
+    text: "الوجناء الناقة الغليظة، والناجية السريعة [@mufaddaliyyat، ص124، الحاشية]."
+  - term: "جَرْدَاءَ سُرْحُوبِ"
+    text: "الجرداء الفرس القصيرة الشعر، والسرحوب الطويلة [@mufaddaliyyat، ص124، الحاشية]."
+sources:
+  - source: "mufaddaliyyat"
+    loc: "ص124"
+    url: "https://shamela.ws/book/6904/98"
+  - source: "mufaddaliyyat"
+    loc: "ص124، الحاشية"
+    url: "https://archive.org/details/20240818_20240818_1710/page/n123/mode/1up"
+status: "review"

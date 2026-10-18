@@ -1,0 +1,17 @@
+kind: "maqta"
+title: "رب من أنضجت غيظا قلبه"
+part: "1"
+order: 267
+person: "suwayd-ibn-abi-kahil"
+verses:
+  - "basatat-rabiatu/067"
+  - "basatat-rabiatu/073"
+meaning: "حاسد يتمنى موت الشاعر فلا يُستجاب له، يحيّيه إذا لقيه ويغتابه إذا غاب. ومن هذه الأبيات تمثّل الحجّاج على المنبر يوم رستقباذ [@ibn-qutayba، ج1 ص411]."
+sources:
+  - source: "mufaddaliyyat"
+    loc: "ص198"
+    url: "https://shamela.ws/book/6904/172"
+  - source: "ibn-qutayba"
+    loc: "ج1 ص411"
+    url: "https://shamela.ws/book/23785/404"
+status: "review"

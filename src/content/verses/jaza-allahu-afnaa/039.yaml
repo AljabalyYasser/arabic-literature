@@ -1,0 +1,16 @@
+explained: false
+first: "أَبَى لِابْنِ سَلْمَى أَنَّهُ غَيْرُ خَالِدٍ"
+second: "مُلَاقِي المَنَايَا أَيَّ صَرْفٍ تَيَمَّمَا"
+vocabulary:
+  - term: "لِابْنِ سَلْمَى"
+    text: "يقول محققا «المفضليات»: «سلمى: أمه أو جدته، وأراد بابن سلمى نفسه» [@mufaddaliyyat، ص69، الحاشية]."
+  - term: "أَيَّ صَرْفٍ تَيَمَّمَا"
+    text: "يقول محققا «المفضليات»: «أي جهة قصد» [@mufaddaliyyat، ص69، الحاشية]."
+sources:
+  - source: "mufaddaliyyat"
+    loc: "ص69"
+    url: "https://shamela.ws/book/6904/43"
+  - source: "mufaddaliyyat"
+    loc: "ص69، الحاشية"
+    url: "https://shamela.ws/book/6904/43"
+status: "review"

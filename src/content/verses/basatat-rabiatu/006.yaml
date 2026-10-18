@@ -1,0 +1,16 @@
+explained: false
+first: "صَافِيَ اللَّوْنِ وَطَرْفًا سَاجِيًا"
+second: "أَكْحَلَ العَيْنَيْنِ مَا فِيهِ قَمَعْ"
+vocabulary:
+  - term: "سَاجِيًا"
+    text: "يقول محققا «المفضليات»: «الساكن» [@mufaddaliyyat، ص191، الحاشية]."
+  - term: "قَمَعْ"
+    text: "يقول محققا «المفضليات»: «كمد في لحم المؤق وورم فيه» [@mufaddaliyyat، ص191، الحاشية]."
+sources:
+  - source: "mufaddaliyyat"
+    loc: "ص191"
+    url: "https://shamela.ws/book/6904/165"
+  - source: "mufaddaliyyat"
+    loc: "ص191، الحاشية"
+    url: "https://shamela.ws/book/6904/165"
+status: "review"

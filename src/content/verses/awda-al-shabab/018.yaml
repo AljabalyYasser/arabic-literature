@@ -1,0 +1,20 @@
+explained: false
+first: "يَرْقَى الدَّسِيعُ إِلَى هَادٍ لَهُ بَتِعٍ"
+second: "فِي جُؤْجُؤٍ كَمَدَاكِ الطِّيبِ مَخْضُوبِ"
+vocabulary:
+  - term: "الدَّسِيعُ"
+    text: "مغرز العنق في الكاهل [@mufaddaliyyat، ص122، الحاشية]."
+  - term: "هَادٍ لَهُ بَتِعٍ"
+    text: "الهادي العنق، والبَتِع الطويل [@mufaddaliyyat، ص122، الحاشية]."
+  - term: "جُؤْجُؤٍ"
+    text: "الصدر، و«في» هنا بمعنى «مع» [@mufaddaliyyat، ص122، الحاشية]."
+  - term: "كَمَدَاكِ الطِّيبِ"
+    text: "المَداك الصَّلاية التي يُسحق عليها الطيب، شبّه بها صدر الفرس في ملاسته، وهو مخضوب بدماء الصيد أو العدو [@mufaddaliyyat، ص122، الحاشية]."
+sources:
+  - source: "mufaddaliyyat"
+    loc: "ص122"
+    url: "https://shamela.ws/book/6904/96"
+  - source: "mufaddaliyyat"
+    loc: "ص122، الحاشية"
+    url: "https://archive.org/details/20240818_20240818_1710/page/n121/mode/1up"
+status: "review"

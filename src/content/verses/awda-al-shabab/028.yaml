@@ -1,0 +1,16 @@
+explained: false
+first: "كَأَنَّهَا بِأَكُفِّ الْقَوْمِ إِذْ لَحِقُوا"
+second: "مَوَاتِحُ الْبِئْرِ أَوْ أَشْطَانُ مَطْلُوبِ"
+vocabulary:
+  - term: "مَوَاتِحُ الْبِئْرِ"
+    text: "حبال يُمتح بها الماء، أي يُنتزع [@mufaddaliyyat، ص123، الحاشية]."
+  - term: "أَشْطَانُ مَطْلُوبِ"
+    text: "الأشطان الحبال الطوال، واحدها شَطَن، ومطلوب بئر بعيدة القعر بين المدينة والشام [@mufaddaliyyat، ص123، الحاشية]."
+sources:
+  - source: "mufaddaliyyat"
+    loc: "ص123"
+    url: "https://shamela.ws/book/6904/97"
+  - source: "mufaddaliyyat"
+    loc: "ص123، الحاشية"
+    url: "https://archive.org/details/20240818_20240818_1710/page/n122/mode/1up"
+status: "review"

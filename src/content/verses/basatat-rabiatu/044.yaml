@@ -1,0 +1,16 @@
+explained: false
+first: "صَالِحُو أَكْفَائِهِمْ خُلَّانُهُمْ"
+second: "وَسَرَاةُ الأَصْلِ وَالنَّاسُ شِيَعْ"
+vocabulary:
+  - term: "صَالِحُو أَكْفَائِهِمْ خُلَّانُهُمْ"
+    text: "يقول محققا «المفضليات»: «لا يخالون ولا يصادقون إلا الصالحين من أكفائهم» [@mufaddaliyyat، ص195، الحاشية]."
+  - term: "وَسَرَاةُ"
+    text: "يقول محققا «المفضليات»: «الأشراف، واحدهم سري» [@mufaddaliyyat، ص195، الحاشية]."
+sources:
+  - source: "mufaddaliyyat"
+    loc: "ص195"
+    url: "https://shamela.ws/book/6904/169"
+  - source: "mufaddaliyyat"
+    loc: "ص195، الحاشية"
+    url: "https://shamela.ws/book/6904/169"
+status: "review"

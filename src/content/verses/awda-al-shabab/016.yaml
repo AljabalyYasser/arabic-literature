@@ -1,0 +1,16 @@
+explained: false
+first: "فِي كُلِّ قَائِمَةٍ مِنْهُ إِذَا انْدَفَعَتْ"
+second: "مِنْهُ أَسَاوٍ كَفَرْغِ الدَّلْوِ أُثْعُوبِ"
+vocabulary:
+  - term: "أَسَاوٍ"
+    text: "دفعات من الجري، ويقول المحققان إن هذا الحرف فات المعاجم [@mufaddaliyyat، ص121، الحاشية]."
+  - term: "كَفَرْغِ الدَّلْوِ أُثْعُوبِ"
+    text: "فرغ الدلو مخرج الماء منها، والأثعوب السائل المنثعب: شبّه دفعات جريه بانصباب الماء من الدلو في سهولته [@mufaddaliyyat، ص121، الحاشية]."
+sources:
+  - source: "mufaddaliyyat"
+    loc: "ص121"
+    url: "https://shamela.ws/book/6904/95"
+  - source: "mufaddaliyyat"
+    loc: "ص121، الحاشية"
+    url: "https://archive.org/details/20240818_20240818_1710/page/n120/mode/1up"
+status: "review"

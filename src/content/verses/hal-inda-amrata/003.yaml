@@ -1,0 +1,23 @@
+explained: false
+first: "لِعِدَاتِ ذِي إِرْبٍ وَلَا لِمَوَاعِدٍ"
+second: "خُلُفٍ وَلَوْ حَلَفَتْ بِأَسْحَمَ مَائِرِ"
+vocabulary:
+  - term: "لِعِدَاتِ"
+    text: "جمع عِدَة، وهي الوعد. والكلام متصل بما قبله: ليس بمنتظر لعِداتها."
+  - term: "ذِي إِرْبٍ"
+    text: "الإرب الدهاء والبصر بالأمور، كما في حاشية المحققين [@mufaddaliyyat، ص128، الحاشية]. يعني امرأة ذات دهاء تَعِد ولا تفي."
+  - term: "خُلُفٍ"
+    text: "الخُلْف نقيض الوفاء بالوعد [@mufaddaliyyat، ص129، الحاشية]."
+  - term: "بِأَسْحَمَ مَائِرِ"
+    text: "الأسحم الأسود، والمائر المنصبّ، وأراد دماء البُدْن التي تُنحر عند الأصنام فتسودّ عليها: لو حلفت بها لم يصدّقها، لأنه لم يعرف منها وفاء [@mufaddaliyyat، ص129، الحاشية]."
+sources:
+  - source: "mufaddaliyyat"
+    loc: "ص128"
+    url: "https://shamela.ws/book/6904/102"
+  - source: "mufaddaliyyat"
+    loc: "ص128، الحاشية"
+    url: "https://archive.org/details/20240818_20240818_1710/page/n127/mode/1up"
+  - source: "mufaddaliyyat"
+    loc: "ص129، الحاشية"
+    url: "https://archive.org/details/20240818_20240818_1710/page/n128/mode/1up"
+status: "review"

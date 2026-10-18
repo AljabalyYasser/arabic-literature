@@ -1,0 +1,20 @@
+explained: false
+first: "وَقَالُوا تَبَيَّنْ هَلْ تَرَى بَيْنَ ضَارِجٍ"
+second: "وَنِهْيِ أَكُفٍّ صَارِخًا غَيْرَ أَعْجَمَا"
+vocabulary:
+  - term: "ضَارِجٍ"
+    text: "يقول محققا «المفضليات»: «ماء لبني عبس» [@mufaddaliyyat، ص69، الحاشية]."
+  - term: "وَنِهْيِ أَكُفٍّ"
+    text: "يقول محققا «المفضليات»: «موضع مطمئن من الأرض فيه ماء» [@mufaddaliyyat، ص69، الحاشية]."
+  - term: "صَارِخًا"
+    text: "يقول محققا «المفضليات»: «المغيث» [@mufaddaliyyat، ص69، الحاشية]."
+  - term: "أَعْجَمَا"
+    text: "يقول محققا «المفضليات»: «ما لا ينطق» [@mufaddaliyyat، ص69، الحاشية]."
+sources:
+  - source: "mufaddaliyyat"
+    loc: "ص69"
+    url: "https://shamela.ws/book/6904/43"
+  - source: "mufaddaliyyat"
+    loc: "ص69، الحاشية"
+    url: "https://shamela.ws/book/6904/43"
+status: "review"

@@ -1,0 +1,16 @@
+explained: false
+first: "وَحَيَّ مَنَافٍ قَدْ رَأَيْنَا مَكَانَهُمْ"
+second: "وَقُرَّانَ إِذْ أَجْرَى إِلَيْنَا وَأَلْجَمَا"
+vocabulary:
+  - term: "وَقُرَّانَ"
+    text: "يقول محققا «المفضليات»: «قبيلة أو رجل لم نعرف نسبه» [@mufaddaliyyat، ص68، الحاشية]."
+  - term: "أَجْرَى إِلَيْنَا وَأَلْجَمَا"
+    text: "يقول محققا «المفضليات»: «أجرى الخيل وألجمها» [@mufaddaliyyat، ص68، الحاشية]."
+sources:
+  - source: "mufaddaliyyat"
+    loc: "ص68"
+    url: "https://shamela.ws/book/6904/42"
+  - source: "mufaddaliyyat"
+    loc: "ص68، الحاشية"
+    url: "https://shamela.ws/book/6904/42"
+status: "review"

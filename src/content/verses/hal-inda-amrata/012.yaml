@@ -1,0 +1,23 @@
+explained: false
+first: "طَرِفَتْ مَرَاوِدُهَا وَغَرَّدَ سَقْبُهَا"
+second: "بِالْآءِ وَالْحَدَجِ الرِّوَاءِ الْحَادِرِ"
+vocabulary:
+  - term: "طَرِفَتْ مَرَاوِدُهَا"
+    text: "«\"طرفت\": تباعدت»، «و\"مراودها\": مواضعها التي ترود فيها» [@tabrizi-ikhtiyarat، ج1 ص619]، أي بعُدت مراعيها عن بيضها."
+  - term: "سَقْبُهَا"
+    text: "السَّقْب في الأصل ولد الناقة، و«\"سقبها\": رألها» [@tabrizi-ikhtiyarat، ج1 ص619]، والرأل ولد النعامة."
+  - term: "بِالْآءِ وَالْحَدَجِ"
+    text: "«و\"الآء\": ثمر السَّرْح»، «و\"الحدج\": الحنظل» [@tabrizi-ikhtiyarat، ج1 ص619]."
+  - term: "الرِّوَاءِ الْحَادِرِ"
+    text: "الرِّواء جمع ريّان، والحادر الغليظ [@mufaddaliyyat، ص130، الحاشية]."
+sources:
+  - source: "mufaddaliyyat"
+    loc: "ص130"
+    url: "https://shamela.ws/book/6904/104"
+  - source: "tabrizi-ikhtiyarat"
+    loc: "ج1 ص619"
+    url: "https://archive.org/details/3820pdf/page/n631/mode/1up"
+  - source: "mufaddaliyyat"
+    loc: "ص130، الحاشية"
+    url: "https://archive.org/details/20240818_20240818_1710/page/n129/mode/1up"
+status: "review"

@@ -1,0 +1,16 @@
+explained: false
+first: "وَمَحَلِّ مَجْدٍ لَا يُسَرِّحُ أَهْلُهُ"
+second: "يَوْمَ الْإِقَامَةِ وَالْحُلُولِ لِمَرْتَعِ"
+vocabulary:
+  - term: "مَجْدٍ"
+    text: "في حاشية المحققين: من قولهم «مجدت الإبل» إذا أكلت نصف الشبع، يعني أرضًا قليلة المرعى [@mufaddaliyyat، ص45، الحاشية]."
+  - term: "لَا يُسَرِّحُ أَهْلُهُ لِمَرْتَعِ"
+    text: "لا يرسلون إبلهم ولا يرحلون إلى المرتع، وهو مكان الرعي في الخصب: إذا أجدبوا لم يتركوا عشائرهم في طلب الخصب [@mufaddaliyyat، ص45، الحاشية]."
+sources:
+  - source: "mufaddaliyyat"
+    loc: "ص45"
+    url: "https://shamela.ws/book/6904/19"
+  - source: "mufaddaliyyat"
+    loc: "ص45، الحاشية"
+    url: "https://archive.org/details/20240818_20240818_1710/page/n44/mode/1up"
+status: "review"

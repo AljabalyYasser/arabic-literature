@@ -1,0 +1,16 @@
+explained: false
+first: "يُقَالُ مَحْبِسُهَا أَدْنَى لِمَرْتَعِهَا"
+second: "وَإِنْ تَعَادَى بِبُكْءٍ كُلُّ مَحْلُوبِ"
+vocabulary:
+  - term: "تَعَادَى بِبُكْءٍ"
+    text: "توالى بقلة اللبن، والبُكْء قلة اللبن [@mufaddaliyyat، ص124، الحاشية]."
+  - term: "مَحْبِسُهَا أَدْنَى لِمَرْتَعِهَا"
+    text: "في حاشية المحققين: إذا نزلوا الثغر فحبسوا به إبلهم وخيلهم قال الناس إن حبسها في دار الحفاظ أدنى لأن يعزّوا فترتع فيما تستقبل، وإن ذهبت ألبانها [@mufaddaliyyat، ص124، الحاشية]."
+sources:
+  - source: "mufaddaliyyat"
+    loc: "ص124"
+    url: "https://shamela.ws/book/6904/98"
+  - source: "mufaddaliyyat"
+    loc: "ص124، الحاشية"
+    url: "https://archive.org/details/20240818_20240818_1710/page/n123/mode/1up"
+status: "review"

@@ -1,0 +1,20 @@
+explained: false
+first: "وَقُرُونًا سَابِغًا أَطْرَافُهَا"
+second: "غَلَّلَتْهَا رِيحُ مِسْكٍ ذِي فَنَعْ"
+vocabulary:
+  - term: "وَقُرُونًا"
+    text: "يقول محققا «المفضليات»: «القرون: الذوائب» [@mufaddaliyyat، ص191، الحاشية]."
+  - term: "سَابِغًا"
+    text: "يقول محققا «المفضليات»: «الطويل التام» [@mufaddaliyyat، ص191، الحاشية]."
+  - term: "غَلَّلَتْهَا"
+    text: "يقول محققا «المفضليات»: «دخلت فيها» [@mufaddaliyyat، ص191، الحاشية]."
+  - term: "فَنَعْ"
+    text: "يقول محققا «المفضليات»: «الكثرة والفضل، والمراد هنا طيب ريحه وسطوعها» [@mufaddaliyyat، ص191، الحاشية]."
+sources:
+  - source: "mufaddaliyyat"
+    loc: "ص191"
+    url: "https://shamela.ws/book/6904/165"
+  - source: "mufaddaliyyat"
+    loc: "ص191، الحاشية"
+    url: "https://shamela.ws/book/6904/165"
+status: "review"

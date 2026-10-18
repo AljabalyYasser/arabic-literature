@@ -1,0 +1,18 @@
+explained: false
+first: "عَشِيَّةَ لَا تُغْنِي الرِّمَاحُ مَكَانَهَا"
+second: "وَلَا النَّبْلُ إِلَّا المَشْرَفِيَّ المُصَمِّمَا"
+vocabulary:
+  - term: "مَكَانَهَا"
+    text: "يقول محققا «المفضليات»: «أي في مكان استعمالها» [@mufaddaliyyat، ص65، الحاشية]."
+  - term: "المَشْرَفِيَّ"
+    text: "يقول محققا «المفضليات»: «سيف منسوب إلى المشارف، وهي قرى للعرب تدنو إلى الريف» [@mufaddaliyyat، ص65، الحاشية]."
+  - term: "المُصَمِّمَا"
+    text: "يقول محققا «المفضليات»: «الذي يمضي في صميم العظم ويبريه» [@mufaddaliyyat، ص65، الحاشية]."
+sources:
+  - source: "mufaddaliyyat"
+    loc: "ص65"
+    url: "https://shamela.ws/book/6904/39"
+  - source: "mufaddaliyyat"
+    loc: "ص65، الحاشية"
+    url: "https://shamela.ws/book/6904/39"
+status: "review"
