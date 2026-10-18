@@ -1,0 +1,20 @@
+explained: false
+first: "وَسُرِّحَ كَالْأَجْدَلِ الْفَارِسِيْـ"
+second: "ـيِ فِي إِثْرِ سِرْبٍ أَجَدَّ النِّفَارَا"
+vocabulary:
+  - term: "سُرِّحَ"
+    text: "أُطلق."
+  - term: "كَالْأَجْدَلِ"
+    text: "يقول محققا «الأصمعيات»: «الصقر، صفة غالبة، وأصله من الجدل الذى هو الشدة» [@asmaiyyat، ص191، الحاشية]."
+  - term: "سِرْبٍ"
+    text: "قطيع من الوحش."
+  - term: "أَجَدَّ النِّفَارَا"
+    text: "جدّ في الهرب."
+sources:
+  - source: "asmaiyyat"
+    loc: "ص191"
+    url: "https://shamela.ws/book/6905/175"
+  - source: "asmaiyyat"
+    loc: "ص191، الحاشية"
+    url: "https://shamela.ws/book/6905/175"
+status: "review"

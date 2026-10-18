@@ -1,0 +1,16 @@
+explained: false
+first: "وَلَقَدْ عَلِمْتُ عَلَى تَجَشُّمِيَ الرَّدَى"
+second: "أَنَّ الْحُصُونَ الْخَيْلُ لَا مَدَرُ الْقُرَى"
+vocabulary:
+  - term: "تَجَشُّمِيَ الرَّدَى"
+    text: "يقول محققا «الأصمعيات»: «تجشم الردى: ركوبه على كره ومشقة» [@asmaiyyat، ص141، الحاشية]."
+  - term: "مَدَرُ الْقُرَى"
+    text: "يقول محققا «الأصمعيات»: «المدر: الطين اليابس. يريد بمدر القرى الحصون المبنية» [@asmaiyyat، ص141، الحاشية]."
+sources:
+  - source: "asmaiyyat"
+    loc: "ص141"
+    url: "https://shamela.ws/book/6905/127"
+  - source: "asmaiyyat"
+    loc: "ص141، الحاشية"
+    url: "https://shamela.ws/book/6905/127"
+status: "review"

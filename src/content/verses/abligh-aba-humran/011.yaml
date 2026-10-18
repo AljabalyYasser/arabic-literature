@@ -1,0 +1,16 @@
+explained: false
+first: "وَإِذَا هُوَ اسْتَعْرَضْتَهُ مُتَمَطِّرًا"
+second: "فَتَقُولُ هَذَا مِثْلُ سِرْحَانِ الْغَضَا"
+vocabulary:
+  - term: "مُتَمَطِّرًا"
+    text: "يقول محققا «الأصمعيات»: «مسرعا، تمطرت الخيل: ذهبت مسرعة» [@asmaiyyat، ص142، الحاشية]."
+  - term: "سِرْحَانِ الْغَضَا"
+    text: "يقول محققا «الأصمعيات»: «السرحان: الذئب. الغضا: شجر، وذئبه أخبث الذئاب» [@asmaiyyat، ص142، الحاشية]."
+sources:
+  - source: "asmaiyyat"
+    loc: "ص142"
+    url: "https://shamela.ws/book/6905/128"
+  - source: "asmaiyyat"
+    loc: "ص142، الحاشية"
+    url: "https://shamela.ws/book/6905/128"
+status: "review"

@@ -1,0 +1,13 @@
+kind: "bayt"
+title: "كذاك الدهر دولته سجال"
+part: "1"
+order: 245
+person: "abd-al-masih-ibn-buqayla"
+verses:
+  - "a-bad-al-mundhirayn/007"
+meaning: "الدهر يدور: يوم يسوء ويوم يسرّ. ختم به ابن بُقَيْلة أبياته في زوال ملك الحِيرة بعد صلح أهلها خالد بن الوليد [@tabari، ج3 ص362]."
+sources:
+  - source: "tabari"
+    loc: "ج3 ص362"
+    url: "https://shamela.ws/book/9783/1635"
+status: "review"

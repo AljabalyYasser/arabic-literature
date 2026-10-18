@@ -1,0 +1,22 @@
+explained: false
+first: "أَصْبَحَ مِنِّي الشَّبَابُ قَدْ حَسَرَا"
+second: "إِنْ يَنْأَ عَنِّي فَقَدْ ثَوَى عُصُرَا"
+vocabulary:
+  - term: "حَسَرَا"
+    text: "انكشف وذهب؛ «الحسر: كشطك الشيء عن الشيء» [@lisan، ج4 ص187]."
+  - term: "ثَوَى عُصُرَا"
+    text: "أقام دهرًا؛ «الثواء: طول المقام» [@lisan، ج14 ص125]، والعُصُر: الدهر، «العصر والعصر والعصر والعصر؛ الأخيرة عن اللحياني: الدهر» [@lisan، ج4 ص575]."
+sources:
+  - source: "khizana"
+    loc: "ج7 ص384"
+    url: "https://shamela.ws/book/12732/3339"
+  - source: "lisan"
+    loc: "ج4 ص187"
+    url: "https://shamela.ws/book/1687/2147"
+  - source: "lisan"
+    loc: "ج14 ص125"
+    url: "https://shamela.ws/book/1687/7249"
+  - source: "lisan"
+    loc: "ج4 ص575"
+    url: "https://shamela.ws/book/1687/2535"
+status: "review"

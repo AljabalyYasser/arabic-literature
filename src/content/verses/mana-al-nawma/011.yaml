@@ -1,0 +1,21 @@
+explained: false
+first: "وَأَتَانِي تَقْحِيمُ كَعْبٍ لِيَ الْمَنْـ"
+second: "ـطِقَ إِنَّ النَّكِيثَةَ الْإِقْحَامُ"
+vocabulary:
+  - term: "تَقْحِيمُ"
+    text: "يقول محققا «الأصمعيات»: «أن يجعله يقحم، أى يدخل فى الأمر فجأة بغير روية» [@asmaiyyat، ص186، الحاشية]."
+  - term: "كَعْبٍ"
+    text: "يقول محققا «الأصمعيات»: «هو ابن مامة الإيادى» [@asmaiyyat، ص186، الحاشية]، ويجعله ابن قُتَيْبة كذلك [@ibn-qutayba، ج1 ص231]."
+  - term: "النَّكِيثَةَ"
+    text: "يقول محققا «الأصمعيات»: «الخطة الصعبة» [@asmaiyyat، ص186، الحاشية]."
+sources:
+  - source: "asmaiyyat"
+    loc: "ص186"
+    url: "https://shamela.ws/book/6905/170"
+  - source: "asmaiyyat"
+    loc: "ص186، الحاشية"
+    url: "https://shamela.ws/book/6905/170"
+  - source: "ibn-qutayba"
+    loc: "ج1 ص231"
+    url: "https://shamela.ws/book/23785/224"
+status: "review"

@@ -1,0 +1,18 @@
+explained: false
+first: "وَإِذَا مَا فَجِئْتَهَا بَطْنَ غَيْبٍ"
+second: "قُلْتَ نَخْلٌ قَدْ حَانَ مِنْهَا صِرَامُ"
+vocabulary:
+  - term: "فَجِئْتَهَا"
+    text: "جئتها فجأة."
+  - term: "بَطْنَ غَيْبٍ"
+    text: "يقول محققا «الأصمعيات»: «والغيب: ما اطمأن من الأرض» [@asmaiyyat، ص188، الحاشية]."
+  - term: "صِرَامُ"
+    text: "يقول محققا «الأصمعيات»: «جداد النخل، أى قطع ثمرتها واجتناؤها» [@asmaiyyat، ص188، الحاشية]."
+sources:
+  - source: "asmaiyyat"
+    loc: "ص188"
+    url: "https://shamela.ws/book/6905/172"
+  - source: "asmaiyyat"
+    loc: "ص188، الحاشية"
+    url: "https://shamela.ws/book/6905/172"
+status: "review"

@@ -1,0 +1,18 @@
+explained: false
+first: "وَبِتْنَا نُغَرِّثُهُ بِاللِّجَامِ"
+second: "نُرِيدُ بِهِ قَنَصًا أَوْ غِوَارَا"
+vocabulary:
+  - term: "نُغَرِّثُهُ"
+    text: "ينقل محققا «الأصمعيات» عن هامش الشنقيطية: «نجوعه» [@asmaiyyat، ص190، الحاشية]، أي نمنعه العلف ليضمر ويخفّ."
+  - term: "قَنَصًا"
+    text: "صيدًا."
+  - term: "غِوَارَا"
+    text: "يقول محققا «الأصمعيات»: «الغارة» [@asmaiyyat، ص190، الحاشية]."
+sources:
+  - source: "asmaiyyat"
+    loc: "ص190"
+    url: "https://shamela.ws/book/6905/174"
+  - source: "asmaiyyat"
+    loc: "ص190، الحاشية"
+    url: "https://shamela.ws/book/6905/174"
+status: "review"

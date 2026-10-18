@@ -1,0 +1,12 @@
+kind: "mathal"
+part: "1"
+order: 244
+person: "abd-al-masih-ibn-buqayla"
+text: "عَرَبٌ اسْتَنْبَطْنَا، وَنَبَطٌ اسْتَعْرَبْنَا"
+story: "ibn-buqayla-wa-khalid"
+meaning: "جواب عبد المسيح بن بُقَيْلة حين سأله خالد بن الوليد: «اعرب انتم أم نبط؟» [@bayan، ج2 ص100]. أي: نحن عرب صرنا كالنَّبَط، أهل سواد العراق، بمقامنا في القرى، ونَبَط صاروا عربًا بلسانهم. وهو وصف أهل الحِيرة."
+sources:
+  - source: "bayan"
+    loc: "ج2 ص100"
+    url: "https://shamela.ws/book/10614/410"
+status: "review"

@@ -1,0 +1,13 @@
+kind: "bayt"
+title: "إذا عاش الفتى مئتين عاما"
+part: "1"
+order: 247
+person: "al-rabi-ibn-dabu"
+verses:
+  - "ala-ablugh-bani-rabi/006"
+meaning: "من عاش مئتي عام ذهبت لذته وشبابه. وهو شاهد سِيبَوَيْه على إثبات النون في «مئتين» ونصب ما بعدها في الشعر، وينسبه إلى الربيع بن ضَبُع [@sibawayh، ج1 ص208]."
+sources:
+  - source: "sibawayh"
+    loc: "ج1 ص208"
+    url: "https://shamela.ws/book/23018/206"
+status: "review"

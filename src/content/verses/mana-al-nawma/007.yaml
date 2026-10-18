@@ -1,0 +1,16 @@
+explained: false
+first: "وَيَصُنَّ الْوُجُوهَ فِي الْمَيْسَنَانِيْـ"
+second: "ـيِ كَمَا صَانَ قَرْنَ شَمْسٍ غَمَامُ"
+vocabulary:
+  - term: "الْمَيْسَنَانِيِّ"
+    text: "يقول محققا «الأصمعيات»: «ضرب من الثياب، نسبة على غير قياس إلى «ميسان» وهى كورة بين البصرة وواسط» [@asmaiyyat، ص186، الحاشية]."
+  - term: "قَرْنَ شَمْسٍ"
+    text: "أول ما يطلع منها."
+sources:
+  - source: "asmaiyyat"
+    loc: "ص186"
+    url: "https://shamela.ws/book/6905/170"
+  - source: "asmaiyyat"
+    loc: "ص186، الحاشية"
+    url: "https://shamela.ws/book/6905/170"
+status: "review"

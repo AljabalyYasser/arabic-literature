@@ -1,0 +1,17 @@
+kind: "maqta"
+title: "والموت خير للفتى"
+part: "1"
+order: 243
+person: "zuhayr-ibn-janab"
+verses:
+  - "abaniyya-in-ahlik/010"
+  - "abaniyya-in-ahlik/011"
+meaning: "الموت خير للفتى وفيه بقية من قوته، من أن يعيش حتى يصير شيخًا يعظّمه الناس وهو يمشي متكئًا على رجلين. قالهما زُهَيْر بن جَناب في كبره [@ibn-sallam، ج1 ص37]، ومات وقد أقسم ألا يشرب إلا الخمر حين جاءه ابنه يقوده [@muammarun، ص32]."
+sources:
+  - source: "ibn-sallam"
+    loc: "ج1 ص37"
+    url: "https://shamela.ws/book/6738/36"
+  - source: "muammarun"
+    loc: "ص32"
+    url: "https://shamela.ws/book/671/55"
+status: "review"

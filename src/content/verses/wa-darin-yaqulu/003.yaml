@@ -1,0 +1,18 @@
+explained: false
+first: "وَبَاتَ الظَّلِيمُ مَكَانَ الْمِجَنْـ"
+second: "ـنِ تَسْمَعُ بِاللَّيْلِ مِنْهُ عِرَارَا"
+vocabulary:
+  - term: "الظَّلِيمُ"
+    text: "يقول محققا «الأصمعيات»: «ذكر النعام» [@asmaiyyat، ص190، الحاشية]."
+  - term: "الْمِجَنِّ"
+    text: "يقول محققا «الأصمعيات»: «الترس» [@asmaiyyat، ص190، الحاشية]."
+  - term: "عِرَارَا"
+    text: "يقول محققا «الأصمعيات»: «صوت الظليم» [@asmaiyyat، ص190، الحاشية]."
+sources:
+  - source: "asmaiyyat"
+    loc: "ص190"
+    url: "https://shamela.ws/book/6905/174"
+  - source: "asmaiyyat"
+    loc: "ص190، الحاشية"
+    url: "https://shamela.ws/book/6905/174"
+status: "review"

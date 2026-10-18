@@ -1,0 +1,16 @@
+explained: false
+first: "وَشَبَابٌ كَأَنَّهُمْ أُسْدُ غِيلٍ"
+second: "خَالَطَتْ فَرْطَ حَدِّهِمْ أَحْلَامُ"
+vocabulary:
+  - term: "غِيلٍ"
+    text: "يقول محققا «الأصمعيات»: «الأجمة، وهى الشجر الكثير الملتف» [@asmaiyyat، ص187، الحاشية]."
+  - term: "فَرْطَ حَدِّهِمْ"
+    text: "يقول محققا «الأصمعيات»: «الحد: الحدة والغضب، وفرطها: غلبتها وإسرافها» [@asmaiyyat، ص187، الحاشية]."
+sources:
+  - source: "asmaiyyat"
+    loc: "ص187"
+    url: "https://shamela.ws/book/6905/171"
+  - source: "asmaiyyat"
+    loc: "ص187، الحاشية"
+    url: "https://shamela.ws/book/6905/171"
+status: "review"

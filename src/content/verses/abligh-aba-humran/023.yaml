@@ -1,0 +1,20 @@
+explained: false
+first: "فَنَهَضْتُ فِي الْبَرْكِ الْهُجُودِ وَفِي يَدِي"
+second: "لَدْنُ الْمَهَزَّةِ ذُو كُعُوبٍ كَالنَّوَى"
+vocabulary:
+  - term: "الْبَرْكِ"
+    text: "يقول محققا «الأصمعيات»: «جماعة الإبل الباركة» [@asmaiyyat، ص143، الحاشية]."
+  - term: "الْهُجُودِ"
+    text: "النائمة."
+  - term: "لَدْنُ الْمَهَزَّةِ"
+    text: "يقول محققا «الأصمعيات»: «أراد رمحا يهتز من لينه» [@asmaiyyat، ص143، الحاشية]."
+  - term: "كُعُوبٍ"
+    text: "عُقَد قصب الرمح."
+sources:
+  - source: "asmaiyyat"
+    loc: "ص143"
+    url: "https://shamela.ws/book/6905/129"
+  - source: "asmaiyyat"
+    loc: "ص143، الحاشية"
+    url: "https://shamela.ws/book/6905/129"
+status: "review"

@@ -1,0 +1,16 @@
+explained: false
+first: "مِنْ رِجَالٍ مِنَ الْأَقَارِبِ فَادُوا"
+second: "مِنْ حُذَاقٍ هُمُ الرُّؤُوسُ الْعِظَامُ"
+vocabulary:
+  - term: "فَادُوا"
+    text: "يقول محققا «الأصمعيات»: «ماتوا، فاد يفيد فيدا، إذا مات» [@asmaiyyat، ص187، الحاشية]."
+  - term: "حُذَاقٍ"
+    text: "يقول محققا «الأصمعيات»: «قبيلة من إياد» [@asmaiyyat، ص187، الحاشية]."
+sources:
+  - source: "asmaiyyat"
+    loc: "ص187"
+    url: "https://shamela.ws/book/6905/171"
+  - source: "asmaiyyat"
+    loc: "ص187، الحاشية"
+    url: "https://shamela.ws/book/6905/171"
+status: "review"
