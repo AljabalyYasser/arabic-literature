@@ -1,0 +1,19 @@
+explained: false
+first: "فَمُوتُوا كِرَامًا أَوْ أَمِيتُوا عَدُوَّكُمْ"
+second: "وَدِبُّوا لِنَارِ الحَرْبِ بِالحَطَبِ الجَزْلِ"
+vocabulary:
+  - term: "دِبُّوا"
+    text: "امشوا إليها، و«دبّ النمل وغيره من الحيوان على الأرض، يدبّ دبا ودبيبا: مشى على هينته» [@lisan، ج1 ص369]."
+  - term: "الجَزْلِ"
+    text: "«الجزل: الحطب اليابس، وقيل الغليظ، وقيل ما عظم من الحطب ويبس» [@lisan، ج11 ص109]، وهو أشدّ الحطب اشتعالًا وأطوله بقاء."
+sources:
+  - source: "aghani-dk"
+    loc: "ج11 ص166"
+    url: "https://archive.org/details/Al-aghani_11/page/n165/mode/1up"
+  - source: "lisan"
+    loc: "ج1 ص369"
+    url: "https://shamela.ws/book/1687/369"
+  - source: "lisan"
+    loc: "ج11 ص109"
+    url: "https://shamela.ws/book/1687/5291"
+status: "review"

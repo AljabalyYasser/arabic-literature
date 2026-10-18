@@ -1,0 +1,14 @@
+kind: "maqta"
+title: "صوت عفيرة"
+part: "1"
+order: 236
+person: "afira"
+verses:
+  - "ayajmulu/001"
+  - "ayajmulu/003"
+meaning: "أيجمل أن يُصنع هذا بنسائكم وأنتم رجال كالنمل عددًا؟ لو كنا نحن الرجال وكنتم النساء لما رضينا به. هما البيتان اللذان غُنّيا من قصيدة عُفَيْرة، يبدأ بهما أبو الفَرَج خبرها [@aghani-dk، ج11 ص163]، ونسبتهما إليها منسوبة."
+sources:
+  - source: "aghani-dk"
+    loc: "ج11 ص163"
+    url: "https://archive.org/details/Al-aghani_11/page/n162/mode/1up"
+status: "review"

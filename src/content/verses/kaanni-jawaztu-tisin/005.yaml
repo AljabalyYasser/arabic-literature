@@ -1,0 +1,19 @@
+explained: false
+first: "إِذَا مَا رَآنِي النَّاسُ قَالُوا أَلَمْ يَكُنْ"
+second: "حَدِيثًا جَدِيدَ الْبَرْيِ غَيْرَ كَهَامِ"
+vocabulary:
+  - term: "جَدِيدَ الْبَرْيِ"
+    text: "كالسهم أو العود الذي نُحت حديثًا؛ «برى العود والقلم والقدح وغيرها يبريه بريا: نحته» [@lisan، ج14 ص70]. وفي الديوان كما يذكر محققو «الأغاني»: «جديد البز»، «والبز: السلاح» [@aghani-dk، ج18 ص142، الحاشية]."
+  - term: "كَهَامِ"
+    text: "«ورجل كهام وكهيم: ثقيل مسن دثور لا غناء عنده» [@lisan، ج12 ص529]."
+sources:
+  - source: "aghani-dk"
+    loc: "ج18 ص142"
+    url: "https://archive.org/details/aghani2014/18/page/n144/mode/1up"
+  - source: "lisan"
+    loc: "ج14 ص70"
+    url: "https://shamela.ws/book/1687/7194"
+  - source: "lisan"
+    loc: "ج12 ص529"
+    url: "https://shamela.ws/book/1687/6442"
+status: "review"

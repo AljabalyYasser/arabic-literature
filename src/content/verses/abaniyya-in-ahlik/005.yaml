@@ -1,0 +1,16 @@
+explained: false
+first: "وَلَقَدْ رَأَيْتُ النَّارَ لِلسْـ"
+second: "ـسُلَّافِ تُوقَدُ فِي طَمِيَّهْ"
+vocabulary:
+  - term: "السُّلَّافِ"
+    text: "جمع سالف، وهم المتقدمون في السير [@ibn-sallam، ج1 ص36، الحاشية]."
+  - term: "طَمِيَّهْ"
+    text: "رأس جبل منيع كان بمنزل زُهَيْر. ويرى شاكر أنه يذكر يوم خَزازَى، حين أُوقدت النار على جبل ليهتدي بها جيش ربيعة، فيذكر بهذا البيت قِدَم عهده بالحروب [@ibn-sallam، ج1 ص36، الحاشية]."
+sources:
+  - source: "ibn-sallam"
+    loc: "ج1 ص36"
+    url: "https://shamela.ws/book/6738/35"
+  - source: "ibn-sallam"
+    loc: "ج1 ص36، الحاشية"
+    url: "https://archive.org/details/20240818_20240818_1704/page/n35/mode/1up"
+status: "review"

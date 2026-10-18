@@ -1,0 +1,19 @@
+explained: false
+first: "كَأَنِّي وَقَدْ جَاوَزْتُ تِسْعِينَ حِجَّةً"
+second: "خَلَعْتُ بِهَا عَنِّي عِنَانَ لِجَامِي"
+vocabulary:
+  - term: "حِجَّةً"
+    text: "سنة؛ «والحجة: السنة، والجمع حجج» [@lisan، ج2 ص227]."
+  - term: "عِنَانَ لِجَامِي"
+    text: "«وعنان اللجام: السير الذي تمسك به الدابة» [@lisan، ج13 ص291]. فكأنه فرس خُلع عنه لجامه، فلا يُركب ولا يُقاد."
+sources:
+  - source: "aghani-dk"
+    loc: "ج18 ص142"
+    url: "https://archive.org/details/aghani2014/18/page/n144/mode/1up"
+  - source: "lisan"
+    loc: "ج2 ص227"
+    url: "https://shamela.ws/book/1687/1031"
+  - source: "lisan"
+    loc: "ج13 ص291"
+    url: "https://shamela.ws/book/1687/6852"
+status: "review"

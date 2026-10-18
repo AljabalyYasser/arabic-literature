@@ -1,0 +1,18 @@
+explained: false
+first: "كَمْ مِنْ مُحَيًّى لَا يُوَا"
+second: "زِينِي وَلَا يَهَبُ الرَّعِيَّهْ"
+vocabulary:
+  - term: "مُحَيًّى"
+    text: "ملك تُلقى عليه تحية الملوك، كما يقول شاكر [@ibn-sallam، ج1 ص36، الحاشية]."
+  - term: "يُوَازِينِي"
+    text: "يساميني ويعادلني [@ibn-sallam، ج1 ص36، الحاشية]."
+  - term: "الرَّعِيَّهْ"
+    text: "ما يتولاه الراعي من نَعَم أو ناس، وأراد هنا الإبل التي تُمنح عطية، فيما يقول شاكر [@ibn-sallam، ج1 ص36، الحاشية]."
+sources:
+  - source: "ibn-sallam"
+    loc: "ج1 ص36"
+    url: "https://shamela.ws/book/6738/35"
+  - source: "ibn-sallam"
+    loc: "ج1 ص36، الحاشية"
+    url: "https://archive.org/details/20240818_20240818_1704/page/n35/mode/1up"
+status: "review"

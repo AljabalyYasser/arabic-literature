@@ -1,0 +1,13 @@
+kind: "bayt"
+title: "فموتوا كراما"
+part: "1"
+order: 237
+person: "afira"
+verses:
+  - "ayajmulu/004"
+meaning: "موتوا كرامًا في الحرب أو اقتلوا عدوكم، وامشوا إلى نار الحرب تحملون لها الحطب الغليظ اليابس، أي أشعلوها حتى تستعر. من قصيدة التحريض المنسوبة إلى عُفَيْرة [@aghani-dk، ج11 ص166]."
+sources:
+  - source: "aghani-dk"
+    loc: "ج11 ص166"
+    url: "https://archive.org/details/Al-aghani_11/page/n165/mode/1up"
+status: "review"

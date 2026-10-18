@@ -1,0 +1,15 @@
+kind: "mathal"
+title: "وصية دويد"
+part: "1"
+order: 235
+person: "duwayd-ibn-zayd"
+text: "أُوصِيكُمْ بِالنَّاسِ شَرًّا، لَا تَقْبَلُوا لَهُمْ مَعْذِرَةً، وَلَا تُقِيلُوهُمْ عَثْرَةً"
+meaning: "لا تقبلوا من الناس عذرًا، ولا تصفحوا عن زلّة أحد منهم: وصية دُوَيْد بن زَيْد لبنيه عند موته فيما يروي ابن سَلّام [@ibn-sallam، ج1 ص32–33]. ويروي أبو حاتم السِّجِسْتانيّ وصية تكاد تكون هي لأبيه نَهْد بن زَيْد [@muammarun، ص26]."
+sources:
+  - source: "ibn-sallam"
+    loc: "ج1 ص32–33"
+    url: "https://shamela.ws/book/6738/31"
+  - source: "muammarun"
+    loc: "ص26"
+    url: "https://shamela.ws/book/671/49"
+status: "review"

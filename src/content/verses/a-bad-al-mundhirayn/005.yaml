@@ -1,0 +1,17 @@
+explained: false
+first: "وَكُنَّا لَا يُرَامُ لَنَا حَرِيمٌ"
+second: "فَنَحْنُ كَضَرَّةِ الضَّرْعِ الْفَخُورِ"
+vocabulary:
+  - term: "كَضَرَّةِ الضَّرْعِ الْفَخُورِ"
+    text: "«وضرة الضرع: لحمها» [@lisan، ج4 ص487]، والفَخُور من الإبل: «العظيمة الضرع القليلة اللبن» [@lisan، ج5 ص49]. أي صرنا ضرعًا كبيرًا لا لبن فيه: هيبة بلا نفع."
+sources:
+  - source: "tabari"
+    loc: "ج3 ص362"
+    url: "https://shamela.ws/book/9783/1635"
+  - source: "lisan"
+    loc: "ج4 ص487"
+    url: "https://shamela.ws/book/1687/2447"
+  - source: "lisan"
+    loc: "ج5 ص49"
+    url: "https://shamela.ws/book/1687/2633"
+status: "review"

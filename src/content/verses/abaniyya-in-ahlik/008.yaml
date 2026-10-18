@@ -1,0 +1,16 @@
+explained: false
+first: "فَأَصَبْتُ مِنْ حُمُرِ الْقَنَا"
+second: "نِ مَعًا وَمِنْ حُمُرِ الْقَفِيَّهْ"
+vocabulary:
+  - term: "حُمُرِ الْقَنَانِ"
+    text: "حمير الوحش التي ترعى بالقَنان، وهو جبل لبني أسد [@ibn-sallam، ج1 ص37، الحاشية]."
+  - term: "الْقَفِيَّهْ"
+    text: "يقول شاكر إنه لم يجد «قفية» اسمًا لموضع، وكأنه مكان تهوي إليه حمر الوحش، والقفية: الناحية [@ibn-sallam، ج1 ص37، الحاشية]."
+sources:
+  - source: "ibn-sallam"
+    loc: "ج1 ص37"
+    url: "https://shamela.ws/book/6738/36"
+  - source: "ibn-sallam"
+    loc: "ج1 ص37، الحاشية"
+    url: "https://archive.org/details/20240818_20240818_1704/page/n36/mode/1up"
+status: "review"

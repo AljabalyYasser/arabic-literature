@@ -1,0 +1,16 @@
+explained: false
+first: "مِنْ أَنْ يُرَى الشَّيْخَ الْبَجَا"
+second: "لَ وَقَدْ يُهَادَى بِالْعَشِيَّهْ"
+vocabulary:
+  - term: "الشَّيْخَ الْبَجَالَ"
+    text: "الشيخ المعظَّم، والبَجال: السيد له هيئة وسن وتبجيل. ويقول شاكر إن الألف واللام زائدتان في «الشيخ»، والمعنى: شيخًا بجالًا [@ibn-sallam، ج1 ص37، الحاشية]."
+  - term: "يُهَادَى"
+    text: "يمشي بين رجلين معتمدًا عليهما من ضعفه وتمايله [@ibn-sallam، ج1 ص37، الحاشية]."
+sources:
+  - source: "ibn-sallam"
+    loc: "ج1 ص37"
+    url: "https://shamela.ws/book/6738/36"
+  - source: "ibn-sallam"
+    loc: "ج1 ص37، الحاشية"
+    url: "https://archive.org/details/20240818_20240818_1704/page/n36/mode/1up"
+status: "review"

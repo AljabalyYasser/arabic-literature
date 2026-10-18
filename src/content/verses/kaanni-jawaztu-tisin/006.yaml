@@ -1,0 +1,17 @@
+explained: false
+first: "وَأَفْنَى وَمَا أُفْنِي مِنَ الدَّهْرِ لَيْلَةً"
+second: "وَلَمْ يُغْنِ مَا أَفْنَيْتُ سِلْكَ نِظَامِ"
+vocabulary:
+  - term: "سِلْكَ نِظَامِ"
+    text: "خيطًا يُنظم فيه الخرز؛ «الخيط: السلك» [@lisan، ج7 ص298]، «والنظام: ما نظمت فيه الشيء من خيط وغيره» [@lisan، ج12 ص578]. أي إن ما أبلاه من عمره لم يغن عنه شيئًا، ولا قدر خيط."
+sources:
+  - source: "aghani-dk"
+    loc: "ج18 ص142"
+    url: "https://archive.org/details/aghani2014/18/page/n144/mode/1up"
+  - source: "lisan"
+    loc: "ج7 ص298"
+    url: "https://shamela.ws/book/1687/3681"
+  - source: "lisan"
+    loc: "ج12 ص578"
+    url: "https://shamela.ws/book/1687/6491"
+status: "review"

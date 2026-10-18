@@ -1,0 +1,19 @@
+explained: false
+first: "كَذَاكَ الدَّهْرُ دَوْلَتُهُ سِجَالٌ"
+second: "فَيَوْمٌ مِنْ مَسَاةٍ أَوْ سُرُورِ"
+vocabulary:
+  - term: "سِجَالٌ"
+    text: "مرة لك ومرة عليك؛ وفي قولهم «الحرب بيننا سجال»: «معناه أنا ندال عليه مرة ويدال علينا أخرى» [@lisan، ج11 ص325]."
+  - term: "مَسَاةٍ"
+    text: "مَساءة، أي ما يسوء، خُففت همزتها، وهي كذلك «مساة» في «المعمرين» [@muammarun، ص48]."
+sources:
+  - source: "tabari"
+    loc: "ج3 ص362"
+    url: "https://shamela.ws/book/9783/1635"
+  - source: "lisan"
+    loc: "ج11 ص325"
+    url: "https://shamela.ws/book/1687/5505"
+  - source: "muammarun"
+    loc: "ص48"
+    url: "https://shamela.ws/book/671/71"
+status: "review"

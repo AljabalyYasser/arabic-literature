@@ -1,0 +1,18 @@
+kind: "bayt"
+title: "لا أحد أذل من جديس"
+part: "1"
+order: 238
+person: "afira"
+story: "tasm-wa-jadis"
+lines:
+  - first: "لَا أَحَدٌ أَذَلُّ مِنْ جَدِيسِ"
+    second: "أَهَكَذَا يُفْعَلُ بِالعَرُوسِ"
+meaning: "ليس في الناس أذلّ من قومي جَدِيس: أهكذا تُعامَل العروس، يفتضّها رجل غير زوجها؟ رجز عُفَيْرة حين خرجت إلى قومها في دمها [@aghani-dk، ج11 ص165]، ويرويه ابن بَرِّيّ [@lisan، ج5 ص383]."
+sources:
+  - source: "aghani-dk"
+    loc: "ج11 ص165"
+    url: "https://archive.org/details/Al-aghani_11/page/n164/mode/1up"
+  - source: "lisan"
+    loc: "ج5 ص383"
+    url: "https://shamela.ws/book/1687/2967"
+status: "review"

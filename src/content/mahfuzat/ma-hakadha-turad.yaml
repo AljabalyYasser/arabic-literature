@@ -1,0 +1,14 @@
+kind: "mathal"
+part: "1"
+order: 232
+person: "malik-ibn-zayd-manat"
+text: "أَوْرَدَهَا سَعْدٌ وَسَعْدٌ مُشْتَمِلْ، مَا هَكَذَا تُورَدُ يَا سَعْدُ الإِبِلْ"
+meaning: "أورد سعد الإبل الماء وهو ملتفّ بثوبه لم يشمّر للعمل، وليس هكذا تُسقى الإبل. قاله مالك بن زَيْد مَناة في أخيه سعد [@ibn-sallam، ج1 ص30]، و«يضرب مثلا للرجل يقصر في الأمر» كما يقول العسكري [@askari-amthal، ج1 ص93]."
+sources:
+  - source: "ibn-sallam"
+    loc: "ج1 ص30"
+    url: "https://shamela.ws/book/6738/29"
+  - source: "askari-amthal"
+    loc: "ج1 ص93"
+    url: "https://shamela.ws/book/6897/91"
+status: "review"

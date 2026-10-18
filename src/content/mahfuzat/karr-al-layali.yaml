@@ -1,0 +1,17 @@
+kind: "bayt"
+title: "كر الليالي واختلاف الأعصر"
+part: "1"
+order: 233
+person: "asur-ibn-sad"
+lines:
+  - first: "أَعُمَيْرَ إِنَّ أَبَاكِ شَيَّبَ رَأْسَهُ"
+    second: "كَرُّ اللَّيَالِي وَاخْتِلَافُ الأَعْصُرِ"
+meaning: "يا عُمَيْرة، إن أباك شيّبه تتابع الليالي وتعاقب الدهور. «فبهذا البيت سمى أعصر» كما يقول ابن سَلّام [@ibn-sallam، ج1 ص33]، والأَعْصُر جمع عَصْر، وهو الدهر [@lisan، ج5 ص294]."
+sources:
+  - source: "ibn-sallam"
+    loc: "ج1 ص33"
+    url: "https://shamela.ws/book/6738/32"
+  - source: "lisan"
+    loc: "ج5 ص294"
+    url: "https://shamela.ws/book/1687/2878"
+status: "review"

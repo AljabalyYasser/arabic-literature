@@ -1,0 +1,18 @@
+explained: false
+first: "وَلَقَدْ رَحَلْتُ الْبَازِلَ الْـ"
+second: "ـوَجْنَاءَ لَيْسَ لَهَا وَلِيَّهْ"
+vocabulary:
+  - term: "الْبَازِلَ"
+    text: "من الإبل: ما طلع نابه في سنته التاسعة، أي في تمام قوته [@ibn-sallam، ج1 ص36، الحاشية]."
+  - term: "الْوَجْنَاءَ"
+    text: "الناقة الغليظة الصلبة [@ibn-sallam، ج1 ص36، الحاشية]."
+  - term: "وَلِيَّهْ"
+    text: "البرذعة تكون على ظهر الناقة. يصف جلده وصبره على ركوب الناقة بلا برذعة عند الغزو، كما يقول شاكر [@ibn-sallam، ج1 ص36، الحاشية]."
+sources:
+  - source: "ibn-sallam"
+    loc: "ج1 ص36"
+    url: "https://shamela.ws/book/6738/35"
+  - source: "ibn-sallam"
+    loc: "ج1 ص36، الحاشية"
+    url: "https://archive.org/details/20240818_20240818_1704/page/n35/mode/1up"
+status: "review"
