@@ -1,15 +1,15 @@
 explained: false
 first: لَعَمْرُكَ مَا إِنْ ضَرَّنِي وَسْطَ حِمْيَرٍ
-second: وَأَقْوَالِهَا إِلَّا الْمَخِيلَةُ وَالسُّكُرْ
+second: وَأَقْيَالِهَا إِلَّا الْمَخِيلَةُ وَالسُّكُرْ
 vocabulary:
-- term: أَقْوَالِهَا
-  text: ملوكها، جمع قَيْل [@lisan، ج11 ص576].
+- term: أَقْيَالِهَا
+  text: 'ملوكها، «الأقيال: الملوك» [@diwan-imru-al-qais، ص111]، واحدهم قَيْل، «والجمع أقوال وأقيال أيضا» [@lisan، ج11 ص576].'
 - term: الْمَخِيلَةُ
   text: الكِبر والخُيَلاء.
 sources:
 - source: diwan-imru-al-qais
-  loc: ص99
-  url: https://shamela.ws/book/27112/88
+  loc: ص111
+  url: https://archive.org/details/3426pdf_202001/page/n139/mode/1up
 - source: lisan
   loc: ج11 ص576
   url: https://shamela.ws/book/1687/5754

@@ -1,0 +1,17 @@
+kind: "bayt"
+title: "إنما الميت ميت الأحياء"
+part: "1"
+order: 327
+person: "adi-ibn-al-rala"
+lines:
+  - first: "لَيْسَ مَنْ ماتَ فَاسْتَراحَ بِمَيْتٍ"
+    second: "إِنَّما المَيْتُ مَيِّتُ الأَحْياءِ"
+meaning: "الميت حقًّا حيّ يعيش ذليلًا، لا من مات فاستراح. يقول محققا «الأصمعيات» إن البيتين الأخيرين من القطعة «سارا بعد ذلك مسير المثل والحكمة الخالدة لكل حياة ذليلة رخيصة» [@asmaiyyat، ص152، الحاشية]."
+sources:
+  - source: "asmaiyyat"
+    loc: "ص152"
+    url: "https://shamela.ws/book/6905/138"
+  - source: "khizana"
+    loc: "ج9 ص584–585"
+    url: "https://shamela.ws/book/12732/4702"
+status: "review"

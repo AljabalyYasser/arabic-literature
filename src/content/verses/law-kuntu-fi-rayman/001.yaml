@@ -1,0 +1,16 @@
+explained: false
+first: "لَوْ كُنْتُ فِي رَيْمَانَ لَسْتُ بِبَارِحٍ"
+second: "أَبَدًا وَسُدَّ خَصَاصُهُ بِالطِّينِ"
+vocabulary:
+  - term: "رَيْمانَ"
+    text: "يقول محققا «الأصمعيات»: «بفتح الراء وسكون الياء: قصر باليمن» [@asmaiyyat، ص126، الحاشية]."
+  - term: "خَصاصُهُ"
+    text: "«خصاصه: فروجه وخلله» [@asmaiyyat، ص126، الحاشية]، أي الشقوق بين حجارته."
+sources:
+  - source: "asmaiyyat"
+    loc: "ص126"
+    url: "https://shamela.ws/book/6905/112"
+  - source: "asmaiyyat"
+    loc: "ص126، الحاشية"
+    url: "https://shamela.ws/book/6905/112"
+status: "review"

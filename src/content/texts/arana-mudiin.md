@@ -27,13 +27,13 @@ map:
     text: "كيف يرجو من الدهر لينًا بعد جده الحارِث وأبيه حُجْر وعمه قتيل الكُلاب؟"
 edition:
   source: "diwan-imru-al-qais"
-  loc: "ص78–79"
-  url: "https://shamela.ws/book/27112/68"
-  note: "النص المعتمد، وهي فيها ثلاثة عشر بيتًا."
+  loc: "ص97–100"
+  url: "https://archive.org/details/3426pdf_202001/page/n125/mode/1up"
+  note: "النص المعتمد: رواية الأصمعي من نسخة الأعلم، القصيدة 11، وهي فيها ثلاثة عشر بيتًا على ترتيبنا. وأخذنا منها «عَمَّا قَلِيلٍ» في البيت 12، وكان نصنا قبل ذلك على نشرة دار المعرفة (المصطاوي)، وفيها «عما قريب»."
 sources:
   - source: "diwan-imru-al-qais"
-    loc: "ص78–79"
-    url: "https://shamela.ws/book/27112/68"
+    loc: "ص97–100"
+    url: "https://archive.org/details/3426pdf_202001/page/n125/mode/1up"
     note: "النص."
   - source: "deif"
     loc: "ج1 ص246"

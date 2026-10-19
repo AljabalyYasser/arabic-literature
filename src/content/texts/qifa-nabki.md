@@ -38,7 +38,7 @@ edition:
   source: "ibn-al-anbari"
   loc: "ص15–111"
   url: "https://shamela.ws/book/124335/14"
-  note: "النص المعتمد، وهو في عدّنا اثنان وثمانون بيتًا."
+  note: "النص المعتمد، وهو في عدّنا اثنان وثمانون بيتًا. وهي في الديوان برواية الأعلم القصيدة الأولى، سبعة وسبعون بيتًا [@diwan-imru-al-qais، ص7–26]."
 sources:
   - source: "ibn-al-anbari"
     loc: "ص15–111"

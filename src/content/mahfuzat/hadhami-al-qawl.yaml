@@ -1,0 +1,17 @@
+kind: "bayt"
+title: "فإن القول ما قالت حذامِ"
+part: "1"
+order: 323
+person: "lujaym-ibn-sab"
+lines:
+  - first: "إِذا قالَتْ حَذامِ فَصَدِّقُوها"
+    second: "فَإِنَّ القَوْلَ ما قالَتْ حَذامِ"
+meaning: "يُضرب في تصديق المخبر الصادق. يقول العسكري: «فَصَار كل مصراع من هَذَا الْبَيْت مثلا فِي تَصْدِيق الرجل مخبره» [@askari-amthal، ج2 ص116]. ويُنسب إلى لُجَيْم بن صَعْب في امرأته حذام، ويُروى لغيره. و«حذامِ» مبنية على الكسر وإن كانت فاعلًا."
+sources:
+  - source: "askari-amthal"
+    loc: "ج2 ص116"
+    url: "https://shamela.ws/book/6897/701"
+  - source: "maydani"
+    loc: "ج2 ص106"
+    url: "https://shamela.ws/book/12929/2970"
+status: "review"

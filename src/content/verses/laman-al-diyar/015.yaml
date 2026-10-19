@@ -1,15 +1,20 @@
 explained: false
 first: أَبْلِغْ سُبَيْعًا إِنْ عَرَضْتَ رِسَالَةً
-second: إِنِّي كَهَمِّكَ إِنْ عَشَوْتُ أَمَامِي
+second: أَنِّي كَهَمِّكَ إِنْ عَشَوْتُ أُحَامِي
 vocabulary:
 - term: سُبَيْعًا
-  text: سُبيع بن عَوْف من بني طُهيّة، وفيه قيلت القصيدة بحسب مقدمتها في الديوان.
+  text: سُبَيْع بن عوف بن مالك بن حنظلة، وفيه قيلت القصيدة بحسب مقدمتها في الديوان [@diwan-imru-al-qais، ص114].
 - term: عَرَضْتَ
   text: 'أتيت العَروض: «وعَرَضَ الرجلُ إذا أتى العَروضَ، وهي مكة والمدينة وما حولهما» [@lisan، ج7 ص173].'
+- term: أُحَامِي
+  text: أدافع وأحمي.
 sources:
 - source: diwan-imru-al-qais
-  loc: ص152
-  url: https://shamela.ws/book/27112/136
+  loc: ص114
+  url: https://archive.org/details/3426pdf_202001/page/n142/mode/1up
+- source: diwan-imru-al-qais
+  loc: ص117
+  url: https://archive.org/details/3426pdf_202001/page/n145/mode/1up
 - source: lisan
   loc: ج7 ص173
   url: https://shamela.ws/book/1687/3556

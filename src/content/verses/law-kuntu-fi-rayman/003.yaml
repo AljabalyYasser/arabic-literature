@@ -1,0 +1,19 @@
+explained: false
+first: "وَلَقَدْ مَرَرْتُ عَلَى اللَّئِيمِ يَسُبُّنِي"
+second: "فَمَضَيْتُ ثُمَّتَ قُلْتُ لَا يَعْنِينِي"
+vocabulary:
+  - term: "ثُمَّتَ"
+    text: "يقول محققا «الأصمعيات»: «هى «ثم» العاطفة تزيد العرب التاء فى آخرها، فتختص بعطف الجمل» [@asmaiyyat، ص126، الحاشية]."
+  - term: "لا يَعْنِينِي"
+    text: "يقول البغدادي: «أَي لَا يهمني أَو بِمَعْنى لَا يقصدني» [@khizana، ج1 ص358]."
+sources:
+  - source: "asmaiyyat"
+    loc: "ص126"
+    url: "https://shamela.ws/book/6905/112"
+  - source: "asmaiyyat"
+    loc: "ص126، الحاشية"
+    url: "https://shamela.ws/book/6905/112"
+  - source: "khizana"
+    loc: "ج1 ص358"
+    url: "https://shamela.ws/book/12732/356"
+status: "review"

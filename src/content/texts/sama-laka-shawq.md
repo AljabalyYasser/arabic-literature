@@ -12,13 +12,13 @@ occasion: "يقول ابن قُتَيْبة إنه قالها حين خرج إل
 thesis: "قصيدة رحلة: يبدأ بشوق إلى ظعائن راحلة، ثم يصف ناقته وطريقه إلى الشام، ويعلن غايته: ملك يستردّه أو موت يُعذر به."
 edition:
   source: "diwan-imru-al-qais"
-  loc: "ص93–98"
-  url: "https://shamela.ws/book/27112/82"
-  note: "النص المعتمد، وهي فيها ستون بيتًا."
+  loc: "ص56–71"
+  url: "https://archive.org/details/3426pdf_202001/page/n84/mode/1up"
+  note: "النص المعتمد: رواية الأصمعي من نسخة الأعلم، القصيدة 4، وهي فيها أربعة وخمسون بيتًا، والبيتان اللذان نقرؤهما فيها 34 و35 كترقيمنا وبألفاظنا. وكان نصنا قبل ذلك على نشرة دار المعرفة (المصطاوي)، وهي فيها ستون بيتًا."
 sources:
   - source: "diwan-imru-al-qais"
-    loc: "ص93–98"
-    url: "https://shamela.ws/book/27112/82"
+    loc: "ص56–71"
+    url: "https://archive.org/details/3426pdf_202001/page/n84/mode/1up"
     note: "النص."
   - source: "ibn-qutayba"
     loc: "ج1 ص119"

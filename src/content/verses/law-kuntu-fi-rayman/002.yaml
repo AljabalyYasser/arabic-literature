@@ -1,0 +1,16 @@
+explained: false
+first: "لِي فِي ذُرَاهُ مَآكِلٌ وَمَشَارِبٌ"
+second: "جَاءَتْ إِلَيَّ مَنِيَّتِي تَبْغِينِي"
+vocabulary:
+  - term: "ذُراهُ"
+    text: "يقول محققا «الأصمعيات»: «الذرى، بفتح الذال: ما يكن من الريح من حائط أو شجر» [@asmaiyyat، ص126، الحاشية]، أي في كنفه وظلّه."
+  - term: "جاءَتْ"
+    text: "«جاءت: هو جواب «لو»» [@asmaiyyat، ص126، الحاشية]: لو كنت في ريمان لجاءتني منيتي."
+sources:
+  - source: "asmaiyyat"
+    loc: "ص126"
+    url: "https://shamela.ws/book/6905/112"
+  - source: "asmaiyyat"
+    loc: "ص126، الحاشية"
+    url: "https://shamela.ws/book/6905/112"
+status: "review"

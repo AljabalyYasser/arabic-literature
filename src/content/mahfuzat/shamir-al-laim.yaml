@@ -1,0 +1,17 @@
+kind: "bayt"
+title: "ولقد مررت على اللئيم يسبني"
+part: "1"
+order: 328
+person: "shamir-ibn-amr"
+lines:
+  - first: "وَلَقَدْ مَرَرْتُ عَلَى اللَّئِيمِ يَسُبُّنِي"
+    second: "فَمَضَيْتُ ثُمَّتَ قُلْتُ لا يَعْنِينِي"
+meaning: "في الحلم وترك مجاراة السفيه: يمرّ بلئيم يشتمه فيمضي ويقول: لست المقصود. والبيت في كتب النحو «ولقد أمُرُّ»، ويرويه سيبويه «لرجل من بني سلولٍ مولدٍ» [@sibawayh، ج3 ص24]، ويرويه الأصمعي لشمر بن عمرو الحنفي [@asmaiyyat، ص126]."
+sources:
+  - source: "asmaiyyat"
+    loc: "ص126"
+    url: "https://shamela.ws/book/6905/112"
+  - source: "sibawayh"
+    loc: "ج3 ص24"
+    url: "https://shamela.ws/book/23018/877"
+status: "review"

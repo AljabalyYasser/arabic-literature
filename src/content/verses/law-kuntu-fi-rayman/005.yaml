@@ -1,0 +1,16 @@
+explained: false
+first: "يَا رُبَّ نِكْسٍ إِنْ أَتَتْهُ مَنِيَّتِي"
+second: "فَرِحٍ وَخِرْقٍ إِنْ هَلَكْتُ حَزِينِ"
+vocabulary:
+  - term: "نِكْسٍ"
+    text: "يقول محققا «الأصمعيات»: «النكس، بكسر النون وسكون الكاف: الرجل الضعيف، أو المقصر عن غاية النجدة والكرم» [@asmaiyyat، ص126، الحاشية]."
+  - term: "خِرْقٍ"
+    text: "«الخرق، بكسر الخاء: الكريم المتخرق فى الكرم، أو الفتى الظريف فى سماحة ونجدة» [@asmaiyyat، ص126، الحاشية]."
+sources:
+  - source: "asmaiyyat"
+    loc: "ص126"
+    url: "https://shamela.ws/book/6905/112"
+  - source: "asmaiyyat"
+    loc: "ص126، الحاشية"
+    url: "https://shamela.ws/book/6905/112"
+status: "review"

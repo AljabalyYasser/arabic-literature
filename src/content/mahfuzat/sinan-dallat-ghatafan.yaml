@@ -1,0 +1,14 @@
+kind: "mathal"
+part: "1"
+order: 322
+person: "sinan-ibn-abi-haritha"
+text: "لا أَفْعَلُهُ حَتَّى تَرْجِعَ ضالَّةُ غَطَفانَ"
+meaning: "يُقال لما لا يكون أبدًا. وضالّة غطفان سِنان بن أبي حارثة المُرّيّ، عنّفه قومه على الجود فركب ناقته «ورمى بها الفلاة فلم يُرَ بعد ذلك» [@maydani، ج2 ص233]، فهو لا يرجع."
+sources:
+  - source: "maydani"
+    loc: "ج2 ص233"
+    url: "https://shamela.ws/book/12929/3697"
+  - source: "maydani"
+    loc: "ج1 ص425"
+    url: "https://shamela.ws/book/12929/2306"
+status: "review"

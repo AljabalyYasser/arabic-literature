@@ -1,17 +1,17 @@
 explained: false
-first: لَهَا مِنْخَرٌ كَوِجَارِ الضِّبَاعِ
+first: لَهَا مِنْخَرٌ كَوِجَارِ السِّبَاعِ
 second: فَمِنْهُ تُرِيحُ إِذَا تَنْبَهِرْ
 vocabulary:
-- term: كَوِجَارِ الضِّبَاعِ
-  text: '«والوجار والوجار: سرب الضبع» [@lisan، ج5 ص280].'
+- term: كَوِجَارِ السِّبَاعِ
+  text: '«والوجار والوجار: سرب الضبع» [@lisan، ج5 ص280]، أي جحر السبع؛ «وإنما أراد سعة المنخر». ويروى «كوجار الضباع» [@diwan-imru-al-qais، ص165].'
 - term: تُرِيحُ
   text: تتنفّس.
 - term: تَنْبَهِرْ
   text: ينقطع نفَسها من العَدْو.
 sources:
 - source: diwan-imru-al-qais
-  loc: ص108
-  url: https://shamela.ws/book/27112/97
+  loc: ص165
+  url: https://archive.org/details/3426pdf_202001/page/n193/mode/1up
 - source: lisan
   loc: ج5 ص280
   url: https://shamela.ws/book/1687/2864

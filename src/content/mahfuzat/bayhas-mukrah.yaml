@@ -1,0 +1,14 @@
+kind: "mathal"
+part: "1"
+order: 321
+person: "bayhas"
+text: "مُكْرَهٌ أَخُوكَ لا بَطَلٌ"
+meaning: "يُضرب لمن يُحمل على أمر لا يريده: لست شجاعًا، بل دُفعت إليه دفعًا. قاله أبو حنش خال بَيْهَس حين دفعه بيهس إلى غار فيه قتلة إخوته، فقال قائل: «إن أبا حَنَشٍ لَبَطَل» [@maydani، ج1 ص153]. والحكاية في [مدخل بيهس](/people/groups/1/amthal/#bayhas)."
+sources:
+  - source: "maydani"
+    loc: "ج1 ص152–153"
+    url: "https://shamela.ws/book/12929/786"
+  - source: "askari-amthal"
+    loc: "ج2 ص213"
+    url: "https://shamela.ws/book/6897/798"
+status: "review"

@@ -34,8 +34,8 @@ prosody:
 context: "مطلع مقطوعة يرويها الأَصْمَعِيّ عن أبي عَمْرو بن العلاء، ويعدّها شوقي ضيف من أوثق شعره [@deif، ج1 ص246]، ويرى أنها «تصور حزنه على آبائه وما تجمّع عليه من البلاء» [@deif، ج1 ص258–259]."
 sources:
   - source: "diwan-imru-al-qais"
-    loc: "ص78–79"
-    url: "https://shamela.ws/book/27112/68"
+    loc: "ص97"
+    url: "https://archive.org/details/3426pdf_202001/page/n125/mode/1up"
   - source: "deif"
     loc: "ج1 ص258–260"
     url: "https://shamela.ws/book/11996/254"

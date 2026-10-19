@@ -1,0 +1,14 @@
+kind: "mathal"
+part: "1"
+order: 325
+person: "abu-akhzam"
+text: "شِنْشِنَةٌ أَعْرِفُها مِنْ أَخْزَمِ"
+meaning: "يُضرب في شبه الولد بأبيه. والشِّنْشِنة: «الطبيعة والسجية» [@bayan، ج1 ص269]. وقاله عمر بن الخطاب في ابن عباس يريد أنه يشبه أباه في رأيه وعقله [@bayan، ج1 ص268–269]. ويُنسب إلى أبي أخزم الطائي، جدّ حاتم، وفي أصله أقوال أخرى."
+sources:
+  - source: "bayan"
+    loc: "ج1 ص268–269"
+    url: "https://shamela.ws/book/10614/262"
+  - source: "maydani"
+    loc: "ج1 ص361"
+    url: "https://shamela.ws/book/12929/1981"
+status: "review"

@@ -1,6 +1,6 @@
 explained: false
 first: تَلُتُّ الْحَصَى لَتًّا بِسُمْرٍ رَزِينَةٍ
-second: مَوَازِنَ لَا كُزْمٍ وَلَا مَعِرَاتِ
+second: مَوَارِنَ لَا كُزْمٍ وَلَا مَعِرَاتِ
 vocabulary:
 - term: تَلُتُّ
   text: «تدقّ» [@lisan، ج2 ص83].
@@ -8,12 +8,14 @@ vocabulary:
   text: «الحوافر» [@lisan، ج2 ص83].
 - term: رَزِينَةٍ
   text: ثقيلة.
+- term: مَوَارِنَ
+  text: 'صلبة قد اعتادت الأرض الصلبة، «أي قد مرنّ»، و«المرانة: الشدة مع الملاسة» [@diwan-imru-al-qais، ص80–81].'
 - term: كُزْمٍ
   text: «القصار» [@lisan، ج2 ص83].
 sources:
 - source: diwan-imru-al-qais
-  loc: ص86
-  url: https://shamela.ws/book/27112/76
+  loc: ص80–81
+  url: https://archive.org/details/3426pdf_202001/page/n108/mode/1up
 - source: lisan
   loc: ج2 ص83
   url: https://shamela.ws/book/1687/887

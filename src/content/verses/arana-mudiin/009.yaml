@@ -34,8 +34,8 @@ prosody:
 context: "يأتي بعد بيتين يتذكر فيهما أيام قوته: يُهزل الإبل في الفلوات، ويركب في الجيش الكثيف فيغنم [@deif، ج1 ص259]."
 sources:
   - source: "diwan-imru-al-qais"
-    loc: "ص78–79"
-    url: "https://shamela.ws/book/27112/68"
+    loc: "ص99"
+    url: "https://archive.org/details/3426pdf_202001/page/n127/mode/1up"
   - source: "deif"
     loc: "ج1 ص258–260"
     url: "https://shamela.ws/book/11996/254"

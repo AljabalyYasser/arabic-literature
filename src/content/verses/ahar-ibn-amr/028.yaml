@@ -1,19 +1,19 @@
 explained: false
 first: لَهَا ثُنَنٌ كَخَوَافِي الْعُقَاـ
-second: ـبِ سُودٌ يَفِينَ إِذَا تَزْبَئِرّْ
+second: ـبِ سُودٌ يَفِئْنَ إِذَا تَزْبَئِرّْ
 vocabulary:
 - term: ثُنَنٌ
   text: «وهي شعرات مدلاة مشرفات من خلف» الرسغ [@lisan، ج13 ص84].
 - term: كَخَوَافِي الْعُقَابِ
   text: الريش الصغار في جناحه.
-- term: يَفِينَ
-  text: «غير مهموز، أي يكثرن» [@lisan، ج13 ص84].
+- term: يَفِئْنَ
+  text: «يرجعن بعد ازبئرارها إلى مواضعهن» [@diwan-imru-al-qais، ص163]. ويروى «يفين» بلا همز «من الوفاء» [@diwan-imru-al-qais، ص163]، أي يكثرن [@lisan، ج13 ص84].
 - term: تَزْبَئِرّْ
   text: ينتفش شعرها.
 sources:
 - source: diwan-imru-al-qais
-  loc: ص107
-  url: https://shamela.ws/book/27112/96
+  loc: ص163
+  url: https://archive.org/details/3426pdf_202001/page/n191/mode/1up
 - source: lisan
   loc: ج13 ص84
   url: https://shamela.ws/book/1687/6647

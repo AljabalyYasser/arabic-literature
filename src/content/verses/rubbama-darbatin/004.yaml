@@ -1,0 +1,17 @@
+explained: false
+first: "فَصَبَرْنَ النُّفُوسَ لِلطَّعْنِ حَتَّى"
+second: "جَرَتِ الخَيْلُ بَيْنَنَا فِي الدِّمَاءِ"
+vocabulary:
+  - term: "فَصَبَرْنَ النُّفُوسَ"
+    text: "حبسن النفوس على الطعن فلم تفرّ، وفي اللسان: «صَبَرَه عَنِ الشَّيْءِ يَصْبِرُه صَبْراً حَبَسَه» [@lisan، ج4 ص438]. وفي رواية البغدادي: «فصبرنا النُّفُوس» [@khizana، ج9 ص583]."
+sources:
+  - source: "asmaiyyat"
+    loc: "ص152"
+    url: "https://shamela.ws/book/6905/138"
+  - source: "lisan"
+    loc: "ج4 ص438"
+    url: "https://shamela.ws/book/1687/2398"
+  - source: "khizana"
+    loc: "ج9 ص583"
+    url: "https://shamela.ws/book/12732/4701"
+status: "review"
