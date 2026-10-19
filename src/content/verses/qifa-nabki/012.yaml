@@ -33,6 +33,10 @@ prosody:
   rhyme: "الرَّوِيّ اللام المكسورة"
   scansion: "فَظَلْ لَلْ / عَذَارَى يَرْ / تَمِينَ / بِلَحْمِهَا = فعولن / مفاعيلن / فعولُ / مفاعلن — وَشَحْمِنْ / كَهُدْدَابِدْ / دِمَقْسِلْ / مُفَتْتَلِي = فعولن / مفاعيلن / فعولن / مفاعلن"
   note: "دخل القبضُ، وهو حذف الخامس الساكن، «فعولن» في التفعيلة الثالثة من الصدر وحدها [@atiq، ص29]."
+variants:
+  - reading: "يَظَلُّ الْعَذَارَى يَرْتَمِينَ بِلَحْمِهَا"
+    status: "رواية الأَعْلَم"
+    note: "[@diwan-imru-al-qais، ص11]."
 sources:
   - source: "ibn-al-anbari"
     loc: "ص35–36"
@@ -43,4 +47,7 @@ sources:
   - source: "atiq"
     loc: "ص29"
     url: "https://shamela.ws/book/11298/24"
+  - source: "diwan-imru-al-qais"
+    loc: "ص11"
+    url: "https://archive.org/details/3426pdf_202001/page/n39/mode/1up"
 status: "review"

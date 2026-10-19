@@ -41,6 +41,9 @@ variants:
   - reading: "تَخَطَّيْتُ أَبْوَابًا إِلَيْهَا وَمَعْشَرًا"
     status: "رواية أخرى"
     note: "[@ibn-al-anbari، ص49]."
+  - reading: "تَجَاوَزْتُ أَحْرَاسًا وَأَهْوَالَ مَعْشَرٍ / عَلَيَّ حِرَاصٍ لَوْ يُشِرُّونَ مَقْتَلِي"
+    status: "رواية الأَعْلَم"
+    note: "[@diwan-imru-al-qais، ص13]. وفي شرحها: «ويروى: يسرّون»."
 sources:
   - source: "ibn-al-anbari"
     loc: "ص49–50"
@@ -54,4 +57,7 @@ sources:
   - source: "atiq"
     loc: "ص29"
     url: "https://shamela.ws/book/11298/24"
+  - source: "diwan-imru-al-qais"
+    loc: "ص13"
+    url: "https://archive.org/details/3426pdf_202001/page/n41/mode/1up"
 status: "review"

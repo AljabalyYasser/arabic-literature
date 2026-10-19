@@ -38,8 +38,8 @@ variants:
     status: "بكسر الزاي"
     note: "«على معنى مرتفعات» [@ibn-al-anbari، ص63]."
   - reading: "تَضِلُّ الْمَدَارِي فِي مُثَنًّى وَمُرْسَلِ"
-    status: "رواية"
-    note: "والمَدارى جمع مِدْرى، «وهو مثل الشوكة يُصلح به شعر المرأة» [@ibn-al-anbari، ص63]."
+    status: "رواية، وهي رواية الأَعْلَم"
+    note: "والمَدارى جمع مِدْرى، «وهو مثل الشوكة يُصلح به شعر المرأة» [@ibn-al-anbari، ص63]. وهي رواية الأَعْلَم [@diwan-imru-al-qais، ص17]. وهي فيها «الْمَدَارَى»."
 sources:
   - source: "ibn-al-anbari"
     loc: "ص63"
@@ -56,4 +56,7 @@ sources:
   - source: "ahda-sabil"
     loc: "ص28"
     url: "https://shamela.ws/book/10860/52"
+  - source: "diwan-imru-al-qais"
+    loc: "ص17"
+    url: "https://archive.org/details/3426pdf_202001/page/n45/mode/1up"
 status: "review"

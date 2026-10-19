@@ -37,8 +37,8 @@ prosody:
 context: "يروي ابن الأَنْبارِيّ حكاية عن راكب ظليم لقيه رجل ليلًا، فسأله عن أشعر الناس، فقال: «الذي يقول: وما ذرفت عيناك...» [@ibn-al-anbari، ص47]."
 variants:
   - reading: "وَمَا ذَرَفَتْ عَيْنَاكِ إِلَّا لِتَقْدَحِي"
-    status: "رواية أخرى"
-    note: "كذا عند شوقي ضيف [@deif، ج1 ص249]. والقدح: الضرب بقداح الميسر، وقد ذكره الأَصْمَعِيّ في تفسير البيت [@ibn-al-anbari، ص48]."
+    status: "رواية الأَعْلَم"
+    note: "كذا عند شوقي ضيف [@deif، ج1 ص249]. والقدح: الضرب بقداح الميسر، وقد ذكره الأَصْمَعِيّ في تفسير البيت [@ibn-al-anbari، ص48]. وهي رواية الأَعْلَم [@diwan-imru-al-qais، ص13]. وفي شرحها: «ويروى: لتضربي»."
 sources:
   - source: "ibn-al-anbari"
     loc: "ص47–48"
@@ -55,4 +55,7 @@ sources:
   - source: "atiq"
     loc: "ص29"
     url: "https://shamela.ws/book/11298/24"
+  - source: "diwan-imru-al-qais"
+    loc: "ص13"
+    url: "https://archive.org/details/3426pdf_202001/page/n41/mode/1up"
 status: "review"

@@ -40,6 +40,9 @@ variants:
   - reading: "أَثَرْنَ الْغُبَارَ بِالْكَدِيدِ الْمُرَحَّلِ"
     status: "رواية أخرى"
     note: "«ويروى المرحّل» [@zawzani، ص66]."
+  - reading: "أَثَرْنَ غُبَارًا بِالْكَدِيدِ الْمُرَكَّلِ"
+    status: "رواية الأَعْلَم"
+    note: "[@diwan-imru-al-qais، ص20]. والبيت فيها قبل البيت 56."
 sources:
   - source: "ibn-al-anbari"
     loc: "ص86–87"
@@ -56,4 +59,7 @@ sources:
   - source: "atiq"
     loc: "ص29"
     url: "https://shamela.ws/book/11298/24"
+  - source: "diwan-imru-al-qais"
+    loc: "ص20"
+    url: "https://archive.org/details/3426pdf_202001/page/n48/mode/1up"
 status: "review"

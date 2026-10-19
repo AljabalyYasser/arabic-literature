@@ -40,6 +40,9 @@ variants:
   - reading: "كَصَرْعِ الْيَمَانِي ذِي الْعِيَابِ الْمُخَوَّلِ"
     status: "رواية الأَصْمَعِيّ"
     note: "«أراد كما يطرح اليماني ذو العياب الذي معه الخول، ما معه إذا نزل بمكان» [@ibn-al-anbari، ص108–109]. والخَوَل: الخدم."
+  - reading: "نُزُولَ الْيَمَانِي ذِي الْعِيَابِ الْمُخَوَّلِ"
+    status: "رواية الأَعْلَم"
+    note: "[@diwan-imru-al-qais، ص25]."
 sources:
   - source: "ibn-al-anbari"
     loc: "ص108–110"
@@ -53,4 +56,7 @@ sources:
   - source: "atiq"
     loc: "ص29"
     url: "https://shamela.ws/book/11298/24"
+  - source: "diwan-imru-al-qais"
+    loc: "ص25"
+    url: "https://archive.org/details/3426pdf_202001/page/n53/mode/1up"
 status: "review"

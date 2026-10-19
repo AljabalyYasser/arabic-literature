@@ -39,8 +39,8 @@ prosody:
 context: "قال ابن قُتَيْبة: «وقد أجاد في صفة الفرس»، وأنشد هذا البيت [@ibn-qutayba، ج1 ص112]. وزعم الفَرَزْدَق أن «أكمل بيت قالته العرب، أو قال: أجمع بيت» هو هذا البيت [@ibn-rashiq، ج2 ص24]."
 variants:
   - reading: "لَهُ أَيْطَلَا ظَبْيٍ وَسَاقَا نَعَامَةٍ"
-    status: "رواية الزَّوْزَنِيّ وابن قُتَيْبة"
-    note: "ذكرها ابن الأَنْبارِيّ رواية [@ibn-al-anbari، ص89]، وهي الأشهر في كتب النقد [@zawzani، ص68] [@ibn-qutayba، ج1 ص112]."
+    status: "رواية الزَّوْزَنِيّ وابن قُتَيْبة، وهي رواية الأَعْلَم"
+    note: "ذكرها ابن الأَنْبارِيّ رواية [@ibn-al-anbari، ص89]، وهي الأشهر في كتب النقد [@zawzani، ص68] [@ibn-qutayba، ج1 ص112]. وهي رواية الأَعْلَم [@diwan-imru-al-qais، ص21]."
 sources:
   - source: "ibn-al-anbari"
     loc: "ص89"
@@ -66,4 +66,7 @@ sources:
   - source: "atiq"
     loc: "ص29"
     url: "https://shamela.ws/book/11298/24"
+  - source: "diwan-imru-al-qais"
+    loc: "ص21"
+    url: "https://archive.org/details/3426pdf_202001/page/n49/mode/1up"
 status: "review"

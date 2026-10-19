@@ -38,8 +38,8 @@ prosody:
 context: "هنا يبدأ خبر الصيد. قال شوقي ضيف: «واستطرد امرؤ القَيْس يتحدث عن صيده، فوصف سربا من بقر الوحش عنّ لهم في الصحراء مصورا كيف قيّده فرسه» [@deif، ج1 ص254–255]."
 variants:
   - reading: "عَذَارَى دَوَارٍ فِي الْمُلَاءِ الْمُذَيَّلِ"
-    status: "رواية شوقي ضيف"
-    note: "بتعريف الملاء [@deif، ج1 ص262]."
+    status: "رواية شوقي ضيف، وهي رواية الأَعْلَم"
+    note: "بتعريف الملاء [@deif، ج1 ص262]. وهي رواية الأَعْلَم [@diwan-imru-al-qais، ص22]."
 sources:
   - source: "ibn-al-anbari"
     loc: "ص93–94"
@@ -56,4 +56,7 @@ sources:
   - source: "atiq"
     loc: "ص29"
     url: "https://shamela.ws/book/11298/24"
+  - source: "diwan-imru-al-qais"
+    loc: "ص22"
+    url: "https://archive.org/details/3426pdf_202001/page/n50/mode/1up"
 status: "review"

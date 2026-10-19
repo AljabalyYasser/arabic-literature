@@ -40,8 +40,8 @@ prosody:
 context: "أشهر مطلع في المعلقات، وبه يبدأ ابن عبد رَبِّه قائمتها [@iqd، ج6 ص118]. ويتخذه محمود مصطفى أول مثال يعلّم به تقطيع الشعر [@ahda-sabil، ص14]."
 variants:
   - reading: "بَيْنَ الدَّخُولِ وَحَوْمَلِ"
-    status: "رواية الأَصْمَعِيّ"
-    note: "بالواو بدل الفاء، لأن «بَيْنَ» لا يُعطف بعدها بالفاء عنده [@ibn-al-anbari، ص19]."
+    status: "رواية الأَصْمَعِيّ، وهي رواية الأَعْلَم"
+    note: "بالواو بدل الفاء، لأن «بَيْنَ» لا يُعطف بعدها بالفاء عنده [@ibn-al-anbari، ص19]. وهي رواية الأَعْلَم [@diwan-imru-al-qais، ص8]."
   - reading: "بِسَقْطِ اللِّوَى"
     status: "رواية الأَصْمَعِيّ"
     note: "قال الرِّياشِيّ: كان الأَصْمَعِيّ لا يعرف إلا السَّقط، مفتوح السين [@ibn-al-anbari، ص19]."
@@ -67,4 +67,7 @@ sources:
   - source: "atiq"
     loc: "ص29"
     url: "https://shamela.ws/book/11298/24"
+  - source: "diwan-imru-al-qais"
+    loc: "ص8"
+    url: "https://archive.org/details/3426pdf_202001/page/n36/mode/1up"
 status: "review"

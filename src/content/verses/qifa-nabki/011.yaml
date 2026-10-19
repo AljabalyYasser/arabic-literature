@@ -39,6 +39,9 @@ variants:
   - reading: "فَيَا عَجَبًا مِنْ كُورِهَا الْمُتَحَمَّلِ"
     status: "رواية الزَّوْزَنِيّ"
     note: "والكور: «الرحل بأداته» [@zawzani، ص40]."
+  - reading: "فَيَا عَجَبًا مِنْ رَحْلِهَا الْمُتَحَمَّلِ"
+    status: "رواية الأَعْلَم"
+    note: "[@diwan-imru-al-qais، ص11]."
 sources:
   - source: "ibn-al-anbari"
     loc: "ص33–34"
@@ -55,4 +58,7 @@ sources:
   - source: "atiq"
     loc: "ص29"
     url: "https://shamela.ws/book/11298/24"
+  - source: "diwan-imru-al-qais"
+    loc: "ص11"
+    url: "https://archive.org/details/3426pdf_202001/page/n39/mode/1up"
 status: "review"

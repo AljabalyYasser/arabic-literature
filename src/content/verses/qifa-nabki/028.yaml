@@ -37,8 +37,8 @@ variants:
     status: "رواية الزَّوْزَنِيّ"
     note: "«أي خرجت بها من البيوت لنخلو» [@ibn-al-anbari، ص53] [@zawzani، ص50]."
   - reading: "عَلَى أَثَرَيْنَا ذَيْلَ مِرْطٍ مُرَحَّلِ"
-    status: "رواية أخرى"
-    note: "[@zawzani، ص50] [@deif، ج1 ص250]."
+    status: "رواية الأَعْلَم"
+    note: "[@zawzani، ص50] [@deif، ج1 ص250]. وهي رواية الأَعْلَم [@diwan-imru-al-qais، ص14]. وصدره عندها «خَرَجْتُ بِهَا تَمْشِي تَجُرُّ وَرَاءَنَا»."
 sources:
   - source: "ibn-al-anbari"
     loc: "ص53–54"
@@ -52,4 +52,7 @@ sources:
   - source: "atiq"
     loc: "ص29"
     url: "https://shamela.ws/book/11298/24"
+  - source: "diwan-imru-al-qais"
+    loc: "ص14"
+    url: "https://archive.org/details/3426pdf_202001/page/n42/mode/1up"
 status: "review"

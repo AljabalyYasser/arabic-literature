@@ -1,5 +1,5 @@
 ---
-title: "فليت لنا مكان الملك عَمْرو"
+title: "ليت لنا مكان الملك عَمْرو"
 author: "tarafa"
 kind: "muqattaa"
 form: "amudi"
@@ -24,13 +24,14 @@ map:
     text: "للطير يومان، يوم تطير فيه ويوم تطاردها الصقور؛ ولهما يوم واحد: الوقوف بباب الملك لا يحلّان ولا يسيران."
 edition:
   source: "diwan-tarafa"
-  loc: "ص38"
-  url: "https://shamela.ws/book/36422/32"
-  note: "النص المعتمد، وهو فيها ثمانية أبيات."
+  loc: "ص108–110"
+  url: "https://archive.org/details/hm3478/page/n115/mode/1up"
+  note: "النص المعتمد، القصيدة التاسعة في رواية الأعلم، وهي فيها ثمانية أبيات. وأول البيت الأول فيها «ليت لنا» بلا فاء، وهي رواية ابن الأَنْبارِيّ وابن قُتَيْبة، فأثبتناها، وكان نصنا «فليت» كرواية الميداني."
 sources:
   - source: "diwan-tarafa"
-    loc: "ص38"
-    url: "https://shamela.ws/book/36422/32"
+    loc: "ص108–110"
+    url: "https://archive.org/details/hm3478/page/n115/mode/1up"
+    note: "النص، برواية الأعلم."
   - source: "ibn-al-anbari"
     loc: "ص118"
     url: "https://shamela.ws/book/124335/116"

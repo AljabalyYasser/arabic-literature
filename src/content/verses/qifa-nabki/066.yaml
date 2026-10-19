@@ -36,8 +36,8 @@ prosody:
 context: "قال شوقي ضيف: «مصورا كيف قيّده فرسه، فإذا هو يلحق بأوائله تاركا وراءه ما تخلف منه» [@deif، ج1 ص254–255]؛ وهذا تحقيق «قيد الأَوابِد» في البيت 53."
 variants:
   - reading: "فَأَلْحَقَنَا بِالْهَادِيَاتِ وَدُونَهُ"
-    status: "رواية الزَّوْزَنِيّ"
-    note: "[@ibn-al-anbari، ص96] [@zawzani، ص71]."
+    status: "رواية الزَّوْزَنِيّ، وهي رواية الأَعْلَم"
+    note: "[@ibn-al-anbari، ص96] [@zawzani، ص71]. وهي رواية الأَعْلَم [@diwan-imru-al-qais، ص22]."
 sources:
   - source: "ibn-al-anbari"
     loc: "ص95–96"
@@ -51,4 +51,7 @@ sources:
   - source: "atiq"
     loc: "ص29"
     url: "https://shamela.ws/book/11298/24"
+  - source: "diwan-imru-al-qais"
+    loc: "ص22"
+    url: "https://archive.org/details/3426pdf_202001/page/n50/mode/1up"
 status: "review"

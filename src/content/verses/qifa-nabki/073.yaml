@@ -33,8 +33,8 @@ prosody:
 context: "قال شوقي ضيف: «ويصف كيف جلس هو وأصحابه يتأملونه بين حامر وإكام» [@deif، ج1 ص256]، على روايته."
 variants:
   - reading: "قَعَدْتُ لَهُ وَصُحْبَتِي بَيْنَ حَامِرٍ / وَبَيْنَ إِكَامٍ بُعْدَ مَا مُتَأَمَّلِ"
-    status: "رواية أخرى"
-    note: "ذكرها ابن الأَنْبارِيّ [@ibn-al-anbari، ص102]، وبها يرويه شوقي ضيف: «حامر وإكام: موضعان» [@deif، ج1 ص255]."
+    status: "رواية الأَعْلَم"
+    note: "ذكرها ابن الأَنْبارِيّ [@ibn-al-anbari، ص102]، وبها يرويه شوقي ضيف: «حامر وإكام: موضعان» [@deif، ج1 ص255]. وهي رواية الأَعْلَم [@diwan-imru-al-qais، ص24]."
   - reading: "بَعْدَ مَا مُتَأَمَّلِ"
     status: "بفتح الباء"
     note: "[@ibn-al-anbari، ص102]."
@@ -54,4 +54,7 @@ sources:
   - source: "atiq"
     loc: "ص29"
     url: "https://shamela.ws/book/11298/24"
+  - source: "diwan-imru-al-qais"
+    loc: "ص24"
+    url: "https://archive.org/details/3426pdf_202001/page/n52/mode/1up"
 status: "review"

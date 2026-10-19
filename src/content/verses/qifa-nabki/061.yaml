@@ -38,8 +38,8 @@ prosody:
 context: "روى ابن الأَنْبارِيّ في الضليع عن عمر بن الخطاب أنه قال: «إذا اشتريت بعيراً فاشتره ضليعا، فإنْ أخطأك مخبر لم يخطئك منظر» [@ibn-al-anbari، ص90]؛ أي إن لم يكن جيد الباطن فهو جيد المنظر."
 variants:
   - reading: "وَأَنْتَ إِذَا اسْتَدْبَرْتَهُ سَدَّ فَرْجَهُ"
-    status: "رواية أخرى"
-    note: "[@ibn-al-anbari، ص91]."
+    status: "رواية الأَعْلَم"
+    note: "[@ibn-al-anbari، ص91]. وهي رواية الأَعْلَم [@diwan-imru-al-qais، ص23]. والبيت فيها بعد البيت 63."
 sources:
   - source: "ibn-al-anbari"
     loc: "ص90–91"
@@ -50,4 +50,7 @@ sources:
   - source: "atiq"
     loc: "ص29"
     url: "https://shamela.ws/book/11298/24"
+  - source: "diwan-imru-al-qais"
+    loc: "ص23"
+    url: "https://archive.org/details/3426pdf_202001/page/n51/mode/1up"
 status: "review"

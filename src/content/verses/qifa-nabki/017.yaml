@@ -42,6 +42,9 @@ variants:
   - reading: "إِذَا مَا بَكَى مِنْ حُبِّهَا"
     status: "رواية ذكرها ابن الأَنْبارِيّ"
     note: "«ويروى: (إذا ما بكى من حبها)» [@ibn-al-anbari، ص42]."
+  - reading: "إِذَا مَا بَكَى مِنْ خَلْفِهَا انْحَرَفَتْ لَهُ / بِشِقٍّ وَشِقٌّ عِنْدَنَا لَمْ يُحَوَّلِ"
+    status: "رواية الأَعْلَم"
+    note: "[@diwan-imru-al-qais، ص12]."
 sources:
   - source: "ibn-al-anbari"
     loc: "ص42"
@@ -64,4 +67,7 @@ sources:
   - source: "atiq"
     loc: "ص29"
     url: "https://shamela.ws/book/11298/24"
+  - source: "diwan-imru-al-qais"
+    loc: "ص12"
+    url: "https://archive.org/details/3426pdf_202001/page/n40/mode/1up"
 status: "review"

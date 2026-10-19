@@ -36,8 +36,8 @@ prosody:
 context: "خاتمة مشهد الأطلال. وبعده يبدأ الشاعر رحلة في الذاكرة."
 variants:
   - reading: "وَإِنَّ شِفَائِي عَبْرَةٌ إِنْ سَفَحْتُهَا"
-    status: "رواية أخرى"
-    note: "ومعنى سفحتها: صببتها [@ibn-al-anbari، ص25]."
+    status: "رواية الأَعْلَم"
+    note: "ومعنى سفحتها: صببتها [@ibn-al-anbari، ص25]. وهي رواية الأَعْلَم [@diwan-imru-al-qais، ص9]. وفيها في العجز «وَهَلْ» بالواو."
 sources:
   - source: "ibn-al-anbari"
     loc: "ص25–27"
@@ -51,4 +51,7 @@ sources:
   - source: "dalail"
     loc: "ص324–325"
     url: "https://shamela.ws/book/12055/341"
+  - source: "diwan-imru-al-qais"
+    loc: "ص9"
+    url: "https://archive.org/details/3426pdf_202001/page/n37/mode/1up"
 status: "review"
