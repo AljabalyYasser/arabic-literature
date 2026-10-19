@@ -24,7 +24,6 @@ sources:
     loc: "ص183"
     url: "https://archive.org/details/hm3478/page/n190/mode/1up"
     note: "بيتان منها في صلة الديوان."
-    note: "النص."
   - source: "ibn-rashiq"
     loc: "ج1 ص142، ص156"
     url: "https://shamela.ws/book/10909/124"

@@ -18,7 +18,7 @@ BOOKS = {'deif': 11996, 'tabrizi-ashr': 37488, 'baghdadi-mughni': 150966, 'uyun-
          'abbas-qurtuba': 1016, 'abbas-tawaif': 1015, 'yatima': 6743, 'muwazana': 26183, 'abbas-qurtuba': 1016, 'abbas-tawaif': 1015, 'subh': 9429, 'khizana-hamawi': 8675, 'ibn-khaldun': 12320, 'wafayat': 1000}
 BOOKS.update({'amidi': 10913, 'simt': 1586, 'naqaid': 13609, 'tabrizi-hamasa': 6907, 'jamhara': 1487, 'qali': 9160, 'marzubani': 26552, 'lisan': 1687, 'suyuti-mughni': 17724, 'khizana': 12732, 'dalail': 12055, 'asrar': 8187,
               'maydani': 12929, 'muwashshah': 9427, 'asmaiyyat': 6905, 'atiq': 11298, 'sibawayh': 23018,
-              'diwan-imru-al-qais': 27112, 'diwan-tarafa': 36422, 'ibn-al-anbari': 124335, 'zawzani': 11253})
+              'diwan-imru-al-qais': 27112, 'ibn-al-anbari': 124335, 'zawzani': 11253})
 AR = str.maketrans('٠١٢٣٤٥٦٧٨٩', '0123456789')
 index = {}
 
