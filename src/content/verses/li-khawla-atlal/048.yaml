@@ -39,7 +39,7 @@ context: "يبدأ صورة المجلس (48–50): الندامى والقين�
 variants:
   - reading: "تَرُوحُ عَلَيْنَا بَيْنَ بُرْدٍ وَمُجْسَدِ"
     status: "رواية الزَّوْزَنِيّ"
-    note: "[@zawzani، ص105]. وهي رواية الديوان [@diwan-tarafa، ص24]."
+    note: "[@zawzani، ص105]. وهي رواية الأعلم [@diwan-tarafa، ص43]."
 sources:
   - source: "ibn-al-anbari"
     loc: "ص188–189"
@@ -48,8 +48,8 @@ sources:
     loc: "ص105"
     url: "https://shamela.ws/book/11253/115"
   - source: "diwan-tarafa"
-    loc: "ص24"
-    url: "https://shamela.ws/book/36422/19"
+    loc: "ص43"
+    url: "https://archive.org/details/hm3478/page/n50/mode/1up"
   - source: "deif"
     loc: "ج1 ص191"
     url: "https://shamela.ws/book/11996/187"

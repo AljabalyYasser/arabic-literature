@@ -37,7 +37,7 @@ context: "الثاني من قسم العتاب (68–81). والعتاب لوم
 variants:
   - reading: "كَمَا لَامَنِي فِي الْحَيِّ قُرْطُ بْنُ مَعْبَدِ"
     status: "رواية الزَّوْزَنِيّ"
-    note: "[@zawzani، ص111]. وهي رواية الديوان [@diwan-tarafa، ص26]."
+    note: "[@zawzani، ص111]."
 sources:
   - source: "ibn-al-anbari"
     loc: "ص202–203"
@@ -49,8 +49,9 @@ sources:
     loc: "ص111"
     url: "https://shamela.ws/book/11253/121"
   - source: "diwan-tarafa"
-    loc: "ص26"
-    url: "https://shamela.ws/book/36422/21"
+    loc: "ص50"
+    url: "https://archive.org/details/hm3478/page/n57/mode/1up"
+    note: "رواية الأعلم «قرط بن أعبد» كنصنا."
   - source: "deif"
     loc: "ج1 ص211"
     url: "https://shamela.ws/book/11996/207"

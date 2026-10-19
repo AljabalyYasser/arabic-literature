@@ -37,7 +37,7 @@ context: "الثاني من أبيات النصرة (72–74). لفظه لفظ �
 variants:
   - reading: "وَإِنْ أُدْعَ لِلْجُلَّى أَكُنْ مِنْ حُمَاتِهَا"
     status: "رواية الطُّوسِيّ"
-    note: "[@ibn-al-anbari، ص205]. وهي رواية الزَّوْزَنِيّ [@zawzani، ص112] والديوان [@diwan-tarafa، ص27]."
+    note: "[@ibn-al-anbari، ص205]. وهي رواية الزَّوْزَنِيّ [@zawzani، ص112] والأعلم [@diwan-tarafa، ص51]."
 sources:
   - source: "ibn-al-anbari"
     loc: "ص204–206"
@@ -46,8 +46,8 @@ sources:
     loc: "ص112"
     url: "https://shamela.ws/book/11253/122"
   - source: "diwan-tarafa"
-    loc: "ص27"
-    url: "https://shamela.ws/book/36422/22"
+    loc: "ص51"
+    url: "https://archive.org/details/hm3478/page/n58/mode/1up"
   - source: "ahda-sabil"
     loc: "ص28"
     url: "https://shamela.ws/book/10860/52"
