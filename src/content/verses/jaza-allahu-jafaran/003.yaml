@@ -17,4 +17,7 @@ sources:
   - source: "lisan"
     loc: "ج1 ص604"
     url: "https://shamela.ws/book/1687/604"
+  - source: "diwan-tufayl"
+    loc: "ص131"
+    url: "https://archive.org/details/AAlexandrina-111622/page/n134/mode/1up"
 status: "review"
