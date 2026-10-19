@@ -1,0 +1,18 @@
+explained: false
+first: "تَرِدُ الْمِيَاهَ فَمَا تَزَالُ غَرِيبَةً"
+second: "فِي الْقَوْمِ بَيْنَ تَمَثُّلٍ وَسَمَاعِ"
+vocabulary:
+  - term: "تَرِدُ الْمِيَاهَ"
+    text: "تنزل على المياه مع الركبان، حيث يجتمع الناس."
+  - term: "غَرِيبَةً"
+    text: "لا تزال تأتي قومًا على مياههم وليست من قول شعرائهم، فهي غريبة لذلك [@mufaddaliyyat، ص62، الحاشية]."
+  - term: "تَمَثُّلٍ وَسَمَاعِ"
+    text: "ينشدها الناس متمثّلين بها، ويسمعونها."
+sources:
+  - source: "mufaddaliyyat"
+    loc: "ص62"
+    url: "https://shamela.ws/book/6904/36"
+  - source: "mufaddaliyyat"
+    loc: "ص62، الحاشية"
+    url: "https://archive.org/details/20240818_20240818_1710/page/n61/mode/1up"
+status: "review"

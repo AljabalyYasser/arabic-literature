@@ -1,0 +1,18 @@
+explained: false
+first: "إِذْ تَسْتَبِيكَ بِأَصْلَتِيٍّ نَاعِمٍ"
+second: "قَامَتْ لِتَفْتِنَهُ بِغَيْرِ قِنَاعِ"
+vocabulary:
+  - term: "تَسْتَبِيكَ"
+    text: "تأسرك فتجعلك كالسبي لها، من السبي [@mufaddaliyyat، ص61، الحاشية]."
+  - term: "بِأَصْلَتِيٍّ"
+    text: "بخدّ ناعم حسن [@mufaddaliyyat، ص61، الحاشية]."
+  - term: "قِنَاعِ"
+    text: "ما تغطي به المرأة رأسها، أي كشفت وجهها لتفتنه."
+sources:
+  - source: "mufaddaliyyat"
+    loc: "ص61"
+    url: "https://shamela.ws/book/6904/35"
+  - source: "mufaddaliyyat"
+    loc: "ص61، الحاشية"
+    url: "https://archive.org/details/20240818_20240818_1710/page/n60/mode/1up"
+status: "review"

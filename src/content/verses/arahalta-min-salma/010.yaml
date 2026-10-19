@@ -1,0 +1,20 @@
+explained: false
+first: "وَإِذَا تَعَاوَرَتِ الْحَصَى أَخْفَافُهَا"
+second: "دَوَّى نَوَادِيهِ بِظَهْرِ الْقَاعِ"
+vocabulary:
+  - term: "تَعَاوَرَتِ"
+    text: "تبادلت أو تناوبت، أي تقاذفت أخفافها الحصى [@mufaddaliyyat، ص62، الحاشية]."
+  - term: "دَوَّى"
+    text: "صوّت [@mufaddaliyyat، ص62، الحاشية]."
+  - term: "نَوَادِيهِ"
+    text: "ما أسرع من الحصى وتقدّم [@mufaddaliyyat، ص62، الحاشية]."
+  - term: "الْقَاعِ"
+    text: "ما استوى من الأرض [@mufaddaliyyat، ص62، الحاشية]."
+sources:
+  - source: "mufaddaliyyat"
+    loc: "ص62"
+    url: "https://shamela.ws/book/6904/36"
+  - source: "mufaddaliyyat"
+    loc: "ص62، الحاشية"
+    url: "https://archive.org/details/20240818_20240818_1710/page/n61/mode/1up"
+status: "review"

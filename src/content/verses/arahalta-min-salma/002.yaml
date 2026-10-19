@@ -1,0 +1,18 @@
+explained: false
+first: "مِنْ غَيْرِ مَقْلِيَةٍ وَإِنَّ حِبَالَهَا"
+second: "لَيْسَتْ بِأَرْمَامٍ وَلَا أَقْطَاعِ"
+vocabulary:
+  - term: "مَقْلِيَةٍ"
+    text: "بُغض، أي رحلت عنها لا عن بغض لها [@mufaddaliyyat، ص61، الحاشية]."
+  - term: "حِبَالَهَا"
+    text: "ما بينكما من مودة، وفي حاشية المحققين: ما احتبلته من مودة [@mufaddaliyyat، ص61، الحاشية]."
+  - term: "بِأَرْمَامٍ وَلَا أَقْطَاعِ"
+    text: "يقال حبل أرمام وحبل أقطاع إذا كان قطعًا موصولة [@mufaddaliyyat، ص61، الحاشية]، أي بالية متقطعة. يريد أن مودتها له ما زالت متينة."
+sources:
+  - source: "mufaddaliyyat"
+    loc: "ص61"
+    url: "https://shamela.ws/book/6904/35"
+  - source: "mufaddaliyyat"
+    loc: "ص61، الحاشية"
+    url: "https://archive.org/details/20240818_20240818_1710/page/n60/mode/1up"
+status: "review"

@@ -1,0 +1,18 @@
+explained: false
+first: "أَنْتَ الْوَفِيُّ فَمَا تُذَمُّ وَبَعْضُهُمْ"
+second: "تُودِي بِذِمَّتِهِ عُقَابُ مَلَاعِ"
+vocabulary:
+  - term: "تُذَمُّ"
+    text: "تُعاب، من الذمّ."
+  - term: "تُودِي بِذِمَّتِهِ"
+    text: "تذهب بعهده لجاره."
+  - term: "عُقَابُ مَلَاعِ"
+    text: "ملاعِ، كقطامِ، اسم مكان تُنسب إليه العقبان. والمعنى في حاشية المحققين: أنت تفي بذمتك ولا يُطمع في جارك، وغيرك يُهدر جواره كأنما ذهبت به عقاب [@mufaddaliyyat، ص63، الحاشية]."
+sources:
+  - source: "mufaddaliyyat"
+    loc: "ص63"
+    url: "https://shamela.ws/book/6904/37"
+  - source: "mufaddaliyyat"
+    loc: "ص63، الحاشية"
+    url: "https://archive.org/details/20240818_20240818_1710/page/n62/mode/1up"
+status: "review"

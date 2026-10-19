@@ -1,0 +1,22 @@
+explained: false
+first: "وَمَهًا يَرِفُّ كَأَنَّهُ إِذْ ذُقْتَهُ"
+second: "عَانِيَّةٌ شُجَّتْ بِمَاءِ يَرَاعِ"
+vocabulary:
+  - term: "وَمَهًا"
+    text: "البلّور، شبّه به ثغرها لصفائه [@mufaddaliyyat، ص61، الحاشية]."
+  - term: "يَرِفُّ"
+    text: "يتلألأ، يكاد يقطر من شدة صفائه [@mufaddaliyyat، ص61، الحاشية]."
+  - term: "عَانِيَّةٌ"
+    text: "خمر منسوبة إلى عانة، بلد بالجزيرة على الفرات [@mufaddaliyyat، ص61، الحاشية]."
+  - term: "شُجَّتْ"
+    text: "كُسرت حدّتها ومُزجت [@mufaddaliyyat، ص61، الحاشية]."
+  - term: "بِمَاءِ يَرَاعِ"
+    text: "اليراع القصب، أي بماء جدول ينبت القصب على حافتيه [@mufaddaliyyat، ص61، الحاشية]."
+sources:
+  - source: "mufaddaliyyat"
+    loc: "ص61"
+    url: "https://shamela.ws/book/6904/35"
+  - source: "mufaddaliyyat"
+    loc: "ص61، الحاشية"
+    url: "https://archive.org/details/20240818_20240818_1710/page/n60/mode/1up"
+status: "review"

@@ -1,0 +1,18 @@
+explained: false
+first: "أَرَحَلْتَ مِنْ سَلْمَى بِغَيْرِ مَتَاعِ"
+second: "قَبْلَ الْعُطَاسِ وَرُعْتَهَا بِوَدَاعِ"
+vocabulary:
+  - term: "مَتَاعِ"
+    text: "ما يُمتَّع به الراحل ويُزوَّد عند فراقه، وفي حاشية المحققين: ما تمتّعه به وتزوّده إياه [@mufaddaliyyat، ص60، الحاشية]."
+  - term: "قَبْلَ الْعُطَاسِ"
+    text: "كانوا يتشاءمون بالعطاس، فالمعنى في حاشية المحققين: رحلتَ قبل أن ترى ما تكره. وينقلان عن الليث أن العطاس الصبح، أي رحلت قبل الصبح [@mufaddaliyyat، ص60، الحاشية]."
+  - term: "رُعْتَهَا"
+    text: "أفزعتها."
+sources:
+  - source: "mufaddaliyyat"
+    loc: "ص60"
+    url: "https://shamela.ws/book/6904/34"
+  - source: "mufaddaliyyat"
+    loc: "ص60، الحاشية"
+    url: "https://archive.org/details/20240818_20240818_1710/page/n59/mode/1up"
+status: "review"

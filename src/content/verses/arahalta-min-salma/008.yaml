@@ -1,0 +1,20 @@
+explained: false
+first: "صَكَّاءَ ذِعْلِبَةٍ إِذَا اسْتَدْبَرْتَهَا"
+second: "حَرَجٍ إِذَا اسْتَقْبَلْتَهَا هِلْوَاعِ"
+vocabulary:
+  - term: "صَكَّاءَ"
+    text: "أصلها صفة للنعامة، لتقارب ركبتيها يصكّ بعضها بعضًا، فشبّه بها ناقته [@mufaddaliyyat، ص61، الحاشية]."
+  - term: "ذِعْلِبَةٍ"
+    text: "سريعة [@mufaddaliyyat، ص61، الحاشية]."
+  - term: "حَرَجٍ"
+    text: "جسيمة طويلة على وجه الأرض [@mufaddaliyyat، ص61، الحاشية]."
+  - term: "هِلْوَاعِ"
+    text: "مستخفّة كأنها تفزع من النشاط، والهلع الخفّة [@mufaddaliyyat، ص61، الحاشية]."
+sources:
+  - source: "mufaddaliyyat"
+    loc: "ص61"
+    url: "https://shamela.ws/book/6904/35"
+  - source: "mufaddaliyyat"
+    loc: "ص61، الحاشية"
+    url: "https://archive.org/details/20240818_20240818_1710/page/n60/mode/1up"
+status: "review"

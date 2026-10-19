@@ -1,0 +1,20 @@
+explained: false
+first: "وَكَأَنَّ قَنْطَرَةً بِمَوْضِعِ كُورِهَا"
+second: "مَلْسَاءَ بَيْنَ غَوَامِضِ الْأَنْسَاعِ"
+vocabulary:
+  - term: "كُورِهَا"
+    text: "الكُور الرَّحل بخشبه وأداته [@mufaddaliyyat، ص61، الحاشية]."
+  - term: "قَنْطَرَةً"
+    text: "شبّه جنبيها في انتفاخهما بالقنطرة [@mufaddaliyyat، ص61، الحاشية]."
+  - term: "الْأَنْسَاعِ"
+    text: "جمع نِسْع، وهو السير يُشدّ به الرحل [@mufaddaliyyat، ص61، الحاشية]."
+  - term: "غَوَامِضِ"
+    text: "الغموض دخول الأنساع في الجلد. والإبل تسترخي جلودها فتغيب فيها الأنساع، وهذه ناقة لا تغمض الأنساع في ظهرها ولا سنامها، فهي ملساء الظهر [@mufaddaliyyat، ص61، الحاشية]."
+sources:
+  - source: "mufaddaliyyat"
+    loc: "ص61"
+    url: "https://shamela.ws/book/6904/35"
+  - source: "mufaddaliyyat"
+    loc: "ص61، الحاشية"
+    url: "https://archive.org/details/20240818_20240818_1710/page/n60/mode/1up"
+status: "review"

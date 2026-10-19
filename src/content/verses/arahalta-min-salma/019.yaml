@@ -1,0 +1,16 @@
+explained: false
+first: "أَحْلَلْتَ بَيْتَكَ بِالْجَمِيعِ وَبَعْضُهُمْ"
+second: "مُتَفَرِّقٌ لِيَحُلَّ بِالْأَوْزَاعِ"
+vocabulary:
+  - term: "بِالْجَمِيعِ"
+    text: "بمجتمع الناس. يقول في حاشية المحققين: إذا نزلت شدة الزمان نزلتَ في مجمع الناس، حيث يأتيك السُّؤّال والضيفان [@mufaddaliyyat، ص63، الحاشية]."
+  - term: "بِالْأَوْزَاعِ"
+    text: "المتفرّقين، أي ينزل غيرك بعيدًا عن الناس لئلا يقصده أحد [@mufaddaliyyat، ص63، الحاشية]."
+sources:
+  - source: "mufaddaliyyat"
+    loc: "ص63"
+    url: "https://shamela.ws/book/6904/37"
+  - source: "mufaddaliyyat"
+    loc: "ص63، الحاشية"
+    url: "https://archive.org/details/20240818_20240818_1710/page/n62/mode/1up"
+status: "review"

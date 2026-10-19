@@ -1,0 +1,21 @@
+explained: false
+first: "وَإِذَا تَهِيجُ الرِّيحُ مِنْ صُرَّادِهَا"
+second: "ثَلْجًا يُنِيخُ النِّيبَ بِالْجَعْجَاعِ"
+vocabulary:
+  - term: "صُرَّادِهَا"
+    text: "«والصُّرَّاد: غيم رقيق لا ماء فيه» [@lisan، ج12 ص338]، وهو بارد."
+  - term: "النِّيبَ"
+    text: "مسانّ إناث الإبل، واحدها ناب [@mufaddaliyyat، ص62، الحاشية]."
+  - term: "بِالْجَعْجَاعِ"
+    text: "الجعجاع موضع البروك. يريد أن الإبل لا تبرح مباركها من شدة البرد، وخصّ النيب لأنها أصبر من الفتيّة على البرد [@mufaddaliyyat، ص62، الحاشية]."
+sources:
+  - source: "mufaddaliyyat"
+    loc: "ص62"
+    url: "https://shamela.ws/book/6904/36"
+  - source: "mufaddaliyyat"
+    loc: "ص62، الحاشية"
+    url: "https://archive.org/details/20240818_20240818_1710/page/n61/mode/1up"
+  - source: "lisan"
+    loc: "ج12 ص338"
+    url: "https://shamela.ws/book/1687/6251"
+status: "review"

@@ -1,0 +1,20 @@
+explained: false
+first: "وَإِذَا أَطَفْتَ بِهَا أَطَفْتَ بِكَلْكَلٍ"
+second: "نَبِضِ الْفَرَائِصِ مُجْفَرِ الْأَضْلَاعِ"
+vocabulary:
+  - term: "أَطَفْتَ بِهَا"
+    text: "درت حولها تتأمّلها [@mufaddaliyyat، ص62، الحاشية]."
+  - term: "بِكَلْكَلٍ"
+    text: "بصدر [@mufaddaliyyat، ص62، الحاشية]."
+  - term: "نَبِضِ الْفَرَائِصِ"
+    text: "الفرائص جمع فريصة، وهي لحمة في مرجع الكتف، ونبضها شدة حركتها، وصف الناقة بذلك لشدة فؤادها وحدّتها [@mufaddaliyyat، ص62، الحاشية]."
+  - term: "مُجْفَرِ الْأَضْلَاعِ"
+    text: "واسعها، كالجَفْر، وهو البئر العظيمة [@mufaddaliyyat، ص62، الحاشية]."
+sources:
+  - source: "mufaddaliyyat"
+    loc: "ص62"
+    url: "https://shamela.ws/book/6904/36"
+  - source: "mufaddaliyyat"
+    loc: "ص62، الحاشية"
+    url: "https://archive.org/details/20240818_20240818_1710/page/n61/mode/1up"
+status: "review"

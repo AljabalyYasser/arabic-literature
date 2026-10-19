@@ -1,0 +1,18 @@
+explained: false
+first: "فَلَأُهْدِيَنَّ مَعَ الرِّيَاحِ قَصِيدَةً"
+second: "مِنِّي مُغَلْغَلَةً إِلَى الْقَعْقَاعِ"
+vocabulary:
+  - term: "مَعَ الرِّيَاحِ"
+    text: "تذهب كل مذهب [@mufaddaliyyat، ص62، الحاشية]."
+  - term: "مُغَلْغَلَةً"
+    text: "يتغلغل بها الناس لحسنها، ويسلكون بها كل غامض [@mufaddaliyyat، ص62، الحاشية]، أي تبلغ البعيد."
+  - term: "الْقَعْقَاعِ"
+    text: "القعقاع بن مَعْبَد بن زُرارة التميمي، الممدوح."
+sources:
+  - source: "mufaddaliyyat"
+    loc: "ص62"
+    url: "https://shamela.ws/book/6904/36"
+  - source: "mufaddaliyyat"
+    loc: "ص62، الحاشية"
+    url: "https://archive.org/details/20240818_20240818_1710/page/n61/mode/1up"
+status: "review"

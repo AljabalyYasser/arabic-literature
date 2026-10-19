@@ -1,0 +1,16 @@
+explained: false
+first: "وَكَأَنَّ بُلْقَ الْخَيْلِ فِي حَافَاتِهِ"
+second: "يَرْمِي بِهِنَّ دَوَالِيَ الزُّرَّاعِ"
+vocabulary:
+  - term: "بُلْقَ الْخَيْلِ"
+    text: "الخيل التي في ألوانها سواد وبياض. شبّه أمواج الخليج بها، لأن الموجة إذا ارتفعت كان ظهرها أبيض، فإذا انقلبت اسودّ بطنها [@mufaddaliyyat، ص63، الحاشية]."
+  - term: "دَوَالِيَ الزُّرَّاعِ"
+    text: "الدوالي جمع دالية، وهي آلة للسقي، أي يرمي الخليج بموجه دوالي الزرّاع [@mufaddaliyyat، ص63، الحاشية]."
+sources:
+  - source: "mufaddaliyyat"
+    loc: "ص63"
+    url: "https://shamela.ws/book/6904/37"
+  - source: "mufaddaliyyat"
+    loc: "ص63، الحاشية"
+    url: "https://archive.org/details/20240818_20240818_1710/page/n62/mode/1up"
+status: "review"
