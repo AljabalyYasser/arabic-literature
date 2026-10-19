@@ -1,0 +1,16 @@
+kind: "bayt"
+title: "كل امرئ راجع يوما لشيمته"
+part: '1'
+order: 304
+person: "dhu-al-isba"
+verses:
+  - "liya-bnu-ammin/010"
+meaning: "يتكلّف المرء أخلاقًا ليست من طبعه زمنًا، ثم يعود إلى طبعه. والشِّيمة: الخُلُق والطبيعة [@lisan، ج12 ص329]."
+sources:
+  - source: "mufaddaliyyat"
+    loc: "ص160"
+    url: "https://shamela.ws/book/6904/134"
+  - source: "lisan"
+    loc: "ج12 ص329"
+    url: "https://shamela.ws/book/1687/6242"
+status: "review"

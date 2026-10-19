@@ -1,0 +1,15 @@
+kind: "mathal"
+part: '1'
+order: 302
+person: "damra-ibn-damra"
+text: "الْمَرْءُ بِأَصْغَرَيْهِ: قَلْبِهِ وَلِسَانِهِ"
+story: "al-muaydi"
+meaning: "قيمة الرجل بأصغر ما فيه، قلبه ولسانه، لا بجسمه. وهو جواب ضمرة لملك الحيرة حين ازدراه [@bayan، ج1 ص201]، وفي اللسان عن ابن السِّكِّيت: «وَمَعْنَاهُ أَن المَرْءَ يَعْلُو الأُمور ويَضْبِطها بِجَنانه وَلِسَانِهِ» [@lisan، ج4 ص458]."
+sources:
+  - source: "bayan"
+    loc: "ج1 ص201"
+    url: "https://shamela.ws/book/10614/196"
+  - source: "lisan"
+    loc: "ج4 ص458"
+    url: "https://shamela.ws/book/1687/2418"
+status: "review"

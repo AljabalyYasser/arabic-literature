@@ -1,0 +1,18 @@
+kind: "maqta"
+title: "عذير الحي من عدوان"
+part: '1'
+order: 305
+person: "dhu-al-isba"
+verses:
+  - "adhira-al-hayyi/001"
+  - "adhira-al-hayyi/002"
+story: "tafani-adwan"
+meaning: "من يعذر عَدْوان فيما صنع بعضها ببعض؟ كانوا حيّات الأرض يهابهم الناس، ثم بغى بعضهم على بعض فلم يُبقوا على أحد منهم. قالها ذو الإصبع بعد أن تفانت قبيلته [@aghani-dk، ج3 ص89]."
+sources:
+  - source: "asmaiyyat"
+    loc: "ص72"
+    url: "https://shamela.ws/book/6905/58"
+  - source: "aghani-dk"
+    loc: "ج3 ص89"
+    url: "https://archive.org/details/aghani2014/3/page/n92/mode/1up"
+status: "review"

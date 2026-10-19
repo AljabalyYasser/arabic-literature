@@ -1,0 +1,13 @@
+kind: "bayt"
+title: "والبيت لا يبتنى إلا له عمد"
+part: '1'
+order: 307
+person: "al-afwah-al-awdi"
+verses:
+  - "fina-maashirun/005"
+meaning: "بيت الشَّعَر لا يقوم إلا على أعمدة، ولا تثبت الأعمدة إلا بأوتاد تُدقّ في الأرض. يضربه مثلًا للقوم: لا يقوم أمرهم إلا بسادة يعتمدون عليهم، وبأصل ثابت يشدّهم."
+sources:
+  - source: "qali"
+    loc: "ج2 ص224"
+    url: "https://shamela.ws/book/9160/508"
+status: "review"

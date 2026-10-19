@@ -1,0 +1,19 @@
+kind: "bayt"
+title: "لا يصلح الناس فوضى لا سراة لهم"
+part: '1'
+order: 306
+person: "al-afwah-al-awdi"
+verses:
+  - "fina-maashirun/007"
+meaning: "لا يصلح أمر قوم لا سادة لهم، ولا قوم يسودهم جهالهم. وفي اللسان: «وقَوْمٌ فَوْضَى: مُخْتَلِطُون، وَقِيلَ: هُمُ الَّذِينَ لَا أَمير لَهُمْ وَلَا مَنْ يَجْمَعُهُمْ» [@lisan، ج7 ص210]. ويرويه ابن قُتَيْبة «لا يصلح القوم» [@ibn-qutayba، ج1 ص217]."
+sources:
+  - source: "qali"
+    loc: "ج2 ص225"
+    url: "https://shamela.ws/book/9160/509"
+  - source: "lisan"
+    loc: "ج7 ص210"
+    url: "https://shamela.ws/book/1687/3593"
+  - source: "ibn-qutayba"
+    loc: "ج1 ص217"
+    url: "https://shamela.ws/book/23785/210"
+status: "review"

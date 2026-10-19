@@ -28,7 +28,7 @@ sources:
   - source: "muammarun"
     loc: "ص58"
     url: "https://shamela.ws/book/671/81"
-    note: "سبعة أبيات، و«يعني عامر بن الظرب»."
+    note: "سبعة أبيات، وتفسير الحكم بعامر بن الظرب."
   - source: "ibn-qutayba"
     loc: "ج2 ص697–698"
     url: "https://shamela.ws/book/23785/688"

@@ -1,0 +1,18 @@
+kind: "mathal"
+part: '1'
+order: 301
+person: "damra-ibn-damra"
+text: "تَسْمَعُ بِالْمُعَيْدِيِّ خَيْرٌ مِنْ أَنْ تَرَاهُ"
+story: "al-muaydi"
+meaning: "يُضرب لمن خبره خير من منظره. قاله ملك الحيرة في ضمرة بن ضمرة لما رأى دمامته وقصره [@bayan، ج1 ص200]، ويقول المَيْدانيّ: «يضرب لمن خَبَرُه خَيْرٌ من مَرْآه» [@maydani، ج1 ص129]. والمعيديّ تصغير المَعَدّيّ، أي الرجل من مَعَدّ [@askari-amthal، ج1 ص266]."
+sources:
+  - source: "bayan"
+    loc: "ج1 ص200"
+    url: "https://shamela.ws/book/10614/195"
+  - source: "maydani"
+    loc: "ج1 ص129"
+    url: "https://shamela.ws/book/12929/668"
+  - source: "askari-amthal"
+    loc: "ج1 ص266"
+    url: "https://shamela.ws/book/6897/264"
+status: "review"
