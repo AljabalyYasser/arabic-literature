@@ -10,6 +10,7 @@ earliest:
   url: "https://shamela.ws/book/6738/693"
 people:
   - "zuhayr"
+  - "bashama-ibn-al-ghadir"
 sources:
   - source: "ibn-sallam"
     loc: "ج2 ص718–719"

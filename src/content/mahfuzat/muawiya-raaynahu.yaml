@@ -1,0 +1,19 @@
+kind: "bayt"
+title: "إذا نزل السحاب بأرض قوم"
+part: "1"
+order: 312
+person: "muawiya-ibn-malik"
+verses:
+  - "ajadda-al-qalbu/023"
+meaning: "إذا أمطرت أرض قوم رعينا نبتها وإن غضبوا، عزًّا وقوة. سمّى النبات باسم المطر الذي أنبته، ويجعله ابن رَشِيق مثالًا على المجاز [@ibn-rashiq، ج1 ص266]، ويقول محققا «المفضليات» إنه «صار مثلا سائرا» [@mufaddaliyyat، ص356، الحاشية]."
+sources:
+  - source: "mufaddaliyyat"
+    loc: "ص359"
+    url: "https://shamela.ws/book/6904/333"
+  - source: "ibn-rashiq"
+    loc: "ج1 ص266"
+    url: "https://shamela.ws/book/10909/248"
+  - source: "mufaddaliyyat"
+    loc: "ص356، الحاشية"
+    url: "https://archive.org/details/20240818_20240818_1710/page/n355/mode/1up"
+status: "review"
