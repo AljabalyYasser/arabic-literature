@@ -5,7 +5,7 @@ vocabulary:
   - term: "قَابُوسَ بْنَ هِنْدٍ"
     text: "«أخو عَمْرو بن هند، وكان فيه لين، ويسمّى قينة العرس» [@ibn-qutayba، ج1 ص186]. والقينة: المغنية؛ فلقبه يسخر من لينه."
   - term: "نُوكٌ"
-    text: "حمق [@diwan-tarafa، ص38، الحاشية]."
+    text: "حمق؛ «النوك، بالضم: الحمق» [@lisan، ج10 ص501]."
 syntax:
   - "«لعمرك» مبتدأ خبره محذوف: لعمرك قسمي؛ وجملة «إن قابوس...» جواب القسم."
   - "«قابوس» اسم «إنّ» منصوب، وهو ممنوع من الصرف للعلمية والعجمة، و«ابنَ» صفته."
@@ -35,6 +35,9 @@ sources:
   - source: "diwan-tarafa"
     loc: "ص109"
     url: "https://archive.org/details/hm3478/page/n116/mode/1up"
+  - source: "lisan"
+    loc: "ج10 ص501"
+    url: "https://shamela.ws/book/1687/5170"
   - source: "ibn-qutayba"
     loc: "ج1 ص186"
     url: "https://shamela.ws/book/23785/179"

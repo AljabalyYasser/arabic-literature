@@ -3,8 +3,11 @@ first: أَلَا أَبْلِغَا عَبْدَ الضَّلَالِ رِسَ�
 second: وَقَدْ يُبْلِغُ الْأَنْبَاءَ عَنْكَ رَسُولُ
 vocabulary:
 - term: عَبْدَ الضَّلَالِ
-  text: 'يريد عبد عمرو بن بِشْر، وفي عنوانها في نسخة العمل: «في هجاء عبد عمرو بن بشر» [@diwan-tarafa، ص66].'
+  text: 'يريد عبد عَمْرو بن بِشْر، ونسبه إلى الضلال، كما يقول الأعلم، لأنه «وشى به إلى عمرو بن هند» [@diwan-tarafa، ص90]. وعنوان القصيدة عنده: «وقال أيضا في عبد عمرو بن بشر بن مرثد» [@diwan-tarafa، ص89].'
 sources:
+- source: diwan-tarafa
+  loc: ص89
+  url: https://archive.org/details/hm3478/page/n96/mode/1up
 - source: diwan-tarafa
   loc: ص90
   url: https://archive.org/details/hm3478/page/n97/mode/1up

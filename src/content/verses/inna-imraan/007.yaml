@@ -3,7 +3,7 @@ first: أَبْلِغْ قَتَادَةَ غَيْرَ سَائِلِهِ
 second: مِنْهُ الثَّوَابَ وَعَاجِلَ الشُّكْمِ
 vocabulary:
 - term: قَتَادَةَ
-  text: قتادة بن مسلمة الحنفي في قول محقق الديوان، وقد أعطى قوم طَرَفَة في سنة شدة [@diwan-tarafa، ص78، الحاشية].
+  text: 'قَتادة بن سَلَمة الحَنَفيّ. قالها طَرَفَة يمدحه، كما يقول الأعلم، وقد «أصاب قومه سنة فأتوه فبذل لهم» [@diwan-tarafa، ص102]، أي أن قوم طَرَفَة أصابهم جدب فأعطاهم.'
 - term: الثَّوَابَ
   text: الجزاء.
 - term: الشُّكْمِ
@@ -12,6 +12,9 @@ sources:
 - source: diwan-tarafa
   loc: ص104
   url: https://archive.org/details/hm3478/page/n111/mode/1up
+- source: diwan-tarafa
+  loc: ص102
+  url: https://archive.org/details/hm3478/page/n109/mode/1up
 - source: lisan
   loc: ج12 ص323
   url: https://shamela.ws/book/1687/6236

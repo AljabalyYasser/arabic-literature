@@ -1,18 +1,15 @@
 explained: false
 first: لَعِبَتْ بَعْدِي السُّيُولُ بِهِ
-second: وَجَرَى فِي رَيِّقٍ رِهَمُهْ
+second: وَجَرَى فِي رَوْنَقٍ رِهَمُهْ
 vocabulary:
-- term: رَيِّقٍ
-  text: أول الشيء؛ «وريّق كل شيء أفضله وأوّله» [@lisan، ج10 ص136].
+- term: رَوْنَقٍ
+  text: 'قال الأعلم: «والرونق هنا حسن النبات وأوله» [@diwan-tarafa، ص83].'
 - term: رِهَمُهْ
   text: جمع رِهْمة، وهي «المطر الضعيف الدائم الصغير القطر» [@lisan، ج12 ص257].
 sources:
 - source: diwan-tarafa
   loc: ص83
   url: https://archive.org/details/hm3478/page/n90/mode/1up
-- source: lisan
-  loc: ج10 ص136
-  url: https://shamela.ws/book/1687/4806
 - source: lisan
   loc: ج12 ص257
   url: https://shamela.ws/book/1687/6170
