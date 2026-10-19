@@ -1,0 +1,17 @@
+explained: false
+first: "إِذَا مُشَّتْ حَوَالِبُهَا أَرَنَّتْ"
+second: "كَأَنَّ الْحَيَّ صَبَّحَهُمْ نَعِيُّ"
+vocabulary:
+  - term: "مُشَّتْ"
+    text: "«أى مسحت بالكف لتنزل درة اللبن» [@diwan-imru-al-qais، ص136]."
+  - term: "حَوَالِبُهَا"
+    text: "«جمع حالب، وهو عرق فى السرة يدر اللبن فى الضرع» [@diwan-imru-al-qais، ص136]."
+  - term: "أَرَنَّتْ"
+    text: "«أى صاحت، وأكثر ما يستعمل الإرنان فى البكاء» [@diwan-imru-al-qais، ص136]."
+  - term: "صَبَّحَهُمْ نَعِيُّ"
+    text: "أتاهم صباحًا خبر موت. شبّه أصواتها «بأصوات قوم أتاهم نعى قوم قتلوا، فهم يبكون ويضجون» [@diwan-imru-al-qais، ص136]."
+sources:
+  - source: "diwan-imru-al-qais"
+    loc: "ص136"
+    url: "https://archive.org/details/3426pdf_202001/page/n164/mode/1up"
+status: "review"

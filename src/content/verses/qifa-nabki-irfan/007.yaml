@@ -1,0 +1,19 @@
+explained: false
+first: "فَيَا رُبَّ مَكْرُوبٍ كَرَرْتُ وَرَاءَهُ"
+second: "وَعَانٍ فَكَكْتُ الْغُلَّ عَنْهُ فَفَدَّانِي"
+vocabulary:
+  - term: "مَكْرُوبٍ"
+    text: "من أحاط به الكرب، أي الشدة."
+  - term: "كَرَرْتُ وَرَاءَهُ"
+    text: "«أى رجعت إليه وقد أحاط به العدو، وقاتلت عنه واستنقذته» [@diwan-imru-al-qais، ص90]."
+  - term: "وَعَانٍ"
+    text: "«العانى: الأسير» [@diwan-imru-al-qais، ص90]."
+  - term: "فَكَكْتُ الْغُلَّ عَنْهُ"
+    text: "الغُلّ القيد في العنق، وفي شرح الأعلم: «أى فديته بمالى فحل وثاقه وسرح، وإن كان أسيرى مننت عليه وأطلقته» [@diwan-imru-al-qais، ص90]."
+  - term: "فَفَدَّانِي"
+    text: "«أى قال لى: فدتك نفسى، وفداك أبى وأمى» [@diwan-imru-al-qais، ص90]."
+sources:
+  - source: "diwan-imru-al-qais"
+    loc: "ص90"
+    url: "https://archive.org/details/3426pdf_202001/page/n118/mode/1up"
+status: "review"

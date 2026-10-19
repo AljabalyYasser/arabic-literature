@@ -1,0 +1,15 @@
+explained: false
+first: "أَتَتْ حِجَجٌ بَعْدِي عَلَيْهَا فَأَصْبَحَتْ"
+second: "كَخَطِّ زَبُورٍ فِي مَصَاحِفِ رُهْبَانِ"
+vocabulary:
+  - term: "حِجَجٌ"
+    text: "سنون، جمع حِجّة."
+  - term: "زَبُورٍ"
+    text: "«اسم للكتاب»، وإنما يشبّهون الرسوم بالكتاب «لأنها تدل على مواضع الديار وتبيينها كما يدل الكتاب على المعنى المراد» [@diwan-imru-al-qais، ص89]."
+  - term: "رُهْبَانِ"
+    text: "عُبّاد النصارى، وكتبهم بخط دقيق."
+sources:
+  - source: "diwan-imru-al-qais"
+    loc: "ص89"
+    url: "https://archive.org/details/3426pdf_202001/page/n117/mode/1up"
+status: "review"

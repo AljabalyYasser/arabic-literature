@@ -1,0 +1,13 @@
+explained: false
+first: "وَمَا بَرِحَتْ خَيْلٌ تَثُورُ وَتُدَّعَى"
+second: "وَيَلْحَقُ مِنْهُمْ أَوَّلُونَ وَآخِرُ"
+vocabulary:
+  - term: "تَثُورُ"
+    text: "تنهض للحملة."
+  - term: "وَتُدَّعَى"
+    text: "يدعو بعضها بعضًا، أي ينادي الفرسان بأسماء قبائلهم."
+sources:
+  - source: "aghani-dk"
+    loc: "ج22 ص70"
+    url: "https://archive.org/details/aghani2014/22/page/n72/mode/1up"
+status: "review"

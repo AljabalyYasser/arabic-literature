@@ -1,0 +1,17 @@
+kind: "bayt"
+title: "وحسبك من غنى شبع وريّ"
+part: "1"
+order: 332
+person: "imru-al-qais"
+verses:
+  - "ala-in-la-takun-ibil/004"
+meaning: "حسب الإنسان من الغنى أن يشبع ويروى. والعجز مثل سائر، يقول المَيْدانيّ: «أي اقْنَعْ من الغنى بما يُشْبِعك ويُرْوِيك وجُدْ بما فَضَلَ، وهذا المثل لامرئ القيس» [@maydani، ج1 ص195]، وأنكر الأَصْمَعِيّ المقطوعة عليه [@diwan-imru-al-qais، ص137]."
+chapter: "imru-al-qais/hayatuhu"
+sources:
+  - source: "maydani"
+    loc: "ج1 ص195–196"
+    url: "https://shamela.ws/book/12929/1055"
+  - source: "diwan-imru-al-qais"
+    loc: "ص137"
+    url: "https://archive.org/details/3426pdf_202001/page/n165/mode/1up"
+status: "review"

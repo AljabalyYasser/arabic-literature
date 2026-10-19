@@ -1,0 +1,17 @@
+explained: false
+first: "وَجَادَ لَهَا الرَّبِيعُ بِوَاقِصَاتٍ"
+second: "فَآرَامٍ وَجَادَ لَهَا الْوَلِيُّ"
+vocabulary:
+  - term: "جَادَ لَهَا الرَّبِيعُ"
+    text: "«أى أتى بمطر جود، وهو الغزير» [@diwan-imru-al-qais، ص136]، أي سقى مراعيها."
+  - term: "بِوَاقِصَاتٍ"
+    text: "«موضع» [@diwan-imru-al-qais، ص136]."
+  - term: "فَآرَامٍ"
+    text: "«علامات فى الطريق، واحدها إرم؛ يريد مواضع الأعلام فيها» [@diwan-imru-al-qais، ص136]."
+  - term: "الْوَلِيُّ"
+    text: "«مطر يلى الوسمى» [@diwan-imru-al-qais، ص136]، والوسميّ أول مطر الربيع، فالوليّ ما يليه."
+sources:
+  - source: "diwan-imru-al-qais"
+    loc: "ص136"
+    url: "https://archive.org/details/3426pdf_202001/page/n164/mode/1up"
+status: "review"

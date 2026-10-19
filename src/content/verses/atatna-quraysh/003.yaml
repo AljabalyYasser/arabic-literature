@@ -1,0 +1,15 @@
+explained: false
+first: "أُتِيحَتْ لَنَا بَكْرٌ وَحَوْلَ لِوَائِهَا"
+second: "كَتَائِبُ يَخْشَاهَا الْعَزِيزُ الْمُكَاثِرُ"
+vocabulary:
+  - term: "بَكْرٌ"
+    text: "بنو بكر بن عبد مناة من كنانة، حلفاء قريش في الفِجار."
+  - term: "كَتَائِبُ"
+    text: "جماعات الجيش، واحدتها كتيبة."
+  - term: "الْمُكَاثِرُ"
+    text: "الذي يغالب غيره بكثرة عدده."
+sources:
+  - source: "aghani-dk"
+    loc: "ج22 ص70"
+    url: "https://archive.org/details/aghani2014/22/page/n72/mode/1up"
+status: "review"

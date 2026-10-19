@@ -1,0 +1,17 @@
+kind: "bayt"
+title: "إذا المرء لم يخزن عليه لسانه"
+part: "1"
+order: 331
+person: "imru-al-qais"
+verses:
+  - "qifa-nabki-irfan/005"
+meaning: "من لم يحفظ لسانه، فيكتم به سرّه، فلن يحفظ شيئًا غيره. وصار البيت مثلًا في كتمان السر، يرويه المُبَرِّد لامرئ القَيْس في بابه [@kamil، ج2 ص228]، وهو من مقطوعة مختلف في نسبتها إليه."
+chapter: "imru-al-qais/hayatuhu"
+sources:
+  - source: "diwan-imru-al-qais"
+    loc: "ص90"
+    url: "https://archive.org/details/3426pdf_202001/page/n118/mode/1up"
+  - source: "kamil"
+    loc: "ج2 ص228"
+    url: "https://shamela.ws/book/8505/776"
+status: "review"

@@ -1,0 +1,15 @@
+explained: false
+first: "فَسَحَّتْ دُمُوعِي فِي الرِّدَاءِ كَأَنَّهَا"
+second: "كُلًى مِنْ شَعِيبٍ ذَاتُ سَحٍّ وَتَهْتَانِ"
+vocabulary:
+  - term: "فَسَحَّتْ"
+    text: "«أى سالت وصبت كما يسح المطر» [@diwan-imru-al-qais، ص90]."
+  - term: "كُلًى مِنْ شَعِيبٍ"
+    text: "الشَّعِيب «المزادة»، أي قربة الماء الكبيرة، و«كُلاها: رقع تكون فى أصول عراها، وأكثر ما يسيل الماء منها» [@diwan-imru-al-qais، ص90]."
+  - term: "تَهْتَانِ"
+    text: "«السيلان، وهو أيضا مطر ضعيف» [@diwan-imru-al-qais، ص90]."
+sources:
+  - source: "diwan-imru-al-qais"
+    loc: "ص90"
+    url: "https://archive.org/details/3426pdf_202001/page/n118/mode/1up"
+status: "review"
