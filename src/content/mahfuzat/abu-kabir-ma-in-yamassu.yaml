@@ -1,0 +1,17 @@
+kind: "bayt"
+title: "ما إن يمس الأرض إلا منكب"
+part: "1"
+order: 284
+person: "abu-kabir"
+lines:
+  - first: "مَا إِنْ يَمَسُّ الْأَرْضَ إِلَّا مَنْكِبٌ"
+    second: "مِنْهُ وَحَرْفُ السَّاقِ طَيَّ الْمِحْمَلِ"
+meaning: "إذا نام لم يمسّ الأرض منه إلا كتفه وحرف ساقه، منطويًا كما يُطوى محمل السيف، أي حمائله [@sukkari-hudhaliyyin، ص1074]. فهو خفيف لا يستسلم للنوم، ينام على جنبه مستعدًا للوثوب. ومن أبيات الفتى التي يُروى أنها في تأبط شرًّا، والخبر في حكاية [أبو كبير وربيبه](/stories/abu-kabir-wa-rabibuh/)."
+sources:
+  - source: "sukkari-hudhaliyyin"
+    loc: "ص1074"
+    url: "https://archive.org/details/3816pdf/page/n1091/mode/1up"
+  - source: "ibn-qutayba"
+    loc: "ج2 ص661"
+    url: "https://shamela.ws/book/23785/652"
+status: "review"

@@ -1,0 +1,17 @@
+kind: "bayt"
+title: "فقد عجبت وما بالدهر من عجب"
+part: "1"
+order: 286
+person: "al-mutanakhkhil"
+lines:
+  - first: "فَقَدْ عَجِبْتُ وَمَا بِالدَّهْرِ مِنْ عَجَبٍ"
+    second: "أَنَّى قُتِلْتَ وَأَنْتَ الْحَازِمُ الْبَطَلُ"
+meaning: "يرثي المتنخل ابنه أثيلة: عجبت كيف قُتلت وأنت الحازم الشجاع، ثم يستدرك أن لا عجب في الموت. يقول الشرح: «وما بالموت من عجب»، و«أنى قتلت»: «كيف قتلت وأنت شجاع بطل» [@sukkari-hudhaliyyin، ص1281]. وبه يبدأ ابن قُتَيْبة ما ينشده من المرثية، ويرويه «لقد عجبت» [@ibn-qutayba، ج2 ص648]."
+sources:
+  - source: "sukkari-hudhaliyyin"
+    loc: "ص1281"
+    url: "https://archive.org/details/3816pdf/page/n1298/mode/1up"
+  - source: "ibn-qutayba"
+    loc: "ج2 ص648"
+    url: "https://shamela.ws/book/23785/639"
+status: "review"

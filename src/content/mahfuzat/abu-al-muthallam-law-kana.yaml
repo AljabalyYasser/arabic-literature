@@ -1,0 +1,16 @@
+kind: "bayt"
+title: "لو كان للدهر مال عند متلده"
+part: "1"
+order: 287
+lines:
+  - first: "لَوْ كَانَ لِلدَّهْرِ مَالٌ عِنْدَ مُتْلِدِهِ"
+    second: "لَكَانَ لِلدَّهْرِ صَخْرٌ مَالَ قُنْيَانِ"
+meaning: "مطلع رثاء أبي المثلّم الهذلي لخصمه صخر الغيّ: لو كان الدهر يقتني مالًا لاقتنى صخرًا وأمسكه ولم يفرّط فيه. يقول الشرح: «أى لو كان الدهر يقتنى مالاً لاقتنى صخرًا» [@sukkari-hudhaliyyin، ص284]. والخبر في مدخل [صخر الغي](/people/groups/1/hudhayl/#sakhr-al-ghay)."
+sources:
+  - source: "sukkari-hudhaliyyin"
+    loc: "ص284"
+    url: "https://archive.org/details/3816pdf/page/n301/mode/1up"
+  - source: "aghani-dk"
+    loc: "ج22 ص349"
+    url: "https://archive.org/details/aghani2014/22/page/n351/mode/1up"
+status: "review"

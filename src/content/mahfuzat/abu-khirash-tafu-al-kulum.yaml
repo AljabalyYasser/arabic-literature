@@ -1,0 +1,20 @@
+kind: "bayt"
+title: "بلى إنها تعفو الكلوم"
+part: "1"
+order: 282
+person: "abu-khirash"
+lines:
+  - first: "بَلَى إِنَّهَا تَعْفُو الْكُلُومُ وَإِنَّمَا"
+    second: "نُوَكَّلُ بِالْأَدْنَى وَإِنْ جَلَّ مَا يَمْضِي"
+meaning: "الجراح تبرأ، وإنما يلازم الحزنُ المرءَ على المصيبة القريبة، وإن كانت التي مضت أعظم. وفي الشرح المطبوع مع القصيدة أن المعنى: إنما نحزن على الأقرب فالأقرب، وننسى من مضى وإن عظم [@sukkari-hudhaliyyin، ص1230]. قاله أبو خراش بعد أن أقسم ألا ينسى أخاه، فاستدرك على نفسه."
+sources:
+  - source: "sukkari-hudhaliyyin"
+    loc: "ص1230"
+    url: "https://archive.org/details/3816pdf/page/n1247/mode/1up"
+  - source: "tabrizi-hamasa"
+    loc: "ج1 ص327"
+    url: "https://shamela.ws/book/6907/310"
+  - source: "ibn-qutayba"
+    loc: "ج2 ص651"
+    url: "https://shamela.ws/book/23785/642"
+status: "review"

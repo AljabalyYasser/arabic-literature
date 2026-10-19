@@ -1,0 +1,16 @@
+kind: "bayt"
+title: "كأن مزاحف الحيات فيه"
+part: "1"
+order: 285
+person: "al-mutanakhkhil"
+verses:
+  - "araftu-bi-ajdath/029"
+meaning: "آثار زحف الحيات حول ماء مهجور قبيل الفجر كأنها آثار السياط. يقول الشرح المطبوع مع القصيدة: «هذا بيت القصيدة، ما أحسن ما وصف» [@sukkari-hudhaliyyin، ص1273]، وينشده ابن قُتَيْبة بعد حكم الأصمعي في الطائية [@ibn-qutayba، ج2 ص647]."
+sources:
+  - source: "sukkari-hudhaliyyin"
+    loc: "ص1273"
+    url: "https://archive.org/details/3816pdf/page/n1290/mode/1up"
+  - source: "ibn-qutayba"
+    loc: "ج2 ص647"
+    url: "https://shamela.ws/book/23785/638"
+status: "review"

@@ -1,0 +1,20 @@
+kind: "bayt"
+title: "وبعض الشر أهون من بعض"
+part: "1"
+order: 281
+person: "abu-khirash"
+lines:
+  - first: "حَمِدْتُ إِلٰهِي بَعْدَ عُرْوَةَ إِذْ نَجَا"
+    second: "خِرَاشٌ وَبَعْضُ الشَّرِّ أَهْوَنُ مِنْ بَعْضِ"
+meaning: "قُتل أخوه عروة ونجا ابنه خراش، فحمد الله على نجاة ابنه، لأن بعض الشر أخف من بعض. وبه يبدأ أبو تمّام باب المراثي في «الحماسة» [@tabrizi-hamasa، ج1 ص326]، وعجزه يُضرب مثلًا لمن أصابه شرّ وسلم من شرّ أكبر. والخبر في حكاية [«وبعض الشر أهون من بعض»](/stories/khalas-khirash/)."
+sources:
+  - source: "sukkari-hudhaliyyin"
+    loc: "ص1230"
+    url: "https://archive.org/details/3816pdf/page/n1247/mode/1up"
+  - source: "tabrizi-hamasa"
+    loc: "ج1 ص326"
+    url: "https://shamela.ws/book/6907/309"
+  - source: "ibn-qutayba"
+    loc: "ج2 ص651"
+    url: "https://shamela.ws/book/23785/642"
+status: "review"
