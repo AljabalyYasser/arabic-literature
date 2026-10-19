@@ -1,0 +1,16 @@
+explained: false
+first: "وَإِذَا تُحَمِّلُنَا الْعَشِيرَةُ ثِقْلَهَا"
+second: "قُمْنَا بِهِ وَإِذَا تَعُودُ نَعُودُ"
+vocabulary:
+  - term: "ثِقْلَهَا"
+    text: "غرمها وما ينوبها من الحمالات والديات ونحوها [@mufaddaliyyat، ص355، الحاشية]."
+  - term: "وَإِذَا تَعُودُ نَعُودُ"
+    text: "نفعل ذلك كلما سُئلنا، مرة بعد مرة [@mufaddaliyyat، ص355، الحاشية]."
+sources:
+  - source: "mufaddaliyyat"
+    loc: "ص355"
+    url: "https://shamela.ws/book/6904/329"
+  - source: "mufaddaliyyat"
+    loc: "ص355، الحاشية"
+    url: "https://archive.org/details/20240818_20240818_1710/page/n354/mode/1up"
+status: "review"

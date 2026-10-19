@@ -1,0 +1,18 @@
+explained: false
+first: "أَجُبَيْلُ إِنَّ أَبَاكَ كَارَبَ يَوْمُهُ"
+second: "فَإِذَا دُعِيتَ إِلَى الْعَظَائِمِ فَاعْجَلِ"
+vocabulary:
+  - term: "أَجُبَيْلُ"
+    text: "في حاشية المحققين: «جبيل: ابنه» [@mufaddaliyyat، ص384، الحاشية]. والهمزة للنداء."
+  - term: "كَارَبَ يَوْمُهُ"
+    text: "في حاشية المحققين: «كارب: قرب ودنا. أو «كارب يومه»، بوزن اسم الفاعل، أي قريب» [@mufaddaliyyat، ص384، الحاشية]. ويومه: يوم موته."
+  - term: "الْعَظَائِمِ"
+    text: "الأمور الجسام."
+sources:
+  - source: "mufaddaliyyat"
+    loc: "ص384"
+    url: "https://shamela.ws/book/6904/358"
+  - source: "mufaddaliyyat"
+    loc: "ص384، الحاشية"
+    url: "https://archive.org/details/20240818_20240818_1710/page/n383/mode/1up"
+status: "review"

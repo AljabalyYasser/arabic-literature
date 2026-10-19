@@ -1,0 +1,18 @@
+explained: false
+first: "فَإِنْ تَكُ لَا تَصِيدُ الْيَوْمَ شَيْئًا"
+second: "وَآبَ قَنِيصُهَا سَلَمًا وَخَابَا"
+vocabulary:
+  - term: "آبَ"
+    text: "رجع."
+  - term: "قَنِيصُهَا"
+    text: "قانصها وصائدها [@mufaddaliyyat، ص357، الحاشية]."
+  - term: "سَلَمًا"
+    text: "السَّلَم، بفتح اللام: الاستسلام، يوصف بالمصدر يراد به المستسلم المنقاد [@mufaddaliyyat، ص357، الحاشية]."
+sources:
+  - source: "mufaddaliyyat"
+    loc: "ص357"
+    url: "https://shamela.ws/book/6904/331"
+  - source: "mufaddaliyyat"
+    loc: "ص357، الحاشية"
+    url: "https://archive.org/details/20240818_20240818_1710/page/n356/mode/1up"
+status: "review"

@@ -1,0 +1,18 @@
+explained: false
+first: "وَنَظْرَةَ ذِي شَجَنٍ وَامِقٍ"
+second: "إِذَا مَا الرَّكَائِبُ جَاوَزْنَ مِيلَا"
+vocabulary:
+  - term: "شَجَنٍ"
+    text: "الحزن [@mufaddaliyyat، ص56، الحاشية]."
+  - term: "وَامِقٍ"
+    text: "الشديد المحبة [@mufaddaliyyat، ص56، الحاشية]."
+  - term: "الرَّكَائِبُ جَاوَزْنَ مِيلَا"
+    text: "الإبل التي يُركب عليها إذا ابتعدت مسافة من الأرض، فهو يلتفت إليها ينظر."
+sources:
+  - source: "mufaddaliyyat"
+    loc: "ص56"
+    url: "https://shamela.ws/book/6904/30"
+  - source: "mufaddaliyyat"
+    loc: "ص56، الحاشية"
+    url: "https://archive.org/details/20240818_20240818_1710/page/n55/mode/1up"
+status: "review"

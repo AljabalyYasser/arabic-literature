@@ -1,0 +1,20 @@
+explained: false
+first: "أُعَوِّدُ مِثْلَهَا الْحُكَمَاءَ بَعْدِي"
+second: "إِذَا مَا الْحَقُّ فِي الْأَشْيَاعِ نَابَا"
+vocabulary:
+  - term: "الْحَقُّ"
+    text: "الحق عند العرب: ما يلزمهم من الحمالات وقرى الأضياف [@mufaddaliyyat، ص358، الحاشية]."
+  - term: "الْأَشْيَاعِ"
+    text: "المتفرقون [@mufaddaliyyat، ص358، الحاشية]."
+  - term: "نَابَا"
+    text: "جاء وألمّ [@mufaddaliyyat، ص358، الحاشية]."
+  - term: "أُعَوِّدُ مِثْلَهَا الْحُكَمَاءَ"
+    text: "يقول المحققان: «وبهذا البيت سمي \"معود الحكماء\". يقول: أقوم بهذه الأشياء ليتعودها الحكماء فيفعلوا مثلها» [@mufaddaliyyat، ص358، الحاشية]."
+sources:
+  - source: "mufaddaliyyat"
+    loc: "ص358"
+    url: "https://shamela.ws/book/6904/332"
+  - source: "mufaddaliyyat"
+    loc: "ص358، الحاشية"
+    url: "https://archive.org/details/20240818_20240818_1710/page/n357/mode/1up"
+status: "review"

@@ -1,0 +1,16 @@
+explained: false
+first: "يَرَانِي إِذَا لَاقَيْتُهُ ذَا مَهَابَةٍ"
+second: "وَيَقْصُرُ عَنِّي الطَّرْفَ وَالْوَجْهُ كَامِدُ"
+vocabulary:
+  - term: "وَيَقْصُرُ عَنِّي الطَّرْفَ"
+    text: "في حاشية المحققين: «أي يهابني، ولا يملأ عينه من النظر إلي، استعظامًا لي وفرقًا مني» [@mufaddaliyyat، ص325، الحاشية]. والطرف: العين."
+  - term: "كَامِدُ"
+    text: "في حاشية المحققين: «كامد: أسود» [@mufaddaliyyat، ص325، الحاشية]. أي متغيّر من الغيظ."
+sources:
+  - source: "mufaddaliyyat"
+    loc: "ص325"
+    url: "https://shamela.ws/book/6904/299"
+  - source: "mufaddaliyyat"
+    loc: "ص325، الحاشية"
+    url: "https://archive.org/details/20240818_20240818_1710/page/n324/mode/1up"
+status: "review"

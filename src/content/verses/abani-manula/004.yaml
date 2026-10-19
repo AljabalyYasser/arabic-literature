@@ -1,0 +1,16 @@
+explained: false
+first: "حَلَقٌ أَحَلُّوهَا الْفَضَاءَ كَأَنَّهُمْ"
+second: "مِنْ بَيْنِ مَنْبِجَ وَالْكَثِيبِ قُيُولُ"
+vocabulary:
+  - term: "حَلَقٌ"
+    text: "جمع حَلْقة [@mufaddaliyyat، ص352، الحاشية]، أي جماعات."
+  - term: "قُيُولُ"
+    text: "جمع قَيْل، وهو الملك أو الرئيس دون الملك. ويقول المرزوقي فيما ينقل المحققان إن الكلام فيه تهكّم، وكأنهم «قيول من مقاول حمير» [@mufaddaliyyat، ص352، الحاشية]."
+sources:
+  - source: "mufaddaliyyat"
+    loc: "ص352"
+    url: "https://shamela.ws/book/6904/326"
+  - source: "mufaddaliyyat"
+    loc: "ص352، الحاشية"
+    url: "https://archive.org/details/20240818_20240818_1710/page/n351/mode/1up"
+status: "review"

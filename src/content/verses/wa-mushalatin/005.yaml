@@ -1,0 +1,16 @@
+explained: false
+first: "وَذِي تِرَةٍ أَوْجَعْتُهُ وَسَبَقْتُهُ"
+second: "فَقَصَّرَ عَنِّي سَعْيُهُ وَهْوَ جَاهِدُ"
+vocabulary:
+  - term: "تِرَةٍ"
+    text: "في حاشية المحققين: «الترة: الثأر» [@mufaddaliyyat، ص325، الحاشية]. فذو الترة صاحب ثأر عنده."
+  - term: "جَاهِدُ"
+    text: "مجتهد يبذل وُسْعه."
+sources:
+  - source: "mufaddaliyyat"
+    loc: "ص325"
+    url: "https://shamela.ws/book/6904/299"
+  - source: "mufaddaliyyat"
+    loc: "ص325، الحاشية"
+    url: "https://archive.org/details/20240818_20240818_1710/page/n324/mode/1up"
+status: "review"

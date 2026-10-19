@@ -1,0 +1,18 @@
+explained: false
+first: "فَبَادَرَتَاهَا بِمُسْتَعْجِلٍ"
+second: "مِنَ الدَّمْعِ يَنْضَحُ خَدًّا أَسِيلَا"
+vocabulary:
+  - term: "فَبَادَرَتَاهَا"
+    text: "يعني عينيها، أضمرهما ولم يجرِ لهما ذكر [@mufaddaliyyat، ص56، الحاشية]: سبقتها عيناها بدمع مستعجل."
+  - term: "يَنْضَحُ"
+    text: "يبلّ ويرشّ."
+  - term: "خَدًّا أَسِيلَا"
+    text: "الخد الأسيل: السهل اللين الدقيق المستوي [@mufaddaliyyat، ص56، الحاشية]."
+sources:
+  - source: "mufaddaliyyat"
+    loc: "ص56"
+    url: "https://shamela.ws/book/6904/30"
+  - source: "mufaddaliyyat"
+    loc: "ص56، الحاشية"
+    url: "https://archive.org/details/20240818_20240818_1710/page/n55/mode/1up"
+status: "review"

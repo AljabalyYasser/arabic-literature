@@ -1,0 +1,16 @@
+explained: false
+first: "فَإِنْ تَجَمَّعَ أَوْتَادٌ وَأَعْمِدَةٌ"
+second: "وَسَاكِنٌ بَلَغُوا الْأَمْرَ الَّذِي كَادُوا"
+vocabulary:
+  - term: "وَسَاكِنٌ"
+    text: "أهل يسكنون البيت."
+  - term: "كَادُوا"
+    text: "أرادوا. في اللسان: «وأَنشد أَبو بَكْرٍ فِي كَادَ بِمَعْنَى أَراد للأَفوه»، ثم البيت، و«أَراد الَّذِي أَرادوا» [@lisan، ج3 ص385]."
+sources:
+  - source: "qali"
+    loc: "ج2 ص224"
+    url: "https://shamela.ws/book/9160/508"
+  - source: "lisan"
+    loc: "ج3 ص385"
+    url: "https://shamela.ws/book/1687/1827"
+status: "review"

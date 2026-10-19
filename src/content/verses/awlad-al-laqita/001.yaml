@@ -1,0 +1,16 @@
+explained: false
+first: "أَلَمْ يَنْهَ أَوْلَادَ اللَّقِيطَةِ عِلْمُهُمْ"
+second: "بِزَبَّانَ إِذْ يَهْجُونَهُ وَهْوَ نَائِمُ"
+vocabulary:
+  - term: "أَوْلَادَ اللَّقِيطَةِ"
+    text: "بنو حذيفة بن بدر الفزاري، كما في القصيدة السابقة [@mufaddaliyyat، ص353، الحاشية]."
+  - term: "وَهْوَ نَائِمُ"
+    text: "يقول: يهجونه وهو لا يعبأ بهم ولا يلتفت إليهم [@mufaddaliyyat، ص353، الحاشية]."
+sources:
+  - source: "mufaddaliyyat"
+    loc: "ص353"
+    url: "https://shamela.ws/book/6904/327"
+  - source: "mufaddaliyyat"
+    loc: "ص353، الحاشية"
+    url: "https://archive.org/details/20240818_20240818_1710/page/n352/mode/1up"
+status: "review"

@@ -1,0 +1,18 @@
+explained: false
+first: "مِنَ الْأَجْزَاعِ أَسْفَلَ مِنْ نُمَيْلٍ"
+second: "كَمَا رَجَّعْتَ بِالْقَلَمِ الْكِتَابَا"
+vocabulary:
+  - term: "الْأَجْزَاعِ"
+    text: "جمع جِزْع، وهو منعطف الوادي [@mufaddaliyyat، ص357، الحاشية]."
+  - term: "نُمَيْلٍ"
+    text: "تصغير نَمَلَى على حذف الزيادة، كما قال البكري [@mufaddaliyyat، ص357، الحاشية]."
+  - term: "رَجَّعْتَ بِالْقَلَمِ الْكِتَابَا"
+    text: "إذا عاد بالقلم على الكتابة. يصف دروس الدار وآثارها [@mufaddaliyyat، ص357، الحاشية]، أي بقيت منها خطوط كالكتابة."
+sources:
+  - source: "mufaddaliyyat"
+    loc: "ص357"
+    url: "https://shamela.ws/book/6904/331"
+  - source: "mufaddaliyyat"
+    loc: "ص357، الحاشية"
+    url: "https://archive.org/details/20240818_20240818_1710/page/n356/mode/1up"
+status: "review"

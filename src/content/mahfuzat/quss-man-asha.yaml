@@ -1,0 +1,16 @@
+kind: "mathal"
+part: "1"
+order: 291
+person: "quss-ibn-saida"
+text: "مَنْ عاشَ ماتَ، وَمَنْ ماتَ فاتَ، وَكُلُّ ما هُوَ آتٍ آتٍ"
+story: "quss-fi-ukaz"
+meaning: "أول موعظة قُسّ بن ساعِدة بعُكاظ: كل حيّ يموت، والميت يفوت فلا يُدرك، وكل ما هو قادم سيأتي لا محالة. والخطبة منسوبة إليه، ورواياتها تختلف [@aghani-dk، ج15 ص247] [@bayan، ج1 ص253]."
+chapter: "1/al-nathr"
+sources:
+  - source: "aghani-dk"
+    loc: "ج15 ص247"
+    url: "https://archive.org/details/aghani2014/15/page/n248/mode/1up"
+  - source: "bayan"
+    loc: "ج1 ص253"
+    url: "https://shamela.ws/book/10614/246"
+status: "review"

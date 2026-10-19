@@ -1,0 +1,16 @@
+explained: false
+first: "بِأَنْ قَوْمُكُمْ خُيِّرُوا خَصْلَتَيْـ"
+second: "ـنِ كِلْتَاهُمَا جَعَلُوهَا عُدُولَا"
+vocabulary:
+  - term: "خَصْلَتَيْنِ"
+    text: "أمرين، يفسّرهما في البيت التالي."
+  - term: "عُدُولَا"
+    text: "جَوْرًا، أي عدلوا فيها عن الحق [@mufaddaliyyat، ص59، الحاشية]."
+sources:
+  - source: "mufaddaliyyat"
+    loc: "ص59"
+    url: "https://shamela.ws/book/6904/33"
+  - source: "mufaddaliyyat"
+    loc: "ص59، الحاشية"
+    url: "https://archive.org/details/20240818_20240818_1710/page/n58/mode/1up"
+status: "review"

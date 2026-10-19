@@ -1,0 +1,18 @@
+explained: false
+first: "فَإِنَّ لَهَا مَنَازِلَ خَاوِيَاتٍ"
+second: "عَلَى نَمَلَى وَقَفْتُ بِهَا الرِّكَابَا"
+vocabulary:
+  - term: "خَاوِيَاتٍ"
+    text: "خالية."
+  - term: "نَمَلَى"
+    text: "ماء بقرب المدينة [@mufaddaliyyat، ص357، الحاشية]."
+  - term: "الرِّكَابَا"
+    text: "الإبل التي يُسار عليها."
+sources:
+  - source: "mufaddaliyyat"
+    loc: "ص357"
+    url: "https://shamela.ws/book/6904/331"
+  - source: "mufaddaliyyat"
+    loc: "ص357، الحاشية"
+    url: "https://archive.org/details/20240818_20240818_1710/page/n356/mode/1up"
+status: "review"

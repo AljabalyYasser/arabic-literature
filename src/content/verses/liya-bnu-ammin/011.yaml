@@ -1,0 +1,13 @@
+explained: false
+first: "إِنِّي أَبِيٌّ أَبِيٌّ ذُو مُحَافَظَةٍ"
+second: "وَابْنُ أَبِيٍّ أَبِيٍّ مِنْ أَبِيِّينِ"
+vocabulary:
+  - term: "أَبِيٌّ"
+    text: "الذي يأبى الضيم ولا يقبله."
+  - term: "مُحَافَظَةٍ"
+    text: "حِفاظ، وهو الغضب للحُرَم والدفاع عنها."
+sources:
+  - source: "mufaddaliyyat"
+    loc: "ص160"
+    url: "https://shamela.ws/book/6904/134"
+status: "review"

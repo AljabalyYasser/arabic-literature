@@ -1,0 +1,16 @@
+explained: false
+first: "كَأَنَّ يَدَيْهَا إِذَا أَرْقَلَتْ"
+second: "وَقَدْ جُرْنَ ثُمَّ اهْتَدَيْنَ السَّبِيلَا"
+vocabulary:
+  - term: "أَرْقَلَتْ"
+    text: "من الإرقال، وهو أن تعدو تنفض رأسها مرحًا [@mufaddaliyyat، ص58، الحاشية]."
+  - term: "جُرْنَ ثُمَّ اهْتَدَيْنَ"
+    text: "يعني الإبل سواها: عدلن عن محجّة الطريق يمنة ويسرة في وقت نشاطهن، فلما تعبن اهتدين الطريق ولزمنه إعياءً وكلالًا [@mufaddaliyyat، ص58، الحاشية]."
+sources:
+  - source: "mufaddaliyyat"
+    loc: "ص58"
+    url: "https://shamela.ws/book/6904/32"
+  - source: "mufaddaliyyat"
+    loc: "ص58، الحاشية"
+    url: "https://archive.org/details/20240818_20240818_1710/page/n57/mode/1up"
+status: "review"

@@ -1,0 +1,16 @@
+explained: false
+first: "كُلُّ امْرِئٍ رَاجِعٌ يَوْمًا لِشِيمَتِهِ"
+second: "وَإِنْ تَخَالَقَ أَخْلَاقًا إِلَى حِينِ"
+vocabulary:
+  - term: "لِشِيمَتِهِ"
+    text: "في اللسان: «الشِّيمةُ: الخُلُقُ. والشِّيمةُ: الطَّبِيعَةُ» [@lisan، ج12 ص329]."
+  - term: "تَخَالَقَ"
+    text: "تكلّف أخلاقًا ليست من طبعه."
+sources:
+  - source: "mufaddaliyyat"
+    loc: "ص160"
+    url: "https://shamela.ws/book/6904/134"
+  - source: "lisan"
+    loc: "ج12 ص329"
+    url: "https://shamela.ws/book/1687/6242"
+status: "review"

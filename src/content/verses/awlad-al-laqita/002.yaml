@@ -1,0 +1,18 @@
+explained: false
+first: "يُطِيفُونَ بِالْأَعْشَى وَصُبَّ عَلَيْهِمُ"
+second: "لِسَانٌ كَصَدْرِ الْهُنْدُوَانِيِّ صَارِمُ"
+vocabulary:
+  - term: "يُطِيفُونَ بِالْأَعْشَى"
+    text: "يدورون حوله ويلوذون به. ولا يقول المحققان من الأعشى هنا، وفي الأصمعيات «يطوفون» [@asmaiyyat، ص211]."
+  - term: "الْهُنْدُوَانِيِّ"
+    text: "السيف المصنوع من حديد الهند."
+  - term: "صَارِمُ"
+    text: "قاطع."
+sources:
+  - source: "mufaddaliyyat"
+    loc: "ص353"
+    url: "https://shamela.ws/book/6904/327"
+  - source: "asmaiyyat"
+    loc: "ص211"
+    url: "https://shamela.ws/book/6905/195"
+status: "review"

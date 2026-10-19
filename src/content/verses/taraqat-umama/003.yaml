@@ -1,0 +1,18 @@
+explained: false
+first: "إِنِّي امْرُؤٌ مِنْ عُصْبَةٍ مَشْهُورَةٍ"
+second: "حُشُدٍ لَهُمْ مَجْدٌ أَشَمُّ تَلِيدُ"
+vocabulary:
+  - term: "حُشُدٍ"
+    text: "الذين يحشدون لضيفهم وجارهم، أي يجتمعون له ولما ينوبهم من قِرًى ونصر [@mufaddaliyyat، ص355، الحاشية]."
+  - term: "أَشَمُّ"
+    text: "مرتفع عالٍ."
+  - term: "تَلِيدُ"
+    text: "القديم [@mufaddaliyyat، ص355، الحاشية]."
+sources:
+  - source: "mufaddaliyyat"
+    loc: "ص355"
+    url: "https://shamela.ws/book/6904/329"
+  - source: "mufaddaliyyat"
+    loc: "ص355، الحاشية"
+    url: "https://archive.org/details/20240818_20240818_1710/page/n354/mode/1up"
+status: "review"

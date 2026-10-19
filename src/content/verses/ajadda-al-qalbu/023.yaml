@@ -1,0 +1,17 @@
+explained: false
+first: "إِذَا نَزَلَ السَّحَابُ بِأَرْضِ قَوْمٍ"
+second: "رَعَيْنَاهُ وَإِنْ كَانُوا غِضَابَا"
+vocabulary:
+  - term: "السَّحَابُ ... رَعَيْنَاهُ"
+    text: "«أراد بالسحاب الغيث الذي يكون عنه النبات» [@mufaddaliyyat، ص359، الحاشية]: إذا أمطرت أرض قوم رعينا نبتها ولو غضبوا، عزًّا وقوة. وروايته في اللسان «إذا سقط السماء»، و«السماء: المطر، مذكر» [@lisan، ج14 ص399]."
+sources:
+  - source: "mufaddaliyyat"
+    loc: "ص359"
+    url: "https://shamela.ws/book/6904/333"
+  - source: "mufaddaliyyat"
+    loc: "ص359، الحاشية"
+    url: "https://archive.org/details/20240818_20240818_1710/page/n358/mode/1up"
+  - source: "lisan"
+    loc: "ج14 ص399"
+    url: "https://shamela.ws/book/1687/7523"
+status: "review"

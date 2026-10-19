@@ -1,0 +1,15 @@
+kind: "mathal"
+part: "1"
+order: 296
+person: "amir-ibn-al-zarib"
+text: "إِنَّ العَصَا قُرِعَتْ لِذِي الحِلْمِ"
+story: "qar-al-asa"
+meaning: "العاقل يكفيه التنبيه. يُروى أن عامر بن الظَّرِب لما أسنّ كانت تُقرع له العصا إذا سها في حكمه فينتبه، ويختلف الرواة في الحكيم الذي قُرعت له. يقول الميداني: «والمثل يضرب لمن إذا نُبِّه انتبه» [@maydani، ج1 ص38]."
+sources:
+  - source: "maydani"
+    loc: "ج1 ص38"
+    url: "https://shamela.ws/book/12929/154"
+  - source: "bayan"
+    loc: "ج3 ص26"
+    url: "https://shamela.ws/book/10614/577"
+status: "review"

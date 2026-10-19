@@ -1,0 +1,18 @@
+explained: false
+first: "بَلْ لَا نَقُولُ إِذَا تَبَوَّأَ جِيرَةٌ"
+second: "إِنَّ الْمَحَلَّةَ شِعْبُهَا مَكْدُودُ"
+vocabulary:
+  - term: "تَبَوَّأَ جِيرَةٌ"
+    text: "نزل عندنا جيران."
+  - term: "شِعْبُهَا"
+    text: "الشِّعب: ما انفرج بين جبلين [@mufaddaliyyat، ص356، الحاشية]."
+  - term: "مَكْدُودُ"
+    text: "في شدة وضيق. أراد أنه لا يعتذر لأضيافه بما ينوبه من شدة وضيق [@mufaddaliyyat، ص356، الحاشية]."
+sources:
+  - source: "mufaddaliyyat"
+    loc: "ص356"
+    url: "https://shamela.ws/book/6904/330"
+  - source: "mufaddaliyyat"
+    loc: "ص356، الحاشية"
+    url: "https://archive.org/details/20240818_20240818_1710/page/n355/mode/1up"
+status: "review"

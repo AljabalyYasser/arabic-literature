@@ -1,0 +1,18 @@
+explained: false
+first: "أُوصِيكَ إِيصَاءَ امْرِئٍ لَكَ نَاصِحٍ"
+second: "طَبِنٍ بِرَيْبِ الدَّهْرِ غَيْرِ مُغَفَّلِ"
+vocabulary:
+  - term: "طَبِنٍ"
+    text: "في حاشية المحققين: «الطبن: الحاذق الفطن» [@mufaddaliyyat، ص384، الحاشية]."
+  - term: "بِرَيْبِ الدَّهْرِ"
+    text: "بحوادثه ونوائبه."
+  - term: "مُغَفَّلِ"
+    text: "غافل لا فطنة له."
+sources:
+  - source: "mufaddaliyyat"
+    loc: "ص384"
+    url: "https://shamela.ws/book/6904/358"
+  - source: "mufaddaliyyat"
+    loc: "ص384، الحاشية"
+    url: "https://archive.org/details/20240818_20240818_1710/page/n383/mode/1up"
+status: "review"

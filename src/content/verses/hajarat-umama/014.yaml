@@ -1,0 +1,18 @@
+explained: false
+first: "تَوَقَّرُ شَازِرَةً طَرْفَهَا"
+second: "إِذَا مَا ثَنَيْتَ إِلَيْهَا الْجَدِيلَا"
+vocabulary:
+  - term: "تَوَقَّرُ"
+    text: "تنظر بوقار ورزانة [@mufaddaliyyat، ص57، الحاشية]."
+  - term: "شَازِرَةً"
+    text: "الشَّزْر: النظر بمؤخر العين على غير استواء [@mufaddaliyyat، ص57، الحاشية]."
+  - term: "الْجَدِيلَا"
+    text: "الزمام. يقول: هي مؤدّبة، إذا ثنيت إليها الزمام لم تنفر [@mufaddaliyyat، ص57، الحاشية]."
+sources:
+  - source: "mufaddaliyyat"
+    loc: "ص57"
+    url: "https://shamela.ws/book/6904/31"
+  - source: "mufaddaliyyat"
+    loc: "ص57، الحاشية"
+    url: "https://archive.org/details/20240818_20240818_1710/page/n56/mode/1up"
+status: "review"

@@ -1,0 +1,18 @@
+explained: false
+first: "إِذَا أَقْبَلَتْ قُلْتَ مَذْعُورَةٌ"
+second: "مِنَ الرُّمْدِ تَلْحَقُ هَيْقًا ذَمُولَا"
+vocabulary:
+  - term: "مَذْعُورَةٌ مِنَ الرُّمْدِ"
+    text: "الرُّمْد: النعام. شبّهها بالنعامة المذعورة لأنه أشدّ لسيرها [@mufaddaliyyat، ص58، الحاشية]."
+  - term: "هَيْقًا"
+    text: "ذكر النعام [@mufaddaliyyat، ص58، الحاشية]."
+  - term: "ذَمُولَا"
+    text: "المسرع [@mufaddaliyyat، ص58، الحاشية]."
+sources:
+  - source: "mufaddaliyyat"
+    loc: "ص58"
+    url: "https://shamela.ws/book/6904/32"
+  - source: "mufaddaliyyat"
+    loc: "ص58، الحاشية"
+    url: "https://archive.org/details/20240818_20240818_1710/page/n57/mode/1up"
+status: "review"

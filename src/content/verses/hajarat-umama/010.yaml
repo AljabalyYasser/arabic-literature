@@ -1,0 +1,20 @@
+explained: false
+first: "فَقَرَّبْتُ لِلرَّحْلِ عَيْرَانَةً"
+second: "عُذَافِرَةً عَنْتَرِيسًا ذَمُولَا"
+vocabulary:
+  - term: "عَيْرَانَةً"
+    text: "ناقة شبّهها بالعَيْر، وهو حمار الوحش، في صلابتها [@mufaddaliyyat، ص56، الحاشية]."
+  - term: "عُذَافِرَةً"
+    text: "الشديدة الضخمة [@mufaddaliyyat، ص56، الحاشية]."
+  - term: "عَنْتَرِيسًا"
+    text: "الشديدة الجريئة [@mufaddaliyyat، ص56، الحاشية]."
+  - term: "ذَمُولَا"
+    text: "السريعة [@mufaddaliyyat، ص56، الحاشية]."
+sources:
+  - source: "mufaddaliyyat"
+    loc: "ص56"
+    url: "https://shamela.ws/book/6904/30"
+  - source: "mufaddaliyyat"
+    loc: "ص56، الحاشية"
+    url: "https://archive.org/details/20240818_20240818_1710/page/n55/mode/1up"
+status: "review"

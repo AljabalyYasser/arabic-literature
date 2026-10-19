@@ -1,0 +1,18 @@
+explained: false
+first: "وَمَا أَنَا بِالسَّاعِي لِيُحْرِزَ نَفْسَهُ"
+second: "وَلَكِنَّنِي عَنْ عَوْرَةِ الْحَيِّ ذَائِدُ"
+vocabulary:
+  - term: "لِيُحْرِزَ نَفْسَهُ"
+    text: "في حاشية المحققين: «يحرز: يحفظ ويصون. يقول: لا أجعل كبر همي إحراز نفسي، ولكني أحامي عن حيي وأذود عنهم عدوهم» [@mufaddaliyyat، ص326، الحاشية]."
+  - term: "عَوْرَةِ الْحَيِّ"
+    text: "الموضع الذي يُخاف منه على القوم ويأتيهم منه العدو."
+  - term: "ذَائِدُ"
+    text: "مدافع يردّ العدو."
+sources:
+  - source: "mufaddaliyyat"
+    loc: "ص326"
+    url: "https://shamela.ws/book/6904/300"
+  - source: "mufaddaliyyat"
+    loc: "ص326، الحاشية"
+    url: "https://archive.org/details/20240818_20240818_1710/page/n325/mode/1up"
+status: "review"

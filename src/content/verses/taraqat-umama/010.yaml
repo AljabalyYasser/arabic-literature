@@ -1,0 +1,13 @@
+explained: false
+first: "إِذْ بَعْضُهُمْ يَحْمِي مَرَاصِدَ بَيْتِهِ"
+second: "عَنْ جَارِهِ وَسَبِيلُنَا مَوْرُودُ"
+vocabulary:
+  - term: "مَرَاصِدَ بَيْتِهِ"
+    text: "طرقه التي يُقصد منها، يمنعها جاره."
+  - term: "مَوْرُودُ"
+    text: "يرده الناس، مفتوح لكل قاصد."
+sources:
+  - source: "mufaddaliyyat"
+    loc: "ص356"
+    url: "https://shamela.ws/book/6904/330"
+status: "review"

@@ -1,0 +1,20 @@
+explained: false
+first: "وَإِنْ أَدْبَرَتْ قُلْتَ مَشْحُونَةٌ"
+second: "أَطَاعَ لَهَا الرِّيحُ قِلْعًا جَفُولَا"
+vocabulary:
+  - term: "مَشْحُونَةٌ"
+    text: "المملوءة. شبّهها بسفينة مملوءة لأنه أقوم لسيرها [@mufaddaliyyat، ص58، الحاشية]."
+  - term: "أَطَاعَ لَهَا الرِّيحُ"
+    text: "بمعنى: جعله يطيع، ويقول المحققان: «ولم نجد هذا المعنى لهذا الحرف في المعاجم، والسياق يدل عليه» [@mufaddaliyyat، ص58، الحاشية]."
+  - term: "قِلْعًا"
+    text: "الشراع [@mufaddaliyyat، ص58، الحاشية]."
+  - term: "جَفُولَا"
+    text: "التي تنجفل، أي تسرع [@mufaddaliyyat، ص58، الحاشية]."
+sources:
+  - source: "mufaddaliyyat"
+    loc: "ص58"
+    url: "https://shamela.ws/book/6904/32"
+  - source: "mufaddaliyyat"
+    loc: "ص58، الحاشية"
+    url: "https://archive.org/details/20240818_20240818_1710/page/n57/mode/1up"
+status: "review"

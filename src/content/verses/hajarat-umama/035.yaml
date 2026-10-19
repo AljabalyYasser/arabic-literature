@@ -1,0 +1,20 @@
+explained: false
+first: "وَمِنْ نَسْجِ دَاوُودَ مَوْضُونَةً"
+second: "تَرَى لِلْقَوَاضِبِ فِيهَا صَلِيلَا"
+vocabulary:
+  - term: "نَسْجِ دَاوُودَ"
+    text: "يريد الدروع [@mufaddaliyyat، ص59، الحاشية]."
+  - term: "مَوْضُونَةً"
+    text: "التي نُسجت حلقتين حلقتين مضاعفة [@mufaddaliyyat، ص59، الحاشية]."
+  - term: "الْقَوَاضِبِ"
+    text: "السيوف القاطعة [@mufaddaliyyat، ص59، الحاشية]."
+  - term: "تَرَى ... صَلِيلَا"
+    text: "الصليل: الصوت على الشيء اليابس. وعبّر عن السماع بالرؤية توكيدًا للمعنى، إذ الرؤية أوثق من السمع [@mufaddaliyyat، ص59، الحاشية]."
+sources:
+  - source: "mufaddaliyyat"
+    loc: "ص59"
+    url: "https://shamela.ws/book/6904/33"
+  - source: "mufaddaliyyat"
+    loc: "ص59، الحاشية"
+    url: "https://archive.org/details/20240818_20240818_1710/page/n58/mode/1up"
+status: "review"

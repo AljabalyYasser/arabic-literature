@@ -1,0 +1,18 @@
+explained: false
+first: "هَجَرْتَ أُمَامَةَ هَجْرًا طَوِيلَا"
+second: "وَحَمَّلَكَ النَّأْيُ عِبْئًا ثَقِيلَا"
+vocabulary:
+  - term: "هَجَرْتَ"
+    text: "يخاطب نفسه: فارقت ديار أمامة فراقًا طويلًا."
+  - term: "النَّأْيُ"
+    text: "البعد [@mufaddaliyyat، ص55، الحاشية]."
+  - term: "عِبْئًا"
+    text: "حِمْلًا ثقيلًا، يريد الشوق."
+sources:
+  - source: "mufaddaliyyat"
+    loc: "ص55"
+    url: "https://shamela.ws/book/6904/29"
+  - source: "mufaddaliyyat"
+    loc: "ص55، الحاشية"
+    url: "https://archive.org/details/20240818_20240818_1710/page/n54/mode/1up"
+status: "review"

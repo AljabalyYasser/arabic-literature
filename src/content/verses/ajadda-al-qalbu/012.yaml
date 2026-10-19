@@ -1,0 +1,20 @@
+explained: false
+first: "رَأَبْتُ الصَّدْعَ مِنْ كَعْبٍ فَأَوْدَى"
+second: "وَكَانَ الصَّدْعُ لَا يَعِدُ ارْتِئَابَا"
+vocabulary:
+  - term: "رَأَبْتُ الصَّدْعَ"
+    text: "الصدع: الفتق والفساد، ورأبه: أصلحه [@mufaddaliyyat، ص358، الحاشية]."
+  - term: "كَعْبٍ"
+    text: "قبيلة [@mufaddaliyyat، ص358، الحاشية]، هي كعب بن ربيعة بن عامر، كما في البيت التالي."
+  - term: "فَأَوْدَى"
+    text: "هلك، أي ذهب الفساد بعد أن أصلحه [@mufaddaliyyat، ص358، الحاشية]."
+  - term: "لَا يَعِدُ ارْتِئَابَا"
+    text: "«يعد» من الوعد، و«ارتئاب» افتعال من رأب. يقول: أصلحت أمر كعب وما كانوا يقدّرون له إصلاحًا [@mufaddaliyyat، ص358، الحاشية]."
+sources:
+  - source: "mufaddaliyyat"
+    loc: "ص358"
+    url: "https://shamela.ws/book/6904/332"
+  - source: "mufaddaliyyat"
+    loc: "ص358، الحاشية"
+    url: "https://archive.org/details/20240818_20240818_1710/page/n357/mode/1up"
+status: "review"

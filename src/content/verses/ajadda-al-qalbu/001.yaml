@@ -1,0 +1,16 @@
+explained: false
+first: "أَجَدَّ الْقَلْبُ مِنْ سَلْمَى اجْتِنَابَا"
+second: "وَأَقْصَرَ بَعْدَ مَا شَابَتْ وَشَابَا"
+vocabulary:
+  - term: "أَجَدَّ"
+    text: "بمعنى جدّد، كما يقول المرزوقي فيما ينقل المحققان: جعل قلبه آخر ما أحدثه معها اجتنابًا جديدًا [@mufaddaliyyat، ص357، الحاشية]."
+  - term: "أَقْصَرَ"
+    text: "كفّ عن الصبا ونزع عنه [@mufaddaliyyat، ص357، الحاشية]."
+sources:
+  - source: "mufaddaliyyat"
+    loc: "ص357"
+    url: "https://shamela.ws/book/6904/331"
+  - source: "mufaddaliyyat"
+    loc: "ص357، الحاشية"
+    url: "https://archive.org/details/20240818_20240818_1710/page/n356/mode/1up"
+status: "review"

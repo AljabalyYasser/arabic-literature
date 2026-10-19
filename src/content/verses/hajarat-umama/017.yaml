@@ -1,0 +1,18 @@
+explained: false
+first: "وَصَدْرٌ لَهَا مَهْيَعٌ كَالْخَلِيفِ"
+second: "تَخَالُ بِأَنَّ عَلَيْهِ شَلِيلَا"
+vocabulary:
+  - term: "مَهْيَعٌ"
+    text: "الواسع [@mufaddaliyyat، ص57، الحاشية]."
+  - term: "كَالْخَلِيفِ"
+    text: "الخليف: الطريق [@mufaddaliyyat، ص57، الحاشية]."
+  - term: "شَلِيلَا"
+    text: "كساء أملس يكون على عجز البعير. أراد أن جلد صدرها يموج من سِمَنه، وهذا مستحبّ في وصف الإبل والخيل [@mufaddaliyyat، ص57، الحاشية]."
+sources:
+  - source: "mufaddaliyyat"
+    loc: "ص57"
+    url: "https://shamela.ws/book/6904/31"
+  - source: "mufaddaliyyat"
+    loc: "ص57، الحاشية"
+    url: "https://archive.org/details/20240818_20240818_1710/page/n56/mode/1up"
+status: "review"

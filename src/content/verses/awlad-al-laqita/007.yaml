@@ -1,0 +1,16 @@
+explained: false
+first: "فَأَقْسَمَ مُرْتَاحًا شَرِيكُ بْنُ مَالِكٍ"
+second: "إِذَا مَا الْتَقَيْنَا خَصْمَهُ لَا يُسَالِمُ"
+vocabulary:
+  - term: "مُرْتَاحًا"
+    text: "نشيطًا مختالًا."
+  - term: "شَرِيكُ بْنُ مَالِكٍ"
+    text: "رجل من خصومه، يندّد بشجاعته الكاذبة التي انتهت به إلى أن يُقهر ويُرغم، كما يقول المحققان [@mufaddaliyyat، ص353، الحاشية]."
+sources:
+  - source: "mufaddaliyyat"
+    loc: "ص354"
+    url: "https://shamela.ws/book/6904/328"
+  - source: "mufaddaliyyat"
+    loc: "ص353، الحاشية"
+    url: "https://archive.org/details/20240818_20240818_1710/page/n352/mode/1up"
+status: "review"

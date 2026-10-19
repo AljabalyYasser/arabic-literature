@@ -1,0 +1,21 @@
+explained: false
+first: "وَإِنْ يَكُ مَجْدٌ فِي تَمِيمٍ فَإِنَّهُ"
+second: "نَمَانِي الْيَفَاعُ نَهْشَلٌ وَعُطَارِدُ"
+vocabulary:
+  - term: "نَمَانِي"
+    text: "في حاشية المحققين: «نماني: رفعني» [@mufaddaliyyat، ص326، الحاشية]."
+  - term: "الْيَفَاعُ"
+    text: "المرتفع، كما في البيت السابع، أي الأصل العالي."
+  - term: "نَهْشَلٌ وَعُطَارِدُ"
+    text: "بطنان من تميم، ونَهْشَل جدّ الشاعر، فهو ضَمْرة بن ضَمْرة بن جابر بن قَطَن بن نَهْشَل بن دارِم، كما في حاشية المحققين [@mufaddaliyyat، ص324، الحاشية]."
+sources:
+  - source: "mufaddaliyyat"
+    loc: "ص326"
+    url: "https://shamela.ws/book/6904/300"
+  - source: "mufaddaliyyat"
+    loc: "ص326، الحاشية"
+    url: "https://archive.org/details/20240818_20240818_1710/page/n325/mode/1up"
+  - source: "mufaddaliyyat"
+    loc: "ص324، الحاشية"
+    url: "https://archive.org/details/20240818_20240818_1710/page/n323/mode/1up"
+status: "review"

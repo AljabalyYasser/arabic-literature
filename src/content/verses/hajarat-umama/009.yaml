@@ -1,0 +1,20 @@
+explained: false
+first: "كَأَنَّ النَّوَى لَمْ تَكُنْ أَصْقَبَتْ"
+second: "وَلَمْ تَأْتِ قَوْمَ أَدِيمٍ حُلُولَا"
+vocabulary:
+  - term: "النَّوَى"
+    text: "البعد [@mufaddaliyyat، ص56، الحاشية]."
+  - term: "أَصْقَبَتْ"
+    text: "دنت وقاربت [@mufaddaliyyat، ص56، الحاشية]."
+  - term: "قَوْمَ أَدِيمٍ"
+    text: "الأديم: الجلد. أضافه إلى القوم بمعنى أنهم أشراف ملوك لهم قباب الأدم، ولا تكون إلا للملوك والأشراف [@mufaddaliyyat، ص56، الحاشية]."
+  - term: "حُلُولَا"
+    text: "حالّين مقيمين. يعني أن الزمن يفرّق بين الناس [@mufaddaliyyat، ص56، الحاشية]."
+sources:
+  - source: "mufaddaliyyat"
+    loc: "ص56"
+    url: "https://shamela.ws/book/6904/30"
+  - source: "mufaddaliyyat"
+    loc: "ص56، الحاشية"
+    url: "https://archive.org/details/20240818_20240818_1710/page/n55/mode/1up"
+status: "review"

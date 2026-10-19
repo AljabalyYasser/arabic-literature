@@ -1,0 +1,16 @@
+explained: false
+first: "وَكُنْتُ إِذَا الْعَظِيمَةُ أَفْظَعَتْهُمْ"
+second: "نَهَضْتُ وَلَا أَدِبُّ لَهَا دِبَابَا"
+vocabulary:
+  - term: "أَفْظَعَتْهُمْ"
+    text: "عظمت عليهم [@mufaddaliyyat، ص359، الحاشية]."
+  - term: "دِبَابَا"
+    text: "الدِّباب والدَّبيب واحد، وهو المشي على هِينة. يقول: قمت بها إذا ضعفوا عنها بقوة، ولم أضعف عن حملها فأدبّ بها ضعفًا [@mufaddaliyyat، ص359، الحاشية]."
+sources:
+  - source: "mufaddaliyyat"
+    loc: "ص359"
+    url: "https://shamela.ws/book/6904/333"
+  - source: "mufaddaliyyat"
+    loc: "ص359، الحاشية"
+    url: "https://archive.org/details/20240818_20240818_1710/page/n358/mode/1up"
+status: "review"

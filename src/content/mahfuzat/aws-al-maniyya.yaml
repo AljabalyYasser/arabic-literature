@@ -1,0 +1,15 @@
+kind: "mathal"
+part: "1"
+order: 297
+person: "aws-ibn-haritha"
+text: "المَنِيَّةَ وَلَا الدَّنِيَّةَ"
+meaning: "أختار الموت ولا أرضى بالذل. يقول الميداني: «أي أختار المنيةَ على العار»، ويقول: «قيل: المثل لأوس بن حارثة» [@maydani، ج2 ص303]، وهو أول وصيته لابنه مالك في رواية القالِيّ [@qali، ج1 ص102]."
+chapter: "1/al-nathr"
+sources:
+  - source: "maydani"
+    loc: "ج2 ص303"
+    url: "https://shamela.ws/book/12929/4123"
+  - source: "qali"
+    loc: "ج1 ص102"
+    url: "https://shamela.ws/book/9160/102"
+status: "review"

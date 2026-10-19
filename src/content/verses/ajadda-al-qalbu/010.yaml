@@ -1,0 +1,18 @@
+explained: false
+first: "وَنَاجِيَةٍ بَعَثْتُ عَلَى سَبِيلٍ"
+second: "كَأَنَّ عَلَى مَغَابِنِهَا مَلَابَا"
+vocabulary:
+  - term: "وَنَاجِيَةٍ"
+    text: "الناجية: الناقة السريعة، وأراد: ورُبّ ناجية [@mufaddaliyyat، ص358، الحاشية]."
+  - term: "مَغَابِنِهَا"
+    text: "أسفل البطن [@mufaddaliyyat، ص358، الحاشية]."
+  - term: "مَلَابَا"
+    text: "ضرب من الطيب، شبّه به عرق الناقة [@mufaddaliyyat، ص358، الحاشية]."
+sources:
+  - source: "mufaddaliyyat"
+    loc: "ص358"
+    url: "https://shamela.ws/book/6904/332"
+  - source: "mufaddaliyyat"
+    loc: "ص358، الحاشية"
+    url: "https://archive.org/details/20240818_20240818_1710/page/n357/mode/1up"
+status: "review"

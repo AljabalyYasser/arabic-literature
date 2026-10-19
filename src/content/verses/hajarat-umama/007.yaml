@@ -1,0 +1,16 @@
+explained: false
+first: "وَمَا كَانَ أَكْثَرُ مَا نَوَّلَتْ"
+second: "مِنَ الْقَوْلِ إِلَّا صِفَاحًا وَقِيلَا"
+vocabulary:
+  - term: "نَوَّلَتْ"
+    text: "أعطت."
+  - term: "صِفَاحًا"
+    text: "الصِّفاح: الإعراض [@mufaddaliyyat، ص56، الحاشية]، أي لم تعطه من القول إلا إعراضًا وكلامًا قليلًا."
+sources:
+  - source: "mufaddaliyyat"
+    loc: "ص56"
+    url: "https://shamela.ws/book/6904/30"
+  - source: "mufaddaliyyat"
+    loc: "ص56، الحاشية"
+    url: "https://archive.org/details/20240818_20240818_1710/page/n55/mode/1up"
+status: "review"

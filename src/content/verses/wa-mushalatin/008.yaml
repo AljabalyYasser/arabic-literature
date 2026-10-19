@@ -1,0 +1,21 @@
+explained: false
+first: "وَقِرْنٍ تَرَكْتُ الطَّيْرَ تَحْجُلُ حَوْلَهُ"
+second: "عَلَيْهِ نَجِيعٌ مِنْ دَمِ الْجَوْفِ جَاسِدُ"
+vocabulary:
+  - term: "وَقِرْنٍ"
+    text: "في حاشية المحققين: «القرن: الكفء في الشجاعة» [@mufaddaliyyat، ص326، الحاشية]."
+  - term: "تَحْجُلُ"
+    text: "تمشي حوله مشي المقيّد تقفز قفزًا، تريد أكله. وفي اللسان: «والحَجْل: مَشْيُ المُقَيَّد» [@lisan، ج11 ص144]."
+  - term: "نَجِيعٌ ... جَاسِدُ"
+    text: "في حاشية المحققين: «النجيع: الشديد الحمرة. الجاسد: اللازق» [@mufaddaliyyat، ص326، الحاشية]. أي دم قانٍ يبس عليه."
+sources:
+  - source: "mufaddaliyyat"
+    loc: "ص326"
+    url: "https://shamela.ws/book/6904/300"
+  - source: "mufaddaliyyat"
+    loc: "ص326، الحاشية"
+    url: "https://archive.org/details/20240818_20240818_1710/page/n325/mode/1up"
+  - source: "lisan"
+    loc: "ج11 ص144"
+    url: "https://shamela.ws/book/1687/5326"
+status: "review"

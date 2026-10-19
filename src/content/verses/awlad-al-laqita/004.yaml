@@ -1,0 +1,16 @@
+explained: false
+first: "مَتَى تَقْرَؤُوهَا تَهْدِكُمْ مِنْ ضَلَالِكُمْ"
+second: "وَتُعْرَفْ إِذَا مَا فُضَّ عَنْهَا الْخَوَاتِمُ"
+vocabulary:
+  - term: "تَقْرَؤُوهَا"
+    text: "يعني الصحيفة. يقول: متى تروا هذه الطعنة تردعكم عن الظلم والتعدي، وجعلها كالصحيفة في بيانها [@mufaddaliyyat، ص354، الحاشية]."
+  - term: "فُضَّ عَنْهَا الْخَوَاتِمُ"
+    text: "كُسرت أختامها، كما تُفضّ الرسالة المختومة فتُقرأ."
+sources:
+  - source: "mufaddaliyyat"
+    loc: "ص354"
+    url: "https://shamela.ws/book/6904/328"
+  - source: "mufaddaliyyat"
+    loc: "ص354، الحاشية"
+    url: "https://archive.org/details/20240818_20240818_1710/page/n353/mode/1up"
+status: "review"

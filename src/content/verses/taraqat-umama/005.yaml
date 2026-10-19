@@ -1,0 +1,20 @@
+explained: false
+first: "إِذْ كُلُّ حَيٍّ نَابِتٌ بِأَرُومَةٍ"
+second: "نَبْتَ الْعِضَاهِ فَمَاجِدٌ وَكَسِيدُ"
+vocabulary:
+  - term: "أَرُومَةٍ"
+    text: "الأصل [@mufaddaliyyat، ص355، الحاشية]."
+  - term: "الْعِضَاهِ"
+    text: "شجر عظام [@mufaddaliyyat، ص355، الحاشية]."
+  - term: "فَمَاجِدٌ"
+    text: "الماجد: الكثير أفعال الخير [@mufaddaliyyat، ص355، الحاشية]."
+  - term: "كَسِيدُ"
+    text: "الدُّون، جعله كالسلعة البائرة التي لا تنفق عن صاحبها [@mufaddaliyyat، ص355، الحاشية]."
+sources:
+  - source: "mufaddaliyyat"
+    loc: "ص355"
+    url: "https://shamela.ws/book/6904/329"
+  - source: "mufaddaliyyat"
+    loc: "ص355، الحاشية"
+    url: "https://archive.org/details/20240818_20240818_1710/page/n354/mode/1up"
+status: "review"

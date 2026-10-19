@@ -1,0 +1,16 @@
+explained: false
+first: "وَبَنُو أُمَيَّةَ كُلُّهُمْ أُمَرَاؤُهَا"
+second: "وَبَنُو رِيَاحٍ إِنْ تُدُبِّرَ قِيلُ"
+vocabulary:
+  - term: "قِيلُ"
+    text: "القيل والقال والقول واحد [@mufaddaliyyat، ص352، الحاشية]."
+  - term: "إِنْ تُدُبِّرَ"
+    text: "أي نُظر في عاقبته وتُفُكّر فيها [@mufaddaliyyat، ص352، الحاشية]. والبيت تهكّم: كلهم أمراء أصحاب رأي."
+sources:
+  - source: "mufaddaliyyat"
+    loc: "ص352"
+    url: "https://shamela.ws/book/6904/326"
+  - source: "mufaddaliyyat"
+    loc: "ص352، الحاشية"
+    url: "https://archive.org/details/20240818_20240818_1710/page/n351/mode/1up"
+status: "review"

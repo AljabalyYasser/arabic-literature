@@ -1,0 +1,21 @@
+explained: false
+first: "لَدَى مَرْبَطِ الْأَفْرَاسِ عِنْدَ أَبِيكُمُ"
+second: "حَذَاكُمْ بِهَا صُلْبُ الْعَدَاوَةِ حَازِمُ"
+vocabulary:
+  - term: "مَرْبَطِ الْأَفْرَاسِ"
+    text: "الإشارة إلى حَمَل بن بدر، صاحب الغبراء، كما يقول المحققان في عرض القصيدة [@mufaddaliyyat، ص353، الحاشية]."
+  - term: "حَذَاكُمْ"
+    text: "أعطاكم [@mufaddaliyyat، ص354، الحاشية]."
+  - term: "صُلْبُ الْعَدَاوَةِ حَازِمُ"
+    text: "عدوّ شديد العداوة، حازم في أمره، يعني الطاعن من عبس."
+sources:
+  - source: "mufaddaliyyat"
+    loc: "ص354"
+    url: "https://shamela.ws/book/6904/328"
+  - source: "mufaddaliyyat"
+    loc: "ص353، الحاشية"
+    url: "https://archive.org/details/20240818_20240818_1710/page/n352/mode/1up"
+  - source: "mufaddaliyyat"
+    loc: "ص354، الحاشية"
+    url: "https://archive.org/details/20240818_20240818_1710/page/n353/mode/1up"
+status: "review"

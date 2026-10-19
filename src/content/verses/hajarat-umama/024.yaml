@@ -1,0 +1,22 @@
+explained: false
+first: "وَعُوجًا تَنَاطَحْنَ تَحْتَ الْمَطَا"
+second: "وَتَهْدِي بِهِنَّ مُشَاشًا كُهُولَا"
+vocabulary:
+  - term: "وَعُوجًا"
+    text: "يريد الأضلاع [@mufaddaliyyat، ص58، الحاشية]."
+  - term: "تَنَاطَحْنَ"
+    text: "التقين ودخل بعضهن في بعض [@mufaddaliyyat، ص58، الحاشية]."
+  - term: "الْمَطَا"
+    text: "الظهر [@mufaddaliyyat، ص58، الحاشية]."
+  - term: "تَهْدِي"
+    text: "تدلّ وتبين [@mufaddaliyyat، ص58، الحاشية]."
+  - term: "مُشَاشًا كُهُولَا"
+    text: "المُشاش: رؤوس العظام، والكهول: الضخام الطوال. يريد أن أضلاعها قوية متداخلة تدل على أن عظامها غليظة [@mufaddaliyyat، ص58، الحاشية]."
+sources:
+  - source: "mufaddaliyyat"
+    loc: "ص58"
+    url: "https://shamela.ws/book/6904/32"
+  - source: "mufaddaliyyat"
+    loc: "ص58، الحاشية"
+    url: "https://archive.org/details/20240818_20240818_1710/page/n57/mode/1up"
+status: "review"

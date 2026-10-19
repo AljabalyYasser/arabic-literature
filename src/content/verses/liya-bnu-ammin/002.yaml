@@ -1,0 +1,18 @@
+explained: false
+first: "أَزْرَى بِنَا أَنَّنَا شَالَتْ نَعَامَتُنَا"
+second: "فَخَالَنِي دُونَهُ وَخِلْتُهُ دُونِي"
+vocabulary:
+  - term: "أَزْرَى بِنَا"
+    text: "في حاشية المحققين: «أزرى به: قصر به، وزرى عليه: عابه» [@mufaddaliyyat، ص160، الحاشية]. أي أضرّ بنا وحطّ من شأننا."
+  - term: "شَالَتْ نَعَامَتُنَا"
+    text: "في حاشية المحققين: «شالت نعامتنا: تفرق أمرنا واختلفنا» [@mufaddaliyyat، ص160، الحاشية]."
+  - term: "فَخَالَنِي دُونَهُ"
+    text: "ظنّني أدنى منه منزلة، وظننته أدنى مني."
+sources:
+  - source: "mufaddaliyyat"
+    loc: "ص160"
+    url: "https://shamela.ws/book/6904/134"
+  - source: "mufaddaliyyat"
+    loc: "ص160، الحاشية"
+    url: "https://archive.org/details/20240818_20240818_1710/page/n159/mode/1up"
+status: "review"

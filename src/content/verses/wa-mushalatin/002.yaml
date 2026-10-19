@@ -1,0 +1,18 @@
+explained: false
+first: "عَلَيْهَا الْكُمَاةُ وَالْحَدِيدُ فَمِنْهُمُ"
+second: "مَصِيدٌ لِأَطْرَافِ الْعَوَالِي وَصَائِدُ"
+vocabulary:
+  - term: "الْكُمَاةُ"
+    text: "جمع كَمِيّ، وهو الفارس الشجاع المستتر في سلاحه."
+  - term: "الْعَوَالِي"
+    text: "في حاشية المحققين: «العوالي: أعالي الرماح» [@mufaddaliyyat، ص325، الحاشية].."
+  - term: "مَصِيدٌ ... وَصَائِدُ"
+    text: "في حاشية المحققين: «والمعنى: فمنهم مأسور وآخر آسر» [@mufaddaliyyat، ص325، الحاشية]."
+sources:
+  - source: "mufaddaliyyat"
+    loc: "ص325"
+    url: "https://shamela.ws/book/6904/299"
+  - source: "mufaddaliyyat"
+    loc: "ص325، الحاشية"
+    url: "https://archive.org/details/20240818_20240818_1710/page/n324/mode/1up"
+status: "review"

@@ -1,0 +1,14 @@
+kind: "mathal"
+part: "1"
+order: 299
+person: "al-adbat-ibn-quray"
+text: "بِكُلِّ وَادٍ بَنُو سَعْدٍ"
+meaning: "أساء قوم الأضبط جواره، فانتقل إلى قوم بعد قوم فأساؤوا جواره كلهم، فرجع إلى قومه وقال: «بكلّ واد بنو سعد» [@ibn-qutayba، ج1 ص370]. ويقرنه الميداني بقولهم: «بكل وادٍ أثر من ثعلبة» [@maydani، ج1 ص105]، أي حيثما ذهبت لقيت مثل ما فررت منه."
+sources:
+  - source: "ibn-qutayba"
+    loc: "ج1 ص370"
+    url: "https://shamela.ws/book/23785/363"
+  - source: "maydani"
+    loc: "ج1 ص105"
+    url: "https://shamela.ws/book/12929/537"
+status: "review"

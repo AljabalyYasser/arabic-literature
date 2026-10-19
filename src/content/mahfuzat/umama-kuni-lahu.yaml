@@ -1,0 +1,15 @@
+kind: "mathal"
+part: "1"
+order: 294
+person: "umama-bint-al-harith"
+text: "كُونِي لَهُ أَمَةً يَكُنْ لَكِ عَبْدًا"
+story: "khitbat-umm-iyas"
+meaning: "من وصية أُمامة بنت الحارِث لابنتها ليلة زفافها: اخدمي زوجك يخدمك، وأطيعيه يُطعك [@maydani، ج2 ص263]. ويرويها العَسْكَريّ وصية لقيس بن خالد الشَّيْبانيّ لابنته: «يا بنية كوني له أمة يكن لك عبدا» [@askari-amthal، ج2 ص241]، فالحكمة سائرة تُنسب إلى أكثر من قائل."
+sources:
+  - source: "maydani"
+    loc: "ج2 ص263"
+    url: "https://shamela.ws/book/12929/3852"
+  - source: "askari-amthal"
+    loc: "ج2 ص241"
+    url: "https://shamela.ws/book/6897/826"
+status: "review"

@@ -1,0 +1,18 @@
+explained: false
+first: "وَاسْتَأْنِ حِلْمَكَ فِي أُمُورِكَ كُلِّهَا"
+second: "وَإِذَا عَزَمْتَ عَلَى الْهَوَى فَتَوَكَّلِ"
+vocabulary:
+  - term: "وَاسْتَأْنِ"
+    text: "في حاشية المحققين: «استأن: من الأناة» [@mufaddaliyyat، ص385، الحاشية]. أي تمهّل ولا تتعجّل الغضب."
+  - term: "عَزَمْتَ عَلَى الْهَوَى"
+    text: "قطعت أمرك على ما تريد وتهوى."
+  - term: "فَتَوَكَّلِ"
+    text: "اعتمد على الله وامضِ."
+sources:
+  - source: "mufaddaliyyat"
+    loc: "ص385"
+    url: "https://shamela.ws/book/6904/359"
+  - source: "mufaddaliyyat"
+    loc: "ص385، الحاشية"
+    url: "https://archive.org/details/20240818_20240818_1710/page/n384/mode/1up"
+status: "review"

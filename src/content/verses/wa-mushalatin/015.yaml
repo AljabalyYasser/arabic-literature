@@ -1,0 +1,14 @@
+explained: false
+first: "وَمَنْ يَتَبَلَّغْ بِالْحَدِيثِ فَإِنَّهُ"
+second: "عَلَى كُلِّ قَوْلٍ قِيلَ رَاعٍ وَشَاهِدُ"
+vocabulary:
+  - term: "يَتَبَلَّغْ بِالْحَدِيثِ"
+    text: "في حاشية المحققين: «يقول: من كان يتبلغ في الناس بشرفه الحديث فإن الناس يعرفون قديم شرفي ويفصلون بين باطل الفخر وحقه» [@mufaddaliyyat، ص326، الحاشية]. ويتبلّغ: يكتفي ويقنع."
+sources:
+  - source: "mufaddaliyyat"
+    loc: "ص326"
+    url: "https://shamela.ws/book/6904/300"
+  - source: "mufaddaliyyat"
+    loc: "ص326، الحاشية"
+    url: "https://archive.org/details/20240818_20240818_1710/page/n325/mode/1up"
+status: "review"

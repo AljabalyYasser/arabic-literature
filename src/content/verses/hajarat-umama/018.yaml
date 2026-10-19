@@ -1,0 +1,16 @@
+explained: false
+first: "فَمَرَّتْ عَلَى كُشُبٍ غُدْوَةً"
+second: "وَحَاذَتْ بِجَنْبِ أَرِيكٍ أَصِيلَا"
+vocabulary:
+  - term: "كُشُبٍ ... أَرِيكٍ"
+    text: "جبلان بالبادية بينهما نأي من الأرض، ويقال: كَشِب. فوصف سرعتها، وأنها سارت في يوم ما يُسار في أيام [@mufaddaliyyat، ص57، الحاشية]."
+  - term: "غُدْوَةً ... أَصِيلَا"
+    text: "أول النهار وآخره."
+sources:
+  - source: "mufaddaliyyat"
+    loc: "ص57"
+    url: "https://shamela.ws/book/6904/31"
+  - source: "mufaddaliyyat"
+    loc: "ص57، الحاشية"
+    url: "https://archive.org/details/20240818_20240818_1710/page/n56/mode/1up"
+status: "review"

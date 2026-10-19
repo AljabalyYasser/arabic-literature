@@ -1,0 +1,18 @@
+explained: false
+first: "وَأَقْسَمَ يَأْتِي خُطَّةَ الضَّيْمِ طَائِعًا"
+second: "بَلَى سَوْفَ تَأْتِيهَا وَأَنْفُكَ رَاغِمُ"
+vocabulary:
+  - term: "أَقْسَمَ يَأْتِي"
+    text: "أي أقسم لا يأتي، وحذف حرف النفي مع القسم كثير [@mufaddaliyyat، ص354، الحاشية]."
+  - term: "خُطَّةَ الضَّيْمِ"
+    text: "الأمر الذي فيه ذلّ."
+  - term: "رَاغِمُ"
+    text: "ذليل ملصق بالرَّغام، وهو التراب [@mufaddaliyyat، ص354، الحاشية]."
+sources:
+  - source: "mufaddaliyyat"
+    loc: "ص354"
+    url: "https://shamela.ws/book/6904/328"
+  - source: "mufaddaliyyat"
+    loc: "ص354، الحاشية"
+    url: "https://archive.org/details/20240818_20240818_1710/page/n353/mode/1up"
+status: "review"

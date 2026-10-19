@@ -1,0 +1,20 @@
+explained: false
+first: "خِزْيُ الْحَيَاةِ وَحَرْبُ الصَّدِيقِ"
+second: "وَكُلٌّ أَرَاهُ طَعَامًا وَبِيلَا"
+vocabulary:
+  - term: "خِزْيُ الْحَيَاةِ"
+    text: "ما يلحقهم من العار إذا خذلوا حلفاءهم الحُرَقة [@mufaddaliyyat، ص59، الحاشية]."
+  - term: "حَرْبُ الصَّدِيقِ"
+    text: "إذا نصروا حلفاءهم فحاربوا غطفان، والصديق يكون واحدًا وجمعًا [@mufaddaliyyat، ص59، الحاشية]."
+  - term: "وَكُلٌّ"
+    text: "مرفوعة بالابتداء، أو منصوبة مفعولًا مقدّمًا لـ«أراه» [@mufaddaliyyat، ص59، الحاشية]."
+  - term: "وَبِيلَا"
+    text: "الطعام الوبيل: غير المستمرأ [@mufaddaliyyat، ص59، الحاشية]، أي الذي لا يُهضم ولا يُستساغ."
+sources:
+  - source: "mufaddaliyyat"
+    loc: "ص59"
+    url: "https://shamela.ws/book/6904/33"
+  - source: "mufaddaliyyat"
+    loc: "ص59، الحاشية"
+    url: "https://archive.org/details/20240818_20240818_1710/page/n58/mode/1up"
+status: "review"

@@ -1,0 +1,16 @@
+explained: false
+first: "إِنِّي لَعَمْرُكَ مَا بَابِي بِذِي غَلَقٍ"
+second: "عَنِ الصَّدِيقِ وَلَا خَيْرِي بِمَمْنُونِ"
+vocabulary:
+  - term: "غَلَقٍ"
+    text: "ما يُغلق به الباب، أي بابي مفتوح للصديق."
+  - term: "بِمَمْنُونِ"
+    text: "في حاشية المحققين: «الممنون: المقطوع ههنا، أي: لا أقطع عنه فضلي» [@mufaddaliyyat، ص160، الحاشية]."
+sources:
+  - source: "mufaddaliyyat"
+    loc: "ص160"
+    url: "https://shamela.ws/book/6904/134"
+  - source: "mufaddaliyyat"
+    loc: "ص160، الحاشية"
+    url: "https://archive.org/details/20240818_20240818_1710/page/n159/mode/1up"
+status: "review"

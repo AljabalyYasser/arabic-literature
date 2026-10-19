@@ -1,0 +1,16 @@
+explained: false
+first: "عَفٌّ يَؤُوسٌ إِذَا مَا خِفْتُ مِنْ بَلَدٍ"
+second: "هُونًا فَلَسْتُ بِوَقَّافٍ عَلَى الْهُونِ"
+vocabulary:
+  - term: "يَؤُوسٌ"
+    text: "في حاشية المحققين: «يؤوس: يقول: لست بذي طمع، أيئس مما في يدي غيري فلا تتبعه نفسي» [@mufaddaliyyat، ص160، الحاشية]."
+  - term: "هُونًا ... الْهُونِ"
+    text: "الهون: الهوان والذل. يقول: إذا خفت في بلد ذلًّا رحلت عنه ولم أقم عليه."
+sources:
+  - source: "mufaddaliyyat"
+    loc: "ص160"
+    url: "https://shamela.ws/book/6904/134"
+  - source: "mufaddaliyyat"
+    loc: "ص160، الحاشية"
+    url: "https://archive.org/details/20240818_20240818_1710/page/n159/mode/1up"
+status: "review"

@@ -1,0 +1,18 @@
+explained: false
+first: "عَنِّي إِلَيْكَ فَمَا أُمِّي بِرَاعِيَةٍ"
+second: "تَرْعَى الْمَخَاضَ وَمَا رَأْيِي بِمَغْبُونِ"
+vocabulary:
+  - term: "عَنِّي إِلَيْكَ"
+    text: "كلمة زجر، أي ابتعد عني."
+  - term: "بِرَاعِيَةٍ ... تَرْعَى الْمَخَاضَ"
+    text: "في حاشية المحققين: «أي لست ابن أمة، ويقال إنه تعريض به، لأنه كان ابن أمة» [@mufaddaliyyat، ص160، الحاشية]. والمخاض: الحوامل من النوق."
+  - term: "بِمَغْبُونِ"
+    text: "في حاشية المحققين: «المغبون: المنتقص» [@mufaddaliyyat، ص160، الحاشية]."
+sources:
+  - source: "mufaddaliyyat"
+    loc: "ص160"
+    url: "https://shamela.ws/book/6904/134"
+  - source: "mufaddaliyyat"
+    loc: "ص160، الحاشية"
+    url: "https://archive.org/details/20240818_20240818_1710/page/n159/mode/1up"
+status: "review"

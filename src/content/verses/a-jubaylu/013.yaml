@@ -1,0 +1,16 @@
+explained: false
+first: "وَإِذَا لَقِيتَ الْقَوْمَ فَاضْرِبْ فِيهِمُ"
+second: "حَتَّى يَرَوْكَ طِلَاءَ أَجْرَبَ مُهْمَلِ"
+vocabulary:
+  - term: "طِلَاءَ أَجْرَبَ"
+    text: "في حاشية المحققين: «يريد: حتى يتقوك ويتحاموك كما يتحامون الأجرب وطلاءه» [@mufaddaliyyat، ص385، الحاشية]. والطلاء: القطران يُطلى به البعير الأجرب."
+  - term: "مُهْمَلِ"
+    text: "متروك لا يُقرَب."
+sources:
+  - source: "mufaddaliyyat"
+    loc: "ص385"
+    url: "https://shamela.ws/book/6904/359"
+  - source: "mufaddaliyyat"
+    loc: "ص385، الحاشية"
+    url: "https://archive.org/details/20240818_20240818_1710/page/n384/mode/1up"
+status: "review"

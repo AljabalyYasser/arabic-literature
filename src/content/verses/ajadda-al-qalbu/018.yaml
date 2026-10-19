@@ -1,0 +1,18 @@
+explained: false
+first: "يَهُرُّ مَعَاشِرٌ مِنِّي وَمِنْهُمْ"
+second: "هَرِيرَ النَّابِ حَاذَرَتِ الْعِصَابَا"
+vocabulary:
+  - term: "يَهُرُّ"
+    text: "يكره [@mufaddaliyyat، ص359، الحاشية]."
+  - term: "النَّابِ"
+    text: "الناقة المسنّة [@mufaddaliyyat، ص359، الحاشية]."
+  - term: "الْعِصَابَا"
+    text: "ما يُعصب به كالعِصابة، والناقة العَصُوب هي التي لا تدرّ حتى يُعصب فخذاها. يقول: يلقون ما تلقى هذه الناقة من العصاب [@mufaddaliyyat، ص359، الحاشية]."
+sources:
+  - source: "mufaddaliyyat"
+    loc: "ص359"
+    url: "https://shamela.ws/book/6904/333"
+  - source: "mufaddaliyyat"
+    loc: "ص359، الحاشية"
+    url: "https://archive.org/details/20240818_20240818_1710/page/n358/mode/1up"
+status: "review"

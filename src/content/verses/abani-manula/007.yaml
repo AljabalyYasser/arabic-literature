@@ -1,0 +1,16 @@
+explained: false
+first: "أَعْدَدْتُهَا لِبَنِي اللَّقِيطَةِ فَوْقَهَا"
+second: "رُمْحِي وَسَيْفٌ صَارِمٌ وَشَلِيلُ"
+vocabulary:
+  - term: "بَنِي اللَّقِيطَةِ"
+    text: "حِصْن ومالك ومعاوية ووَرْد وشَريك، بنو حُذَيْفة بن بدر الفزاري، واللقيطة لقب أمهم [@mufaddaliyyat، ص353، الحاشية]."
+  - term: "شَلِيلُ"
+    text: "الدرع [@mufaddaliyyat، ص353، الحاشية]."
+sources:
+  - source: "mufaddaliyyat"
+    loc: "ص353"
+    url: "https://shamela.ws/book/6904/327"
+  - source: "mufaddaliyyat"
+    loc: "ص353، الحاشية"
+    url: "https://archive.org/details/20240818_20240818_1710/page/n352/mode/1up"
+status: "review"

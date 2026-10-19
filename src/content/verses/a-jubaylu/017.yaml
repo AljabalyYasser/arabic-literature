@@ -1,0 +1,18 @@
+explained: false
+first: "وَإِذَا لَقِيتَ الْبَاهِشِينَ إِلَى النَّدَى"
+second: "غُبْرًا أَكُفُّهُمُ بِقَاعٍ مُمْحِلِ"
+vocabulary:
+  - term: "الْبَاهِشِينَ إِلَى النَّدَى"
+    text: "في حاشية المحققين: «الباهش: الفرح. يريد الذين يأتونه يلتمسون جداه ونائله» [@mufaddaliyyat، ص385، الحاشية]. والندى: العطاء."
+  - term: "غُبْرًا أَكُفُّهُمُ"
+    text: "فقراء لا شيء في أيديهم."
+  - term: "بِقَاعٍ مُمْحِلِ"
+    text: "بأرض مجدبة لا نبات فيها."
+sources:
+  - source: "mufaddaliyyat"
+    loc: "ص385"
+    url: "https://shamela.ws/book/6904/359"
+  - source: "mufaddaliyyat"
+    loc: "ص385، الحاشية"
+    url: "https://archive.org/details/20240818_20240818_1710/page/n384/mode/1up"
+status: "review"

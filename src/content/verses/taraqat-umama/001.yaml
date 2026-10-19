@@ -1,0 +1,18 @@
+explained: false
+first: "طَرَقَتْ أُمَامَةُ وَالْمَزَارُ بَعِيدُ"
+second: "وَهْنًا وَأَصْحَابُ الرِّحَالِ هُجُودُ"
+vocabulary:
+  - term: "طَرَقَتْ"
+    text: "أتت ليلًا، و«لا يكون الطروق إلا بالليل» [@mufaddaliyyat، ص355، الحاشية]، يعني خيالها في النوم."
+  - term: "وَهْنًا"
+    text: "بعد ساعة من الليل [@mufaddaliyyat، ص355، الحاشية]."
+  - term: "هُجُودُ"
+    text: "النائمون، جمع هاجد [@mufaddaliyyat، ص355، الحاشية]."
+sources:
+  - source: "mufaddaliyyat"
+    loc: "ص355"
+    url: "https://shamela.ws/book/6904/329"
+  - source: "mufaddaliyyat"
+    loc: "ص355، الحاشية"
+    url: "https://archive.org/details/20240818_20240818_1710/page/n354/mode/1up"
+status: "review"

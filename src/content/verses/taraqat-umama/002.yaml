@@ -1,0 +1,21 @@
+explained: false
+first: "أَنَّى اهْتَدَيْتِ وَكُنْتِ غَيْرَ رَجِيلَةٍ"
+second: "وَالْقَوْمُ مِنْهُمْ نُبَّهٌ وَرُقُودُ"
+vocabulary:
+  - term: "أَنَّى"
+    text: "كيف."
+  - term: "رَجِيلَةٍ"
+    text: "«وامرأة رجيلة: صبور على المشي» [@lisan، ج11 ص271]. يعجب كيف اهتدى خيالها إليه وهي لا تقطع الطريق."
+  - term: "نُبَّهٌ"
+    text: "جمع نابه، بمعنى مستيقظ [@mufaddaliyyat، ص355، الحاشية]."
+sources:
+  - source: "mufaddaliyyat"
+    loc: "ص355"
+    url: "https://shamela.ws/book/6904/329"
+  - source: "lisan"
+    loc: "ج11 ص271"
+    url: "https://shamela.ws/book/1687/5451"
+  - source: "mufaddaliyyat"
+    loc: "ص355، الحاشية"
+    url: "https://archive.org/details/20240818_20240818_1710/page/n354/mode/1up"
+status: "review"

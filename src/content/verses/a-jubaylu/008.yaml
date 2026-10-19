@@ -1,0 +1,16 @@
+explained: false
+first: "وَاتْرُكْ مَحَلَّ السَّوْءِ لَا تَحْلُلْ بِهِ"
+second: "وَإِذَا نَبَا بِكَ مَنْزِلٌ فَتَحَوَّلِ"
+vocabulary:
+  - term: "مَحَلَّ السَّوْءِ"
+    text: "المنزل الذي تلقى فيه الشر."
+  - term: "نَبَا بِكَ مَنْزِلٌ"
+    text: "في حاشية المحققين: «نبا به منزله: لم يوافقه» [@mufaddaliyyat، ص385، الحاشية]."
+sources:
+  - source: "mufaddaliyyat"
+    loc: "ص385"
+    url: "https://shamela.ws/book/6904/359"
+  - source: "mufaddaliyyat"
+    loc: "ص385، الحاشية"
+    url: "https://archive.org/details/20240818_20240818_1710/page/n384/mode/1up"
+status: "review"

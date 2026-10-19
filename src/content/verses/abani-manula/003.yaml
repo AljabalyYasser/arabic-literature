@@ -1,0 +1,18 @@
+explained: false
+first: "سِيرِي إِلَيْكِ فَسَوْفَ يَمْنَعُ سَرْبَهَا"
+second: "مِنْ آلِ مُرَّةَ بِالْحِجَازِ حُلُولُ"
+vocabulary:
+  - term: "سِيرِي إِلَيْكِ"
+    text: "ينقل المحققان عن المرزوقي أن المراد: «هوّني عليك الأمر وانقبضي منزوية عنهم» [@mufaddaliyyat، ص352، الحاشية]."
+  - term: "سَرْبَهَا"
+    text: "السَّرْب: الإبل وما رعي من المال [@mufaddaliyyat، ص352، الحاشية]."
+  - term: "حُلُولُ"
+    text: "الجماعات [@mufaddaliyyat، ص352، الحاشية]، أي جماعات نازلة."
+sources:
+  - source: "mufaddaliyyat"
+    loc: "ص352"
+    url: "https://shamela.ws/book/6904/326"
+  - source: "mufaddaliyyat"
+    loc: "ص352، الحاشية"
+    url: "https://archive.org/details/20240818_20240818_1710/page/n351/mode/1up"
+status: "review"

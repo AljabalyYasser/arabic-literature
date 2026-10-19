@@ -1,0 +1,22 @@
+explained: false
+first: "يَدًا سُرُحًا مَائِرًا ضَبْعُهَا"
+second: "تَسُومُ وَتَقْدُمُ رِجْلًا زَجُولَا"
+vocabulary:
+  - term: "يَدًا"
+    text: "بدل من مفعول «راء» في البيت قبله [@mufaddaliyyat، ص58، الحاشية]."
+  - term: "سُرُحًا"
+    text: "منسرحة سهلة [@mufaddaliyyat، ص58، الحاشية]."
+  - term: "مَائِرًا ضَبْعُهَا"
+    text: "الضَّبْع: العضد، ومَوْره: اختلاجه واضطرابه من سرعة السير [@mufaddaliyyat، ص58، الحاشية]."
+  - term: "تَسُومُ"
+    text: "تمرّ مرًّا سهلًا [@mufaddaliyyat، ص58، الحاشية]."
+  - term: "زَجُولَا"
+    text: "من الزَّجْل، وهو الدفع. يريد أن يدها تسرع وتتقدم رجلها، ورجلها تدفع نفسها لتلحق اليد [@mufaddaliyyat، ص58، الحاشية]."
+sources:
+  - source: "mufaddaliyyat"
+    loc: "ص58"
+    url: "https://shamela.ws/book/6904/32"
+  - source: "mufaddaliyyat"
+    loc: "ص58، الحاشية"
+    url: "https://archive.org/details/20240818_20240818_1710/page/n57/mode/1up"
+status: "review"
