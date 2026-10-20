@@ -23,7 +23,7 @@ DIGITS = str.maketrans('0123456789', '٠١٢٣٤٥٦٧٨٩')
 MARKS = re.compile('[ً-ْٰـ]')
 def plain(t): return MARKS.sub('', t).strip()
 BOOKS = {  # المؤلف كما يُكتب في الحاشية، بلا تشكيل: (العنوان الكامل، العنوان المختصر)
-    'شوقي ضيف': ('تاريخ الأدب العربي: العصر الجاهلي', 'تاريخ الأدب العربي'),
+    'شوقي ضيف': ('تاريخ الأدب العربي', 'تاريخ الأدب العربي'),  # الأجزاء تُذكر في ثبت المصادر
     'ابن عبد ربه': ('العقد الفريد', 'العقد الفريد'),
     'ابن قتيبة': ('الشعر والشعراء', 'الشعر والشعراء'),
     'ابن سلام': ('طبقات فحول الشعراء', 'طبقات فحول الشعراء'),
@@ -100,12 +100,13 @@ def cite_titles(note):
         if title and re.match(r'[جص]\d', plain(title)):
             tail, title = title + '، ', None  # الجزء الثاني موضع لا عنوان
         author = ALIAS.get(author, author)
-        if title:
-            t = plain(title)
-            STATE['last'][author] = FULL.get(t, t)
+        named = FULL.get(plain(title), plain(title)) if title else None
+        if named and author in AMBIG:
+            STATE['last'][author] = named
         if author in AMBIG and author not in STATE['last']:
             return m.group(0)  # مؤلف له أكثر من كتاب ولم يُسمَّ كتابه في الفصل بعد
-        full = STATE['last'].get(author) or BOOKS[author][0]
+        # للمؤلف الملتبس آخرُ كتاب سُمّي له، ولغيره كتابه المعروف ما لم يُسمَّ غيره في الحاشية نفسها
+        full = named or STATE['last'].get(author) or BOOKS[author][0]
         short = BOOKS[author][1] if author in ('المرزوقي', 'التبريزي') and full == 'شرح ديوان الحماسة' else SHORT.get(full, full)
         key = (author, full)
         if before.strip():  # الاسم في سياق كلام: «كما يفسرهما العسكري في جمهرة الأمثال»
