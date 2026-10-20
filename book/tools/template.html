@@ -1,0 +1,82 @@
+<!doctype html>
+<html lang="ar" dir="rtl">
+<head>
+<meta charset="utf-8">
+<title>العصر الجاهلي — مختصر</title>
+<style>
+@font-face { font-family: "Amiri"; src: url("amiri-arabic-400-normal.woff2") format("woff2"); font-weight: 400; unicode-range: U+0600-06FF, U+0750-077F, U+0870-088E, U+0890-0891, U+0897-08E1, U+08E3-08FF, U+200C-200E, U+2010-2011, U+204F, U+2E41, U+FB50-FDFF, U+FE70-FE74, U+FE76-FEFC; }
+@font-face { font-family: "Amiri"; src: url("amiri-arabic-700-normal.woff2") format("woff2"); font-weight: 700; unicode-range: U+0600-06FF, U+0750-077F, U+0870-088E, U+0890-0891, U+0897-08E1, U+08E3-08FF, U+200C-200E, U+2010-2011, U+204F, U+2E41, U+FB50-FDFF, U+FE70-FE74, U+FE76-FEFC; }
+@font-face { font-family: "Amiri"; src: url("amiri-latin-400-normal.woff2") format("woff2"); font-weight: 400; unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+0304, U+0308, U+0329, U+2000-200B, U+2012-204E, U+2050-206F, U+20AC, U+2122, U+2212, U+FEFF, U+FFFD; }
+@font-face { font-family: "Amiri"; src: url("amiri-latin-700-normal.woff2") format("woff2"); font-weight: 700; unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+0304, U+0308, U+0329, U+2000-200B, U+2012-204E, U+2050-206F, U+20AC, U+2122, U+2212, U+FEFF, U+FFFD; }
+
+@page { size: 170mm 240mm; margin: 0; }
+:root { --ink: #2a1a0a; --rubric: #8a2b16; --orn: #6e4318; --gold: #a8803a; --muted: #5a4128; --paper: #efdcae; }
+html, body { margin: 0; padding: 0; }
+body { font-family: "Amiri", serif; color: var(--ink); -webkit-print-color-adjust: exact; print-color-adjust: exact; }
+
+/* الورقة والإطار على كل صفحة */
+.page { position: relative; width: 170mm; height: 240mm; overflow: hidden; break-after: page;
+  background:
+    radial-gradient(ellipse at 50% 45%, rgba(255,247,222,.65) 0%, rgba(255,247,222,0) 58%),
+    radial-gradient(ellipse at 50% 50%, rgba(0,0,0,0) 62%, rgba(120,78,25,.30) 100%),
+    var(--paper); }
+.deco { position: absolute; left: 0; top: 0; width: 170mm; height: 240mm; pointer-events: none; }
+.deco.grain { opacity: .10; mix-blend-mode: multiply; background: url("grain.png") repeat; background-size: 34mm 34mm; }
+.area { position: absolute; top: 19.5mm; bottom: 20mm; right: 19mm; left: 19mm; display: flex; flex-direction: column; }
+.page.title .area { top: 30mm; bottom: 30mm; right: 24mm; left: 24mm; }
+.body { flex: none; }
+.notes { margin-top: auto; padding-top: 1.6mm; font-size: 8.6pt; line-height: 1.55; color: #3a2814; }
+.notes .bar { width: 38mm; border-top: .5pt solid var(--orn); margin: 0 0 1.4mm auto; }
+.notes ol { list-style: none; margin: 0; padding: 0; text-align: justify; }
+.notes li { display: inline; margin: 0; }
+.notes li::after { content: "\2003"; }
+.notes li .m { color: var(--rubric); }
+.notes:has(ol:empty) { display: none; }
+sup.fn { font-size: 7.5pt; color: var(--rubric); vertical-align: super; line-height: 0; }
+.head { position: absolute; top: 9.8mm; height: 5mm; line-height: 5.2mm; font-size: 8.6pt; text-align: center; }
+.head.era { right: 21.4mm; width: 53.7mm; color: var(--muted); }
+.head.poet { left: 21.4mm; width: 53.7mm; color: var(--rubric); font-weight: 700; }
+.folio { position: absolute; bottom: 7.4mm; left: 77.5mm; width: 15mm; height: 9mm; line-height: 9mm; text-align: center;
+  font-size: 10.5pt; font-weight: 700; color: var(--rubric); background: url("folio.svg") center / 100% 100% no-repeat; }
+#src { position: absolute; visibility: hidden; width: 132mm; }
+#src .bayt .footnote { display: none; }
+
+/* صفحة العنوان */
+.titlepage { text-align: center; padding-top: 18mm; }
+.series { font-size: 13pt; color: var(--muted); letter-spacing: .3pt; margin-bottom: 10mm; }
+.tp-cartouche { margin: 0 auto; width: 100mm; height: 20mm; line-height: 20mm; background: url("cartouche.svg") center / 100% 100% no-repeat; }
+.tp-cartouche span { font-size: 26pt; font-weight: 700; color: var(--rubric); }
+.tp-sub { margin-top: 7mm; font-size: 14pt; color: var(--ink); }
+.tp-orn { margin: 22mm 0 20mm; color: var(--gold); font-size: 14pt; letter-spacing: 6pt; }
+.tp-by { font-size: 13pt; color: var(--muted); line-height: 1.9; }
+.tp-by b { font-size: 17pt; color: var(--rubric); }
+
+/* الفصل */
+h1.chapter { margin: 0 auto 1.6mm; width: 92mm; height: 13mm; line-height: 13mm; text-align: center;
+  background: url("cartouche.svg") center / 100% 100% no-repeat; font-size: 17pt; font-weight: 700; color: var(--rubric); }
+.subtitle { text-align: center; font-size: 10pt; color: var(--muted); margin-bottom: 2.4mm; }
+h2 { font-size: 12pt; font-weight: 700; color: var(--rubric); margin: 2.4mm 0 1.2mm; break-after: avoid; }
+h2::before { content: "۞ "; color: var(--gold); font-weight: 400; }
+h3 { font-size: 11.4pt; font-weight: 700; color: var(--orn); margin: 1.6mm 0 .8mm; break-after: avoid; }
+
+p.split.full, .meaning.split.full { text-align-last: justify; }
+.meaning.cont { margin-top: 0; }
+p { margin: 0 0 1.6mm; font-size: 11.6pt; line-height: 1.72; text-align: justify; orphans: 2; widows: 2; }
+
+.bayt { display: grid; grid-template-columns: 6mm 58mm 6mm 58mm; justify-content: center; align-items: baseline;
+  margin: 1.4mm 0 1mm; font-size: 13pt; line-height: 1.6; break-inside: avoid; break-after: avoid; }
+.bayt .n { font-size: 8.5pt; color: var(--rubric); text-align: center; }
+.bayt .h { text-align: justify; text-align-last: justify; font-weight: 700; white-space: nowrap; }
+.bayt .sep { text-align: center; color: var(--gold); font-size: 9pt; }
+.meaning { font-size: 11.2pt; line-height: 1.68; margin: 0 6mm 1.8mm 0; text-align: justify; orphans: 2; widows: 2; }
+.meaning .lbl { color: var(--rubric); font-weight: 700; }
+.bridge { font-size: 11pt; color: var(--muted); margin: 1mm 0 0; line-height: 1.6; break-after: avoid; }
+.bridge::before { content: "❊ "; color: var(--gold); }
+
+</style>
+</head>
+<body>
+<!--BODY-->
+<script src="paginate.js"></script>
+</body>
+</html>
