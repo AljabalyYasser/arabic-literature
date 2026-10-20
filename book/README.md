@@ -58,12 +58,16 @@ The Amiri fonts are copied from `node_modules/@fontsource/amiri`.
   - where the evidence stands, said in prose.
 
   Cut decoration, repetition, detours and secondary examples, never arguments or evidence.
+- The mother poem is given in full (2026-10-20): every Muʿallaqa, al-Nabigha's «يا دار ميّة» and al-Aʿsha's
+  «ودّع هريرة». Its verses run together. Hard words are glossed in footnotes. Notes appear only where there is a
+  meaning, a rhetorical or grammatical point, or a fact of how the Arabs lived (e.g. «نؤوم الضحى»). See
+  `brief-book-fulltext.md`.
 - Refined edition (2026-10-20).
   - Kept: love poetry of every kind, ʿudhri, open ghazal and tashbib, including mention of breasts and the like.
   - Left out: verses that describe intercourse or the sexual organs in explicit detail.
     - They go into a separate mujun book, made after all the eras, which will hold all such verses.
-    - Where such a passage belongs to a poem's structure, one neutral bridge line says what it is about, without
-      quoting it.
+    - In their place, one neutral line gives the verse numbers and what they are about. No apology such as «لا ننقلها»:
+      the scholars before us cited them, and the reader may look them up (2026-10-20).
   - The site is unchanged and keeps its mujun section.
 - A Word (.docx) version will be needed later.
 - The site is reviewed through the book: while writing each chapter, the site pages it draws on get the clarity test.
