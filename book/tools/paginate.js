@@ -90,7 +90,7 @@
     const kids = [...body.children]; if (kids.length < 2) return;
     const left = area.clientHeight - body.offsetHeight - (notes.children.length ? notes.parentElement.offsetHeight : 0);
     if (left <= 0 || left > 110) return;
-    const per = left / (kids.length - 1);
+    const per = Math.min(left / (kids.length - 1), 10);
     kids.slice(0, -1).forEach((k) => { k.style.marginBottom = (parseFloat(getComputedStyle(k).marginBottom) + per) + 'px'; });
   }
 
