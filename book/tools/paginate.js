@@ -2,7 +2,7 @@
 (function () {
   const AR = (x) => String(x).replace(/[0-9]/g, (d) => '٠١٢٣٤٥٦٧٨٩'[d]);
   const KEEP = new Set(['H1', 'H2', 'H3']);
-  const keepWithNext = (el) => KEEP.has(el.tagName) || el.classList.contains('subtitle') || el.classList.contains('bridge');
+  const keepWithNext = (el) => KEEP.has(el.tagName) || ['subtitle', 'bridge', 'chapsep'].some((c) => el.classList.contains(c));
   const splittable = (el) => el.tagName === 'P' || el.classList.contains('meaning');
   const book = document.getElementById('book');
   const src = document.getElementById('src');
@@ -98,7 +98,11 @@
     if (el.tagName === 'H1') cur = { poet: el.dataset.poet, era: el.dataset.era };
     if (el.classList.contains('titlepage')) { newPage('title'); body.appendChild(el); return; }
     if (!page) newPage();
-    if (el.tagName === 'H1' && body.children.length) { justifyPage(); newPage(); }
+    // الفصل يتصل بما قبله بعد فاصل مزخرف، فإن لم يتسع الفاصل بدأ الفصل صفحة جديدة
+    if (el.tagName === 'H1' && body.children.length) {
+      const sep = document.createElement('div'); sep.className = 'chapsep'; body.appendChild(sep);
+      if (!fits()) { sep.remove(); justifyPage(); newPage(); }
+    }
     body.appendChild(el);
     const a = attachNotes(el);
     if (fits()) return;
@@ -114,7 +118,7 @@
       const k = body.lastElementChild; const n = k.querySelectorAll('sup.fn').length; detach(k, n); carry.unshift(k);
     }
     justifyPage(); newPage();
-    carry.forEach((k) => { body.appendChild(k); attachNotes(k); });
+    carry.forEach((k) => { if (k.classList.contains('chapsep')) return; body.appendChild(k); attachNotes(k); });
     body.appendChild(el); attachNotes(el);
   }
 

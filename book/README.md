@@ -38,6 +38,9 @@ The Amiri fonts are copied from `node_modules/@fontsource/amiri`.
 - Meanings are written in refined literary prose, not word-for-word glossing. Avoid words with low connotations
   (e.g. «الساقط» for one who fell in battle).
 - No empty space: pages are filled to the bottom.
+  - A chapter does not start a new page. It follows the previous chapter on the same page, after an ornamental
+    separator (`assets/sep.svg`, made by `tools/gen-sep.py`), unless its title, subtitle and first lines do not fit
+    (2026-10-20).
 - Language: the site's own language.
 - No site-only devices: no grade labels, no reading levels, no «المرحلة», no links.
   - Attribution is stated in prose, the way the ancients write it, and only where it matters.
