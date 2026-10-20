@@ -6,8 +6,13 @@ vocabulary:
     text: "«يريد إما أن يكون ذلك المحروب قتيلا وإما أن يكون هالكا» [@tabrizi-ashr، ص324]."
   - term: "وَالشَّيْبُ شَيْنٌ"
     text: "«إن لم يُقتل وعُمر حتى يشيب فشيبه شين له، وكانوا يستحبُّون أن يموت الرجل وفيه بقية قبل أن يفرط به الكبر» [@tabrizi-ashr، ص324]."
+  - term: "شَيْنٌ"
+    text: "عيب: «الشَّيْنُ: مَعْرُوفٌ خِلَافُ الزَّيْن» [@lisan، ج13 ص244]."
 sources:
   - source: "tabrizi-ashr"
     loc: "ص324"
     url: "https://shamela.ws/book/37488/323"
+  - source: "lisan"
+    loc: "ج13 ص244"
+    url: "https://shamela.ws/book/1687/6805"
 status: "review"

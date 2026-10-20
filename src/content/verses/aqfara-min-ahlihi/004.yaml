@@ -5,9 +5,12 @@ vocabulary:
   - term: "وُحُوشًا"
     text: "بدّلت الديار بأهلها الوحش، فصارت مرعى لها."
   - term: "الخُطُوبُ"
-    text: "الأمور العظيمة، وهي هنا حوادث الدهر."
+    text: "الأمور العظيمة، وهي هنا حوادث الدهر. وفي لسان العرب: «جَلَّ الخَطْبُ أَي عَظُم الأَمرُ والشأْن» [@lisan، ج1 ص360]."
 sources:
   - source: "tabrizi-ashr"
     loc: "ص324"
     url: "https://shamela.ws/book/37488/323"
+  - source: "lisan"
+    loc: "ج1 ص360"
+    url: "https://shamela.ws/book/1687/360"
 status: "review"

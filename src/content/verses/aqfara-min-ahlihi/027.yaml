@@ -7,9 +7,12 @@ vocabulary:
   - term: "خَائِفٌ"
     text: "«أراد إنه مخُوف المسلك، وقد يقوم الفاعل مقام المفعول» [@tabrizi-ashr، ص329]."
   - term: "جَدِيبُ"
-    text: "لا نبت فيه."
+    text: "لا نبت فيه، من الجدب، وفي لسان العرب: «الجَدْبُ: المَحْل نَقِيضُ الخِصْبِ» [@lisan، ج1 ص254]."
 sources:
   - source: "tabrizi-ashr"
     loc: "ص329"
     url: "https://shamela.ws/book/37488/328"
+  - source: "lisan"
+    loc: "ج1 ص254"
+    url: "https://shamela.ws/book/1687/254"
 status: "review"

@@ -7,7 +7,7 @@ vocabulary:
   - term: "غَوِيٍّ"
     text: "«الغاوي الضال، والغَيّ والغواية الضلالة» [@zawzani، ص110]."
   - term: "الْبَطَالَةِ"
-    text: "اللهو وترك الجد."
+    text: "اللهو وترك الجد: «والتبطل: فعل البطالة وهو اتباع اللهو والجهالة» [@lisan، ج11 ص56]."
 syntax:
   - "«والقبر اسم أرى. والكاف منصوبة على خبر أرى» [@ibn-al-anbari، ص200]؛ أي «أرى» هنا بمعنى أعلم، تنصب مفعولين."
   - "«ومفسد نعت الغوي، وفي البطالة صلة مفسد» [@ibn-al-anbari، ص200]، أي متعلق به."
@@ -40,6 +40,9 @@ sources:
   - source: "ibn-qutayba"
     loc: "ج1 ص183"
     url: "https://shamela.ws/book/23785/176"
+  - source: "lisan"
+    loc: "ج11 ص56"
+    url: "https://shamela.ws/book/1687/5238"
   - source: "atiq"
     loc: "ص29"
     url: "https://shamela.ws/book/11298/24"
