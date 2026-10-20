@@ -11,6 +11,7 @@ The printed abridgement of each era. The site stays the reference; the book is a
   - `paginate.js`: fills fixed pages, with footnotes numbered per page.
   - `build.mjs`: makes the PDF, plus page PNGs when given `shots`.
   - `gen-frame.py`: makes the frame SVG.
+  - `gen-paper.py`: makes the paper image (colour, light, edge shadow, grain), embedded once in the PDF.
 - `assets/`: frame, cartouche, folio ornament, paper grain.
 - `brief-book-tarafa.md`: the writing rules for a chapter.
 - `brief-clarity.md`: the three-question clarity test.

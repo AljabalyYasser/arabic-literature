@@ -12,7 +12,7 @@
     folio += 1;
     page = document.createElement('div');
     page.className = 'page' + (kind ? ' ' + kind : '');
-    page.innerHTML = '<div class="deco grain"></div><img class="deco" src="frame.svg">' +
+    page.innerHTML = '<img class="deco" src="paper.jpg"><img class="deco" src="frame.svg">' +
       '<div class="area"><div class="body"></div><div class="notes"><div class="bar"></div><ol></ol></div></div>';
     book.appendChild(page);
     area = page.querySelector('.area'); body = page.querySelector('.body'); notes = page.querySelector('.notes ol');

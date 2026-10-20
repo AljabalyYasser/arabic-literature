@@ -15,13 +15,8 @@ html, body { margin: 0; padding: 0; }
 body { font-family: "Amiri", serif; color: var(--ink); -webkit-print-color-adjust: exact; print-color-adjust: exact; }
 
 /* الورقة والإطار على كل صفحة */
-.page { position: relative; width: 170mm; height: 240mm; overflow: hidden; break-after: page;
-  background:
-    radial-gradient(ellipse at 50% 45%, rgba(255,247,222,.65) 0%, rgba(255,247,222,0) 58%),
-    radial-gradient(ellipse at 50% 50%, rgba(0,0,0,0) 62%, rgba(120,78,25,.30) 100%),
-    var(--paper); }
+.page { position: relative; width: 170mm; height: 240mm; overflow: hidden; break-after: page; background: var(--paper); }
 .deco { position: absolute; left: 0; top: 0; width: 170mm; height: 240mm; pointer-events: none; }
-.deco.grain { background: url("grain.png") repeat; background-size: 34mm 34mm; }
 .area { position: absolute; top: 19.5mm; bottom: 20mm; right: 19mm; left: 19mm; display: flex; flex-direction: column; }
 .page.title .area { top: 30mm; bottom: 30mm; right: 24mm; left: 24mm; }
 .body { flex: none; }
