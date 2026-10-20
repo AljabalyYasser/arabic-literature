@@ -87,6 +87,26 @@ The owner tried a one-line meaning under each verse and rejected it. What he wan
 - **No per-verse lines.** There are no per-verse «المعنى» paragraphs inside a group. A hinge verse's meaning goes into
   the group's explanation.
 
+## Units of meaning (owner approved, 2026-10-20; this replaces «Groups» and «Density»)
+
+Long groups put the explanation too far from its verses, so the owner rejected them. He approved units, the way the old
+commentators read a poem. The model is `book/src/_sample-units.txt` (Imruʾ al-Qays 1–30); read it before you start.
+- **Unit.** A unit is the 2–3 verses that carry one thought. A verse that stands alone, such as the opening, is a unit by
+  itself. Up to four verses form one unit when a single sentence runs across them, as in al-Khansa's «فما عجول… بأوجد
+  مني».
+- **Explanation.** The explanation follows the unit at once, as one `=` paragraph in connected literary prose that moves
+  through it verse by verse: «يقف… ثم يقول في البيت الثاني… ويعني بالثالث…». The general meaning is our own reading,
+  faithful to the commentators, with no reference.
+- **Points.** Critics' points and facts of Arab life go inside the unit's explanation, with their quotes and footnotes.
+- **Disputes.** A dispute about a verse follows its unit's explanation as a short plain paragraph.
+- **Headings.** `###` section headings stay as signposts only, for example «الأطلال», «أيام اللهو», «عتاب فاطمة».
+- **Hard words.** Every hard word is glossed in the verse's footnote. Give the glosses first, then the sources once at
+  the end, separated by «؛». A gloss the site lacks is added to the verse file and logged.
+- **Nothing dropped.** Keep every point of substance the chapter has. Keep the verses, their numbering and the neutral
+  lines for omitted verses.
+- **Check.** Afterwards run `python3 book/tools/fn-sources-last.py book/src/<id>.txt`, then render and build with
+  `shots`.
+
 ## Final reply (under 120 words)
 
 Verses added, verses left out with their numbers, page count before and after, anything unresolved.
