@@ -7,7 +7,6 @@ Markup, one block per line:
   ## / ### heading   section / sub-section
   @ N | first | second [^[note]]   verse
   = text             meaning of the previous verse (with the «المعنى» label)
-  - text             one-line general meaning under a verse, no label, no source
   ~ text             bridge line
   other              paragraph
 Inline footnotes: ^[ ... ]
@@ -164,8 +163,6 @@ def chapter(path, era):
                           f'<span class="h">{inline(second)}</span></div>')
         elif line.startswith('= '):
             blocks.append(f'<div class="meaning"><span class="lbl">المعنى:</span> {inline(line[2:])}</div>')
-        elif line.startswith('- '):
-            blocks.append(f'<div class="gist">{inline(line[2:])}</div>')
         elif line.startswith('~ '):
             blocks.append(f'<div class="bridge">{inline(line[2:])}</div>')
         else:

@@ -62,7 +62,9 @@ The Amiri fonts are copied from `node_modules/@fontsource/amiri`.
 - The mother poem is given in full (2026-10-20): every Muʿallaqa, al-Nabigha's «يا دار ميّة» and al-Aʿsha's
   «ودّع هريرة», ʿAbid ibn al-Abras's «أقفر من أهله ملحوب» (the ten), and al-Khansa's «قذى بعينك». Its verses run together. Hard words are glossed in footnotes. Notes appear only where there is a
   meaning, a rhetorical or grammatical point, or a fact of how the Arabs lived (e.g. «نؤوم الضحى»). See
-  `brief-book-fulltext.md`.
+  `brief-book-fulltext.md`. The poem is read in groups that follow its movement, each with a heading: the verses
+  first, then one «المعنى» paragraph explaining the whole group with the critics' points woven in, and the hard words
+  glossed in footnotes (2026-10-20; a one-line meaning under each verse was tried and rejected).
 - Refined edition (2026-10-20).
   - Kept: love poetry of every kind, ʿudhri, open ghazal and tashbib, including mention of breasts and the like.
   - Left out: verses that describe intercourse or the sexual organs in explicit detail.

@@ -68,6 +68,25 @@ The owner asked for the verses «دفعة», with explanation only where it is n
   file lacks it, add it to the file's `vocabulary` too, with its source, and log it in `research/audits/clarity-<id>.md`.
 - **Length.** Added verses should cost about one page per 12–14 verses. Report the pages before and after.
 
+## Groups (owner, 2026-10-20; this replaces the density rules above where they differ)
+
+The owner tried a one-line meaning under each verse and rejected it. What he wants:
+- **Groups.** The poem is read in groups that follow its movement, for example «بيضة الخدر» or «أيام اللهو». A group
+  is usually 5–12 verses and has its own `###` heading.
+- **Verses first.** The group's verses come first, one after another, with nothing between them.
+- **One explanation after the group.** Then one `=` paragraph (rendered with the «المعنى:» label) explains the whole
+  group in order, in refined literary prose.
+  - The general meaning is our own understanding, faithful to the commentators, with no reference.
+  - Fold into the same paragraph, in their place, the existing points: the critic's rhetorical or grammatical point,
+    a fact of Arab life (as «نؤوم الضحى»). Each keeps its quotation and footnote citation.
+  - Nothing of substance that the chapter had is dropped.
+- **Disputes.** A dispute over a verse (its authenticity, its reading, its order) follows as a plain paragraph after the
+  explanation.
+- **Hard words.** Every hard word is glossed in the verse's footnote, glosses first and the sources once at the end. If
+  the site lacks a gloss, add it there too and log it (see "No hard word left unglossed").
+- **No per-verse lines.** There are no per-verse «المعنى» paragraphs inside a group. A hinge verse's meaning goes into
+  the group's explanation.
+
 ## Final reply (under 120 words)
 
 Verses added, verses left out with their numbers, page count before and after, anything unresolved.
