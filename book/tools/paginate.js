@@ -125,6 +125,15 @@
     }
     // ننقل معها ما يجب أن يلزمها من عنوان أو سطر وصل
     const carry = [];
+    // وحدة المعنى: أبياتها المتتالية (أربعة على الأكثر) تنتقل مع بيتها الأخير أو مع أول شرحها،
+    // ما لم يترك نقلها فراغًا في أسفل الصفحة أكبر مما يُوزَّع بين الكتل
+    if (el.classList.contains('bayt') || el.classList.contains('meaning')) {
+      while (carry.length < 4 && body.lastElementChild && body.lastElementChild.classList.contains('bayt') && body.children.length > 1) {
+        const k = body.lastElementChild; detach(k, k.querySelectorAll('sup.fn').length); carry.unshift(k);
+      }
+      const left = area.clientHeight - body.offsetHeight - (notes.children.length ? notes.parentElement.offsetHeight : 0);
+      if (left > 110) { carry.forEach((k) => { body.appendChild(k); attachNotes(k); }); carry.length = 0; }
+    }
     while (body.lastElementChild && keepWithNext(body.lastElementChild) && body.children.length > 1) {
       const k = body.lastElementChild; const n = k.querySelectorAll('sup.fn').length; detach(k, n); carry.unshift(k);
     }
