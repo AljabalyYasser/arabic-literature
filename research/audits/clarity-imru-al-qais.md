@@ -97,3 +97,5 @@
 ## الفحوص
 
 `qcheck.py` على الملفات السبعة: كل النقول المزيدة OK، إلا بيت عبيد وقول مسمع، فلا يفحصهما (رُوجعا باليد: ضيف ج1 ص235، ابن سلام ج1 ص160). `vcheck.py file` و`vcheck.py text qifa-nabki`: OK. `fmcheck.py`: bad 0.
+
+| `chapters/imru-al-qais/al-muallaqa-1.mdx` | Ibn Rashiq «ت 456هـ», while his source card and five other pages give 463. | Unified to 463, following the card. |
