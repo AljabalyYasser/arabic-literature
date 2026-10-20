@@ -170,7 +170,7 @@ def chapter(path, era):
     return '\n'.join(blocks)
 
 
-def main(chapters, era, out, title=True):
+def main(chapters, out, title=True):  # chapters: [(path, running head)]
     body = []
     if title: body.append('''<div class="titlepage">
   <div class="series">الشعر والأدب العربي</div>
@@ -179,7 +179,7 @@ def main(chapters, era, out, title=True):
   <div class="tp-orn">❊ ❊ ❊</div>
   <div class="tp-by">إعداد وتلخيص<br><b>ياسر أحمد</b></div>
 </div>''')
-    for c in chapters:
+    for c, era in chapters:
         body.append(chapter(c, era))
     tpl = (ROOT / 'template.html').read_text(encoding='utf-8')
     html_out = tpl.replace('<!--BODY-->', '<div id="book"></div>\n<div id="src">\n' + '\n'.join(body) + '\n</div>')
@@ -196,8 +196,13 @@ def main(chapters, era, out, title=True):
 
 
 if __name__ == '__main__':
-    # render.py [--out NAME] [--no-title] "<running head>" chapter.txt ...
+    # render.py [--out NAME] [--no-title] "<running head>" chapter.txt ... ["<running head>" chapter.txt ...]
+    # كل ترويسة تسري على الفصول التي بعدها حتى تأتي ترويسة أخرى
     args, name, title = sys.argv[1:], 'book', True
     if args[:1] == ['--out']: name, args = args[1], args[2:]
     if args[:1] == ['--no-title']: title, args = False, args[1:]
-    main(args[1:], args[0], name + '.html', title)
+    chapters, era = [], ''
+    for a in args:
+        if a.endswith('.txt'): chapters.append((a, era))
+        else: era = a
+    main(chapters, name + '.html', title)

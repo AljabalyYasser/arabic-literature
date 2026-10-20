@@ -20,6 +20,9 @@ The printed abridgement of each era. The site stays the reference; the book is a
 ```
 python3 book/tools/render.py "العصر الجاهلي · أعلام التكوين" book/src/tarafa.txt
 python3 book/tools/render.py --out qadaya "العصر الجاهلي · قضايا العصر" book/src/{al-sahra,ayyam-al-arab,al-muallaqat,al-nathr,al-intihal}.txt
+# the whole era in one file; each running head applies to the chapters after it
+python3 book/tools/render.py --out jahili "العصر الجاهلي · قضايا العصر" book/src/{al-sahra,ayyam-al-arab,al-muallaqat,al-nathr,al-intihal}.txt \
+  "العصر الجاهلي · أعلام التكوين" book/src/{imru-al-qais,tarafa,zuhayr,al-nabigha,al-asha,antara,labid,al-khansa}.txt
 node book/tools/build.mjs $PWD/book shots   # -> book/out/book.pdf
 ```
 
