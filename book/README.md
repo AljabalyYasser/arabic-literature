@@ -59,7 +59,7 @@ The Amiri fonts are copied from `node_modules/@fontsource/amiri`.
 
   Cut decoration, repetition, detours and secondary examples, never arguments or evidence.
 - The mother poem is given in full (2026-10-20): every Muʿallaqa, al-Nabigha's «يا دار ميّة» and al-Aʿsha's
-  «ودّع هريرة». Its verses run together. Hard words are glossed in footnotes. Notes appear only where there is a
+  «ودّع هريرة», and al-Khansa's «قذى بعينك». Its verses run together. Hard words are glossed in footnotes. Notes appear only where there is a
   meaning, a rhetorical or grammatical point, or a fact of how the Arabs lived (e.g. «نؤوم الضحى»). See
   `brief-book-fulltext.md`.
 - Refined edition (2026-10-20).
