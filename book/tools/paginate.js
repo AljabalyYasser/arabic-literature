@@ -141,8 +141,31 @@
       while (over() && size > min) { size -= 0.5; b.style.fontSize = size + 'px'; }
     });
   }
+  // الأوزان القصيرة: تضيق أعمدة الأبيات المتتالية على أطول شطر فيها، فلا تتسع الفراغات بين الكلمات
+  function fitColumns() {
+    const runs = []; let run = [];
+    [...src.children].forEach((el) => {
+      if (el.classList.contains('bayt')) run.push(el); else if (run.length) { runs.push(run); run = []; }
+    });
+    if (run.length) runs.push(run);
+    runs.forEach((r) => {
+      const col = r[0].querySelector('.h').clientWidth;
+      let w = 0;
+      r.forEach((b) => b.querySelectorAll('.h').forEach((h) => {
+        const p = document.createElement('span');
+        p.className = 'h'; p.style.cssText = 'position:absolute;display:inline;white-space:nowrap;visibility:hidden';
+        p.innerHTML = h.innerHTML; p.querySelectorAll('.footnote').forEach((x) => x.remove());
+        b.appendChild(p); w = Math.max(w, p.offsetWidth); p.remove();
+      }));
+      if (w < col * 0.8) {
+        const c = Math.ceil(w * 1.08 + 4) + 'px';
+        r.forEach((b) => { b.style.gridTemplateColumns = `6mm ${c} 6mm ${c}`; });
+      }
+    });
+  }
   document.fonts.ready.then(() => {
     fitVerses();
+    fitColumns();
     [...src.children].forEach((el) => place(el));
     src.remove();
     window.__pages = book.children.length;
