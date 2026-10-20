@@ -43,6 +43,13 @@ The Amiri fonts are copied from `node_modules/@fontsource/amiri`.
   - where the evidence stands, said in prose.
 
   Cut decoration, repetition, detours and secondary examples, never arguments or evidence.
+- Refined edition (2026-10-20).
+  - Kept: love poetry of every kind, ʿudhri, open ghazal and tashbib, including mention of breasts and the like.
+  - Left out: verses that describe intercourse or the sexual organs in explicit detail.
+    - They go into a separate mujun book, made after all the eras, which will hold all such verses.
+    - Where such a passage belongs to a poem's structure, one neutral bridge line says what it is about, without
+      quoting it.
+  - The site is unchanged and keeps its mujun section.
 - A Word (.docx) version will be needed later.
 - The site is reviewed through the book: while writing each chapter, the site pages it draws on get the clarity test.
   - Fixes are made in the site.
