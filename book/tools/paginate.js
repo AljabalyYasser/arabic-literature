@@ -97,6 +97,7 @@
   function place(el) {
     if (el.tagName === 'H1') cur = { poet: el.dataset.poet, era: el.dataset.era };
     if (el.classList.contains('titlepage')) { newPage('title'); body.appendChild(el); return; }
+    if (!page) newPage();
     if (el.tagName === 'H1' && body.children.length) { justifyPage(); newPage(); }
     body.appendChild(el);
     const a = attachNotes(el);

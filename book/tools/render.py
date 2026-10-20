@@ -71,9 +71,9 @@ def chapter(path, era):
     return '\n'.join(blocks)
 
 
-def main(chapters, era, out):
+def main(chapters, era, out, title=True):
     body = []
-    body.append('''<div class="titlepage">
+    if title: body.append('''<div class="titlepage">
   <div class="series">الشعر والأدب العربي</div>
   <div class="tp-cartouche"><span>العصر الجاهلي</span></div>
   <div class="tp-sub">مختصر في أعلامه وقضاياه وشعره</div>
@@ -97,4 +97,8 @@ def main(chapters, era, out):
 
 
 if __name__ == '__main__':
-    main(sys.argv[2:], sys.argv[1], 'book.html')
+    # render.py [--out NAME] [--no-title] "<running head>" chapter.txt ...
+    args, name, title = sys.argv[1:], 'book', True
+    if args[:1] == ['--out']: name, args = args[1], args[2:]
+    if args[:1] == ['--no-title']: title, args = False, args[1:]
+    main(args[1:], args[0], name + '.html', title)
