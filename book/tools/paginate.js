@@ -125,6 +125,10 @@
     }
     // ننقل معها ما يجب أن يلزمها من عنوان أو سطر وصل
     const carry = [];
+    // سطر المعنى العام يلزم بيته: إن انتقل إلى صفحة جديدة انتقل البيت معه
+    if (el.classList.contains('gist') && body.lastElementChild && body.lastElementChild.classList.contains('bayt') && body.children.length > 1) {
+      const k = body.lastElementChild; detach(k, k.querySelectorAll('sup.fn').length); carry.unshift(k);
+    }
     while (body.lastElementChild && keepWithNext(body.lastElementChild) && body.children.length > 1) {
       const k = body.lastElementChild; const n = k.querySelectorAll('sup.fn').length; detach(k, n); carry.unshift(k);
     }
