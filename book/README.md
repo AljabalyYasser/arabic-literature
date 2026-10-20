@@ -29,7 +29,14 @@ The Amiri fonts are copied from `node_modules/@fontsource/amiri`.
 - Page and type:
   - Page size 17×24 cm on antique-yellow paper, inside a symmetric frame with Arabic rosettes («شمسة») at the corners.
   - The running head sits in the frame's top band. The font is Amiri.
-- Length: at most 300 pages for the Jahili era.
+- Length: up to 300 pages for the Jahili era. Completeness comes first (2026-10-20).
+- Hinge verses (those with «المعنى») also get the verse's rhetorical or critical point (2026-10-20).
+  - It must come from a source: a critic or commentator such as al-Marzuqi, ʿAbd al-Qahir, Ibn Rashiq or Ibn Qutayba,
+    or a point with its witness. Not our own impressions.
+  - Two or three lines, in the same paragraph after the meaning, with no new label.
+  - Take it from the site's rhetoric layer for that verse. If there is no real point, the meaning alone stands.
+- Meanings are written in refined literary prose, not word-for-word glossing. Avoid words with low connotations
+  (e.g. «الساقط» for one who fell in battle).
 - No empty space: pages are filled to the bottom.
 - Language: the site's own language.
 - No site-only devices: no grade labels, no reading levels, no «المرحلة», no links.
