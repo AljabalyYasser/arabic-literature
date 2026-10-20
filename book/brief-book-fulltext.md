@@ -61,6 +61,11 @@ The owner asked for the verses «دفعة», with explanation only where it is n
 - **Footnote glosses.** Gloss only words a cultivated reader would not know, one short gloss each. Put all the glosses
   of a verse in one footnote, with one short source at the end. Do not cite Lisan word by word when a commentator
   already glosses the word.
+- **Footnote form (owner, 2026-10-20).** In a verse footnote, give all the glosses first, then the sources once at the
+  end, separated by «؛»: «يرتمين: يتهادين. والهُدّاب: ما استرسل من أطراف الثوب. ابن الأَنْبارِيّ، ص35؛ الزَّوْزَنِيّ، ص40.»
+- **No hard word left unglossed (owner, 2026-10-20).** Gloss every word a modern reader would not understand, not a
+  selection. «الدمقس» was glossed but «المفتّل» was not. Take the gloss from the commentators. If the site's verse
+  file lacks it, add it to the file's `vocabulary` too, with its source, and log it in `research/audits/clarity-<id>.md`.
 - **Length.** Added verses should cost about one page per 12–14 verses. Report the pages before and after.
 
 ## Final reply (under 120 words)

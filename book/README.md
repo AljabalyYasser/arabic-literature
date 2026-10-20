@@ -74,5 +74,9 @@ The Amiri fonts are copied from `node_modules/@fontsource/amiri`.
 - The site is reviewed through the book: while writing each chapter, the site pages it draws on get the clarity test.
   - Fixes are made in the site.
   - Each fix is logged in `research/audits/clarity-<id>.md`.
+- Verse footnotes (2026-10-20): the glosses come first, then the sources once at the end, separated by «؛», with the
+  pages of one source together. `tools/fn-sources-last.py` enforces this. Every word a modern reader would not
+  understand is glossed (e.g. «المفتّل» beside «الدمقس»), from the commentators; where the site's verse file lacks
+  the gloss, it is added there too.
 - The bibliography at the end states each book's edition once. For example: «الأغاني: طبعة دار الكتب، إلا الجزأين الخامس
   والسابع فمن طبعة دار الفكر». Footnotes then cite by author or short title, volume and page, with no edition.
