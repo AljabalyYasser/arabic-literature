@@ -19,6 +19,7 @@ The printed abridgement of each era. The site stays the reference; the book is a
 
 ```
 python3 book/tools/render.py "العصر الجاهلي · أعلام التكوين" book/src/tarafa.txt
+python3 book/tools/render.py --out qadaya "العصر الجاهلي · قضايا العصر" book/src/{al-sahra,ayyam-al-arab,al-muallaqat,al-nathr,al-intihal}.txt
 node book/tools/build.mjs $PWD/book shots   # -> book/out/book.pdf
 ```
 
@@ -41,6 +42,7 @@ The Amiri fonts are copied from `node_modules/@fontsource/amiri`.
   - A chapter does not start a new page. It follows the previous chapter on the same page, after an ornamental
     separator (`assets/sep.svg`, made by `tools/gen-sep.py`), unless its title, subtitle and first lines do not fit
     (2026-10-20).
+- Chapter order follows the site (`docs/jahili-map.md`): the topics as al-Sahra, Ayyam al-Arab, al-Muallaqat, al-Nathr, al-Intihal.
 - Language: the site's own language.
 - No site-only devices: no grade labels, no reading levels, no «المرحلة», no links.
   - Attribution is stated in prose, the way the ancients write it, and only where it matters.

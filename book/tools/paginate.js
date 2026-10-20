@@ -61,18 +61,29 @@
   }
   // يحاول وضع جزء من كتلة قابلة للقسمة؛ ويعيد الباقي أو null
   function splitInto(el) {
-    const toks = tokens(el), lh = parseFloat(getComputedStyle(el).lineHeight) || 20;
-    let lo = 1, hi = toks.length - 1, best = 0;
-    while (lo <= hi) {
-      const mid = (lo + hi) >> 1;
-      const f = fragment(el, toks.slice(0, mid), el.classList.contains('cont'));
-      body.appendChild(f); const a = attachNotes(f); const ok = fits(); detach(f, a);
-      if (ok) { best = mid; lo = mid + 1; } else hi = mid - 1;
-    }
-    // نقطع عند مسافة لا في وسط كلمة
-    while (best > 0 && !/^\s+$/.test(toks[best - 1]) && best < toks.length && !/^\s+$/.test(toks[best])) best -= 1;
+    const toks = tokens(el), lh = parseFloat(getComputedStyle(el).lineHeight) || 20, cont = el.classList.contains('cont');
+    // أطول جزء يتسع في الصفحة ولا يزيد ارتفاعه على cap، مقطوعًا عند مسافة لا في وسط كلمة
+    const search = (cap) => {
+      let lo = 1, hi = toks.length - 1, best = 0;
+      while (lo <= hi) {
+        const mid = (lo + hi) >> 1;
+        const f = fragment(el, toks.slice(0, mid), cont);
+        body.appendChild(f); const a = attachNotes(f); const ok = fits() && f.offsetHeight <= cap; detach(f, a);
+        if (ok) { best = mid; lo = mid + 1; } else hi = mid - 1;
+      }
+      while (best > 0 && !/^\s+$/.test(toks[best - 1]) && best < toks.length && !/^\s+$/.test(toks[best])) best -= 1;
+      return best;
+    };
+    const height = (t) => { const f = fragment(el, t, true); f.querySelectorAll('span.footnote').forEach((x) => x.remove()); body.appendChild(f); const h = f.offsetHeight; f.remove(); return h; };
+    let best = search(Infinity);
     if (best <= 0) return el;
-    const head = fragment(el, toks.slice(0, best), el.classList.contains('cont'));
+    // سطر وحيد في أول الصفحة التالية: ننقل معه سطرًا من هذه الصفحة
+    const tail = toks.slice(best); while (tail.length && /^\s+$/.test(tail[0])) tail.shift();
+    if (tail.length && height(tail) < lh * 1.9) {
+      const fewer = search(height(toks.slice(0, best)) - lh * 0.5);
+      if (fewer > 0) best = fewer;
+    }
+    const head = fragment(el, toks.slice(0, best), cont);
     head.classList.add('split');
     body.appendChild(head); attachNotes(head);
     if (head.offsetHeight < lh * 1.9) { detach(head, 0); return el; } // سطر يتيم: ننقل الكتلة كلها
