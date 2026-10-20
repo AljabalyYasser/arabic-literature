@@ -8,8 +8,13 @@ vocabulary:
     text: "«قصده» [@ukbari-lamiyya، ص95]."
   - term: "نُحَّلُ"
     text: "«ضوامر» [@ukbari-lamiyya، ص95]."
+  - term: "نَظَائِرُ"
+    text: "أمثاله من الذئاب، وهو «جمع نظيرة» [@ukbari-lamiyya، ص96]."
 sources:
   - source: "ukbari-lamiyya"
     loc: "ص95"
     url: "https://shamela.ws/book/6998/39"
+  - source: "ukbari-lamiyya"
+    loc: "ص96"
+    url: "https://shamela.ws/book/6998/40"
 status: "review"

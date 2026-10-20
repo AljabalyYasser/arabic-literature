@@ -3,9 +3,11 @@ first: "وَلَكِنَّ نَفْسًا مُرَّةً لَا تُقِيمُ �
 second: "عَلَى الذَّامِ إِلَّا رَيْثَمَا أَتَحَوَّلُ"
 vocabulary:
   - term: "مُرَّةً"
-    text: "أبيّة لا تلين على الضيم."
+    text: "أبيّة لا تلين على الضيم، و«مرّة صفة نفس بمعنى أبيّة» [@khizana، ج9 ص192]."
   - term: "رَيْثَمَا"
     text: "قدرَ ما، «وريث في الأصل مصدر راث أي: أبطأ استعمل هنا للظرف الزماني أي: إلا بمقدار تحوّلي» [@khizana، ج9 ص193]."
+  - term: "الذَّامِ"
+    text: "العيب، «الذام: العيب يهمز ولا يهمز» [@khizana، ج9 ص192]."
 sources:
   - source: "ukbari-lamiyya"
     loc: "ص90"
@@ -13,4 +15,7 @@ sources:
   - source: "khizana"
     loc: "ج9 ص193"
     url: "https://shamela.ws/book/12732/4312"
+  - source: "khizana"
+    loc: "ج9 ص192"
+    url: "https://shamela.ws/book/12732/4311"
 status: "review"

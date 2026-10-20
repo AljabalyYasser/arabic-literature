@@ -5,7 +5,7 @@ vocabulary:
   - term: "بِالشِّعْبِ"
     text: "بالطريق في الجبل."
   - term: "سَلْعٍ"
-    text: "جبل بالمدينة [@lisan، ج15 ص193]."
+    text: "جبل بالمدينة [@lisan، ج15 ص193]، ويذكر الأَسَد عن ياقوت أن سلعًا أيضًا «جبل في ديار هذيل» [@asad، ص460، الحاشية]."
   - term: "مَا يُطَلُّ"
     text: "لا يُهدر بلا ثأر [@lisan، ج11 ص405]."
 sources:
@@ -18,4 +18,7 @@ sources:
   - source: "lisan"
     loc: "ج11 ص405"
     url: "https://shamela.ws/book/1687/5583"
+  - source: "asad"
+    loc: "ص460"
+    url: "https://shamela.ws/book/2055/467"
 status: "review"

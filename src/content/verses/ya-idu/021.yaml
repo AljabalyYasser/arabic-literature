@@ -8,6 +8,8 @@ vocabulary:
     text: "نفائس المال، جمع عِلْق، «والعِلْق، بالكسر: النفيس من كل شيء» [@lisan، ج10 ص268]."
   - term: "يَقُولُ"
     text: "يقول العاذل؛ ويُروى «تقول»، على أن العذّالة امرأة [@tabrizi-ikhtiyarat، ج1 ص132]."
+  - term: "ثَوْبِ صِدْقٍ"
+    text: "الثوب الجيد، «ثوب صدق: ضد ثوب سوء» [@deif، ج1 ص379]."
 sources:
   - source: "mufaddaliyyat"
     loc: "ص30"
@@ -21,4 +23,7 @@ sources:
   - source: "tabrizi-ikhtiyarat"
     loc: "ج1 ص132"
     url: "https://archive.org/details/3820pdf/page/n148/mode/1up"
+  - source: "deif"
+    loc: "ج1 ص379"
+    url: "https://shamela.ws/book/11996/375"
 status: "review"

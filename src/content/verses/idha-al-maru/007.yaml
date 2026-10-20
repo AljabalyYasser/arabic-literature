@@ -10,6 +10,8 @@ vocabulary:
     text: "«العبل: الضخم» [@lisan، ج11 ص420]."
   - term: "مُخَصَّرُ"
     text: "دقيق الوسط."
+  - term: "الصَّفَا"
+    text: "الصخر، جمع صفاة، و«الصفاة الحجر الصلد الضخم الذي لا ينبت شيئا، وجمع الصفاة صفوات وصفا» [@lisan، ج14 ص464]."
 sources:
   - source: "tabrizi-hamasa"
     loc: "ج1 ص18"
@@ -17,4 +19,7 @@ sources:
   - source: "lisan"
     loc: "ج11 ص420"
     url: "https://shamela.ws/book/1687/5598"
+  - source: "lisan"
+    loc: "ج14 ص464"
+    url: "https://shamela.ws/book/1687/7588"
 status: "review"

@@ -6,8 +6,13 @@ vocabulary:
   text: 'قال ابن السِّكِّيت: «جسمُهُ هاهنا: طعامه، يقول: أقسّم ما أريد أن أطعمه في محاويج قومي ومن يلزمني حقه والضيفان» [@diwan-urwa، ص69].'
 - term: قَرَاحَ المَاءِ وَالمَاءُ بَارِدُ
   text: '«والماء القراح: الذي لا يخلطه لبن ولا غيره، وقوله: والماء بارد، أي: في الشتاء فذاك أشد» [@diwan-urwa، ص69].'
+- term: أَحْسُو
+  text: 'أشرب شيئًا بعد شيء، «حسا الماء: شربه شيئا بعد شئ» [@deif، ج1 ص384].'
 sources:
 - source: diwan-urwa
   loc: ص69
   url: https://archive.org/details/4091pdf/page/n74/mode/1up
+- source: deif
+  loc: ج1 ص384
+  url: https://shamela.ws/book/11996/380
 status: review
