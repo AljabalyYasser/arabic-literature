@@ -135,3 +135,9 @@
 | # | قبل → بعد | النوع |
 |---|---|---|
 | 1 | السياق: «ولم نجد هذا الشك في الشروح القديمة»، فيُقرأ أن قول ضيف بلا مستند → زيد مستنده: خبر أبي حاتم «وكان الأصمعي يزعم في القصيدة لأنس بن زنيم» وتصحيح أبي روق، واحتمال العبارة لقصيدة أخرى (كما في نص المعلقة)، وأضيف المصدر | 2 |
+
+## Lead's review of the book chapter
+
+| File | Problem | Fix |
+|---|---|---|
+| `chapters/zuhayr/al-muallaqa-1.mdx` (q&a and body) | «في أقدم الروايتين»: Abu ʿUbayda, who names Kharija, is as old as al-Asmaʿi and older than Yaʿqub. | The reason given is now that al-Asmaʿi's recension underlies the diwan, and Yaʿqub agrees. |

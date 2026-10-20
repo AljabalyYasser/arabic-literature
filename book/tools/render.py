@@ -70,6 +70,7 @@ SHORT.update({'شرح القصائد السبع الطوال': 'شرح القص�
               'أسرار البلاغة': 'أسرار البلاغة', 'الحيوان': 'الحيوان'})
 CITE = re.compile(r'([^،\.\[\]؛:«»()]{2,60})، (?:([^،\.\[\]؛:«»()]{2,60})، )?(?=[جص]\d)')
 STATE = {'last': {}, 'seen': set()}
+AMBIG = {'التبريزي', 'العسكري', 'الجاحظ', 'الجرجاني'}
 
 def cite_titles(note):
     def split_author(lead):
@@ -101,8 +102,10 @@ def cite_titles(note):
         if title:
             t = plain(title)
             STATE['last'][author] = FULL.get(t, t)
+        if author in AMBIG and author not in STATE['last']:
+            return m.group(0)  # مؤلف له أكثر من كتاب ولم يُسمَّ كتابه في الفصل بعد
         full = STATE['last'].get(author) or BOOKS[author][0]
-        short = BOOKS[author][1] if author in ('المرزوقي', 'التبريزي') else SHORT.get(full, full)
+        short = BOOKS[author][1] if author in ('المرزوقي', 'التبريزي') and full == 'شرح ديوان الحماسة' else SHORT.get(full, full)
         key = (author, full)
         if before.strip():  # الاسم في سياق كلام: «كما يفسرهما العسكري في جمهرة الأمثال»
             STATE['seen'].add(key)
