@@ -90,7 +90,8 @@ The owner tried a one-line meaning under each verse and rejected it. What he wan
 ## Units of meaning (owner approved, 2026-10-20; this replaces «Groups» and «Density»)
 
 Long groups put the explanation too far from its verses, so the owner rejected them. He approved units, the way the old
-commentators read a poem. The model is `book/src/_sample-units.txt` (Imruʾ al-Qays 1–30); read it before you start.
+commentators read a poem. The model is the Muʿallaqa in `book/src/imru-al-qais.txt` (verses 1–30 are the approved
+sample); read it before you start.
 - **Unit.** A unit is the 2–3 verses that carry one thought. A verse that stands alone, such as the opening, is a unit by
   itself. Up to four verses form one unit when a single sentence runs across them, as in al-Khansa's «فما عجول… بأوجد
   مني».
