@@ -23,7 +23,8 @@ python3 book/tools/render.py "العصر الجاهلي · أعلام التكو
 python3 book/tools/render.py --out qadaya "العصر الجاهلي · قضايا العصر" book/src/{al-sahra,ayyam-al-arab,al-muallaqat,al-nathr,al-intihal}.txt
 # the whole era in one file; each running head applies to the chapters after it
 python3 book/tools/render.py --out jahili "العصر الجاهلي · قضايا العصر" book/src/{al-sahra,ayyam-al-arab,al-muallaqat,al-nathr,al-intihal}.txt \
-  "العصر الجاهلي · أعلام التكوين" book/src/{imru-al-qais,tarafa,zuhayr,al-nabigha,al-asha,antara,labid,al-khansa}.txt
+  "العصر الجاهلي · أعلام التكوين" book/src/{imru-al-qais,tarafa,zuhayr,al-nabigha,al-asha,antara,labid,al-khansa}.txt \
+  "العصر الجاهلي · الأعلام المهمون" book/src/{aws-ibn-hajar,al-muhalhil,umayya,amr-ibn-kulthum,harith-ibn-hilliza,abid-ibn-al-abras,alqama,adi-ibn-zayd,bishr-ibn-abi-khazim,durayd-ibn-al-simma,al-shanfara,taabbata-sharran,urwa-ibn-al-ward,hatim}.txt
 node book/tools/build.mjs $PWD/book shots   # -> book/out/book.pdf
 ```
 
