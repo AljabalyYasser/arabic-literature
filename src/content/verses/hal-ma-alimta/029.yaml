@@ -4,6 +4,8 @@ second: "بَيْتٌ أَطَافَتْ بِهِ خَرْقَاءُ مَهْج�
 vocabulary:
   - term: "صَعْلٌ"
     text: "«الخفيف الرأس والعنق» [@tabrizi-ikhtiyarat، ج3 ص1615]."
+  - term: "جُؤْجُؤَهُ"
+    text: "صدره، وفي البيت 24 يقول التِّبْرِيزِيّ في جؤجؤ الظليم: «شبّه صدر الظليم، في نتوئه، بصدر البربط» [@tabrizi-ikhtiyarat، ج3 ص1613]."
   - term: "خَرْقاءُ"
     text: "امرأة «غير صَناع»؛ يقول: يرفع جناحيه في عدوه ويحطّهما، فكأنه بيت شعر أو صوف ترفعه هذه المرأة فيسقط [@tabrizi-ikhtiyarat، ج3 ص1615]."
   - term: "مَهْجُومُ"
@@ -12,6 +14,9 @@ sources:
   - source: "mufaddaliyyat"
     loc: "ص400"
     url: "https://shamela.ws/book/6904/374"
+  - source: "tabrizi-ikhtiyarat"
+    loc: "ج3 ص1613"
+    url: "https://archive.org/details/3820pdf/page/n1621/mode/1up"
   - source: "tabrizi-ikhtiyarat"
     loc: "ج3 ص1615"
     url: "https://archive.org/details/3820pdf/page/n1623/mode/1up"

@@ -7,7 +7,7 @@ vocabulary:
   - term: "مُهَرَاقَةٌ"
     text: "مصبوبة [@ibn-al-anbari، ص26]."
   - term: "رَسْمٍ دَارِسٍ"
-    text: "أثر قد امّحى."
+    text: "أثر قد امّحى؛ ودرس وعفا بمعنى، قال الأَصْمَعِيّ في «لم يعف رسمها»: «معناه لم يدرس» [@ibn-al-anbari، ص20]."
   - term: "مُعَوَّلِ"
     text: "فيه معنيان: موضع بكاء، من العويل وهو البكاء مع رفع الصوت؛ أو ما يُعتمد عليه ويُتّكل [@zawzani، ص38]."
 syntax:
@@ -39,6 +39,9 @@ variants:
     status: "رواية الأَعْلَم"
     note: "ومعنى سفحتها: صببتها [@ibn-al-anbari، ص25]. وهي رواية الأَعْلَم [@diwan-imru-al-qais، ص9]. وفيها في العجز «وَهَلْ» بالواو."
 sources:
+  - source: "ibn-al-anbari"
+    loc: "ص20"
+    url: "https://shamela.ws/book/124335/19"
   - source: "ibn-al-anbari"
     loc: "ص25–27"
     url: "https://shamela.ws/book/124335/24"
