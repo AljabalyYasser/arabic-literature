@@ -47,3 +47,5 @@ The Amiri fonts are copied from `node_modules/@fontsource/amiri`.
 - The site is reviewed through the book: while writing each chapter, the site pages it draws on get the clarity test.
   - Fixes are made in the site.
   - Each fix is logged in `research/audits/clarity-<id>.md`.
+- The bibliography at the end states each book's edition once. For example: «الأغاني: طبعة دار الكتب، إلا الجزأين الخامس
+  والسابع فمن طبعة دار الفكر». Footnotes then cite by author or short title, volume and page, with no edition.
