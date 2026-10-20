@@ -51,6 +51,18 @@ Repo: /home/user/arabic-literature. No git and no `npm run build`; the lead does
 Do not edit the site in this task, except where a verse file you copy from is plainly wrong; log any such fix in
 `research/audits/clarity-<poet>.md`.
 
+## Density (added after the first chapter came back at twice its size)
+
+The owner asked for the verses «دفعة», with explanation only where it is needed. So:
+- **Verses run.** Give verse after verse without a paragraph between them. A section of 5–15 verses gets at most one
+  short note of 1–3 lines, and only if it carries a real point: a meaning the reader would miss, a named critic's
+  rhetorical or grammatical point, or a fact of how the Arabs lived. Do not paraphrase verse by verse.
+- **«= المعنى» paragraphs.** Only the hinge verses that already had them, plus a verse whose sense is truly hard.
+- **Footnote glosses.** Gloss only words a cultivated reader would not know, one short gloss each. Put all the glosses
+  of a verse in one footnote, with one short source at the end. Do not cite Lisan word by word when a commentator
+  already glosses the word.
+- **Length.** Added verses should cost about one page per 12–14 verses. Report the pages before and after.
+
 ## Final reply (under 120 words)
 
 Verses added, verses left out with their numbers, page count before and after, anything unresolved.
