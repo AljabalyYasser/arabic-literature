@@ -5,7 +5,7 @@ vocabulary:
   - term: "بَغَى"
     text: "ظلم وجار. يقال: بغى الرجل على فلان، أي جار عليه [@marzuqi-hamasa، ص429]."
   - term: "مَرْتَعُهُ"
-    text: "موضع رعيه، حيث ترتع الدواب."
+    text: "موضع رعيه، حيث ترتع الدواب. وفي لسان العرب: «وَالْمَوْضِعُ مَرْتَعٌ» [@lisan، ج8 ص112]."
   - term: "وَخِيمُ"
     text: "ثقيل لا يُستمرأ. «والوخامة: الثقل يعرض من الطعام» [@marzuqi-hamasa، ص429]."
 syntax:
@@ -42,4 +42,7 @@ sources:
   - source: "atiq"
     loc: "ص54–55"
     url: "https://shamela.ws/book/11298/52"
+  - source: "lisan"
+    loc: "ج8 ص112"
+    url: "https://shamela.ws/book/1687/3960"
 status: "review"

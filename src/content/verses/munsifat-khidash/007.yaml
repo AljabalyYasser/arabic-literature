@@ -3,7 +3,7 @@ first: فَلَمْ أَرَ مِثْلَهُمْ هُزِمُوا وَفُلُ�
 second: وَلَا كَذِيَادِنَا عُنُقًا مَجُودَا
 vocabulary:
 - term: فُلُّوا
-  text: كُسروا وتفرّقوا.
+  text: "كُسروا وتفرّقوا. وفي لسان العرب: «وفَلَّ القومَ يفُلُّهم فَلًّا: هَزَمَهُمْ فانفَلُّوا وتَفَلَّلُوا» [@lisan، ج11 ص530]."
 - term: كَذِيَادِنَا
   text: كدفعنا وطردنا؛ «ذاده عن الشيء ذَوْدًا وذِيادًا» [@lisan، ج3 ص167].
 - term: عُنُقًا
@@ -29,4 +29,7 @@ sources:
 - source: aghani-dk
   loc: ج22 ص65
   url: https://archive.org/details/aghani2014/22/page/n67/mode/1up
+- source: lisan
+  loc: ج11 ص530
+  url: https://shamela.ws/book/1687/5708
 status: review
