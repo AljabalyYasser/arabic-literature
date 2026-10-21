@@ -25,7 +25,7 @@ def notes(text):
 
 def keys(c, single):
     # ما يُعرف به الكتاب في الحواشي، متبوعًا بفاصلة كما تُكتب الإحالة: عنوانه بلا ما بين القوسين، وعنوانه المختصر،
-    # واسم مؤلفه المختصر إن لم يكن له في البطاقات كتاب آخر
+    # واسم مؤلفه المختصر إن لم يكن له في البطاقات كتاب آخر، وإلا فاسمه مع أول كلمتين من العنوان
     t = plain(re.sub(r'\s*\(.*?\)', '', c.get('title', '')))
     ks = {t}
     if t.startswith('شرح ') or len(t.split()) > 3: ks.add(' '.join(t.split()[:3]))
@@ -33,6 +33,7 @@ def keys(c, single):
     if first not in ('شرح', 'ديوان', 'كتاب', 'شعر', 'معجم', 'تاريخ', 'جمهرة', 'الأدب'): ks.add(first)
     a = plain(c.get('short', '').split('،')[0])
     if single.get(a) == 1: ks.add(a)
+    else: ks.add(a + '، ' + ' '.join(t.split()[:2]))
     return {k + '،' for k in ks if len(k) > 3}
 
 def entry(c):
