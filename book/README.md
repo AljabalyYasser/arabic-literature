@@ -56,8 +56,9 @@ The Amiri fonts are copied from `node_modules/@fontsource/amiri`.
   - It has no satire and no praise. The exception is a beautiful opening or passage in a poem that is not a love
     poem, such as the love preludes of al-Buhturi's praise poems.
   - It includes the famous poems that have stories: Ibn Zurayq's poem, al-Yatima, Kuthayyir and ʿAzza, and others.
-  - From each era it takes chosen passages, for example from the Muʿallaqat and al-Khansa in the Jahili era, with
-    their explanation and the critics' remarks.
+  - From each era it takes chosen passages, for example from the Muʿallaqat and al-Khansa in the Jahili era.
+  - Verses that need it are explained, with the critics' remarks, as in the era books. Budget about 8 verses a page.
+  - Candidates are gathered era by era as we go: `malath/<era>.md` (brief: `brief-malath-candidates.md`).
   - It is at most about 300 pages, so that it does not tire the reader.
 - **The mujun book**, also after all the eras (see «Owner decisions»).
 

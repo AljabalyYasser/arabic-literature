@@ -29,6 +29,7 @@ One entry per passage. Each entry is a heading with the poet and the poem's firs
 - **why:** one line, for example the critics' remark the site gives on it, or the story behind it, or that it is a famous
   verse;
 - **where:** the book chapter and the site's text id;
+- **الشرح:** whether the site already explains the passage's hard verses, and where; «يحتاج شرحًا جديدًا» if not;
 - **a mark:** ★ for your strongest picks.
 
 Group the entries by poet, in the book's order: the formative poets, then the figures, then the faces.
@@ -36,7 +37,7 @@ Group the entries by poet, in the book's order: the formative poets, then the fi
 ## Size
 
 The anthology is about 300 pages for all eight eras. Mark with ★ about 35–40 pages' worth for the Jahili era, at
-about 12 verses a page with their notes. List more than that, up to about 70 pages, so the owner has a choice.
+about 8 verses a page, since the anthology explains the verses that need it. List more than that, up to about 70 pages, so the owner has a choice.
 
 At the top of the file:
 - one paragraph on how the list is built;
