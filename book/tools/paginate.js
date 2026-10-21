@@ -6,7 +6,7 @@
   const splittable = (el) => el.tagName === 'P' || el.classList.contains('meaning');
   const book = document.getElementById('book');
   const src = document.getElementById('src');
-  let page = null, body = null, notes = null, area = null, fn = 0, folio = 0, cur = { poet: '', era: '' };
+  let page = null, body = null, notes = null, area = null, fn = 0, folio = 0, cur = { poet: '', era: '' }, tocAfter = null;
 
   function newPage(kind) {
     folio += 1;
@@ -108,6 +108,7 @@
   function place(el) {
     if (el.tagName === 'H1') cur = { poet: el.dataset.poet, era: el.dataset.era };
     if (el.classList.contains('titlepage')) { newPage('title'); body.appendChild(el); return; }
+    if (el.classList.contains('tocmark')) { tocAfter = page; return; }
     if (!page) newPage();
     // الفصل يتصل بما قبله بعد فاصل مزخرف، فإن لم يتسع الفاصل بدأ الفصل صفحة جديدة
     if (el.tagName === 'H1' && body.children.length) {
@@ -140,6 +141,42 @@
     justifyPage(); newPage();
     carry.forEach((k) => { if (k.classList.contains('chapsep')) return; body.appendChild(k); attachNotes(k); });
     body.appendChild(el); attachNotes(el);
+  }
+
+  // المحتويات: صفحات بعد صفحة العنوان، فيها الأقسام وفصولها بأرقام صفحاتها، ثم يُعاد ترقيم الصفحات كلها
+  function contents() {
+    const parts = [];
+    book.querySelectorAll('h1.chapter').forEach((h) => {
+      const part = (h.dataset.era.split('·')[1] || h.dataset.era).trim();
+      if (!parts.length || parts[parts.length - 1].title !== part) parts.push({ title: part, items: [] });
+      parts[parts.length - 1].items.push({ h, title: h.dataset.poet });
+    });
+    const saved = cur; cur = { poet: 'المحتويات', era: saved.era.split('·')[0].trim() };
+    const before = book.children.length;
+    newPage();
+    const head = document.createElement('h1'); head.className = 'chapter';
+    head.innerHTML = '<span>المحتويات</span>'; body.appendChild(head);
+    const rows = [];
+    parts.forEach((p) => {
+      const t = document.createElement('div'); t.className = 'toc-part'; t.textContent = p.title;
+      if (!fits()) newPage(); body.appendChild(t);
+      if (!fits()) { t.remove(); newPage(); body.appendChild(t); }
+      p.items.forEach((it) => {
+        const r = document.createElement('div'); r.className = 'toc-row';
+        r.innerHTML = '<span class="t"></span><span class="dots"></span><span class="n"></span>';
+        r.querySelector('.t').textContent = it.title;
+        body.appendChild(r);
+        if (!fits()) { r.remove(); newPage(); body.appendChild(r); }
+        rows.push({ r, h: it.h });
+      });
+    });
+    cur = saved;
+    // ننقل صفحات المحتويات إلى ما بعد صفحة العنوان، ثم نرقّم الصفحات من جديد
+    const added = [...book.children].slice(before);
+    let ref = tocAfter.nextSibling;
+    added.forEach((p) => book.insertBefore(p, ref));
+    [...book.children].forEach((p, i) => { const f = p.querySelector('.folio'); if (f) f.textContent = AR(i + 1); });
+    rows.forEach(({ r, h }) => { r.querySelector('.n').textContent = h.closest('.page').querySelector('.folio').textContent; });
   }
 
   // يصغّر البيت الذي لا يتسع شطره لعموده
@@ -176,6 +213,7 @@
     fitVerses();
     fitColumns();
     [...src.children].forEach((el) => place(el));
+    if (tocAfter) contents();
     src.remove();
     window.__pages = book.children.length;
   });

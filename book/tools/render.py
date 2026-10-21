@@ -179,6 +179,7 @@ def main(chapters, out, title=True):  # chapters: [(path, running head)]
   <div class="tp-orn">❊ ❊ ❊</div>
   <div class="tp-by">إعداد وتلخيص<br><b>ياسر أحمد</b></div>
 </div>''')
+    if title: body.append('<div class="tocmark"></div>')  # يملؤه paginate.js بالمحتويات بعد الترقيم
     for c, era in chapters:
         body.append(chapter(c, era))
     tpl = (ROOT / 'template.html').read_text(encoding='utf-8')
