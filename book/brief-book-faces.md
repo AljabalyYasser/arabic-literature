@@ -35,7 +35,9 @@ Write `book/src/group-<group>.txt` in the book markup.
   - the face's story, told briefly with its reliability in prose;
   - one or two key passages, read as units of meaning;
   - a dispute, if there is one, with its sides, evidence, answers and where the evidence stands.
-- **An entry** is one paragraph that opens with the name in the prose. It holds who the face was, the one thing they
+- **An entry** is one paragraph written as `+ <name> | <the rest of the sentence>`. The name renders in bold and runs
+  into its paragraph, so a reader sees where each entry starts. For example:
+  `+ عَمْرو بن قَمِيئة | شاعر من قيس بن ثعلبة، صحب امرأ القيس إلى قيصر…`. Any verses follow as usual. It holds who the face was, the one thing they
   are remembered for, and at most one or two verses with a short explanation.
 
 ### Length

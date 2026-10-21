@@ -1,8 +1,14 @@
 explained: false
 first: "وَلَوْ أَنَّنَا كُنَّا رِجَالًا وَكُنْتُمُ"
 second: "نِسَاءً لَكُنَّا لَا نُقِرُّ بِذَا الفِعْلِ"
+vocabulary:
+  - term: "نُقِرُّ"
+    text: "نذعن ونرضى، من الإقرار، و«الإقرار: الإذعان للحق والاعتراف به» [@lisan، ج5 ص88]."
 sources:
   - source: "aghani-dk"
     loc: "ج11 ص166"
     url: "https://archive.org/details/Al-aghani_11/page/n165/mode/1up"
+  - source: "lisan"
+    loc: "ج5 ص88"
+    url: "https://shamela.ws/book/1687/2672"
 status: "review"

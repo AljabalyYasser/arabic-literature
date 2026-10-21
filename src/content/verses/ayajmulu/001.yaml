@@ -1,8 +1,14 @@
 explained: false
 first: "أَيَجْمُلُ مَا يُؤْتَى إِلَى فَتَيَاتِكُمْ"
 second: "وَأَنْتُمْ رِجَالٌ فِيكُمُ عَدَدُ النَّمْلِ"
+vocabulary:
+  - term: "يُؤْتَى إِلَى"
+    text: "يُساق إليهن ويُصنع بهن، يقال: «وأتى إليه الشيء: ساقه» [@lisan، ج14 ص15]."
 sources:
   - source: "aghani-dk"
     loc: "ج11 ص166"
     url: "https://archive.org/details/Al-aghani_11/page/n165/mode/1up"
+  - source: "lisan"
+    loc: "ج14 ص15"
+    url: "https://shamela.ws/book/1687/7139"
 status: "review"

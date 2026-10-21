@@ -9,6 +9,7 @@ Markup, one block per line:
   = text             meaning of the previous verse (with the «المعنى» label)
   ~ text             bridge line
   & title | rest     bibliography entry
+  + name | text      a face's entry: the name in bold, running into its paragraph
   other              paragraph
 Inline footnotes: ^[ ... ]
 """
@@ -165,6 +166,9 @@ def chapter(path, era):
                           f'<span class="h">{inline(second)}</span></div>')
         elif line.startswith('= '):
             blocks.append(f'<div class="meaning"><span class="lbl">المعنى:</span> {inline(line[2:])}</div>')
+        elif line.startswith('+ '):
+            name, rest = [x.strip() for x in line[2:].split('|', 1)]
+            blocks.append(f'<p class="entry"><b>{inline(name)}</b> {inline(rest)}</p>')
         elif line.startswith('& '):
             title, rest = [x.strip() for x in line[2:].split('|', 1)]
             blocks.append(f'<p class="bib"><b>{inline(title)}</b>: {inline(rest)}</p>')
