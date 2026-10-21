@@ -36,6 +36,12 @@ every source card cited in the footnotes, each with its edition once. Build it l
 
 The Amiri fonts are copied from `node_modules/@fontsource/amiri`.
 
+## Pending with the owner
+
+- **Series name.** The book is the first of a series. On 2026-10-21 four names were proposed: «حلقات الأدب العربي»,
+  «موكب الأدب العربي», «الأدب العربي عصرًا عصرًا» and «الشعر والأدب العربي». The owner will choose later.
+- **Introduction.** The second draft is `src/muqaddima.txt`. The owner has read it and will revise it with us.
+
 ## Owner decisions
 
 - Page and type:
