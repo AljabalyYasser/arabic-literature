@@ -8,6 +8,7 @@ Markup, one block per line:
   @ N | first | second [^[note]]   verse
   = text             meaning of the previous verse (with the «المعنى» label)
   ~ text             bridge line
+  & title | rest     bibliography entry
   other              paragraph
 Inline footnotes: ^[ ... ]
 """
@@ -59,6 +60,7 @@ BOOKS = {  # المؤلف كما يُكتب في الحاشية، بلا تشك�
     'المبرد': ('الكامل', 'الكامل'),
     'الطبري': ('تاريخ الرسل والملوك', 'تاريخ الطبري'),
     'سيبويه': ('الكتاب', 'الكتاب'),
+    'ابن خلكان': ('وفيات الأعيان', 'وفيات الأعيان'),
 }
 SHORT = {full: short for full, short in BOOKS.values()}
 ALIAS = {'ناصر الدين الأسد': 'الأسد', 'أبو الفرج الأصفهاني': 'أبو الفرج', 'عبد القاهر الجرجاني': 'الجرجاني',
@@ -163,6 +165,9 @@ def chapter(path, era):
                           f'<span class="h">{inline(second)}</span></div>')
         elif line.startswith('= '):
             blocks.append(f'<div class="meaning"><span class="lbl">المعنى:</span> {inline(line[2:])}</div>')
+        elif line.startswith('& '):
+            title, rest = [x.strip() for x in line[2:].split('|', 1)]
+            blocks.append(f'<p class="bib"><b>{inline(title)}</b>: {inline(rest)}</p>')
         elif line.startswith('~ '):
             blocks.append(f'<div class="bridge">{inline(line[2:])}</div>')
         else:

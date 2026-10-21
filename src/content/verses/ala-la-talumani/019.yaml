@@ -2,12 +2,17 @@ explained: false
 first: "كَأَنِّيَ لَمْ أَرْكَبْ جَوَادًا وَلَمْ أَقُلْ"
 second: "لِخَيْلِيَ كُرِّي نَفِّسِي عَنْ رِجَالِيَا"
 vocabulary:
+  - term: "كُرِّي"
+    text: "اعطفي على العدو، و«الكر: مصدر كر عليه يكر كرا وكرورا وتكرارا: عطف» [@lisan، ج5 ص135]."
   - term: "نَفِّسِي عَنْ رِجَالِيَا"
     text: "وسّعي عن رجالي المشاة، و«نفست عنه تنفيسا أي رفهت» [@lisan، ج6 ص237]."
 sources:
   - source: "mufaddaliyyat"
     loc: "ص158"
     url: "https://shamela.ws/book/6904/132"
+  - source: "lisan"
+    loc: "ج5 ص135"
+    url: "https://shamela.ws/book/1687/2719"
   - source: "lisan"
     loc: "ج6 ص237"
     url: "https://shamela.ws/book/1687/3249"

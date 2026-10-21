@@ -28,6 +28,10 @@ python3 book/tools/render.py --out jahili "العصر الجاهلي · قضاي
 node book/tools/build.mjs $PWD/book shots   # -> book/out/book.pdf
 ```
 
+Back matter: `python3 book/tools/thabt.py book/src/<every chapter>.txt` writes `src/thabt.txt`, the bibliography of
+every source card cited in the footnotes, each with its edition once. Build it last, under the head
+"العصر الجاهلي · ثبت المصادر". The table of contents is made by `paginate.js` after pagination.
+
 The Amiri fonts are copied from `node_modules/@fontsource/amiri`.
 
 ## Owner decisions
