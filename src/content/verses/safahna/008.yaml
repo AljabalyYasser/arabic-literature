@@ -3,11 +3,17 @@ first: وَبَعْضُ الْحِلْمِ عِنْدَ الْجَهْـ
 second: ـلِ لِلذِّلَّةِ إِذْعَانُ
 vocabulary:
 - term: الْجَهْلِ
-  text: السفه والطيش، وهو ضد الحلم.
+  text: "السفه، وهو ضد الحلم؛ «السفه والسفاه والسفاهة: خفة الحلم، وقيل: نقيض الحلم» [@lisan، ج13 ص497]."
 - term: إِذْعَانُ
-  text: انقياد وخضوع.
+  text: "انقياد، وفي حاشية محقق شرح الحماسة للتبريزي: «الإذعان الانقياد» [@tabrizi-hamasa، ج1 ص7، الحاشية]."
 sources:
 - source: tabrizi-hamasa
   loc: ج1 ص7
+  url: https://shamela.ws/book/6907/6
+- source: lisan
+  loc: ج13 ص497
+  url: https://shamela.ws/book/1687/7058
+- source: tabrizi-hamasa
+  loc: ج1 ص7، الحاشية
   url: https://shamela.ws/book/6907/6
 status: review

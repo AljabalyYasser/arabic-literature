@@ -3,11 +3,20 @@ first: مَا إِنْ رَأَيْتُ وَلَا سَمِعْتُ بِهِ
 second: كَالْيَوْمِ طَالِيَ أَيْنُقٍ جُرْبِ
 vocabulary:
 - term: طَالِيَ
-  text: الذي يطلي الإبل بالقطران.
+  text: "الذي يطلي الإبل بالقطران؛ يقال: هنأت البعير «إذا طليته بالهناء، وهو القطران» [@lisan، ج1 ص186]."
 - term: أَيْنُقٍ جُرْبِ
-  text: 'نوق مصابة بالجرب؛ والأينق: جمع ناقة.'
+  text: "نوق مصابة بالجرب؛ والأينق: جمع ناقة، و«الناقة: الأنثى من الإبل» [@lisan، ج10 ص362]، والجرب «بثر يعلو أبدان الناس والإبل» [@lisan، ج1 ص259]."
 sources:
 - source: qali
   loc: ج2 ص161
   url: https://shamela.ws/book/9160/445
+- source: lisan
+  loc: ج1 ص186
+  url: https://shamela.ws/book/1687/186
+- source: lisan
+  loc: ج10 ص362
+  url: https://shamela.ws/book/1687/5031
+- source: lisan
+  loc: ج1 ص259
+  url: https://shamela.ws/book/1687/259
 status: review

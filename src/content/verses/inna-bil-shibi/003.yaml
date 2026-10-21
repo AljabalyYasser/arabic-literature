@@ -3,11 +3,14 @@ first: "وَوَرَاءَ الثَّأْرِ مِنِّي ابْنُ أُخْت
 second: "مَصِعٌ عُقْدَتُهُ مَا تُحَلُّ"
 vocabulary:
   - term: "مَصِعٌ"
-    text: "شديد القتال."
+    text: "شديد القتال؛ وفي حاشية محقق شرح الحماسة للتبريزي: «المصع الشديد المقاتلة الثابت» [@tabrizi-hamasa، ج1 ص342، الحاشية]."
   - term: "عُقْدَتُهُ مَا تُحَلُّ"
-    text: "عزيمته لا تنتقض."
+    text: "عزيمته لا تنتقض؛ وفي الحاشية نفسها: «قوي العزيمة لا تنتقض عزيمته» [@tabrizi-hamasa، ج1 ص342، الحاشية]."
 sources:
   - source: "tabrizi-hamasa"
     loc: "ج1 ص342"
+    url: "https://shamela.ws/book/6907/325"
+  - source: "tabrizi-hamasa"
+    loc: "ج1 ص342، الحاشية"
     url: "https://shamela.ws/book/6907/325"
 status: "review"

@@ -3,9 +3,12 @@ first: وَشَيَّبَ رَأْسِي قَبْلَ حِينِ مَشِيبِ�
 second: بُكَاؤُكِ عَبْدَ اللَّهِ وَالْقَلْبُ طَائِرُ
 vocabulary:
 - term: الْقَلْبُ طَائِرُ
-  text: مضطرب من الفزع والحزن.
+  text: "مضطرب من الفزع والحزن؛ وفي لسان العرب: «استطارة القلب من جزع أو حزن» [@lisan، ج9 ص141]."
 sources:
 - source: ibn-qutayba
   loc: ج2 ص740
   url: https://shamela.ws/book/23785/731
+- source: lisan
+  loc: ج9 ص141
+  url: https://shamela.ws/book/1687/4448
 status: review

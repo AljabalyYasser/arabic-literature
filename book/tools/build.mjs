@@ -9,7 +9,8 @@ const D = process.argv[2], NAME = (process.argv[3] && process.argv[3] !== 'shots
 const b = await chromium.launch({ executablePath: '/opt/pw-browsers/chromium' });
 const p = await b.newPage({ viewport: { width: 700, height: 1000 }, deviceScaleFactor: 1.5 });
 p.on('pageerror', (e) => console.log('ERR', e.message));
-await p.goto('file://' + D + '/out/' + NAME + '.html');
+// the whole book paginates for longer than the default 30 s before the load event
+await p.goto('file://' + D + '/out/' + NAME + '.html', { timeout: 300000 });
 await p.waitForFunction(() => window.__pages > 0, null, { timeout: 120000 });
 const bad = await p.evaluate(() => [...document.querySelectorAll('.page')].map((pg, i) => { const a = pg.querySelector('.area'), b = pg.querySelector('.body'), n = pg.querySelector('.notes'); const used = b.offsetHeight + (n.querySelector('li') ? n.offsetHeight : 0); return [i + 1, Math.round(a.clientHeight - used)]; }));
 console.log('free px per page', JSON.stringify(bad));

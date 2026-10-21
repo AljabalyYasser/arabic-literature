@@ -66,6 +66,10 @@ Each reader logs here, under its part, what needs the owner's decision. Clear er
    between two options:
    - define each device once, at its first use, and only name it after that;
    - keep every verse's point complete on its own, so that a chapter can be read alone.
+
+   **Done (2026-10-21):** the full definitions stay in «أيام العرب». Zuhayr, al-Nabigha («كليني لهمّ») and awail name the
+   kināya with ʿAbd al-Qahir's name and apply it in our words; al-Nabigha's doves refer back to Zuhayr's mill for tamthīl;
+   al-Khansa keeps only ʿAbd al-Qahir's words on «طويل النجاد» and refers back to Ibn Rashiq in a few words.
 3. **Two verse glosses have no source.** In both places the site's text gives no source either:
    - al-Nabigha, «أتاني أبيت اللعن», verse 7: «اصطنعتهم: أحسنت إليهم».
    - al-Aʿsha, «بانت سعاد», verse 2: «نكرت: أنكرت. والصلع: ذهاب شعر مقدّم الرأس».
@@ -74,6 +78,9 @@ Each reader logs here, under its part, what needs the owner's decision. Clear er
    without a source, or whether a source must be found (most likely the Lisan) and added to both the site and the book.
    Two other glosses in al-Aʿsha («ما بكاء الكبير», verses 2 and 37) also had no source in the book, but the site's
    verse files cite the Lisan for them, so I added those sources.
+
+   **Done (2026-10-21):** al-Nabigha v7 cites al-Aʿlam (ديوان النابغة ص73); al-Aʿsha v2 cites the Lisan (ج5 ص233، ج8
+   ص204), since the diwan's editor glosses only the sense. Both added on the site and logged.
 
 ## Part 3: the fourteen figures
 
@@ -102,15 +109,25 @@ Each reader logs here, under its part, what needs the owner's decision. Clear er
    - keep and label as our reading;
    - keep as the weighing of the evidence;
    - cut.
+
+   **Done (2026-10-21):** each of the five is now an inference that names its evidence in the same sentence: the proverb
+   dialogue and al-Maydani's other origin (ʿAbid); the one sentence that survives three differing versions (Bishr); the
+   suitors changing while the poem stays («أماويّ»); the riders' names changing (Hatim's boyhood); the pebble and the
+   girded mother that the Khizana story shares with the Lamiyya, now quoted with its source (Taʾabbata Sharran). No «قراءتنا».
 3. **Glosses with no source** (Part 2, item 3, is the same question). Twelve verse footnotes in Part 3 give plain
    glosses with no source, and the site's verse files give none either:
    - al-Muhalhil: «نبئت أن النار» v1, «يا لبكر» v1;
    - Durayd: «ثكلت دريدا» v2, «يا راكبا» v3, «حيوا تماضر» v2, «أبى القتل» v1 and v8;
    - al-Shanfara: the تائية v6, «لا تقبروني» v2;
    - Taʾabbata Sharran: «إذا المرء لم يحتل» v1, the الغول poem v6, «إن بالشعب» v3.
+
+   **Done (2026-10-21):** all twelve carry a source now (the Tabrizi editor's notes, al-Qali, al-Jahiz or the Lisan), with
+   the source's wording where it differs, also in the site's verse files. Logged in each clarity log.
 4. **الإقواء defined three times** (Part 2, item 2, is the same question). The one-clause definition «أن تختلف حركة
    الرويّ» appears in al-Nabigha, al-Harith ibn Hilliza (v37) and Bishr (vv33–34). It goes the way the owner decides for
    Part 2, item 2.
+
+   **Left as is (2026-10-21):** a one-clause definition, not a quoted one.
 
 ## Part 4: the faces and the bibliography
 
@@ -151,6 +168,8 @@ Each reader logs here, under its part, what needs the owner's decision. Clear er
 4. **Verse numbers clash between two chapters for Sakhr's «أرى أم صخر».** al-Khansa (Part 2) numbers «أهمّ بأمر الحزم» as
    verse 3. asra numbers «فأيّ امرئ ساوى بأمّ حليلة» as verse 3, following al-Asmaʿi and the site's verse files, where
    «أهمّ» is verse 4. One of the two should change. I left both as they are, because the al-Khansa chapter belongs to Part 2.
+
+   **Done (2026-10-21):** al-Khansa now numbers «أهمّ بأمر الحزم» verse 4, as al-Asmaʿi and the site do; no prose cites it.
 5. **Glosses with no source** (Part 2, item 3, is the same question). Nineteen verse footnotes in Part 4 give plain
    glosses with no source, and the site's verse files give none either:
    - hukama: Qus v1, al-Adbat v4, Zabban v3;
@@ -161,12 +180,22 @@ Each reader logs here, under its part, what needs the owner's decision. Clear er
    - karam: al-Samawʾal v1.
 
    I added a source only where the site's verse file has one: Ibn Qutayba, for «العاقر» in ʿAmir ibn al-Tufayl's v8.
+
+   **Done (2026-10-21):** all nineteen carry a source now (mostly the Lisan; the Tabrizi editor, al-Jahiz and the Aghani
+   where they have it), with the source's wording, also on the site (vocabulary, or `meaning` for the three mahfuzat
+   entries, which have no vocabulary field). Logged in each clarity log.
 6. **ʿAbd al-Qahir's kināya phrase** (Part 2, item 2). awail uses it once more, in a short form, for ʿUfayra's
    «تمشي في الدماء»: «تاليه وردفه في الوجود». It goes the way the owner decides for item 2.
+
+   **Done (2026-10-21):** now «كناية عند عبد القاهر», applied in our words, without the quote.
 7. **Two Abu ʿAmrs in hukama** (ذو الإصبع). The report on the end of ʿAdwan and the waṣiyya are «عن أبي عمرو». The
    next sentence names «أبي عمرو بن العلاء» in full. A reader will take the first to be Ibn al-ʿAlaʾ too, but he may be
    Abu ʿAmr al-Shaybani. The Aghani text (vol. 3, p. 103) does not say which in the OCR I could read, and the site's
    page leaves it open. I left it as it is.
+
+   **Done (2026-10-21):** the page images give the chain «عمرو بن أبي عمرو الشيباني عن أبيه» (p. 96), then «قال أبو عمرو»
+   on pp. 98–104, while Ibn al-ʿAlaʾ is always named in full. hukama now says «أبو عمرو الشَّيْبانيّ» in both places; so
+   do the site's dhu-al-isba, tafani-adwan (its «وهذه قراءتنا» guess replaced by the evidence) and liya-bnu-ammin.
 
 ## Lead's decisions on the logged points
 
