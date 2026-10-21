@@ -18,6 +18,8 @@ The printed abridgement of each era. The site stays the reference; the book is a
 
 ## Build
 
+The whole book: `book/tools/build-all.sh [shots]` → `book/out/jahili.pdf` (it also regenerates the bibliography).
+
 ```
 python3 book/tools/render.py "العصر الجاهلي · أعلام التكوين" book/src/tarafa.txt
 python3 book/tools/render.py --out qadaya "العصر الجاهلي · قضايا العصر" book/src/{al-sahra,ayyam-al-arab,al-muallaqat,al-nathr,al-intihal}.txt

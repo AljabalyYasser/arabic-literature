@@ -158,9 +158,12 @@
     head.innerHTML = '<span>المحتويات</span>'; body.appendChild(head);
     const rows = [];
     parts.forEach((p) => {
-      const t = document.createElement('div'); t.className = 'toc-part'; t.textContent = p.title;
-      if (!fits()) newPage(); body.appendChild(t);
-      if (!fits()) { t.remove(); newPage(); body.appendChild(t); }
+      // قسم من فصل واحد يحمل اسمه (كالمقدمة وثبت المصادر) يُذكر سطرًا واحدًا بلا عنوان قسم
+      if (!(p.items.length === 1 && p.items[0].title === p.title)) {
+        const t = document.createElement('div'); t.className = 'toc-part'; t.textContent = p.title;
+        body.appendChild(t);
+        if (!fits()) { t.remove(); newPage(); body.appendChild(t); }
+      }
       p.items.forEach((it) => {
         const r = document.createElement('div'); r.className = 'toc-row';
         r.innerHTML = '<span class="t"></span><span class="dots"></span><span class="n"></span>';
