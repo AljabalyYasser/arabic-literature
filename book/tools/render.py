@@ -172,6 +172,8 @@ def chapter(path, era):
         elif line.startswith('& '):
             title, rest = [x.strip() for x in line[2:].split('|', 1)]
             blocks.append(f'<p class="bib"><b>{inline(title)}</b>: {inline(rest)}</p>')
+        elif line == '!sign':  # توقيع المعدّ وختمه الشمعي، يسار الصفحة في آخر المقدمة (book/tools/gen-seal.mjs)
+            blocks.append('<div class="sign"><img src="signature.png" alt="ياسر أحمد"></div>')
         elif line.startswith('~ '):
             blocks.append(f'<div class="bridge">{inline(line[2:])}</div>')
         else:

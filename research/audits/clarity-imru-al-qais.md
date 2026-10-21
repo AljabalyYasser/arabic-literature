@@ -137,3 +137,7 @@
 | الملف | اللفظ | ما زيد | النوع |
 |---|---|---|---|
 | `verses/arana-mudiin/009.yaml` | «الْإِيَابِ» | كان الشرح «الرجوع» بلا مصدر؛ زيد قول شَمِر في اللسان: «كل شيء رجع إلى مكانه فقد آب يؤوب إيابا إذا رجع» (ج1 ص218، تحقق)، وزيد اللسان في مصادر البيت | source added |
+
+## Introduction of the book (2026-10-21)
+
+- `verses/laman-al-diyar/004.yaml`: the gloss of «عوجا» had no source. It now cites the Lisan, ج2 ص333: «عاج عليه أي انعطف».

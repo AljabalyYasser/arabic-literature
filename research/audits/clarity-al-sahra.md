@@ -62,3 +62,8 @@
 | `verses/amartuhum-amri/021.yaml` | «الخَيْلَ» | لفظ جديد: «دافعت الخيل - يعني الفرسان - عنه» (المرزوقي ص817) | gloss added |
 
 `vcheck.py text amartuhum-amri`: OK. `fmcheck.py`: bad 0.
+
+## Title (owner, 2026-10-21)
+
+The chapter said nothing about the desert, so the owner renamed it «القبيلة والسوق». The new title is set in
+`chapters/1/al-sahra.mdx`, `parts/1.yaml`, the five pages that refer to it, the book and the docs.
