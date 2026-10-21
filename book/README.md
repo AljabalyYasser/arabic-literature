@@ -40,7 +40,26 @@ The Amiri fonts are copied from `node_modules/@fontsource/amiri`.
 
 - **Series name.** The book is the first of a series. On 2026-10-21 four names were proposed: «حلقات الأدب العربي»,
   «موكب الأدب العربي», «الأدب العربي عصرًا عصرًا» and «الشعر والأدب العربي». The owner will choose later.
-- **Introduction.** The second draft is `src/muqaddima.txt`. The owner has read it and will revise it with us.
+- **Introduction.** Revised with the owner on 2026-10-21. It ends with his name and a wax seal
+  (`tools/gen-seal.mjs` → `assets/signature.png`). He has three seals to choose from: Kufi, Nastaʿliq (in the book
+  for now) and Ruqʿa.
+
+## Later books (owner, 2026-10-21)
+
+- **«ملاذ القصيد»**, made at the end of the project after all the eras. It is an anthology, dedicated to Malath with
+  the owner's verses:
+
+  > تعالَيْ غيمةً ولها رذاذُ ... فأنتِ لكلّ أحلامي مَلاذُ
+  > كأنكِ والليالي طُلنَ شوقًا ... سماواتٌ بها السُّهّادُ لاذوا
+
+  - It holds love poems, poems of parting and elegies.
+  - It has no satire and no praise. The exception is a beautiful opening or passage in a poem that is not a love
+    poem, such as the love preludes of al-Buhturi's praise poems.
+  - It includes the famous poems that have stories: Ibn Zurayq's poem, al-Yatima, Kuthayyir and ʿAzza, and others.
+  - From each era it takes chosen passages, for example from the Muʿallaqat and al-Khansa in the Jahili era, with
+    their explanation and the critics' remarks.
+  - It is at most about 300 pages, so that it does not tire the reader.
+- **The mujun book**, also after all the eras (see «Owner decisions»).
 
 ## Owner decisions
 
