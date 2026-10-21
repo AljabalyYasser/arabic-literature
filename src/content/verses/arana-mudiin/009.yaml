@@ -7,7 +7,7 @@ vocabulary:
   - term: "الْآفَاقِ"
     text: "جمع أُفُق، وهو الناحية من الأرض."
   - term: "الْإِيَابِ"
-    text: "الرجوع."
+    text: "الرجوع؛ قال شَمِر: «كل شيء رجع إلى مكانه فقد آب يؤوب إيابا إذا رجع» [@lisan، ج1 ص218]."
 syntax:
   - "«قد» حرف تحقيق، و«طَوَّفْتُ» فعل وفاعل، و«فِي الْآفَاقِ» متعلق به."
   - "«حَتَّى» حرف ابتداء يفيد الغاية، والجملة بعدها «رضيت...» استئنافية لا محل لها."
@@ -36,6 +36,9 @@ sources:
   - source: "diwan-imru-al-qais"
     loc: "ص99"
     url: "https://archive.org/details/3426pdf_202001/page/n127/mode/1up"
+  - source: "lisan"
+    loc: "ج1 ص218"
+    url: "https://shamela.ws/book/1687/218"
   - source: "deif"
     loc: "ج1 ص258–260"
     url: "https://shamela.ws/book/11996/254"
