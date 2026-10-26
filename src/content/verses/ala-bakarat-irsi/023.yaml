@@ -1,0 +1,15 @@
+explained: false
+first: "كَأَنَّ نَسَاهُ شِرْعَةٌ وَكَأَنَّهُ"
+second: "إِذَا مَا تَمَطَّى وِجْهَةَ الرِّيحِ مِحْمَلُ"
+vocabulary:
+- term: "نَسَاهُ"
+  text: "«عِرق في الساق ينحدر من الوَرِك» [@diwan-kaab، ص50]."
+- term: "شِرْعَةٌ"
+  text: "«وَتَر. شبّه نساه بالوتر لظهوره وهزاله» [@diwan-kaab، ص50]."
+- term: "مِحْمَلُ"
+  text: "«هو دقيق لطيف كمِحمل السيف» [@diwan-kaab، ص50]."
+sources:
+- source: "diwan-kaab"
+  loc: "ص50"
+  url: "https://archive.org/details/hmmt00206/page/n81/mode/1up"
+status: "review"

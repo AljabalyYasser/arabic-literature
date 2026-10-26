@@ -1,0 +1,23 @@
+explained: false
+first: "وَيَحْدُو يَدَيْهَا زَجُولَا الْحَصَى"
+second: "أَمَرَّهُمَا الْعَصْبُ ثُمَّ اسْتَمَالَا"
+vocabulary:
+  - term: "زَجُولَا الْحَصَى"
+    text: "رجلاها، «أراد رجليها تزجُلان الحصى تقذفانه» [@diwan-hutayah، ص219]."
+  - term: "أَمَرَّهُمَا"
+    text: "«فتلهما» [@diwan-hutayah، ص218]."
+  - term: "الْعَصْبُ"
+    text: "«شدة الفتل بالرفق» [@diwan-hutayah، ص219]."
+  - term: "اسْتَمَالَا"
+    text: "«أى استعطفهما فى السير» [@diwan-hutayah، ص219]."
+sources:
+  - source: "diwan-hutayah"
+    loc: "ص216"
+    url: "https://archive.org/details/Diwan_Hutai3a/page/n215/mode/1up"
+  - source: "diwan-hutayah"
+    loc: "ص218"
+    url: "https://archive.org/details/Diwan_Hutai3a/page/n217/mode/1up"
+  - source: "diwan-hutayah"
+    loc: "ص219"
+    url: "https://archive.org/details/Diwan_Hutai3a/page/n218/mode/1up"
+status: "review"

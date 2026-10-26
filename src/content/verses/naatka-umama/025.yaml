@@ -1,0 +1,14 @@
+explained: false
+first: "أَتَتْنِي لِسَانٌ فَكَذَّبْتُهَا"
+second: "وَمَا كُنْتُ أَحْذَرُهَا أَنْ تُقَالَا"
+vocabulary:
+  - term: "لِسَانٌ"
+    text: "«اللسان: الكلمة والرسالة» [@diwan-hutayah، ص221]."
+sources:
+  - source: "diwan-hutayah"
+    loc: "ص220"
+    url: "https://archive.org/details/Diwan_Hutai3a/page/n219/mode/1up"
+  - source: "diwan-hutayah"
+    loc: "ص221"
+    url: "https://archive.org/details/Diwan_Hutai3a/page/n220/mode/1up"
+status: "review"

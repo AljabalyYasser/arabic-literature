@@ -1,0 +1,20 @@
+explained: false
+first: "فَلَقَدْ يَرَانِي مُوعِدِيَّ كَأَنَّنِي"
+second: "فِي قَصْرِ دُومَةَ أَوْ سَوَاءِ الْهَيْكَلِ"
+vocabulary:
+  - term: "الْهَيْكَلِ"
+    text: "«الهَيْكَلُ: الْبِنَاءُ المُشرف» [@lisan، ج11 ص701]، وسواؤه: وسطه."
+sources:
+  - source: "diwan-hassan"
+    loc: "ص75"
+    url: "https://archive.org/details/AAlexandrina-149414/page/n85/mode/1up"
+    note: "القصيدة 13 في الديوان."
+  - source: "lisan"
+    loc: "ج11 ص617"
+    url: "https://shamela.ws/book/1687/5795"
+    note: "البيت."
+  - source: "lisan"
+    loc: "ج11 ص701"
+    url: "https://shamela.ws/book/1687/5878"
+    note: "الهيكل."
+status: "review"

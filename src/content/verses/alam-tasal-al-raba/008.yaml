@@ -1,0 +1,22 @@
+explained: false
+first: "تَحِنُّ مَطَافِيلُ الرِّبَاعِ خِلَالَهُ"
+second: "إِذَا اسْتَنَّ فِي حَافَاتِهِ الْبَرْقُ أَثْجَمَا"
+vocabulary:
+  - term: "مَطَافِيلُ"
+    text: "ذوات الأطفال: «أَطْفَلَتْ، فَهِيَ مُطْفِلٌ» [@lisan، ج11 ص402]."
+  - term: "أَثْجَمَا"
+    text: "«وأَثْجَمت السماءُ: دَامَ مطرُها» [@lisan، ج12 ص76]."
+sources:
+  - source: "diwan-hassan"
+    loc: "ص34"
+    url: "https://archive.org/details/AAlexandrina-149414/page/n44/mode/1up"
+    note: "القصيدة 4 في الديوان."
+  - source: "lisan"
+    loc: "ج11 ص402"
+    url: "https://shamela.ws/book/1687/5580"
+    note: "المطفل."
+  - source: "lisan"
+    loc: "ج12 ص76"
+    url: "https://shamela.ws/book/1687/5992"
+    note: "أثجم."
+status: "review"

@@ -1,0 +1,16 @@
+explained: false
+first: "وَلَا تَعْتَذِرْ بِالْعُدْمِ عَلَّ الَّذِي طَرَا"
+second: "يَظُنُّ لَنَا مَالًا فَيُوسِعَنَا ذَمَّا"
+vocabulary:
+  - term: "بِالْعُدْمِ"
+    text: "في شرح المحقق: «الفقر» [@diwan-hutayah، ص398]."
+  - term: "طَرَا"
+    text: "«أصلها طرأ، أى الذى نزل بنا» [@diwan-hutayah، ص398]."
+sources:
+  - source: "diwan-hutayah"
+    loc: "ص397"
+    url: "https://archive.org/details/Diwan_Hutai3a/page/n396/mode/1up"
+  - source: "diwan-hutayah"
+    loc: "ص398"
+    url: "https://archive.org/details/Diwan_Hutai3a/page/n397/mode/1up"
+status: "review"

@@ -1,0 +1,15 @@
+explained: false
+first: "وَجَحْلٌ سَلِيمٌ قَدْ كَشَفْنَا جِلَالَهُ"
+second: "وَآخَرُ فِي أَنْضَاءِ مِسْحٍ مُسَرْبَلُ"
+vocabulary:
+- term: "جَحْلٌ"
+  text: "«الزِّق» [@diwan-kaab، ص45]، أي قربة الخمر."
+- term: "جِلَالَهُ"
+  text: "«جمع جُلّ وهو الغطاء» كما يقول المحققون [@diwan-kaab، ص45]."
+- term: "أَنْضَاءِ مِسْحٍ"
+  text: "«أنضاؤه: خُلقانه» [@diwan-kaab، ص45]، و«المِسْح: كساء من شعر» [@diwan-kaab، ص45]."
+sources:
+- source: "diwan-kaab"
+  loc: "ص45"
+  url: "https://archive.org/details/hmmt00206/page/n76/mode/1up"
+status: "review"

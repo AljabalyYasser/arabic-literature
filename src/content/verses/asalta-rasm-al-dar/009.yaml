@@ -1,0 +1,16 @@
+explained: false
+first: "الضَّارِبُونَ الْكَبْشَ يَبْرُقُ بَيْضُهُ"
+second: "ضَرْبًا يُطِيحُ لَهُ بَنَانُ الْمَفْصِلِ"
+vocabulary:
+  - term: "الْكَبْشَ"
+    text: "«وكَبْشُ الكتيبةِ: قائدُها» [@lisan، ج6 ص338]."
+sources:
+  - source: "diwan-hassan"
+    loc: "ص74"
+    url: "https://archive.org/details/AAlexandrina-149414/page/n84/mode/1up"
+    note: "القصيدة 13 في الديوان."
+  - source: "lisan"
+    loc: "ج6 ص338"
+    url: "https://shamela.ws/book/1687/3350"
+    note: "الكبش."
+status: "review"

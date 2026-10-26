@@ -1,0 +1,20 @@
+explained: false
+first: "وَصَرْمَاءَ مِذْكَارٍ كَأَنَّ دَوِيَّهَا"
+second: "بُعَيْدَ جَنَانِ اللَّيْلِ مِمَّا يُخَيَّلُ"
+vocabulary:
+- term: "صَرْمَاءَ"
+  text: "«الأرض التي لا نبت فيها ولا ماء» [@diwan-kaab، ص45]."
+- term: "مِذْكَارٍ"
+  text: "«المخوفة التي لا يسلكها إلا الذكر من الرجال» [@diwan-kaab، ص45]."
+- term: "جَنَانِ اللَّيْلِ"
+  text: "«ظلمته وما وارك» [@diwan-kaab، ص45]."
+- term: "دَوِيَّهَا"
+  text: "الصوت، «وإنما يريد عزيف الجن بها وتخيّلهم» [@diwan-kaab، ص46]."
+sources:
+- source: "diwan-kaab"
+  loc: "ص45"
+  url: "https://archive.org/details/hmmt00206/page/n76/mode/1up"
+- source: "diwan-kaab"
+  loc: "ص46"
+  url: "https://archive.org/details/hmmt00206/page/n77/mode/1up"
+status: "review"

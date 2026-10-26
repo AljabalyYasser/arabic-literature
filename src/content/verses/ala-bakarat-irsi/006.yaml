@@ -1,0 +1,18 @@
+explained: false
+first: "يُنَازِعُنِيهَا لَيِّنٌ غَيْرُ فَاحِشٍ"
+second: "مُبَادِرُ غَايَاتِ التِّجَارِ مُعَذَّلُ"
+vocabulary:
+- term: "يُنَازِعُنِيهَا"
+  text: "«والمنازعة: المعاطاة» [@diwan-kaab، ص43]، أي يناولني الكأس وأناوله."
+- term: "غَايَاتِ التِّجَارِ"
+  text: "«الغايات: الرايات. قال الأصمعي: كان أصحاب الخمر إذا نزلوا ضربوا راية ليُعرفوا بها» [@diwan-kaab، ص43]، والتِّجار: الخمّارون."
+- term: "مُعَذَّلُ"
+  text: "«الملوّم» [@diwan-kaab، ص43]."
+sources:
+- source: "diwan-kaab"
+  loc: "ص43"
+  url: "https://archive.org/details/hmmt00206/page/n74/mode/1up"
+- source: "diwan-kaab"
+  loc: "ص44"
+  url: "https://archive.org/details/hmmt00206/page/n75/mode/1up"
+status: "review"

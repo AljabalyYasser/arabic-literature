@@ -1,0 +1,16 @@
+explained: false
+first: "صَرَى قَوْلَ مَنْ كَانَ ذَا مِئْرَةٍ"
+second: "وَمَنْ كَانَ يَأْمُلُ فِيَّ الضَّلَالَا"
+vocabulary:
+  - term: "صَرَى"
+    text: "«قطع» [@diwan-hutayah، ص221]."
+  - term: "ذَا مِئْرَةٍ"
+    text: "«ذا عداوة» [@diwan-hutayah، ص221]."
+sources:
+  - source: "diwan-hutayah"
+    loc: "ص220"
+    url: "https://archive.org/details/Diwan_Hutai3a/page/n219/mode/1up"
+  - source: "diwan-hutayah"
+    loc: "ص221"
+    url: "https://archive.org/details/Diwan_Hutai3a/page/n220/mode/1up"
+status: "review"

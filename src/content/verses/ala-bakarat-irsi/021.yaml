@@ -1,0 +1,17 @@
+explained: false
+first: "بَصِيرٌ بِأَدْغَالِ الضَّرَاءِ إِذَا خَدَا"
+second: "يَعِيلُ وَيَخْفَى بِالْجَهَادِ وَيَمْثُلُ"
+vocabulary:
+- term: "أَدْغَالِ الضَّرَاءِ"
+  text: "«الدَّغَل: ما واراك من الشجر من الأرض. والضَّراء: ما واراك من شجر أو غيره» [@diwan-kaab، ص49]."
+- term: "يَعِيلُ"
+  text: "«يميل في ناحيته» [@diwan-kaab، ص49]."
+- term: "يَمْثُلُ"
+  text: "«يظهر وينتصب» [@diwan-kaab، ص49]."
+- term: "الْجَهَادِ"
+  text: "«الصُّلْب» [@diwan-kaab، ص49]، أي الأرض الصلبة."
+sources:
+- source: "diwan-kaab"
+  loc: "ص49"
+  url: "https://archive.org/details/hmmt00206/page/n80/mode/1up"
+status: "review"

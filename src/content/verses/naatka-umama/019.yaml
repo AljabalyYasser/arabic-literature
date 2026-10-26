@@ -1,0 +1,18 @@
+explained: false
+first: "بِمِثْلِ الْحَنِيِّ بَرَاهَا الْكَلَالُ"
+second: "يَنْزِعْنَ آلًا وَيَرْكُضْنَ آلَا"
+vocabulary:
+  - term: "الْحَنِيِّ"
+    text: "«القسىّ» [@diwan-hutayah، ص221]."
+  - term: "يَنْزِعْنَ"
+    text: "«يكففن» [@diwan-hutayah، ص221]."
+  - term: "آلًا"
+    text: "«والآل: السراب» [@diwan-hutayah، ص221]."
+sources:
+  - source: "diwan-hutayah"
+    loc: "ص220"
+    url: "https://archive.org/details/Diwan_Hutai3a/page/n219/mode/1up"
+  - source: "diwan-hutayah"
+    loc: "ص221"
+    url: "https://archive.org/details/Diwan_Hutai3a/page/n220/mode/1up"
+status: "review"

@@ -1,0 +1,18 @@
+explained: false
+first: "رُمِيَتْ نَطَاةُ مِنَ الرَّسُولِ بِفَيْلَقٍ"
+second: "شَهْبَاءَ ذَاتِ مَنَاكِبٍ وَفَقَارِ"
+vocabulary:
+- term: "نَطَاةُ"
+  text: "«اسم لأرض خيبر» كما يقول المحققون [@diwan-kaab، ص30]."
+- term: "فَيْلَقٍ"
+  text: "«الجيش العظيم» [@diwan-kaab، ص30]."
+- term: "شَهْبَاءَ"
+  text: "«الكتيبة التي يبرق حديدها وسلاحها» كما يقول السُّكَّرِيّ في البيت 14 [@diwan-kaab، ص31]."
+sources:
+- source: "diwan-kaab"
+  loc: "ص30"
+  url: "https://archive.org/details/hmmt00206/page/n61/mode/1up"
+- source: "diwan-kaab"
+  loc: "ص31"
+  url: "https://archive.org/details/hmmt00206/page/n62/mode/1up"
+status: "review"

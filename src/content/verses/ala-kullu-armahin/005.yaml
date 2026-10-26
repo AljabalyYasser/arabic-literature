@@ -1,0 +1,14 @@
+explained: false
+first: "أَبَوْا غَيْرَ ضَرْبٍ يُحْطَمُ الْهَامُ وَسْطَهُ"
+second: "وَطَعْنٍ كَأَفْوَاهِ الْمُرَقَّعَةِ الْحُمْرِ"
+vocabulary:
+  - term: "الْمُرَقَّعَةِ"
+    text: "«المرقّعة: الأسقية» [@diwan-hutayah، ص331]."
+sources:
+  - source: "diwan-hutayah"
+    loc: "ص329"
+    url: "https://archive.org/details/Diwan_Hutai3a/page/n328/mode/1up"
+  - source: "diwan-hutayah"
+    loc: "ص331"
+    url: "https://archive.org/details/Diwan_Hutai3a/page/n330/mode/1up"
+status: "review"

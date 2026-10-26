@@ -1,0 +1,16 @@
+explained: false
+first: "حُفَاةٌ عُرَاةٌ مَا اغْتَذَوْا خُبْزَ مَلَّةٍ"
+second: "وَلَا عَرَفُوا لِلْبُرِّ مُذْ خُلِقُوا طَعْمَا"
+vocabulary:
+  - term: "مَلَّةٍ"
+    text: "في شرح المحقق: «الرماد الحارّ» [@diwan-hutayah، ص398]."
+  - term: "لِلْبُرِّ"
+    text: "«القمح» [@diwan-hutayah، ص398]."
+sources:
+  - source: "diwan-hutayah"
+    loc: "ص396"
+    url: "https://archive.org/details/Diwan_Hutai3a/page/n395/mode/1up"
+  - source: "diwan-hutayah"
+    loc: "ص398"
+    url: "https://archive.org/details/Diwan_Hutai3a/page/n397/mode/1up"
+status: "review"

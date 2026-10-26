@@ -1,0 +1,20 @@
+explained: false
+first: "تَصَيَّفُ ذِرْوَةَ مَكْنُونَةً"
+second: "وَتَبْدُو مَصَابَ الْخَرِيفِ الْحِبَالَا"
+vocabulary:
+  - term: "تَصَيَّفُ"
+    text: "تقيم الصيف. [@diwan-hutayah، ص215]."
+  - term: "ذِرْوَةَ"
+    text: "«ذروة: من بلاد غطفان» [@diwan-hutayah، ص215]."
+  - term: "مَكْنُونَةً"
+    text: "«أى هى فى كنّ» [@diwan-hutayah، ص215]."
+  - term: "الْحِبَالَا"
+    text: "«والحبل من الرمل: الحبل الممتدّ منه» [@diwan-hutayah، ص215]."
+sources:
+  - source: "diwan-hutayah"
+    loc: "ص214"
+    url: "https://archive.org/details/Diwan_Hutai3a/page/n213/mode/1up"
+  - source: "diwan-hutayah"
+    loc: "ص215"
+    url: "https://archive.org/details/Diwan_Hutai3a/page/n214/mode/1up"
+status: "review"

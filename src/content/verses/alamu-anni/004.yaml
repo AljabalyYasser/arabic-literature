@@ -1,0 +1,21 @@
+explained: false
+first: "كَالْغُصْنِ بَيْنَا تَرَاهُ نَاعِمًا هَدِبًا"
+second: "إِذْ هَاجَ وَانْحَتَّ عَنْ أَفْنَانِهِ الْوَرَقُ"
+vocabulary:
+- term: "هَدِبًا"
+  text: "كثير الأغصان. يقول المحققون: «وهدب الأشجار: أغصانها» [@diwan-kaab، ص228]."
+- term: "هَاجَ"
+  text: "يبس. وفي اللسان: «وهاجَ البقلُ هِياجاً ... يَبِسَ واصفرَّ» [@lisan، ج2 ص395]."
+- term: "انْحَتَّ"
+  text: "تساقط. وفي اللسان: «وانْحَتَّ شَعَرُه عَنْ رأْسه، وانْحَصَّ إِذا تَساقَطَ» [@lisan، ج2 ص22]."
+sources:
+- source: "diwan-kaab"
+  loc: "ص228"
+  url: "https://archive.org/details/hmmt00206/page/n259/mode/1up"
+- source: "lisan"
+  loc: "ج2 ص395"
+  url: "https://shamela.ws/book/1687/1199"
+- source: "lisan"
+  loc: "ج2 ص22"
+  url: "https://shamela.ws/book/1687/826"
+status: "review"

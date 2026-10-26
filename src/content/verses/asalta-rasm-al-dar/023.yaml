@@ -1,0 +1,18 @@
+explained: false
+first: "إِنَّ الَّتِي نَاوَلْتَنِي فَرَدَدْتُهَا"
+second: "قُتِلَتْ قُتِلْتَ فَهَاتِهَا لَمْ تُقْتَلِ"
+vocabulary:
+  - term: "قُتِلَتْ"
+    text: "مُزجت بالماء: «وقَتَل الْخَمْرَ قَتْلًا: مَزَجَهَا فأَزال بِذَلِكَ حِدَّتها»، ويستشهد بالبيت [@lisan، ج11 ص551]."
+  - term: "قُتِلْتَ"
+    text: "«دُعَاءٌ عَلَيْهِ أَي قَتَلك اللَّهُ لِمَ مَزَجْتَهَا» [@lisan، ج11 ص551]."
+sources:
+  - source: "diwan-hassan"
+    loc: "ص75"
+    url: "https://archive.org/details/AAlexandrina-149414/page/n85/mode/1up"
+    note: "القصيدة 13 في الديوان."
+  - source: "lisan"
+    loc: "ج11 ص551"
+    url: "https://shamela.ws/book/1687/5729"
+    note: "قتل الخمر، والبيت."
+status: "review"

@@ -1,0 +1,16 @@
+explained: false
+first: "أَخِي جَفْوَةٍ فِيهِ مِنَ الْإِنْسِ وَحْشَةٌ"
+second: "يَرَى الْبُؤْسَ فِيهَا مِنْ شَرَاسَتِهِ نُعْمَى"
+vocabulary:
+  - term: "جَفْوَةٍ"
+    text: "في شرح المحقق: «غلظ الطبع» [@diwan-hutayah، ص397]."
+  - term: "الْبُؤْسَ"
+    text: "«الشدة» [@diwan-hutayah، ص397]."
+sources:
+  - source: "diwan-hutayah"
+    loc: "ص396"
+    url: "https://archive.org/details/Diwan_Hutai3a/page/n395/mode/1up"
+  - source: "diwan-hutayah"
+    loc: "ص397"
+    url: "https://archive.org/details/Diwan_Hutai3a/page/n396/mode/1up"
+status: "review"

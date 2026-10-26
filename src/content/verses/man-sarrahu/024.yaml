@@ -1,0 +1,20 @@
+explained: false
+first: "وَكَسَوْتُ كَاهِلَ حُرَّةٍ مَنْهُوكَةٍ"
+second: "بِالْفَجْرِ حَارِيًّا عَدِيمَ شَوَارِ"
+vocabulary:
+- term: "كَاهِلَ"
+  text: "أعلى الظهر، وقال أبو السَّمْح: «رءوس المنكبين يقال لها الكاهل» [@diwan-kaab، ص37]."
+- term: "حُرَّةٍ مَنْهُوكَةٍ"
+  text: "ناقة كريمة «نهكها السير» [@diwan-kaab، ص37]."
+- term: "حَارِيًّا"
+  text: "«رحل منسوب إلى الحيرة» [@diwan-kaab، ص37]."
+- term: "عَدِيمَ شَوَارِ"
+  text: "قيل: «رحل حسن لا شيء عليه يواريه»، وقيل: «قد تخرّق ما عليه لطول السفر» [@diwan-kaab، ص37]."
+sources:
+- source: "diwan-kaab"
+  loc: "ص36"
+  url: "https://archive.org/details/hmmt00206/page/n67/mode/1up"
+- source: "diwan-kaab"
+  loc: "ص37"
+  url: "https://archive.org/details/hmmt00206/page/n68/mode/1up"
+status: "review"

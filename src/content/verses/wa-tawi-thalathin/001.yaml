@@ -1,0 +1,20 @@
+explained: false
+first: "وَطَاوِي ثَلَاثٍ عَاصِبِ الْبَطْنِ مُرْمِلٍ"
+second: "بِبَيْدَاءَ لَمْ يَعْرِفْ بِهَا سَاكِنٌ رَسْمَا"
+vocabulary:
+  - term: "طَاوِي ثَلَاثٍ"
+    text: "في شرح المحقق: «الطاوى: الجائع. ثلاثٍ: أى ثلاث ليال» [@diwan-hutayah، ص397]."
+  - term: "عَاصِبِ الْبَطْنِ"
+    text: "«الذى يتعصّب بالخِرَق، ويشدّها على بطنه من الجوع» [@diwan-hutayah، ص397]."
+  - term: "مُرْمِلٍ"
+    text: "«محتاج» [@diwan-hutayah، ص397]."
+  - term: "رَسْمَا"
+    text: "«ما بقى بالأرض من آثار الدار» [@diwan-hutayah، ص397]."
+sources:
+  - source: "diwan-hutayah"
+    loc: "ص396"
+    url: "https://archive.org/details/Diwan_Hutai3a/page/n395/mode/1up"
+  - source: "diwan-hutayah"
+    loc: "ص397"
+    url: "https://archive.org/details/Diwan_Hutai3a/page/n396/mode/1up"
+status: "review"

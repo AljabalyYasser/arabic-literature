@@ -1,0 +1,18 @@
+explained: false
+first: "وَمَوْضِعَ طُولِيٍّ وَأَحْنَاءَ قَاتِرٍ"
+second: "يَئِطُّ إِذَا مَا شُدَّ بِالنِّسْعِ مِنْ عَلُ"
+vocabulary:
+- term: "أَحْنَاءَ"
+  text: "«وأحناء الرحل: عيدانه» [@diwan-kaab، ص53]."
+- term: "قَاتِرٍ"
+  text: "«جيّد الوقع» [@diwan-kaab، ص53]، صفة للرحل."
+- term: "يَئِطُّ"
+  text: "«يصوّت» [@diwan-kaab، ص54]."
+sources:
+- source: "diwan-kaab"
+  loc: "ص53"
+  url: "https://archive.org/details/hmmt00206/page/n84/mode/1up"
+- source: "diwan-kaab"
+  loc: "ص54"
+  url: "https://archive.org/details/hmmt00206/page/n85/mode/1up"
+status: "review"

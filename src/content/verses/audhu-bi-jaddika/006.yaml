@@ -1,0 +1,16 @@
+explained: false
+first: "حَوَاسِرَ لَا يَشْتَكِينَ الْوَجَى"
+second: "يُخَفِّضْنَ آلًا وَيَرْفَعْنَ آلَا"
+vocabulary:
+  - term: "الْوَجَى"
+    text: "يقول المحقق: «الوجَى: الحفَى، وقيل شدته» [@diwan-hutayah، ص222]."
+  - term: "آلًا"
+    text: "ويقول: «والآل: ما أشرف من البعير والسراب» [@diwan-hutayah، ص222]."
+sources:
+  - source: "diwan-hutayah"
+    loc: "ص222"
+    url: "https://archive.org/details/Diwan_Hutai3a/page/n221/mode/1up"
+  - source: "aghani-dk"
+    loc: "ج2 ص187"
+    url: "https://archive.org/details/aghani2014/2/page/n196/mode/1up"
+status: "review"

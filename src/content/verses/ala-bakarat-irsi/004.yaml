@@ -1,0 +1,13 @@
+explained: false
+first: "كِلَانَا عَلَتْهُ كَبْرَةٌ فَكَأَنَّمَا"
+second: "رَمَتْهُ سِهَامٌ فِي الْمَفَارِقِ نُصَّلُ"
+vocabulary:
+- term: "كَبْرَةٌ"
+  text: "الكِبَر والشيخوخة؛ وجعل الشيب «سهامًا لا نصال لها، قد ذهبت نصالها وبقيت» [@diwan-kaab، ص42]."
+- term: "نُصَّلُ"
+  text: "جمع ناصل، «يقال: سهم ناصل إذا خرج نصله» كما يقول المحققون [@diwan-kaab، ص42]."
+sources:
+- source: "diwan-kaab"
+  loc: "ص42"
+  url: "https://archive.org/details/hmmt00206/page/n73/mode/1up"
+status: "review"

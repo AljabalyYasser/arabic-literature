@@ -1,0 +1,13 @@
+explained: false
+first: "كَأَنَّ دُخَانَ الرِّمْثِ خَالَطَ لَوْنَهُ"
+second: "يُغَلُّ بِهِ مِنْ بَاطِنٍ وَيُجَلَّلُ"
+vocabulary:
+- term: "الرِّمْثِ"
+  text: "«شجر يشبه الغضا» كما يقول المحققون [@diwan-kaab، ص49]."
+- term: "يُغَلُّ بِهِ"
+  text: "«يُدخل»، «وقوله: يُجلّل، أي يُعلى ويُظهر على متنه» [@diwan-kaab، ص49]."
+sources:
+- source: "diwan-kaab"
+  loc: "ص49"
+  url: "https://archive.org/details/hmmt00206/page/n80/mode/1up"
+status: "review"

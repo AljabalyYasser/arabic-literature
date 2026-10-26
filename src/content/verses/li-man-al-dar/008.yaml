@@ -1,0 +1,22 @@
+explained: false
+first: "لَا يُعَلَّلْنَ بِالْمَغَافِرِ وَالصَّمْـ"
+second: "ـغِ وَلَا نَقْفِ حَنْظَلِ الشَّرْيَانِ"
+vocabulary:
+  - term: "الْمَغَافِرِ"
+    text: "«المَغافِيرُ: صَمْغٌ يسِيل مِنْ شَجَرِ الْعُرْفُطِ حُلو» [@lisan، ج7 ص350]."
+  - term: "الشَّرْيَانِ"
+    text: "«والشَّرْيانُ والشِّرْيانُ، بِفَتْحِ الشِّينِ وَكَسْرِهَا: شجرٌ مِنْ عِضاه الْجِبَالِ يُعْمَلُ مِنْهُ القِسِيُّ» [@lisan، ج14 ص431]."
+sources:
+  - source: "diwan-hassan"
+    loc: "ص255"
+    url: "https://archive.org/details/AAlexandrina-149414/page/n265/mode/1up"
+    note: "القصيدة 123 في الديوان."
+  - source: "lisan"
+    loc: "ج7 ص350"
+    url: "https://shamela.ws/book/1687/3733"
+    note: "المغافير."
+  - source: "lisan"
+    loc: "ج14 ص431"
+    url: "https://shamela.ws/book/1687/7555"
+    note: "الشريان."
+status: "review"

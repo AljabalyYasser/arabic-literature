@@ -1,0 +1,18 @@
+explained: false
+first: "وَإِنْ غَضِبَتْ خِلْتَ بِالْمِشْفَرَيْنِ"
+second: "سَبَائِخَ قُطْنٍ وَزِيرًا نُسَالَا"
+vocabulary:
+  - term: "سَبَائِخَ قُطْنٍ"
+    text: "«قِطَع، شبّه الزبد به» [@diwan-hutayah، ص218]."
+  - term: "زِيرًا"
+    text: "«والزِّير: الكتّان» [@diwan-hutayah، ص218]."
+  - term: "نُسَالَا"
+    text: "«ما نسل منه فسقط» [@diwan-hutayah، ص218]."
+sources:
+  - source: "diwan-hutayah"
+    loc: "ص216"
+    url: "https://archive.org/details/Diwan_Hutai3a/page/n215/mode/1up"
+  - source: "diwan-hutayah"
+    loc: "ص218"
+    url: "https://archive.org/details/Diwan_Hutai3a/page/n217/mode/1up"
+status: "review"

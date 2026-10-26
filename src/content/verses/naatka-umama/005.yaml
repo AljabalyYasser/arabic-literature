@@ -1,0 +1,22 @@
+explained: false
+first: "تَعَاطَى الْعِضَاهَ إِذَا طَالَهَا"
+second: "وَتَقْرُو مِنَ النَّبْتِ أَرْطَى وَضَالَا"
+vocabulary:
+  - term: "تَعَاطَى"
+    text: "في هامش مخطوطة ابن السِّكِّيت: «تناول الثمر إذا طالها، أى بلغها» [@diwan-hutayah، ص215]."
+  - term: "الْعِضَاهَ"
+    text: "«كل شجرة ذات شوك فهى عِضَهٌ» [@diwan-hutayah، ص215]."
+  - term: "تَقْرُو"
+    text: "«وتقرو: تتبع» [@diwan-hutayah، ص215]."
+  - term: "أَرْطَى"
+    text: "«شجر ينبت فى الرمل أهدب، تكون فيها مكانس الوحوش» [@diwan-hutayah، ص215]."
+  - term: "ضَالَا"
+    text: "«والضال: السدر البرىّ» [@diwan-hutayah، ص215]."
+sources:
+  - source: "diwan-hutayah"
+    loc: "ص214"
+    url: "https://archive.org/details/Diwan_Hutai3a/page/n213/mode/1up"
+  - source: "diwan-hutayah"
+    loc: "ص215"
+    url: "https://archive.org/details/Diwan_Hutai3a/page/n214/mode/1up"
+status: "review"

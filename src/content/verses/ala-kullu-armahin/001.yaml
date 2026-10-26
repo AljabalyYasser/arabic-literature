@@ -1,0 +1,14 @@
+explained: false
+first: "أَلَا كُلُّ أَرْمَاحٍ قِصَارٍ أَذِلَّةٍ"
+second: "فِدَاءٌ لِأَرْمَاحٍ رُكِزْنَ عَلَى الْغَمْرِ"
+vocabulary:
+  - term: "الْغَمْرِ"
+    text: "ماء؛ وفي شرح ابن السِّكِّيت: «الغمر: ماء قريب من المدينة» [@diwan-hutayah، ص330]."
+sources:
+  - source: "diwan-hutayah"
+    loc: "ص329"
+    url: "https://archive.org/details/Diwan_Hutai3a/page/n328/mode/1up"
+  - source: "diwan-hutayah"
+    loc: "ص330"
+    url: "https://archive.org/details/Diwan_Hutai3a/page/n329/mode/1up"
+status: "review"

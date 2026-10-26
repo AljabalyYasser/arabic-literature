@@ -1,0 +1,16 @@
+explained: false
+first: "تَفَرَّدَ فِي شِعْبٍ عَجُوزًا إِزَاءَهَا"
+second: "ثَلَاثَةُ أَشْبَاحٍ تَخَالُهُمُ بَهْمَا"
+vocabulary:
+  - term: "شِعْبٍ"
+    text: "في شرح المحقق: «الطريق فى الجبل» [@diwan-hutayah، ص398]."
+  - term: "بَهْمَا"
+    text: "«جمع بَهْمة، ولد الضأن والماعز، شبههم بها لهزالهم» [@diwan-hutayah، ص398]."
+sources:
+  - source: "diwan-hutayah"
+    loc: "ص396"
+    url: "https://archive.org/details/Diwan_Hutai3a/page/n395/mode/1up"
+  - source: "diwan-hutayah"
+    loc: "ص398"
+    url: "https://archive.org/details/Diwan_Hutai3a/page/n397/mode/1up"
+status: "review"

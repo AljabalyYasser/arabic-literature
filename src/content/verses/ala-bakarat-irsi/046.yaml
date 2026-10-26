@@ -1,0 +1,15 @@
+explained: false
+first: "مُنَفَّجَةُ الدَّفَّيْنِ طُيِّنَ لَحْمُهَا"
+second: "كَمَا طِينَ بِالضَّاحِي مِنَ اللِّبْنِ مِجْدَلُ"
+vocabulary:
+- term: "مُنَفَّجَةُ الدَّفَّيْنِ"
+  text: "«منفّجة: منتفجة. والدفّ: الجنب» [@diwan-kaab، ص58]."
+- term: "مِجْدَلُ"
+  text: "«وهو القصر» [@diwan-kaab، ص58]."
+- term: "الضَّاحِي"
+  text: "«الظاهر للشمس» [@diwan-kaab، ص58]."
+sources:
+- source: "diwan-kaab"
+  loc: "ص58"
+  url: "https://archive.org/details/hmmt00206/page/n89/mode/1up"
+status: "review"

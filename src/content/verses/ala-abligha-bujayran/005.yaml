@@ -1,0 +1,19 @@
+explained: false
+first: "سَقَاكَ بِهَا الْمَأْمُونُ كَأْسًا رَوِيَّةً"
+second: "فَأَنْهَلَكَ الْمَأْمُونُ مِنْهَا وَعَلَّكَا"
+vocabulary:
+- term: "الْمَأْمُونُ"
+  text: "النبي صلى الله عليه وسلم. قال السُّكَّريّ: «كانت قريش تسمى النبى صلى الله عليه وسلم المأمون والأمين» [@diwan-kaab، ص3]."
+- term: "أَنْهَلَكَ، عَلَّكَا"
+  text: "من النَّهَل والعَلَل. قال السُّكَّريّ: «والنهل: أول شربة»، «والعلل: الشرب الثانى» [@diwan-kaab، ص7]."
+sources:
+- source: "ibn-hisham"
+  loc: "ج2 ص501"
+  url: "https://shamela.ws/book/23833/1238"
+- source: "diwan-kaab"
+  loc: "ص3"
+  url: "https://archive.org/details/hmmt00206/page/n34/mode/1up"
+- source: "diwan-kaab"
+  loc: "ص7"
+  url: "https://archive.org/details/hmmt00206/page/n38/mode/1up"
+status: "review"

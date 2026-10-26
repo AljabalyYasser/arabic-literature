@@ -1,0 +1,16 @@
+explained: false
+first: "فَإِنَّ الَّذِي قَدْ قِيلَ لَيْسَ بِلَائِطٍ"
+second: "وَلَكِنَّهُ قَوْلُ امْرِئٍ بِيَ مَاحِلِ"
+vocabulary:
+  - term: "لَائِطٍ … مَاحِلِ"
+    text: "«لائط: لاصق. والماحل: الْمَاشِي بالنميمة» [@ibn-hisham، ج2 ص306، الحاشية]."
+sources:
+  - source: "ibn-hisham"
+    loc: "ج2 ص306"
+    url: "https://shamela.ws/book/23833/1043"
+    note: "القصيدة في السيرة، وحاشية المحققين."
+  - source: "diwan-hassan"
+    loc: "ص292"
+    url: "https://archive.org/details/AAlexandrina-149414/page/n302/mode/1up"
+    note: "البيت 3 في الديوان برواية أخرى."
+status: "review"

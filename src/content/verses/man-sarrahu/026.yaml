@@ -1,0 +1,20 @@
+explained: false
+first: "وَسَدَتْ مُهَمْلِجَةً عُلَالَةَ مُدْمَجٍ"
+second: "مِنْ فَالِقٍ حَصِدٍ مِنَ الْإِمْرَارِ"
+vocabulary:
+- term: "سَدَتْ"
+  text: "«من السَّدْو، وهو أن تدحو بيديها دحوًا، أي ترمي بهما رميًا» [@diwan-kaab، ص38]."
+- term: "مُهَمْلِجَةً"
+  text: "من الهَمْلجة، وهي «ضرب من عدوها» [@diwan-kaab، ص38]."
+- term: "عُلَالَةَ مُدْمَجٍ"
+  text: "«وعُلالة كل شيء: بقيته التي يُتعلّل بها. والمُدْمَج: السَّوْط» [@diwan-kaab، ص38]."
+- term: "حَصِدٍ"
+  text: "«الشديد الفتل» [@diwan-kaab، ص38]."
+sources:
+- source: "diwan-kaab"
+  loc: "ص37"
+  url: "https://archive.org/details/hmmt00206/page/n68/mode/1up"
+- source: "diwan-kaab"
+  loc: "ص38"
+  url: "https://archive.org/details/hmmt00206/page/n69/mode/1up"
+status: "review"

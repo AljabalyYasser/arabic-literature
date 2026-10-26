@@ -1,0 +1,13 @@
+explained: false
+first: "وَالْبَاذِلِينَ نُفُوسَهُمْ لِنَبِيِّهِمْ"
+second: "يَوْمَ الْهِيَاجِ وَقُبَّةِ الْجَبَّارِ"
+vocabulary:
+- term: "الْهِيَاجِ"
+  text: "«الحرب» [@diwan-kaab، ص27]."
+- term: "قُبَّةِ الْجَبَّارِ"
+  text: "قال السُّكَّرِيّ: «أراد بيت الله الحرام»، و«قال أبو عمرو: وقبّة الجبار بمعنى اليمين» [@diwan-kaab، ص27]، أي الواو للقسم."
+sources:
+- source: "diwan-kaab"
+  loc: "ص27"
+  url: "https://archive.org/details/hmmt00206/page/n58/mode/1up"
+status: "review"

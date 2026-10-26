@@ -1,0 +1,16 @@
+explained: false
+first: "كَأَنَّ بِحَافَتِهِ وَالطِّرَافِ"
+second: "رِجَالًا لِحِمْيَرَ لَاقَتْ رِجَالَا"
+vocabulary:
+  - term: "بِحَافَتِهِ"
+    text: "«أى بحافة الماء» [@diwan-hutayah، ص216]."
+  - term: "الطِّرَافِ"
+    text: "«والطراف: بيت من أدم» [@diwan-hutayah، ص216]."
+sources:
+  - source: "diwan-hutayah"
+    loc: "ص214"
+    url: "https://archive.org/details/Diwan_Hutai3a/page/n213/mode/1up"
+  - source: "diwan-hutayah"
+    loc: "ص216"
+    url: "https://archive.org/details/Diwan_Hutai3a/page/n215/mode/1up"
+status: "review"

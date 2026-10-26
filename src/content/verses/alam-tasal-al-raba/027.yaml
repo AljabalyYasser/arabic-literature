@@ -1,0 +1,16 @@
+explained: false
+first: "إِذَا اسْتَدْبَرَتْنَا الشَّمْسُ دَرَّتْ مُتُونُنَا"
+second: "كَأَنَّ عُرُوقَ الْجَوْفِ يَنْضَحْنَ عَنْدَمَا"
+vocabulary:
+  - term: "عَنْدَمَا"
+    text: "«العَنْدَمُ: دَمُ الأَخَوَيْنِ»، صبغ أحمر [@lisan، ج12 ص430]."
+sources:
+  - source: "diwan-hassan"
+    loc: "ص35"
+    url: "https://archive.org/details/AAlexandrina-149414/page/n45/mode/1up"
+    note: "القصيدة 4 في الديوان."
+  - source: "lisan"
+    loc: "ج12 ص430"
+    url: "https://shamela.ws/book/1687/6343"
+    note: "العندم."
+status: "review"

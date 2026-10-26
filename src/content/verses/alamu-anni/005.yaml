@@ -1,0 +1,13 @@
+explained: false
+first: "كَذَلِكَ الْمَرْءُ إِنْ يُنْسَأْ لَهُ أَجَلٌ"
+second: "يُرْكَبْ بِهِ طَبَقٌ مِنْ بَعْدِهِ طَبَقُ"
+vocabulary:
+- term: "يُنْسَأْ"
+  text: "قال السُّكَّريّ: «ينسأ: يؤخر» [@diwan-kaab، ص228]."
+- term: "يُرْكَبْ بِهِ طَبَقٌ مِنْ بَعْدِهِ طَبَقُ"
+  text: "قال السُّكَّريّ: «أي حال بعد حال» [@diwan-kaab، ص228]."
+sources:
+- source: "diwan-kaab"
+  loc: "ص228"
+  url: "https://archive.org/details/hmmt00206/page/n259/mode/1up"
+status: "review"

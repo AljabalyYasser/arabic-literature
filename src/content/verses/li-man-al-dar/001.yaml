@@ -1,0 +1,16 @@
+explained: false
+first: "لِمَنِ الدَّارُ أَوْحَشَتْ بِمَعَانِ"
+second: "بَيْنَ أَعْلَى الْيَرْمُوكِ فَالْخَمَّانِ"
+vocabulary:
+  - term: "الْخَمَّانِ"
+    text: "«وخُمّان: مَوْضِعٌ، وَقِيلَ: مَوْضِعٌ بِالشَّامِ»، ويستشهد ابن منظور بالبيت [@lisan، ج12 ص191]."
+sources:
+  - source: "diwan-hassan"
+    loc: "ص255"
+    url: "https://archive.org/details/AAlexandrina-149414/page/n265/mode/1up"
+    note: "القصيدة 123 في الديوان."
+  - source: "lisan"
+    loc: "ج12 ص191"
+    url: "https://shamela.ws/book/1687/6107"
+    note: "خمّان، والبيت."
+status: "review"

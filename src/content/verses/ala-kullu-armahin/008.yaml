@@ -1,0 +1,14 @@
+explained: false
+first: "أَيُورِثُنَا بَكْرًا إِذَا مَاتَ بَعْدَهُ"
+second: "فَتِلْكَ وَبَيْتِ اللهِ قَاصِمَةُ الظَّهْرِ"
+vocabulary:
+  - term: "فَتِلْكَ"
+    text: "في هامش مخطوطة ابن السِّكِّيت: «فتلك، يريد الوراثة» [@diwan-hutayah، ص331]."
+sources:
+  - source: "diwan-hutayah"
+    loc: "ص330"
+    url: "https://archive.org/details/Diwan_Hutai3a/page/n329/mode/1up"
+  - source: "diwan-hutayah"
+    loc: "ص331"
+    url: "https://archive.org/details/Diwan_Hutai3a/page/n330/mode/1up"
+status: "review"

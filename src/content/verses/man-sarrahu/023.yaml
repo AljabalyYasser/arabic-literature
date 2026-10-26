@@ -1,0 +1,15 @@
+explained: false
+first: "وَعَلِمْتُ أَنِّي مُصْبِحٌ بِمَضِيعَةٍ"
+second: "غَبْرَاءَ تَعْزِفُ جِنُّهَا مِذْكَارِ"
+vocabulary:
+- term: "مَضِيعَةٍ"
+  text: "«أرض خالية»، «أي يُضاع فيها لأنه لا علم بها» [@diwan-kaab، ص36]."
+- term: "تَعْزِفُ جِنُّهَا"
+  text: "«تصوّت»، و«عَزْف الجن: هَمْرجته» [@diwan-kaab، ص36]، أي أصوات مختلطة تُسمع في الفلاة."
+- term: "مِذْكَارِ"
+  text: "«لا يسلكها إلا الذكر من الرجال» [@diwan-kaab، ص36]."
+sources:
+- source: "diwan-kaab"
+  loc: "ص36"
+  url: "https://archive.org/details/hmmt00206/page/n67/mode/1up"
+status: "review"

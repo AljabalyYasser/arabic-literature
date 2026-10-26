@@ -1,0 +1,14 @@
+explained: false
+first: "أَطَعْنَا رَسُولَ اللهِ إِذْ كَانَ صَادِقًا"
+second: "فَيَا عَجَبًا مَا بَالُ دِينِ أَبِي بَكْرِ"
+vocabulary:
+  - term: "دِينِ"
+    text: "في هامش مخطوطة ابن السِّكِّيت: «الدّين هاهنا الطاعة» [@diwan-hutayah، ص331]."
+sources:
+  - source: "diwan-hutayah"
+    loc: "ص329"
+    url: "https://archive.org/details/Diwan_Hutai3a/page/n328/mode/1up"
+  - source: "diwan-hutayah"
+    loc: "ص331"
+    url: "https://archive.org/details/Diwan_Hutai3a/page/n330/mode/1up"
+status: "review"

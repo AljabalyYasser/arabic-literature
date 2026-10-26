@@ -1,0 +1,16 @@
+explained: false
+first: "كَسُوبٌ إِلَى أَنْ شَبَّ مِنْ كَسْبِ وَاحِدٍ"
+second: "مُحَالِفُهُ الْإِقْتَارُ لَا يَتَمَوَّلُ"
+vocabulary:
+- term: "كَسُوبٌ"
+  text: "«وقوله: من كسب واحد أي من كسبة واحدة لم يعنه على ذلك أحد» [@diwan-kaab، ص48]."
+- term: "مُحَالِفُهُ الْإِقْتَارُ"
+  text: "يلازمه الفقر، «ثم وصف نفسه بالإقتار ومحالفة الفقر له» [@diwan-kaab، ص49]."
+sources:
+- source: "diwan-kaab"
+  loc: "ص48"
+  url: "https://archive.org/details/hmmt00206/page/n79/mode/1up"
+- source: "diwan-kaab"
+  loc: "ص49"
+  url: "https://archive.org/details/hmmt00206/page/n80/mode/1up"
+status: "review"

@@ -1,0 +1,16 @@
+explained: false
+first: "مُهَذَّبَةٌ قَدْ طَيَّبَ اللَّهُ خِيمَهَا"
+second: "وَطَهَّرَهَا مِنْ كُلِّ سُوءٍ وَبَاطِلِ"
+vocabulary:
+  - term: "خِيمَهَا"
+    text: "«الخيم: الطَّبْع» [@ibn-hisham، ج2 ص306، الحاشية]."
+sources:
+  - source: "ibn-hisham"
+    loc: "ج2 ص306"
+    url: "https://shamela.ws/book/23833/1043"
+    note: "القصيدة في السيرة، وحاشية المحققين."
+  - source: "ibn-hisham"
+    loc: "ج2 ص307"
+    url: "https://shamela.ws/book/23833/1044"
+    note: "قول ابن هشام إن هذا البيت عن أبي زيد الأنصاري."
+status: "review"

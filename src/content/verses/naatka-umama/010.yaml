@@ -1,0 +1,23 @@
+explained: false
+first: "مُفَرَّجَةُ الضَّبْعِ مَوَّارَةٌ"
+second: "تَجُدُّ الْإِكَامَ وَتَنْفِي النِّقَالَا"
+vocabulary:
+  - term: "الضَّبْعِ"
+    text: "«الضبع: العضد» [@diwan-hutayah، ص217]."
+  - term: "مَوَّارَةٌ"
+    text: "«الموّارة: السريعة» [@diwan-hutayah، ص218]."
+  - term: "تَجُدُّ الْإِكَامَ"
+    text: "«تقطعها» [@diwan-hutayah، ص218]."
+  - term: "النِّقَالَا"
+    text: "«رقاع النعال» [@diwan-hutayah، ص217]."
+sources:
+  - source: "diwan-hutayah"
+    loc: "ص216"
+    url: "https://archive.org/details/Diwan_Hutai3a/page/n215/mode/1up"
+  - source: "diwan-hutayah"
+    loc: "ص217"
+    url: "https://archive.org/details/Diwan_Hutai3a/page/n216/mode/1up"
+  - source: "diwan-hutayah"
+    loc: "ص218"
+    url: "https://archive.org/details/Diwan_Hutai3a/page/n217/mode/1up"
+status: "review"

@@ -1,0 +1,18 @@
+explained: false
+first: "قَطَعْتُ يُمَاشِينِي بِهَا مُتَضَائِلٌ"
+second: "مِنَ الطُّلْسِ أَحْيَانًا يَخُبُّ وَيَعْسِلُ"
+vocabulary:
+- term: "مُتَضَائِلٌ"
+  text: "«النحيف»، «وإنما يريد أنه قطع هذه الفلاة الصرماء فلم يجد فيها غير الذئب» [@diwan-kaab، ص46]."
+- term: "الطُّلْسِ"
+  text: "«الأطلس: الذي في لونه طُلسة، وهي غُبرة تعلوها كدرة» [@diwan-kaab، ص46–47]."
+- term: "يَعْسِلُ"
+  text: "«العَسَلان: عدو الذئب» [@diwan-kaab، ص47]."
+sources:
+- source: "diwan-kaab"
+  loc: "ص46"
+  url: "https://archive.org/details/hmmt00206/page/n77/mode/1up"
+- source: "diwan-kaab"
+  loc: "ص47"
+  url: "https://archive.org/details/hmmt00206/page/n78/mode/1up"
+status: "review"

@@ -1,0 +1,16 @@
+explained: false
+first: "بِكُلِّ فَتًى عَارِي الْأَشَاجِعِ لَاحَهُ"
+second: "قِرَاعُ الْكُمَاةِ يَرْشَحُ الْمِسْكَ وَالدَّمَا"
+vocabulary:
+  - term: "الْأَشَاجِعِ"
+    text: "عظام ظهر الكف أو عروقها، وفي اللسان: «هُوَ الْعَظْمُ الَّذِي يَصِلُ الإِصْبَعَ بالرُّسْغِ» [@lisan، ج8 ص174]."
+sources:
+  - source: "diwan-hassan"
+    loc: "ص35"
+    url: "https://archive.org/details/AAlexandrina-149414/page/n45/mode/1up"
+    note: "القصيدة 4 في الديوان."
+  - source: "lisan"
+    loc: "ج8 ص174"
+    url: "https://shamela.ws/book/1687/4022"
+    note: "الأشاجع."
+status: "review"

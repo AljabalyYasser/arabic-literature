@@ -1,0 +1,16 @@
+explained: false
+first: "وَهُمُ إِذَا انْقَلَبُوا كَأَنَّ ثِيَابَهُمْ"
+second: "مِنْهَا تَضَوُّعُ فَأْرَةِ الْعَطَّارِ"
+vocabulary:
+- term: "انْقَلَبُوا"
+  text: "«إذا انقلبوا من الحرب، أي رجعوا» [@diwan-kaab، ص29]."
+- term: "تَضَوُّعُ"
+  text: "«فيحانه» [@diwan-kaab، ص29]، أي انتشار رائحته."
+sources:
+- source: "diwan-kaab"
+  loc: "ص28"
+  url: "https://archive.org/details/hmmt00206/page/n59/mode/1up"
+- source: "diwan-kaab"
+  loc: "ص29"
+  url: "https://archive.org/details/hmmt00206/page/n60/mode/1up"
+status: "review"

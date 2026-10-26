@@ -1,0 +1,15 @@
+explained: false
+first: "وَسُمْرٌ ظِمَاءٌ وَاتَرَتْهُنَّ بَعْدَمَا"
+second: "مَضَتْ هَجْعَةٌ مِنْ آخِرِ اللَّيْلِ ذُبَّلُ"
+vocabulary:
+- term: "سُمْرٌ ظِمَاءٌ"
+  text: "«يعني البعر. وظِماء: يابسة لأنها لم تشرب الماء أيامًا» [@diwan-kaab، ص54]."
+- term: "وَاتَرَتْهُنَّ"
+  text: "«أي تابعتهن» [@diwan-kaab، ص54]."
+- term: "ذُبَّلُ"
+  text: "«يُبَّس» [@diwan-kaab، ص54]."
+sources:
+- source: "diwan-kaab"
+  loc: "ص54"
+  url: "https://archive.org/details/hmmt00206/page/n85/mode/1up"
+status: "review"

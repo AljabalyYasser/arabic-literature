@@ -1,0 +1,15 @@
+explained: false
+first: "سَفَى فَوْقَهُنَّ التُّرْبَ ضَافٍ كَأَنَّهُ"
+second: "عَلَى الْفَرْجِ وَالْحَاذَيْنِ قِنْوٌ مُذَلَّلُ"
+vocabulary:
+- term: "سَفَى"
+  text: "«أطار» [@diwan-kaab، ص54]."
+- term: "ضَافٍ"
+  text: "«يريد ذنبًا طويلًا» [@diwan-kaab، ص54]."
+- term: "قِنْوٌ مُذَلَّلُ"
+  text: "«والقِنْو: العِذْق. والمذلّل: المهيّأ المستوي» [@diwan-kaab، ص54]."
+sources:
+- source: "diwan-kaab"
+  loc: "ص54"
+  url: "https://archive.org/details/hmmt00206/page/n85/mode/1up"
+status: "review"

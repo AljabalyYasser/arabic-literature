@@ -1,0 +1,16 @@
+explained: false
+first: "لَا يَشْتَكُونَ الْمَوْتَ إِنْ نَزَلَتْ بِهِمْ"
+second: "شَهْبَاءُ ذَاتُ مَعَاقِمٍ وَأُوَارِ"
+vocabulary:
+- term: "مَعَاقِمٍ"
+  text: "«أي ذات هلاك، من قولهم: حرب عقيم» [@diwan-kaab، ص31]."
+- term: "أُوَارِ"
+  text: "قال السُّكَّرِيّ: «الغبار الذي يثور من الحوافر» [@diwan-kaab، ص31]."
+sources:
+- source: "diwan-kaab"
+  loc: "ص30"
+  url: "https://archive.org/details/hmmt00206/page/n61/mode/1up"
+- source: "diwan-kaab"
+  loc: "ص31"
+  url: "https://archive.org/details/hmmt00206/page/n62/mode/1up"
+status: "review"

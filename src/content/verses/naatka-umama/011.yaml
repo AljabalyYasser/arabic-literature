@@ -1,0 +1,22 @@
+explained: false
+first: "إِذَا مَا النَّوَاعِجُ وَاكَبْنَهَا"
+second: "جَشَمْنَ مِنَ السَّيْرِ رَبْوًا عُضَالَا"
+vocabulary:
+  - term: "النَّوَاعِجُ"
+    text: "«النواعج: البيض من الإبل» [@diwan-hutayah، ص218]."
+  - term: "وَاكَبْنَهَا"
+    text: "«سرن معها فى الموكب» [@diwan-hutayah، ص218]."
+  - term: "جَشَمْنَ"
+    text: "«تكلفن على مشقة فى السير» [@diwan-hutayah، ص218]."
+  - term: "رَبْوًا"
+    text: "«وهو أن تربو: تنتفخ» [@diwan-hutayah، ص218]."
+  - term: "عُضَالَا"
+    text: "«شديد الأدواء» [@diwan-hutayah، ص218]."
+sources:
+  - source: "diwan-hutayah"
+    loc: "ص216"
+    url: "https://archive.org/details/Diwan_Hutai3a/page/n215/mode/1up"
+  - source: "diwan-hutayah"
+    loc: "ص218"
+    url: "https://archive.org/details/Diwan_Hutai3a/page/n217/mode/1up"
+status: "review"

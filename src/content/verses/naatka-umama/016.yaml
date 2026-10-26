@@ -1,0 +1,16 @@
+explained: false
+first: "وَتَرْمِي الْغُيُوبَ بِمَاوِيَّتَيْنِ"
+second: "أُحْدِثَتَا بَعْدَ صَقْلٍ صِقَالَا"
+vocabulary:
+  - term: "الْغُيُوبَ"
+    text: "«ما توارى عنها من الأرض» [@diwan-hutayah، ص219]."
+  - term: "بِمَاوِيَّتَيْنِ"
+    text: "عينيها، «شبّه عينيها بالمرآتين المصقولتين، وهما الماويّتان» [@diwan-hutayah، ص219]."
+sources:
+  - source: "diwan-hutayah"
+    loc: "ص216"
+    url: "https://archive.org/details/Diwan_Hutai3a/page/n215/mode/1up"
+  - source: "diwan-hutayah"
+    loc: "ص219"
+    url: "https://archive.org/details/Diwan_Hutai3a/page/n218/mode/1up"
+status: "review"

@@ -1,0 +1,16 @@
+explained: false
+first: "ظِمَاءٌ تُرِيدُ الْمَاءَ فَانْسَابَ نَحْوَهَا"
+second: "عَلَى أَنَّهُ مِنْهَا إِلَى دَمِهَا أَظْمَا"
+vocabulary:
+  - term: "فَانْسَابَ"
+    text: "في شرح المحقق: «سار إليها بهدوء على أطراف أصابعه، من غير أن يحدث صوتا» [@diwan-hutayah، ص399]."
+  - term: "أَظْمَا"
+    text: "«أشد ظمأ» [@diwan-hutayah، ص399]."
+sources:
+  - source: "diwan-hutayah"
+    loc: "ص397"
+    url: "https://archive.org/details/Diwan_Hutai3a/page/n396/mode/1up"
+  - source: "diwan-hutayah"
+    loc: "ص399"
+    url: "https://archive.org/details/Diwan_Hutai3a/page/n398/mode/1up"
+status: "review"

@@ -1,0 +1,18 @@
+explained: false
+first: "وَتُحْصِفُ بَعْدَ اضْطِرَابِ النُّسُوعِ"
+second: "كَمَا أَحْصَفَ الْعِلْجُ يَحْدُو الْحِيَالَا"
+vocabulary:
+  - term: "تُحْصِفُ"
+    text: "«تعدو» [@diwan-hutayah، ص219]."
+  - term: "الْعِلْجُ"
+    text: "«الحمار الغليظ» [@diwan-hutayah، ص219]."
+  - term: "الْحِيَالَا"
+    text: "«يسوق أُتُنَه التى لم تحمل سنتها» [@diwan-hutayah، ص219]."
+sources:
+  - source: "diwan-hutayah"
+    loc: "ص216"
+    url: "https://archive.org/details/Diwan_Hutai3a/page/n215/mode/1up"
+  - source: "diwan-hutayah"
+    loc: "ص219"
+    url: "https://archive.org/details/Diwan_Hutai3a/page/n218/mode/1up"
+status: "review"

@@ -1,0 +1,16 @@
+explained: false
+first: "يَسْعَى عَلَيَّ بِكَأْسِهَا مُتَنَطِّفٌ"
+second: "فَيَعُلُّنِي مِنْهَا وَلَوْ لَمْ أَنْهَلِ"
+vocabulary:
+  - term: "فَيَعُلُّنِي"
+    text: "يسقيني مرة بعد مرة: «العَلُّ والعَلَلُ: الشَّرْبةُ الثَّانِيَةُ»، و«يُقَالُ: عَلَلٌ بَعْدَ نَهَلٍ» [@lisan، ج11 ص467]، فالنَّهَل الشربة الأولى."
+sources:
+  - source: "diwan-hassan"
+    loc: "ص75"
+    url: "https://archive.org/details/AAlexandrina-149414/page/n85/mode/1up"
+    note: "القصيدة 13 في الديوان."
+  - source: "lisan"
+    loc: "ج11 ص467"
+    url: "https://shamela.ws/book/1687/5645"
+    note: "العلل والنهل."
+status: "review"

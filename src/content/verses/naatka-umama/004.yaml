@@ -1,0 +1,16 @@
+explained: false
+first: "كَعَاطِيَةٍ مِنْ ظِبَاءِ السَّلِيلِ"
+second: "حُسَّانَةِ الْجِيدِ تُزْجِي غَزَالَا"
+vocabulary:
+  - term: "كَعَاطِيَةٍ"
+    text: "ظبية تتناول ورق الشجر؛ في شرح السُّكَّرِيّ: «العاطية: التى تناول بظلفها الغصن إذا ارتفع عنها» [@diwan-hutayah، ص215]."
+  - term: "السَّلِيلِ"
+    text: "«والسليل: الوادى يُنبت الطلح والسَّمُر» [@diwan-hutayah، ص215]."
+sources:
+  - source: "diwan-hutayah"
+    loc: "ص214"
+    url: "https://archive.org/details/Diwan_Hutai3a/page/n213/mode/1up"
+  - source: "diwan-hutayah"
+    loc: "ص215"
+    url: "https://archive.org/details/Diwan_Hutai3a/page/n214/mode/1up"
+status: "review"

@@ -1,0 +1,15 @@
+explained: false
+first: "وَأَتْلَعَ يُلْوَى بِالْجَدِيلِ كَأَنَّهُ"
+second: "عَسِيبٌ سَقَاهُ مِنْ سُمَيْحَةَ جَدْوَلُ"
+vocabulary:
+- term: "أَتْلَعَ"
+  text: "«عنق طويل» [@diwan-kaab، ص53]."
+- term: "الْجَدِيلِ"
+  text: "«الزمام» [@diwan-kaab، ص53]."
+- term: "سُمَيْحَةَ"
+  text: "«بئر بالمدينة» كما يقول المحققون [@diwan-kaab، ص53]."
+sources:
+- source: "diwan-kaab"
+  loc: "ص53"
+  url: "https://archive.org/details/hmmt00206/page/n84/mode/1up"
+status: "review"

@@ -1,0 +1,13 @@
+explained: false
+first: "الْمُكْرِهِينَ السَّمْهَرِيَّ بِأَذْرُعٍ"
+second: "كَصَوَاقِلِ الْهِنْدِيِّ غَيْرِ قِصَارِ"
+vocabulary:
+- term: "الْمُكْرِهِينَ السَّمْهَرِيَّ"
+  text: "«هم حاملوها على المكروه. والسمهري: جنس من القنا» [@diwan-kaab، ص26]."
+- term: "كَصَوَاقِلِ الْهِنْدِيِّ"
+  text: "قال أبو السَّمْح: «يعني بصواقل الهندي السيوف» [@diwan-kaab، ص26]، أي أذرعهم كالسيوف المصقولة."
+sources:
+- source: "diwan-kaab"
+  loc: "ص26"
+  url: "https://archive.org/details/hmmt00206/page/n57/mode/1up"
+status: "review"

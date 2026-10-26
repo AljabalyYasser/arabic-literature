@@ -1,0 +1,13 @@
+explained: false
+first: "وَالذَّائِدِينَ النَّاسَ عَنْ أَدْيَانِهِمْ"
+second: "بِالْمَشْرَفِيِّ وَبِالْقَنَا الْخَطَّارِ"
+vocabulary:
+- term: "الْمَشْرَفِيِّ"
+  text: "السيوف، «نُسبت إلى قرى تشارف الأرياف» [@diwan-kaab، ص27]."
+- term: "الْخَطَّارِ"
+  text: "«الذي إذا هُزّ تتابع مقدّمه ومؤخّره» [@diwan-kaab، ص27]."
+sources:
+- source: "diwan-kaab"
+  loc: "ص27"
+  url: "https://archive.org/details/hmmt00206/page/n58/mode/1up"
+status: "review"

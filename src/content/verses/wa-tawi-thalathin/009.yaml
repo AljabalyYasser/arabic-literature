@@ -1,0 +1,18 @@
+explained: false
+first: "وَقَالَ هَيَا رَبَّاهُ ضَيْفٌ وَلَا قِرًى"
+second: "بِحَقِّكَ لَا تَحْرِمْهُ تَا اللَّيْلَةَ اللَّحْمَا"
+vocabulary:
+  - term: "هَيَا"
+    text: "في شرح المحقق: «حرف نداء» [@diwan-hutayah، ص398]."
+  - term: "قِرًى"
+    text: "«طعام الضيف» [@diwan-hutayah، ص398]."
+  - term: "تَا اللَّيْلَةَ"
+    text: "«هذه الليلة» [@diwan-hutayah، ص398]."
+sources:
+  - source: "diwan-hutayah"
+    loc: "ص397"
+    url: "https://archive.org/details/Diwan_Hutai3a/page/n396/mode/1up"
+  - source: "diwan-hutayah"
+    loc: "ص398"
+    url: "https://archive.org/details/Diwan_Hutai3a/page/n397/mode/1up"
+status: "review"

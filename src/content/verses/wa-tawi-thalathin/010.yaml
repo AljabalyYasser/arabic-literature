@@ -1,0 +1,18 @@
+explained: false
+first: "فَبَيْنَا هُمُ عَنَّتْ عَلَى الْبُعْدِ عَانَةٌ"
+second: "قَدِ انْتَظَمَتْ مِنْ خَلْفِ مِسْحَلِهَا نَظْمَا"
+vocabulary:
+  - term: "عَنَّتْ"
+    text: "في شرح المحقق: «عرضت» [@diwan-hutayah، ص399]."
+  - term: "عَانَةٌ"
+    text: "قطيع من حُمُر الوحش، ويشرحها المحقق بالأتان [@diwan-hutayah، ص399]."
+  - term: "مِسْحَلِهَا"
+    text: "«الحمار الوحشىّ» [@diwan-hutayah، ص399]."
+sources:
+  - source: "diwan-hutayah"
+    loc: "ص397"
+    url: "https://archive.org/details/Diwan_Hutai3a/page/n396/mode/1up"
+  - source: "diwan-hutayah"
+    loc: "ص399"
+    url: "https://archive.org/details/Diwan_Hutai3a/page/n398/mode/1up"
+status: "review"

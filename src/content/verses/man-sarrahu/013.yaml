@@ -1,0 +1,17 @@
+explained: false
+first: "بِالْمُرْهَفَاتِ كَأَنَّ لَمْعَ ظُبَاتِهَا"
+second: "لَمْعُ السَّوَارِي فِي الصَّبِيرِ السَّارِي"
+vocabulary:
+- term: "الْمُرْهَفَاتِ"
+  text: "«السيوف» [@diwan-kaab، ص30]."
+- term: "ظُبَاتِهَا"
+  text: "«مقدّم السيف» [@diwan-kaab، ص30]."
+- term: "السَّوَارِي"
+  text: "«السحائب التي تأتي ليلًا» [@diwan-kaab، ص30]."
+- term: "الصَّبِيرِ"
+  text: "«سحاب أبيض» [@diwan-kaab، ص30]."
+sources:
+- source: "diwan-kaab"
+  loc: "ص30"
+  url: "https://archive.org/details/hmmt00206/page/n61/mode/1up"
+status: "review"

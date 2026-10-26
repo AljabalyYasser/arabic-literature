@@ -1,0 +1,18 @@
+explained: false
+first: "فَإِنَّ الَّذِي أَعْطَيْتُمُ أَوْ مَنَعْتُمُ"
+second: "لَكَالتَّمْرِ أَوْ أَحْلَى لِخَلْفِ بَنِي فِهْرِ"
+vocabulary:
+  - term: "الَّذِي أَعْطَيْتُمُ"
+    text: "في هامش مخطوطة ابن السِّكِّيت: «يعنى الصدقة هى أحلى من التمر» [@diwan-hutayah، ص330]."
+  - term: "لِخَلْفِ"
+    text: "«خلفهم: أولادهم ونسلهم» [@diwan-hutayah، ص330]."
+  - term: "بَنِي فِهْرِ"
+    text: "«وبنو فهر من قريش» [@diwan-hutayah، ص330]."
+sources:
+  - source: "diwan-hutayah"
+    loc: "ص329"
+    url: "https://archive.org/details/Diwan_Hutai3a/page/n328/mode/1up"
+  - source: "diwan-hutayah"
+    loc: "ص330"
+    url: "https://archive.org/details/Diwan_Hutai3a/page/n329/mode/1up"
+status: "review"

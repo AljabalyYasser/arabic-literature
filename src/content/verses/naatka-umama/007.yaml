@@ -1,0 +1,18 @@
+explained: false
+first: "مُجَاوِرَةً مُسْتَحِيرَ السَّرَاةِ"
+second: "أَفْرَغَتِ الْغُرُّ فِيهِ السِّجَالَا"
+vocabulary:
+  - term: "مُسْتَحِيرَ"
+    text: "«المستحير: الغدير يتحيّر فيه الماء» [@diwan-hutayah، ص216]."
+  - term: "السَّرَاةِ"
+    text: "«والسَّراة: وسطه» [@diwan-hutayah، ص216]."
+  - term: "الْغُرُّ"
+    text: "«والغُرّ: البيض من السحاب» [@diwan-hutayah، ص216]."
+sources:
+  - source: "diwan-hutayah"
+    loc: "ص214"
+    url: "https://archive.org/details/Diwan_Hutai3a/page/n213/mode/1up"
+  - source: "diwan-hutayah"
+    loc: "ص216"
+    url: "https://archive.org/details/Diwan_Hutai3a/page/n215/mode/1up"
+status: "review"

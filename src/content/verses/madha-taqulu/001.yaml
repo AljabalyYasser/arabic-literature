@@ -1,0 +1,13 @@
+explained: false
+first: "مَاذَا تَقُولُ لِأَفْرَاخٍ بِذِي مَرَخٍ"
+second: "حُمْرِ الْحَوَاصِلِ لَا مَاءٌ وَلَا شَجَرُ"
+vocabulary:
+  - term: "بِذِي مَرَخٍ"
+    text: "وادٍ؛ ينقل المحقق عن ياقوت: «ذو مرخ: وادٍ بين فدك والوابشية، خضر نضر كثير الشجر» [@diwan-hutayah، ص208]."
+  - term: "حُمْرِ الْحَوَاصِلِ"
+    text: "في شرح ابن السِّكِّيت: «أى أنها صغار»، وفيه: «حُمْرٌ: لم تُكْسَ الريشَ بعدُ، إنما هو اللحم باديا» [@diwan-hutayah، ص208]."
+sources:
+  - source: "diwan-hutayah"
+    loc: "ص208"
+    url: "https://archive.org/details/Diwan_Hutai3a/page/n207/mode/1up"
+status: "review"

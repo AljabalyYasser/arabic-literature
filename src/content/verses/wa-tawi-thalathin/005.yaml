@@ -1,0 +1,14 @@
+explained: false
+first: "رَأَى شَبَحًا وَسْطَ الظَّلَامِ فَرَاعَهُ"
+second: "فَلَمَّا بَدَا ضَيْفًا تَصَوَّرَ وَاهْتَمَّا"
+vocabulary:
+  - term: "فَرَاعَهُ"
+    text: "في شرح المحقق: «أفزعه» [@diwan-hutayah، ص398]."
+sources:
+  - source: "diwan-hutayah"
+    loc: "ص396"
+    url: "https://archive.org/details/Diwan_Hutai3a/page/n395/mode/1up"
+  - source: "diwan-hutayah"
+    loc: "ص398"
+    url: "https://archive.org/details/Diwan_Hutai3a/page/n397/mode/1up"
+status: "review"

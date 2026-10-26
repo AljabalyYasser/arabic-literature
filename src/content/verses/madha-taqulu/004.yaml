@@ -1,0 +1,14 @@
+explained: false
+first: "لَمْ يُؤْثِرُوكَ بِهَا إِذْ قَدَّمُوكَ لَهَا"
+second: "لَكِنْ لِأَنْفُسِهِمْ كَانَتْ بِهَا الْأُثَرُ"
+vocabulary:
+  - term: "الْأُثَرُ"
+    text: "في هامش مخطوطة ابن السِّكِّيت: «الإِثَر واحدها الإثْرة، والجميع الإثَر والأُثَر لغتان: أى الخِيَرة والإيثار» [@diwan-hutayah، ص209]."
+sources:
+  - source: "diwan-hutayah"
+    loc: "ص208"
+    url: "https://archive.org/details/Diwan_Hutai3a/page/n207/mode/1up"
+  - source: "diwan-hutayah"
+    loc: "ص209"
+    url: "https://archive.org/details/Diwan_Hutai3a/page/n208/mode/1up"
+status: "review"

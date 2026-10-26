@@ -1,0 +1,16 @@
+explained: false
+first: "أَنْتَ الْأَمِينُ الَّذِي مِنْ بَعْدِ صَاحِبِهِ"
+second: "أَلْقَتْ إِلَيْكَ مَقَالِيدَ النُّهَى الْبَشَرُ"
+vocabulary:
+  - term: "صَاحِبِهِ"
+    text: "«عنَى بصاحبها أبا بكر» [@diwan-hutayah، ص209]."
+  - term: "مَقَالِيدَ"
+    text: "«وأصلها المفاتيح لا واحد لها من لفظها، الواحد إقليد» [@diwan-hutayah، ص209]."
+sources:
+  - source: "diwan-hutayah"
+    loc: "ص208"
+    url: "https://archive.org/details/Diwan_Hutai3a/page/n207/mode/1up"
+  - source: "diwan-hutayah"
+    loc: "ص209"
+    url: "https://archive.org/details/Diwan_Hutai3a/page/n208/mode/1up"
+status: "review"

@@ -1,0 +1,18 @@
+explained: false
+first: "يُقَطِّعُ سَيْرَ النَّاعِجَاتِ ذَمِيلُهَا"
+second: "نَجَاءً إِذَا اخْتُبَّ النَّجَاءُ الْمُعَوَّلُ"
+vocabulary:
+- term: "النَّاعِجَاتِ"
+  text: "«الإبل» [@diwan-kaab، ص58]."
+- term: "ذَمِيلُهَا"
+  text: "«سرعة السير» [@diwan-kaab، ص58]."
+- term: "الْمُعَوَّلُ"
+  text: "«هو المحمَّل» [@diwan-kaab، ص58]."
+sources:
+- source: "diwan-kaab"
+  loc: "ص57"
+  url: "https://archive.org/details/hmmt00206/page/n88/mode/1up"
+- source: "diwan-kaab"
+  loc: "ص58"
+  url: "https://archive.org/details/hmmt00206/page/n89/mode/1up"
+status: "review"

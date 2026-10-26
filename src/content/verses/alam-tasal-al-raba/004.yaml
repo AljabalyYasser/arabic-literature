@@ -1,0 +1,22 @@
+explained: false
+first: "دِيَارٌ لِشَعْثَاءِ الْفُؤَادِ وَتِرْبِهَا"
+second: "لَيَالِيَ تَحْتَلُّ الْمَرَاضَ فَتَغْلَمَا"
+vocabulary:
+  - term: "تِرْبِهَا"
+    text: "التي وُلدت معها: «والتِّرْبُ: اللِّدةُ والسِّنُّ» [@lisan، ج1 ص231]."
+  - term: "تَغْلَمَا"
+    text: "«تَغْلَمُ مَوْضِعٌ»، ويستشهد ابن منظور بالبيت [@lisan، ج12 ص66]."
+sources:
+  - source: "diwan-hassan"
+    loc: "ص34"
+    url: "https://archive.org/details/AAlexandrina-149414/page/n44/mode/1up"
+    note: "القصيدة 4 في الديوان."
+  - source: "lisan"
+    loc: "ج1 ص231"
+    url: "https://shamela.ws/book/1687/231"
+    note: "الترب."
+  - source: "lisan"
+    loc: "ج12 ص66"
+    url: "https://shamela.ws/book/1687/5982"
+    note: "تغلم، والبيت."
+status: "review"

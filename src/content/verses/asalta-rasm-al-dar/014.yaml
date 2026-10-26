@@ -1,0 +1,22 @@
+explained: false
+first: "يُسْقَوْنَ دِرْيَاقَ الرَّحِيقِ وَلَمْ تَكُنْ"
+second: "تُدْعَى وَلَائِدُهُمْ لِنَقْفِ الْحَنْظَلِ"
+vocabulary:
+  - term: "دِرْيَاقَ"
+    text: "«والدِّرْياقُ ... كُلُّهُ التِّرْياق، مُعَرَّبٌ» [@lisan، ج10 ص96]، أي الخمر الشافية."
+  - term: "وَلَائِدُهُمْ"
+    text: "«والوَليدةُ: الأَمَةُ» [@lisan، ج3 ص470]."
+sources:
+  - source: "diwan-hassan"
+    loc: "ص74"
+    url: "https://archive.org/details/AAlexandrina-149414/page/n84/mode/1up"
+    note: "القصيدة 13 في الديوان."
+  - source: "lisan"
+    loc: "ج10 ص96"
+    url: "https://shamela.ws/book/1687/4766"
+    note: "الدرياق."
+  - source: "lisan"
+    loc: "ج3 ص470"
+    url: "https://shamela.ws/book/1687/1912"
+    note: "الوليدة."
+status: "review"

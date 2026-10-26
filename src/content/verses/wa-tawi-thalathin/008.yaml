@@ -1,0 +1,18 @@
+explained: false
+first: "فَرَوَّى قَلِيلًا ثُمَّ أَحْجَمَ بُرْهَةً"
+second: "وَإِنْ هُوَ لَمْ يَذْبَحْ فَتَاهُ فَقَدْ هَمَّا"
+vocabulary:
+  - term: "فَرَوَّى"
+    text: "في شرح المحقق: «فكّر» [@diwan-hutayah، ص398]."
+  - term: "أَحْجَمَ"
+    text: "«امتنع» [@diwan-hutayah، ص398]."
+  - term: "هَمَّا"
+    text: "«كاد يذبحه» [@diwan-hutayah، ص398]."
+sources:
+  - source: "diwan-hutayah"
+    loc: "ص397"
+    url: "https://archive.org/details/Diwan_Hutai3a/page/n396/mode/1up"
+  - source: "diwan-hutayah"
+    loc: "ص398"
+    url: "https://archive.org/details/Diwan_Hutai3a/page/n397/mode/1up"
+status: "review"

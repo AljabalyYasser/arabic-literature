@@ -1,0 +1,20 @@
+explained: false
+first: "لِلصُّلْبِ مِنْ غَسَّانَ فَوْقَ جَرَاثِمٍ"
+second: "تَنْبُو خَوَالِدُهَا عَنِ الْمِنْقَارِ"
+vocabulary:
+- term: "الصُّلْبِ"
+  text: "«الجدّ الأعظم» [@diwan-kaab، ص32]."
+- term: "غَسَّانَ"
+  text: "«ماء نُسب إليه بنو عمرو بن عامر مُزَيْقِياء، وهم من الأزد» [@diwan-kaab، ص32–33]، ومنهم الأنصار."
+- term: "جَرَاثِمٍ"
+  text: "«أصول الشجر يجتمع إليها التراب فتكون أرفع مما حولها، ضربه مثلًا للعز والشرف» [@diwan-kaab، ص32]."
+- term: "تَنْبُو خَوَالِدُهَا عَنِ الْمِنْقَارِ"
+  text: "«يريد أن المعاول لا تحيك فيها» [@diwan-kaab، ص32]، أي جبالها الثابتة لا يؤثر فيها المنقار، وهو ما يُقطع به الحجر."
+sources:
+- source: "diwan-kaab"
+  loc: "ص32"
+  url: "https://archive.org/details/hmmt00206/page/n63/mode/1up"
+- source: "diwan-kaab"
+  loc: "ص33"
+  url: "https://archive.org/details/hmmt00206/page/n64/mode/1up"
+status: "review"
