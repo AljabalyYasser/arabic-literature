@@ -1,0 +1,16 @@
+kind: "bayt"
+title: "لنا الجفنات الغر يلمعن بالضحى"
+part: "2"
+order: 406
+person: "hassan"
+lines:
+  - first: "لَنَا الْجَفَنَاتُ الْغُرُّ يَلْمَعْنَ بِالضُّحَى"
+    second: "وَأَسْيَافُنَا يَقْطُرْنَ مِنْ نَجْدَةٍ دَمَا"
+meaning: "يفخر بقومه: لهم جفان بيض واسعة للضيوف تلمع في الضحى، وسيوف تقطر دمًا من النجدة. ويرويه ابن سَلّام [@ibn-sallam، ج1 ص219]، وهو البيت الذي يُروى أن النابغة نقده في عكاظ: «أنت شاعر، ولكنك أقللت جفانك وأسيافك» [@muwashshah، ص69–70]."
+chapter: "hassan/fi-al-jahiliyya"
+sources:
+  - source: "diwan-hassan"
+    loc: "ق4، ص35"
+    url: "https://archive.org/details/AAlexandrina-149414/page/n45/mode/1up"
+    note: "البيت 33 من القصيدة."
+status: "review"
