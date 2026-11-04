@@ -351,3 +351,18 @@ The «site» below means `src/content/`, where the book's facts must come from (
 ٧. **المولّدون (ص٤٠):** في الحاشية تعريف بهم من قبل. هل لم يظهر لكم، أم تريدون التعريف في المتن؟
 ٨. **عدد الصفحات:** أكثر الملاحظات تزيد النص (أبيات، أمثلة، قصص أوفى). هل يُسمح بأن يزيد عدد صفحات الكتاب، أم نحذف من مواضع
    أخرى بقدر ما نزيد؟
+
+## Owner's answers (2026-11-04)
+
+1. **p. 8:** the clause «ومعه تبقى» is padding, because what comes before it already says it. Cut that clause only.
+2. **p. 23:** ʿAbd Yaghuth's poem «ألا لا تلوماني» is to be given complete, as the site's text has it. The owner sent a
+   scan of its first eleven verses.
+3. **Vowels:** no full vowelling of prose. Vowel only a word that can be read two ways when the misreading changes the
+   meaning. The owner's examples were samples, not a list.
+4. **Mahmud Shakir:** add «جمهرة مقالات الأستاذ محمود محمد شاكر» to the register. His replies matter.
+5. **Length:** the book may grow to at most 500 pages. A story told in several versions is told in one version, and
+   the others get a short line, e.g. «وقد ورد في كذا برواية أخرى», without their details.
+6. **Sources:** add «الروض الأنف», «الاستيعاب» and «ميزان الاعتدال» to the register.
+
+Also decided by the lead under the rules: ناصر الدين الأسد gets his full name at first mention in each chapter;
+«عامَ وُلِدَ النبي» stays in the quotation and is vowelled; المولّدون are defined in the main text.

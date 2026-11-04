@@ -62,6 +62,21 @@ The Amiri fonts are copied from `node_modules/@fontsource/amiri`.
   - It is at most about 300 pages, so that it does not tire the reader.
 - **The mujun book**, also after all the eras (see «Owner decisions»).
 
+## Owner's notes on the draft (2026-11-04)
+
+The owner annotated the first 49 pages; the notes, the general rules drawn from them and his answers are in
+`research/audits/owner-notes-2026-11.md`, and they apply to the whole book. In short:
+- Vowel only words that can be misread in a way that changes the meaning; no full vowelling of prose.
+- Tell stories in order, with clear actors. A story with several versions is told in one; the others get one line.
+- Quote the verses the text talks about, and give the poem in full where the owner asks.
+- Every term or rule gets an example; key terms are defined in the main text.
+- Introduce people at first mention, scholars by full name.
+- A gloss defines the word.
+- Cut padding.
+- Name the items of a list first, then give an example for each.
+- At most 500 pages.
+- The wax seal is dropped; the compiler's name stays at the end of the introduction.
+
 ## Owner decisions
 
 - Page and type:
