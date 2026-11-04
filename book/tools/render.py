@@ -166,7 +166,7 @@ def chapter(path, era):
                           f'<span class="h">{inline(first)}</span><span class="sep">❊</span>'
                           f'<span class="h">{inline(second)}</span></div>')
         elif line.startswith('= '):
-            blocks.append(f'<div class="meaning"><span class="lbl">المعنى:</span> {inline(line[2:])}</div>')
+            blocks.append(f'<div class="meaning">{inline(line[2:])}</div>')  # بلا لافتة «المعنى» (صاحب المشروع 2026-11-04)
         elif line.startswith('+ '):
             name, rest = [x.strip() for x in line[2:].split('|', 1)]
             blocks.append(f'<p class="entry"><b>{inline(name)}</b> {inline(rest)}</p>')

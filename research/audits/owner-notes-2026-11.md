@@ -402,3 +402,26 @@ The «site» below means `src/content/`, where the book's facts must come from (
 
 Also decided by the lead under the rules: ناصر الدين الأسد gets his full name at first mention in each chapter;
 «عامَ وُلِدَ النبي» stays in the quotation and is vowelled; المولّدون are defined in the main text.
+
+## Second round (2026-11-04), on the revised topics
+
+1. **«البيت والقافية» is too hard.** Read three times and not understood. Explain القافية, الروي and الإقواء simply,
+   the way a teacher would, with the fewest terms: the sound that repeats at the end of every verse, the letter the
+   poem is named by, and what happens when its vowel changes. No definitions stacked on definitions.
+2. **حرب البسوس still gives every version.** Apply the one-version rule.
+3. **p. 20, «واختلفوا في قتل لقيط»:** one line is enough. **General:** a dispute of little use to the reader (who killed
+   a minor figure, and so on) is summarised in one line; full disputes are kept for questions that matter.
+4. **al-Kulab al-Thani:** «فبين» should be «بين».
+5. **p. 23, «وكان العبشمي أهوج»:** wrong. Introduce the young man who captured ʿAbd Yaghuth normally at first mention:
+   «أسره فتى من بني … اسمه …».
+6. **The label «المعنى:» is dropped across the book.** The explanation must read as an explanation without it:
+   «يقول هنا…»، «وفي البيت الثاني…». (render.py no longer prints the label.)
+7. **p. 27, «وفي البيتين صدى لبيتين لامرئ القيس»:** name the two verses, at least their first hemistichs. Never point to
+   verses without quoting them.
+8. **The hanging of the Muʿallaqat:** give the gist the reader needs, then the disagreements in a few lines, saying the
+   matter is conjecture, not certain. No long account.
+9. **The poets of the Muʿallaqat:** names only, with a line saying each is introduced in his own chapter. No
+   introductions that the book repeats later.
+10. **«الأسد» alone is an error** (pp. 47 and 55, and wherever else): write «ناصر الدين الأسد» every time.
+11. **The judgement of a single text:** the examples are good; put each example through its questions as a dialogue
+    with the reader («فما أقدم مصدر رواه؟ …»). Replace «ولكل سؤال مثال» with something like «ولنضرب أمثلة يتضح بها ذلك».

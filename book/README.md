@@ -75,6 +75,9 @@ The owner annotated the first 49 pages; the notes, the general rules drawn from 
 - Cut padding.
 - Name the items of a list first, then give an example for each.
 - At most 500 pages.
+- Second round: no «المعنى:» label; explanations read as such. Technical matters (prosody) explained simply. A dispute
+  of little use gets one line. Never point to verses without quoting them. No introductions the book repeats later:
+  refer forward. «ناصر الدين الأسد» in full every time, never «الأسد» alone.
 - The wax seal is dropped; the compiler's name stays at the end of the introduction.
 
 ## Owner decisions
