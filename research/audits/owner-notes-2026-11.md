@@ -489,3 +489,59 @@ alone, before → after (in the book the faces run on, so the real saving is the
   wording, not in site facts. Al-Afwah's meteor poem is still named, not quoted, here and in «صحة الشعر الجاهلي»: no
   approved source in the repo gives its verse. ʿAmr ibn Umama's «حتى قتل وقال» (al-Marzubani) is left bare, as the
   reading is not certain.
+
+## Part B: figures
+
+The 14 figures' chapters (FIGURES in `book/tools/build-all.sh`), under the general rules and the second round. In all
+of them: every `=` paragraph now opens as an explanation («يقول لابنه:»، «يسأل نفسه:»، «يفخر بثأره:»…); a story told in
+several versions keeps one, and the others get one line in our own wording; disputes of little use (variant readings
+of a word or verse, minor attributions, names) cut to a line; padding conclusions («فالروايات تتفق على جوهره…») cut;
+ambiguous words vowelled (e.g. «نُسِب»، «عُرِف»، «قُتِل»، «فقَتَلَ الغلامَ»، «تَرْوى»، «تُسمّى»، «حُمِلَ عليهما حَمْلٌ»،
+«المُحْدَثين»); «الأسد» alone → «ناصر الدين الأسد» (al-Shanfara ×3, Taʾabbata Sharran ×2). New quotations come from the
+site's verse files or the source page, cited.
+
+- **أوس بن حجر:** al-Hira incitement in Ibn Rashiq's version, Khizana in one clause; the Halima and Fadala poems now
+  quoted by their opening (site `laamruka-ma-mallat`, `ya-aynu-la-budda`); the «three foreign words» verse quoted
+  (Ibn Qutayba ج1 ص202); the «أودى» verse quoted; the meteor verse quoted (al-Hayawan ج6 ص461, site); the rain-poem
+  attribution and «إذا أنت لم تعرض» disputes shortened. 7 → 7 pp.
+- **المهلهل:** name dispute in two sentences; nickname quotes trimmed; the «أنكحها» attribution in one line; his death
+  told here in Abu al-Faraj's one version (ʿAmr ibn Malik, the oath, the bad water), Ibn Qutayba's in a line, and the
+  slaves' riddle referred to «أيام العرب» (which now tells only that); Imruʾ al-Qays's «كما بكى ابن خذام» quoted whole;
+  «لام الاستغاثة» explained on «يا لَبَكْرٍ». 7 → 7.
+- **أمية:** the Ibn Judʿan gift told in al-Zubayr's version with the two verses quoted («عطاؤك زين…», site
+  `ataauka-zaynun`), Ibn al-Kalbi in a line; reasons for refusing Islam and death reports in a line each; the rooster
+  and dove verses quoted (al-Hayawan ج4 ص355); «غذوتك» and «من لم يمت عبطة» attributions shortened; closing summary cut
+  to what is not said before. 8 → 7.
+- **عمرو بن كلثوم:** the Bakr–Taghlib hearing in Abu ʿAmr's version, the variants in one sentence, verse 18 quoted; the
+  killing of ʿAmr ibn Hind trimmed and verse 45 quoted; his captivity and death in Abu al-Faraj's version, Ibn
+  Qutayba's in a line; «سخينا» in one line; السناد explained simply. 19 → 18.
+- **الحارث بن حلزة:** «حلزة» in one line; the curtain in Ibn al-Kalbi's version, the four others in one sentence;
+  the improvisation variant in a line; the iqwaʾ of verse 37 explained as a teacher would (the rawi shown on verses
+  1–2, then «مَاءِ السَّمَاءِ»), the dispute shortened. 17 → 16.
+- **عبيد بن الأبرص:** dream story without the commentary; the plea verses' other setting in a line; Yawm al-Buʾs in
+  Ibn Qutayba's version, the king and proverbs in a line, Maydani's other origin cut; the meter (مخلع البسيط, «رمل»)
+  explained simply; minor reading notes (verses 4, 7, 20, 45) cut; التدوير defined; Imruʾ al-Qays's eagle verse quoted;
+  Lyall introduced (as in «صحة الشعر الجاهلي»); the «لا تبكني» attribution shortened. 12 → 11.
+- **علقمة:** Shaʾs in Ibn Qutayba's version, al-Mufaddal and Abu ʿUbayda in a line each; the Ghassanid king in one
+  clause; the Medina incident now quotes the opening hemistich; verse 26 and the Umm Jundab variants in a line; the
+  attribution of «ذهبت من الهجران» shortened. 7 → 7.
+- **عدي بن زيد:** al-Nuʿman's accession, the cause of the prison and the killer in one version each; Ibn Marina
+  introduced plainly; the Hind story and the sermon story trimmed; verse 21 dispute in a line; the zina verses now
+  quoted by a hemistich (Ibn Qutayba ج1 ص226). 8 → 7.
+- **بشر بن أبي خازم:** Aws ibn Haritha story in Ibn Qutayba's version, the two others in one sentence; the death-poem
+  dispute shortened; the iqwaʾ explained on «جُذَامُ» / «الشَّآمِي», who warned him in a line; riwaya notes cut. 7 → 6.
+- **دريد بن الصمة:** his escape at al-Liwa in Abu ʿUbayda's version, Ibn Qutayba's in a line; ʿAmra's elegy now quoted
+  (Sira ج2 ص454); the killer's name and «أعاذل إنما أفنى شبابي» in a line each. 6 → 5.
+- **الشنفرى:** name dispute in one sentence; the oath in Abu Hisham's version, the other two in a line; Haram ibn Jabir
+  introduced; his death in one version, the hundredth-man legend in a line; two side points in the Lamiyya dispute
+  cut; the Bajila raid reference now matches the one version kept in Taʾabbata Sharran. 8 → 7.
+- **تأبط شرًّا:** his father's name in a line; the nickname in one version (the vipers), the others in a line; the Abu
+  Kabir story in one version, the opposite one in a line; the Bajila raid in Abu Baraka's version, al-Mufaddal's in a
+  line; the ghoul and «إن بالشعب» attributions shortened. 7 → 7.
+- **عروة بن الورد:** the companions of the kanif and Salma each in one version, others in a line; the closing
+  attributions shortened. 7 → 7.
+- **حاتم:** the boy and the riders, the night of the horse and the Mawiyya suitors each in one version; the «أيا
+  ابنة عبد الله» and «أريني جوادًا» attributions shortened. 7 → 7.
+
+Total for the figures: 127 → 119 pages (each chapter built alone). No site files changed. Open: the mother's verses
+that urged Durayd to revenge are named but not quoted, because neither the site nor Ibn Qutayba (ج2 ص740) gives them.
