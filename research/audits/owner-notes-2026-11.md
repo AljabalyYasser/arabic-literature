@@ -408,23 +408,34 @@ Also decided by the lead under the rules: ناصر الدين الأسد gets hi
 1. **«البيت والقافية» is too hard.** Read three times and not understood. Explain القافية, الروي and الإقواء simply,
    the way a teacher would, with the fewest terms: the sound that repeats at the end of every verse, the letter the
    poem is named by, and what happens when its vowel changes. No definitions stacked on definitions.
+   - *Done:* `al-sahra.txt` «البيت والقافية» rewritten in three short paragraphs: the two halves (صدر، عجز); the sound that comes back at the end of every verse (القافية) and the letter the poem is named by (الرويّ, «دالية»); the vowel that changes in verse 21 (الإقواء). مصراع, the two-sakin definition, مطلق/مقيد and al-Marzuqi's «أسوديّ» are gone; the rival reading kept in one line. Site: `concepts/al-qafiya.md` now opens with the plain sense.
 2. **حرب البسوس still gives every version.** Apply the one-version rule.
+   - *Done:* `ayyam-al-arab.txt`: Kulayb's killing told once (Ibn ʿAbd Rabbih), the Aghani and Maydani versions in one line; Bujayr told once (al-Maydani), the Aghani in one line; the Hujr version of Qiḍa, Muhalhil's other deaths, and Ibn ʿAbd Rabbih's list of days each one line; the count of the dead cut to its point. Also one version for the Dahis bet, the Jabala advisor, Dhu Qar (Ibn al-Kalbi in one line) and the Qass variants in `al-nathr.txt`.
 3. **p. 20, «واختلفوا في قتل لقيط»:** one line is enough. **General:** a dispute of little use to the reader (who killed
    a minor figure, and so on) is summarised in one line; full disputes are kept for questions that matter.
+   - *Done:* one sentence: Shurayh b. al-Ahwas, «لا يشك العلماء» (Abu ʿUbayda); al-Mubarrad dropped; the Dakhtanus rajaz given one version with the Naqaid in one line. Same treatment for Waʿla's poem, the Ukaz dates and the etymology of ʿUkaz.
 4. **al-Kulab al-Thani:** «فبين» should be «بين».
+   - *Done:* the أما… فـ pair rewritten: «الأول «كُلاب رَبِيعة»… والثاني، وهو الذي نرويه هنا، كان بين تميم ومَذْحِج».
 5. **p. 23, «وكان العبشمي أهوج»:** wrong. Introduce the young man who captured ʿAbd Yaghuth normally at first mention:
    «أسره فتى من بني … اسمه …».
+   - *Done:* «أسره فتى نحيف من بني تَيْم، من الرِّباب، يقال له عِصْمة بن أُبَيْر» (العقد ج6 ص83–85, checked on Shamela), then al-Ahtam's wife, the sale to al-Nuʿman's kin, the tied tongue and the death, in order; the Naqaid version in one line; verse 12 and 13 explanations brought in line. Site: `chapters/1/ayyam-al-arab.mdx`.
 6. **The label «المعنى:» is dropped across the book.** The explanation must read as an explanation without it:
    «يقول هنا…»، «وفي البيت الثاني…». (render.py no longer prints the label.)
+   - *Done:* every `=` paragraph in the five chapters read; the five that did not read as explanations now open with «يقول…» or «تقول…» (al-Sahra vv. 6, 10; Ayyam: Jalila v. 16, the lazima, al-Aʿsha v. 21).
 7. **p. 27, «وفي البيتين صدى لبيتين لامرئ القيس»:** name the two verses, at least their first hemistichs. Never point to
    verses without quoting them.
+   - *Done:* both verses of Imru' al-Qays quoted in full (ديوان ص35). Also the seven Muʿallaqat openings now quoted in «مطالعها». Site: `texts/ala-la-talumani.md`.
 8. **The hanging of the Muʿallaqat:** give the gist the reader needs, then the disagreements in a few lines, saying the
    matter is conjecture, not certain. No long account.
+   - *Done:* «خبر تعليقها» cut from five paragraphs to three: Ibn ʿAbd Rabbih's report and Ibn Rashiq's other reading; al-Nahhas, Shawqi Dayf and Nasir al-Din al-Asad in a few lines; then «فالتعليق ظنّ لا يقين».
 9. **The poets of the Muʿallaqat:** names only, with a line saying each is introduced in his own chapter. No
    introductions that the book repeats later.
+   - *Done:* «أصحابها» is now the names only, with a line saying each has his own chapter (al-Aʿsha, al-Nabigha and ʿAbid included). Cross-references from the poets' chapters still hold.
 10. **«الأسد» alone is an error** (pp. 47 and 55, and wherever else): write «ناصر الدين الأسد» every time.
+   - *Done:* every «الأَسَد» in the five chapters, text and footnotes, is «ناصر الدين الأَسَد» (38 in `al-intihal.txt`); «ضيف» beside him made «شوقي ضيف».
 11. **The judgement of a single text:** the examples are good; put each example through its questions as a dialogue
     with the reader («فما أقدم مصدر رواه؟ …»). Replace «ولكل سؤال مثال» with something like «ولنضرب أمثلة يتضح بها ذلك».
+   - *Done:* «ولكل سؤال منها مثال» replaced by «ولنعرض على هذه الأسئلة خمسة نصوص مشهورة…»; each text now goes through its questions as questions and answers («فما أقدم مصدر يرويها؟ … وهل يرويها هذا الخبر للشنفرى بإسناد؟ لا…»).
 
 **Owner, 2026-11-04 (applies to every note):** the wordings in his notes are examples, not text to copy. Write each
 fix in the best wording you can. Paragraphs must connect smoothly: each one follows from the one before.
