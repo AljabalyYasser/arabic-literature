@@ -26,6 +26,10 @@ Apply every note in `book/src/al-sahra.txt`, `ayyam-al-arab.txt`, `al-muallaqat.
 
 Under each note in the log, write one line saying what was done.
 
+## Part A2: the second round → the five topic chapters
+
+Apply the 11 notes of «Second round» in the log to the same five chapters, and write «Done:» under each.
+
 ## Part B: the new rules across the rest of the book
 
 Do this after part A, in this order of chapters: the 8 formative poets, the 14 figures, then the 15 faces groups. Apply
@@ -40,6 +44,17 @@ the general rules:
 - lists named first;
 - **one version per story**: a story told in several versions keeps one, and the others get one line such as
   «وورد في كذا برواية أخرى».
+
+Also apply the second round («Second round» in the log):
+- **No «المعنى:» label.** The renderer no longer prints it, so every `=` paragraph must read as an explanation on its
+  own. Open it with «يقول…», «وفي البيت الثاني…», or the like, and keep it to a few words.
+- **Explain technical matters simply.** This covers prosody, rhetoric and grammar terms: say what each thing is with
+  the fewest terms, the way a teacher would.
+- **A dispute of little use gets one line.**
+- **Never point to verses without quoting them,** at least their first hemistich.
+- **No introductions the book repeats later.** Refer forward instead.
+- **People enter normally at first mention:** «أسره فتى من بني … اسمه …».
+- **«ناصر الدين الأسد» in full,** never «الأسد» alone.
 
 The book must stay under 500 pages; today it is 410. The one-version rule will free pages; spend them on the owner's
 additions.
