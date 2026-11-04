@@ -439,3 +439,53 @@ Also decided by the lead under the rules: ناصر الدين الأسد gets hi
 
 **Owner, 2026-11-04 (applies to every note):** the wordings in his notes are examples, not text to copy. Write each
 fix in the best wording you can. Paragraphs must connect smoothly: each one follows from the one before.
+
+## Part B: faces
+
+The general rules and the second round applied to the fifteen `book/src/group-*.txt`. Pages are each chapter built
+alone, before → after (in the book the faces run on, so the real saving is the ~4% of text cut, about 9 KB of 261 KB).
+`fn-sources-last.py` changed nothing in any chapter; all fifteen render and build.
+
+- **No «المعنى:» label.** Every `=` paragraph (66) now reads as an explanation on its own, naming the speaker and,
+  where it helps, the verse («يرى دُوَيْد قبره يُحفر…»، «يسخر طَرِيف ممن يتفرّسه…»، «ثم يقول في الخامس…»), in the
+  third person instead of a bare first-person paraphrase. Two `=` lines that explained no verse were rewritten
+  (hukama: the gloss on «صول» moved into the story; muammarun: verse 6 of al-Rabiʿ ibn Dabuʿ now gets its meaning
+  before the Sibawayh point). Where our paraphrase only repeated the critic quoted after it, ours was cut (ritha,
+  Aʿsha Bahila v. 25; wahida, Suwayd vv. 67 and 108; ritha, al-Khirniq).
+- **One version per story.** The main version is told, and each other one gets a single sentence in its own wording,
+  with its citation and no details: Bayhas (al-ʿAskari), Sinan's disappearance, Lujaym's verse, Abu Akhzam's
+  proverb (amthal); ʿAbd Yaghuth's ransom, ʿAmr ibn Umama's killer (asra); ʿUfayra (al-Tabari), Malik ibn Zayd Manat, al-ʿAnbar's bucket, Ibn
+  Mudad's verses (awail); Damra (al-Mufaddal), Umama's suitor (hukama); Zuhayr ibn Janab's death, ʿAbd al-Masih
+  (Sayf), ʿAmr ibn Qamiʾa (muammarun); al-Fand's nickname, al-Harith ibn Zalim's end, ʿAmir ibn al-Tufayl's wound,
+  Kaʿb's horse, Rayhana (Ishaq's version kept, as al-Baghdadi prefers it), Hani's speech (fursan); Qays ibn
+  al-Hudadiyya's death, Abu al-Tamahan's release (saalik); both Muraqqishes, al-Munakhkhal's end, Ibn al-ʿAjlan's
+  death, Khuzayma (ushshaq); Dakhtanus and «الصيف ضيعت اللبن», al-Muntashir's captive (ritha); Zayd ibn ʿAmr's death,
+  Malik ibn al-ʿAjlan (hunafa); Abu Duʾad's neighbour (khayl); the Samawʾal siege, ʿIrar, Hajib's king (karam).
+- **Disputes of little use cut to one line:** al-Khirniq's kinship to Tarafa and her husband's name, the size of
+  Kisra's army against Iyad, Khidash's era, the attributions of al-Harith ibn Waʿla's verses, Yazid ibn al-Khadhdhaq's
+  poem, Ghaylan's answer, Abu Hanbal's proverb, ʿAmr ibn Qamiʾa's verses (Zuhayr), Musafir's verse, Shimr and the
+  king he killed.
+- **No repetition of what the book now gives in full.** ʿAbd Yaghuth (asra): Part A gives the whole poem in «أيام
+  العرب», so verses 3 and 10 and their meaning are dropped here; the section refers back by the first hemistich and
+  keeps what is new, now told in order: Ruʾba's evening with the emir and «هذه إسلامية كلها» (العقد ج6 ص87; the
+  Ayyam chapter no longer has it, so the old «ومرّ في أيام العرب» was wrong). Jalila (ritha): verses 8–9 and their
+  meaning are in «أيام العرب» since note 9, so they are dropped here and referred to.
+- **Verses quoted, not pointed to:** ʿAbd Qays's verse 8 («واترك محل السوء لا تحلل به», site
+  `verses/a-jubaylu/008.yaml`); al-Kalhaba's sixth («أمرتكم أمري بمنعرج اللوى», as in the Durayd chapter);
+  Khidash's «منصفة» («فعانقنا الكماة وعانقونا»); al-Musayyab's camel verse behind «استنوق الجمل» (Ibn Qutayba ج1 ص181,
+  site `stories/istanwaqa-al-jamal.md`). Cut instead: Ibn Barri's verses of Aʿsur (unquoted, and pointing ahead to
+  the muammarun chapter) and Abu Qurduda's «other verses» on al-Mundhir's two companions (unquoted, and a link no
+  source makes). The Muraqqish/Muhalhil link now names the shared hemistich and cites العمدة ج1 ص308.
+- **Terms explained simply:** العَروض (the end of the first half-line, Ibn Qutayba on al-Rabiʿ's verse), القطع
+  (al-Khirniq), «كأنْ» (ʿIlbaʾ), the necessity behind «مئتين».
+- **People at first mention:** Hudhayfa ibn Badr (Qays ibn Zuhayr), al-Makshuh, Salaʾa (Aʿsha Bahila's captive),
+  Rabiʿa as the subject of «فخرّ ميتًا».
+- **Vowels** where a misreading changes the meaning: «قُتِلَ» (×3), «يُعرَف», «حُمِلَ/حُمِلَت», «سُمِّي/سُمِّيَت»,
+  «يُسَمّى» (×2), «نُسِبَت», «يُقتَل», «يُروى», «يَعرِف» (×2), «جُعِلَ», «تُعتِق», «رمى القومُ فرسَه», «يُسِرّ».
+- **«ناصر الدين الأسد»:** the faces already use the full name (one place, hira).
+- **Pages, before → after:** awail 4→4, hukama 7→7, muammarun 4→4, fursan 12→12, asra 4→3, saalik 3→3,
+  ushshaq 5→5, ritha 5→5, hira 5→5, hunafa 5→5, hudhayl 4→4, wahida 5→5, amthal 4→4, khayl 3→3, karam 3→3.
+- **Open.** The site's face pages (`src/content/people/*.md`) were not changed: most of these faults are in the book's
+  wording, not in site facts. Al-Afwah's meteor poem is still named, not quoted, here and in «صحة الشعر الجاهلي»: no
+  approved source in the repo gives its verse. ʿAmr ibn Umama's «حتى قتل وقال» (al-Marzubani) is left bare, as the
+  reading is not certain.
