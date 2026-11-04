@@ -1,5 +1,6 @@
 // التوقيع والختم الشمعي في آخر المقدمة: الاسم بخط الرقعة، وتحته ختم من الشمع الأحمر محفور فيه «ياسر».
 // node book/tools/gen-seal.mjs <name-font.woff2> <seal-font.woff2> <out.png> [seal text] [seal font size]
+// وبنص الختم «-» يُرسم الاسم وحده بلا ختم (قرار صاحب المشروع 2026-11-04: أُلغي الختم).
 // الخطوط من حزم fontsource (مثل @fontsource/aref-ruqaa)، والصورة تُحفظ في book/assets.
 import { createRequire } from 'node:module';
 import { execSync } from 'node:child_process';
@@ -36,7 +37,7 @@ html, body { margin: 0; background: transparent; }
 #w { width: 240px; padding: 4px 0; display: flex; flex-direction: column; align-items: center; }
 #n { font: 700 40px N; color: #2b1d12; direction: rtl; line-height: 1.5; margin-bottom: -2px; }
 </style><div id="w"><div id="n">ياسر أحمد</div>
-<svg width="220" height="220" viewBox="-110 -110 220 220">
+${sealText === '-' ? '' : `<svg width="220" height="220" viewBox="-110 -110 220 220">
 <defs>
   <radialGradient id="wax" cx="40%" cy="35%" r="75%">
     <stop offset="0" stop-color="#b8222d"/><stop offset=".6" stop-color="#951620"/><stop offset="1" stop-color="#5e0810"/>
@@ -84,14 +85,14 @@ html, body { margin: 0; background: transparent; }
   <circle r="57" fill="none" stroke="#931821" stroke-width="1.4"/>
   <text id="t" x="0" y="0" text-anchor="middle" direction="rtl" style="font: 400 ${sealSize}px S">${sealText}</text>
 </g>
-</svg></div>`;
+</svg>`}</div>`;
 
 const br = await pw.chromium.launch({ executablePath: '/opt/pw-browsers/chromium' });
 const p = await br.newPage({ deviceScaleFactor: 4 });
 await p.setContent(html);
 await p.evaluate(() => document.fonts.ready);
 // يوسَّط الاسم في الختم بحسب حدود حبره الفعلية (canvas)، لا بحسب مقاييس الخط
-await p.evaluate(([txt, size]) => {
+if (sealText !== '-') await p.evaluate(([txt, size]) => {
   const c = document.createElement('canvas').getContext('2d');
   c.font = `400 ${size}px S`; c.direction = 'rtl'; c.textAlign = 'center';
   const m = c.measureText(txt), t = document.getElementById('t');
