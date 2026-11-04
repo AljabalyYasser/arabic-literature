@@ -545,3 +545,53 @@ site's verse files or the source page, cited.
 
 Total for the figures: 127 → 119 pages (each chapter built alone). No site files changed. Open: the mother's verses
 that urged Durayd to revenge are named but not quoted, because neither the site nor Ibn Qutayba (ج2 ص740) gives them.
+
+## Part B: formative poets
+
+The general rules and the second round applied to the eight poets' chapters (`imru-al-qais`, `tarafa`, `zuhayr`,
+`al-nabigha`, `al-asha`, `antara`, `labid`, `al-khansa`). `fn-sources-last.py` changed nothing; all eight render and
+build. Pages, each chapter built alone, before → after: Imruʾ al-Qays 22 → 22, Tarafa 20 → 20, Zuhayr 19 → 18,
+al-Nabigha 19 → 19, al-Aʿsha 19 → 19, ʿAntara 24 → 24, Labid 25 → 25, al-Khansa 16 → 15 (164 → 162). No site files
+changed.
+
+- **No «المعنى:» label.** Every `=` paragraph that began with a bare paraphrase now opens as an explanation, in a few
+  words and in the third person («يقول لصاحبه: لا تبكِ…»، «يقول عن ملوك غسّان: صنعوا بي…»، «ثم يقول في البيت الحادي
+  والأربعين إنه حمل فقتل…»، «تسأل: أقذًى ألمّ بعينكِ…»): about 60 paragraphs, among them all the single verses from
+  the other poems.
+- **One version per story.** The main version is told; each other gets one sentence in its own wording, with its
+  citation and without its details. Imruʾ al-Qays: his father's death (the version Dayf prefers kept, Ibn Qutayba's
+  «اليوم خمر» version in one line with Dayf's reasons, which the ʿAbid chapter refers back to), his expulsion.
+  Tarafa: his death. Zuhayr: the two chiefs who paid the blood money, his regret over the hija of Banu ʿUlaym, the
+  poem that won back Yasar, ʿUmar's «شاعر الشعراء». al-Nabigha: the cause of his flight (al-Mutajarrida kept), the
+  poem slipped to the king, the king's illness, the iqwaʾ story, ʿUmar and the Ghatafan delegation, the tent at
+  ʿUkaz. al-Aʿsha: the nickname, Kisra and «لص», al-Muhallaq, his death, the forged verse. ʿAntara: «كرّ وأنت حرّ»
+  (and its retelling under verse 70 cut to a back-reference), his death, the first poem, al-Furuq. Labid: al-Rabiʿ,
+  his Islam, the Kufa reply, his death date and age, ʿUthman ibn Mazʿun. al-Khansa: Muʿawiya's raid, Sakhr's wife and
+  death, the sidar, ʿUmar, the siniyya. The «فالروايات تتفق… وتختلف…» sentences that summed up the dropped versions
+  went with them.
+- **Disputes of little use cut to one line:** who Shaddad was to ʿAntara, who killed Muʿawiya and Hashim, the subject
+  of «بنى» in Labid's verse 83, the variant of al-Aʿsha's verse 26 (al-Sirafi, Mabraman, Ibn al-Mustawfi), whom «يا
+  شاة ما قنص» means, al-Nabigha's nickname.
+- **Verses quoted where the text points to them:** Imruʾ al-Qays «كأني لم أركب جوادا» with its pair, the second verse
+  of «أرانا موضعين», «أبعد الحارث الملك ابن عمرو»; Zuhayr's two verses given to Khawwat and to ʿUmayr ibn al-Sammaʾ,
+  al-Zawzani's added wisdom verses; al-Nabigha's verse 16 of the ʿayniyya, the mimiyya, the verse given to
+  al-Hutayʾa, the forged nasib before the ʿUqur poem, the illness poem, «أتيتك عاريا»; al-Aʿsha «قد بتّ رائدها»
+  and «وقبلك ساعيت»; al-Khansa's two verses outside Thaʿlab's recension and verses 5 and 26 of «ألا ما لعينك».
+- **Technical matters said simply:** الجر بالمجاورة, الالتفات (defined at first use), the Hijazi and Tamimi exception
+  in «إلا أواريَّ», تقديم المحدَّث عنه («نحن… ندعو»), the «رُبّ» clause in al-Aʿsha's 33–35, the noun كاف in «كالطعن»,
+  «الفصل بين الصلة والموصول», الخرم, التتميم, the ترصيع pattern shown on «حمّال ألويةٍ هبّاط أوديةٍ شهّاد أنديةٍ»,
+  جموع القلة in Hassan's «الجفنات».
+- **People introduced at first mention:** al-Haytham ibn ʿAdi, ʿUmar ibn Shabba, Ibn Daʾb, Abu al-Yaqzan (akhbaris);
+  Yunus ibn Habib and Ruʾba; Khalid ibn Kulthum; al-Mundhir ibn Maʾ al-Samaʾ; ʿAmr ibn Qamiʾa; ʿAbd ʿAmr ibn Bishr
+  («أخته زوجةَ…», and «مازحَ الملكُ عبدَ عمرو»); Abu Jaʿfar Ahmad ibn ʿUbayd in Tarafa; al-Tirimmah; Saʿid ibn al-ʿAs;
+  al-Shaʿbi and al-Akhtal; al-Harith ibn Abi Shamir; Ishaq al-Mawsili; Mahmud al-Warraq; Louis Cheikho (d. 1927);
+  al-Baghdadi of the Khizana; Qays ibn Maʿdikarib; ʿAlqama ibn ʿUlatha; al-Mansur; Abu Baraʾ; al-Aghlab al-ʿIjli;
+  Ibn Sida; al-Tusi; Ibn Hajar; al-Waqidi.
+- **Vowels:** «فظلم أخوالُه أمَّه»، «يَقبَلُ منه»، «يُسمّي كُبَرَ قصائده»، «وُضِع لشدة الحرب»، «فيَقبَلُ قولَ»، «نُحِل»،
+  «زُيِّفت أخباره»، «وقَتَلَ دُرَيْدَ بنَ حَرْمَلة»، «أَسْرَ كلام»، «يُقبِل على نفسه».
+- **Padding cut:** al-Khansa's closing summary of her standing reduced to its conclusion; the restating sentences
+  after the dropped versions.
+- **Open:** Durayd's siniyya that al-Khansa answered is named but not quoted (no verse file); the verses al-Shaʿbi
+  recited for al-Nabigha before ʿAbd al-Malik are not identified; the three verses of Imruʾ al-Qays in Ibn Sallam's
+  «ينعى على نفسه» are not named in the sources at hand, so the sentence now says only that he cited verse 26; al-Aʿsha's
+  verses 39–40 against ʿAlqama stay unquoted, since they name the sexual organs.
