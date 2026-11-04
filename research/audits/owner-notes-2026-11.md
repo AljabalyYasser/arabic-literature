@@ -425,3 +425,6 @@ Also decided by the lead under the rules: ناصر الدين الأسد gets hi
 10. **«الأسد» alone is an error** (pp. 47 and 55, and wherever else): write «ناصر الدين الأسد» every time.
 11. **The judgement of a single text:** the examples are good; put each example through its questions as a dialogue
     with the reader («فما أقدم مصدر رواه؟ …»). Replace «ولكل سؤال مثال» with something like «ولنضرب أمثلة يتضح بها ذلك».
+
+**Owner, 2026-11-04 (applies to every note):** the wordings in his notes are examples, not text to copy. Write each
+fix in the best wording you can. Paragraphs must connect smoothly: each one follows from the one before.
