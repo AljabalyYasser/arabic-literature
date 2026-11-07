@@ -78,6 +78,10 @@ The owner annotated the first 49 pages; the notes, the general rules drawn from 
 - Second round: no «المعنى:» label; explanations read as such. Technical matters (prosody) explained simply. A dispute
   of little use gets one line. Never point to verses without quoting them. No introductions the book repeats later:
   refer forward. «ناصر الدين الأسد» in full every time, never «الأسد» alone.
+- Third round (the commentary style): the commentary reads with the reader, like a teacher: «ولاحظ…»، «وتأمّل…»،
+  feeling and image, plain modern words. No critics' names and no verbatim quotes inside the commentary: their
+  points in our words, the source in the footnote; names and short quotes only in dispute paragraphs. No invented
+  conclusions, no padding, the reason for every statement. No verse-number counting. A page never breaks a sentence.
 - The wax seal is dropped; the compiler's name stays at the end of the introduction.
 
 ## Owner decisions

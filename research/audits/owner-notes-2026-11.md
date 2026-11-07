@@ -595,3 +595,23 @@ changed.
   recited for al-Nabigha before ʿAbd al-Malik are not identified; the three verses of Imruʾ al-Qays in Ibn Sallam's
   «ينعى على نفسه» are not named in the sources at hand, so the sentence now says only that he cited verse 26; al-Aʿsha's
   verses 39–40 against ʿAlqama stay unquoted, since they name the sexual organs.
+
+## Third round (2026-11-07), on the new commentary of Imruʾ al-Qays's Muʿallaqa
+
+The owner's notes, on pages 6–10 of the chapter:
+1. A page ended mid-sentence with one word carried over. **Rule:** a page never breaks a sentence when a sentence end
+   lies in its last two lines (paginate.js).
+2. **No critics' names inside the commentary.** «كما يقول عبد القاهر»، «كما يقول أبو عبيدة»، «قال الأصمعي» break the
+   flow. Their points are put in our own words and the source goes to the footnote, for the reader who wants the
+   exact text. Names belong in the dispute paragraphs (verses 16–17 was praised).
+3. **No verbatim quotations in the flow.** Paraphrase, then refer.
+4. **Plain modern words.** «امّحى» is too archaic; «نسيم الصبا» becomes «ريح الصَّبا، وهي الريح الشرقية».
+5. **No mechanical images.** «فافصلي قلبي عن قلبك» reads like a switch. Write the sense as a person would say it.
+6. **No unsupported conclusions.** «كما ترك لها قلبه في البيت قبله» was invented.
+7. **No padding.** One explanation is enough; «رجع عن قوله الأول ونقضه» needs nothing after it.
+8. **Give the reason.** «سيتركها تمشي على قدميها» needs its why.
+9. **No odd figures of our own.** «جعلها شجرة» is wrong; say that he likened her love to fruit that is picked.
+10. Verse 22 was crowded with names and spoiled the flow; it is now plain.
+
+Done: the Muʿallaqa's commentary was rewritten under these rules (commit after this note), and paginate.js now breaks
+at sentence ends.

@@ -83,6 +83,20 @@
       const fewer = search(height(toks.slice(0, best)) - lh * 0.5);
       if (fewer > 0) best = fewer;
     }
+    // لا تنقطع الجملة عند آخر الصفحة (صاحب المشروع 2026-11-07): نقطع عند آخر جملة تامة في السطرين الأخيرين
+    const endsSentence = (i) => {
+      let j = i - 1; while (j >= 0 && /^\s+$/.test(toks[j])) j -= 1;
+      while (j >= 0 && /^<span class="footnote/.test(toks[j])) j -= 1;
+      return j >= 0 && /[.؟!؛:][»"')\]]*$/.test(toks[j].replace(/<[^>]*>/g, ''));
+    };
+    if (best < toks.length && !endsSentence(best)) {
+      const full = height(toks.slice(0, best));
+      for (let i = best - 1; i > 0; i -= 1) {
+        if (!/^\s+$/.test(toks[i]) || !endsSentence(i)) continue;
+        if (height(toks.slice(0, i)) >= full - lh * 2.2) best = i;
+        break;
+      }
+    }
     const head = fragment(el, toks.slice(0, best), cont);
     head.classList.add('split');
     body.appendChild(head); attachNotes(head);
